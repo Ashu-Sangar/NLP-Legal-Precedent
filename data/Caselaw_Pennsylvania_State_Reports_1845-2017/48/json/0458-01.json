@@ -1,0 +1,133 @@
+{
+  "id": 422278,
+  "name": "Maples versus Browne",
+  "name_abbreviation": "Maples v. Browne",
+  "decision_date": "1865-01-15",
+  "docket_number": "",
+  "first_page": "458",
+  "last_page": "463",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 458"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Binn. 469",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0469-01"
+      ]
+    },
+    {
+      "cite": "Rob. 366",
+      "category": "reporters:state",
+      "reporter": "Robards",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 27",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 445",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856518
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0445-01"
+      ]
+    },
+    {
+      "cite": "7 Wright 137",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wright 367",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "case_ids": [
+        626067
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wright/1/0375-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 27",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 687,
+    "char_count": 14324,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.3018620004486748
+    },
+    "sha256": "69114f687119cb4c831ba37d6d14004575188dc7a297cd9e3afeec2d11ff2ba8",
+    "simhash": "1:3743466fe8a4bee5",
+    "word_count": 2514
+  },
+  "last_updated": "2024-02-27T22:05:40.639131+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maples versus Browne."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the c.ourt was delivered, by\nWoodward, C. J.\n\u2014 We think the court erred in rejecting the evidence mentioned in the defendant\u2019s written offer. Had the evidence come up to the offer (and on this writ of error we are bound to presume that it would have done so), it would have become a question for the jury to decide whether the note in suit was not one of those which it was the evil habit of the defendant to leave in blank with John Browne, his clerk. Though direct proof of identity were wanting, the circumstances offered might, in the judgment of the jury, have furnished ground for a reasonable inference that would have been equivalent to direct proof. The confidential relations of the defendant and Browne, their habits of business, the pecuniary inability of the latter to become the owner of this note honestly,, the transfer of it to his son so long after it was due, and the failure, after notice, to prove a consideration paid for the note either by Browne or his son, \u2014 these facts, supposing them proved, would have justified a jury in finding that this note, like others, had been left with Brow'ne to be used in the defendant\u2019s business, but that the defendant\u2019s confidence had been abused in this instance, and the note in suit fraudulently misappropriated. We do not say that these would have been the necessary and inevitable conclusions from such evidence, but only that they might possibly and fairly have been deduced, and therefore the defendant was entitled to have his evidence passed upon by the jury.\nIt is not to be doubted that if the defendant had convinced the jury of what he alleged, he would have entitled himself to the verdict, for the plaintiff took the note over due, and therefore with all its imperfections on its head. The note fell due, according to its tenor, the 2d of May 1860, but was not assigned to the plaintiff until November 1st 1861. The endorsement in blank by John Browne proves nothing, since the note was found in his possession at the date of the assignment. Thomas, who wrote the assignment, swore that Edward Y. Browne was not present when it was written and signed, which shows that at date John Browne had not parted with the note; \u2014 that his possession was still exclusive. Now, if in the hands of an endorsee the blank endorsement would have imported a negotiation in due course of business, it could import nothing of the sort in the hands of the payee himself. Whether he endorsed it the day of the assignment or previously, his exclusive possession of the paper, unexplained, implied that he had not yet negotiated it. If not negotiated then, it was discredited paper, and the plaintiff took it subject to all the equities existing between the original parties. Such is the doctrine of innumerable cases, sufficient samples of which are referred to in the argument of counsel.\nBut more than this: if the plaintiff\u2019s father committed the grievous fraud alleged, the plaintiff was bound, after the notice he received, to show the consideration he paid for the note, even though it came to his hands before it was due: Beltzhover v. Blackstock, 3 Watts 27; Hutchinson v. Boggs & Kirk, 4 Casey 296. He alleged, in his declaration, that he had paid a good and valuable consideration, and he was duly required to prove it, and if, on the next trial, the defendant proves what he offered, the plaintiff will probably find it necessary to show himself a bond fide holder for a, valuable consideration, else the jury will be likely to consider him no better than the finder of a lost note. If Maples made the note to Browne for salary or other valuable consideration he should be held to payment, if made without consideration and the plaintiff shows himself a bond fide holder for valuable consideration, Maples should still be held to payment ; \u2014 but if the note was obtained and transferred, as alleged by the defendant, the plaintiff, no more than his father, can enforce its payment.\nThe judgment is reversed, and a venire facias de novo is awarded.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "C. Guillou, for plaintiff in error.",
+      "Earle & White, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Maples versus Browne.\nEvidence for defendant in suit by holder of overdue note, when fraud is alleged, and notice to prove consideration has been given.\nIn an action by the assignee or endorsed of an overdue note, against the maker, where notice has been given that proof of the consideration for the making and transfer will be required on the trial, evidence of any train of circumstances tending to show that the note was fraudulently put m circulation, is admissible, for the purpose of compelling the plaintiff to prove the consideration paid by him for it.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit, hy Edward Y. Browne, assignee of John Browne, against Joseph Maples. The plaintiff\u2019s declaration was on a note, dated October 28th 1859, by Joseph Maples, for $800, payable to the order of John Browne, six months after date, to which was added the common money counts.\nOn the back of the note was the following:\u2014\n\u201c John Browne. I do hereby assign and set over all my right and interest in the within note to Edward Y. Browne, for value received. \u201cJohn Browne.\u201d\n\u201cNovember 1st 1861.\u201d\nTo this the defendant pleaded non assumpsit, set-off, payment, with leave to give the special matter in evidence, and plaintiff replied non solvit and no set-off.\nThe defendant also gave notice to the plaintiff that he would be required, on the trial, to prove the consideration paid by him for the note, and the consideration for or upon which the said note was originally made or given by the defendant, and also produce each and every book-entry or document whatever in his possession, custody, or control, w'hich relates in any manner to the acquisition or origin of the said note and such considerations.\nAfter the plaintiff had given the note in evidence, and closed his case, th\u00e9 defendant\u2019s counsel requested that a nonsuit should be ordered, the narr. averring that \u201cthe said John Browne after-wards, to wit, on the first day of November, A. D. 1861, endorsed, assigned, and delivered, for a good and valuable consideration, the said note to the plaintiff in this case,\u201d &c., &c., which request \u25a0 the learned judge refused to grant.\nThe defendant then offered to prove, by Mary Maples, that John Browne (the payee) was, at the time, a clerk in the employ of the defendant; that his business often called him from home, sometimes to a considerable distance, and requiring an absence of some weeks; that he, &c., was in the habit, when about so to leave home, to sign his name to forms of promissory notes, having blanks left for the time of payment and the amount, payee, &c. That in this condition such forms of notes were left with John Browne, with authority to fill up the blanks, and negotiate such notes when so completed, in order to obtain funds to carry on defendant\u2019s business during his absence; that no memorandum or list was made of the notes so left to be filled up; that several such notes were given by defendant to John Browne in October 1859; that this note looks like one of them, but witness cannot say that it was one. To be followed by evidence that before and during October 1859, John Browne Avas utterly insolvent, and had no means nor property, and that judgments previously obtained against him still remain unsatisfied; that he then admitted and declared that he had no property or means; that notice in writing was served on the plaintiff on 13th March 1863, requiring him to prove the consideration which he paid for the note, and also the consideration upon which the note Avas given to John Browne.\nWhich offer the learned judge overruled, and rejected the testimony, sealing a bill of exceptions for defendant.\nElijah Thomas was then called by defendant, who testified as follows: \u2014 \u201c I wrote the body of this assignment of this note at my office, in the city. Edward Y. Browne was not present; I paid no money to Browne, nor did any one else pay any; the endorsement of John Browne was on the note before I wrote the assignment; Edward is John\u2019s son.\u201d\nThe rejected testimony and the notice above recited were again offered and excluded by the learned judge, who sealed a bill of exceptions for the defendant.\nThe defendant then closed, and by the direction of the court the jury found a verdict for the plaintiff for $992, amount of note with interest from maturity.\nThe defendant thereupon sued out this writ, and assigned for error the rejection of the testimony of Mary Maples, and the direction to the jury to find for the plaintiff.\nC. Guillou, for plaintiff in error.\n\u2014 I. The declaration avers that \u201c the said John Browne afterwards, to wit, on the first day of November, A. d. 1861, endorsed, assigned, and delivered for a good and valuable consideration, the said note to the plaintiff in this case,\u201d &c., &c.; whereas there was no evidence of any such \u201cgood and valuable consideration,\u201d and the plaintiff was not entitled to verdict.\nII. An inspection of the note shows that it presents no name of any endorsee, nor any mark or memorandum showing that it had been used either in or out of bank.\nThe fact that Edward Browne, son of the payee John Browne, received the note from his father after its maturity, is clear beyond all doubt.\nIt matured on 1st May 1860, and the transfer endorsed upon it bears date eighteen months afterwards, 1st November 1861; both endorsements were made in the presence of Mr. Thomas, that in the usual form being first made. The form in which the plaintiff has sued, describing himself as assignee, shows that he did not claim as an ordinary endorsee.\nThat nothing was paid for it at the transfer is also proved by Mr. Thomas.\nIs not Edward bound by any defence which Maples could set up against the payee ? The presumption that a note has been endorsed before maturity is of the weakest kind, and liable to be rebutted by the slightest circumstances of suspicion : Hill v. Kroft, 5 Casey 186. See also Smith v. Ewer, 10 Harris 116; Tinson v. Francis, 1 Camp. 19, and approved by Gibson, C. J., in 6 Barr 168, and by Mr. Justice Read, in 12 Casey 288; Snyder v. Leidy, 6 Barr 164; Albeitz v. Mellon, 1 Wright 367; Hutchinson v. Boggs, 4 Casey 294; Gray v. Kentucky Bank, 5 Id. 367. In Brower v. Hastings, 12 Id. 285, the whole law is reviewed in the opinion of his Honour, Mr. Justice Read: Hoffman v. Foster, 7 Wright 137; Wilson v. Mechanics\u2019 Savings Bank, 9 Id. 494; Jones to use of Parker v. Martin, 1 Harris 614.\nIf the evidence had been received, Edward Browne would certainly, under the notice given him, have been put to proof of the consideration paid by him for the note. The testimony offered was perhaps not conclusive, but it certainly afforded some evidence bearing upon the controversy. A spark of evidence is sufficient to go to the jury. The court cannot do otherwise than admit it, leaving its weight for the jury: Rotter v. Crissy, 6 Casey 149.\nThe very intimacy nf the confidential relations which had subsisted between master and clerk gave strength to the call upon the latter, to show how he, being without means or property, could have acquired the ownership of a note left with him, signed in blank, and never presented it for eighteen months after its maturity.\nThe policy of the law is to encourage the circulation of negotiable paper, and only interferes to require extraordinary proof from the plaintiff, in order to protect one who has been imposed upon in some way or other: Knight v. Pugh, 4 W. & S. 445. See also Beltzhoover v. Blackstock, 3 Watts 27 (adopting the law of Whitaker v. Edmunds, 1 Wood & Rob. 366); Holme v. Karsper, 5 Binn. 469.\nThe evidence offered at the trial would have cast strong suspicion upon the clerk\u2019s title to the note; this did not of itself conclude the cause, and deprive him of his claim, but simply put him to proof of his demand by showing something more than a piece of paper, confided to him eighteen months before by his \u25a0employer for a special purpose, in which it was not used.\nEarle & White, for defendant in error,\ninsisted that, stripped of surplusage, this was simply a suit of endorsee against maker, on a promissory note.\nThe words \u201cassignee of,\u201d &c., in the caption of the suit, are descriptive, and applicable to any endorsee of any promissory note.\nThe averment \u201cfor a good and valuable consideration,\u201d in the narr., is mere surplusage, and may be stricken out. No question of assignment or consideration was in issue upon the pleadings.\nThe evidence shows that, in November 1861, the note was in the hands of Edward Browne\u2019s counsel, having been previously endorsed over by John Browne, and that at that time an assignment was written upon the note, and signed by John Browne, which might be very important in a settlement between the two Brownes, but which could in no way affect Maples, and about the object of which, therefore, his counsel did not inquire.\nThere was no evidence to rebut the legal presumption that Edward Browne was a holder for value, but that point is deemed immaterial, as no defence was offered which could affect the note as between the original parties. Even conceding absolute verity to the statement of facts contained in the testimony offered and excluded by the court below, there is nothing to impeach the note in suit.\nIt was not pretended that any part of the note in suit was in Browne\u2019s handwriting, except the endorsement. Nor that there was any evidence that it was one of the notes said to have been handed to Browne in blank. Nor that all of said notes had not been used as intended, and fully accounted for by Browne. Nor that the note in question had not been given by Maples to Browne for salary due him.\nThe evidence excluded could only have tended to prove that Maples transacted his business in such a careless and imprudent manner, and with such entire confidence in Browne\u2019s honesty as to facilitate fraud, if intended. But fraud is never to be presumed, and the party setting it up must show something more than that he offered opportunity for its commission. The fact that confidence was reposed, raises no presumption that such confidence was misplaced or abused, and the maker of a promissory note cannot be allowed to impeach it merely by showing his own habitual negligence, without also showing that an unfair advantage was taken of it.\nJanuary 15th 1865,"
+  },
+  "file_name": "0458-01",
+  "first_page_order": 458,
+  "last_page_order": 463
+}

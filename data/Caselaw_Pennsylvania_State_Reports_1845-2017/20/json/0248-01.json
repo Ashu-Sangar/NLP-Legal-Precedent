@@ -1,0 +1,98 @@
+{
+  "id": 972315,
+  "name": "Hart versus Homiller",
+  "name_abbreviation": "Hart v. Homiller",
+  "decision_date": "1853-01-20",
+  "docket_number": "",
+  "first_page": "248",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Pa. 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Bin. 118",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0118-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 144",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0144-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. 99",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 578,
+    "char_count": 13723,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 1.7630014117897676e-07,
+      "percentile": 0.7103097516496135
+    },
+    "sha256": "5e13c66f48d9c552c7731d213f9a96074e927ef97180d63c235a3c861515cebc",
+    "simhash": "1:4163a7d27a5e900b",
+    "word_count": 2473
+  },
+  "last_updated": "2024-02-27T16:08:18.291907+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hart versus Homiller."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLowrie, J.\nHenry Homiller devised certain land to his son Samuel, charged with an annual rent to his widow during life, and subject to a valuation to be put on it and paid by Samuel after the widow\u2019s death. The amount of this valuation fell within the residuary estate, which was to be divided among his six children, of whom Samuel was one. A judgment having been obtained against Samuel, his interest was sold by the sheriff, in 1827, to Jacob Martin, who received a deed therefor, wherein the title is conveyed expressly subject to the foregoing charges. After that Samuel died; and afterwards the widow. Then, in 1845, the land was valued at $2250. Then, a judgment having been obtained against Jacob Martin, the land was sold upon it to James H. Hart, who received a sheriff\u2019s deed for it, subject expressly to the same charges.\n\u25a0 This action of ejectment is brought by the remaining residuary devisees and legatees of Henry Homiller, or some of them, to recover the land. They claim that the devise to Samuel was upon a condition that he never performed. But it is of no consequence as to the effective result, whether it was a condition or not, since equity would relieve Samuel, or his representatives, from a forfeiture on his performance of the condition by paying the money with interest from the date of the valuation. It is not, however, a condition, but a simple charge upon the land as for unpaid purchase-money, for which he or his successor in estate is bound to account to the executors for distribution among the residuary legatees. They collect it, not as a legacy, but as a part of the estate which they are bound to administer and distribute according to the terms of the will.\nBut it is argued, on the other side, that it is not a lien on the land in the hands of Hart. Why not ? He bought expressly subject to it, and his liability cannot honestly be evaded. Grant that the sheriff ought not to attempt to continue liens that ought to be discharged by the sale. Still, in this case he was not wrong in copying the title as he found it written; and' when a levy and sale is so made, and the deed delivered and accepted in pursuance of it, surely the law would be encouraging dishonesty by allowing the purchaser to take the whole title on performing but a part of the terms on which he bought it. No one can read these terms without seeing that he must have purchased under the expectation that he would have to pay this charge in addition to his bid.\nIf; is further urged that Hart, having bought all Samuel\u2019s interest, is entitled to his share in the residuary fund, or at least in this part of it. It is not so. He bought Samuel\u2019s interest in the land, and not in any part of the residuary estate charged upon it. This fund must go to the executors for administration, and they must settle their account of it in another forum, and not in a Common Pleas action or tribunal. Hart, by purchasing Samuel\u2019s land, acquired no right to any legacy belonging to him, and cannot intervene to claim it from the executors: 4 W. & Ser. 196. Samuel had a vested interest in the residuary estate, for which the executors must account to his representatives, unless it be lost by his fault.\nThe fact that Henry Homiller\u2019s executor filed an account, shortly before the sheriff\u2019s sale to Hart, showing a balance in his hands for distribution, which would seem to make Samuel\u2019s share of the estate exceed this charge upon his land, does not alter the case. The fact still remains that Hart bought the land subject to the valuation, and this cannot mean that he bought it discharged of the valuation.' He cannot be supposed to have understood that he might set up Samuel\u2019s share of the estate as a constructive payment of the charge; and .the fact that his bid was only $60 proves that he did not so understand it. Moreover, Martin had bought it subject to the charge, and he thereby undertook Samuel\u2019s duty of payment, and it was many years after Samuel\u2019s death that Hart bought Martin\u2019s interest. Now, if we treat Samuel\u2019s share of the residuary estate as constructive payment of the charge, we do it as a means of extinguishing a duty which it belonged to Martin to perform, and we do it to benefit one who has placed himself exactly in Martin\u2019s stead as to that duty. We should thus, by construction, and in relief of Hart, make Samuel\u2019s representatives to pay what Hart by his purchase has undertaken to pay.\nFrom what has been said, it will be seen that the learned judge who tried this cause took a proper view of the relations of the parties. But they have not selected the proper remedy to enforce this duty. It has so often been declared that the Orphans\u2019 Court is the proper tribunal to settle controversies of this kind, 5 State Rep. 240, 351, 8 Id. 26, 38, 9 Id. 302, that it ought to be understood. This form of action cannot be sustained in such a case; and the executors, not the legal heirs, are the proper plaintiffs.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Horn, for plaintiff in error.",
+      "Arundel and Wilkinson, for defendants in error.",
+      "Kennedy, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Hart versus Homiller.\n1. A testator devised to Iris son Samuel a lot of ground at a valuation to be made after the death of his widow, and the residue and remainder of his estate, which included this valuation, ho devised to his six children, of whom Samuel was one. On a judgment against Samuel, his title and interest in tho lot was sold at sheriff\u2019s sale, during the life of the widow, the property being described in the writ, and conveyed by the sheriff\u2019s deed to the purchaser, subject to the valuation to be made. After the death of the widow, and after valuation made, the lot was again sold on a judgment against the purchaser, for a sum much below the valuation, and was sold to the purchaser, for a small consideration, the same being described in the writ, and in the sheriff\u2019s deed, and conveyed as subject to the valuation, a notice being read at the sheriff\u2019s sale that it would be so sold:\nIt was held, in an ejectment against the purchaser, that it was not material whether or not the estate in Samuel was on condition or not, since equity would relieve on the payment of the amount due on it; but that it was not a condition, but a simple charge on land for the amount of the valuation and interest.\n2. Tho sheriff acted rightly in levying on and conveying the lot, subject to the encumbrance stated in the title, and on such a sale and deed, thus made, accepted, the purchaser at the second sale held the lot subject to the valuation and interest on it.\n3. The purchaser at sheriff\u2019s sale acquired only Samuel\u2019s interest in the lot, and not his share in the residuary estate, or in the amount of the valuation charged upon the lot; and such fund was receivable by the executors for distribution.\n4. Though the executor before the sheriff\u2019s sale to the defendant had filed an account stating a balance in his hands, from which it appeared that Samuel\u2019s share of the estate exceeded the charge upon the lot, this did not vary the case.\n5. An action of ejectment could not be sustained by the residuary legatees against the purchaser to recover the amount of the valuation and interest. The executors were the proper persons to recover the amount due.\nThis case, was brought up from tbe Nisi Prius.\nIt was an action of ejectment by children and heirs of Henry Homiller, deceased, for a lot of ground on the east side of Third Street, in the Northern Liberties, in the possession of P. W. Birmingham, defendant below, who was a tenant under James H. Hart. Hart claimed to hold possession as the sheriff\u2019s vendee of Jacob Martin, whose right, title, and interest in the premises in question had been purchased by the said Hart.\nIt yas conceded on the trial that Henry Homiller, at the time of his death, was the owner of the property, both parties claiming under him.\nThe plaintiffs proved that they were the children of the said Henry Homiller, and gave in evidence his last will, dated 1st September, 1821, and admitted to probate, 26th December, 1821, in the register\u2019s office of the city and county of Philadelphia.\nSamuel was a son of the testator; and the lot in question, devised to him in said will, was the subject of the ejectment.\nA portion of the will relating to Samuel was as follows:\u2014\n\u201c I give and bequeath unto my son Samuel the use of the store and back building, called the slaughter-house, and one cellar thereof, as now occupied, by him, during the life or widowhood of my said wife, he paying therefor unto my said wife, while she remains my widow, unmarried, yearly, the sum of fifty dollars for her life.\u201d He further directed, that after the decease or intermarriage of his said wife, whichever shall first happen, his lot of ground on Third street shall be divided into two lots, agreeably to a plan intended to be made thereof; and he devised to his son Samuel, his heirs and assigns, the store he then occupied, and the lot of ground back as far as the slaughter-house, at such a valuation as shall be made thereof by six respectable bricklayers and carpenters.\nBy the will, the rest, residue, and remainder of his estate, real and personal, not disposed-of, was, after the death or marriage'of his widow, devised by the testator to his six children, including Samuel, in proportions stated in the will.\nSamuel died about 1835; his mother died, unmarried, about 1845; and, after her death, the lot devised to Samuel was valued on 26th August, 1845, at $2250.\nJacob Martin was an executor of the will of Henry Homiller, and was living at the trial of this case. He had not been discharged.\nA judgment was obtained by Jacob Martin v. Samuel Homiller, the legatee, to December Term, 1824, on which a vend. exp. was issued to June Term, 1827, and the right, title, and interest of Samuel was sold to Jacob Martin, the plaintiff in the judgment,' for $100. The interest of Samuel was described in the writ and sheriff\u2019s deed as subject to the yearly rent of $50, and to the valuation to be made as directed by the will.\nOn 29th April, 1842, a judgment was obtained by\" Hart and others v. Jacob Martin, and the right, title, and interest of Martin in the lot was purchased at sheriff\u2019s sale by Hart, for $60. In the writ and in the sheriff\u2019s deed to Hart, acknowledged on 10th April, 1847, the property was described as subject 'to the yearly rent of $50 per annum, payable to Catharine Homiller, during her life or widowhood, and also subject to a valuation to be made of said building and lot, after the decease or marriage of the said Catharine Homiller, agreeably to the last will and testament of Henry Homiller, deceased, and it was conveyed under and subject to the aforesaid yearly rent, and to a valuation, &c.\nOn the part of the plaintiffs, a witness testified 'that he had leased the premises in question from Jacob Martin, as executor, and that Jacob told him, after the sheriff\u2019s sale to Jacob, that he had bought the property for the heirs of Henry Homiller.\nIt was further testified, that,' at the sheriff\u2019s sale of the premises, on the execution against Jacob Martin, a notice was read in the presence of Hart, in which it was stated, that the interest conveyed to Jacob Martin by the sheriff\u2019s deed, ceased on the death of the widow; and that the purchaser under the sale about to be made, would take the premises subject to the valuation of $2250, and also to the approval of the devisees and legatees claiming by virtue of the will. The notice was signed by one as attorney for legatees and devisees.\nThe Court charged, inter alia, that if the evidence was believed, Hart, the defendant, had full notice of the title of Martin, and bought subject to the valuation made in 1845.\nAs to whether the plaintiffs could maintain the ejectment, it was observed, that, on the part of the plaintiffs, the Court was requested to charge that Hart had but a possessory right, which was at an end before the ejectment was instituted, and that the plaintiffs were entitled to recover. That, on the other hand, it was contended that the will and sales vested in Hart an estate in fee.\nThe Court charged that this ejectment could be sustained in lieu of a bill in equity. That, inasmuch as the title of the defendants was at an end unless the money was paid, subject to which the lot was sold, either the plaintiff could recover or the estate could be recovered by the executor. But he instructed the jury that the ejectment could be sustained, and that if Hart bought with notice as to how Martin held the land, the plaintiffs were entitled to recover; the premises to be released in a reasonable time to be designated by the jury.\n\u2022 Verdict was rendered on 13th December, 1850, for the plaintiffs, the premises to be released on the payment by the defendant, within sixty days, of $2964.37, with interest from that date.\nTo the instruction error was assigned.\nHorn, for plaintiff in error.\nArundel and Wilkinson, for defendants in error.\nIt was contended that the largest interest that could be claimed for Samuel Homiller, if he were living, would be a remainder in fee, conditional after the expiration of the life estate of his mother, and which was defeated by his non-compliance with the conditions.\nThat the declaration of Jacob Martin, that he bought the property for the heirs of Henry Homiller, was evidence against Hart, the defendant in interest, in the action.\nIt was alleged that the cases in which it was decided that the Orphans\u2019 Court had exclusive jurisdiction, were not like the present case, in which, it was alleged, the possessory title was at an end: 2 W. & Ser. 88; 5 Ser. & R. 375; 1 Johns. 99; 10 Id. 30; 1 Term Rep. 690.\nThat the ejectment could be supported, reference was made to 7 Watts 144; 9 Id. 15; 6 Bin. 118.\nKennedy, in reply.\nJanuary 20, 1853,"
+  },
+  "file_name": "0248-01",
+  "first_page_order": 250,
+  "last_page_order": 254
+}

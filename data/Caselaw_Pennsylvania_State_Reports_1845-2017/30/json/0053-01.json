@@ -1,0 +1,112 @@
+{
+  "id": 415542,
+  "name": "City of Philadelphia versus Sutter",
+  "name_abbreviation": "City of Philadelphia v. Sutter",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "53",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 262",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477741
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0262-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 467",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856305
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "604"
+        },
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0467-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 262",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477741
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0262-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 427,
+    "char_count": 8018,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 1.0577530049620406e-07,
+      "percentile": 0.5557986199195397
+    },
+    "sha256": "bfd46b1e2fabe976096d77e809c713ec88cee7a3d6dd9625d610cb08984ff532",
+    "simhash": "1:9241ad21a31e2b04",
+    "word_count": 1453
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "City of Philadelphia versus Sutter."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\n\u2014 The city of Philadelphia complains of an order of the Court of Common Pleas, directing a municipal claim for paving, against Ann Sutter, owner or reputed owner, to be stricken from the record. For what particular reasons the order was made we are not informed. We have only to inquire whether the claim as filed was in accordance with the provisions of the Acts of Assembly. The lien of claims for paving was given by an act passed Feb. 3,1824, but that act did not make the claim a lien of record, and imposed no limits upon its duration. A subsequent statute, passed April 16, 1840, authorized claims to he filed in certain cases in the District Court, and in other cases in the Court of Common Pleas, and writs of scire facias to be issued thereon, as in cases of mechanics\u2019 liens. Still another Act of Assembly, passed April 19, 1843, prescribes what facts may be asserted or denied on the trial of the scire facias ; and the Act of April 16, 1845, limits the continuance of the lien to six months from the time when the work was done, unless a claim be filed within that period.\nIt is evident that the intention of the legislature in all these acts was to assimilate the security and collection of such municipal claims to those of mechanics and material .men. The whole proceeding is one of statutory creation, and the creditor.who seeks to avail himself of it must bring his case within the letter and intention of the statutes. In this instance the claimant has not done so in several particulars.\nThe time when the paving was done is not stated with sufficient certainty. It is simply averred to have been done \u201c within six months last past,\u201d that is, within six months from the filing of the claim. We have held this insufficient in the case of a mechanic\u2019s lien, and there is equal necessity for a precise statement of time in claims of this nature: 5 W. & S. 262. Without it how can the owner examine into the justice of the claim, or come to trial prepared to show that the work was not done, or if done, was chargeable to an opposite owner ?\nNor is there sufficient certainty in the description of the kind of paving, or the place where it is alleged to have been done. The Act of the 16th of April 1840, authorizes filing claims for two kinds of paving: for that of streets and alleys, and for that of footways. This claim as filed, does not state what was paved, whether it was Franklin street or Fisher street, nor whether it was a street or a footway. It answers as well for one as for the other. Suppose another had been filed on the same day, and in the same words, and a scire facias had been sued out on each, could the judgment in one have been pleaded against the other as a former recovery, or could it have been shown by parol that one was for the pavement and the other for the street ? Perhaps it might, but this should appear of record.\nThe sufficiency of this claim, however, has been argued from the provisions of the Act of Assembly of April 16,1840, \u00a7 10. That section requires that the claimants shall set forth in the claim filed the name of the owner or reputed owner of the premises against which their claims are filed, and as nearly as may be, an accurate description of the real estate against which the same is filed, and where the said real estate is situated; which claim shall be and remain a lien against the estate from the time when the debt was contracted, and until the same be fully paid and satisfied. The inference attempted to be drawn is, that because these things are required, nothing else is essential. The argument proves too much. If sound, then it is unnecessary to set forth either the amount of the claim, or that it was for paving, or when it was done, or even that it was done within six months. All this will not be pretended.\nUpon the whole our opinion is that these municipal claims require substantially the same precision which those of mechanics and material men require, and that the claim filed in this case is not in accordance with the spirit of the Acts of Assembly.\nOrder of the Court of Common Pleas affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Fallons and Serrill, for the plaintiff in error.",
+      "G. L. Dougherty, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "City of Philadelphia versus Sutter.\nMunicipal claims require substantially the same precision as those of mechanics and material men.\nA claim which does not state the nature and kind of the work done, or the place where, or the time when it was done, is defective; and should be stricken off, on motion.\nError to the Common Pleas of Philadelphia.\nThis was a scire facias on a municipal claim filed on the 15th of March 1855, by the city of Philadelphia, to the use of Edward Lynch, against Ann Sutter, owner or reputed owner.\nThe following is a copy of the claim filed:\u2014\nThe City of Philadelphia, to the use of Edward Lynch, v. Ann Sutter, owner or reputed owner.\nC. P. March 1855. M. L. D.\nThe city of Philadelphia, to the use aforesaid, file this, their claim, against all that certain lot or piece of ground, situate on the south side of Franklin street, between Eighth and Ninth streets, in the city aforesaid, at the distance of seventeen feet eastward from the east side of Ninth street, containing in front or breadth thirty-two feet, and extending in length or depth one hundred and thirteen feet, more or less, to Fisher street; for work done, to wit: paving within six months last past, in front of said premises, and amounting to the sum of fifty-three and four one-hundredth dollars, which, with interest thereon from December 10, 1854, and five per cent, for cost of collection, amounts to the sum of fifty-six and fifty-two one-hundredth dollars. And the city aforesaid, to the use aforesaid, claims to have a lien on said premises for the said sum of fifty-six and fifty-two one-hundredth dollars, for the said paving done by them as aforesaid, against the above described premises, of which the said Ann Sutter is the owner or reputed owner, agreeably to the several Acts of Assembly, in such case made and provided.\nOn the 31st of May 1856, on motion of the defendant\u2019s counsel, a rule was granted to strike the claim from the record. This rule was afterwards made absolute; the claim was stricken off; and the plaintiff here assigned the same for error.\nFallons and Serrill, for the plaintiff in error.\n\u2014 The Act of 16th April 1840, under which this claim was filed, provides that such claims \u201c shall set forth in the same the name of the owner or reputed owner of the premises against which their claims are filed, and as nearly as may be an accurate description of the real estate against which the same is filed, and where the said real estate is situate; which said claim shall be and remain a lien against the estate from the time when the debt was contracted and until the same be fully paid and satisfied:\" Brightly\u2019s Purd. 604. The claim here filed fully complies with all the requisitions of the act: Ewing v. Barras, 4 W. & S. 467. They also cited the Act of 20th February 1854: Brightly\u2019s Purd. 1086; Act of 16th April 1845, Ibid. 604; Act of 19th April 1848, Ibid. 605.\nG. L. Dougherty, for defendant in error.\n\u2014 This claim is defective, for the following reasons, viz.:\n1. Because the lot of ground, against which it is filed, having two fronts; the claim does not specify before which front the work was done.\n2. The claim does not state the name of the street which was paved; nor whether it was the cartway or sidewalk thereof, which was paved.\n3. The claim does not state, with sufficient certainty, when the work was done.\n4. The claim does not set forth the items of charge, \u2014 showing neither the kind of paving, the number of yards or feet paved, the price per yard or foot, or any data, from which the sum claimed may be estimated.\nThe Act 16th April 1840, assimilates the proceedings in cases of municipal claims to those of mechanics. Where one endeavours to fasten an encumbrance upon the land of his neighbour, the law requires an exact conformity with its provisions: Noll v. Swineford, 6 Barr 191; Lehman v. Thomas, 5 W. & S. 262."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 53,
+  "last_page_order": 56
+}

@@ -1,0 +1,91 @@
+{
+  "id": 967622,
+  "name": "Shinkle versus Crock",
+  "name_abbreviation": "Shinkle v. Crock",
+  "decision_date": "1852-01-05",
+  "docket_number": "",
+  "first_page": "159",
+  "last_page": "163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Pa. 159"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 489",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 497",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Yeates 346",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6773850
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/4/0346-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 532,
+    "char_count": 9892,
+    "ocr_confidence": 0.424,
+    "pagerank": {
+      "raw": 1.238513069729612e-07,
+      "percentile": 0.6073103103694463
+    },
+    "sha256": "21e3f052289a414769b518ba173a7857fddf22e2ad218d49bb5fb9074ff49173",
+    "simhash": "1:b5d30ec6580eadfc",
+    "word_count": 1770
+  },
+  "last_updated": "2024-02-27T16:05:10.368024+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shinkle versus Crock."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, J.\nOn the trial of an issue to decide upon the validity of an instrument purporting to be the last will of Susan Crock, and appearing to have been executed by attaching her mark instead of her signature, the court below permitted a witness, not present at the execution, to testify to his belief that the mark was genuine. The witness stated, as the foundation of his belief, that he was acquainted with her mark, and that it had certain peculiarities which distinguished it from others.\nIn admitting this evidence, it is probable that the court below was influenced by the decision of Lord Chief Justice Tindal, in George v. Surry, 1 Moody & Malkin 516. In that case an endorsement of a bill of exchange, made by means of a mark, was proved by a witness not present at the act, but who stated that he \u201c had frequently seen the endorser make her mark, and so sign instruments;\u201d and the witness, as in the case now before us, pointed out some peculiarity. But the weight of this decision is diminished by the considerations that it was made in the necessary haste of a trial at Nisi Prius; that the Lord Chief Justice did not admit the evidence without some hesitation ; and that no objection was made to the testimony, because the case was undefended.\nIn Engles et al. v. Bruington, 4 Yeates 346, which was the case of a will to which the testatrix had affixed her mark in the presence of two witnesses, one of whom was out of the state at the time of the trial, the court admitted evidence of the handwriting of the absent witness, but refused to go into evidence of the genuineness of the mark, declaring that \u201c to attempt to prove a mark to a will would be idle and ridiculous.\u201d\nWithout adopting the strong expression used by the court in the case last mentioned, we cannot doubt that the admission of such testimony would lead to great uncertainty, and open a door to fraud. It would be far more dangerous in the case of wills, than in other instruments, where living parties may have some means of counteracting its effect. The proof of handwriting, by witnesses not present at the execution of the instrument in dispute, stands upon no higher foundation than the opinion of the witnesses, founded upon a comparison of the writing in dispute, with other writings recollected by them and known to be genuine. That opinion is entitled to more or less weight, according to the opportunities which the witnesses may have had for forming a correct judgment. If they had seen the party write a great deal, and frequently, much credit would be due to their opinions. If, on the contrary, they had seen him write but his name, and that only in a single instance, but little regard should be paid to such testimony: 2 Star. N. P. 164, Powell v. Ford. If the witness had seen the party write only his surname, it was thought by Lord Ellenborough, that he could not be received to prove the signature ; but Lord Chief Justice Abbott entertained a different opinion, and permitted a witness who had seen the party write only his surname and the initials of his Christian name, to prove the signature: Lewis v. Saphio, 1 M & M. 39. In Smith v. Evans, 1 Wils. 313, the objection to the substitution of a seal for a signature to a will was placed upon the ground that it would lead to forgeries, inasmuch as a seal could not be proved like the handwriting of the testator: 2 Saunders Pl. & Ev. 1262.\nWe have gone far enough in receiving the bare belief of a witness, founded upon a comparison of the writing in dispute, with some specimen of which he may have but a faint recollection. Where a mark, on inspection, appears to have nothing in its construction to distinguish it from the ordinary marks used by illiterate persons to authenticate their contracts, it is not the subject of this description of evidence.\nIt has been decided that the Act of 27th Jan., 1848, can have no operation in cases where rights had vested, by the death of the alleged testator before its enactment: Greenough v. Greenough, 1 Jones 497. This decision was but a just affirmance of clear constitutional rights, and is founded upon a proper regard for the distribution of power established by the people in their fundamental law. The instrument before us can therefore derive no support from the retrospective provisions of the Act of 1848. It must stand or fall by the law which existed when the rights of the parties vested by the death of the alleged testator.\nBut we have no inclination, until constrained by the urgency of the case, to re-examine the question whether, according to the true construction of the Act of 8th April, 1833, a will may, in any case, be valid if executed by means of a mark instead of the signature of the party. It is sufficient for the decision of this case to say that the paper in dispute was not shown, by the competent number of witnesses, to have been executed in any form.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Olay, for plaintiffs in error.",
+      "Bradford and H. M. Phillips, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Shinkle versus Crock.\n1. Proof as to the genuineness of a mark to a will by a witness who was not present when it was made, but who judged only from its resemblance to other marks which he had seen the testatrix put to other instruments at different times, was not competent proof, by one witness, of the execution of the will; such proof was not admissible.\n2. The Act of 27th January, 1848, relating to last wills and testaments, validating the execution of wills by marks, is not applicable to the will of one who died before its enactment.\nEkror to the Common Fleas of Philadelphia county.\nThis was a feigned issue, in which George Crock and John Boot were plaintiffs, and John Shinkle and George Elfrey were defendants. It was directed to determine the validity of a paper purporting to be the last will of Susan Crock, late of Philadelphia county. The paper was made and dated on the 26th March, 1844; Mrs. Crock, the testatrix, died on the 8d November, 1847. Crock and Root were appointed executors. The will was executed by the testatrix by making a mark in front of the seal. It was witnessed by S. H. Slingluff and Michael Crock. The plaintiffs below were legatees under the will.\nOn the trial, in order to prove the due execution of the paper, \u2022the plaintiffs below called Samuel H. Slingluff, one of the subscribing witnesses, who testified: I am an alderman; I knew the decedent, Susan Crock; I drew this will and she signed it; she held the tip of the pen; I wrote her name; &c.\nThe other' subscribing witness, being a legatee under the will, and incompetent, the plaintiffs called George Root, who testified: \u201c I knew the testatrix; she was my grandmother; I had often paid her money, and know her mark; the mark at her name is her mark; I have no doubt of it.\u201d\nBeing cross-examined, the witness said: \u201c I knew her mark from other people\u2019s; she always made her mark with one stroke crooked; the crookedness of the stroke is the only way I know her mark; she often gave me receipts, and her mark was always made alike. There\u2019s another way I know her mark; it was always weighty\u2014 club-like; small at one end and weighty at the other. I am the son of John Root, one of the legatees in the will.\u201d\nThe counsel for the defendants below objected to the testimony of Root, and requested the court to charge the jury that he was not to be believed in testifying to a mark by comparison. The Court, however, charged as follows:\u2014\n\u201c Mr. Slingluff, one of the subscribing witnesses to the will, drew it, was present at its execution, and saw the testatrix sign, execute, and deliver it as her last will and testament. The other subscribing witness, Michael Crock, being a party in interest, could not' be examined. George Root, the other witness, in relation to whose testimony so much comment has been made, was therefore called by the plaintiffs to prove that the \u2018 mark\u2019 to the will was the \u2018 mark\u2019 -of his grandmother, the testatrix.\n\u201c If the testimony of these witnesses be credited the will is established. The testimony of one of them (Mr. Slingluff) has not been impugned in any manner, but you have heard considerable criticism on the testimony of the other (Mr. Root). The credit of the witness is entirely for you; but no jury ought to presume perjury, except for good and sufficient reasons. His credit for veracity has not been impeached by any testimony, nor has the fact stated by him been disproved in, any manner by other witnesses. Is there anything so incredible in his story that you cannot believe him ? If so, discard his testimony; but if there is not, credit him, and let the plaintiffs have your verdict.\u201d\nThe judge being further asked to charge that the will was void as signed by a mark, and that the Act of Assembly authenticating such signatures was unconstitutional so far as it related to wills taking effect before its passage, reserved the point for the decision of the Supreme Court; and this is the error assigned.\nThe jury found a verdict for the plaintiffs.\nIt was assigned for error:\n1. The judge erred in not charging that the Act of 27th January, 1848, was unconstitutional, so far as it proposes to give validity to wills executed and purporting to take effect prior to its enactment.\n2. The judge erred in not charging that the verdict of the jury should be rendered subject to the decision of the court upon the constitutional question above stated.\n3. The judge erred in admitting proof by comparison and recollection of the alleged mark of Susan Crock.\nThe case was argued by Olay, for plaintiffs in error.\nA mark by a party proposing a testamentary disposition is insufficient in any case: Asay v. Hoover, 5 Barr 33; Graybill v. Barr, id. 441; see also, Barr v. Graybill, 1 Harris 396. The Act of 1848 is not to have a retroactive effect: Greenough v. Greenough, 1 Jones 489; Long v. Zook, 1 Harris 400.\nBradford and H. M. Phillips, for defendants.\nJanuary 5, 1852,"
+  },
+  "file_name": "0159-01",
+  "first_page_order": 159,
+  "last_page_order": 163
+}

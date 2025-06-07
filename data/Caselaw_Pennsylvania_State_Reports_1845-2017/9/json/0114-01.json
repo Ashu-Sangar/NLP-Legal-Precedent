@@ -1,0 +1,114 @@
+{
+  "id": 960780,
+  "name": "Graff v. Bloomer",
+  "name_abbreviation": "Graff v. Bloomer",
+  "decision_date": "1848-09-11",
+  "docket_number": "",
+  "first_page": "114",
+  "last_page": "117",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Wend. 226",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Wh. 516",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Wend. 215",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017110
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/14/0215-01"
+      ]
+    },
+    {
+      "cite": "8 Cow. 223",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2037432
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/8/0223-01"
+      ]
+    },
+    {
+      "cite": "14 Wend. 226",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Wh. 516",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 503,
+    "char_count": 9150,
+    "ocr_confidence": 0.388,
+    "pagerank": {
+      "raw": 2.7946548444374286e-07,
+      "percentile": 0.8362846637004706
+    },
+    "sha256": "08de746b78794ba94b4ed53194a75e2e842594894002d7ed5e7a2d4ca31db9dd",
+    "simhash": "1:9ff3c0f4828769c9",
+    "word_count": 1570
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Graff v. Bloomer."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nThe defendants below are sued as common carriers, upon their extraordinary liability as insurers of the goods intrusted to them for transportation. These being destroyed by fire whilst in their possession, it is conceded they are liable to make good the loss, unless they had ceased to be common carriers at the time of the accident, by a delivery of the articles bailed to them at the place stipulated in their contract. The undertaking to transport goods to a particular place, necessarily includes the duty of delivering them there in safety, and hence it follows that where the responsibility of a common carrier has once begun, it continues until due delivery be made.\nIn this instance the defendants, by their agents, undertook to transport the goods of the plaintiffs by canal and railroad, and deliver them to themselves at their warehouse in Pittsburgh within eight days from Philadelphia, &c. Before making this contract the defendants, in consequence of the destruction of the aqueduct by which the canal was carried across the river Allegheny to the city of Pittsburgh, had temporarily abandoned the occupancy of their warehouse at the latter place, and, for some time, had deposited the goods of their customers in a warehouse erected by them in Allegheny City, on the bank of the river, opposite to Pittsburgh, a few hundred yards from the old place of deposit. Here the goods in question were destroyed whilst waiting for a steamboat by which to send them to the plaintiffs below, and consequently before any delivery to them. ^It is settled that if a carrier stipulates to deliver articles at a particular town or warehouse, and does so deliver them, he is exonerated from subsequent loss, though they never come to the possession of the consignee or owner) Thus, where the engagement was to carry certain goods from Stomport to Manchester, to be thence forwarded to Stockport by the first carrier going, and they were safely delivered at Manchester, and housed by the carrier in his own warehouse to await an opportunity to forward them to the place of their ultimate destination, it was held his duty as carrier was at an end, and he was therefore not liable to answer for the destruction of the goods in the warehouse by fire: Garside v. The Trent and Mersey Navigation Company, 4 T. Rep. 581. To the same effect is Ackley v. Kellog, 8 Cow. 223. In order to bring themselves within the saving efficacy of this rule, the defendants insist that, though not literally, they substantially fulfilled the engagement by the delivery at the warehouse in Allegheny, a place in the immediate vicinity of the warehouse in Pittsburgh, and, in fulfilment of their contract, to be considered as parcel of the latter city, being generally so considered and treated by persons residing at a distance. In support of this position, it is argued that the destruction of the aqueduct being of public notoriety, must have been known to the owner of the goods, or his agent, and he must, consequently, have been aware of the uselessness of carting the goods across the river to the deserted Warehouse, where they would have been more inconveniently situated in reference to further transportation to the plaintiff, in Illinois, than they were at the warehouse in Allegheny. But there is no proof that the plaintiff knew anything connected with the subject other than was disclosed by the contract itself; and the ready answer to the defendant\u2019s position is, that they undertook to deliver at Pittsburgh and not at Allegheny. It has been repeatedly ruled that delivery at a point or place in close proximity with the place stipulated, will not relieve the carrier from his responsibility as such. Mere propinquity of delivery is no delivery. The question, in this aspect, was presented in Hyde v. The Trent and Mersey Navigation Company, 5 T. Rep. 889, where it was held, by all the judges, that an engagement to deliver goods at-the plaintiff\u2019s house in Manchester, implied from charging the price of cartage from the defendants\u2019 warehouse in the same town to the plaintiff\u2019s house, was not discharged by a delivery at the warehouse in Manchester, and therefore the carriers Avere bound to make good a loss occasioned by fire at the latter place. In the course of his opinion, Grose, J., remarked: \u201cThe Hay which maizes carriers answerable as insurers is, indeed, a harsh law, but it is founded in wisdom and was established to prevent fraud. But it would be of little importance toidetermine that carriers were liable as insurers, unless they were bound to see that the goods Avere carried home to their place of destination, since as many frauds may be practised in the delivery as in the carriage of them.\u201d The same doctrine is asserted by our own case of Eagle v. White, 6 Wh. 516; and the case of De Mott v. Laraway, 14 Wend. 226, decided by the Supreme Court of New York, is illustrative of the stringency Avith which it has been insisted on. There the carrier had engaged to deliver, among other things, a hogshead of molasses at a certain warehouse on the banks of a canal. While hoisting it from his boat into the warehouse, and when within a short distance of the sill of the window where it was to be received, the tackle employed in the operation parted, and the hogshead being thus precipitated into the boat beloAY was staved, and the molasses lost. It Avas held the carrier AYas liable to make good the loss, for though on the ^ve of delivery, the molasses was not delivered at the place stipulated by the parties, and so the employment of the carrier subsisted at the time of the accident, though one of the owners of the molasses was present. These cases are conclusive of this, and as they are within the policy of the rule upon which they are based, we feel no hesitancy in adopting them. They are, too, founded in reason. Hoay can we tell whether the plaintiffs would have agreed to a delivery of their goods in a warehouse in Allegheny City ? There might have existed many reasons to deter them; and a decision binding them to it would be not to vindicate the contract entered into, but to make a new one. It is certain the defendants knew they were not in the actual occupancy of their Pittsburgh warehouse when they made this agreement. If from this, or any other cause, it was inconvenient or improper to deposite goods there, they should not have so undertaken. But having done so, they assumed every risk attendant upon their non-compliance, and it is not for us, upon the strained notion that distant places may, from their nearness, be regarded as one, to take from the plaintiffs the advantage the law affords them. Their reply to the defendants, that Allegheny is not Pittsburgh, is unanswerable, and fixes them for the value of the goods spoiled.\nOn the argument, something was faintly said of the destruction of the aqueduct having interposed an unavoidable delay of delivery, within the meaning of the contract. These words, as used, evidently refer to the time to be consumed in the carriage between Philadelphia and Pittsburgh. But the question is not of delay of delivery \u2014 it is a question of destruction in transitu, before delivery made, for which no legal excuse is tendered.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "McQlure and McOandless, for plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Graff v. Bloomer.\nA carrier, Laving agreed to deliver goods in Pittsburgh, is liable for a loss by fire \u2022which occurred after their arrival at his warehouse at Allegheny, to which he had removed some months before and occupied, as was the custom of the trade, until the aqueduct across the river to Pittsburgh was completed.\nIn error from the District Court of Allegheny.\nSept. 7. Case against defendants as carriers for the loss of goods. In April, 1845, the defendants receipted for the plaintiffs\u2019 goods in New York, directed to Galena, Illinois, which they promised \u201c to deliver in like good order to H. & P. Graff, on presenting this receipt, and payment of freight at our warehouse in Pittsburgh, within eight days from Philadelphia, unavoidable delays on railroad or canal excepted.\u201d\nWhen the goods arrived in Allegheny, they were deposited in a warehouse there, temporarily occupied by the defendants, whilst the new aqueduct across the river to Pittsburgh was being built. They, and all other companies concerned in this trade, had occupied warehouses in Allegheny-since the preceding September, and during this period the warehouse in Pittsburgh was disused, and no rent paid for it. One or two days after the goods arrived, the warehouse was burned, and the goods destroyed. There had been no opportunity for shipping the goods down the river after their arrival, until after the loss occurred.\nThe court reserved the points, whether on the evidence there was a sufficient delivery or excuse for non-delivery, and whether the same might properly be inferred from the evidence; and after-wards gave judgment for the plaintiff on those points.\nMcQlure and McOandless, for plaintiff in error.\n14 Wend. 215; 7 Cowen, 497; 8 Ib. 223; 4 T. Rep. 581; 5 Ib. 389.\nSlialer, for defendant in error.\nEagle v. White, 6 Wh. 516; In re Webb et al. 4 Eng. C. L. Rep. 163; De Mott v. Larue, 14 Wend. 226.\nSept. 11."
+  },
+  "file_name": "0114-01",
+  "first_page_order": 114,
+  "last_page_order": 117
+}

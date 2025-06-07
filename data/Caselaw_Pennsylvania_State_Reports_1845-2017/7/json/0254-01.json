@@ -1,0 +1,73 @@
+{
+  "id": 957933,
+  "name": "Paff v. Slack",
+  "name_abbreviation": "Paff v. Slack",
+  "decision_date": "1847-01-08",
+  "docket_number": "",
+  "first_page": "254",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 254"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts & Serg. 369",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 247,
+    "char_count": 3136,
+    "ocr_confidence": 0.396,
+    "pagerank": {
+      "raw": 6.079572127879695e-08,
+      "percentile": 0.37531087719785977
+    },
+    "sha256": "accd78c1afe45fbf05b63f3816f71bc295fed6f5fb742986e5226917419ffd2b",
+    "simhash": "1:fe6a28a151d47280",
+    "word_count": 560
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paff v. Slack."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\n:There is really but one question in this cause, and that is whether the justice had jurisdiction or not. It is very clear to my mind that the legislature intended, for the injury of which the plaintiff below complains, or the class of injuries to which it belongs, to give jurisdiction to a justice of the peace. The grievance was essentially domestic, and appurtenant to the immediate vicinage, and we may presume that it was designed to give those who suffered, a remedy as near at hand and convenient in its application as was afforded for other injuries of a like nature. By the act of 1825, it is provided that persons owning dogs in the county of Bucks, who do not shut them up at night, or keep them chained, shall be liable for whatever damages they commit in the destruction of sheep. Can such damages be recovered before a justice of the peace in trespass, or is the only remedy case, where the courts alone have jurisdiction? We think trespass will lie, and that, therefore, the justice had jurisdiction. The person who will not house or chain his dog, becomes consenting to the mischief wrhich they commit, and takes upon himself the risk of saying \u2014 Go at large; if you destroy sheep, I will pay for them. It is not like the doing some act, innocent in itself, from which the person could not reasonably infer that injury, or damages, would follow, and w'hich, when they did happen, were rather the result of accident or misadventure than design. The case of Dolph v. Ferris, 7 Watts & Serg. 369, will fully bear this case through. A bull went into the enclosure of a neighbour of his owner, and there gored a horse till he died. It was held that the action of trespass would lie, and that a justice had jurisdiction.\n. There is not the least error in what the court said as to the facts of the case.\nThe destruction of the plaintiff\u2019s sheep by the dogs of the defendant was fully made out; and the jury were satisfied that he had neither shut them up nor chained them. The court made such observations upon the testimony as they thought were warranted; but distinctly told them that they were the judges of the facts, and must determine for themselves.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Fox, for plaintiff in error,",
+      "Chapman, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Paff v. Slack.\nUnder the acts of Assembly rendering owners of dogs liable for injuries committed, by them to sheep trespass lies.\nIn error from the Common Pleas of Bucks.\nDee. 29. The dogs of the defendant entered upon the plaintiff\u2019s premises in the night-time and killed his sheep. The plaintiff brought his action before a justice for the injury. By an act of Assembly, applicable to that county, owners of dogs not keeping them housed or chained during the night are liable for the value of the sheep destroyed. The court (Krause, P. J.) left it to the jury to say whether the dogs had been housed or chained, and whether they killed the sheep. The error assigned was, that case being the remedy, the justice had.jurisdiction, and in the statement of the evidence by the court,\nFox, for plaintiff in error,\ncontended that case was the proper remedy.\nChapman, contra,\ncited Dolph v. Ferris, 7 .Watts & Serg. 369; 1 Stra. 635.\nJan. 8."
+  },
+  "file_name": "0254-01",
+  "first_page_order": 254,
+  "last_page_order": 255
+}

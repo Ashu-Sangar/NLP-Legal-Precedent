@@ -1,0 +1,85 @@
+{
+  "id": 960781,
+  "name": "Maynard v. Nekervis",
+  "name_abbreviation": "Maynard v. Nekervis",
+  "decision_date": "1848-08-04",
+  "docket_number": "",
+  "first_page": "81",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 81"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 W. & S. 190",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853545
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/2/0190-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 289",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 347,
+    "char_count": 5120,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 5.0011153170616546e-08,
+      "percentile": 0.31340977794458286
+    },
+    "sha256": "47f02b5d4bc22c1282ad2c09ce73d6d9df1c464dc80f896d8d49c39866351543",
+    "simhash": "1:aa938db47f8a1377",
+    "word_count": 905
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maynard v. Nekervis."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nSince Sweeny v. Allen, 1 Barr, 380, it is not to be doubted the evidence offered and rejected was pertinent, as, under the authority of that case, the plaintiff on the attachment-execution acquired a title to the debt in suit hostile to that of the plaintiff in the action, if the allegations of the defendant be true. But was Abrams a competent witness to prove them ? Two objections are urged against his admissibility. . Ferre, the other witness offered, shows him to be interested in the event of the suit; and second, that he is excluded by the rule that prohibits a party to a negotiable instrument from impeaching it, after it has, been negotiated.\nThe answer to the first objection is, that the proffered evidence, taken together, shows that the interest of the witness is balanced. If by force of his testimony, the right of the attaching creditor to appropriate the debt due from Mr. Maynard be established, the witness will remain liable, as prior endorser, to Nekervis, the holder of the note. If, on the other hand, the latter should succeed in recovering the amount of the note in this action against the drawer, the witness will continue answerable to the attaching creditors. He therefore stands indifferent between the parties, so far as interest is involved.\nThe second objection admits also of easy answer. It is, undoubtedly, well settled in Pennsylvania, that a party to a bill or note strictly negotiable, and which has actually been negotiated, cannot be admitted to impeach it, in the hands of a bond fide holder, by anything which attended its inception, or attached upon it before it left the hands of the original parties; as, for example, that the contract was usurious, or that the consideration failed. He may testify to facts which occurred subsequently to the negotiation of the instrument, affecting it in the hands of the holder, and tending to disprove his right to recover upon it: Parke v. Smith, 4 W. & S. 289; Appleton v. Donaldson, 3 Barr, 381; Gilpin v. Howell, 5 Barr, 52-3. In the present instance, the defendant does not propose to go even thus far. He does not ask to attack the note to its destruction, but simply to show that the ownership of it is in another than the plaintiff, in order to let in the claim of creditors who might otherwise be defeated of a remedy accorded to them by law. I know of no rule of evidence that prohibits this. In England, and in some of our sister states, the rule, originally declared in Walton v. Shelly, has been departed from. We have adhered to it, with some modifications; but it is not to be pressed beyond the limits heretofore assigned; and it is clear the present offer was not these.\nIt might, indeed, have been objected to the proposed evidence, that it was not admissible under the plea of non assumpsit, the only issue tendered by the defendant. Such an objection would have been a valid one; for it is not to be disputed that an attachment, laid in the hands of a defendant, must be pleaded specially, either in abatement or bar, according to the nature of the attachment or the progress made in the proceedings under it, at the time the plea is put in: Irvine v. Lumberman\u2019s Bank, 2 W. & S. 190. The attachment-execution, given by our statute, should, I think, be pleaded by a garnishee in bar; for the foundation of it is a judgment which concludes the rights of those who are parties to it, and nothing remains to be done as against the original defendant but to make it available.\nHad this exception been taken in this court, or in the Common Pleas, it could not have been answered except by pleading, and this could only have been in the court below. But it was not brought to view by the defendant \u2022 in error; and it was not our province gratuitously to lay hold on merely technical grounds to defeat an ascertained right, legal or equitable.\nIn the present instance, we pass by this objection the more readily, as it might have been remedied below, had it there been noticed. But neither party seems to have thought of it; and as it does not touch the merits of the contract, we do not feel ourselves called on to give it a fatal effect, especially as the defect may be amended before another trial.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Maynard, for plaintiff in error.",
+      "Bellas, contr\u00fc, contended that the witness was interested."
+    ],
+    "corrections": "",
+    "head_matter": "Maynard v. Nekervis.\nAn endorser of a negotiated note may prove that he has paid it, and that the present plaintiff and holder is but a trustee for Mm.\nAn attachment-execution must be pleaded specially, and, it seems, in bar.\nIn error from the Common Pleas of Lycoming.\nAug. 2. Assumpsit on a negotiable note drawn by Maynard. Plea, non assumpsit and payment. The note was drawn to the order of Abrams, and by him endorsed. The defendant showed that an attachment-execution, under a judgment against Abrams, had been served on him as garnishee; and then called Abrams to prove that he had, as endorser, paid the note to the former holder, and that the present plaintiff was a trustee for the witness. The evidence was rejected, and this was the error assigned.\nMaynard, for plaintiff in error.\nBellas, contr\u00fc, contended that the witness was interested.\nAug. 4."
+  },
+  "file_name": "0081-01",
+  "first_page_order": 81,
+  "last_page_order": 83
+}

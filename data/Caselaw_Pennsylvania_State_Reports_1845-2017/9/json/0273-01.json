@@ -1,0 +1,85 @@
+{
+  "id": 960790,
+  "name": "Evans v. Hastings",
+  "name_abbreviation": "Evans v. Hastings",
+  "decision_date": "1848-10-28",
+  "docket_number": "",
+  "first_page": "273",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 273"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Rawle, 126",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 W. & S. 90",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852564
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0090-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 130,
+    "char_count": 1287,
+    "ocr_confidence": 0.397,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03381239601227717
+    },
+    "sha256": "cf2ff7d291fa24f8576ec608c7367eca9ed83446c06d82ca3e75eda00a37af94",
+    "simhash": "1:9c6a86e61cf74133",
+    "word_count": 237
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Evans v. Hastings."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nAfter April, 1846, the defendant below was but a tenant at will: Overdeer v. Lewis, 1 W. & S. 90; Lesley v. Randolph, 4 Rawle, 126. In Bedford v. McIlherron, 2 S. & R. 50, it was ruled that when the lease is to expire at a particular time, the lessor may maintain ejectment without a notice to quit. The fact of the lessor having given a notice to quit, on the 1st of April, 1846, is a matter of no consequence whatever. He may have been instructed that the proper remedy did not lie in that direction, or he may have chosen to waive it and proceed by ejectment, which he had an undoubted right to do. The instruction of the court to the jury that the plaintiff could' not recover, was all wrong.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Archers, for plaintiff in error.",
+      "(xorclen, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "Evans v. Hastings.\nAt the expiration of a lease for a definite period, the lessor may bring ejectment: and it is immaterial that he has given a notice to quit in three months.\nIn error from tbe Common Pleas of Jefferson.\nTbe plaintiff demised land to tbe defendant until the 1st of April, 1846. On that day, plaintiff gave defendant notice to quit in three months, and brought this ejectment on the 27th of August.\nMcCalmont, P. J., told the jury he could not recover.\nArchers, for plaintiff in error.\n(xorclen, contrd.\nOct. 28."
+  },
+  "file_name": "0273-01",
+  "first_page_order": 273,
+  "last_page_order": 273
+}

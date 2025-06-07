@@ -1,0 +1,115 @@
+{
+  "id": 957855,
+  "name": "Frankenfield v. Gruver",
+  "name_abbreviation": "Frankenfield v. Gruver",
+  "decision_date": "1848-03",
+  "docket_number": "",
+  "first_page": "448",
+  "last_page": "448",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts & Serg. 319",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480087
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0319-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 349",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849982
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0349-01"
+      ]
+    },
+    {
+      "cite": "2 Serg. & Rawle, 493",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts & Serg. 107",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483407
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0107-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle, 182",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 183,
+    "char_count": 2174,
+    "ocr_confidence": 0.39,
+    "pagerank": {
+      "raw": 1.3690560074979902e-07,
+      "percentile": 0.6379178863323692
+    },
+    "sha256": "ded7d4b0e6fe0364033b7c728d4864d7bdd766feb60b5b6a5a8ba51823a99131",
+    "simhash": "1:c4aecb3ddc30c0a5",
+    "word_count": 390
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frankenfield v. Gruver."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nOn the death of an intestate without issue, the third section of the revised act of 1833 gives his personal estate to his father and mother, if living, jointly and absolutely; and this, like any other joint chose in action or chattel, survives to the surviving wife. Had the husband received the assets in this instance, he would have made them his own, and his wife could have claimed them only as his administratrix; but as he died a few days after the death of his son, she is entitled in her own right.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Dubois, for plaintiff in error.",
+      "Ross, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Frankenfield v. Gruver.\nThe personal estate of a son dying without issue, which passes to his father and mother absolutely, under the intestate law, like other dioses in action, survives to the mother, if not reduced into possession by the father.\nIn error from the Common Pleas of Bucks.\nMarch 27. Case stated. \u2014 Isaac Gruver died intestate, without wife or children, leaving a father, mother, brother, and sisters. His father died nine days after, and his widow administered with the will annexed. Isaac left personal estate, now in the hands of his administrator, and the question submitted was, whether Susan-nah Gruver, his mother, was entitled to the fund in her own right or as administratrix of the father of the intestate.\nThe court (Krause, P. J.) decided she was entitled in her own right.\nDubois, for plaintiff in error.\nBy the act of 1833, sec. 3, the estate vested in the father and mother absolutely. But the right of survivorship was destroyed by the act of 1812, which applies to personalty; Wintercast v. Smith, 4 Rawle, 182.\nRoss, contra.\nIt vests jointly, under the act, and the act of 1812 docs not extend to husband and wife. Like a bond to husband and wife, or any other chose in action, if not reduced into possession, or if no act of ownership be exercised equivalent thereto, the right always survives to the wife: 8 Watts & Serg. 107; 1 Roll. Abr., Bar. & Fem. B. 2; Norton v. Glover, Noy, 149; 2 P. Wms. 497; Com. Dig., Bar. & Fem. F. 1; Lodge v. Hamilton, 2 Serg. & Rawle, 493; 1 Barr, 177. It is like a devise or bequest to husband and wife, which was held to survive in 9 Watts, 349; 6 Watts & Serg. 319."
+  },
+  "file_name": "0448-01",
+  "first_page_order": 448,
+  "last_page_order": 448
+}

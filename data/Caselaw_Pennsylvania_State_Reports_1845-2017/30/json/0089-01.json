@@ -1,0 +1,521 @@
+{
+  "id": 415536,
+  "name": "Graham versus Pancoast",
+  "name_abbreviation": "Graham v. Pancoast",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "89",
+  "last_page": "99",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 89"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Wh. 374",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. 528",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 510",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/46/0510-01"
+      ]
+    },
+    {
+      "cite": "10 W. 387",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Wend. 460",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149093
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/16/0460-01"
+      ]
+    },
+    {
+      "cite": "2 Caines 120",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns. Ch. 484",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Ala. 662",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3040854
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/9/0662-01"
+      ]
+    },
+    {
+      "cite": "2 Ired. 365",
+      "category": "reporters:state",
+      "reporter": "Ired.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johns. Ch. 148",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1980797
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/5/0148-01"
+      ]
+    },
+    {
+      "cite": "2 Doug. 176",
+      "category": "reporters:state",
+      "reporter": "Doug.",
+      "case_ids": [
+        232238
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/doug/2/0176-01"
+      ]
+    },
+    {
+      "cite": "17 Verm. Rep. 542",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545949
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/17/0542-01"
+      ]
+    },
+    {
+      "cite": "2 Brock. 43",
+      "category": "reporters:federal",
+      "reporter": "Brock.",
+      "case_ids": [
+        6634057
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/23/0816-01"
+      ]
+    },
+    {
+      "cite": "2 Ired. Eq. Rep. 456",
+      "category": "reporters:state",
+      "reporter": "Ired. Eq.",
+      "case_ids": [
+        8682361
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/37/0458-01"
+      ]
+    },
+    {
+      "cite": "2 McCord 38",
+      "category": "reporters:state",
+      "reporter": "McCord",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 503",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 554",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852513
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0554-01"
+      ]
+    },
+    {
+      "cite": "13 Leg. Int. 124",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 62",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Md. Ch. 401",
+      "category": "reporters:state",
+      "reporter": "Md. Ch.",
+      "case_ids": [
+        1685039
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md-ch/2/0401-01"
+      ]
+    },
+    {
+      "cite": "4 Florida 359",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1133553
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/fla/4/0359-01"
+      ]
+    },
+    {
+      "cite": "4 McLean 19",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "case_ids": [
+        6110219
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/4/0219-02"
+      ]
+    },
+    {
+      "cite": "1 Md. Ch. 13",
+      "category": "reporters:state",
+      "reporter": "Md. Ch.",
+      "case_ids": [
+        1683882
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md-ch/1/0013-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. 370",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975558
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0370-01"
+      ]
+    },
+    {
+      "cite": "6 Leigh 185",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Johns. Ch. 222",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1982836
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/6/0222-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch. 23",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Whart. 374",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Binn. 129",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788971
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0129-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 408",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Verm. 626",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Dana 181",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        8518460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/35/0181-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 28",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Verm. 328",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Gill 98",
+      "category": "reporters:state",
+      "reporter": "Gill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Ala. 64",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8497393
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/12/0064-01"
+      ]
+    },
+    {
+      "cite": "2 Dev. & Bat. 241",
+      "category": "reporters:state",
+      "reporter": "Dev. & Bat.",
+      "case_ids": [
+        11275231
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/19/0241-01"
+      ]
+    },
+    {
+      "cite": "2 Root, 216",
+      "category": "reporters:state",
+      "reporter": "Root",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Blackf. 509",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "case_ids": [
+        1379196
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/blackf/5/0509-01"
+      ]
+    },
+    {
+      "cite": "1 Munf. 557",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        2094030
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/15/0220-01"
+      ]
+    },
+    {
+      "cite": "1 Desaus. 300",
+      "category": "reporters:state",
+      "reporter": "Des.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wheat. 103",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1428691
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/24/0103-01"
+      ]
+    },
+    {
+      "cite": "1 Swan 483",
+      "category": "reporters:state",
+      "reporter": "Swan",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Ch. 232",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1178069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/2/0232-01"
+      ]
+    },
+    {
+      "cite": "3 Cow. 537",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2157998
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/3/0537-01"
+      ]
+    },
+    {
+      "cite": "3 Desaus. 273",
+      "category": "reporters:state",
+      "reporter": "Des.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Paige 254",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2181705
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/paige-ch/6/0254-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 148",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840113
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0148-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1399,
+    "char_count": 26812,
+    "ocr_confidence": 0.454,
+    "pagerank": {
+      "raw": 4.771384813137285e-07,
+      "percentile": 0.9305320503241695
+    },
+    "sha256": "2e7d278c5c6d8b784a5723c20332a0dcd711361b4f7e8af0a0f14bc86646b160",
+    "simhash": "1:7fb22a025c0deeed",
+    "word_count": 4697
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Graham versus Pancoast."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\n\u2014 The power of a chancellor to decree the rescission of a contract and order its surrender, though undoubted, is one of the most delicate powers which he is ever called upon to exercise, and is never to be put forth except in a clear case. It is not sufficient to put him in motion that suspicion and distrust have been thrown over a transaction. In such a case he will move neither to rescind a contract, nor to decree its specific performance. There is a wide difference between the sufficient reasons for action in the one ease, and non-action in the other. A prayer for specific performance may be, and often is denied when there has been neither fraud, nor mistake, nor illegality in the contract. It is sometimes refused where the agreement is perfectly good and binding between the parties, where the price agreed to be paid by the purchaser is fully equal to the value of the property, and where not the slightest fault attaches to the party who asks for the interposition of the court: Henderson v. Hays, 2 Watts 148; and the cases there collected. Inadequacy of price, improvidence, surprise, and mere hardship, have each been held sufficient to stay the active interposition of a chancellor. Yet no one of these, nor all combined, furnishes an adequate reason for a judicial rescission of a contract. For such action something more is demanded \u2014 such as fraud, mistake, or illegality. In the present case, the bill of the complainant charges that the contract was obtained by fraudulent, representations from an old man physically and mentally imbecile, and that the price agreed to be paid for the property was grossly inadequate.\nIt may be observed that the false and fraudulent representations specifically charged in the bill, are but two; that the lots bargained to be sold were of the value of $5000 and no more, and that they were in danger of being sold for taxes. Neither of these alleged representations is supported by any evidence in the cause, and they are denied in the answer. Nor, if they had been proved, are they such representations, as, if false, are fraudulent. They are not such as could reasonably have been relied upon by Graham, and they constituted no material inducement to his entering into the contract. There is no relation of confidence between the vendor and vendee. In regard to the value of the lots and their liability to sale, both parties had equal means of information; and when that is the ease, a representation, though untrue, will not be considered fraudulent: Kintzing v. McElrath, 5 Barr 467. Moreover, a misrepresentation of value is but a statement of opinion, and is never relieved against when there is no fiduciary relation between the parties: Speiglemyer v. Crawford, 6 Paige 254; Adam\u2019s Equity 177.\nWe pass therefore to the allegations of John Graham\u2019s imbecility. A contract is sometimes declared fraudulent upon the ground that it has been obtained from a person incapable of apprehending its meaning. In one aspect it is so. Mere mental weakness, however, not amounting to inability to comprehend a contract, when unaccompanied by evidence of imposition or undue influence, furnishes no ground for equitable interference. We do not discover in this ease evidence which satisfactorily establishes the incompetency of John Graham to contract, nor proof of imposition or undue influence, superadded to mental weakness. There are strongly expressed opinions that he was incompetent; but an opinion is of little value, unless supported by the facts which have given it birth. There are facts proved which indicate great physical and a considerable degree of mental weakness; but not amounting to proof of absolute incompetency. Nothing more is needed to disprove the allegation of entire incompetency than the reasons which John Graham gave for his refusal to execute the contract, when called upon about two weeks after it was made. He then declared that he was not satisfied with it, that his children were not, that he had not been down to see the property for two years, and that he was incapable of making a contract. He then comprehended the effect of what he had done, and also-the only mode in which he could be relieved from its consequences. Entertaining these views of the proofs in this case, we feel constrained to deny the prayer of the complainants that the contract, dated January 31st, 1854, signed and sealed by John Graham, be delivered up and cancelled.\nYet, while of opinion that a case has not been made out justifying a decree for the rescission and cancellation of this contract, we are equally satisfied that sufficient has been shown to constitute an insuperable obstacle in the way of any decree by any court for its specific performance. The circumstances surrounding the whole transaction, the extreme old age of the contracting party, the suddenness with which the proposition to buy was presented to him, the brief period taken for consideration, his ignorance of the quantity of land which he was about to sell, coupled with very considerable proof of mental weakness and great inadequacy of price, present abundantly adequate reasons for withholding equitable aid to the consummation of the contract.\nIt is true, we are not now asked to decree its specific performance. The bill however does seek to enforce a redelivery of the deeds and muniments of title which the defendants obtained from John Graham, with a view to having the contract specifically executed. If such execution cannot be enforced, as we have seen, then the possession of the deeds is useless to the defendants, and withholding them is a wrong to the complainants. To redress such a wrong, there is no adequate remedy at law; and to right it is peculiarly within the province of a court of equity. We shall therefore decree the return and surrender of the title deeds, according to the prayer of the complainants\u2019 bill.\nThis cause came on to be heard at this term, and was argued by counsel; and thereupon, after consideration thereof, it is ordered, adjudged, and decreed, that the decree entered in the same at NisiPrius, be reversed; and it is further ordered and decreed that the defendants deliver up and return to the complainants the six deeds and writings relating to the said lots of ground, marked exhibits M, N, O, P, Q, and R; and also papers, marked exhibits S, T, and W. And as to the other relief sought by the complainants\u2019 bill, the same is denied. And the court do not see fit to award the costs to either party.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Bell, G. L. Ashmead, Hood, and A. L. Smith, for the complainants.",
+      "Sheppard and Myers, for the defendants. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Graham versus Pancoast.\nA court of equity will not decree the rescission of an executed contract, except on proof of fraud or mistake.\nInadequacy, improvidence, surprise, and hardship, are not sufficient; although they will induce a chancellor to refuse a specific performance.\nMisrepresentation as to value is not ground for rescission; and is never relieved against when there is no fiduciary relation between the parties.\nMere mental weakness not amounting to inability to comprehend a contract, when unaccompanied by evidence of imposition or undue influence, furnishes no ground for equitable interference.\nWhere a contract is surrounded by such circumstances of suspicion, as to induce a court of equity to refuse a specific performance, a re-delivery of the muniments of title, possession of which has been obtained under such contract, will be decreed.\nAppeal in Equity from the Court of Nisi Prius.\nThis was a suit in equity by John Graham and others, the children and grandchildren, devisees of John Graham, deceased, against Stephen Pancoast, Seth Pancoast, and Elizabeth S. Pan-coast, for the rescission and cancellation of an article of agreement for the sale of certain real estate, in West Philadelphia, to Elizabeth S. Paneoast, one of the defendants, alleged to have been obtained from the decedent, on the 31st January 1854, by fraud, misrepresentation, and undue influence; and also for the redelivery of certain title deeds, and other writings, relating to the property, obtained by the defendants, at the same time, and by the same means.\nFrom the evidence reported by the examiner, it appeared that John Graham, the decedent, on the 31st January 1854, was the owner of a piece of ground on the north side of Market street, in West Philadelphia, estimated by the witnesses to be worth from $10,000 to $15,000. He was then between 87 and 88 years of age, extremely feeble, and resided in the family of his son-in-law, Isaac Bittle, a day labourer, in Coopertown, in Delaware county.\nOn that day, Dr. Seth Pancoast and his father, Stephen Pan-coast, called on the decedent, at Bittle\u2019s residence, no one being present but a granddaughter, Jane Bittle, and offered to purchase the property on a ground-rent of $5000, the purchaser to pay for the water pipes. They urged him to close the matter at once, as they had another property in view, and on his assenting to it, Dr. Pancoast drew up the following article of agreement for the sale of the property to his sister, Elizabeth S. Pancoast:\u2014\n\u201c Sold this thirty-first day of January, eighteen hundred and fifty-four, to Elizabeth S. Pancoast, of the district of Spring Garden, county of Philadelphia, all that ground, with improvements, situated on the north side of Market street, in the borough of West Philadelphia, the property of John Graham, of Haverford township and the county of Delaware, for the sum of five thousand dollars on ground-rent, the rent to be paid semi-annually; the water pipes to be paid for by the purchaser. In order to close the bargain, twenty-five dollars is hereby paid in the presence of witnesses.\nJohn Graham. [Seal.]\nWitnesses. \u2014 Isaac Bittle, Jane Bittle.\u201d\nThis agreement was signed by Graham, and the $25 paid to him. It was subsequently witnessed by Isaac Bittle and his daughter, and the defendants obtained the title deeds for the property.\nOn the 9th February 1854, N. B. Browne, Esq., the counsel of John Graham and his children sent a written notice to Dr. Pancoast, that Graham, from extreme age and physical and mental weakness, was utterly unfit to manage his own affairs, of which the very inadequacy of the price proposed to he given \u2014 about one-fourth of the actual value \u2014 was sufficient evidence; and, therefore, no conveyance of the property would be executed; and the return of the title deeds was requested.\nSoon after the receipt of this notice the defendants proceeded to Ooopertown, taking with them a justice of the peace, and required John Graham to execute a deed for the property. He refused to execute, alleging that his children were not satisfied, that the price was inadequate, and that he himself was not capable of attending to business. He also asked if they had received the $25 which he had sent back to them.\nA great deal of evidence was given as to the mental and physical capacity of John Graham, the result of which is stated in the opinion of the court; but there was no evidence of the misrepresentations charged in the bill. The court below dismissed the bill without prejudice; and this appeal was taken by the complainants.\nBell, G. L. Ashmead, Hood, and A. L. Smith, for the complainants.\n\u2014 The doctrine may be laid down generally that the acts and contracts of persons who are of weak understanding, and who are thereby liable to imposition, will be held void in a court of equity, if the nature of the act or contract justify the conclusion that the party has not exercised a deliberate judgment, but that he has been imposed upon, circumvented, or overcome by cunning artifice, or undue influence: Story\u2019s Eq. \u00a7 238; Fonblanque Eq. B. 1, ch. 2, \u00a7 3, note r; Adams Eq. 183; White v. Small, 2 Cas. Ch. 103; Wright v. Booth, Toth. 101; Clarkson v. Hanway, 2 P. Wms. 203; Osmond v. Fitzroy, 3 P. Wms. 130; Portington v. Eglington, 2 Vern. 189; Bennet v. Wade, 2 Atk. 324; Griffith v. Robins, 3 Madd. 191; Bunch\u2019s Adm. v. Hurst\u2019s Adm., 3 Desaus. 273; Whelan v. Whelan, 3 Cow. 537.\nWhere the mind is worn out \u201c by years, epilepsy, or habitual intoxication,\u201d the party requires that the protection of the Court of Chancery should be thrown around him: In the matter of Baker, 2 Johns. Ch. 232.\nBut it requires a far less degree of weakness than that to induce a court of equity to relieve where the weakness, such as it is, is coupled with other circumstances, to show that the party has been taken advantage of: Blackwood v. Christian, 1 Knapp 77; Craddock v. Cabiness, 1 Swan 483; Harding v. Handy, 11 Wheat. 103.\nIn equity fraud may be presumed, and in this respect the rule differs from the rule of law where it must be proved. In many cases it is not to be considered as a single fact, but as a conclusion to be drawn from all the circumstances of the case. It may be presumed from circumstances of imposition, or from great inadequacy of price, or from the circumstance or condition of the parties contracting, and this, although the answer deny all fraud: Chesterfield v. Janssen, 2 Ves. 155; Denton v. McKensie, 1 Desaus. 300; Brogden v. Walker, 2 Har. & Johns. 292. Thus, where one takes advantage of the distress, pecuniary or otherwise, of another to get a hard and unconscionable bargain, equity will relieve: Sugden Vend. 262; Fonblanque Eq. 68; Gwynne v. Heaton, 1 Bro. Ch. 1; Gould v. Okeden, 4 Bro. P. Cas. 198; Griffith v. Spratley, 1 Cox 383; Wiseman v. Beake, 2 Vern. 121; Zouch v. Swaine, 1 Vern. 320; Underhill v. Horwood, 10 Ves. 218; Pickett v. Loggon, 14 Ves. 215; Hough v. Hunt, 2 Ham. 495; Wormack v. Rogers, 9 Georgia 60; Story\u2019s Eq. \u00a7 239.\nSo conveyances obtained from persons. uninformed of their rights, or ignorant, will be set aside, although there is no actual fraud or imposition: Meade v. Webb, 1 Bro. P. Cas. 308; Evans v. Llewellin, 2 Bro. Ch. 150. Pven where the grantor advises with friends, they being in equal ignorance with himself: Murray v. Palmer, 2 Sch. & Lef. 474; and also where the vendee is in equal ignorance with the vendor: Reynell v. Sprye, 8 Hare 222.\nCases of surprise or sudden action are referred to the head of fraud: Story's Eq. \u00a7 120, note, \u00a7 251; Evans v. Llewellin and Meade v. Webb, before referred to.\nMere concealment on the part of the vendee, together with great inadequacy, is a fraud: 1 Sugden Vend. 260 ; and although the purchaser is not bound to give the grantor information as to value, yet if a single word be dropped tending to mislead the grantor, it is sufficient to affect the application of the principle, and the sale will be set aside: Turner v. Harvey, 1 Jac. 178; see also Wall v. Stubbs, 1 Madd. 80; Cadman v. Horner, 18 Ves. 10.\nBut the basis upon which fraud is presumed, is gross inequality in the contract, or gross inadequacy of consideration: Gartside v. Isherwood, 1 Bro. Ch. 561; George v. Richardson, Gilmer 230; Davidson v. Little, 10 Harris 251; Whitehorn v. Hines, 1 Munf. 557; Darley v. Singleton, Wight. 25; Underhill v. Horwood, 10 Ves. 209; and it has been said in many cases, though never acted on, that where the inadequacy is very great, and such as to shock the conscience, equity will relieve, without any other element of fraud: Stillwell v. Wilkins, Jac. 282.\nThe answer of the defendant denying all fraud is not conclusive, and the court gives relief on strong counter testimony, or \u201c on the great intrinsic evidence of gross inadequacy, coupled with other circumstances, such as weakness or necessity in the seller, confidence reposed in the buyer, &c.,\u201d Id.; McCormick v. Malin, 5 Blackf. 509; The East India Co. v. Bond, 9 Ves. Jr. 275.\nWhat degree of inadequacy is necessary to raise the presumption of fraud in such eases, is not in our law the subject of any definite rule. In thfe civil law, if the price was less than half the value, the contract was held to be vicious,, and was rescinded, though made in good faith: Cod. L. 4, tit. 44, 1, 2. In the English law the cases are numerous in which equity has not only rescinded contracts, but has set aside conveyances, where the inadequacy, varying from half the value down to cases of voluntary contracts or conveyances, was coupled with some degree of mental weakness on the part of the grantor, whether arising from old age, intemperance, sickness, or other cause, or with circumstances of suspicion, undue influence, or advantage taken: Adams Eq. 183, (and eases cited in note to the last ed.) Jeremy's Eq. 487; Story's Eq. \u00a7 244, 246; Knott v. Johnson, 2 Vern. 27; Filmer v. Gott, 4 Bro. Parl. Cas. 230; Heathcote v. Paignon, 2 Bro. Ch. 167; Twistleton v. Griffith, 1 P. Wms. 310; Crowe v. Ballard, 1 Ves. Jr. 215; Whipple v. McClure, 2 Root, 216; Buffalow v. Buffalow, 2 Dev. & Bat. 241; McCormick v. Malin, 5 Blackf. 509; Rumph v. Abercrombie, 12 Ala. 64; Brooke v. Berry, 2 Gill 98; Tacy v. Sacket, 1 Ohio R. N. S. 54; Howard v. Edgell, 17 Verm. 328; Harding v. Handy, 11 Wheat. 103; Hall v. Perkins, 3 Wend. 28; Holden v. Crawford, 1 Aiken 390; Crane v. Conklin, Saxton, 357; Cruise v. Cristopher, 5 Dana 181; Mann v. Betterly, 21 Verm. 626; Beard v. Campbell, 5 Marshall 125.\nHeirs at law and devisees are entitled to the custody and possession of the title deeds of their estates, and may obtain a decree for the specific delivery of them: Story Eq. \u00a7 703. Therefore, if this contract be rescinded on the ground of fraud, the complainants will be entitled of course to the specific delivery of the title deeds; but they are entitled on another and distinct ground, viz: That this is a contract which has been, and is repudiated and can never be specifically enforced.\nEquity will only enforce a contract where it is strictly equitable to do so, and the contract is fair in all its parts, and above all suspicion: 2 Powell on Contracts 221, 227. Hard, unreasonable, or unconscionable bargains, though made by persons of ordinary understanding, will not be enforced: Story Eq. \u00a7 750, 751; Adams Eq. 77, 84, 85.\nIf there is unfairness, as if a party contracts to purchase from another apparently for himself, but in reality for a third person, and thereby gains some advantage, equity will withhold its assistance : O\u2019Herlihy v. Hedges, 1 Sch. & Lef. 123; Phillips v. Duke of Bucks, 1 Vern. 227, 229. So if the price is inadequate, equity will be vigilant in discovering an excuse for refusing to enforce the contract: 1 Sugden Vend. 204, 261; O\u2019Rourke v. Percival, 2 Ball & Beat. 58. So generally where there is anything inequitable in the contract, or in obtaining it: Parker v. Whitby, Turn. & Russ. 366; Pennock v. Freeman, 1 Watts 408; Campbell v. Spencer, 2 Binn. 129; Delamater\u2019s Estate, 1 Whart. 374; Yard v. Patton, 1 Harris, 283.\nGreat Inadequacy. of price, viz: from one-half to two-thirds below the real value, is of itself sufficient to prevent a Court of Equity from decreeing a specific performance, even where the contract is deliberately entered into: Day v. Newman, 2 Cox Ch. 77; 1 Sugden Vend. 204, 257; Young v. Clerk, Prec. Ch. 538; Vaughan v. Thomas, 1 Bro. Ch. 556; Osgood v. Franklin, 2 Johns. Ch. 23; Seymour v. Delaney, 6 Johns. Ch. 222; Davidson v. Little, 10 Harris 251; Underwood v. Hitchcox, 1 Ves. Sr. 279; Savage v. Taylor, Forrester, 294.\nThere is no mutuality in this alleged contract in the present case. It is signed by John Graham, only. Elizabeth S. Pancoast was not even present, and inasmuch as John Graham afterwards repudiated it, it could never have been enforced against him, even if it had been in other respects a fair and equitable contract. He only became liable in damages for the breach, if he became liable at all: 2 Powell on Contracts 221, 233; Bromley v. Jefferies, 2 Vern. 415; Armiger v. Clarke, Bunb. 111; Lawrenson v. Butler, 1 Sch. & Lef. 13; Noel v. Hoy, cited in 1 Sugd. on Vend. 208; Moore v. Randolph, 6 Leigh 185; McMurtrie v. Bennett, Harring. Ch. 124; Hawley v. Sheldon, Id. 420; Hutcheson v. McNutt, 1 Ham. 14; Benedict v. Lynch, 1 Johns. Ch. 370; Ohio v. Baum, 6 Ham. 383; Tyson v. Watts, 1 Md. Ch. 13, and Geiger v. Green, cited in the last case; Bronson v. Cahill, 4 McLean 19; Southern Life Ins. Company v. Cole, 4 Florida 359; Duvall v. Myers, 2 Md. Ch. 401; Pugh v. Good, 3 W. & S. 62; Patten v. Develin, 13 Leg. Int. 124; Wilson v. Clarke, 1 W. & S. 554; Flight v. Bolland, 4 Russ. 298; Bodine v. Glading, 9 Harris 50; Roseburgh v. Sterling, 3 Casey 292; Parrish v. Koons, 1 Pars. 91.\nThe only difficulty on this point seems referable to the dicta of Judge Bell, in the case of McFarson\u2019s Appeal, 1 Jones 503. That case, however, differs from the present in several particulars; Moore v. Small, 7 Harris 461.\nSheppard and Myers, for the defendants. \u2014\n1. The complainant\u2019s bill charges actual, positive fraud and misrepresentation. This must be proved by them, and cannot be presumed. All the allegations of the answer, which are responsive to the bill, shall be taken as true, unless they are disproved by two witnesses, or by one witness with corroborating circumstances: 2 Dan. Ch. 983, and notes. It is equally a rule in courts of law and courts of equity that fraud is not to be presumed \u2014 it must be established by proofs; and it is now an established doctrine of courts of equity, that when a bill sets up a case of actual fraud, the plaintiff is not entitled to a decree by establishing some one or more of the facts quite independent of the fraud: Brightly\u2019s Eq. 57, and cases there cited; Thomas v. Sheppard, 2 McCord 38; Smith v. Beatty, 2 Ired. Eq. Rep. 456; 1 Mad. Ch. Rep. 280. The onus probandi is on the plaintiffs to show the alleged misrepresentation and concealment, and without such proof adduced by them the court will not interpose its authority to set aside the contract: Teakle v. Bailey, 2 Brock. 43; Day v. Seely, 17 Verm. Rep. 542. There must be some substantial ground for supposing fraud stated and proved. Being old, is no proof that a party was imposed on: Lewis v. Pead, 1 Ves. Jr. 19.\nThe grounds on which equity interferes for rescission are distinctly marked. They are principally fraud, mistake, &c., and each of these should be established by positive and definite proof: Yard v. Patton, 1 Harris 282.\nIn order to justify the setting aside of a conveyance on the ground of fraud, the proof of fraud should be so clear and conclusive as to leave no rational doubt on the mind as to its existence: Buck v. Sherman, 2 Doug. 176; Hall v. Thompson, 1 Sm. & Marsh. 443; Hesse v. Briant, a late English case reported in The Jurist of October 11, 1856, p. 925.\n2. Mere weakness of mind or body is no proof of ineompetency. Where there is a legal capacity for the smallest transaction, there cannot be an equitable incapacity. The rule is, that sanity is to be presumed till the contrary be proved: 2 Kent 451, 452.\nA court of equity will not measure the size of people\u2019s understandings or capabilities: Mad. Ch. Pr. 280; Rippy v. Gant, 4 Ired. Eq. R. 443; Thomas v. Sheppard, 2 McCord 38; Blachford v. Christian, 1 Knapp\u2019s Rep. 73.\nProof of intellect having been impaired by disease, or of intellectual feebleness alone, will not avail by itself, even to defeat a will, when adequate capacity remains: Sloan v. Maxwell, 2 Green Ch. 563; Andress v. Weller, Id. 604; Dornick v. Reichenback, 10 S. & R. 84. See also, Powell on Devises 127; Shelford on Lunacy 275-6.\nWeakness of understanding alone, without fraud, is not sufficient to invalidate an instrument: 1 Fonbl. Eq., ch. 2, p. 65. Nor will age alone, without fraud: Smith v. Beatty, 2 Ired. Eq. R. 456.\n3. Old age, even if accompanied by great debility, forms no ground from which to infer incapacity: Wharton & Stille\u2019s Med. Jur. 16; Van Alst v. Hunter, 5 Johns. Ch. 148; Lowe v. Williamson, 1 Green Ch. 82; Reed\u2019s Will, 2 B. Monr. 79; Wh. & Stille\u2019s Med. Jur. 16; Green v. Thompson, 2 Ired. 365; Lewis v. Pead, 1 Ves. Jr. 19; Harrison v. Guest, 35 Kng. Law & Eq. Rep. 487; Wood\u2019s Pr. of Med., vol. ii., pages 616-17, 779, 782.\n4. Inadequacy of consideration is not sufficient in itself to set aside a contract: Story Kq. 245.\nThat a bargain is bad from inadequacy of price is not sufficient ground for refusing specific performance, without fraud: White v. Duncan, 7 Ves. 30; Coles v. Trecothick, 9 Ves. 245; Burrowes v. Locke, 10 Ves. 474; Moth v. Atwood, 5 Ves. 845; Wood v. Fenwick, Prec. Ch. 206; Western v. Russell, 3 Ves. & Beames 157; Purdie v. Millett, 1 Tamlyn 31; Murray v. Palmer, 2 Schoales & Lefroy 488; Evans v. Lewellin, 1 Cox 333; Griffith v. Spratly, Id. 383; Blachford v. Christian, 1 Knapp\u2019s Rep. 73.\nThe court cannot relieve a party from a binding agreement obtained without misrepresentation; in other words, mere folly in making an agreement, without fraud, is no foundation for relief in equity: Milnes v. Croley, 8 Price 620; Willis v. Jernegan, 2 Atk. 251; Green v. Thompson, 2 Ired. Ch. 365; and with respect to value, mere inadequacy of price is of no more weight in equity than at law: Wood v. Alrey, 3 Maddock 423; Juzan v. Toulmin, 9 Ala. 662; 1 Story Eq. 361.\nIt seems in fact that courts of equity have never even noticed this plea, unless the inadequacy was so great as to shock the conscience : Davidson v. Little, 10 Harris 251; 1 Story Eq. 251-2; Harris v. Tyson, 12 Harris 359.\n5. The mutuality of the contract, and the attempt to rescind it. The complainants somewhat singularly assert that there was no mutuality in the agreement for the sale of Graham\u2019s property. When it becomes vital to their case to allege fraud, Dr. Paneoast is treated as a party to it; failing in this, he is called a stranger to it.\nThe facts are, that Dr. Paneoast was agent for his sister as well as interested himself in the purchase from Graham. He had authority from her to act, and she accepted the agreement and ratified his action afterwards, by calling on Graham and tendering the deed for his signature.\n\u201c It is a point settled, that if the name of a party appears in the memorandum and is applicable to the whole substance of the writing, and is put there by him or by his authority, it is immaterial in what part of the instrument the name appears:\" Clason v. Bailey, 14 Johns. Ch. 484; 1 Harris & Gill 139; Worrall v. Munn, 1 Selden 243-4-6. See also Bullard v. Walker, 3 Johns. Ca. 60; 2 Caines 120; McCrea v. Purmort, 16 Wend. 460; Lowry v. Mehaffy, 10 W. 387; Pugh v. Good, 3 W. & S. 62; Gray\u2019s Executors v. James, 4 Dess. 145; Flannery v. Dechert, 1 Harris 507; McFarson\u2019s Appeal, 1 Jones 510; Holt v. Selden, 5 W. 528; Wheeler v. Newton, Prec. Ch. 16.\nThe court is not bound to decree specific performance in every case where it will not set aside the contract, nor to set aside every contract which it will not specifically enforce: Mortlock v. Buller, 10 Ves. 292, note.\nThough equity will refuse to execute wherever it would revoke, it may refuse to revolee where it would decline to execute: Yard v. Patton, 1 Harris 282; Delamater\u2019s Estate, 1 Wh. 374."
+  },
+  "file_name": "0089-01",
+  "first_page_order": 89,
+  "last_page_order": 99
+}

@@ -1,0 +1,66 @@
+{
+  "id": 979620,
+  "name": "Bunce versus Stanford",
+  "name_abbreviation": "Bunce v. Stanford",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "265",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 208,
+    "char_count": 3722,
+    "ocr_confidence": 0.417,
+    "pagerank": {
+      "raw": 9.779386173779558e-08,
+      "percentile": 0.5322150055852677
+    },
+    "sha256": "d1f7ed3b45084d409e4b70ca167b45b7687d58eba734b47f4386205074bbce2b",
+    "simhash": "1:d2df65298c778ac2",
+    "word_count": 659
+  },
+  "last_updated": "2023-07-14T19:15:50.021901+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bunce versus Stanford."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nIt is a mistake to suppose that the Common Pleas has no jurisdiction on an appeal from the judgment of a justice of the peace, where part of the demand passed upon by the justice was without his jurisdiction. Where part of the plaintiff\u2019s claim is made good, he is entitled to recover such part, although he may have asked more than could lawfully be given to him.\nThe plaintiff\u2019s claim was in part, as found by the jury, for money paid on a contract for the purchase of real estate, and in part for money loaned. The justice gave judgment for the whole claim; but, on an appeal to the Common Pleas, the money paid on the real contract was rejected, and for that loaned the plaintiff had a verdict and judgment, and rightly so.\nIf there was error in the admission of the deposition of Susan Bunce, it was cured by the verdict of the jury, as her evidence had relation only to that part of the plaintiff\u2019s demand which was rejected.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Church, for plaintiff in error.",
+      "Finney, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bunce versus Stanford.\nThe Common Pleas has jurisdiction on appeal from a justice where part of the demand passed upon by him was not within his jurisdiction.\nWhere part of the claim was for a payment on roal estate, and the other part for money loaned, a verdict for the latter will be sustained.\n. Error in the admission of a deposition defectively taken, is cured by the jury rejecting that portion of the claim to which the deposition relates.\nError to the Common Pleas of Crawford county.\nThis suit was brought by Giles Stanford against Horace Bunce, in 1851, before a justice of the peace. Judgment was entered for plaintiff for $73.75, and the defendant appealed. On the trial in the Common Pleas it appeared that $50 of the amount claimed was a payment to- defendant on a conditional sale of land by him to Stanford.\nThe plaintiff offered in evidence the deposition of Susan Bunce, a resident of the county. The deposition was not signed by the witness, and the justice before whom it was taken proved that she appeared well enough to attend court, although she stated it was not safe in her \u201cpresent health to attend;\u201d that he did not write down all she said to defendant\u2019s cross-examination, because he the justice did not think it essential, nor did he write down her testimony as, or in the language she gave it. Defendant objected to its admissibility, the objection was overruled and exception sealed, and the deposition read. It was in reference to the $50 paid by plaintiff to defendant. .\nThe defendant requested the court to charge the jury :\u2014\n1. If the $50 claimed by plaintiff was advanced to defendant on the land contract, but upon condition that it should be refunded if on coming out to the land, it should not be found to correspond with the representations made by defendant, or if plaintiff should not be pleased with the country or with his purchase, the justice had no jurisdiction in this action for its recovery.\n2. If part of a plaintiff\u2019s demand, adjudicated by a justice, is beyond his jurisdiction, it vitiates the whole, and destroys his right in this court on appeal.\nThe first point the court answered in the affirmative, with the explanation \u201c that if the money was loaned and not to form any part of the purchase-money of the land, it was within the jurisdiction of the justice, otherwise not.\u201d\nThe second point was answered in the negative. The jury found a verdict for plaintiff for $17.65.\nThe defendant below removed the cause to this court and assigned for error the admission of the deposition of Susan Bunce, the qualification to the afiirmative answer to the first point, and the answer to the second point.\nChurch, for plaintiff in error.\nFinney, for defendant in error."
+  },
+  "file_name": "0265-01",
+  "first_page_order": 265,
+  "last_page_order": 267
+}

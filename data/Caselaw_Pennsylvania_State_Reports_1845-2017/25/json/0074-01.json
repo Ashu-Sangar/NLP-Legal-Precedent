@@ -1,0 +1,127 @@
+{
+  "id": 975894,
+  "name": "Pettit versus Wingate",
+  "name_abbreviation": "Pettit v. Wingate",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "74",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts 176",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841277
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0176-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 324",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0324-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 443",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850971
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0443-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 176",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841277
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0176-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 324",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846106
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/6/0324-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 202,
+    "char_count": 2650,
+    "ocr_confidence": 0.449,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.3454797943818346
+    },
+    "sha256": "f460eb9eeff65f189b251d4129752c3ff7431fa9172b40f46f08f470aadb1955",
+    "simhash": "1:5fa9b03cb564187e",
+    "word_count": 455
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pettit versus Wingate."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J. \u2014\nThe decision below was that an action on a recog nisance of bail for stay of execution, may be referred to arbitrators under a compulsory rule; and we do not think that this is erroneous. True, the arbitration Act of 1836, in defining what actions may be thus referred, excepts \u201c actions upon bail-bonds or recognisances;\u201d but the commissioners who reported the Act, say that they intended only to embody the principles already decided by the courts, and we have no doubt they were so understood. It is not allowed on bail-bonds and recognisances for the appearance of parties, because they must be subject to the usual equitable relief by the Court: 6 Ser. & R. 542; 3 Pa. Ref. 396 ; but it is allowed on a recognisance of bail in error : 3 Watts 176; and on a forfeited insolvent bond: 6 Watts 324; because they are subject to no such relief. A recognisance of bail for stay of execution falls within this last reason. The record raises no other question.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Downey and Lazear, for plaintiff in error,",
+      "Sayers, for defendant in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Pettit versus Wingate.\nAn action upon a recognisance of bail for stay of execution may be referred to arbitrators under the compulsory rule.\nError to the Common Pleas of Greene county.\nA sci. fa. on a recognisance of bail for stay of execution on a judgment to September Term, 1854, issued December 23, 1854. March 23, 1855, the plaintiff entered a rule to choose arbitrators, which was served on defendant\u2019s attorney, who refused to appear. The plaintiff\u2019s attorney and the prothonotary met and referred the case.\nThe only question considered by this Court was, whether a suit on a recognisance of bail could be arbitrated.\nDowney and Lazear, for plaintiff in error,\ncited the Act of 16th June, 1836, section 39, which excepts from arbitrations, inter alia, \u201c actions upon bail-bonds and recognisances.\u201d The reason of the exception is, that sometimes special relief may be afforded, and in cases of securities, official bonds, or trust responsibilities, where relief could not be so well determined by arbitrators. It is because the writ is founded upon the recognisance that it cannot be arbitrated; and why depart from the plain language of the law ?\nSayers, for defendant in error. \u2014\nThe exception in the 36th section of the Act of 16th June, was only intended to apply to bonds and recognisances taken for the personal appearance of a party in such criminal and civil cases wherein the Court can mitigate and give equitable relief: 10 Watts 443; 6 Watts 324; 3 Watts 176 ; 4 Harris 251.\nIf the exception be construed to embrace this case, it would also embrace all contracts for bail, if the contract be by bond."
+  },
+  "file_name": "0074-01",
+  "first_page_order": 74,
+  "last_page_order": 75
+}

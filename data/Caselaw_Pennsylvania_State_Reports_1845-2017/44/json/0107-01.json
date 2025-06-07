@@ -1,0 +1,79 @@
+{
+  "id": 484260,
+  "name": "Malone et al. versus Keener",
+  "name_abbreviation": "Malone v. Keener",
+  "decision_date": "1862-11-20",
+  "docket_number": "",
+  "first_page": "107",
+  "last_page": "110",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Johns. 38",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Hill 178",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 457,
+    "char_count": 8857,
+    "ocr_confidence": 0.427,
+    "pagerank": {
+      "raw": 3.741688363899696e-07,
+      "percentile": 0.8948075737234101
+    },
+    "sha256": "8543200d48874d2faece24af6df7d6db7bbaf6f60eef7b1832f37f3b359f8d23",
+    "simhash": "1:e8f35c3f288cba26",
+    "word_count": 1547
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Malone et al. versus Keener."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, t>y\nRead, J.\nThe declaration in this case is very inartificially drawn, but it is clear that it is upon a guaranty by the plaintiffs in error of a note of the North-Western Railroad Company. The guaranty was not in writing, and the question is whether it comes within the 1st section of the Act of 26th April 1855, and this depends upon the construction which has been given to its provisions.\nIt is a general principle which prevails in all cases under the 4th section of the Statute of Frauds, from which our act is copied, that whenever the defendant\u2019s promise is in effect to pay his own debt, though that of a third person be incidentally guaranteed, it is not necessary it should be in writing. The statute contemplates the mere promise of one man to be responsible for another, and cannot be interposed as a cover and shield against the actual obligations of the defendant himself. The common case of the holder of a third person\u2019s note assigning for value with a guaranty, seems to be clearly referable to this principle. The assignor owes the assignee, and that particular mode of paying him is adopted; he guarantees in substance his own debt: Browne on Stat. of Frauds, \u00a7 165.\nThe cases of Browne v. Curtis, 2 Comstock 229, and Johnson v. Gilbert, 4 Hill 178, support and exemplify this position to its fullest extent. Both these cases were guaranties of promissory notes given in payment by a debtor to a creditor. In the last-named case Judge Bronson says: \u201c But the Statute of Frauds has nothing to do with the case. That only applies where the person making the promise stands in the relation of a surety for some third person who is the principal debtor. This was not an undertaking by the defendant to pay the debt of Eastman, but it was an agreement to pay his own debt in a particular way;\u201d and in the first-named case the same judge says : \u201c The defendant was a debtor to the plaintiff, and gave the note with the guaranty to satisfy that debt. This belongs to the third class of cases mentioned by Chief Justice Kent, in Leonard v. Yredenburgh, 8 Johns. 38-9. There was a new and distinct consideration independent of the debt of the maker, and one moving between the parties to the new promise. In such cases, where the party undertakes for his own benefit and upon a full consideration received by himself, the promise is not within the statute. It would be good without any writing.\u201d\nThis was really the principle upon which the court below put this case to the jury, and the declaration is sufficient to sustain it. The note was given in part payment of work done by the plaintiff for the defendants on the North-Western Railroad, and the defendants promised and agreed that if the said NorthWestern Railroad Company did not pay the amount of said note, then they the said defendants would pay the same to the plaintiff. The evidence supported this aspect of the case, and the court thought so and the jury agreed with them. The real justice of the case having therefore been reached, and no rule of law obliging us to reverse the decision of the court below,\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "Foster, for plaintiffs in error.",
+      "Cowan, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Malone et al. versus Keener.\nPromise to pay the Debt of another, when not required to be in Writing, under the* Statute of Frauds.\nThe Statute of Frauds does not require the promise of a defendant to be in writing where it is in effect to pay his own debt, though that of a third person be incidentally guaranteed: it applies to the mere promise to become re-sponsible, but not to actual obligations. Hence, where contractors to build a railroad, on settlement with a sub-contractor for work done for them, gave in part payment one of the notes of the company, verbally agreeing to pay it if the company did not, the promise was not within the Statute of Frauds: and on failure of the company to pay their note, an action would lie against the promissors.\nError to the Common Pleas of Westmoreland county.\nThis was an action on the case, brought by George F. Keener against Michael Malone, Israel Painter, and B. B. Gonder, partners trading as Malone, Painter k Gonder, to recover the amount of a note drawn by the secretary of the North-Western Railroad Company for $500, of which the-following is a copy:&emdash;-\n\u201cTen months after date, the North-Western Railroad Company promises to pay to the order of Robert S. Reed, president, $500, without defalcation, for value received.\n(Signed) [seal] \u201c William J. Wainwright, Treasurer.\n(Endorsed) \"ROBERT S. REED, President. \"MALONE, PAINTER & G-ONDER.\"\nThe declaration contained but one count, and averred that the North-Western Railroad Company made their promissory note in writing, payable to the order of Robert S. Reed, president of the company, payable ten months after date; that the note was endorsed by the defendants, and given to the plaintiff in part payment of work done by him for the defendants on the railroad; and that the defendants guaranteed the payment of the note to the plaintiff by the cpmpany, and thereby promised and agreed that if the company did not pay the amount of the note, the defendants would pay the same to the plaintiff; that pay-ment was demanded from the company; that it was not paid, and further that the company was insolvent. By reason of the premises the defendants become liable to pay the note, &c.\nThe defendant\u2019s counsel requested the court to charge the:\n1. That there was no count in the declaration sufficient to charge the defendants as guarantors of the note on which the suit is brought, and on that ground, the plaintiff could not recover.\n2. That if there was a count in the declaration charging a liability of the defendants as guarantors of the note, the evidence did not prove such a liability, as would entitle the plaintiff to recover against the defendants in this action, inasmuch as Malone, one of the defendants, was not present when the alleged guaranty was made. !\n3. That the plaintiff could not recover against them as endorsers, if the note was a sealed note of the railroad company.\n4. That the alleged guaranty not being in writing, would not bind the defendants since the Act of 26th April 1855.\nThe court below affirmed the first three points, answered the fourth in the negative, and instructed the jury in their general charge as follows : \u2014 \u25a0\n\u201c The declaration in this case charges \u2014 1. On endorsement and protest. 2. On a guaranty. 3. On a promise by defendants to pay, if the railroad company did not; and that [the note was merely taken as collateral security, to be a satisfaction if paid.]\n\u201c On the first point, if the jury believe the note was not sealed by the railroad company, the right of the plaintiff to recover is alone on the endorsement. But if the jury believe it was a sealed note or specialty, then the mere endorsement would not make them liable although protested. In regard to the guaranty, that is also a conditional contract; viz., to be liable only if the debtor was unable to pay, and due diligence was used to collect it. But if, at the time the money became due, it was notorious and evident that the debtor was insolvent, then it would be unnecessary to bring suit, and the guarantor would be liable. [My impression is that this case does not rest on the technical doctrine of guaranty. The evidence don\u2019t seem to contemplate a case of that kind.J\n[\u201c On the third point or ground assumed by the plaintiff here; If Mr. Ralston is believed, it makes out that Keener was unwilling to take these notes unless the defendants would secure their payment at maturity. They were at first unwilling, but at the same time they agreed if plaintiff would take them, to make them good. It will be observed that they were then indebted to him, and if this be true, and the notes were taken for that indebtedness, and was taken on this agreement to make it good at maturity, then the note would only be taken as collateral security, and the original indebtedness would sustain the plaintiff\u2019s cause of action.]\n[\u201c The main difficulty in regard to this, is the inartificial character of the declaration. We think, however, although informal, the substance of the cause of action in the alternative aspects is substantially averred, especially since the liberality recently allowed in pleadings. It is averred in the narr. that * efendants were indebted to plaintiff. This, to be sure, is mixed tip with the note and other averments ; and it is further averred that the defendants, in consideration of the premises, engaged to pay.\u201d]\nUnder these instructions there was a verdict and judgment for plaintiff; whereupon the defendant sued out this writ, and assigned for error the refusal of the court to affirm the fourth point above, and so much of the charge as is printed in brackets.\nFoster, for plaintiffs in error.\nCowan, for defendant in error.\nNovember 20th 1862,"
+  },
+  "file_name": "0107-01",
+  "first_page_order": 107,
+  "last_page_order": 110
+}

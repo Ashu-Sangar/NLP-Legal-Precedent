@@ -1,0 +1,97 @@
+{
+  "id": 400577,
+  "name": "Bishop v. Lee",
+  "name_abbreviation": "Bishop v. Lee",
+  "decision_date": "1846-06-17",
+  "docket_number": "",
+  "first_page": "214",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts, 580",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Serg. & Rawle, 303",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1811160
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/10/0303-01"
+      ]
+    },
+    {
+      "cite": "7 Serg. & Rawle, 129",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1808177
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/7/0129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 482,
+    "char_count": 10566,
+    "ocr_confidence": 0.543,
+    "pagerank": {
+      "raw": 5.6426424228247065e-08,
+      "percentile": 0.35230644720985665
+    },
+    "sha256": "7df05b62b428fa36e52153c515157d0cfa83988cd62413f56bf213042471ab67",
+    "simhash": "1:2960ee9a824e3ebf",
+    "word_count": 1893
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bishop v. Lee."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nIt was held in Miller v. Shaw, 7 Serg. & Rawle, 129, that one who without title, or colour of title, enters or settles on land which has been surveyed for another, acquires no greater right after twenty-one years, under the statute of limitations, than to that part which he has actually enclosed and improved. But this rule is subject to exceptions; as where the owner confesses himself to be out of possession of the woodland enclosed, and suffers the improver to pay the taxes for it, or the like. 10 Serg. & Rawle, 303. This subject was again considered in 7 Watts, 580; and the law in such cases laid down by Mr. Justice Kennedy, which shows his great knowledge and experience on this subject.\nHe says, \u201c If an intruder enters and settles upon an unseated tract of land, claims it as his own by exercising acts of ownership over it from year to year, in putting up buildings, clearing and fencing more or less of it, and using it the whole time, according to the custom of the country, viz., to clear the land either as arable, plough, or pasture, and the woodland for obtaining from it timber as often as he shall have occasion for it, to answer his purpose, and returning the whole of it to the assessor as his own, and paying the taxes, as assessed, for a period of twenty-one years; this will be sufficient to protect him on the whole of the tract or surrey, including the woodland as well as the improved parts of it.\u201d\nBut this is not like that case., Here, the evidence shows that the plaintiff in error settled in 1818 on a survey of 1794, in the name of James Reed, cleared on that tract and over on the adjoining survey of David and Joseph Reed. Although h\u00e9 had some lines run, he had no regular survey of his claim until after the ejectment brought in 1844; that out of the whole period he had only paid taxes for two \u00f3r three years.\nThe assessor of 1844 proved, that when he called on Bishop he refused to give in any land, as there was a suit pending. During all this time, the three surveys of the Reeds were returned as unseated, and the taxes paid.\n\u2022 The judge, in answer to the plaintiff\u2019s points, charged the jury that the plaintiff had shown a legal title ; that the defendant was only entitled to hold the land he had proved himself to be in possession and actual occupation for twenty-one years and upwards, before the ejectment brought; that there may be other modes of occupying land than enclosing and cultivating it: if the defendant was a mere trespasser, not claiming under any colour of title; if he paid no taxes, and did not return it for taxation to the assessor, the mere circumstance of his blazing the trees, and marking a line around the spot on which he had placed himself, will not enable him to hold the land included within the line so marked, even if the marks were made for twenty-one years before the commencement of the action.\nThis is the material error complained of. We are all of opinion, under the circumstances of the case, the charge was as favourable to the defendant as he deserved. A man who settles on surveyed land with the intention of holding by improvement, should be strictly honest in the performance of all the duties which the law imposes. Among those duties is the payment of taxes. The man 'who refuses to pay his legitimate taxes is a bad citizen, and an unworthy member of society. He cannot be called a bona fide settler. But it is said this court has decided, Hoey v. Furnam, 1 Barr, 205, that the defendant is to be protected to the extent of his lines on the ground. That is true, as between two intruders. Both parties in that case entered, without title, on surveyed land. Both were intruders; and the decision of the court was, that they could hold against each other, and against all others, except the legal owners of the land, to the extent of their lines and marks on the ground. There neither of the parties litigant had any claim to the land, excepting what they acquired by disseisin.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Russel, for plaintiff in error.",
+      "King and Barclay, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Bishop v. Lee.\nWhere one without title, or colour of title, settled upon a tract of land hold by another under warrant and survey, had some lines marked, but no regular survey of his claim made until after ejectment brought; and who, during a residence thereon of twenty-three years, paid no taxes but for two or three years, and made no return of it to the assessor for taxation, acquired, it was held, no more extensive title to the lands after twenty-one years under the statute of limitations, than to that part which he had actually enclosed and improved, within that period.\nThe mere circumstance of blazing the trees, and thus marking a line around the spot on which he had placed himself, will not enable him to hold all the land included within the line so marked; even if the marks had been made more than twenty-one years before the commencement of the action.\nError to tbe Common Pleas of Bedford county.\nJune 11. Ejectment for fifty acres of clear land, .with the appurtenances, and three hundred and fifty acres of woodland, brought by William Lee, the defendant in error, who was plaintiff below, against David Bishop, to August Term, 1843.\nThe plaintiff showed a good title, which he deduced from Joseph Reed, James Reed and David Reed, who, it appeared, were the original holders, under warrants and surveys dated in 1794, of three different but adjoining tracts of land, which were purchased by the plaintiff in 1824, and in which was included the land in dispute. It was then proved, that the defendant\u2019s house was on the tract surveyed in the name of James Reed ; that a field was cleared on David Reed\u2019s tract, and part of two on that of Joseph Reed.\nThe defendant proved, by Thomas Robinson, that he moved to the land in dispute, about the middle of April, 1818, and that he had lived there since that time; that there was a house on the land when he went there, and some improvements made; that there were now about one hundred and twenty acres of cleared land; that there were four or five acres cleared when he moved there, and that he had cleared two or three acres yearly, since he lived there. The witness also stated, that he saw two or three trees marked, which defendant said was his line. David Deneen swore that defendant, in 1825, showed him some blazed trees which he had marked ; that they looked as if they had been blazed a year or more, and that there were fifteen or twenty acres cleared about the house previously to August, 1822. Michael Reed said, he made a survey for the defendant on the 14th and 15th of August, 1844; that he found lines marked, which, in his opinion, were twenty years old.\nThe plaintiffs then produced, and gave in evidence the assessment lists from the commissioners\u2019 office; from which it appeared, that the three surveys of the Reeds' had been returned and assessed as unseated lands; and that the taxes from 1818 to 1825, inclusive, had been paid by former owners of the said tracts, or by their agents; and that from 1828, they had been paid by the plaintiff. It also appeared from the assessment lists of the township in which the lands in dispute lie, that Bishop-had paid the taxes only for two or three years during all the time of his residence, thereon. The assessor proved that he called upon Bishoo in 1844, -and that he refused to make any return of the land, on the ground of the lawsuit pending between Lee and himself.\nThe plaintiff presented the following points, upon which he requested the court to charge the jury :\n1. That the defendant is not protected by'the statute of limitations, to any extent beyond what he has actually cultivated and enclosed for the period of twenty-one years before the commencement of this action.\n2. That the defendant, being a mere trespasser, and not claiming under colour of title, cannot hold more than he has actually cultivated and enclosed for twenty-one'years, even although he may have marked and designated his boundaries; inasmuch as he has not paid taxes for the amount of his claim, nor returned it to the assessor for taxation.\n3. That the defendant in this case cannot recover any part of the land in dispute, as he has failed to satisfy the court and jury of the extent of the land actually cultivated and enclosed for twenty-one years by distinct and visible boundaries.\nWhereupon the court (Black, President) charged the jury, and answered the plaintiff\u2019s points, omitting the facts, as follows:\n\u201cThe plaintiff has made outagood legal title, and is entitled to your verdict, unless the defendant is protected by the statute of limitations, which indeed is the only ground on which he puts his defence. We will answer the points put by the plaintiff\u2019s counsel, and in that form instruct you upon all the questions of law which the case involves.\n\u201cFirst point. The defendant is entitled to hold all the land he has proved himself to have been in the actual occupation of for twenty-one years, or upwards. There may be other modes of occupying land, besides enclosing and cultivating it.\n\u201c Second point. If the defendant was a mere trespasser, not claiming under any colour of title, if he paid no taxes and did not return it for taxation to the assessor, the mere circumstance of his blazing the trees, and thus marking a line around the spot on which he had placed himself, will not enable him to hold all the land included within the line so marked, even if the marks were made more than twenty-one years before the commencement of this action.\n\u00ab On the whole, we do not think the evidence will warrant you in giving the defendant a verdict for all the land within the marked line mentioned by Mr. Reed, and laid down on the draft which he produced.\n\u201c Third point. It is clear that the defendant was in the actual possession of some land around his house more than twenty-one years ago, and had it enclosed and cultivated. This he ought to have, if you can describe it in such a way that it can be laid off for him. The obscurity of the evidence on this part of the case will make it somewhat difficult to describe it with convenient certainty; but he is entitled to about twenty acres, which he ought to have if possible.\u201d\nThe defendant excepted to the charge.\nThe jury found for the plaintiff, \u201cthe land in dispute, except twenty acres to be laid out around the house in which defendant lives, in a reasonable shape.\u201d The defendant thereupon took a writ of error, and removed the record to this court, and assigned the instructions of the court below for error.\nRussel, for plaintiff in error.\nKing and Barclay, contr\u00e0.\nJune 17."
+  },
+  "file_name": "0214-01",
+  "first_page_order": 212,
+  "last_page_order": 216
+}

@@ -1,0 +1,97 @@
+{
+  "id": 951428,
+  "name": "Bell v. Ingram",
+  "name_abbreviation": "Bell v. Ingram",
+  "decision_date": "1846-06-06",
+  "docket_number": "",
+  "first_page": "490",
+  "last_page": "491",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts, 397",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838040
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0397-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 342",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Serg. & Rawle, 144",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1813923
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/13/0144-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 214,
+    "char_count": 3132,
+    "ocr_confidence": 0.543,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.37631209387110987
+    },
+    "sha256": "0c6b7909127df599b681d53ebb95897dfc17c947342321a10efa55cc7d354612",
+    "simhash": "1:6f93d8948100c800",
+    "word_count": 551
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bell v. Ingram."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Sergeant, J.\n\u2014 The only question raised in this ease is, \u2022whether.the title passed by the sheriff\u2019s deed of 24th April, 1830. The plaintiffs allege that the lien acquired by the first levy under the alias fieri facias to November term, 1821, was abandoned by the issuing of the Second fieri facias to January term, 1829. Supposing that it be so, yet if the lien of the original judgment entered on the 18th September, 1818, with a stay of execution for one year, continued, the title acquired under the second execution,, issued on the judgment, reviving the former judgment, was valid. As the law stood before the act of Assembly, of the 26th March, 1827, a fieri facias duly issued and levied on land continues the lien of the judgment more than five years from the judgment, as was held in the Commonwealth v. McKisson, 13 Serg. & Rawle, 144, and Young v. Taylor, 2 Binn. 342. And that was the case here: a fieri facias within the year; an alias levied on the land, which was extended, and writs of liberari issued from year to year down to January term, 1825. Then came the act of Assembly of 26th March, 1827, the effect of which was to compel the plaintiff, if he wished to continue the lien of his judgment, to have it revived by agreement or scire facias, or else it would have been lost. Ebright v. The Bank, 1 Watts, 397. For that purpose the act gave two years for those judgments which were then liens according to existing law.\nThis limitation was extended one year by the act of 23d March, 1829. Under this provision, it would seem this judgment was duly revived within the year last allowed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "\u2014Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Woods and J. T. Hale, for plaintiff in error.",
+      "Benedict, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bell v. Ingram.\nA judgment having been recovered in 1818, against executors, an execution was issued and levied on land in 1821. Writs of liberari facias were issued and returned not executed in 1823, 1824, and 1825. In 1828, a sci. to revive issued and judgment was obtained in 1829. The Hen of the judgment continued and a sale by the sheriff passed a good title.\nError, to the Common Pleas of Mifflin county.\nMay 26. \u2014 The plaintiffs below were the heirs of George Bell, in whom the title of the land was originally vested. The defendants claimed as purchasers at sheriff\u2019s sale, and the only question was, the validity of that sale.\nIn September, 1818, judgment was recovered against the executors of George Bell, with stay of execution for one year, and a fi. fa. issued in November, 1819, and was returned not executed.\nIn November term, 1821, an al. fi. fa. issued, which was returned, \u201c extended.\u201d A liberari and an alias and pluries were issued in April and August, 1823, April, 1824; November, 1824, and January, 1825, which were returned not executed. In November, 1828, a sci. fa. to revive issued, on which judgment de bonis was confessed by the executors and terre-tenants.\nIn January, 1829, a fi. fa. issued, under which the property was subsequently sold to one under whom defendant claims.\nThe court, (Hepburn, President,) who tried the case at a special court, directed a verdict for the defendant.\nWoods and J. T. Hale, for plaintiff in error.\nBenedict, for defendant in error.\nJune 6."
+  },
+  "file_name": "0490-01",
+  "first_page_order": 490,
+  "last_page_order": 491
+}

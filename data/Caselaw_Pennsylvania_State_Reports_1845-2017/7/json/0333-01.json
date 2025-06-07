@@ -1,0 +1,217 @@
+{
+  "id": 957873,
+  "name": "Winebrener's Appeal. Brewer's Appeal",
+  "name_abbreviation": "Winebrener's Appeal",
+  "decision_date": "1847-04-29",
+  "docket_number": "",
+  "first_page": "333",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 333"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Rawle, 88",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Serg. & Rawle, 383",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1818230
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/17/0383-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 238",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0238-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 294",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788936
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0294-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 116",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 79",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "pin_cites": [
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts & Serg.' 356",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts, 73",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848533
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0073-01"
+      ]
+    },
+    {
+      "cite": "17 Serg. & Rawle, 366",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1818246
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/17/0366-01"
+      ]
+    },
+    {
+      "cite": "13 Serg. & Rawle, 318",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1813970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/13/0318-01"
+      ]
+    },
+    {
+      "cite": "4 Watts & Serg. 323",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856560
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0323-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 394",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846870
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0394-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 257",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Serg. & Rawle, 212",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8878129
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/9/0212-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch. 629",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 411,
+    "char_count": 7140,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 5.98189222821134e-08,
+      "percentile": 0.3719297920457911
+    },
+    "sha256": "abd22765f1a759755afaa26165d4f2eb4c118cda04a16895a8766657bd4d0011",
+    "simhash": "1:d9f63047db0acc78",
+    "word_count": 1277
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Winebrener\u2019s Appeal. Brewer\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nAfter a careful examination of the errors assigned by David Winebrener,. we think there is no good reason for changing the judgment of the Common Pleas. We have come to the same conclusion in the matter of the appeal by John W. Brewer, and direct the judgments and decrees of the Common Pleas to be\nAffirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Olmstead and J. M. Read, for Winebrener.",
+      "J. Fallon, for the general creditors.",
+      "Williams, for South and Robb."
+    ],
+    "corrections": "",
+    "head_matter": "Winebrener\u2019s Appeal. Brewer\u2019s Appeal.\nAssignee for creditors buying at his own sale, which was to be clear of encumbrances, and abandoning because a mortgagee would not release the difference between the amount of his lien and the bid, is chargeable with the amount of his bid.\nBut the assignee in such case is to be allowed commissions, as if he had complied with his bid.\nAnd he is not chargeable with rents received after that time.\nMortgagee proceeding against the land does not lose his claim to the fund with which the assignee is chargeable.\nBail for stay of execution paying the judgments is entitled to subrogation as against general creditors.\nFrom the Common Pleas of Philadelphia.\nJan. 28, 31. In Oct. 1839, Curtis made a general assignment to Winebrener in trust to sell and pay creditors. Among the property assigned, was certain real estate appraised at $1000, subject to a mortgage to Sulger of $7000, and a second one to Miller of $3000. On the first of these there were arrears of interest $1800, and on the last $684, at the time of the sale. In Sept. 1840, the property was offered for sale at auction by the assignee, under advertisement that it would be sold clear of all encumbrances. At that sale Miller bid $11,250 ; but it was knocked down to Lawrence, who was the agent of Winebrener, at $11,250. It was found by the jury, on a feigned issue directed, that Lawrence purchased for Winebrener, and that he abandoned the purchase because of an alleged loss of some of the title-papers, of which, however, there was no proof, and because Miller declined releasing the difference between the amount due on his mortgage and the amount of the bid. Miller held the guaranty of Robb and South for his mortgage, and, fifteen months after the abandonment of the sale by Lawrence, of which he had notice, and which sale he did not attempt to enforce, proceeded against the property on his mortgage, and sold it by the sheriff. The proceeds proving sufficient to pay the first mortgage only, Miller received from Robb and South $3000, the amount due to him on the mortgage as principal, and assigned them his claim.\nWinebrener had been surety for Curtis on several judgments, which he paid and claimed to be subrogated.\nThe court directed that he should be charged with the amount of his bid by his agent, Lawrence, as if he had complied with the purchase, with interest, to the filing of the auditor\u2019s report. From this was deducted his commission, and the amount due on the two mortgages, which, as found on a feigned issue, was less than the amount of Winebrener\u2019s bid, with interest added; the amounts due on the judgments paid by the assignee as surety, which had been a lien on the land, were also deducted, so far as the amount of his bid would reach.\nThe exceptions by Winebrener resulted in these, that he was not chargeable at all; but, if he was, the amount of his bid should be applied to the judgments held by him in preference to Miller\u2019s mortgage.\nBrewer, a general creditor, excepted and claimed that the differ.enee between the price at the sheriff\u2019s sale and the amount of Winebrener\u2019s bid should be distributed among the creditors generally ; that Winebrener was entitled to no preference on account of the judgments paid by him as surety ; that he was not entitled to commissions, and was chargeable with rents received after his bid.\nOlmstead and J. M. Read, for Winebrener.\nIf the assignee is to be considered a purchaser, it can only be with the same rights as a stranger, and the conditions being \u201c clear of all encumbrances,\u201d he was not bound to abide by his bid unless the mortgages were released, since the price did not cover them: 4 Johns. Ch. 629. But we contend this was not a purchase by the assignee for himself, but a withdrawal of the property merely, which it was his duty to do, if he considered it was going at all under value: Mortlock v. Buller, 10 Ves. 309. [Rogers, J. \u2014 If that question is open, do not the facts show an intent to become a purchaser ?] The assignee might have said he could not sell for less than the encumbrances, and his advertisement was equivalent to that, especially as it was his duty not to permit it to go at less than the appraised value: Bramley v. Alt, 3 Ves. 627. Since the refusal of Miller to do his part towards the completion of the title, it does not lie 'in his mouth, or that of his assignees, to insist upon the purchase : Hampton v. Speckenagle, 9 Serg. & Rawle, 212; Moore v. Shelly, 2 Watts, 257; and his subsequent silence on the abandonment would also postpone him, for he was bound to give notice to Winebrener of his intention to hold him bound, or, at all eventSj '.not, put it out of his power by selling at sheriff\u2019s sale: Carr v. Wallace, 7 Watts, 394; 4 Watts & Serg. 323; 13 Serg. & Rawle, 318; 17 Serg. & Rawle, 366; as to the right to commissions, they cited Hoopes v. Brinton, 8 Watts, 73, and Diettrich v. Heft, 5 Barr, 87.\nJ. Fallon, for the general creditors.\nThe trustee knew his liability, and there can be no doubt the eestuis que trust may hold him bound: Lighty v. Shorb, 3 Penna. Rep. 451. But the fund is misappropriated. Miller and his assignees could only claim on the ground of affirming the sale; but this they have not done, but the contrary, and by proceeding against the land has elected to waive the prior sale. The difference, therefore, with which the assignee is chargeable, cannot go to them, but to the creditors generally. Nor has the assignee any lien under the jiidgments which he paid as bail for stay of execution: Armstrong\u2019s Appeal, 5 Watts & Serg.\u2019 356. The commissions on the sale of the real estate should not be allowed, since he denied his liability, and it is only after tedious litigation that he has been charged: 4 Watts, 79, 420; 8 Ves. 371; 4 Serg. & Rawle, 116. He should also be chargeable with the subsequent rents or interest on his bid.\nWilliams, for South and Robb.\nHad he permitted Miller to take on his bid, the mortgage would have merged; but, refusing that and buying in his own name, he is chargeable: Guier v. Kelly, 2 Binn. 294. This profit is an accessory to the value of the house assigned, and is distributable as the proceeds would have been. To forfeit the right of Miller, would require clear evidence of a demand for the release of the surplus and a refusal: Crest v. Jack, 3 Watts, 238; Hepburn v. McDowell, 17 Serg. & Rawle, 383; Robinson v. Justice, 2 Penna. Rep. 23; Alexander v. Kerr, 2 Rawle, 88. The assignee is to be treated as a stranger; if he declines paying, the mortgagee had a right to proceed,; and if subsequently damages, or the difference, were recovered from the purchaser, he may look to that for his loss, since it is only by treating the sale as perfected, on the terms agreed upon, that Winebrener -is chargeable.\nApril 29."
+  },
+  "file_name": "0333-01",
+  "first_page_order": 333,
+  "last_page_order": 336
+}

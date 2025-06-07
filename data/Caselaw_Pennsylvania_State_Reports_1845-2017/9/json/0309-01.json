@@ -1,0 +1,79 @@
+{
+  "id": 960625,
+  "name": "Defrance v. Austin",
+  "name_abbreviation": "Defrance v. Austin",
+  "decision_date": "1848",
+  "docket_number": "",
+  "first_page": "309",
+  "last_page": "311",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 357",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478506
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0357-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 259,
+    "char_count": 3417,
+    "ocr_confidence": 0.411,
+    "pagerank": {
+      "raw": 2.798413280952377e-07,
+      "percentile": 0.8366275408334617
+    },
+    "sha256": "c034a0f8d9ca831341ab4ff73c9b7493d0b781be248f5868d3c8a6830784ef8e",
+    "simhash": "1:5ba4ce2a2c5192ba",
+    "word_count": 614
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Defrance v. Austin."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThree errors have been assigned in this case to the defendant\u2019s points and to the opinion of the court. They run into each other. The opinion of this court being that the plaintiff had no legal right to recover, they will be considered together.\nThe action was case, for work, labour, and services. The defendant was the uncle of the plaintiff, and the evidence showed that in 1888, the plaintiff, then a boy of fourteen, came to his uncle\u2019s. His uncle told him he had a large family, and did not want him, but he might stay until his brother James came home. The boy was an orphan. James put him to a Mr. Woods, where he remained about three months, and returned, destitute of clothing. Mrs. Defrance, who was a sister of his father, made clothing for him. Defrance told him he had been turned off from everyplace, and that he might remain until he got a place. The second winter, his uncle urged him to go to a trade. He declined going \u2014 said he wanted more schooling. He was sick part of the time, and was fed, clothed, and sent to school with the other children of the family; worked when they worked, and played when they played; and the last year received a new suit. He was stout, of his age; and much evidence was given of the supposed value of his services, beyond his boarding, clothing, and schooling. The court were requested to charge the jury, that under the evidence the plaintiff could not recover. But the court left it to the jury to determine the value of his labour, beyond his boarding, schooling, and clothing, and that amount they might find for the plaintiff,' upon an implied contract, although they were satisfied that the parties had no agreement. To this instruction, we cannot accede. It was ruled, in Swires v. Parsons, 5 W. & S. 357, that the performance of labour generally, by one for another, raises an implied assumpsit that will be compensated; but this implication may be rebutted by proof of circumstances showing such a relation between the parties as repels the idea of contract. There, the plaintiff lived many years with the intestate, and kept his house and performed the functions and duties of a wife. There is not a single fact in this case, that does not tend to rebut the implication of an agreement, or promise, or engagement between the parties. The evidence is, that the plaintiff was received with reluctance into the family, as an unfortunate relation, treated as the children of the family, advised to go to a trade, his education attended to, and his wants regarded. I am unable to discover a spark of evidence of contract, or that he remained longer on the benevolence of his uncle than heyhose; all the evidence showing his uncle would have been glad if he had left him the moment he could have got a place, either as a labourer or an apprentice. This action is an after-thought of the plaintiff; no doubt induced by the meddling of others.\nThe judgment is reversed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Stephenson, for plaintiff in error.",
+      "Stewart, contrS."
+    ],
+    "corrections": "",
+    "head_matter": "Defrance v. Austin.\nThe law does not imply a contract to pay for services rendered hy an infant who is permitted whilst out of place to reside with his uncle, and during such time is provided with food and clothing, and who works in the same way as the children of the family.\nIn error from the Common Pleas of Mercer.\nThe evidence was not on the record, but a statement of the case will be found in the opinion of this court.\nStephenson, for plaintiff in error.\nStewart, contrS."
+  },
+  "file_name": "0309-01",
+  "first_page_order": 309,
+  "last_page_order": 311
+}

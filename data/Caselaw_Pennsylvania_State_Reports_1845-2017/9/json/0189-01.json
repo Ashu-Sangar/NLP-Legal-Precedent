@@ -1,0 +1,85 @@
+{
+  "id": 960771,
+  "name": "McKee v. Bartley",
+  "name_abbreviation": "McKee v. Bartley",
+  "decision_date": "1848-09-18",
+  "docket_number": "",
+  "first_page": "189",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Pick. 499",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Pick. 546",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058486
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/26/0556-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 245,
+    "char_count": 3285,
+    "ocr_confidence": 0.408,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.39109828410845576
+    },
+    "sha256": "81f1d300a131dd3ea41da72de6e6217be47df39bf386170ab18138a883070b63",
+    "simhash": "1:41101d8d1a813930",
+    "word_count": 572
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McKee v. Bartley."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nA general verdict and judgment cannot be sustained, if any of the counts of the declaration be bad, although the other counts are sufficient, if there be nothing to show that the damages were assessed on the good counts alone: Dryden v. Dryden, 9 Pick. 546. The plaintiff in error claims the benefit of this rule, on the ground that the first count of the narr. filed in this case is substantially defective, for want of a sufficient statement of the consideration of the contract sued on. It is very true, that in assumpsit, except in those cases where the action is founded on a negotiable instrument, a consideration must be set out in direct terms; and its total omission is fatal, even after verdict: Hemmenway v. Hickes, 4 Pick. 499. But, as in all other cases, a merely formal defect in the statement of it is cured by pleading over and going to trial. This is tantamount to an agreement to waive all objection as to matter of form; and the judgment ought not be disturbed, if, from the declaration, it can bo gathered a consideration existed, and the nature of it, though the manner of setting it out may be very imperfect. In the present instance, the first count avers that the defendant below contracted to make and deliver to the plaintiffs \u201ca certain wagon, for a sum then mentioned and agreed to between them.\u201d It must he admitted that this is a very imperfect statement of the respective undertakings of the parties, and lacking the degree of certainty the rules of pleading require; but, without conceding to it too much, it may fairly be taken as an averment, that in consideration of a certain sum of money, which the plaintiff had agreed to pay to the defendants, the latter undertook to make and deliver to the former the wagon; and the omission to name the amount to be paid is, at this stage of the cause, not a fault sufficient to destroy the judgment. It is, rather, a good title lamely averred, than the allegation of a vicious one; and, therefore, falls within the protection of the familiar rule. The modern inclination of courts is to uphold judgments rendered after an investigation of merits; and they will never interfere, if the plaintiff\u2019s pleading shows substantially a title to sue, however inartificially it may be described. It is enough, if the language used imports a right which has been passed on by a jury. This, we think, may truly be said of the case in hand. The other errors assigned were withdrawn on the argument.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Alien, for plaintiff in error.",
+      "Marshall and Q-ueger, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "McKee v. Bartley.\nAn averment in a declaration in assumpsit, that plaintiff agreed to malee and deliver to defendants a wagon, for a sum mentioned, and agreed between them: held a sufficient averment of a consideration after verdict.\nIsr error from the Common Pleas of Allegheny.\nAssumpsit. The plaintiff declared for the non-delivery of a wagon, according to the agreement of the parties, and upon the money counts. The question was, whether there was an averment of a consideration in the first count- \u2014 the verdict being entered generally. The averment was, that defendants contracted to make and deliver to plaintiffs a certain wagon, for a sum then mentioned and agreed to between them, but that he did not deliver, &c.\nAlien, for plaintiff in error.\nMarshall and Q-ueger, cont\u00f3.\nSept. 18."
+  },
+  "file_name": "0189-01",
+  "first_page_order": 189,
+  "last_page_order": 190
+}

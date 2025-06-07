@@ -1,0 +1,152 @@
+{
+  "id": 9505262,
+  "name": "Daniel versus Wilver",
+  "name_abbreviation": "Daniel v. Wilver",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "516",
+  "last_page": "520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 516"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Whar. 366",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0366-01"
+      ]
+    },
+    {
+      "cite": "2 Wh. 95",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830554
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0095-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 275",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843935
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0275-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates 561",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6776802
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0561-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates 6",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6770854
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0006-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 207",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846131
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0207-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 108",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Leg. Int. 238",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 523,
+    "char_count": 11694,
+    "ocr_confidence": 0.428,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21868359892796838
+    },
+    "sha256": "3cf8627efcd62402a7fde8e7da102c69cebb069c412f78816caaf46773180d28",
+    "simhash": "1:6267e1802e1a08ff",
+    "word_count": 2057
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel versus Wilver."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\n'Lewis, C. J.\nThe rule of Court requires that \u201c where under any plea it is designed to give the special matter, fraud, want of consideration, particular payments, or defalcation, in evidence, a specification thereof in writing shall, if demanded, be given to the opposite party, or attorney, within twenty days after demand made, otherwise no evidence of it shall be admitted.\u201d .The demand of a specification in this case expressly and particularly required a statement of all the matters aforesaid intended to be given in evidence under the pleadings then entered, or under any pleas that the defendant might thereafter enter. The services rendered by the defendant were matters of \u201c defalcation,\u201d and tbe declaration of the plaintiff\u2019s intestate, that she wanted no more settlements under that bond, at the time she handed the bond over to the defendant, was a \u201c special matter.\u201d Both these defences were within the rule requiring a specification of the particulars of them if demanded. The Court below was of that opinion, and for the omission to furnish the particulars according to the demand the evidence was rejected. Every Court is the best judge of the construction of its own rules; and we will not reverse a judgment on the ground of a misconstruction, unless in a plain case: 5 Barr 189. We do not see any such plain error here. On the,contrary, the Court appears to have fairly carried into execution its own rule. As that rule, and the demand under it, required a notice of the evidence to be given under any plea that might thereafter be entered, as well as under the pleadings then entered, it is obvious that the short entry of the pleas of payment and release made at the trial could not dispense with the specification required. If the defendant had been prevented from giving the specification by accident, mistake, or other cause, which entitled him to relief, the Common Pleas had the power to enlarge the time for giving it, upon such terms as would be just to the opposite party. But no application for that relief was made, nor does it appear that the defendant below had any ground for it. The rule of Court seems to apply only to issues in which the burden of proof is on the defendant, and to affirmative evidence offered by him in support of his plea. Where he pleads the general issue he gives no evidence in support of it, but is confined to evidence tending to repel that which may have been given by the plaintiff. As his repelling evidence must necessarily depend on the evidence to be given by his adversary, it is impossible for him to know what may be necessary, and therefore unreasonable to require him to specify it. The defendant below, in Moyer\u2019s Administrator v. Fish\u00e9r and Wife, just decided, was in that condition, and therefore a specification was not required of him. But the defendant below, in this case, stands on a different footing. His defences were not regularly admissible without notice under the plea of covenants performed. They consisted of affirmative matter to be introduced by himself, not as repelling evidence, but as independent grounds of defence. The plaintiff was therefore entitled to the specification demanded. The omission to give it justified the action of the Court of Common Pleas in rejecting the evidence.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "'Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Boas and McCormick, for plaintiff.",
+      "Bisher, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel versus Wilver.\n1. Where a Kule of Court provided that \u201c Where, under any plea, it is designed to give the special matter, fraud, want of consideration, particular payments, or defalcation, in evidence, a specification thereof, in writing, shall, if demanded, be given to the opposite party or attorney, within twenty days after demand made, otherwise no evidence of it shall be admitted.\u201d\nIn an action of covenant demand was made of notice of special matter, &c., designed to be given in evidence under the pleadings then entered or thereafter added.\nIt was held, that, under the plea of covenants performed, without notice, evidence was not admissible of services rendered by the defendant to the obligee, and of a declaration by the obligee when she handed over the bond to the defendant, that she wanted no more settlements under it. The plea of set-oif, added as the jury was about to be qualified, and of payment and release, added, in short, during the trial, did not dispense with the specification demanded.\n2. The Buie of Court applies only to issues in which the burden of proof is on the defendant, and to affirmative evidence offered by him in support of his plea; and not to evidence offered under the general issue. Under the plea of \u201c covenants performed,\u201d the evidence in question was not admissible without notice.\nERROR to the Common Pleas of Dauphin county.\nThis was an action of covenant to January Term, 1852, by Adam Wilver, as administrator of the estate of Susanna Daniel, deceased, v. John G-eorge Daniel, on a bond or instrument of writing under seal, dated 31st March, 1834, by which the defendant became bound to Andrew and Susanna Daniel, his father and mother, to deliver annually during their lives or the life of the survivor of them, certain grain, &c., produced on a certain farm. Andrew Daniel died on June 1, 1841, leaving his wife surviving, who died in June, 1851. This suit was brought to recover the value of the grain, &c., which it was alleged the defendant had failed to deliver to his mother. The claim was eventually confined to the articles deliverable between the 1st of January, 1849, and the 17th of June, 1851.\nWhen the case was put upon the trial list, the only plea was covenants performed, which was entered on 2d December, 1854. On the 22d of January, 1855, when the jury were about to be qualified, the Court, on motion, permitted to be added the plea of set-off; and during the trial, the further pleas of payment and release were added.\nOn 28th December, 1854, notice was served on defendant\u2019s counsel, requiring, under the 67th rule of Court, an exhibition to the plaintiffs counsel, within twenty days, of any paper or papers relied on as matter of defence. And, further, that if under the pleadings then entered, or under any pleas which may be thereafter added by leave of Court, it was designed to give any special matters, fraud, want of consideration, particular payments, or defalcation in evidence, a specification in writing was required to be furnished within twenty days, in pursuance of the 69th rule of Court.\nIn pursuance of the notice, copies of certain receipts were submitted on 18th January, 1855.\nOn part of the plaintiff testimony was given as to the value of the grain, &c., required by the bond to be furnished, and evidence of a similar character was given on part of defendant.\nSome receipts of the widow were also given in evidence; after which, on part of the defendant, it was offered to prove certain services and boarding, &c., rendered and furnished by the defendant to the intestate, since the date of the last receipt of the infces-tate, for the purpose of showing, under the plea of set-off, that .nothing was due at her death.\nThis was objected to for want of notice under the rule. On part of the defendant it was contended that the evidence was admissible as the pleadings then existed; and also that the notice was not requisite, as the pleadings stood when the notice of the receipts was furnished. Per Guriam. \u2014 We are of the opinion that the plaintiff has a right to call on the defendant for a statement of the matter relied on by way of defence, without regard to the pleadings, which may be altered; and although the defendant may alter his pleas ad libitum, he cannot change his notice of special matter without leave of Court, or travel out of it under any additional pleas. The evidence is rejected. First bill.\nIt was then proposed to show what was said by the plaintiff\u2019s intestate at the time the receipts were given and the bond handed over to the defendant, viz., that she wanted no more settlements under that bond. This was objected to, because no notice was given that the defendant relied upon a cancellation of the bond, or any other special matter by way of defence.\nPer Guriam. \u2014 The party relies not on direct performance, but an offer to show that the amount was forgiven and not to be performed, of which notice should have been given. No notice of this matter having been given as assigned, the evidence must be rejected. Second bill.\nWith leave of Court, was then added the plea of payment and release ; and after they were added, the evidence before rejected was again offered; and being objected to for want of notice, was rejected. Third bill.\nVerdict for plaintiff for $>475.\nError was assigned to the rejection of the evidence stated in the first bill, when offered under the plea of set-off. Second, in rejecting the evidence that the bond was given up to the defendant, and that he was released from further claim, as stated in the second bill; and third, in rejecting the same evidence after the pleas of payment and release were added.\nFor a specification of the 69th rule of Court, see the opinion in this case.\nBoas and McCormick, for plaintiff.\nUnder the Act of 1806, the defendant had the right to alter his pleadings, and the Court has no right to make a rule to prohibit it: 8 Ser. B. 258 ; 8 Id. 836. Under the plea of covenants performed, the evidence of set-off or release was inadmissible: 2 W. O. Q. Hep. 456; 1 Ser. N. 25; 8 Barr 270; 8 Leg. Int. 238, Kates v. Dougherty. The alteration of the pleas was therefore indispensable to the de-fence. The rule in question, if strictly construed, may lead tc injustice, and should not interfere with the operation of the Act of 1806: 10 Harris 51.\nBisher, for defendant in error.\nIf notice had been given the evidence rejected would have been admissible under the plea of covenants performed, the bond being for the performance of conditions : 15 Ser. B. 10T; 4 Balias 439; 2 Yeates 108; 2 W. O. O. B. 456; 6 Watts 207; 5 Barr 189. The plea of covenants performed, though, strictly speaking, not the general issue, is in the nature of the general issue : 2 Trou. \u00a7\u25a0 Maly 26. Notice is necessary under such a plea: 4 W. \u00a7 Ser. 534.\nThe evidence offered was not a set-off, but an equitable defence to the action under the plea of covenants performed, and was not admissible without notice: 10 Ser. B. 142; 16 Id. 28 ; 4 Balias 439. It was decided in Johnson v. Kerr, 1 Ser. B. 25, that in an action of covenant,'a release could not be given in evidence without being pleaded ; but the release in that case was a technical release; whilst the evidence proposed in this case was a verbal forgiveness of the claim. In the case of Martin v. Ilammon, 8 Barr 270, cited, the decision is that the plea of covenants performed is not equivalent to the plea of payment, but admits the foundation of the suit; and that the usual mode of putting the plaintiff to proof of performance is by the addition of ahsque hoc, &e., to the plea of covenants performed. In Kates v. Dougherty, it was decided that under that plea, with.notice, the defendant may show a failure of consideration.\nThe defendant must specify when required in cases where the rule of Court is applicable: 3 Yeates 6; 4 Yeates 561; 14 Ser. B. 176. A defendant is precluded from supplying the deficiency in his notice of special matter by embodying it in a special plea: 6 Barr 147, McCay v. Burr. Also cited 5 Watts 275 ; 2 Wh. 95; 2 Barr 88 : \u201c it is better to have no rule than to depart from it on slight or frivolous pretexts.\u201d A notice of special matter must be given under a rule of Court, although an affidavit of defence has been filed, setting it out in substance: 5 Whar. 366, Sullivan v. Johns."
+  },
+  "file_name": "0516-01",
+  "first_page_order": 514,
+  "last_page_order": 518
+}

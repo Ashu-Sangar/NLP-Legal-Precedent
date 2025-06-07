@@ -1,0 +1,79 @@
+{
+  "id": 969166,
+  "name": "Chambers versus Calhoun",
+  "name_abbreviation": "Chambers v. Calhoun",
+  "decision_date": "1851-09-08",
+  "docket_number": "",
+  "first_page": "13",
+  "last_page": "15",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Yeates 16",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6770995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0015-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 307,
+    "char_count": 4955,
+    "ocr_confidence": 0.407,
+    "pagerank": {
+      "raw": 1.2723796856852969e-07,
+      "percentile": 0.615095706351992
+    },
+    "sha256": "07366803912fcc9b8c8e47d8128dc8f50d96527010fceb222736f4719e3747de",
+    "simhash": "1:39ae4de424579b6c",
+    "word_count": 853
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chambers versus Calhoun."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of this Court was delivered by\nGibson, C. J.\nThe promise on which this action is brought, being to no particular person or set of persons by name, could be enforced, in England, only by a bill in equity; but as our equity powers have not yet been extended to such a case, we are compelled to resort to an action as a substitute for a bill. Why should we higgle about technical eongruity, after the very first step has been a departure from all eongruity? The object is to compel the promissor to pay; and any means that can produce that effect, may be resorted to in order to prevent a failure of justice. The action ought to he supported whether the promissor were joined as a plaintiff or not; his name could at most be surplusage; but as no one is legally hound by a promise to himself, the contract in this ease was in part void, but good for the residue, and' the name of the promissor was properly dropped as that of a plaintiff; at least it lessened the appearance, of irregularity.\nNor is it of consequence that the building committee had finished the edifice and been discharged. Though functi officio as to that, they were still trustees for the recovery of this debt. It is of no importance that another committee had been raised to \u201c wait on William Chambers in reference to his obligation.\u201d Even had the congregation desired to transfer this chose in action to another committee, so as to enable them to sue in their own names, it could not have done so: and the only course was to sue in the names of the surviving members of the original committee.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Mellon and Dunlop, for plaintiffs in error.",
+      "Bell, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Chambers versus Calhoun.\n1. A promise to pay a certain amount of money for the purpose of erecting a meeting house, to a building committee, of which the promissor was one, may be maintained against him in the name of the other members of the committee, or the survivors of them.\n2. Such action is maintainable, even though the edifice has been finished, and the committee discharged from further duty.\nError to the District Court of Allegheny county.\nThis was an action in the name of David Calhoun and James Leech, surviving Robert Curry and Samuel Hamilton, members of the building committee of the Mifflin township meeting-house, against William Chambers. A case was stated, in which it was submitted, that a meeting of the congregation of the Associate Reformed Church of Mifflin township, Allegheny county (an unincorporated religious association), was held in 1842, at which it was resolved that a new house of worship should be built. William Chambers, the defendant below, and plaintiff in error, was there, a member; and in order to enable them to build the church, he signed a paper, viz.:\n\u201c The subscriber promises to pay, or order to be paid, the sum hereunto annexed to my name, in current paper money, for the purpose of building and completing a brick meeting-house, to be built and finished in a workmanlike manner, of good materials, on the ground now in possession of the congregation, &e.; said sum to be paid to the building committee in the manner following, &c.; in all amounting to $500.\u201d The subscription paper was delivered to the congregation, who resolved that a new church be erected, and five persons were appointed a building committee. Such committee was composed of William Chambers the defendant, Leech and Calhoun, the plaintiffs in this case, and two others, who were dead when this suit was brought. The committee proceeded with the building, and it was completed. Chambers paid $125 on account of his subscription. This action was brought by the surviving members of the committee, exclusive of Chambers himself, to recover from him the balance.\nBefore the suit was brought, it was, at a congregational meeting, resolved that the building committee be discharged from further duties; also, that the congregation proceed to collect the obligation of William Chambers; that (Kennedy, and others named,) be a committee to wait on Chambers in relation to his obligation, and that the committee (last named) be empowered to collect the balance on the building subscription lists.\n\u201c If the Court should be of opinion that, upon this state of facts, the above-named plaintiffs are entitled to recover, then judgment to be entered for plaintiffs for the balance; but if not, judgment to be entered for defendant with costs, either party reserving the right to sue out a writ of error.\u201d\nJune 10, 1850. Judgment was entered on the case stated for the plaintiffs, for $460.\nError was assigned to the entry of judgment. The questions at issue were: 1. Whether the plaintiffs in the suit, could maintain the action in their names alone, omitting that of Chambers; and 2. Whether they could maintain the action after having been discharged by the congregation, and a new committee appointed.\nMellon and Dunlop, for plaintiffs in error.\nBell, for defendants.\nHe cited 1 U. S. Dig. 8; 3 Yeates 16, Chalfont v. Johnson.\nSeptember 8, 1851,"
+  },
+  "file_name": "0013-01",
+  "first_page_order": 13,
+  "last_page_order": 15
+}

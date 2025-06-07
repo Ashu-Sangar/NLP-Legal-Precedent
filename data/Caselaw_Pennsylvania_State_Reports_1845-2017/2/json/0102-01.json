@@ -1,0 +1,159 @@
+{
+  "id": 951344,
+  "name": "Thornton v. Bonham",
+  "name_abbreviation": "Thornton v. Bonham",
+  "decision_date": "1845-01-03",
+  "docket_number": "",
+  "first_page": "102",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 102"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Serg. & Rawle, 254",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Serg. & Rawle, 320",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1816640
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/16/0320-01"
+      ]
+    },
+    {
+      "cite": "4 Watts.& Serg. 430",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dall. 378",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12148047,
+        1408407
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0378-01",
+        "/us/1/0396-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 396",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0396-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 374",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838059
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0374-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 377",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Serg. & Rawle, 109",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1811125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/10/0109-01"
+      ]
+    },
+    {
+      "cite": "4 Watts & Serg. 130",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856551
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 228,
+    "char_count": 2971,
+    "ocr_confidence": 0.526,
+    "pagerank": {
+      "raw": 8.545989594505668e-08,
+      "percentile": 0.487801026237437
+    },
+    "sha256": "1364f6d68d797403b69f804ce9a73c36783988d4e994a3f52ec361c31956c0a9",
+    "simhash": "1:e7690ea2892adab6",
+    "word_count": 520
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thornton v. Bonham."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 It would seem that this action is on a bond for the performance of a written agreement, within the provisions of the act of 14th June, 1836 ; and there being no power given, by statute, to grant summary or equitable relief, it follows, that judgment having been rendered by default for the penalty, the plaintiff ought to have the damages he had sustained by reason of the breach of the condition to appear, assessed by writ of inquiry, before issuing his scire facias against the garnishee. O\u2019Neal v. O\u2019Neal, 4 Watts & Serg. 130. It seems, also, that he may take advantage of this objection, on the trial of the issue on the scire facias; for in Pancake v. Harris, 10 Serg. & Rawle, 109, it was decided that the declaration, being in substance a declaration in assumpsit for goods sold and delivered, and the judgment not for a liquidated sum, the plaintiff could recover nothing from the garnishee, without executing a writ of inquiry; and he was allowed to take advantage of the objection on the plea of nulla bona; and the judgment for the garnishee in the court below was affirmed in error. We consider, however, the objection rather in the nature of a plea in abatement, on account of the irregularity in issuing the scire facias, and not as a plea in bar that concludes the plaintiff when his proceedings are made regular.\nJudgment affirmed, and record remitted.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Dubois and Fox, for plaintiff.",
+      "Ross, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Thornton v. Bonham.\n1. Judgment having been recovered, in foreign attachment, on a bond for appearance, damages must be assessed under writ of inquiry, before scire facias can issue against , the garnishee; and in default of such assessment tiro writ abates.\n2. The garnishee may take advantage of the irregularity on the trial, under the scire facias.\nError to the Common Pleas of Bucks county.\nDec. 24. \u2014 The plaintiff took judgment by default, in foreign attachment, for the penalty of a bond to the sheriff for appearance, and issued scire facias against the garnishee. The court charged he could not recover, not having ascertained the true amount due on the judgment.\nDubois and Fox, for plaintiff.\n\u2014 Under the statute Will. & M., and our act, the proper course is to take judgment and execution for the penalty, and mark the real amount. 1 Dall. 377; Arrison v. Commonwealth, 1 Watts, 374; Bennet v. Reed, 10 Watts, 396; Sergt. on Att. 95; 1 Dall. 378.\nThe writ of inquiry is merely to inform the court, and the garnishee cannot dispute the debt. This is merely to compel an appearance, and after that the amount may be ascertained.\nRoss, for defendant.\n\u2014 This is within the act of Assembly, O\u2019Neal v. O\u2019Neal, 4 Watts.& Serg. 430, and that is positive; 1 Saund. Rep. 58, n. For want of a chancery court, the same rule prevailed before the act, 4 W. C. C. R. 414; Robison v. Whiteside, 16 Serg. & Rawle, 320; Bowes v. Nagel, 3 Serg. & Rawle, 254.\nEven at common law, damages must be ascertained by a jury before execution. Low v. Pearce, 4 Burr. 2225; 3 Bos. & Pull. 630.\nJan. 3."
+  },
+  "file_name": "0102-01",
+  "first_page_order": 102,
+  "last_page_order": 103
+}

@@ -1,0 +1,140 @@
+{
+  "id": 967625,
+  "name": "Gangwer versus Fry",
+  "name_abbreviation": "Gangwer v. Fry",
+  "decision_date": "1851-03-22",
+  "docket_number": "",
+  "first_page": "491",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Pa. 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 172",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850021
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0172-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates 121",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6772210
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0120-01"
+      ]
+    },
+    {
+      "cite": "2 Dallas 176",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Penn. Rep. 295",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Ch. 132",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Watts 509",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846113
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/6/0509-01"
+      ]
+    },
+    {
+      "cite": "6 Wharton, 153",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836983
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/6/0153-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 663,
+    "char_count": 14668,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 1.4621769202334755e-07,
+      "percentile": 0.6575470230117664
+    },
+    "sha256": "b74259b3ab37e6ace0111a9b95c9f3bc06c5f603d3c2264b20280e4b2a534212",
+    "simhash": "1:b9410cc6ac1b1b6c",
+    "word_count": 2622
+  },
+  "last_updated": "2024-02-27T16:05:10.368024+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gangwer versus Fry."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, J.\nLoose as our system of pleading is, we have not yet-sanctioned the recovery of damages for the breach of a special parol contract to convey land, under a declaration for goods sold and delivered, or money had and received. So far as the evidence tended to establish a claim of this character, it was irrelevant, and ought not to have been received.\nBut if the contract for the purchase of a moiety of the land had been so far executed as to take the case out of the statute of frauds, and to vest in the plaintiff below an interest or estate in the land, so as to entitle him to a conveyance, he might, on the subsequent sale of it to another by the vendor, waive the tort, and recover a moiety of the money under the count for money had and received. To entitle him to this, however, he must show an actual delivery of possession in pursuance of and in part performance of the agreement: 1 W. & Ser. 388. Payment of the purchase-money alone is not sufficient: 6 Wharton, 153. And temporary erections, or repeated acts of ownership, such as erecting a temporary cabin for making sugar\u2014cutting timber, although repeated, do not constitute such a possession as will take the case out of the statute: 6 Watts 509. It is no answer to the objection to these acts, as insufficient for the purpose, that they constitute the only possession usually taken of uncultivated timber land. The purchaser may clear, enclose, and cultivate wild land, if he is disposed to do so; and where he does so, and his improvements are so extensive as to make it inequitable to deprive him of the land, his case would be taken out of the statute. But where nothing of this kind appears, and the purchaser has only entered for the purpose of stripping the land of its valuable timber, and lining his pockets with the proceeds, such acts do not constitute such an equity as entitles him to protection from the operation of the act. A construction which takes such a case out of the statute, would work its repeal in a majority of the parol sales of unseated timber land.\nSo far from adopting a principle which must have this effect, the courts of justice are gradually regarding the provisions of the statute of frauds with more favor than formerly; and in Pennsylvania, where an action may be maintained to recover damages for the breach of a parol contract to convey lands, there is less reason, than elsewhere exists, for giving to such acts the effect of vesting in the purchaser a title to the land, against the positive provisions of a most wise and salutary enactment. Chancellor Kent agrees \u201c with those wise and learned judges who have declared that the courts ought to make a stand against any further encroachment on the statute, and ought not to go one step beyond the rules and precedents already established Philips v. Thompson, 1 Johns. Ch. 132, 149. We fully subscribe to this view of the subject, and deeply regret that the beneficial provisions of the statute have been so far broken in upon already as to work its partial repeal. The doctrine of part performance is not to be extended to new cases which do not come clearly within the equitable principle of previous decisions: 6 Paige, 289, 293.\nWe are of opinion that the decisions and instructions on this part of the case were erroneous, and that the court below,\u2019as the pleadings and evidence stood, ought to have stated to the jury that the plaintiff was not entitled to recover any part of the money arising from the sale of the land by Gangwer to Stephen Balliet, jun.\nWe perceive, no other error in the proceedings of the court below.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Jones, J. charged the jury, inter alia:\u2014\u2022",
+      "The case was argued by Bridges and Porter, for plaintiffs in error.",
+      "Stiles and Davis, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Gangwer versus Fry.\n1. Damages for the breach of an unexecuted parol contract to convey land cannot be recovered under a declaration for goods sold and delivered, or money had and received; but if the contract has been so far executed as to take it out of the statute of frauds, and to vest in the purchaser an interest or estate in the land, so as to entitle him to a conveyance, the purchaser, on the conveyance'of the land by the vendor to another, may waive the tort, and recover his portion of the price received for it, under the count for money had and received.\n2. To entitle a purchaser to recover the possession under a parol contract, he must show delivery of possession in pursuance of, and in part performance of the contract: payment of purchase-money alone is not sufficient; temporary erections or cutting of wood on the land will not answer; and where such payment, and the cutting of wood, and surveying the land only are proved, the purchaser is not entitled to recover from the vendor the one-half of the money for which the latter subsequently sold the land to another.\n3. The provisions of the statute of frauds are beneficial, and should not be further encroached upon.\nError, to the Common Pleas of Lehigh county.\nThis was an action on the case by William Fry against Solomon Gangwer, to recover the one-half of $600, the purchase-money of a tract of woodland, which had been sold by Gangwer to Balliet, the half of which land Fry claimed to belong to him under a parol agreement with Gangwer.\nThe declaration was for goods sold and delivered, work and labor done and performed, money lent and advanced, money laid out and expended, and money had and received.\nOn the trial, the books of original entries of Fry, the plaintiff, as proved by him, were received in evidence. They contained charges against defendant, amounting in the aggregate to $215.43.\nWilliam Young sworn.\u2014I know there was wood cut on the tract. Both parties acknowledged it. It lies on the Blue Mountain, in the Lehigh Gap. I can\u2019t say who ordered the men to cut the wood. I know there was wood cut; we had a settlement among us about the wood, March 27, 1844. I can\u2019t tell what the balance was. Fry, Charles Qangwer, and myself, made the settlement in regard to the wood. This balance in the book appeared, but how, I can\u2019t tell. Balance, $59.26. This booh is Mr. Qangwer\u2019s; we had this before us when the settlement was made. Pry made this entry ; he entered it after the settlement so far. I don\u2019t recollect of telling him not to write it, but I agreed to it when he did make it. If I recollect aright, he said he knew how to state such matters; he would put it down. This is my handwriting ; it is a copy of what Pry had written in this booh, which I gave him afterwards. Solomon Qangwer was in the office when the settlement was made.\nCross-examined.\u2014Mr. Gangwer did not say anything to it when the memorandum was made; he did not sit where he could see what was written. He did not take any part in the settlement, when the conclusion was made; but during the settlement figures were shown to him, and they talked together. Qangwer was in ill health, and had been confined to his house. He was out and in the office when the settlement was made. Mr. Gangwer had not given me any particular authority to settle for the purchase-money for that tract of land. I can\u2019t positively say that he knew, or did not know, whether Pry was writing in his book ; Qangwer was two or three yards off; he could not see' in what book Pry was writing where he sat. When the entry Avas made he did not say anything. If I recollect right, Fry read it. We talked it over, and I suppose he heard it.\nRe-examined.\u2014I am the son-in-law of Mr. Qangwer; I kept his books between two and three years before that time.\nThe defendant\u2019s counsel produced a small account book, which they had been required, by written notice from the plaintiff\u2019s counsel, to produce.\nThe plaintiff\u2019s counsel then offered to read in evidence the entry, before referred to, in said book; the same being in the handwriting of the plaintiff.\n\u201c Settled, March 27,1844, Avith Solomon Gangwer, for the tract of land lying on the Blue Mountain, about 400 acres. Settled, Avood account and the purchase-money in full, and balance due Wm. Fry, $59.61.\u201d To the reading of which defendant\u2019s counsel objected on the ground that the said entry Avas not made by defendant or with his consent, and that it was not pertinent to the issue trying, there having been nothing stated in the declaration about the purchase-money of land; which objection the court overruled, and permitted the entry to be read.\nTo which decision of the court the defendant, by his counsel, excepted. This was the first bill of exceptions.\nThe witness then proceeded further to testify.\u2014I was not authorized to give a copy of this paper. Mr. Gangwer was not present when the copy was given; it was not at the same meeting; Gangwer was not present.\nPeter Miller, sworn.\u2014I was present when a settlement was made between Gangwer and Fry. It was about the tract of land on the Blue Mountain. I know they had a settlement, and Gangwer fell in Fry\u2019s debt some fifty odd dollars. I can\u2019t tell what they said; Gangwer, Young, and Fry ivere present.\nThe plaintiff\u2019s counsel then offered in evidence a copy of the aforesaid entry, in the handwriting of William Young, the first witness, signed by him as clerk.\nTo the admission of which in evidence, defendant by his counsel objected, for the reason stated in the first bill of exceptions; but the court overruled the objection, and permitted the same to be given in evidence.\nTo which decision of the court the defendant by his counsel excepted. This was the second bill of exceptions.\nThe plaintiff proved that Gangwer said that Fry had an interest in the land\u2014that Fry had woodchoppers on it, and brought away wood\u2014that Gangwer said that Fry was to have half of the land, and to attend to the woodchoppers and the wood.\nBy another witness; that Gangwer said that he had sold one-half of the land to Fry. Witness said he thought he said that he got $75 for it. The witness, Keiter, had owned the land with Gangwer, and he conveyed his interest to Gangwer.\nIt was also proved that at the request of Gangwer the land was surveyed; Fry being at the survey, and paid part of the tavern-bill for the party. That Gangwer was present during part of the time.\nThe plaintiff\u2019s counsel then offered in evidence certain articles of agreement entered into between defendant and one Stephen Balliet, for the sale of the said tract of woodland to said Balliet; to the admission of which in evidence, the defendant by his counsel objected. The court overruled the objection and permitted the same to be given in evidence, and the defendant\u2019s counsel excepted. This was the third bill.\nThe articles of agreement were read; they were dated 6th February, 1846.\nStephen Balliet, Jr., was examined, and proved payment to defendant at different times, to the amount of $600, and that Gangwer made a conveyance to him of the land; that he took possession, and that nobody was there to dispute it.\nDefendant\u2019s books of original entry were read, containing charges against plaintiff.\nJones, J. charged the jury, inter alia:\u2014\u2022\n\u201cIf Fry did buy, by a parol sale, tbe undivided half of tbe land Sold to Balliet, wbat has he done to render that sale irrevocable ?\n\u201c Mere payment of the purchase-money alone would not bo sufficient. There must have been possession\u2014entry into possession in pursuance of the contract. Payment and possession should be inseparable.\n\u201c Did he pay for it the agreed price, whatever that was ? The only evidence of that is in what took place when Pry and Gangwer were present at that settlement, described by Young. Was that settlement in relation to this land? What Pry wrote in Gangwer\u2019s book and read in Gangwer\u2019s presence\u2014did that relate to the land ? Was that a solemn affirmation of settlement with Gangwer for this land ? Did Gangwer hear it ? It was in his presence\u2014if he did hear it, he should have protested against it; but he did not do so. Can you infer payment from all that? That is for you.\n\u201c But entry into possession was also necessary. Mere presence at the survey was not such entry. Exclusive possession could not be required of a tract held in common. This wa,s woodland, in the mountains, and not susceptible of that contingency, with notorious possession, that a cultivated farm or a house is susceptible of. Was not Pry there with woodchoppers ? If he had no right to be there with the woodchoppers, it would be a trespass, which could not help him to avoid the statute of frauds; but if he was there in consequence of his supposed purchase, having paid the purchase-\u2019 money, then it would be an entry into possession, an exercise of his ownership, as great as mere mountain woodland regularly receives at the hands of its owner. The facts are entirely within your premises; you will apply to them the law as laid down.\u201d\nTo this charge the defendant\u2019s counsel excepted.\nIt was assigned for error:\n1. Court erred in admitting the evidence contained in the three bills of exceptions.\n2. The court erred in charging the jury in' these words, to wit: \u201c If it turns out that it would be inequitable to treat the alleged sale from Gangwer to Pry as void, then Pry can recover his proportion of what Gangwer received from Balliet;\u201d and again in another part of the charge in saying in substance, that in all cases where it would be \u201cunjust for the seller to drawback,\u201d courts would enforce the performance of a parol contract for the sale of land.\n8. The court also erred in charging the jury, that if there was a parol contract for the sale of the tract of land, by Gangwer to Pry; the land in question being woodland in the mountains, the entry of Pry with woodchoppers, and the cutting wood thereon, was a sufficient possession to take the contract out of the statute of frauds.\n4. The court erred in charging the jury in substance, that if they believed the testimony in the case, Fry was by law entitled to recover in this action from Gangwer one-half of the purchase-money paid by Stephen Balliet, Jr., to Gangwer for the tract of woodland sold by said Gangwer to said Balliet..\nThe case was argued by Bridges and Porter, for plaintiffs in error.\nStiles and Davis, for defendant.\nIt was contended, cum alia, that the plainliff below, under the evidence, was entitled to recover in the suit, the one-half of the purchase-money for which the land was sold by Gangwer: 3 W. & Ser., Pugh v. Good; 8 Id. 55; 1 Id. 383, Allen\u2019s estate ; 3 Penn. Rep. 295.\n2. That he was entitled to recover said portion in indebitatus assumpsit for money had and received: 3 W. & Ser. 329, Stetzell v. Michael; 2 Dallas 176; 1 Yeates 121; 3 Penn. Rep. 295; 2 Harris 275.\nConstructive possession of unoccupied land is sufficient to support trover for carrying off trees felled thereon: 9 Watts 172; 10 Id. 455, Elliot v. Powell.\nMarch 22,"
+  },
+  "file_name": "0491-01",
+  "first_page_order": 491,
+  "last_page_order": 496
+}

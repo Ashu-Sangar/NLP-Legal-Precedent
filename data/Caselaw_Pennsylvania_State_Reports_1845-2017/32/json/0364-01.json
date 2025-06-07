@@ -1,0 +1,121 @@
+{
+  "id": 986628,
+  "name": "Entriken et al. versus Brown et al.",
+  "name_abbreviation": "Entriken v. Brown",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "364",
+  "last_page": "367",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 Pa. 364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 414",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 476",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0476-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 319",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Johns. 21",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135871
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0021-01"
+      ]
+    },
+    {
+      "cite": "10 Johns. 22",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Binn. 319",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 496,
+    "char_count": 8786,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 1.1126205104123627e-07,
+      "percentile": 0.5710717111306489
+    },
+    "sha256": "9beb4b2683e388ef6c9be483ba596057f1a18b0249d4a397ba33b4522e8c6a8c",
+    "simhash": "1:daa73bb3a860d4ca",
+    "word_count": 1549
+  },
+  "last_updated": "2024-02-27T20:05:07.474243+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Entriken et al. versus Brown et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J. \u2014\nNathan Taylor, a co-trespasser with the other defendants, was named in the prceeipe and writ, but was not arrested, and the jury was not sworn to try him. Was he a competent witness for his fellows ?\nIt is very earnestly insisted that he was not, but the cases in our own books which are relied on, were cases sounding in contract, and not in tort, and are not, therefore, applicable. Joint contractors are liable to contribution among themselves, and hence it is apparent, that one not served is not a competent witness for those who are; because, to escape liability over, he has a direct interest to defeat the plaintiffs\u2019 claim. But among trespassers, contribution does not obtain. Taylor would not be liable over to the other defendants, though he would be liable to the plaintiff in a subsequent action, if the plaintiffs failed to obtain satisfaction in this suit.\nIt is manifest, therefore, that Taylor was called to testify against his interest, and was not on this ground disqualified.\nBut it is supposed, he was excluded by some rule of policy, and there are authorities to this effect which are cited in the note to 1 Greenl. Ev. \u00a7 358. They all rest, however, on the case of Lloyd v. Williams, Hard. Cas. 123. The question there turned upon the sufficiency of the outlawry of the defendant, whose testimony was offered, and Lord Hardwicke held the outlawry good, and said, if he was outlawed, he certainly had been served with process.\nThis then never was an authority for a case like the present, where there was no service of process, nor any equivalent for service. Nor has this case been followed, but on the contrary, it was very expressly repudiated in Stockham v. Jones, 10 Johns. 22; and in Wakely v. Hart, 6 Binn. 319, in which C. J. Tilghman said the principle long adopted by this court was, that the interest wrhich the witness has in the verdict, is the criterion by which his competency is to be tested. That was trespass against four, all of whom were served, but only two of whom pleaded to issue; and, on the trial of these two, the others were held to be competent witnesses, though there was evidence to implicate them.\nIf the interest which the witness has in the verdict be the criterion, the imagined ground of policy does not exist, and Taylor vas evidently competent; for, as I have already shown, his interest was adverse to that of the defendants. A verdict against them could not harm him, whilst one in their favour might leave him still liable to the plaintiff.\nThe tendency in modern times is rather to the enlargement, than the narrowing of the rules of competency, but we should be taking a long stride backward to hold a co-trespasser not served an incompetent witness; We neither recede nor advance from the rule of law, as it has been holden in Pennsylvania for forty years; but, administering it as we find it, we are obliged to say the learned judge fell into error when he rejected the witness.\nAnd we regret the necessity we are under to send the case back on this ground, for in the instructions given in the charge we find no error.\nThe defendants\u2019 proposition, that the plaintiffs could not recover unless they were joint owners of the horse, was affirmed by the court, and the evidence was properly submitted to the jury on the question of joint ownership. Possession of chattels is always evidence of ownership, and very often it is difficult to produce any other evidence of title.\nThe fact that Taylor Brown was a minor was no ground of defence; and though it might weaken the presumption of ownership resulting from his possession, it was not decisive against it. The benefit of this fact, so far as it went to negative the presumption, the defendants had, and that was as much as they were entitled to have.\nThe judgment is reversed, and a venire facias de novo is awarded.",
+        "type": "majority",
+        "author": "Woodward, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "W. Darlington, for the plaintiffs in error. \u2014",
+      "W. Butler, for the defendants in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Entriken et al. versus Brown et al.\nA co-defendant, in trespass, named in the praecipe, hut who has not been served with process, and as to whom the jury has not been sworn, is a competent witness for the other defendants.\nPossession of chattels is evidence of ownership; and the infancy of one of two joint possessors, though it may weaken the presumption of joint ownership, is not decisive against it.\nError to the Common Pleas of Chester county.\nThis was an action on the case by Townsend Brown and Taylor Brown, a minor, by his next friend, against Marshall Entriken, Pennock Martin, Eranklin Gheen, John Gheen, Llewellyn Meredith, and Nathan Taylor, for frightening the plaintiffs\u2019 horse whilst passing along the public highway, whereby he became unmanageable, ran away, and broke his leg. The defendant Nathan Taylor was named in the praecipe, but was not served with process, and the jury was not sworn as to him. The other defendants pleaded not guilty.\nOn the trial, Nathan Taylor was offered as a witness for the other defendants. The plaintiffs objected to his competency, and the court rejected the witness and sealed a bill of exceptions.\nThe defendants then requested the court below to charge the jury:\u2014\n, . , . 1. That unless the jury believe the plaintiffs were joint owners of the horse, they cannot recover.\n2. There is no sufficient evidence of such joint ownership.\nThe evidence on this point was, that the plaintiffs were masons, carrying on the business together; that they bought the horse in partnership; and had used him in common. The court below, in answer to these points, instructed the jury as follows:\u2014\n\u201c The declaration of the plaintiffs sets out that they were joint owners, and that they jointly have suffered injury by the conduct of the defendants. Although this objection is somewhat technical, it is undoubtedly true, that the allegation and proof must agree. A suit cannot be maintained when it is brought in the name of one man, and the property is alleged to be his, if the evidence discloses the fact that it belongs to another. In the case before us, the allegation is, that Taylor Brown was part owner of the horse in question, in connection with another plaintiff, Townsend Brown, and the suit is brought in the name of both. The defendants aver, however, that as Taylor Brown is a minor, he could not enter into a contract for the purchase of the horse; and that, if he could so make a contract, the proof is insufficient to show that he did it. It is further alleged by defendant\u2019s counsel, that as Taylor Brown is a minor, no presumption of ownership arises from possession in him, and the proof of ownership is insufficient. So far as these defendants are concerned, they cannot set up the minority of Taylor Brown to defeat the action. Taylor Brown was in possession of the horse when the injury was inflicted. He had, on more than one occasion before, been in possession of him in a way which implied ownership, and I 'hold that these acts of ownership constitute evidence for the jury. If such evidence, together with the testimony of the witnesses to this point, shall be considered by the jury sufficient to establish the fact of joint ownership, then the allegation and proof agree, and the action is sustained. I might, in the terms wherein they are conceived, affirm the foregoing points, leaving it to the jury to say Avhether the evidence is or is not sufficient. In doing so, I should not have answered the argument of counsel, that in a case of a minor no presumption of ownership arises, and the proof must be clear and conclusive to the fact. Believing as I do, I prefer to deny the proposition as applied to the case before us.\u201d\nTo this instruction the defendants excepted; and a verdict and judgment having been rendered for the plaintiffs, the defendants sued out this writ, and here assigned for error: 1. The rejection of Nathan Taylor as a witness. 2. The answer to the defendants\u2019 points.\nW. Darlington, for the plaintiffs in error. \u2014\nTaylor was a competent witness for the defendants; he was not liable to contribution as a co-trespasser: 1 Greenl. Ev., \u00a7 357; Stockham v. Jones, 10 Johns. 21; Wakely v. Hart, 6 Binn. 319; Lloyd v. Williams, Cas. Temp. Hard. 123; Talmage v. Burlingame, 9 Barr 26. It was error to tell the jury they might imply ownership from the possession of a minor.\nW. Butler, for the defendants in error. \u2014\nTaylor was properly rejected as a party to the record: Wolf v. Fink, 1 Barr 435; Parke v. Bird, 3 Id. 360; Irwin v. Shumaker, 4 Id. 200; Norris v. Johnston, 5 Id. 290; 1 Greenl. Ev., \u00a7 358, note 1; Id. \u00a7 363. The defendants could not take advantage of Taylor Brown\u2019s minority, his purchase was valid as to them: McCloskey v. Cyphert, 3 Casey 225; Hesser v. Steiner, 5 W. & S. 476; Biddle v. Moore, 3 Barr 178; McGinn v. Shaeffer, 7 Watts 414; 2 Kent Com. 234-5; Parsons on Contracts 274-5-6."
+  },
+  "file_name": "0364-01",
+  "first_page_order": 364,
+  "last_page_order": 367
+}

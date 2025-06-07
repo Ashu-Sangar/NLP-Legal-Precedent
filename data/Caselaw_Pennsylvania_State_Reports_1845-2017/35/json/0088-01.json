@@ -1,0 +1,286 @@
+{
+  "id": 990441,
+  "name": "Scheetz's Appeal. Stout's Appeal",
+  "name_abbreviation": "Scheetz's Appeal",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "88",
+  "last_page": "97",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Met. 429",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        2062288
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/46/0429-01"
+      ]
+    },
+    {
+      "cite": "21 Pick. 431",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Ch. 164",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Sumn. 189",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Johns. Ch. 257",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Conn. 584",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6755609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/2/0584-01"
+      ]
+    },
+    {
+      "cite": "1 Conn. 318",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12125855
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/1/0318-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 309",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023557
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "355"
+        },
+        {
+          "page": "451"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/19/0309-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 160",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wh. 426",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 N. H. 336",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6755921
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/9/0336-01"
+      ]
+    },
+    {
+      "cite": "22 Wend. 526",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2153301
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/22/0526-01"
+      ]
+    },
+    {
+      "cite": "3 Paige Ch. 457",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 N. H. 349",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pick. 379",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Maine 292",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        631650
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/17/0292-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. Ch. 19",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1982853
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/6/0019-01"
+      ]
+    },
+    {
+      "cite": "3 Paige Ch. 213",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2048450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/3/0213-01"
+      ]
+    },
+    {
+      "cite": "10 Yerg. 209",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        8541785
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/18/0209-01"
+      ]
+    },
+    {
+      "cite": "7 Verm. 131",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/7/0131-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch. 164",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Sumn. 189",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1156,
+    "char_count": 26185,
+    "ocr_confidence": 0.465,
+    "pagerank": {
+      "raw": 4.045859636802482e-07,
+      "percentile": 0.9075756926369066
+    },
+    "sha256": "152d105b0556a6361f0ac7dfa64c7a3737677a1d004486381798c7499dfb0c66",
+    "simhash": "1:2ef28e68561ba8b4",
+    "word_count": 4573
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scheetz\u2019s Appeal. Stout\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\nThese were cross appeals from the decree of the Court of Common Pleas in equity in the case of Scheetz v. Stout. Stout\u2019s appeal we will dispose of first.\nIt has often been decided by this court, that the granting or refusing an issue, where the proceedings are in equity, is not the subject of a writ of error. This is a necessary result from the nature of the proceeding. A chancellor directs it as a means of informing his conscience as to disputed facts \u2014 but even when found by a jury in a particular way, they are not binding on him. He may disregard the finding, if he thinks it wrong. No writ of error lies to the issue: Baker v. Williamson, 4 Barr 469. The errors committed there must be corrected on appeal. The granting of an issue is matter of discretion: 2 Barr 110. This case settled the practice on this point under the Act of 1836, and it has been followed ever since.\nThat the subject-matter of the hill was within the equity jurisdiction of the court, under the Act of 1836, conferring chancery jurisdiction on this court and the Court of Common Pleas in and for the city and county of Philadelphia, which powers were conferred on the Court of Common Pleas of Montgomery county, by the Act of 15th April 1853, cannot well be doubted. The provision immediately applicable to the case in hand is, that the court shall have all the powers \u00f3f a court of chancery for \u201c the prevention or restraint of the commission or continuance of acts contrary to law, and prejudicial to the interests of the community, or the rights of individuals.\u201d Under this provision it has been determined, that a court could restrain the cutting down timber, and ornamental trees, and other acts prejudicial to the reversionary interest of the complainant: Denny v. Brunson, 5 Casey 382. The remedy by injunction is, notwithstanding the provision for its exercise, only such in the absence of an adequate legal remedy. In the case in hand, if the complainants had the right they claimed, namely, the right to an uninterrupted flow to their mill of the waters of Sandy Run through the premises of the respondent, and, for the enjoyment of that right, the further right to enter on his premises to remove obstructions, the interruption of that right, by a refusal to permit the removal of obstructions, or throwing them again into the stream when removed, were acts obviously injurious not only to the enjoyment of the right, but prejudicial to its existence. Damages at law would be wholly inadequate to the vindication of such a right. Successive suits for successive interferences, instead of redressing the wrong, would in the end be worse than the wrong itself. There are many cases in the books, of restraint by injunction for such interferences. In principle, it is the same as the one cited from 5 Casey 322. Courts of equity will restrain acts of trespass, or nuisance, to prevent multiplicity of suits: Brightly's Eq. \u00a7 295. That is, where the redress could only be by and through the medium of a multiplicity of suits or actions. So, where wrongful acts might become the foundation of an adverse right, such as the diversion of water: Webb v. The Portland Manufacturing Co., 3 Sumn. 189; 2 Johns. Ch. 164. It is just in cases like the present, if the right be fully established, that the power of a court of chancery is most salutary. The right can be ascertained, and by the same proceeding petty annoyances and vexatious litigations restrained.\nWe do not mean to discuss the evidence in this opinion. We have carefully examined it, and see no error in the conclusion arrived at by the learned judge of the Common Pleas-, excepting it may be in the matter of the decree. It seems to us, that the same evidence which properly brought the learned judge to the conclusion that the complainants had a right to enter and remove obstructions, indicated the manner of that exercise, namely, by throwing the surplus gravel, earth, and stones on the bank of the stream. Without evidence to this effect, I think it would be an incident of the right to remove such materials from the stream, always to be exercised by doing as little injury as possible. But the abstract principle need not be discussed, for the right and the manner of its exercise in this particular is established by the same testimony, and subject to the same principle. With the modification indicated, the decree will be affirmed, and this will affirm both appeals at the costs of the respective appellants. The decree, as modified, is as follows:\u2014\nAnd now, to wit, February 6th 1860, this cause came on to be heard at this term on appeal, and was argued by counsel, and thereupon, on consideration thereof, it is ordered, adjudged, and decreed: That the said Daniel Stout, the defendant, his heirs and assigns, be perpetually enjoined and restrained from obstructing the flow of the water in the bed of the creek called \u201c Sandy Run,\u201d upon his land conveyed to him by deed of Joseph Paxson and wife, dated April 5th, A. D. 1853, and recorded at Norristown, in Deed Book No. 87, page 203, &c.; and from interfering with, molesting, hindering, or preventing the same complainants, their heirs and assigns, from going into and upon the said tract of land, so owned by the said defendant as aforesaid, with their labourers, implements, wheelbarrows, handcarts, boats or batteaux, and cleansing the bed of the said creek to a width not exceeding seven fee|,at the bottom, and eight feet between the banks on the surface, through the whole course of the same, upon said defendant\u2019s said tract of land, when and as often as the said bed of the said creek shall become and be from time to time obstructed there, by accumulations of earth, sand, gravel, mud, sticks, stones, and other material, which from any cause whatever shall, or may be now or at any time here- . after deposited in any part thereof, hindering the free passage of the waters of the said creek into and through the land of the said complainants, and to their said mill; the said complainants, their heirs and assigns, not sinking or deepening the bed or channel of said creek, under colour or pretence of so cleansing the same, but being allowed and permitted to use so much of the said earth, and other materials so taken from the bed of the said stream there, in mending and repairing the banks of the said stream upon said land, as may be necessary for that purpose, and depositing the residue of the said earth, sand, gravel, and stones on the banks thereof, so as to do as little injury as possible to the meadow and arable land of the said defendant; and without unnecessary delay, removing . from the said premises all timber, driftwood, brush, and sticks taken from the said stream, and in no case suffering the same to be and remain on tne said premises of the defendant for a longer period than twenty-four hours; and in cleansing the stream, and in removing the material, so as aforesaid required to be removed, doing no unnecessary damage to the land and possession of the said defendant.\nThis decree to be without prejudice to the right of the said defendant, his heirs and assigns, to use the water of the said Sandy Run on his said land, in any and all manner of lawful ways, uses, and purposes, as fully as he might heretofore have done; so that after so using it, he return it to its proper channel on his said land, so that the same may thence continue to flow in and upon the lands of complainants, and to their said mill,, as the same has been accustomed to flow, and without, unnecessary detention thereof.\nAnd the court further order, adjudge, and decree, that', the defendant pay all the costs in1 the case, except $37.50; which last-named sum, it is adjudged, ordered,, and decreed, shall be paid by the complainants themselves, as their apportioned share of the costs, without any manner of recourse therefor to or against the-said defendant; and that to that extent the said complainants be not allowed their said costs as against the-said defendant.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "Muhany, for the defendant below.",
+      "O. B. Pox, for the complainants below."
+    ],
+    "corrections": "",
+    "head_matter": "Scheetz\u2019s Appeal. Stout\u2019s Appeal.\nThe granting or refusal of an issue, in equity, is not the subject of an appeal. It is but a means of informing the conscience of the court as to disputed facts, and the verdict is not even binding, if the court think it wrong.\nThe Courts of Common Pleas have jurisdiction in equity, to restrain, by injunction, repeated acta of trespass upon the legal rights of the complainant.\nAppeals in Equity from the Common Pleas of Montgomery.\nThis was a hill in equity by William H. Scheetz and Francis S. Scheetz against Daniel Stout, for an injunction to restrain the defendant from obstructing them in the exercise of their right to enter upon a tract of land belonging to the defendant, in order to clean the bed of a stream called Sandy Run, by the waters of which the plaintiffs\u2019 grist-mill was propelled.\nThe bill set forth that the complainants were the owners in fee, and occupiers of a certain tract of land in Springfield township, upon which was erected an ancient mill, which was, and had been for a long time past, used by the complainants, and those under whom they claimed, as a grist-mill. That the machinery of the said mill had always been propelled by the waters of a creek, called Sandy Run. That the said creek, in its natural course, flowed through a tract of land owned and occupied by the defendant ; thence through land formerly owned by the complainants (but lately conveyed by them to John Fitzwater, reserving, however, the stream of water and one pole of land on each side thereof), into and through the land so owned and occupied by the complainants, and supplied all the power for the operations of their said mill.\nThat for more than thirty years past, the complainants and those under whom they held the said land and mill, had been in the practice, without interruption, molestation, or hindrance from any person whatever, of going into and upon the land so owned by the defendant, and cleaning the bed of the said creek, through the whole course of the same, whenever it became obstructed from any cause whatever; and of placing the earth, &c., so removed therefrom, upon the banks thereof, upon the land owned by the defendant, within one perch of the said stream on either side.\nThat, on the 1st August 1855, the complainants went upon the premises of the defendant, in the manner they had, for more than thirty years before that time, been accustomed, and as they lawfully might, and cleaned out from the bed of the said stream, where it passed through the defendant\u2019s land, certain obstructions existing therein, and deposited the earth, &c., removed therefrom, as they had during all the time aforesaid, in like case, been accustomed, and of right ought, upon the banks of the said stream, upon the land of the defendant; and that the defendant, immediately afterwards, threw back the same into the said stream; and from that time had maintained the said obstruction in the said stream, and refused to permit the complainants to remove the same; by reason whereof the waters of the said stream were prevented from flowing in its channel through the defendant\u2019s land, to the complainants\u2019 mill, as freely and uninterruptedly as it used to do for more than thirty years prior to such obstruction thereof by the defendant; and the operation of the said mill had, in consequence thereof, been greatly retarded and its value lessened.\nThat the complainants had repeatedly requested the defendant to remove the said obstruction from the bed of the said stream; but that he had refused so to do, and had absolutely forbidden them from entering upon his premises for the purpose aforesaid; and denied their right so to do.\nThey, therefore, prayed that the defendant might be restrained, by injunction, from hindering and preventing them in the exercise of their said rights when and as often as the bed of the said stream should, from any cause, become obstructed, &c.\nThe defendant, by his answer, admitted that he had done the acts complained of in the bill; but denied the right of the complainants to enter upon his land for the purposes set forth in their biH.\nThe complainants filed a general replication; whereupon the defendant asked the court to direct an issue to try the facts in controversy. The court below refused to grant an issue, and appointed an examiner to take testimony. Many witnesses were heard, whose testimony it is unnecessary to detail, inasmuch as the result of the evidence is fully stated in the following opinion delivered in the court below, on the hearing of the cause, by Smyser, P. J.:\u2014\n\u201c The complainant rests his claim to the right which he asks to have protected by an injunction, on two grounds: 1st. On the ground of a license executed, on the faith of which labour and money have been expended, and which is, therefore, irrevocable: 2d. On the presumption of a grant from adverse claim and user for twenty-one years and upwards.\n\u201cAs by the pleadings, no question is raised as to the complainants\u2019 right to stand upon both grounds of title, at one and the same time, however inconsistent, I shall treat the case as though the evidence in support of both were properly before us for consideration.\n\u201c And first, as to the license: We are of opinion that it is not sufficiently proven. The authority to divert the course of the .stream into the new channel prepared for it in 1820, is clearly enough established, and is hardly gainsayed. But the alleged license to enter upon the defendant\u2019s meadow, for the purpose of cleaning and repairing, and depositing the mud, earth, sand, gravel, &c., removed, in the process, from the bed of the stream, upon its banks, within the meadow, rests, as we conceive, solely on the testimony of a single witness, which is insufficient to prevail against the sworn answer. That witness is George Lenhart. John Whitcomb, the only other witness who speaks on the subject, testifies only to the permission to dig the new channel, but says nothing as to the right to clean, repair, &c.\n\u201c The testimony of Charles Eeinemare is relied on as establishing circumstances equivalent to the testimony of a second witness. We do not think it is entitled to this effect, for two reasons: 1st. Because the circumstances he speaks of did not transpire until in the year 1847 \u2014 being twenty-seven years after the date of the alleged license: 2d. Because the fact itself is, in our opinion, insufficient. The transaction stated by him seems to have been in the nature of a special agreement or arrangement upon and in accordance with special stipulations, involving no necessary recognition of a previously existing right in complainants. It seems rather to have amounted to the exaction of a duty from them, which is the very reverse of the present claim.\n\u201c I do not enter into an examination or analysis of Lenhart\u2019s testimony, as this view renders it unnecessary; although there are considerations calculated to disparage it as to the accuracy of his recollections \u2014 although not, perhaps, as to his integrity. There is one consideration, however, too obvious and significant to be overlooked. Is it to be conceived, that a right, deemed so important to the party under whom complainants hold, and encumbering the estate of the other party with a quasi easement, would have been created and left to stand upon a mere casual conversation, in a private interview between the parties alone, evidenced by no writings, and not even a witness called in ? \u2014 for Lenhart\u2019s presence, according to his own account, was purely accidental, and not called for or provided by the parties. And especially does this seem unusual and strange, when we remember, that the right so created and given, was to be perpetual \u2014 extending through all future time, when the witnesses of the oral agreement, even if any had been provided, would be dead, and the proof of it impossible. \u2019Tis true, every license is not an estate, or even an easement. Still, the hypothesis is, that a permanent right was intended to be created, worthy of a more permanent muniment.\n\u201c Secondly. As to the title by user and prescription. We think there is sufficient evidence to show that complainants, and those whose title they hold, exercised the privilege of entering upon respondent\u2019s land within the meadow, and cleaning the new channel and freeing it from obstructions, for the period of twenty-one years and upwards from the time it was dug and the water of the ereek turned into it; and that this was done under a claim of right, adversely and continuously, and with the knowledge and acquiescence of the owners and occupiers of the servient tenement, may fairly and reasonably be inferred from the whole of the testimony. There is too strong an array of positive testimony, by those who were personally engaged in the work, to be overborne by the negative evidence of witnesses, however respectable.\n\u201c But we think the evidence does not establish the right to place and leave on the bank the material removed from the channel. The privilege so claimed and exercised, after the lapse of twenty-one years, became a right, which has not since been forfeited or lost by nonuser; and in this right, to the extent hereinafter designated, complainants are to be protected by an injunction.\n\u201c The court is of opinion, that the right may and ought to be exercised with as little inconvenience and damage to respondent, as is consistent with its fair and proper exercise; and that there is no occasion or necessity for (and, therefore, we do not recognise the right of) going upon respondent\u2019s meadow along the margin of the stream, with oxen, horses, mules, carts, or wagons, or anything of that sort. The whole extent of the channel within the meadow is but about 200 feet; the amount of dirt and rubbish to be taken out and removed, we are satisfied, from the proof and our own inspection of the ground, can never be great at any one time, and may easily be removed with barrows, hand-carts, and similar means.\n\u201c This limitation thus imposed is in accordance with the rule that prohibits the owner of an easement by necessity, from doing unnecessary injury to the servient tenement, and requires him to repair, so far as he can, whatever damage he may have caused; and it is in harmony, also, with the proof, which, taken altogether, shows no exercise of the right here claimed and allowed, on the footing of prescription, otherwise than as the same would have been in the case of a natural easement.\n\u201c The new channel is to be taken as substituted by consent for the original bed and course of the stream; but with no other incidents than those that would have pertained to it in its natural channel; and complainants occupy the position of those who have acquired the prescriptive right to enter on the premises of a mprariparian owner for the purpose of cleaning such a stream and removing casual obstructions in the bed thereof, or of repairing such breaches in the banks as would divert the water, without its again returning to its ancient bed or channel.\n\u201c This right they have in this substituted channel, according to its actual width and condition at the time of the filing of the bill in this case, as ascertained and described and set forth in the draft and survey of J. Morton Albertson, marked \u2018Daniel M. Smyser, Nov. 10, 1858,\u2019 annexed hereto and ordered to be filed herewith, and which is the same referred to and spoken of by the said J. Morton Albertson, in his testimony delivered before the examiner.\n\u201c The right thus recognised the complainants must so exercise as to do no unnecessary damage to the defendant. They must, in a reasonable time, and without any unnecessary delay, remove from respondent\u2019s premises the dirt, rubbish, &c., which they may remove from the stream in cleaning it, or so much thereof as is not used in the necessary repairs of the banks; they are to do this, subject to the restriction hereinbefore mentioned, as to the means, vehicles, and instruments to be used, and without prejudice to respondent\u2019s right to the use of the water on his own land in any and all lawful ways, so that the latter, after using it, return it to its proper channel without any unnecessary detention thereof.\n\u201cIn the enjoyment of this right, thus defined and limited, complainants are entitled to be protected against hindrance, molestation, or interference; and, as the case stands before us, by an injunction, which is, accordingly, awarded on the terms and conditions aforesaid.\n\u201cIn regard to the costs, we consider this a fit case for an apportionment of them on equitable principles. The complainants\u2019 right, though partially established, was not so clear and manifest as to dispense with the necessity for proof to establish it, especially when we remember that defendant\u2019s occupancy and ownership is comparatively recent \u2014 that the claim had not been asserted or right challenged for some time previously, and that both rested on grounds and evidence of which the defendant may well have been unapprised. The decree, moreover, sustains a part only of the claim challenged by the bill. We think justice will be done, in this part of the case, by directing that the examiner\u2019s fees, which we fix at $75, be paid equally by the parties; and that complainants be allowed all their other costs in the cause, to be taxed and allowed in the usual manner.\n\u201c The solicitor for complainants will prepare and present a decree, in accordance with the foregoing directions, giving notice thereof to the solicitor for defendant, according to the rule in such cases.\u201d\nFrom the decree made in accordance with this opinion, both parties appealed to this court.\nMuhany, for the defendant below.\nThe court erred in refusing to direct an issue as requested by the defendant. No court of chancery has ever assumed the decision of the whole controversy jn such a case: 3 Dan. Ch. Pr. 1860. The right of the complainant ought generally to be admitted, or established at law before the granting of an injunction: White v. Booth, 7 Verm. 131; Shields v. Arndt, 3 Green. Ch. 234; Caldwell v. Knott, 10 Yerg. 209; Hart v. Mayor of Albany, 3 Paige Ch. 213; Reid v. Gifford, 6 Johns. Ch. 19 ; Biddle v. Ash, 2 Ash. 211; Porter v. Witham, 17 Maine 292; Adams\u2019 Eq. 378; Pemberton v. Pemberton, 13 Ves. 298; Booth v. Blundell, 19 Id. 500; Waterford v. Knight, 11 Cl. & Fin. 662; Battin v. Masters, 2 Ph. 290; Charles\u2019 River Bridge v. Warren Bridge, 2 Pick. 379 ; Marston v. Brackett, 9 N. H. 349.\nEven where the granting of an issue is a matter of discretion, a mistake in the exercise of that discretion is a just ground of appeal: Townsend v. Graves, 3 Paige Ch. 457; Belknap v. Trimble, Id. 601; Gardner v. Gardner, 22 Wend. 526; Drayton v. Logan, Harp. Eq. 67; Hampson v. Hampson, 3 Ves. & B. 43; Adams\u2019 Eq. 1289.\nBut independently of chancery rules, it is claimed that the defendant had a constitutional right to an issue: Const. of Penn. Art. 9, sect. 6, \u00a7 1; Marston v. Brackett, 9 N. H. 336.\nThe court erred in sustaining the claim of the plaintiffs on the ground of user and prescription. [The counsel here reviewed the evidence given in the court below.] It is admitted that a continued, uninterrupted, and adverse use of an easement under a claim of right, and with the acquiescence and knowledge of the person interested, for the period of twenty-one years and upwards, will justify a jury in finding in favour of a party who sets up a right arising out of such use. But then the use must be adverse to the right of the other party; it must be commenced with some open act, under a claim of right, and be continued with the knowledge and acquiescence of the owner of the inheritance for twenty-one years; and the proof in such case must be clear, definite, and unequivocal, both as to the time of the enjoyment and the extent of the right: Union Canal Company v. Young, 1 Wh. 426; Buckholder v. Sigler, 7 W. & S. 160; Jones v. Crow, 8 Casey 406; Parker v. Foote, 19 Wend. 309; Hunt v. Rose, Id. 355; Luce v. Carley, 24 Id. 451; Walker v. Dickenson, 1 Conn. 318-82; 2 P. Wms. 175; 11 East 371; Ingraham v. Hutchinson, 2 Conn. 584; Esling v. Williams, 10 Barr 128.\nO. B. Pox, for the complainants below.\nThe jurisdiction of the court is conferred by the Act 16th June 1836, \u00a7 16, Brightly\u2019s Purd. 306, pl. 3, and the rule in chancery is well settled that the granting of an issue is entirely in the discretion of the court: Baker v. Williamson, 2 Barr 116; s. c. 4 Id. 469; Dale v. Roosevelt, 6 Johns. Ch. 257.\nThe court had power to grant an injunction, though the right had not been tried at law: Denny v. Brunson, 5 Casey 382; Webb v. Portland Manufacturing Co., 3 Sumn. 189; Gardner v. Village of Newburgh, 2 Johns. Ch. 164; Rerick v. Kern, 14 S. & R. 271.\nThe right by prescription is clear. This is an ancient mill; and entitled to peculiar privileges : Strickler v. Todd, 10 S. & R. 68. The doctrine of prescription is based upon the presumption of a grant, the evidence of which is lost. The maxim of the law is, that whoever grants a thing, is supposed also tacitly to grant that without which the grant would be of no effect; and accordingly whenever anything is granted, all the means to attain it, and all the fruits and effects of it, are granted also, and will pass inclusive, together with the thing, by the grant itself, without the words appurtenances, or anything else: Angell on Watercourses, \u00a7 158; Darlington v. Painter, 7 Barr 475; Frailey v. Waters, Id. 221; Prescott v. White, 21 Pick. 431; Prescott v. White\u2019s Administrator, 5 Met. 429.\nThe defendant has much greater reason to be satisfied with the decree than the complainants. Their right to cleanse the channel is in some sort protected by it, but this is rendered almost nugatory by the order to remove from the premises the surplus earth not needed for repairs. The usual practice in such cases is, to put the surplus earth upon the bank; and the general custom would, in the absence of evidence, be the law: Prescott v. White, supra. But there was the positive testimony of several witnesses directly on the point, and nothing but negative evidence to the contrary."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 88,
+  "last_page_order": 97
+}

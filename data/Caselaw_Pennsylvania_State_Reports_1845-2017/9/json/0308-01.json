@@ -1,0 +1,62 @@
+{
+  "id": 960716,
+  "name": "Oliphant v. Frost",
+  "name_abbreviation": "Oliphant v. Frost",
+  "decision_date": "1848",
+  "docket_number": "",
+  "first_page": "308",
+  "last_page": "308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 137,
+    "char_count": 1594,
+    "ocr_confidence": 0.356,
+    "sha256": "c9e03762b0f1184b42e0578bdfe92e208ed6fedc85487d7526a657daa07e56f8",
+    "simhash": "1:6188f087893dc3db",
+    "word_count": 279
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oliphant v. Frost."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nBy agreement of the creditors, the bond was paid into court as cash; and a fund in court does not bear interest. If the obligor was ready with the money when called for, it was all they could ask. The purchase-money was not invested for accumulation, and they knew it. The security was taken as an equivalent for the thing secured; and having the benefit of it, they cannot complain that the shadow is not greater than the substance. But they had a right to have the bond entered up; and whether it was at the suit of the proper plaintiff, cannot be told, as the bond is not part of the record. A transfer to a legal assignee could be pleaded as a defence on the merits, which could be attained only by opening the judgment.- But the execution for interest is erroneous.\nExecution set aside.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Patterson, for plaintiff in error.",
+      "Veech, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Oliphant v. Frost.\nWhere the Bond of a purchaser at sheriff\u2019s sale has Been deposited in court By consent, in lieu of the purchase-money, it does not carry interest.\nIn errpr from the Common Pleas of Fayette.\nIt appeared that Oliphant, having purchased certain real estate at sheriff\u2019s sale, executed his bond, with warrant of attorney, to one Frost, conditioned to pay the purchase-money. By consent of creditors, the sheriff deposited the bond in court, arid Frost assigned it to the prothonotary. .On the application 'of the creditors, the court ordered judgment to be entered and execution to issue for the debt secured thereby, with interest from its date. This, and the issuing execution in the name of Frost, were assigned for error.\nPatterson, for plaintiff in error.\nVeech, cont\u00f3."
+  },
+  "file_name": "0308-01",
+  "first_page_order": 308,
+  "last_page_order": 308
+}

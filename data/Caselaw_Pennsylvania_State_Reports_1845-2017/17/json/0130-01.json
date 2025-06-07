@@ -1,0 +1,103 @@
+{
+  "id": 967578,
+  "name": "Fritz versus Commissioners",
+  "name_abbreviation": "Fritz v. Commissioners",
+  "decision_date": "1851-12-29",
+  "docket_number": "",
+  "first_page": "130",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Pa. 130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts 536",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843994
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0536-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates 79",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6771200
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0079-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 9",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823533
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/4/0009-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 658,
+    "char_count": 14562,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 1.2047019577855868e-07,
+      "percentile": 0.5945423845173985
+    },
+    "sha256": "846a39e0a46eaea9af1eb234a22ad47481dcef1dee9721bdb1b26fdb0a51a10f",
+    "simhash": "1:aaab5cb13e34dc71",
+    "word_count": 2619
+  },
+  "last_updated": "2024-02-27T16:05:10.368024+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fritz versus Commissioners."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, J.\nAn action was brought in this case in the name of \u201cThe Board of Commissioners of Montgomery county,\u201d upon a bond purporting to be executed by the defendant below, in that form. The bond was executed also by Jacob S. Sands, and was given to secure the faithful performance of his duty as collector of taxes. Issues were joined in the court below, upon the pleas of non est factum and payment; ,and the cause ought to have been tried upon those issues. These pleas admitted the legal capacity of the plaintiff to maintain the action, in the name set forth in the declaration. That right being thus admitted upon the record, it was not material to inquire whether it was founded upon an actual existence as a natural person, or upon a legal existence as a corporation thus named. It was sufficient that the plaintiff was thus \u201cnominated,\u2019\u2019not only \u201cin the bond\u201d but on the record, by consent of the party now seeking to raise' an objection upon the ground of misnomer. Conceding that the plaintiff was not properly described, the objection is available only on a plea in abatement. A verdict for the defendant on such a plea affects only the action, and leaves the plaintiff at liberty to commence a new suit in the proper form; but a decision in favor of the defendant, on non est faotwm, or payment, bars the right for ever. To permit a defendant to obtain a verdict on a plea which extinguishes the right, by means of formal objections of misnomer, which go only in abatement of the particular action, would be to sanction the most glaring outrage upon justice, by means of a violation equally palpable of the plainest principles of pleading. There is a time for all things. Every plea must be pleaded in the order prescribed by law ; and every trial must be confined to the issue joined. In this case it was entirely out of place to urge the misnomer complained of, and it was also too late to make the objection in any form of pleading. 1 Saund. Pl. & Ev. p. 1-2; 2 W. & Ser. 156; 5 W. & Ser. 215; 4 Rawle 9; 10 Ser. & R. 257.\nThe objection to the competency of Samuel H. Graff is without foundation. He never was a party to the contract, nor had he at any time any further interest in the recovery than that which is common to every tax-payer of Montgomery county. It is not material to inquire whether he was Commissioner of the county at the time the bond was executed, or at any other time, inasmuch as it does not appear that he has been guilty of any neglect which should make him liable for the matter in controversy in any event. His holding, at one time, the office of Commissioner does not affect his interest; and if it did, the objection is removed by the Act of 16th April, 1840, which takes away all objections by reason of being \u201c an officer, or rated citizen, or inhabitant of the county.\u201d The court below did but conform to the well settled rule of law in permitting the plaintiff, after the recollection of the subscribing witness failed, to establish the execution of the bond by other testimony. Burr. 2224; 7 Taunt. 251; Douglass 206; 2 Camp. 635; Skin. 79, 413, 637; 1 Saund. Pl. & Ev. 939.\nThe objection that the bond is destroyed by reason of N. Wagonhurst\u2019s name being attached as an attending witness, is destitute of an essential ingredient to make it available. It does not appear to have been done at the request of the plaintiff, or even with the knowledge of any of the Commissioners or officers of the county that it was without the consent of the obligors. On the contrary it appears affirmatively to have been done at the request of at least one of the obligors, ih the absence of the obligee, and whether in the presence or absence of the party who now makes the objection does not distinctly appear, owing to a failure of recollection on the part of the witness. In these material circumstances the case is widely different from Marshall v. Gougler, 10 Ser. & R. 169; Foust v. Renno, 8 Barr 378, and Henning v. Werkheiser, 8 Barr 518, on which the plaintiff in error relies. Under the circumstances of the case before us it would have been error in the court below to have decided as matter of law that the bond was void. It was proper to admit it in evidence; and this objection is therefore at an end, as we do not review the decision of the jury, and no complaint is made of improper instructions in the charge of the court below.\nJudgment .affirmed.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Thomas for plaintiff in error.",
+      "''Box, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Fritz versus Commissioners.\n1. In an action on a bond in favor of The Board of Commissioners of Montgomery County, alleged to liave been executed by a collector of taxes and the defendant as his surety, wherein the pleas were non est factum and payment; Held, that the pleading admitted the legal capacity of the Commissioners of Montgomery county, in that name, to maintain the action. The objection to the form of action could have been raised only by plea in abatement.\n2. In such a suit against the surety in the bond, one who had been a commissioner before the suit was brought, was not on that account an incompetent witness on the part of the plaintiffs, especially since the passage of the sixth section of the Act of 16th April, 1840, relating to executions, by which such a disqualification is provided against.\n3. If the recollection of the subscribing witness has failed in relation to the execution of the bond, its execution may be proved by the admissions of the obligor, and otherwise.\n4. The addition of a subscribing witness to a bond, after its execution, made at the instance of one of the obligors, and whether the other obligor was present or not, did not distinctly appear, but not made at the request of the obligees or with their knowledge, does not render the bond invalid.\nError to the Common Pleas of Montgomery county.\nThis was an action to December Term, 1850, in the name of The Commissioners of Montgomery county against Samuel Fritz. It was an action of debt on bond. Defendant pleaded non est factum, and payment, &c. October 14th, 1850, judgment in favor of the Commissioners of Montgomery county (plaintiffs), for $1202.45.\nSuit was brought to November Term, 1847, in the name of \u201cThe Commissioners of Montgomery county,\u201d against Samuel Fritz, and plaintiffs filed a declaration alleging defendant to have executed a certain bond,'dated the 27th day of July, A. D. 1845, in which he, together with Jacob S. Sands, was bound to the Board of Commissioners of Montgomery county, in the sum of $3500, conditioned that said Jacob S. Sands (collector of taxes of Douglass township) should pay into the county treasury the amount of his duplicate, deducting his commissions, &c.\nThe defendant below (Samuel Fritz), admitted he had been security for the years 1843-4, but denied the execution of this bond; and the plaintiffs, to support their case, called Nathan Wagonhurst, the only subscribing witness to the bond, who testified that he subscribed his name to the bond as a witness; that he did not see either Sands or Fritz sign the bond; that he had no recollection of Fritz being present at the time; that witness signed, as a witness, at Sands\u2019 house; Sands sent for witness to come over and witness the bond; remembered no one present but Sands and himself, and probably Joseph Nettles; he never saw Fritz write, and don\u2019t know anybody but Fritz\u2019s family who know his handwriting. Witness said he knew Sands\u2019 handwriting; think the signature is Sands\u2019; the body of bond looks as if Sands filled it up; could not say, from his knowledge of Sands\u2019 handwriting, that the signature \u201cSamuel Fritz\u201d is his; it looks as if Sands had done both\u2014but can\u2019t say. Fritz had a daughter and sod nearly grown; they are yet alive.\nPlaintiff then called Samuel H. Graff, who, being sworn, said: Some time after Sands absconded Eritz came to my house; I was then Commissioner; he wanted to see how much Sands owed on his duplicate.\n[Here the testimony of Samuel H. Graff was objected to: Court stated that they would first hear the statement of the witness.]\nWitness then proceeded, under objections by defendant, and stated:\u2014That Eritz complained that it would be hard for him to pay; I said that N. Wagonhurst was witness to bond; he (defendant) replied none was present when he signed the bond; that he had been his bail before in several bonds which Sands had paid off and brought to him; he said he had not hesitated to sign the bond, but there was no witness, and if this witness was to it his name must have been obtained afterwards; I know that Eritz paid over money to me, which he said he had collected, and I paid it over to the treasurer; he told me the day Sands left home, on Easter Monday; that Sands drew out the names of several persons from that duplicate on paper, and put the different amounts of tax opposite, that each man owed, and that he had left it in the possession of his family, so that when the persons who owed the money called, they should know how much to receive; Eritz wanted to know of me if he could not collect that money, and I said he could; he collected some tax and paid it over; this conversation was in the spring of 1846; the tax Eritz paid was on the duplicate of 1845; he paid it shortly before July 27, 1846; I paid it to the county treasurer on that day; I did not tell him it was that of 1845; neither of us mentioned the year; we talked of the duplicate Sands had carried off; it was the last duplicate Sands ever had; Eritz did not tell me to credit the money to the tax of 1845; Eritz never pretended to me that he had not signed the bond; I was not sitting in the Board of Commissioners when he called to see the bond; the Treasurer made the entry I refer to, in the county books; Sands was collector for several previous years; I had nothing to do with any previous years.\nTestimony of Samuel H. Graff, received under objections of defendant, and defendant excepted.\nThomas B. Evans was then called by plaintiffs below:\u2014Stated he was clerk for Commissioners; that Sands owed only on his last duplicate ; he knew nobody acquainted with Eritz\u2019s handwriting ; good deal of similarity between writing in body of bond and Eritz\u2019s signature to the bond; did not know that Eritz was informed it was the tax of 1845; the balance due on this duplicate is, county tax, $381.76, state tax, $599.86; both unpaid except allowance of 64 cents. Sands was collector for 1842-3-4-5 > Fritz had been security for him before, but don\u2019t recollect how many years; duplicate for 1844 was settled November, 1845, and all bonds, except for 1845, given up. Eritz had no notice that duplicate for 1844 was settled; Sands went off in spring of 1846. Commissioners\u2019 and Treasurer\u2019s books' shown to witness and identified by him.\nPlaintiffs then read the bond in evidence, under objection of defendant; defendant excepted.\nDefendant below then offered James B. Evans, witness:\u2014Who testified that he knew Sands\u2019 handwriting; that the body of the bond was Sands\u2019 writing, and that between'that and signature Samuel \u201cFritz\u201d there is great similarity; thinks all signatures and body the same ink.\n\u25a0 Yerdict for plaintiffs for $1202.45.\nIt was assigned for error :\n1. There is no person named as plaintiffs to the suit, in whose favor judgment could be entered.\n2. The court erred in admitting Samuel H. Graff as a witness in the case.\n3. The court erred in admitting evidence of admissions of defendant, without any evidence of the execution of the bond.\n4. The court erred in permitting the bond to be read in evidence.\nThe case was argued by Thomas for plaintiff in error.\n1. In Glover v. Wilson, 6 Barr 290, the suit was brought in the names of the late Commissioners, who were parties to the bond, and not in the name of the board existing at the time of suit. The Board to whom the bond in this suit was given, had gone out of office at the time suit was brought.\n2. Graff stated that he was a Commissioner in the spring of 1846. He was then a party to the bond when it was given, and a party to the suit when it was brought, and therefore not competent: 2 Barr 46, Clover v. Painter; 2 Id. 425; 1 Id. 364.\n3. The court erred in admitting evidence of admissions, while there was evidence of the existence of better testimony, to prove the execution of the bond, and the circumstances connected with the execution. Wagonhurst, the subscribing witness, did not see defendant sign the bond; he did not remember that the defendant was present. Witness also stated, that he believed Joseph Nettles and some of Sands\u2019 family were present when he signed as a witness. After this testimony was received, the court admitted evidence of admissions, without any effort to get the other witnesses, or to prove the handwriting of defendant. This was admitting secondary evidence, when it appears there was better evidence.\n4. The addition of a subscribing witness to a bond, without the consent of one of the parties to it, avoids the bond as to him: Henning v. Werkheiser, 8 Parr 518; Id. 381.\n''Box, for defendant.\nAs to the validity of the bond and the propriety of the suit, he cited Glover v. Wilson, 6 Barr 290. The defendant contracted with the Board of Commissioners, and it is not competent for him to allege that there are no proper obligeesin the bond. The Board of Commissioners is constituted by sect. 19 of Act of 15th April, 1834. See also sect. 20.\nThe jury have found the execution of the bond.\nGraff was a competent witness:\u20141. He was not a party to the suit. He had years ago ceased to hold the office.\n2. He had no possible interest. He could not in any way be affected by the result of the suit.\n3. The 6th section of the Act of 16th April, 1840, provides that \u201cNo person shall be excluded from being a witness or juror in any suit, prosecution, or proceeding, in which any county, city,\u201d &c., \u201c is a party, or is interested, by reason of such person being or having been an officer, rated citizen, or inhabitant of such county, city,\u201d &c.\nIt is submitted that his testimony was pertinent.\nThe memory of the only witness to the bond- had failed. He could not remember whether defendant was present and executed the bond or not. The law presumes, in the entire absence of proof to the contrary, that he was present, and that the execution was regular. Brand must be proved, not presumed.\nUnder such circumstances, it was surely proper to show the acknowledgment of defendant that he had executed the paper. That which was doubtful was thus rendered perfectly clear. 4 Yeates 79; 5 Watts 536; 1 Greenleafs Ev., sec. 573, and note 8.\nBornance, in reply.\nDec. 29, 1851,"
+  },
+  "file_name": "0130-01",
+  "first_page_order": 130,
+  "last_page_order": 136
+}

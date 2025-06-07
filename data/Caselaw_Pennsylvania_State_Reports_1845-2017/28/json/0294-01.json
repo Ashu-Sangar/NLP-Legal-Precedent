@@ -1,0 +1,104 @@
+{
+  "id": 981687,
+  "name": "Hutchinson versus Boggs & Kirk",
+  "name_abbreviation": "Hutchinson v. Boggs & Kirk",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "294",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts 27",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Wh. 281",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833449
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/3/0280-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 222",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 W. & S. 445",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856518
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0445-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 351,
+    "char_count": 7137,
+    "ocr_confidence": 0.424,
+    "pagerank": {
+      "raw": 4.5572646548594016e-07,
+      "percentile": 0.9246699324941339
+    },
+    "sha256": "2e599b38998b49925f33b7fc20366c9bf4cd3f57343572fd93712031e70c2ad4",
+    "simhash": "1:9d371e519c519de3",
+    "word_count": 1254
+  },
+  "last_updated": "2024-02-27T19:56:45.258485+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hutchinson versus Boggs & Kirk."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nIn a suit by an endorsee of a negotiable note against the maker, the presumption is that the plaintiff obtained it upon a valuable consideration in the usual course of business, before it was due: Snyder v. Riley, 6 Barr 168. He may rest on this presumption until the defendant makes out a prima facie case against him by showing that the note'was obtained from the defendant, or from some intermediate party, by fraud, felony, or force, or that it was lost: Knight v. Pugh, 4 W. & S. 445. But mere evidence of the want of consideration between the maker and the payee will not be sufficient to put the holder upon the proof of his title to the note: Knight v. Pugh, 4 W. & S. 445; Brown v. Street, 6 W. & S. 222; Albrecht v. Strimplee, 7 Barr 476; Stitt v. Garrett, 3 Wh. 281; Beltzhover v. Blacksloet, 3 Watts 27; Snyder v. Riley, 6 Barr 168. In the case in hand the action is brought on a negotiable note which was given to renew one previously given. The first was fairly made on a valuable consideration \u2014 the purchase of a quantity of pepper. But the affidavit of defence states that before that note came to maturity the payee wa.s employed by the maker to make sale of the pepper upon such terms that the proceeds of the pepper would meet the note at maturity; that afterwards the payee represented that he had sold the pepper on the maker\u2019s account, but on such terms that the note must be renewed in order that the time of the maturity of the note might agree with the time the proceeds of the pepper would be received; and upon these representations the note was renewed. But the payee of the \u25a0 note, instead of having sold the pepper on account of the maker, had converted it to his own use. Here is something more than a mere failure of consideration. There is a false pretence. If money, or any valuable thing, be obtained by such means, the guilty party may be sent to the penitentiary. It is a fraud which the law denounces as a dangerous crime. Ordinary prudence cannot guard against it. Some degree of confidence must be placed in such positive statements of facts, otherwise all business transactions will have an end. If the maker had relied on the mere promise of the payee to provide for the payment of the note at maturity, and -that had failed, the case would have shown nothing more than the ordinary one of a failure of consideration, and that is not sufficient to cast on the plaintiff the burthen of proving when he purchased, and what he paid for the note, as well as the circumstances under which the purchase was made. But the defendant was deceived by the false pretence of facts which had no existence.\nWe are of opinion that the defendant in his affidavit has made out such a defence as entitles him to call upon the plaintiff to show that he is the holder of the note by purchase, for value, before maturity, without notice of the fraud.\nJudgment reversed and procedendo awarded.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Alsop, for plaintiff in error.",
+      "Juvenal, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hutchinson versus Boggs & Kirk.\nIn a suit by an endorser of a negotiable note against the maker, the presumption is that the plaintiff obtained it upon a valuable consideration in the usual course of business before it was due; and he may rely on this presumption until the defendant makes out a prima facie case against him, that the note was obtained by fraud, felony, or force.\nWhere a negotiable note has been obtained from the maker under false pretences, and fraudulently put in circulation by the payee, in an action by the holder against the maker, the former, to entitle him to recover, must show that he was a holder by purchase for value before maturity 'of the note, without notice of the fraud.\nAn affidavit of defence by the maker, alleging such facts as show that the note was 'obtained from him by misrepresentations, and negotiated in fraud of his rights, is sufficient to prevent judgment being entered for want of a proper affidavit of defence.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit by Boggs & Kirk against Charles Hutchinson, on the following promissory note, given by the defendant to Robert Comly.\n$841.61. Philadelphia, January 13,1855.\nFour months after date I promise to pay to the order of myself, eight hundred and forty-one 61-100 dollars, without defalcation. Yalue received.\nSigned, Charles Hutchinson.\nEndorsed,\nCharles Hutchinson.\nBoaas & Kirk.\nThe suit was brought, and a bopy of the note filed on the 22d May, 1855, and on the 18th June, 1855, Hutchinson filed the following affidavit of defence :\u2014\n\u201c Charles Hutchinson, the above-named defendant,' being duly sworn, says, that he has a just and legal, defence to the plaintiff\u2019s claim in this case, of the following nature and character, to wit: The note on which this suit has been brought was obtained from the defendant by fraud and misrepresentation, and without any valuable consideration.\u201d\nOn the 23d June, 1855, a rule was taken to show cause why judgment should not be entered for want of a sufficient affidavit, and on the 29th of the same month a supplemental affidavit was ordered to be filed on or before the 7th July, 1855. On the 6th July the defendant filed the following:\u2014\n\u201c Charles Hutchinson being duly sworn, says : In addition to the facts sworn in his former affidavit, that the endorser of the above note, from whom the' plaintiff received said note, obtained the same from the defendant under the following circumstances, to wit: Defendant had purchased from said Robert Comly a quantity of. pepper, for which he gave his promissory notes; that before said notes matured, said Comly stated to defendant that he could sell for him the said pepper at a certain price, then agreed upon between them, the said .Comly and the said defendant, and upon such terms that the proceeds of the said sale would meet said notes at their maturity, and he, the said defendant, agreed that the said Comly might make said sale on his account. Afterwards said Comly stated to defendant that he had disposed of said pepper on said defendant\u2019s account, but on such terms that said notes must be renevred, in order that the time of maturity of said notes might agree with the time the proceeds of said sale would be received. Upon such representations defendant renewed said notes by giving others, of which the note now sued upon is one, relying on the representations of the said Comly, that said sale had been so made on his account; w'hereas, in truth and in fact said Comly had not sold said pepper on his account, but had converted the same to his own use; by means of which the consideration of said note utterly failed, and said defendant was defrauded out of a large amount, in addition to said notes.\u201d\nThe court below, deeming the affidavit insufficient, entered judgment against the defendant for wrant of a proper affidavit of defence, for the amount of the note, interest and protest fees.\nThe defendant thereupon sued out this writ, and assigned, that the court below erred in entering judgment against the defendant for want of a sufficient affidavit of defence.\nAlsop, for plaintiff in error.\nJuvenal, for defendant in error."
+  },
+  "file_name": "0294-01",
+  "first_page_order": 294,
+  "last_page_order": 296
+}

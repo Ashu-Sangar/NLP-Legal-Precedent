@@ -1,0 +1,91 @@
+{
+  "id": 480061,
+  "name": "Jones & Co. versus Milliken & Son",
+  "name_abbreviation": "Jones & Co. v. Milliken & Son",
+  "decision_date": "1862-01-06",
+  "docket_number": "",
+  "first_page": "252",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 Pa. 252"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Howard 763",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Howard 212",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Howard 234",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "case_ids": [
+        8831914
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/miss/2/0234-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 423,
+    "char_count": 8904,
+    "ocr_confidence": 0.459,
+    "pagerank": {
+      "raw": 9.680403875448956e-08,
+      "percentile": 0.5291889604374618
+    },
+    "sha256": "81ce95822356a9dafe5937dbbb38dd8eb2c2591537e49768d6f772578540f4ef",
+    "simhash": "1:3cdb0d55d000b67f",
+    "word_count": 1590
+  },
+  "last_updated": "2024-02-27T16:09:09.319934+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jones & Co. versus Milliken & Son."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Read, J.\nIn this case the opinion of the court is very meagre and hesitating, and no argument is presented on behalf of the defendants in error, nor is any case cited in the argument of the plaintiffs in error, but inferences are drawn, which are not sustained by anything in the case stated.\nThe owners of an accepted draft at six months, for $192.98, before its maturity delivered the same to Josiah Lee & Co., then bankers in Baltimore, for collection, who transmitted it to S. Jones & Co., residing in the city of Pittsburgh, the correspondents of the said Josiah Lee & Co., and on the 29th October 1860, the acceptor paid the amount to S. Jones & Co., who delivered the draft to him. S. Jones & Co. did not remit the amount to Lee & Co., nor did they make any advance upon it, but credited said Lee & Co. in account with the proceeds, there being on that day a balance on general account due S. Jones & Co. of $117. There was no evidence whatever of the mode of dealing and settlement between S. Jones & Co. and Lee & Co., nor how long it had continued, nor of what the account consisted which created the balance of $117. It was the mere naked case of one banker sending a note to another banker, not for discount but for collection, as appears by the endorsement on the bill itself. On the 1st November 1860, Lee & Co. failed, and on the 2d or 3d of the same month the plaintiffs notified the defendants not to pay the proceeds to Lee & Co., which they did not, but appropriated $>117 in payment of the general balance due them by said Lee & Co.\nThe case wants some of the most essential features of the case of The Bank of the Metropolis v. The New England Bank, 1 Howard 234, reaffirmed in 6 Howard 212, where the whole course of dealing between the Bank of the Metropolis and the Commonwealth Bank of Massachusetts, for a series of years previous, was proved in detail, and upon which the Supreme Court of the United States based their decision. If this case were the same in all its features as that in 1 and 6 Howard, we should apply its doctrine-to it, as it appears eminently correct. But this is not that case* but simply that of a person designating himself a banker in one city, sending a draft belonging to a third person to another per-] son calling himself a banker in another city, for collection, the first acting merely as the agent to transmit, and it therefore wants those elements which the Supreme Court thought necessary t\u00bf enable the collecting bank to retain for their general balance. The rule laid down by the Supreme Court was that if the collecting bank regarded and treated the remitting bank as the owner of the negotiable paper which it transmitted for collection, and had no notice to the contrary, and, upon the credit of said remittances, made or anticipated in the usual course of dealing, balances were from time to time suffered to remain in the hands of the remitting bank, to be met by the proceeds of such negotiable paper, then the collecting bank was entitled to retain against the real owner for the balance of account due from the remitting bank. This is clearly not the present ease, which is more like that of Wilson & Co. v. Smith, 3 Howard 763, in which-Chief Justice Taney says: \u201c It appears from the statement that he\u201d (the collecting agent) \u201cmade no advances and gave no new credits to St. John on account of this bill. He merely passed it to his credit in account. Now if St. John had owed him nothing upon the principles we have already stated, the plaintiff would be entitled to recover the money, and we see no reason he should be barred of his action, because St. John was debtor to the defendant, since the case shows that he incurred no new responsibility upon the faith of this bill, and his transactions with St. John remained in all respects the same as they would have been if this bill had never been transmitted to him.\u201d ,\nThe same doctrine is laid down in stronger language in; McBrides v. Farmers\u2019 Bank of Salem, 25 Barbour 657. Upon! reason then and authority, the real owners of the draft in question were entitled to recover from the defendants its full amount with interest and costs.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "by Read, J."
+      }
+    ],
+    "attorneys": [
+      "P. W. A. S. Bell, for plaintiffs in error.",
+      "John Mellon, for. defendants in error, furnished no printed argument."
+    ],
+    "corrections": "",
+    "head_matter": "Jones & Co. versus Milliken & Son.\nReciprocal Rights and Duties of Bankers in remitting a.nd collecting Drafts of third Parties.\n1. Where a banker in one city acting only as an agent to transmit, sends the draft of a third person to a banker in another city, for collection merely, and no advances are made nor new credits given on account of the draft, and there is no evidence of the mode of dealing between them, the collecting banker cannot, on failure of his correspondent, credit the proceeds of the draft to his account, but is liable therefor to the owner.\n2. But if a collecting bank regards and treats a remitting bank as the owner of the negotiable paper which it transmits for collection, and has no notice to the contrary, and upon the credit of such remittances made or anticipated in the usual course of dealing, balances are from time to time suffered to remain in the hands of the remitting bank, to be mot by the proceeds of such negotiable paper, then the collecting bank is entitled .to retain against the real owner, for the balance of account due from the remitting bank.\nError to the Common Pleas of Allegheny county.\nThis was an action of assumpsit, brought to March Term 1861, by James H. Milliken and J. R. Milliken, partners under the firm name of James Milliken & Son, against Samuel Jones and Michael Jones, partners doing business as S. Jones & Co., in which the following case was stated for the opinion of the court:\n\u201c It is hereby agreed by and between the said plaintiffs and the said defendants, that the following statement of facts be submitted to the court in the nature of a special verdict, to wit:\u2014\nOn the 26th day of April 1860, the. plaintiffs sold a bill of merchandise in the city of Baltimore to J. W. Tim, of the city of Pittsburgh, amounting to the sum of $192.98. On the same day the said Tim accepted a bill of exchange, drawn by said plaintiffs to their own order at six months, for the said sum of $192.98, and delivered the same to said plaintiffs, in payment of said bill of merchandise.\nThe following is a copy thereof, and the endorsement thereon, viz.:\u2014\n\u201c$192.98.\nBaltimore, April 26th 1860.\n\u201c Six months after date, please pay to the order of ourselves, one hundred and ninety-two T9085 dollars, value received, and charge the same to account.\n\u201c James H. Milliken & Son.\n\u201c To John W. Tim, Pittsburgh, Pa.\n\u201cEndorsed \u2014 James II. Milliken & Son.\nPay Messrs. Jones & Co. or order,\nFor collection. Josiah Lee & Co.\u201d\nBefore the maturity of said draft, said plaintiffs delivered the same to Josiah Lee & Co., their bankers in Baltimore, to be forwarded by them to Pittsburgh for collection, and the same came to the hands of S. Jones & Co., bankers, residing in the city of Pittsburgh, and the correspondents of Josiah Lee & Co. On the 29th day of October 1860, the said Tim paid to the said defendants, S. Jones & Co., the sum of $192.98, in payment of said draft, who thereupon delivered the same to said Tim. On the said last-mentioned day, Josiah Lee & Co. were indebted to S. Jones & Co., on general account, in the sum of $117, and they thereupon credited Josiah Lee & Co. with the proceeds of said draft in payment of said balance due them on general account \u2014 leaving a balance due Josiah Lee & Co., according to the defendants\u2019 appropriation of the proceeds of said draft, of $75.28. On the 1st day of November 1860, the said Josiah Lee & Go. became insolvent, and closed their said banking-house, and on the 2d or 3d day of November, A. d. 1860, the plaintiffs notified said defendants to refuse payment of the proceeds of said draft to Josiah Lee & Co., but to hold the same for them. Defendants did not remit the proceeds thereof, but appropriated the sum of $117 in payment of the general balance due them by Josiah Lee & Co. as aforesaid.\nJanuary 6th 1862,\nIf the court should be of the opinion that the plaintiffs are entitled to recover the whole amount of said draft, then they will enter judgment for the plaintiffs for the sum of $193.98, with interest; or if the court should be of opinion that the said defendants had a right to appropriate the sum of $117, part proceeds of said draft, in payment of the general balance due them by Josiah Lee & Co., then they will enter judgment for plaintiffs for the sum of $75.98, with costs, with liberty to either party to sue out a writ of error.\u201d\nThe court below (Mellon, J.) directed the entry of judgment for plaintiffs on the case stated. Whereupon the defendants sued out this writ, and assigned for error here the entry of judgment as above stated.\nP. W. A. S. Bell, for plaintiffs in error.\nJohn Mellon, for. defendants in error, furnished no printed argument."
+  },
+  "file_name": "0252-01",
+  "first_page_order": 254,
+  "last_page_order": 257
+}

@@ -1,0 +1,66 @@
+{
+  "id": 979681,
+  "name": "Miller versus Berkey for Yoder's use",
+  "name_abbreviation": "Miller v. Berkey",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "317",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 176,
+    "char_count": 2181,
+    "ocr_confidence": 0.435,
+    "pagerank": {
+      "raw": 9.675786280191906e-08,
+      "percentile": 0.5290949395119174
+    },
+    "sha256": "b760065fdb411ccfdae8b61000680c139571cceb7f72c928aa3c7f1650ecc509",
+    "simhash": "1:d08c42a1cf1d55a8",
+    "word_count": 380
+  },
+  "last_updated": "2023-07-14T19:15:50.021901+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miller versus Berkey for Yoder\u2019s use."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nMiller was possessed of two judgment notes against M\u2019Cleary & Arklie, dated 8d May, 1847, and becoming due on the 1st of May, 1851 and 1852, respectively, and he assigned them to Berkey with guaranty on the 12th of January, 1850. The makers then owned real estate, and did not become insolvent until the fall of 1852, and Berkey did not have judgment entered on the bonds in the mean time. Does this omission constitute such want of diligence as discharges the guarantor ?\nWe think it does. The liability of a guarantor is conditioned upon the proper and fruitless diligence in the holder. After a guaranty any negligent confidence in the debtor is, by the very nature of the contract of guaranty, at the risk of the holder. Here was a delay of between two and three years in entering judgment, and from six to eighteen months after execution might have been issued. This is such negligence as discharges the guarantor, unless the plaintiff should show that the money could not have been made even by a diligent entry and pursuit of the judgments.\nTrue,.the original holders neglected to enter the judgment for near three years, but that was at their risk. When Berkey got the claims with guaranty, then his delay was at his own risk.\nJudgment reversed and a new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Ooffroth, for plaintiff in error.",
+      "JEdie, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Miller versus Berkey for Yoder\u2019s use.\nUnreasonable delay in the entering of a judgment note by one to whom it has been assigned will discharge a guarantor, unless the money could not have been made by a diligent entry and pursuit of the judgment.\nError to the Common Pleas of Somerset county.\nThis action was brought by Leonard Berkey for the use of Jacob Yoder against Samuel Miller\u2019s administrators, to recover upon the intestate\u2019s guaranty of two judgment notes.\nThe facts sufficiently appear in the opinion of this court.\nThe error assigned was, that the court erred in charging the jury that \u201c the mere omission of the plaintiff to enter the judgment bills of record, is not in itself sufficient to work a discharge of the guaranty, nor did the death of Miller have that effect.\u201d\nOoffroth, for plaintiff in error.\nJEdie, for defendant in error."
+  },
+  "file_name": "0317-01",
+  "first_page_order": 317,
+  "last_page_order": 318
+}

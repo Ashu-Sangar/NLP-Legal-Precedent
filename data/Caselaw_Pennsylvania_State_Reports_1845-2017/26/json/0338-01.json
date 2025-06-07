@@ -1,0 +1,109 @@
+{
+  "id": 977378,
+  "name": "Baldridge versus McFarland",
+  "name_abbreviation": "Baldridge v. McFarland",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "338",
+  "last_page": "339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 338"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Mass. 328",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000747
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/6/0268-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 168",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820551
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "299-304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/2/0168-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 139",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791096
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/3/0139-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 277,
+    "char_count": 3532,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 7.917608005128305e-08,
+      "percentile": 0.4614863646490587
+    },
+    "sha256": "08a243501a7ac246a7afddc77da334a7e1afd0827ea01bccc9420aa69e21a874",
+    "simhash": "1:0c0d233658152639",
+    "word_count": 650
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Baldridge versus McFarland."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nThis is a gift to Mrs. Jarvis in tail, or else it is a life estate in her with remainder to her children. The grant is to her and the heirs of her body begotten, or to be begotten, as tenants in common, and to their heirs, and as we cannot know who her heirs would be until her death, the remainder, if it is one, would seem to be necessarily contingent: 2 Cruise Dig. 328; 1 Inst. 298, a. If the principle of Findlay v. Riddle, 3 Binn. 139, 2 Rawle 168, rules this case, then it is such a life estate and remainder, and then it follows that the extinguishment of the life estate, by adverse possession of 21 years, destroyed the remainder that depended on it.\nBut the court below treated'this deed as creating an estate tail, and so we incline to regard it: Co. Litt. 376, b; 8 Com. Bench Rep. 876; 4 Barn. & C. 610; 5 East 548; 7 Term Rep. 531; 1 East 229; 8 Term Rep. 518; 5 Id. 299-304; 3 East 548. They are to be in the character, and therefore in the quality of heirs, the freehold merges in the inheritance, and the two limitations are united and executed in possession in the ancestor, and form one estate of inheritance.\nIt seems to follow from this that the whole estate is extinguished by an adverse possession of 21 years. Our statute must mean this, when it requires that the plaintiff or his \u201c ancestors or predecessors\u201d must have been in possession within that time. Besides, our statute is merely a re-enactment of the statute 21 Jac. 1, c. 16, and Mr. Angel\u00ed in his Treatise on Limitations, p. 46, shows that such is the interpretation of this statute, referring to 3 Cruise Dig. 481; Plowd. 374; 5 Barn. & A. 215; 3 Brod. & B. 217; 6 Mass. 328; 2 Gallis 315; to which the counsel have added 4 Taunt. 826: 8 Com. Bench R. 876.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Jff. D. Foster, for plaintiff in error.",
+      "F. Cowan, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Baldridge versus McFarland.\nAn adverse possession of twenty-one years during the life of the tenant in tail, will bar a recovery by the issue in tail.\nError to the Common Pleas of Westmoreland county.\nThis was an action of ejectment for eighty-one acres of land, in which David Baldridge and wife were plaintiffs, and John McFarland defendant. The parties agreed upon the following as the facts of the case:\u2014\nIn this case it is agreed that the land in controversy belonged to Gen. Arthur St. Clair, in fee, prior to 16th August, 1795. That by deed of that date he conveyed the same to Jane Jarvis, his daughter, and to the heirs of her body begotten, or that may be lawfully begotten, as tenants in common, and to the heirs of her children, as tenants in common, in fee simple for ever. Jane Jarvis died in 1850 or \u201951, leaving but one child, ^he plaintiff in this case.\nThe land in dispute was levied on and sold to Coulter and Morrison, on a judgment against Gen. St. Clair, on 23d December, 1817, by the sheriff, and it is agreed that those claiming under the sheriff\u2019s deed had adverse possession for more than 21 years prior to the death of Mrs. Jarvis, and before the institution of this suit. The court held the plaintiff was bound by the statute of limitations, which is the question for the consideration of this court. Deed to Mrs. Jarvis acknowledged 13th May, 1817; recorded 14th May, 1817.\nThe court below (Burrell, P. J.) ruled that the statute of limitations was a bar to the plaintiff .\u2019s recovery, and directed the jury to find for the defendant.\nThe plaintiffs sued out this writ, and assigned such instructions' for error.\nJff. D. Foster, for plaintiff in error.\nF. Cowan, for defendant in error."
+  },
+  "file_name": "0338-01",
+  "first_page_order": 338,
+  "last_page_order": 339
+}

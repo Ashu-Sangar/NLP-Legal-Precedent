@@ -1,0 +1,121 @@
+{
+  "id": 990515,
+  "name": "Patterson et al. versus Lane et al.",
+  "name_abbreviation": "Patterson v. Lane",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "275",
+  "last_page": "276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Paige 583",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2054734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/7/0583-01"
+      ]
+    },
+    {
+      "cite": "19 Johns. 456",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380574
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/19/0456-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 505",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2055348
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/15/0450-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 63",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8681243
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/47/0063-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 257",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 236,
+    "char_count": 2428,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 1.2987079376515922e-07,
+      "percentile": 0.6217101846478308
+    },
+    "sha256": "a93705e0a2f6641794e7fb8f65319e802958f438d832c554972b08808b168379",
+    "simhash": "1:4eb58bbc8ff9ba75",
+    "word_count": 433
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patterson et al. versus Lane et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRead, J.\nW e are of opinion that the plaintiffs in this bill have an adequate and complete remedy at law, specially provided by the act to encourage manufacturing operations in this Commonwealth, passed 7th April 1849. The mode of making individual stockholders liable is particularly prescribed by this act, and must be through the medium of an action at law, judgment, and execution in the manner therein, pointed out. The plaintiffs must, therefore, resort ito their common law suit under the Act of Assembly.\nB'ecree affirmed at the costs of the appellants.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "F. O. Brewster and St. Gr. T. Campbell, for the appellants.\u2014",
+      "Lex and Franklin, for the appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Patterson et al. versus Lane et al.\nA bill in equity -will not lie, where the parties have a complete and adequate statutory remedy at law.\nAppeal in Equity from the Court of Nisi Prius.\nThis was a bill in equity by Robert Patterson and others, creditors of the Conestoga Steam Mills, a manufacturing company, incorporated under the act of 17th April 1849, against James B. Lane and others, stockholders in the said company, to render them personally liable for the debts of the company, on the ground that the capital stock of $500,000 was not actually paid as stated in the certificate filed in the office of the secretary of the Commonwealth ; but that the said certificate was false and fraudulent.-\nThe defendants demurred to the bill, on- the ground that the complainants had a complete and adequate remedy at law; and the court sustained the demurrer and dismissed the bill, whereupon this appeal was taken.\nF. O. Brewster and St. Gr. T. Campbell, for the appellants.\u2014\nAdmitting that there is a remedy at law, it does not follow that the jurisdiction of a court of equity is1 necessarily ousted. In such a case as this, the remedies are concurrent: Brightly\u2019s Eq. \u00a7\u00a72 4, 57, 125, 890; 1 Story\u2019s Eq. Jur. \u00a7 456; Harrison v. Rowan, 4 W. C. C. 205; Aycinena v. Peries, 6 W. & S. 257; McGowin v. Remington, 2 Jones 63; Kirkpatrick v. McDonald, 1 Id. 387; Palmer v. Moore, 2 Dick. 489 ; Shollenberger\u2019s Appeal, 9 Harris 340; Wood v. Dummer, 3 Mason 308; 2 Story\u2019s Eq. Jur. \u00a7 1252; Vose v. Grant, 15 Mass. 505; Spear v. Grant, 16 Id. 9; Slee v. Bloom, 19 Johns. 456; Salmon v. Hamburgh Co., 1 Cas. Ch. 206; 6 Vin. Abr. 310; Hance v. Winyaw and Wando Canal Co., 5 Am. Law Mag. 92; Bank of Virginia v. Adams, 1 Pars. 534; Jones v. Lansing, 7 Paige 583; Brinkerhoff v. Brown, 6 Johns. Ch.\nLex and Franklin, for the appellees."
+  },
+  "file_name": "0275-01",
+  "first_page_order": 275,
+  "last_page_order": 276
+}

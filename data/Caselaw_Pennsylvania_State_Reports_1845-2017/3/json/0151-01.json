@@ -1,0 +1,125 @@
+{
+  "id": 400700,
+  "name": "McKeehan v. Commonwealth",
+  "name_abbreviation": "McKeehan v. Commonwealth",
+  "decision_date": "1846-06-16",
+  "docket_number": "",
+  "first_page": "151",
+  "last_page": "153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 151"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts, 54",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838036
+      ],
+      "pin_cites": [
+        {
+          "page": "55, 56"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0054-01"
+      ]
+    },
+    {
+      "cite": "6 Bin. 88",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795094
+      ],
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0088-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 71",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842746
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0071-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 54",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838036
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0054-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 326,
+    "char_count": 5329,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.5729598401252931e-07,
+      "percentile": 0.679024530001556
+    },
+    "sha256": "0a9e152ab519c9e41db0f73a2eefb447612b4d7b2c6b7e0bcba878f199ff6689",
+    "simhash": "1:9d6994310a7a9e5a",
+    "word_count": 908
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McKeehan v. Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\nIn The Commonwealth v. Baldwin, 1 Watts, 54, the point was fully investigated, and it was there held to be a settled principle, that the statutes of limitation do not extend to the Commonwealth, whether it be in the case of a personal action against a surety on an official bond, or entries on land, or like cases, unless the Commonwealth is expressly named, and her rights thereby waived; and it was decided that judgment 'in the name of the treasurer, for use of the. Commonwealth, is substantially a judgment for the Commonwealth, so as to exempt it from\u2019 the operation of a statute limiting the period for which a judgment shall continue a lien. The same principle was applied in Ramsey\u2019s Appeal, 4 Watts, 71, and not contested.\nIn addition, it may be remarked, that the 4th section of'the act of April 4, 1798, under which the question arises, uses the words, \u201c person or persons\u201d having a cause of action, which could only by construction be extended\u2019 to the Commonwealth; and\u2019, moreover, orders double costs in cases of nonsuit or- judgment against the plaintiff, whereas .the Commonwealth pays no costs.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Watts, for plaintiff in error.",
+      "Graham, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "McKeehan v. Commonwealth.\nStatutes of limitations do not extend to the Commonwealth; and\u2019 this rule applies as well to personal actions \u00abagainst a surety on an official bond, as to entries on land, and similar cases, unless the Commonwealth be expressly named and her rights thereby-waived.\nA judgment in the name of a treasurer for the Use of the Commonwealth, is substantially a judgment for the Commonwealth; and is exempted from the operation of the statute \u00a1uniting the period for which a judgment shall continue a lien on lands.\nError, to Common Pleas of Cumberland county.\nJune 9. This was.a case stated for the opinion of the court below, on the following facts agreed upon by the parties:\nGeorge Fleming was duly appointed and commissioned by the governor of Pennsylvania, to the office of prothonotary of Cumberland county, on the 23d December, 1835 ; and on the 28th of the same month, he, with John McKeehan and Ephraim Bosserman as his Securities, executed a bond to the Commonwealth, in the penalty of $9500, conditioned for the faithful performance of the duties of said office, &c.; which said bond was considered a part of this special verdict as if incorporated into it.\nGeorge Fleming entered upon, and performed the duties of said office, from the 28th December, 1835, to the 22d January, 1839; and during that period received a large amount of fees, due and payable to the Commonwealth, in pursuance of the act of Assembly of the 6th April, 1830, to wit: from the 28th December, 1835, to the 1st September, 1836, he received for the Commonwealth $191 50, of which he returned to the auditor-general an.account on oath on the 7th October, 1836 : from the 1st September, 1836, to the 31st August, 1837, he received from the Commonwealth $250, of which he returned to the auditor-general an account on oath on the December, 1837: from the 31st August, 1837, to the 31st August, 1838, he received for the Commonwealth $222 75, of which he returned to the auditor-general an account on oath on- the 23d of January, 1839: from the 1st September,.1838, till the 22d January, 1839,'he received for the Commonwealth $72 75, of which he returned no account. Which said several accounts were approved and settled by the auditor-general and state treasurer, except the last, as per certificate thereof, which is also considered a part of this verdict. The Commonwealth claims to recover the said several amounts, with interest, and brought this suit therefor, on the 12th of February, 1845.\nOn .the trial, the defendant raised the following points :\n1. Can the Commonwealth recover against sureties, without evidence that the bond was approved by two judges of the court and the governor, agreeably to the act of 1834 ?\n2. Does the act of 1798, limiting suits against sureties in official bonds t.o seven years from the time when cause of action accrued, extend to the Commonwealth ?\nThe court (Hepburn, President) gave judgment for the Commonwealth, the plaintiff below, for the following reasons:\n<\u00ab Young et al. v. The Commonwealth, 6 Bin. 88, 92, is decisive against the defendant, on. his first ground of defence, and settles the law that the bond is perfectly good against the maker; though not approved by the governor and judges, as directed by the 76th section of the act of 14th of April, 1834.\n\u00ab The second branch of defence, that of limitation, under the provisions of the act of the 4th of April, 1798, we think alike untenable. The language \"of that law confines the limitation to a \u00abperson or persons,\u2019 as distinguished from the Commonwealth; and the whole reasoning of Chief Justice Gibson in The Commonwealth v. Baldwin, 1 Watts, 54, 55, 56, upon a statute not so restricted in its terms as that of 1798, is conclusive against the position assumed as an available defence to an action like the present.\u201d\nWhereupon McKeehan, the defendant, removed the record to this court, and assigned the following error:\nThe court erred in rendering judgment for the plaintiff,'including the sums payable prior to, as well as that of the 3lst of August, 1837; they having been due and' payable more than seven years.\nWatts, for plaintiff in error.\nGraham, contr\u00e0.\nJune 16."
+  },
+  "file_name": "0151-01",
+  "first_page_order": 149,
+  "last_page_order": 151
+}

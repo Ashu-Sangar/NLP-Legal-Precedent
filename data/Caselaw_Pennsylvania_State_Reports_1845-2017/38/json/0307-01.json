@@ -1,0 +1,79 @@
+{
+  "id": 994093,
+  "name": "William H. Love & Son versus Brown Brothers & Co.",
+  "name_abbreviation": "William H. Love & Son v. Brown Brothers & Co.",
+  "decision_date": "1861",
+  "docket_number": "",
+  "first_page": "307",
+  "last_page": "309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 21",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478283
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0021-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 307,
+    "char_count": 5031,
+    "ocr_confidence": 0.414,
+    "pagerank": {
+      "raw": 1.3422846431409212e-07,
+      "percentile": 0.6315474377077582
+    },
+    "sha256": "2ffe4eb149a129e2d731921baa7ae10f972722cda38e2ffbb5afe16e13c09803",
+    "simhash": "1:5e7838d1f003abbd",
+    "word_count": 876
+  },
+  "last_updated": "2024-02-27T22:44:35.746514+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William H. Love & Son versus Brown Brothers & Co."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\n\u2014 The acceptor of a bill of exchange and the drawer of a negotiable note stand as principal debtors, and after endorsement, the endorsers stand as sureties. As between themselves, the payee may be, after negotiation of the paper, the principal debtor, and the maker the surety. This is always the case as between an accommodation drawer and his payee, but in the hands of a third party the paper is, as to him, just that which it imports to be on the face of it. It follows, of course, that time given to the endorser, or a composition accepted from him by the holder, does not discharge the drawer, since a principal debtor is not discharged by indulgence shown to his surety. Yet to the extent to which the endorser pays the holder, the drawer of accommodation paper is discharged, else part of the debt would be collected twice. These principles, abundantly sustained by the authorities cited in the argument, entitled the plaintiffs below to a judgment for the sum of the notes sued, less whatever they had received from Hillborn, the endorser. This is stated in the affidavit as 20 per cent., or thereabouts, which is too indefinite for a good affidavit of defence; but as, on the argument before us, counsel consented to a credit of 20 per cent., we will affirm the judgment for the balance, directing the court below to ascertain the amount by deducting the 20 per cent, as of the date of the payment if readily ascertainable, and if not, then as of the date of the judgment.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "W. S. Price, for plaintiffs in error.",
+      "Or. W. Biddle, for defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "William H. Love & Son versus Brown Brothers & Co.\nBills and Notes. \u2014 Effect of giving Time to Endorser.\nTime given to the endorser of a note or a composition accepted from him by the holder does not discharge the drawer; yet the maker of accommodation paper is discharged to the extent of the payments made by the endorser to the holder.\nError, to the District Court of Philadelphia.\nThis was an action of assumpsit, brought May 30th 1860, by Brown Brothers & Co. against William H. Love and Alfred H. Love, trading as W. H. Love & Son. The defendants were the makers and the plaintiffs were the second endorsees of six promissory notes payable to the order of Cyrus Hillborn, by whom they were endorsed to Browns & Bowen, who held them for several years after maturity, and then endorsed them to plaintiffs, their successors in business.\nCopies of the notes having been filed by the plaintiffs, the defendants filed an affidavit of defence, in which they set forth, \u201c'That the promissory notes sued on were made by the defendants for the accommodation of Cyrus Hillborn, the payee, an'd without any consideration to said makers therefor: That said notes were held at, and long after, their respective maturities, \u25a0by Messrs. Browns & Bowen, of this city, who, while they so held them, had notice that said notes were made for the accommodation of said Hillborn, and without consideration to makers, and that it was the duty of said Hillborn to pay them: That afterwards, and with such notice, the said Browns & Bowen, then holding said notes, received from said Hillborn 20 per cent, or thereabouts of the amounts of said notes, and in consideration thereof released him from all further liability upon the same or in respect thereof.\u201d\nA rule was then entered for judgment for want of a sufficient affidavit, which on argument was made absolute, and the damages assessed at $4532.35.\nThe defendants then sued out this writ, averring here as cause for reversal,\n1. That the District Court erred in entering judgment against the defendants below, for want of a sufficient affidavit of defence.\n2. That the District Court erred in entering said judgment for the entire amount of the notes and interest on them, notwithstanding the payment made by C. Hillborn, the endorser.\nW. S. Price, for plaintiffs in error.\n\u2014 As between the makers and the payee of the notes, Hillborn the payee was the principal debtor, and Love & Son the makers were the sureties. This relation was known to Browns & Bowen, the holders, who, after the maturity of the notes, released the principal debtor for 20 per cent., thus extinguishing the debt so far as he was concerned, and cannot now hold the sureties liable. The discharge of the principal is the discharge of the surety.\nOr. W. Biddle, for defendants in error,\ncited and relied on Fentum v. Pocock, 5 Taunt. 192; Bank of Montgomery v. Walker, 9 S. & R. 229; 12 Id. 382; Lewis v. Hanchman, 2 Barr 416; Lord v, Ocean Bank, 8 Harris 384; Chitty on Bills 649, 451, as to the effect of releasing the alleged principal, and of the policy of allowing parties who have placed themselves in the front on negotiable paper to allege that they were sureties and not principals, in a contest with strangers. He argued also that the affidavit was uncertain as to the amount received from Hillborn; that, if the damages were too large, that could have been corrected in the court below, and can be done here, on the authority of McCarraher v. The Commonwealth, 5 W. & S. 21."
+  },
+  "file_name": "0307-01",
+  "first_page_order": 307,
+  "last_page_order": 309
+}

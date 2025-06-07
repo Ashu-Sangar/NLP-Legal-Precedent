@@ -1,0 +1,159 @@
+{
+  "id": 974040,
+  "name": "Riland versus Eckert",
+  "name_abbreviation": "Riland v. Eckert",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "215",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 344",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Pa. Rep. 426",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts 533",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0533-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Rep. 384",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 97",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 101",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 217",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846789
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0217-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 53",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840127
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0053-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 124",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0124-01"
+      ]
+    },
+    {
+      "cite": "1 Pa. Rep. 271",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 886,
+    "char_count": 22730,
+    "ocr_confidence": 0.435,
+    "pagerank": {
+      "raw": 2.6897083881887125e-07,
+      "percentile": 0.8274764281624141
+    },
+    "sha256": "afa73cff75bf39f94e00b4f824e0adf17d16c1782e2ea051bb9aa2b2d64225de",
+    "simhash": "1:526f0633b232f8c3",
+    "word_count": 3979
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Lewis, J., dissented. Lowrie, J., was absent during the argument. Black, O. J., and Knox, J., concurred in the judgment."
+    ],
+    "parties": [
+      "Riland versus Eckert."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodward, J.\nThe result of legislation and judicial decisions in Pennsylvania touching the liens of judgments and executions on real estate, seems to be that where the judgment is a lien, there can be no independent lien acquired by execution process thereon ; but where land is seized in execution by virtue of a judgment which is no lien, the execution becomes a lien on it. This is the ground on which Packer\u2019s Appeal, 6 Barr 277, and Jamison\u2019s Appeal, Ibid. 280, are reconciled in Davis v. Ehrman, 8 Harris 258. In Todd v. McCulloch, 3 Penna. Rep. 445, it is said to have been established substantially, if not in terms, in Betz\u2019s Appeal, 1 Pa. Rep. 271, that the lien of a judgment is preserved by an execution only as regards the land levied; a dictum which is not accurate, for since the Act of 1827 the lien of a judgment, according to all the cases, is not continued by an execution levied, but, as is afterwards said in the same case, the lien by which lands are bound for more than five years without a scire facias, seems to be that which the common law attributes to an execution, rather than the lien of a judgment.\nThese distinctions belong to questions of distribution, of which there are none in the case before us, but still they have an application here as showing that though the lien of the judgment against the late Judge Pettit, as administrator de bonis non of Judge Wilson, had expired before the pluries fi. fa. of 26th September, 1837, issued, yet a lien was acquired by virtue of the levy made in pursuance of that writ, and then the venditioni exponas of 5th January, 1838, was legal authority to the marshal to sell and transfer Judge Wilson\u2019s title in the land.\nBut this sale was made after the Act of 1834, the 34th section of which requires the widow and heirs or devisees to be made parties to a judgment obtained against the personal representative of a decedent, where the plaintiff intends to charge the real estat.e of the decedent with the payment of the judgment. This was never done in the case before us. Samuel Hughes, a citizen of Maryland, commenced his suit against Judge Wilson in the Circuit Court of the United States in 1798. Before judgment Judge Wilson died, and his administrators being substituted, judgment was entered against them in 1800. In 1831, the death of the plaintiff was suggested, and his administrator substituted, and Thomas McKean Pettit was brought on the record as defendant, in the character of administrator de bonis non of James Wilson \u2014 the judgment revived 20th May, 1831, de terris et de bonis quando aaciderint, and several executions issued without effect until the piur\u00edas fi.fa. of 1837, as above stated.\nThe plaintiffs in error, who were the defendants below, claim not under the Wilson title, but in opposition to it, and they insist that the above proceedings left his title outstanding in Ms heirs, and that this is a good defence against the present action.\nThe 34th section of the Act of 1834 is directory, and was designed to protect the estates of dead men from those collusive judgments which are sometimes concocted between faithless administrators or executors and pretended creditors, and which have been used as instruments for stripping families of their inheritance. The evil was plainly pointed out, and the remedy indicated by the late Chief Justice Gibson, in Christman\u2019s Executors v. Evans\u2019 Administrator, 13 Ser. & R. 14. Designed for a beneficent purpose, the enactment has received the favorable regards of the Courts. It has not been applied to judgments obtained in the lifetime of the decedent, for they were not within the mischief; but wherever a title, derived through a judgment against the personal representatives, has been set up to defeat the heirs or devisees of a decedent, it has been required to conform to the statutory rule. Such were Keenan v. Gibson, 9 Barr 249, and McCracken v. Roberts, 7 Harris 393, and other cases, which rule that a sheriff\u2019s sale on such a judgment, where the widow and heirs or devisees have not been made parties, does not divest their title. Nothing can be more clear than that the title of the plaintiffs below could not avail them against Judge Wilson\u2019s heirs, or against a party claiming in right of these heirs. But what right have these defendants to take the place of the heirs, and avail themselves of an irregularity which hitherto the heirs have chosen to waive ? It is true, that in ejectment it is a legitimate defence to show title outstanding in a third party; hut, as was said by Judge Huston, in Foust v. Ross, 1 W. & Ser. 506, it must be a valid, subsisting title \u2014not one abandoned, derelict, or barred by the statute of limitations. As long ago as 1799, Bird Wilson, one of the sons and heirs of James Wilson, was brought in by scire facias as administrator of his father, and made defendant in the suit of Hughes, and in 1800 judgment was rendered against him. He is a living man still, but we hear of no record or act of his designed to hinder his father\u2019s creditor, or to impeach titles which have been fairly, purchased at public sales. Now, grant that his title was unimpaired by these sales, is it not abandoned, derelict ? Whether he and his co-heirs could set it up, after so long neglect, is not now the question; but having never manifested the slightest disposition to assert it, the question is, whether strangers and intruders can set it up. On mature reflection we think hot. A sale of lands on a judgment against an administrator is not void as to others than heirs and devisees. In Pennsylvania, lands are chattels for payment of debts; and proceedings to charge them must be instituted against the personal representatives of decedents, whether widows and children be brought in according to the statute or not. Land levied is in the custody of the law, and on suitable process may be sold for such interest as is bound by the judgment and execution; and though the sale may not conclude heirs and legatees, strangers and intruders may not treat it as-if it had never occurred \u2014 if void as to those within the statutory protection, it is a judicial proceeding that binds those who are not within either the letter or the reason of the enactment. When a party shall present himself claiming under the heirs of Judge Wilson, it will be soon enough to consider the effect of the- long delay and inaction which have attended their title, and to decide whether they are concluded or not; but until that happens the inquiry will be impertinent and superfluous.\nThe fact that the proceedings were had in the Circuit Court, neither limits nor extends their effect. In Thompson v. Phillips, 1 Bald. 246, it was held that the Act of 1798, limiting the lien of judgments, applied to and operated on judgments in the Circuit Court; and by parity of reason, all subsequent legislative rules would be applicable to judgments in that Court, so far forth at least as they affect real estate within the jurisdiction of Pennsylvania. On these grounds we hold the Court were right in admitting in evidence the record of the judgment and proceedings against Judge Wilson, and in ruling them to be sufficient to transfer his title.\nNext as to the statute of limitations. Henry W. Conrad entered under a deed which embraced the land in controversy, and which was color of title thereto. Occupying and improving part of the land conveyed to Mm, be would, according to the modern doctrine, be entitled to hold, under the statute, all the land within the lines of his colorable title, provided he continued to claim up to those lines. But Ms vendor, Lengle, claimed only a preemption right, and Conrad entered as a settler. When he took his warrant and made his survey in 1818, he defined his boundaries, not according to the deed of Lengle, under which he entered, but by a line run and marked on the ground which excluded the land in controversy. Had he included this land Ms office right would have been no title, for it was not vacant land, but had been long before surveyed on the Lengle warrant, under which Judge Wilson acquired title; but it might have secured to him the protection of the statute by not negativing his constructive possession. A settler on vacant land, who takes in part of a surveyed tract, and maintains his claim for twenty-one years, may acquire title to it under the statute of limitations, whilst perfecting his title to the vacant land under the pre-emption statutes. But the doctrine of constructive possession, indulgent as it is, is a mere implication or presumption of law from the facts of entry and continued claim according to expressed boundaries, and therefore may be rebutted by acts and admissions on the ground. When a man has assigned unequivocal limits to his possession \u2014 has said, by marking Ms line, thus far and no further do I hold \u2014 it would bo absurd for the laAV to impute to Mm a possession beyond the self-prescribed bound. How gross the injustice this absurdity would work to a neighboring owner, who, seeing the line far from his own tract, would not dream that an action of ejectment once in twenty-one years would be necessary to protect his property, was well depicted by the lato Judge Coulter in Altemus v. Trimble: 9 Barr 233.\nOn the ground that Conrad defined his boundary short of the land in controversy, we cannot treat him as in the constructive possession of it; and as he had no actual possession of it, he acquired no title to it under the statute of limitations, and of'Course those coming after him have none.\nThe case is so wretchedly presented in the paper-books, that we cannot feel sure of all our facts; but so far as it is possible to obtain them from what is before us we see no error in the record.\nThe judgment is affirmed.\nLewis, J., dissented. Lowrie, J., was absent during the argument. Black, O. J., and Knox, J., concurred in the judgment.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Oampbell and Hughes, for plaintiffs in error.",
+      "Bannan, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Riland versus Eckert.\n1. In ejectment it is a legitimate defence to show title outstanding in a third party, but it must be a valid, subsisting title.\n2. The provision in the 34th section of the Act of 24th February, 1834, relating to executors and administrators, requiring the widow and heirs to he notified where it is designed to charge the land, does not apply to judgments obtained against the debtor himself: 8 Watts 124, Brobst v. Bright.\n3. A sale of land on a judgment obtained against an administrator in a. suit originally brought against the debtor, who died before judgment, is not void as to others than heirs and devisees; though the latter may not be concluded by the judgment, strangers or intruders may not treat it as void on account of the want of such notice.\n4. Suit was brought in the Circuit Court against a debtor in 1798. Before judgment the defendant died, and judgment was entered against the administrators in 1800. In 1831 the administrator de bonis non was made defendant and judgment revived de terns et de bonis quando aeciderint. In 1837 a fi. fa. was levied on the land in question, which, in 1838, was sold on venditioni exponas. Held, that if the heirs who were not made parties to the proceeding were not concluded by the judgment, the defendants, who were strangers to the proceeding, could not take advantage of the irregularity; whether the heirs were precluded from setting up title after so long neglect not decided.\n5. The fact that the judgment and proceedings were had in the Circuit Court neither limits nor extends their effect. The Act of 1798, limiting the lien of judgments, applied to judgments in that'Court; and subsequent enactments in relation to judgments as they affected real estate within the state, were applicable to such judgments.\n6. In an ejectment for land claimed by the plaintiffs under a sale under such judgment, the record of the judgment and proceedings were admissible in evidence, and were sufficient to transfer the title of the decedent, as against strangers to the judgment and proceedings thereon.\n7. A settler on vacant land, who takes in part of a surveyed tract and maintains his claim for twenty-one years, may acquire title to the latter part under the statute of limitations, whilst perfecting his title to the vacant land under the pre-emption statutes. But he has no title to the part of the surveyed tract not included within his marked boundaries. His constructive possession to the land beyond the extent of his actual possession, will be limited by his lines on the ground defining the extent of his claim.\nError to the Common Pleas of Schuylkill county.\nThis was an action of ejectment brought to June Term, 1846, in which George N. Eckert and S. Guilford were plaintiffs, and William Bil&nd and others were defendants. It was brought to recover 60 acres of land in Pinegrove township, which the plaintiffs claimed to be part of 440 acres and 31 perches, surveyed on a warrant to Conrad Lengle, dated 3d April, 1794, and patented on 6th April, 1795, to James Wilson. In the patent, the lands embraeed in the warrant and survey were described, and there was recited a deed from Conrad Lengle to James Wilson.\nOn the part of the plaintiffs was offered in evidence the record of a proceeding in the Circuit Court of the United States, for the Eastern District of Pennsylvania, in a suit to April Sessions, 1798, by Samuel Hughes, a citizen of Maryland, against James Wilson. The death of James Wilson was afterwards suggested, and a sci. fa. issued to April Sessions, 1799, against Bird Wilson, William Nichols, and John Adlum, administrators of his estate. On 11th April, 1799, the writ was returned served. On April 14, 1800, judgment for $2200. A fi. fa. was issued on 16th January, 1813, against Bird Wilson and John Adlum, surviving administrators, but it was not levied on the land in dispute. Afterwards Bird Wilson and John Adlum renounced. On 19th February, 1831, the death of Samuel Hughes, the plaintiff, was suggested, and a sci. fa. issued to April Sessions, 1831, in the name of Samuel Hughes, administrator, against T. M. Pettit, administrator de bonis non of the estate of James Wilson, deceased, to revive the judgment; and 20th May, 1831, by writing filed judgment by consent was entered, \u201c to be levied de terris et de bonis guando acciderint.\u201d Several writs of execution were issued from May, 1831, till September, 1837, but none of them were levied on the land in dispute; but apl.fi.fa., issued on 26th September, 1837, was levied on it. Ven. exp. was issued on 5th January, 1838, and on 11th April, 1838, it was returned that the Conrad Lengle tract had been sold to George Pf. Eckert. On 11th April, 1850, on petition of George N. Eckert, and on affidavit of the marshal, the latter was permitted to amend his return to the effect that the said tract had been sold to William Eckert.\nThe marshal\u2019s deed was acknowledged on 10th May, 1838.\nWilliam Eckert and wife, by deed of 17th February, 1840, conveyed to Eckert and Guilford, the plaintiffs.\nJames Wilson left issue. Bird Wilson, one of the administrators, was one of his children.\nThe defendants did not claim under the heirs of James Wilson, but claimed the land under an improvement made by Christopher Whitmore, and deed poll by him dated 12th April, 1774, to Henry Battorf for 150 acres; also deed from the latter to Adam Battorf \u2014 deed from the latter to John Adam Lengle, and deed by the latter, dated 2d September, 1814, to Henry W. Conrad, for land stated to have been found by actual survey to contain 224 acres 35 perches, and reciting an improvement. There was given in evidence the record of a judgment against Henry W. Conrad, and sheriff\u2019s sale of the land in dispute in July, 1839, and several subsequent conveyances vesting Conrad\u2019s claim in the defendants.\nThe plaintiffs then gave in evidence, as rebutting testimony, an application made by Henry W. Conrad, dated the 15th May, 1818, for 100 acres unimproved land, Pinegrove township, Schuylkill county, adjoining his other land, &c., accompanied by the oath of H. W. Conrad that the land applied for was vacant land; surveyed 25th May, 1818, in pursuance of warrant, &c.\nThe survey made under Henry W. Conrad\u2019s warrant included the land in suit, which had been already surveyed under the warrant to Qonrad Lengle, but it did not include any of the improvement claimed by Conrad.\nOn part of the plaintiffs points were submitted, viz.: 1st. That in order to establish a title by the Statute of Limitations, there must be an actual, notorious, and visible possession, continued for a full period of twenty-one years. 2d. That a title by improvement cannot extend into surveyed land, and a person holding title by improvement on the vacant lands of the Commonwealth, cannot extend such title by construction so as to embrace surveyed land. 3d. That although, as in this case, there may have been, at one time, a claim of title extending into the survey of Conrad Lengle, under the improvement claimed by Henry W. Conrad, yet if in 1818 Henry W. Conrad took up the land as vacant, and had a line marked between the improvement and what he called the vacant land, he at that time severed all constructive possession of the vacant piece from his actual improvement; and that line being kept up on the ground, as officially marked by'him at the time, and there being no actual possession of any portion of his survey of 1818, there could be no title to any portion of the survey of the Lengle tract, arising from the possession of the improvement; and the plaintiffs were entitled to recover.\nPoints submitted on part of defendants were as follows: 1st. That the judgment obtained in the Circuit Court (U. S.) against T. M. Pettit, administrator of James Wilson, deceased, created no lien on the lands of said deceased, as against his heirs, devisees, or their alienees, and that therefore the purchaser at the marshal\u2019s sale under said judgment, acquired no title ivhatever, and cannot recover in this suit. 2d. That the application by Conrad in 1818, to take up a portion of the land embraced in his deed from John Adam Lengle, alleging that it was vacant and unimproved, does not divest him or those claiming under him with any right they would otherwise have by virtue of the Statute of Limitations, but the same is to be treated as if such application had not been made.\nKidder,, J., in his charge to the jury, inter alia, observed that the title of James Wilson, acquired by his patent, had become vested in the plaintiffs. The defendants claim the land in dispute under improvement; and also by the Statute of Limitations. They have shown that an improvement was made at an early day on land adjoining the Conrad Lengle survey, which by sundry conveyances became vested in Henry W. Conrad on 2d September, 1814. His interest has been vested in the defendants by a sale by tbe sheriff. He charged that by the survey which Conrad had made in 1818, which, though it included the portion of the Conrad Lengle survey in dispute excluded the improvement, Conrad would seem to have defined and limited the extent of his improvement and possession; and if the evidence referred to in the plaintiffs\u2019 points was believed by the jury, the points were answered in the affirmative.\nIn reply to the first point submitted on part of the defendants, he charged that the sale by the marshal conferred title upon the purchaser. The second point was answered in the negative.\nVerdict was rendered for the plaintiffs.\nError was assigned, first, to the admission in evidence of the record of the suit of Samuel Hughes v. James Wilson, and the proceedings thereon: secondly, to the answer to the defendant\u2019s points : and, thirdly, to the plaintiffs\u2019 third point.\nOampbell and Hughes, for plaintiffs in error.\nIt was alleged that James Wilson, at the time of his death, was seised of the land in dispute. Suit was brought against him, but he died before judgment, and his heirs were not made parties to the proceedings. Though judgment was obtained against his administrators in 1800, the land was not levied on till 1837. The material questions were whether the sale of the land conferred any title as against the heirs and devisees of.James Wilson; and whether the defendants may not set up an outstanding title in them to defeat a recovery by plaintiffs. The judgment, not being obtained against James Wilson himself, never was a lien on the land in dispute, except as provided by the Acts of 1797 or 1834; and that lien expired in seven years after the death of James Wilson, as respected the heirs or devisees not notified: 9 Barr 249, Keenan v. Gibson; 8 Barr 235-7, Bredin v. Agnew; 2 Watts 53, Penn v. Hamilton; 7 Watts 217, Duncan v. Clark; 9 Barr 265, Moorehead v. McKinney; Id. 249.\nIt was contended that the defendant might show that the plaintiff had no title, or that a better title existed in another person not party to the suit: 8 Watts 101; 9 Ser. & R. 92; 3 Watts 97; Addison 254.\nAs to the 2d assignment. It was contended that the act of H. W. Conrad, in obtaining a warrant and having a survey made of a portion of the land embraced in the deed to him by J. A. Lengle, did not prevent him from claiming under the statute. That whether or not he intended to abandon a portion of the land included in his deed should have been submitted to the jury: 4 Ser. & R. 436; 2 Smith\u2019s Laws 321, Lessee of Davis v. Keefer; 2 Pa. Rep. 384; 4 Barr 219; 5 W. & Ser. 339.\nBannan, for defendants in error.\nThe defendants below were not connected with the Wilson title, but claimed under an independent title by improvement by O. Whitmore or some one claiming under him; and on their part it is the case of intruders on the Wilson survey. It is not material whether the proceedings under the suit against Wilson and the judgment against the administrators of his estate conferred title as against his devisees or heirs, for1 the defendants below, having no connexion with them, cannot interpose objection on their account: 1 Watts 533, Coxe v. Blanden; 3 Pa. Rep. 426, Hunt v. Crawford; 1 W. & Ser. 501; 9 Watts 344; 5 Barr 494.\nAs to plaintiff\u2019s third point. The claim by occupation and improvement was limited by the warrant and survey of Conrad in 1818, he being then the owner of the improvement. A marked boundary line was made between the improvement and the land claimed under his warrant of 1818. No part of the land included in his survey was occupied or improved, and therefore there could be no claim under him under the Statute of Limitations to any part of the interference which he alleged to be vacant and unimproved.\nIt was said that the judgment against the administrator of Wilson was in the Circuit Court, and that its lien was not the subject of state regulation."
+  },
+  "file_name": "0215-01",
+  "first_page_order": 215,
+  "last_page_order": 222
+}

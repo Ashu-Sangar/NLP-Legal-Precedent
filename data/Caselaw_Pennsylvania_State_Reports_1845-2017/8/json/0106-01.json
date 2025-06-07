@@ -1,0 +1,168 @@
+{
+  "id": 959555,
+  "name": "Brenner v. Herr",
+  "name_abbreviation": "Brenner v. Herr",
+  "decision_date": "1848-05-18",
+  "docket_number": "",
+  "first_page": "106",
+  "last_page": "109",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts, 424",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840099
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0424-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 378",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842760
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0378-01"
+      ]
+    },
+    {
+      "cite": "2 Wash. C. C. Rep. 180",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "case_ids": [
+        6663834
+      ],
+      "pin_cites": [
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/14/1167-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 276",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0276-01"
+      ]
+    },
+    {
+      "cite": "9 W. 273",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. 126",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 380",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842702
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0380-01"
+      ]
+    },
+    {
+      "cite": "2 Litt. 49",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "case_ids": [
+        4216109
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/12/0049-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. 392",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Johns. 88",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 423,
+    "char_count": 8713,
+    "ocr_confidence": 0.388,
+    "pagerank": {
+      "raw": 1.060228640593919e-07,
+      "percentile": 0.5568959811942704
+    },
+    "sha256": "e9e5c48e0372c04997d4298f7ed9e30c1ea4ab539b170bfd893f195466dc72f8",
+    "simhash": "1:bb667fa49008aeae",
+    "word_count": 1590
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brenner v. Herr."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThis was an action of debt on a bond conditioned to pay $737 on the 1st of April, 1846. We think the error complained of in the charge is maintained. The court on the evidence should have submitted the case to the determination of the jury, and ought not to have instructed them that whatever amount was unpaid on the bond, was recoverable in this action. Whether the balance clue was recoverable would depend on the truth of material facts in evidence.\nThe bond now in court was supposed to be lost after the death of Christian Herr the father. Brenner insists and gave some evidence that he gave a new bond to the plaintiff below to supply its place. It was in evidence that the parties met on the 4th of April, 1846, when the new bond was delivered up and $650 was accepted as payment, when Herr promised that if the old bond was ever found he would deliver it up as cancelled. The defendant in error denies this. The material question was a fact for the jury \u2014 the truth of Brenner\u2019s allegation \u2014 for if .the new bond was delivered and accepted by Herr, and re-delivered up to Brenner on the payment of the $650, as young Brenner swears, the plaintiff ought not to recover, 16 Johns. 88; 5 Johns. 392. There is some discrepancy about dates, in the evidence, but that is for the jury. \u201cA bond is not perfected until delivered:\u201d 2 Barr, 448.- Whether there was a full accord and satisfaction will depend on the jury finding the truth of Brenner\u2019s allegation. But if no new bond was delivered, then the defence fails, and the court\u2019s instructions were right.\nThe case is one for the jury on the principles indicated.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Smith, for plaintiff in error.",
+      "Fllmaleer and Fordney, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Brenner v. Herr.\nIn an action of debt on a bond, upon tlie allegation and some proof by the defendant, that a less sum than its amount had been paid to and accepted by the obligee, in the absence of the bond, which had been mislaid, and was supposed to be lost, in full satisfaction of it: a positive instruction by the court to the jury, that whatever amount remained unpaid of the bond was recoverable by the plaintiff, is erroneous. It should have submitted to the jury, as a question of fact, whether a part was accepted in full satisfaction of the whole.\nIn error to the District Court of Lancaster county.\nDebt on bond, by Christian Herr, administrator of Christian Herr, deceased, against Jacob Brenner, the plaintiff in error, to recover a balance alleged to be unpaid on said bond. On the trial, the plaintiff gave in evidence the bond in suit, which was given by Jacob Brenner, the defendant, to Christian Herr, sen., for the payment of $737, dated December 5th, 1845, and payable on the 1st day of April, 1846, with interest from its date. This bond, it appeared, had been mislaid; and it was supposed to be lost, until some time after the death of the obligee therein, the said Christian Herr, sen. Letters of administration on the estate of the said Christian Herr, son., were granted to the plaintiff, his son, on the 9th day of February, 1846.\nThe defendant alleged, and supported his allegations with some proof, that a new bond was delivered by him to the plaintiff, and accepted by him, to supply the place of the bond supposed to be lost; that the parties met on the 4th of April, 1846, three days after the bond became due, and made a settlement, under which the plaintiff, upon his own proposition, agreed to accept and did accept the sum of $650, in satisfaction or payment of the new bond, which was then given up by the plaintiff to the defendant, accompanied with a promise by the plaintiff to deliver up to the defendant the old bond, if ever found. It was also in evidence, that the plaintiff admitted to two witnesses that he had settled with the defendant, but had been compelled to remit a part of the bond.\nHis honour Judge Hats charged the jury, that \u201cthe amount of the bond due on the 1st of April, 1846, was $737. A part of this was unpaid on the 4th of April, 1846; and has not been paid since. Whatever this part was, a balance remained of the bond; and the question now is, whether the circumstances, insisted on by the defendant as having occurred on the 4th of April, between Christian Herr and himself, constitute an available defence in this action. If one man owes another, and is called on for the money before it is due, and if in consideration of his paying before it is due, the party to whom he is indebted chooses to take less than is owing, it will be a valid satisfaction for the whole. So, if the money owing is to be paid at a distant place, and it is agreed that a less sum than is owing be paid and received where the parties then are, in satisfaction of the debt, this agreement is good and the satisfaction is sufficient. 3 Hawk, 350; 2 Litt. 49; 3 Bulst. 301; 1 Com. D. 133. (B. 2.)\n\u201c But not so, an agreement to pay and accept, or even payment and acceptance of, a less sum than is due, in satisfaction of the debt. The agreement is pro tanto without consideration; and the less sum can be no satisfaction for the greater, due at the time.\n\u201cIn the present case, the bond was due four days before the money in question was paid; and there are no circumstances which should have reasonably induced Christian Herr to accept, or Jacob Brenner to offer, less than was due in satisfaction of the bond. The amount was not disputed, nor the debt; and a suit might have been brought upon the bond, as a lost bond, and the whole recovered, though the writing had never been found. Whatever amount of this bond remained unpaid, is therefore recoverable in this action, though Christian Herr did say on receiving the money paid by Jacob Brenner \u2014 it was all right \u2014 though he gave up the new bond, and though he said, that when he found the old bond, he would give up that also. Such an agreement and payment are no accord and satisfaction, and cannot establish a defence for Jacob Brenner, beyond the amount which he actually paid.\u201d\nThe defendant excepted to the charge. The jury found for the plaintiff; whereupon the defendant sued out this writ, and assigned the following errors here :\u2014\n1st. The settlement between Mr. Brenner and Mr. Herr on the 4th of April, 1846, and the subsequent confessions of Mr. Herr to Lintner and Brenneman, are questions of fact which ought to have been submitted to the jury; and the court erred in deciding that \u201c these circumstances did not constitute an available defence.\u201d .2d. The extinguishment and satisfaction of the old and new bond depend upon the intention of the parties, which ought to have been referred to the jury as a question of fact; and the court misled the jury in saying that \u201c whatever amount of this bond remained unpaid is therefore recoverable in this action, though Christian Herr did say, on receiving the money paid by Jacob Brenner, it was all right; though he gave up the new bond, and though he said, when he would find the old bond he would give that up also.\u201d\n3d. The charge of the court, as a whole, is erroneous.\nSmith, for plaintiff in error.\nThis was a question of fact, and should have been submitted by the court to the jury. The possession of the bond, the testimony of the witnesses, prove that the bond was settled.\nFor the meaning of the word \u201csettled,\u201d he cited Rex v. Martin, 32 E. C. L. R. 626; More v. Kline, 1 Penn. R. 132.\nThe new bond operated as an extinguishment or satisfaction of the old. It was coextensive with the original debt; and from the face of the instrument and other evidence, it was the design of the parties that it should be treated as an extinguishment: Wallace \u25a0v. Fairman, 4 Watts, 380.\nAn agreement to pay a less sum of money in discharge of a greater, owing or payable, if fully executed and accepted in satisfaction thereof, is an extinguishment of the original debt. Spruneberger v. Dentler, 4 W. 126; Weakly v. Bell & Sterling, 9 W. 273.\nAn agreement or satisfaction of the debt depends upon the agreement and intention of the parties, which is rightly referred to the jury as a question of fact. Jones v. Johnson, 3 W. & S. 276; Hart v. Boiler, 15 S. & R. 162.\nFllmaleer and Fordney, cont\u00f3.\nAn agreement, without any consideration to receive a less sum from the debtor, is no satisfaction, &c.: \u2018Latapee v. Pecholier, 2 Wash. C. C. Rep. 180, 184; refer also to Wallace v. Fairman, 4 Watts, 378. An accord must appear to be advantageous to the party, or it can be no satisfaction: Keeler \u00ab. Neal, 2 Watts, 424. Mere receipt of payment for an item of an entire contract is no waiver of a demand for the residue: Tompkins v. Haas, 2 Barr, 74. Acceptance of a security for a lesser sum cannot be pleaded in satisfaction of a similar security for a greater: 1 Selw. 108.\nMay 18."
+  },
+  "file_name": "0106-01",
+  "first_page_order": 106,
+  "last_page_order": 109
+}

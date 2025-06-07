@@ -1,0 +1,368 @@
+{
+  "id": 951421,
+  "name": "Heartley v. Beaum",
+  "name_abbreviation": "Heartley v. Beaum",
+  "decision_date": "1845-01-31",
+  "docket_number": "",
+  "first_page": "165",
+  "last_page": "172",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Watts, 100",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "pin_cites": [
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 223",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842724
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0223-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. 222",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts, 51",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848440
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0051-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 337",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0337-01"
+      ]
+    },
+    {
+      "cite": "2 Cow. 657",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Rawle, 113",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Serg. & Rawle, 338",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Serg. & Rawle, 457",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Serg. & Rawle, 435",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Whart. 283",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Whart. 234",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Bin. 154",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788982
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0154-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 142",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Whart. 85",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Whart. 250",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 120",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts, 262",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts, 484",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts, 90",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850940
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0090-01"
+      ]
+    },
+    {
+      "cite": "13 Johns. 581",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 109",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts, 482",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850020
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0482-01"
+      ]
+    },
+    {
+      "cite": "11 Serg. & Rawle, 138",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Rawle, 162",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 223",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819198
+      ],
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0223-01"
+      ]
+    },
+    {
+      "cite": "13 Serg. & Rawle, 9",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1813935
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/13/0009-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 463",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009599
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0463-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle, 155",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819355
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0155-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates, 27",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Bin. 138",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788973
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0138-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 323",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts, 90",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850940
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0090-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle, 155",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819355
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/1/0155-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 974,
+    "char_count": 19202,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 8.047195952994054e-08,
+      "percentile": 0.4660318033985765
+    },
+    "sha256": "1695e0e276b4f5e547a84bed806b61e1d4e290384e50786bfd7f92276c0ecb07",
+    "simhash": "1:13c702e6931ebf25",
+    "word_count": 3409
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Heartley v. Beaum."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 In this case, the levy, the sheriff\u2019s return, and the sheriff\u2019s deed, all correspond and embrace a lot of ground on the south side of Lombard street, and west side of Delaware Seventh street, containing sixty-two feet on Lombard street, and one hundred and two feet on Seventh street; bounded on the north by Lombard street, on the east by Seventh street, on the south by a twelve feet alley, and on the west by other ground of Boudinot and Bradford, together with the rents, issues, and profits thereof, subject to a yearly ground-rent of $84. At the time of the levy, the defendant in the execution retained but fifty-four feet on Seventh street by sixty-two feet on Lombard street; having, previously to the levy, granted away the other portion on sub ground-rents by two separate deeds. And the only question really existing in the case is, whether these ground-rents passed to the purchaser at sheriff\u2019s sale, as well as the fifty-four feet remaining in the grantor. It is impossible to entertain a doubt about it, since the rents are levied on and sold as well as the lot or piece of ground; they actually issued out of portions of the lot described. And we cannot satisfy the call of the levy and deed, if either lot or rents be excluded. A great deal has been said, in the argument, about the operation of the word land to carry a rent, which is irrelevant, because the rents here are expressly levied on and sold, eo nomine, as much as the rest of the lot is. That a ground-rent is real estate subject to levy and execution, as such, has long been settled, and indeed is not contested. Neither is there any weight in the objection to the description in the levy. The lot is particularly described by metes and bounds, and the rents described as issuing out of it, which is good enough. A sheriff\u2019s levy and sale, to be sure, is a mere nullity, when it affects to pass all the defendant\u2019s property in general terms, such as all his lands in Pennsylvania, &c. But on the other hand, as it is not in the power of the sheriff or plaintiff always to ascertain precisely the details of a defendant\u2019s property, a reasonable degree of latitude is allowed in the description, Palmer\u2019s case, 4 Co. 74; Inman v. Kutz, 10 Watts, 90 ; and if the description is not, in the defendant\u2019s opinion, perfectly precise, he may have relief by application to the sheriff or court to correct it before deed acknowledged. He has the knowledge in his own breast, and if he lies by and allows a purchaser to pay his money and receive a deed, he has no cause of complaint; but the purchaser takes what is reasonably comprehended in his deed, though it might have been made more particular. The same remark applies to the sheriff\u2019s advertisements, which are but extrinsic preliminary matters, and have no bearing or effect on the title after deed acknowledged,' which must be judged of by the record of the judgment, levy, return, and deed. Nor is there any weight in the allegation, that the sale is according to the diagram annexed, and that the diagram shows but fifty-four feet sold. For on the face of this diagram, it embraces a lot bounded according to the description in the levy and return \u2014 the interior measurement placed on part of it gave no lot at all of fifty-four feet, but of fifty-one. No lot of fifty-four or fifty-one feet is subject to the $84 ground-rent. Nor does any thing on the face of the diagram contradict or vary the prior description.\nThe present case is stronger than in Streaper v. Fisher, 1 Rawle, 155. Yet there the levy and venditioni were of a rent-charge issuing out of a lot, describing it; the sheriff sold the lot, and made a deed of the lot, together with all the rights, &c., and the reversions, remainders, rents, issues, and profits thereof, and it was held the rent passed by the deed.\nWe are therefore of opinion that the court below erred, and that, on the case stated, judgment must be rendered for the plaintiff below.\nJudgment reversed, and judgment for plaintiff below.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "D. Gordon, for plaintiff,",
+      "E. Spencer Miller and V. L. Bradford, for defendants.",
+      "Cadwalader, in reply.'"
+    ],
+    "corrections": "",
+    "head_matter": "Heartley v. Beaum.\n1. A. being the owner of part of a large lot of land, and also of rents reserved out of another part, the marshal, under a levy upon a judgment against him, describing by metes and bounds the larger lots, with the rents, issues, and profits thereof, made a sale of the same, at public vendue; \u2014 Held, that under the word rents, the ground-rents reserved passed to the purchaser.\n2. And this though the advertisement described the land only, for defective description therein can have no effeot after the deed is acknowledged.\nError to the District Court of the city and county of Philadelphia, on case stated.\nJan. 21, 22, 23. \u2014 In 1794, Boudinot et al. being seised in fee of a lot at the S. W. comer of Lombard and Seventh streets. Sixty-two feet on Lombard street, by one hundred and two feet deep, conveyed the same to Cadwallader Griffith, reserving a ground-rent of |84 53.\nIn 1796, Griffith conveyed to Conner lots numbered 3 & 4 in the plan A, reserving a ground-rent of $53 33, with clause of distress and re-entry, and covenanted against the paramount rent.\nIn 1797, Conner conveyed to Faimin lot 3, subject to $26 67 per annum, payable to Griffith.\nIn 1800, Elisha Gordon having purchased lot 4, subject to a similar rent, conveyed to Thomas Francis.\nThe same year, Griffith conveyed lot2 to John McCloskey, reserving $26 67 ground-rent, with covenant as to paramount rent.\nThere was no allegation of assent to the apportionment of the rent on lots 3 & 4, by Griffith.\nIn 1806, the United States recovered judgment against Griffith for $1953 61. A fieri facias issued, and was returned levied, &c., with the same description in full as is contained in the vend, exponas. In 1808, the venditioni issued; after reciting tire fi. fa. it proceeded, \u201cAnd you on that day returned that by virtue of the said writito you directed, you had seized and taken in execution, as the property of Cadwallader Griffith, all that certain lot or piece of ground, situate on the south side of Lombard street, and west side of Delaware Seventh street, in the city of Philadelphia, containing in front or breadth on Lombard street aforesaid, sixty-two feet, and extending in length or depth on Seventh street, one hundred and two feet, (to a twelve feet wide alley, running east and west from a certain sixteen feet wide alley into Seventh street,) bounded on the north with Lombard street, on the east with Seventh street, on the south with the said twelve feet alley, on the west side with the other ground of Elias Boudinot and William Bradford, intended to be granted to Joseph Townsend on ground-rent. The northermost seventy-eight feet of the above described lot is part of the same ground which the Supreme Executive Council, &c., granted unto the said Elias Boudinot and William Bradford, in fee as tenants in common, and the southermost twenty-four feet is part of the same ground which Joseph Cowperthwaite, Esquire, High Sheriff, See., granted unto the said William Bradford and Elias Boudinot in fee, as tenants in common, as in and by the said deeds fully and at large appears, together with the free use, liberty and privilege of the said twelve feet alley, in common with the said Elias Boudinot and William Bradford, their heirs and assigns, tenants and occupiers of their other ground bounding on the same alley, at all times hereafter for ever, and together also with all and singular the improvements, ways, waters, water-courses, rights, members, liberties, privileges, hereditaments, appurtenances whatsoever thereunto belonging, or in any wise appertaining, and the reversions, remainders, rents, issues and profits thereof, subject to a yearly ground-rent of eighty-four Spanish milled silver dollars, clear of taxes or assessments, which remained in your hands unsold for want of buyers, and therefore you could not, &c.\u201d The inquest was then recited. \u201cWherefore we command you, that all that certain lot or piece of ground, situate on the south side of Lombard street, and west side of Delaware Seventh street, in the city of Philadelphia, before described by you in form aforesaid, seized and taken in execution without delay, you expose to sale, and that you have that money before the said judge,\u201d &c.\nThe debt and costs exceeded $2000.\nThree advertisements of the sale, by the marshal, one for 16th Feb., the other for 3d and 10th of March, were made a part of the case, subject to the opinion of the court as to their competency, bearing, and effect as evidence. The description of the property in two of them was,\n\u201c All that lot or piece of ground situate on the south side of Lombard street and west side of Delaware Seventh street, in the city of Philadelphia, containing in front or breadth on Lombard street sixty-two feet, and extending in depth on Seventh street fifty-four feet, bounded on the north with Lombard street, on the east with Seventh street, together with the buildings and improvements thereon erected,\u201d seized, &c.\nThat for the 3d March divided the property into four lots, as in plan B, numbers 1, 2, 3, 4, and gave the breadth and depth, \u201cwith the privilege of a three feet wide alley, communicating with Bradford\u2019s alley.\u201d\nThe marshal returned that'he had sold, on the 10th March, to Thomas Francis, all the right, title, and interest of Cadwallader Griffith, in, &c., following the above description in the levy, and venditioni.\nThe sale was for - - - - - - $2100 00\nLeft in the hands of T. Francis Ground-rent ----- $876\nWhich, with costs, amounted to - - - 1000 32\nLeaving ------- $1096 68\nThe marshal further returned, \u201c That by virtue and authority of Cadwallader Griffith, the defendant, the sale of the property within described, was sold in the manner and form as set forth in the deed executed (and acknowledged in open court) to Thomas Francis, and that the said Cadwallader Griffith furnished the plan hereunto annexed.\u201d Plan B is the plan referred to in these writs and returns.\nThe marshal, by his deed, conveyed to Thomas Francis, in fee, all the estate of Cadwallader Griffith, in that certain lot, sixty-two feet on Lombard street, and one hundred and two feet on Seventh street, \u201c and the reversions and remainders, rents, issues, and profits thereof.\u201d\nOn the 26th April, 1808, Griffith and the marshal gave Francis a receipt for arrearages of ground-rent on the lot occupied by him, the said arrearages being up to the time of sale, and being on account of the ground-rent generally. This the marshal admitted was to be applied on account of the execution.\nThese papers were admitted, subject to question of competency and effect.\nSince the sale, Thomas Francis has collected the rents reserved on lots 2 and 4, and has paid die paramount rent; the right to claim the former is denied by defendant.\nThe present plaintiff claims the lot and the two ground-rents as the property of Thomas Francis, under this sale, through two intermediate conveyances for value, &c.\nGriffith died in 1820. In 1834 his heirs distrained for the rent and ' arrears out of number 4; the plaintiffs replevied.\nThe questions submitted were, 1. Whether the rents passed by the marshal\u2019s sale ? 2. If not, whether the lot he did purchase was subject to the whole paramount rent, or a proportionate par\u00ed ? The court below gave judgment for the avowant, and the plaintiff brought this writ of error.\nD. Gordon, for plaintiff,\nargued at length that the advertisements were not admissible; and that the assent of the debtor, as shown by the return, cured the defect, if there was one, and cited many cases to these points, but the court stated that the only question they wished spoken to at present was, whether there had been a levy on this rent. On this he argued that the words of the levy were the sole guide, nor were they to be passed over as of course, but were to be given their full effect, Grubb v. Guilford, 4 Watts, 323; nor will his declared interest at the sale to the contrary be of any effect, Reigle v. Seiger, 2 Penna. 340. Here hereditaments out of the land are levied on. [Rogers, J. \u2014 What estate do you contend he had in the land ?] What was called an escheat or reverter, or quasi reversion anterior to the statute quia emptores. Co. Litt. sect. 215, 144 a, n. 5; Fearne Ex. 'Dev. 381, n. 1. It is this which enables him to distrain. Phillips v. Bonsall, 2 Bin. 138. This construction is essential, for, by the act of 1700, lands and houses, and by that of 1705, lands and tenements, were alone subjected to execution. Yet in Hurst v. Lithgow, 2 Yeates, 27, rents were held to pass. So in Streaper v. Fisher, 1 Rawle, 155, the levy was on the rent, but the sale was of the land, and the rent passed\u2014 [Kennedy, J., there was no objection before acknowledgment,] so here, twenty-six years have passed. The pointhas been ruled in New York, where the statute is the same. 7 Wend. 463. In fact, land includes all interests, and a levy on that will pass all minor estates. Shaupe v. Shaupe, 13 Serg. & Rawle, 9. The purchaser is, in the words of the Act of Assembly, in the same estate, and as fully and amply as the debtor. Arnold v. Gorr, 1 Rawle, 223, 226; Freedley v. Sheets, 9 Serg. 6 Rawle, 162. The interest, whatever that may be, is sold, Wilder v. Farmers, 11 Serg. & Rawle, 138. The construction is favourable to the creditor, McCormick v. Harvey, 9 Watts, 482.\nE. Spencer Miller and V. L. Bradford, for defendants.\n\u2014 The sale need be of a part merely, and the return makes the diagram a part of it, and shows McCloskey\u2019s lot was a boundary. Was there a pow'er in the venditioni to sell? That depends on the levy. Was the levy on the rent as such ? No. Was it drawn in by any reversion in the land remaining in Griffith, or included in the general word land ? In devises of land, rent will pass, Sty. 261; but not if there be land for the will to act on, 3 Taunt. 147; Cru. Dig. 200. Statutes are more narrowly construed, as will be seen by the cases cited on writs. Deeds are still more strictly construed, 4 Ves. 708. Sty. 201, expressly said, \u201c rents\u201d would not pass by the word, \u201c lands.\u201d 3 Mason, 281. In Franciscus v. Reigart, 4 Watts, 109, it was decided below \u2014 rents would not pass under name of lands. 2 Leon. 43; 1 Salk. 328; 7 Petersdorf, Abr. 465, n. But sheriffs\u2019 deeds and adversary writs are still more strictly construed, Fonb. Eq. 426; Jackson v. Delaney, 13 Johns. 581; the general words were held not to pass more than the tracts specifically levied on, 10 Watts, 90. And in pleading, land will not include rents. Siley v. Siley, 1 Vent. 260; Jac. L. Dic. \u201c land.\u201d The sheriff need not recite, but misrecital is void, Palmer\u2019s Case, 4 Rep. 74. The levy cannot be strained, 9 Watts, 484. The general words here merely refer and belong to the deeds under which the party claimed.\nBut is it attracted by the reversion as an incident? That, if there be such, cannot be sold, Shep. Touch. 120; 5 T. R. 108, n.; Preston Est. 441. It is not devisable, 6 Cru. Dig. 27. The owner of the rent has no estate in the land, 2 Black. Com. 106, 41; 1 Domat. C. L. 210, s. 15 ; and the mode of pleading show's this: it is seised in fee, not in his demesne as of fee. In Pennsylvania, the estates have been held distinct, and an alienation in fee, the entire disposition of the estate, notwithstanding a reservation of rent. Kenege v. Elliott, 9 Watts, 262; Franciscus v. Reigart, 4 Watts, 120; Skerret v. Burd, 1 Whart. 250; Philadelphia v. Ingham, 1 Whart. 85; Phillips v. Bonsall, 2 Bin. 142; Hurst v, Lithgow, 2 Serg. 25; Bantleon v. Smith, 2 Bin. 154; St. Mary\u2019s v. Miles, 1 Whart. 234, 235; Bailey v. Jackson, 16 T. R. 214; Pennington v. Coates, 6 Whart. 283. The marshal was not bound to sell all. [Kennedy, J. \u2014 His return falls short of the execution.]\nThe question as to the nature and origin of the feudal tenures was then discussed at length, and also whether they ever prevailed in Pennsylvania, and whether the Revolution and acts of 1779 and 1781 had not destroyed them; and the dicta in 3 Walts, 71; 1 Whart. 85; 4 Serg. & Rawle, 435; 3 Serg. & Rawle, 457; 9 Serg. & Rawle, 338; 5 Rawle, 113; 2 Cow. 657; 3 Kent, Com. 408 \u2014 412 ; 9 Watts, 262; 1 Whart. 337, were referred to.\nCadwalader, in reply.'\n\u2014 There are two propositions which are to be considered here; the 1st is general. A levy and sale of land by any name, within certain metes and bounds, passes every incorporeal hereditament \u2014 every thing that is real estate. But should, this be doubtful, the facts here are abundant to show this rent passed. The first point is a matter of settled rule, in regard to titles on which the profession uniformly act. Rent is the incorporeal hereditament nearest to land; thus, Lit. sect. 10, puts it on the same footing in pleading, viz., in his demesne, &c.; all others are simply as of fee; and this sustains Scott v. Lunt, 7 Peters, 606, allowing covenant by the assignee in his own name. In 13 Ed. 4, 4 b, it is called \u00ab land\u201d expressly. This rule is important, for it is often impossible to know exactly which of the estates a man has; he cannot have both, because of merger; hence the course is to levy on the land and take whatever he may have ; nor is any hardship done, for the court on his showing his estate will compel a proper advertisement. It is clear it would pass by his voluntary grant. Bro. Grant, pl. 102, rent-charge by the word tenement, 2 Roll. Ab. 57, Grant, T. sect. 6; S. P., 1 Id. 614, Dev. n. 4, case of tithes; Newman v. Rutter, 8 Watts, 51, by devise of a town, ground-rents thereout reserved will pass.\nThat the same will be effected by involuntary grant, is the settled rale of Pennsylvania, 1 Sm. Laws, 7; \u00abas fully and amply as ever they were to the debtor,\u201d are the words of the statute of executions, Foot v. Calvin, 3 Johns. 222; Cooper v. Galbraith, 3 W. C. C. R. 550, followed by Young v. Algeo, 4 Watts, 223, sustain this construction of the act. The reasoning in Palmer\u2019s case, 4 Rep. 74, puts him in a better position. This is cited, 10 Watts, 100, 101, referred to by my colleague. The construction is at least, according to this rule, most strongly against a grantor. The case of People v. Haskins, 7 Wend. 463, decides the point, for the whole case assumes the rents were reserved before the judgment, and their statute only extends to lands. The S. P. prevails in England on the construction of the stat. Westminster 2d, which includes only lands; and yet rents reserved, before judgment, may be extended. Bro. Abr. Ext. 143; Fitzh. Gr. Ab. Avow. 237; Moore, 32, pl. 104; 7 Rep. 37, 38, a, Dillington\u2019s case. But the facts here -.exclude doubt. Boundaries are the controlling matters to be considered in conveyances. The sheriff refers to the conveyance to Bradford, which is entirely within the part now said not to be conveyed by his deed; and also to Bradford\u2019s alley as a boundary, with which we had nothing to .do but on our construction. Then there is the measurement. As to these being words of course, they arc put in to prevent those very disputes now raised here. But levies do not usually contain them \u2014 it.being settled they are included by implication; for what purpose were they specially inserted, but to pass this rent.\nJan. 31."
+  },
+  "file_name": "0165-01",
+  "first_page_order": 165,
+  "last_page_order": 172
+}

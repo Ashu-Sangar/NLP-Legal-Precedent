@@ -1,0 +1,66 @@
+{
+  "id": 422287,
+  "name": "Walden versus Berry",
+  "name_abbreviation": "Walden v. Berry",
+  "decision_date": "1865-01-16",
+  "docket_number": "",
+  "first_page": "456",
+  "last_page": "457",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 192,
+    "char_count": 2983,
+    "ocr_confidence": 0.484,
+    "pagerank": {
+      "raw": 3.483753643536832e-07,
+      "percentile": 0.8819046979186818
+    },
+    "sha256": "9c4dd0f7af0fc5d98805bb9c4c0080c69c4a67b990740d1dc0e2aa2fa1299bec",
+    "simhash": "1:e233dfc9c90a3951",
+    "word_count": 514
+  },
+  "last_updated": "2023-07-14T20:42:36.914875+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walden versus Berry."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nAgnew, J.\n\u2014 There is no error in this record. The affidavit of defence made no denial of the plaintiff\u2019s claim, but merely set up a defence by defalcation upon a note given in the sum of $268.49. The set-off was beyond the jurisdiction of a justice, and was therefore no defence. When an appeal comes into court the proceedings are said to be de novo, but not as to jurisdiction. The right to try the cause given by the subject-matter is not enlarged when the case passes out of the hands of the justice into those of the court. Those cases which decide that interest accruing after the judgment of the justice may be added, even should the sum thereby exceed one hundred dollars, are not exceptions, but prove the rule in this, that if the excess be more than the intervening interest, it is a ground of setting the proceedings aside for want of jurisdiction.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Agnew, J."
+      }
+    ],
+    "attorneys": [
+      "Diehl, for plaintiff in error.",
+      "The defendant\u2019s counsel presented no printed argument."
+    ],
+    "corrections": "",
+    "head_matter": "Walden versus Berry.\nProceedings on appeal from justice are not de novo as to jurisdiction of claim, or set-off.\nWhere, in an action on a book account before a justice of the peace, a note exceeding S100 was offered in defalcation, and, after judgment, on appeal by the defendant, the plaintiff filed his statement and copy of book entries, against which in his affidavit of defence the defendant claimed to defalcate his note, it was held, that proceedings on appeal were not de novo as to jurisdiction, and that therefore the entry of judgment in the Common Pleas for want of a sufficient affidavit of defence, was not error.\nError to the Common Pleas of Philadelphia.\nThis was an action brought by Caspar M. Berry, in September 1864, before Alderman Beitler, against Edward Walden, to recover the sum of $71.78, for dinners furnished to a clerk of defendant during a period running from January 4th 1861 to November 12th 1861. There were mutual dealings and transactions between the parties. On the trial before the alderman the plaintiff offered^in evidence a book of original entries, which was objected to by the defendant\u2019s counsel, as not being either a proper book, or the charges the subject of original entries, or the proper evidence produced to support them. It was admitted, however, and the defendant then offered to set off against the suit a promissory note, given by Berry to the order of Walden, for $268.49, dated November 20th 1860, and which amount Walden claimed. This was rejected by the alderman, and judgment entered for the amount of plaintiff\u2019s claim, to which an appeal was taken to the Court of Common Pleas. A copy of the book of original entries was filed, and the defendant filed an affidavit of defence, setting up the note held by him against the plaintiff\u2019s 'demand. Upon a rule taken, the court below entered judgment against the defendant, for want of a sufficient affidavit of defence; which was the error assigned.\nDiehl, for plaintiff in error.\nThe defendant\u2019s counsel presented no printed argument.\nJanuary 16th 1865,"
+  },
+  "file_name": "0456-01",
+  "first_page_order": 456,
+  "last_page_order": 457
+}

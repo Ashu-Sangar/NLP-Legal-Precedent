@@ -1,0 +1,97 @@
+{
+  "id": 975809,
+  "name": "Walker versus Eyth",
+  "name_abbreviation": "Walker v. Eyth",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "216",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Jones 347",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 464",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846801
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0464-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 123",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0123-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 308,
+    "char_count": 4551,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 1.0758241589403495e-07,
+      "percentile": 0.5609784585896707
+    },
+    "sha256": "d2ec0f8977d1e401c96bac46b2dcd6d5f5c1ff8a581d58c8635e8f7c09dfc6d5",
+    "simhash": "1:b923bc174df4d099",
+    "word_count": 816
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walker versus Eyth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, C. J.\nThis was an action to recover a debt due to Eyth in his individual right. .There was an offer to set-off against it a debt due by Wallace & Eyth as partners. We may concede that the death of Wallace, after plea pleaded, left Walker and Eyth, as survivors, the sole debtors of each other at law: 5 Ser. & R. 493; 6 Ser. B. 582; but the claim of Eyth was his separate estate, and he had a right to appropriate it to his separate creditors. He might also, until deprived of dominion over his property, appropriate it to the payment of any one of his separate creditors whom he thought proper to prefer: Worman v. Wolfersberger\u2019s Executors, 7 Harris 59. Such appropriation is in accordance with the rule in equity, that where there are partnership and separate creditors, each estate shall be applied exclusively, in the first instance, to the payment of its own creditors: the joint estate to the joint creditors, and the separate estate to the separate creditors: Bow 308. It is true that this equity has, in general, to be worked out through the medium of the partners: Story\u2019s Eq. \u00a7 1253; Baker\u2019s Appeal, 9 Harris 82. But in the case before us, Berg & Co. stand not only upon their own equity but upon that of Eyth, who had the right to appropriate his separate estate to the payment of his separate creditors, to the exclusion of the partnership creditors. He exercised that right before the death of Wallace had produced the effect of making him the sole debtor as surviving partner, while it left Walker alone liable on the demand on which this action is founded. As this was merely a change of legal liability, we do not see how it could deprive Eyth of his equitable rights in the proper distribution of his separate and partnership assets. But the case does not require an opinion on this point, 'and we leave it undecided. It is clear, however, that an allowance of the proposed set-off would defeat the undoubted and paramount equities of Berg & Co. It was therefore properly rejected.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Graham and S. A. Purviance, for plaintiff in error,",
+      "Bredin and MeJunkin, contr\u00e1. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Walker versus Eyth.\nWhere one of two partners, after dissolution, assigned to a third party, for a valuable consideration, a note given him by the other partner and a surety, for his interest in the partnership concern; in an action against the surety on such note, a debt due by the firm could not be set off against a recovery on the note, although the partner who signed the note was dead, and his estate insolvent, and the survivor was also insolvent.\nThe retiring partner, until deprived of dominion over his individual property, had a right to appropriate it to the payment of his individual debts.\nWhere there are separate and partnership creditors, and separate and partnership property, the rule in equity is, that each estate shall be applied exclusively, in the first instance, to the payment of its own creditors.\nError to the Common Pleas of Butler county.\nThomas W. Wallace and Roman Eyth were partners under the firm of Wallace & Eyth, and as such purchased goods and merchandise from David Walker, to the amount of $450. After-wards, on the 10th day of May, 1849, the partnership was dissolved. Wallace purchased the interest of Eyth, and gave the note on which this suit is brought, with David Walker as surety, in part payment for his interest in the concern. Some time in the fall of the same year, Eyth assigned this note to Berg & Co., in payment of goods bought of them. On the 27th November, 1849, Wallace made an assignment for the benefit of creditors to David Walker, and shortly afterwards left for California, where he died on the 12th of May, 1852, insolvent. Eyth subsequently also became insolvent.\nThe only question in the cause was, whether the claim of Walker against Wallace & Eyth could be set off against the note in the hands of Berg & Co. ^\nThe Court below, Agnew, P., rejected the evidence of set-off, \u25a0 and this was the error assigned.\nGraham and S. A. Purviance, for plaintiff in error,\ncited and relied on 1 Binn. 123; Story on Part. \u00a7 361-2; Act of 6 April, 1830, \u00a7 1, Purd. Dig. 633; 11 April, 1848, \u00a7 5, Purd. 634; 5 Barr. 399; 5 W. & Ser. 367; 4 Ser. & R. 174; 8 W. & Ser. 311; 14 Ser. & R. 300; 9 Ser. & R. 68; 7 Watts 464; 2 Barr 261; 2 Jones 347; 11 Ser. & R. 377.\nBredin and MeJunkin, contr\u00e1. \u2014\nThe case does not fall within the cases cited by the plaintiff in error. The note belonged to Eyth individually, and he had a right to appropriate it to his own debts. The equity of Berg & Co., is equal to or superior to that of Walker."
+  },
+  "file_name": "0216-01",
+  "first_page_order": 216,
+  "last_page_order": 218
+}

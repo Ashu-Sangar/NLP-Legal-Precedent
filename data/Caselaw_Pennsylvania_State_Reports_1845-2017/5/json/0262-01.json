@@ -1,0 +1,127 @@
+{
+  "id": 953539,
+  "name": "Skinner's Appeal",
+  "name_abbreviation": "Skinner's Appeal",
+  "decision_date": "1847-05-19",
+  "docket_number": "",
+  "first_page": "262",
+  "last_page": "263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Rawle, 478",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rawle, 468",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823531
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0468-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle, 279",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819254
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0279-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle, 373",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Whart. 179",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829038
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/1/0179-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 90",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840159
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0090-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 276,
+    "char_count": 3642,
+    "ocr_confidence": 0.358,
+    "pagerank": {
+      "raw": 5.663806401086183e-08,
+      "percentile": 0.3529860235094787
+    },
+    "sha256": "a234332a2e58061da157e58214a018ff09f5c62dbd34fc9b2995cd800407c5fd",
+    "simhash": "1:8c459416dcaaf3dd",
+    "word_count": 638
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Skinner\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n'The words of this assignment extend to the husband\u2019s \u201cpersonal property, of any kind whatever, which he holds, or is in any manner entitled to, be the same in possession or action and this general description is followed by a specification which rather restrains than enlarges it; and the question is, whether it passed an outstanding legacy to the assignor\u2019s wife. The description is limited throughout to his property; and has he any property in Ms wife\u2019s legacy ? If he had even a qualified property, it would pass subject to the wife\u2019s right of survivorship in case it were not recovered in her lifetime. But it was held in Dennison v. Nigh, 2 Watts, 90; and Robinson v. Woelpper, 1 Whart. 179, that he has not; and that her legacy is not liable to attachment for Ms debt. The same principle was held in Siter\u2019s Case, 4 Rawle, 373, and some others. In Richwine v. Heim, 1 Penna. Rep. 373, the assignment expressly included the wife\u2019s legacy, which differs that case from the present. The point that the husband has barely a naked power over his wife\u2019s choses in action, and one which he is not bound to execute in favour of Ms creditors, must therefore be taken to be at rest.\nDecree reversed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Fisher and Morris, for appellant.",
+      "Durkee and Barnitz, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Skinner\u2019s Appeal.\nA legacy to a wife will not pass by an assignment of the husband for the benefit of his creditors, of ail his personal property.\nFrom the Orphan\u2019s Court of Adams county.\nMay 19.\nBucher and another, assignees of appellant, presented their petition to the court below, setting out the will of one Slade, who, inter alia, bequeathed to his daughter Elizabeth, wife of appellant, $1300, payable in annual sums of $100, by his son and devisee: that afterwards the appellant made an assignment to the petitioners of his right to the said legacy, in trust for his creditors, and prayed an order to enforce their rights to the payment of the legacy.\nThe deed of assignment under which the petitioners claimed title, was an indenture made in 1840, reciting the embarrassed situation of the appellant, and his desire to pay his debts, &c., and conveyed \u201call the following real estate,\u201d (describing it particularly,) and \u201c all or any the real estate of the said (appellant) wherever the same may be situated: and also all his personal property, of any kind soever, which he hath, or is in any manner entitled to, be the same in possession or in action: viz.,\u201d goods in store and household furniture, together with the accounts standing on the books; in trust to pay certain preferences, and then debts generally, without any stipulation for a release.\nThe court (Irvine, P. J.) decreed payment of the unpaid portion of the legacy to the petitioners, and the assignor appealed.\nFisher and Morris, for appellant.\nThe trustee is not a purchaser for value; Wolf v. Eichelberger, 2 Penna. Rep. 346; and the only question is the intention, for that must plainly appear, in order to pass the wife\u2019s ehosea ; Updegrove v. Updegrove, 1 Barr, 136; Hartman v. Dowdel, 1 Rawle, 279. The husband has but the power of disposal which ho succeeds to in right of his wife j Richwine v. Heim, 1 Penna. Rep. 373; Siter\u2019s Case, 4 Rawle, 468; and there is no evidence of an intention to exercise that power, but the contrary; for the omission of the wife to join in the deed leaves her right of dower unaffected, and the only general words, \u201c all his personal property in possession or action,\u201d are controlled by the recital under the videlicet; Bouv. Dic. verb.; Hobart\u2019s Rep. 171, 172; 2 Saund. 291 a.\nDurkee and Barnitz, contra,\ncited act 1834, Executors and Administrators; Siter\u2019s Case, 4 Rawle, 478; 1 Penna. Rep. 373; 1 Rop. on Leg. 214."
+  },
+  "file_name": "0262-01",
+  "first_page_order": 262,
+  "last_page_order": 263
+}

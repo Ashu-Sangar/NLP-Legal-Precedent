@@ -1,0 +1,259 @@
+{
+  "id": 418951,
+  "name": "Albietz versus Mellon",
+  "name_abbreviation": "Albietz v. Mellon",
+  "decision_date": "1861-01-28",
+  "docket_number": "",
+  "first_page": "367",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 367"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wh. 432",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 221",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480187
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0221-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 445",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856518
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0445-01"
+      ]
+    },
+    {
+      "cite": "Rob. 366",
+      "category": "reporters:state",
+      "reporter": "Robards",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Binn. 476",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 20",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841320
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0020-01"
+      ]
+    },
+    {
+      "cite": "3 Conn. 144",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hall Rep. 262",
+      "category": "reporters:state",
+      "reporter": "Hall",
+      "case_ids": [
+        1363489
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/1/0262-01"
+      ]
+    },
+    {
+      "cite": "5 Wh. 530",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878860
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0530-01"
+      ]
+    },
+    {
+      "cite": "8 Wendell 426",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147377
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0426-01"
+      ]
+    },
+    {
+      "cite": "5 Binn. 469",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0469-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 222",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Howard 404",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "case_ids": [
+        1627950
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/5/0404-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 25",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Pick. 5",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2010297
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/20/0005-01"
+      ]
+    },
+    {
+      "cite": "5 Pick. 412",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2033245
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/22/0412-01"
+      ]
+    },
+    {
+      "cite": "1 Duer 322",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 W. & S. 445",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856518
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0445-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 20",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841320
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0020-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 469,
+    "char_count": 8772,
+    "ocr_confidence": 0.436,
+    "pagerank": {
+      "raw": 9.771098182292544e-08,
+      "percentile": 0.5315941199660675
+    },
+    "sha256": "0a3e5d4dfb7b58e0840077d8f39114f83a09062a8a8753607b3cd8db2a7dbb72",
+    "simhash": "1:de429ab9e1d6963a",
+    "word_count": 1580
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albietz versus Mellon."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nLowrie, C. J.\nTwo defendants are sued by the endorsee of a promissory note as partners and joint makers of it, and one of them submits, and the other takes defence, on the ground that the note had been issued by the other without authority and after the dissolution of the copartnership. The evidence of this defence having been given, the learned judge instructed the jury that there was no evidence that the plaintiff below had any notice of the dissolution, and none to weaken the presumption that he was a bond fide holder for value, and that therefore the defence failed. This is the chief matter assigned for error, and it requires us to refer to the evidence ; for we must judge of the charge by the evidence given before the jury.\nThe only evidence put upon our paper-books by the defendants below is that of a son of Albietz, whoso testimony on this point is that the dissolution took place, and the payee had express notice of it, near two months before the note was given. There is no evidence that the endorsee had any sort of notice. It is quite plain, therefore, that the learned judge did not make any mistake of fact relative to the testimony. The question of law is therefore raised \u2014 is the endorsee required by this evidence to show that he is a bond fide holder for value? The answer of the law is, Yes, where the defendant has specially pleaded that the note was fraudulently issued, and that the holder gave no consideration for it; for then the plea gives the plaintiff notice of the defence: Harvey v. Towers, 15 Jurist 544; 4 Eng. L. & E. R. 534; 1 Duer 322; 5 Id. 462; 1 Bing. N. C. 469.\nBut our pleadings do not usually give such notice, and the short plea in this case, \u201c no partnership,\u201d does not give it, and therefore our law requires notice in some other form to be given and proved as part of the defence: 5 Binney 469; 3 Watts 20 ; 4 W. & S. 445; 7 Barr 476. Ho evidence having been given, therefore, to affect the presumption that the plaintiff below was a bond fide holder for value, or of notice to him that he must prove this, the learned judge could charge the jury no otherwise than he did. Possibly he might have treated the affidavit of defence as equivalent to such notice, if it had been offered in evidence as notice, but it was not.\nThe other assignment of error would have been better in form if each point referred to in it had been embodied in a separate assignment; but it is all set aside by what we have already said.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Stowe and Mueller, with whom was P. 0\u25a0 Shannon, for plaintiff,",
+      "R. Biddle Roberts, for defendant in error.;"
+    ],
+    "corrections": "",
+    "head_matter": "Albietz versus Mellon.\nEndorsee of Note, not required to prove Consideration without notice.\n1. In an action by the endorsee of a promissory note against one of two makers, where the defence is that it was fraudulently made and put in cireula'tion, &c., the plaintiff is bound to prove that he is a hand fide holder, but not unless he have notice previous to the trial, that such proof will be required of him.\n2. A special plea, setting forth such a defence, is notice under this rule; and, possibly, an affidavit of defence to the same effect, filed by defendant, would be sufficient, if offered in evidence as notice; but the short plea of \u201c no partnership,\u201d is not sufficient for this purpose; and if no other notice he given to the plaintiff, nor any proof offered to destroy it, the presumption that lie is a bondfi.de holder will not be affected on the trial.\n3. In a suit by the endorsee of a promissory note, executed by one of two partners, in the firm\u2019s name, where one of the defendants alleged, that the note had been fraudulently issued, without his authority, and after the dissolution of the partnership, and notice of the dissolution to the payee was proved before the date of the note, but none was shown to have been given the plaintiff, nor any evidence that he was not a bond fide holder; the court instructed the jury that the defence had failed. Reid, that there was no error in the instruction.\nError to tlie District Court of Allegheny county.\nThis was an action of assumpsit brought by John Mellon against Felix Bobe and Joseph Albietz as partners, on a promissory note for $863.89, dated February 14th, 1857, signed Bobe & Albietz to the order of Reis & Berger, and by them endorsed in blank.\nBobe made no defence, and judgment was taken against him for default of appearance, and for want of an affidavit of defence. Albietz resisted the claim, and filed an affidavit in the cause, that \u201c the note on which suit was brought was made by Felix Bobe after the dissolution of a partnership which had formerly existed between them, and without the affiant\u2019s knowledge, consent, or authority, and that it was not made or delivered in settlement or payment of any claim or demand which legally existed against the firm of Bobe & Albietz at the time of the dissolution thereof.\u201d He also pleaded non assumpsit, no partnership, payment tuith leave,\u201d &c.\nOn the trial the plaintiff proved that a partnership existed between the parties defendant in 1856, offered the note in evidence, and rested his case.\nThe defendant then proved that the partnership between him and Bobe had been dissolved December 26th 1856; that Reis & Berger had notice of the dissolution January 1st 1857; and that he h\u00e1d told Berger not to trust Bobe any more, as he the defendant would no longer be responsible for him. He also proved that the note was not given before January 24th 1857, and offered evidence to show that it was not given for any indebtedness incurred by the firm before dissolution, and that all claims due by the firm to Reis & Berger had been settled previous to the dissolution of the firm of Bobe & Albietz by notes.\nThere was also proof in the case that the consideration of the note was a quantity of soda ash delivered by Reis & Berger after the dissolution, under an agreement under seal, made by Bobe for Bobe & Albietz before the firm had dissolved.\nThe court below (Williams, P. J.) instructed the jury \u201c that the defence set up by Albietz was of no avail against the plaintiff, there being no evidence that he had notice of the dissolution of the partnership, nor of anything to put him on inquiry, nor any evidence to rehut the presumption that he is a bond fide holder for value.\u201d Under this instruction the jury found, as they were directed, for the plaintiff, and assessed the damages at $908.06; and, judgment having been entered thereon, the defendant sued out this writ, and assigned for error the instruction given to the jury, as above, and the refusal to charge, as requested, that Bobe had no power to bind the firm by a contract under seal, that Albietz was not liable for the soda-ash delivered after the dissolution, without proof of his consent, and that, even if he had assented, he was not liable for what was delivered to Bobe by Reis & Berger after he had notified them not to trust him.\nStowe and Mueller, with whom was P. 0\u25a0 Shannon, for plaintiff,\ncontended that the evidence presented a case of fraud on Albietz by Bobe, and that the note was not binding on the firm even in the hands of subsequent endorsee, unless he proved himself an endorsee for value: 5 Pick. 412; 3 Pick. 5; 4 Johns. 25; 4 Howard 404; 2 B. & Ald. 291; Brown v. Street, 6 W. & S. 222 ; Holm v. Karpser, 5 Binn. 469 ; Collyer on Part., \u00a7 541; Hutchinson v. Boggs & Kirk, 4 Casey 294; Gray v. Kentucky Bank, 5 Casey 367; Snyder v. Riley, 6 Barr 169; 8 Wendell 426; Phil. Rep. 50.\nR. Biddle Roberts, for defendant in error.;\n\u2014 Under the evidence in this case, even the payees of this note might have recovered against Albietz. Notwithstanding dissolution, Bobe was the liquidating partner, and continued the business for winding it up : Robinson v. Taylor, 4 Barr 242; Davis v. Desauque, 5 Wh. 530.\nThere was no fraud on the firm in Bobe\u2019s execution of the contract with Reis & Berger under seal: Gram v. Seaton, 1 Hall Rep. 262; Smith v. Kerr, 3 Conn. 144; Fagley v. Bellows, 5 Harris 67; Johns v. Balten, 6 Casey 84. A plaintiff is not required to prove himself the bond fide holder of negotiable paper, unless where he has notice previously that he will be required to show the consideration given for the note: Beltzhoover v. Blackstock, 3 Watts 20; Holmes v. Kaspar, 5 Binn. 476; Albright v. Strimpler, 7 Barr 475; Whitaker v. Edmonds, 1 Mood. & Rob. 366. Mere absence or failure of consideration between the original parties is inoperative to put the plaintiff on such proof: Knight v. Pugh, 4 W. & S. 445; Brown v. Street, 6 W. & S. 221; Bramah v. Roberts, 1 Bingh. N. C. 469; Jacob v. Hungate, 1 M. & R. 445.\nAs to the notice of dissolution, he cited Collyer on Part. \u00a7 530, 531, 532; Wilkinson v. Bank of Pennsylvania, 4 Wh. 432; Heberton v. Jefferson, 10 Barr 24; Brown v. Clarke, 2 Harris 476.\nJanuary 28th 1861,"
+  },
+  "file_name": "0367-01",
+  "first_page_order": 367,
+  "last_page_order": 370
+}

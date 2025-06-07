@@ -1,0 +1,143 @@
+{
+  "id": 410203,
+  "name": "Maurer versus Marshall",
+  "name_abbreviation": "Maurer v. Marshall",
+  "decision_date": "1851-06-28",
+  "docket_number": "",
+  "first_page": "377",
+  "last_page": "380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 Pa. 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 450",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Whar. 139",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829013
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0139-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 59",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822516
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0059-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates 338",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "400"
+        },
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dallas 48",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Bin. 374",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0374-01"
+      ]
+    },
+    {
+      "cite": "3 Bin. 139",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791096
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0139-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 437,
+    "char_count": 9710,
+    "ocr_confidence": 0.456,
+    "pagerank": {
+      "raw": 4.408767690195799e-08,
+      "percentile": 0.2763336781410808
+    },
+    "sha256": "892f2ef7258ae9e1940f476f674bb12b4456cbbfaf727d7f794aefa69e95141e",
+    "simhash": "1:2d200a9cc085ec6f",
+    "word_count": 1771
+  },
+  "last_updated": "2024-02-27T22:22:36.542684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maurer versus Marshall."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered June 28, by\nRogers, J.\nIt will hardly bear even the semblance of an argument, that the testator intended to give the plaintiff, Daniel Maurer, his son, merely an estate for life. The only doubt is whether the devisee under the will of Jacob Maurer takes a fee tail or a conditional fee. But whether it is one or the other, on the case stated the.plaintiff is entitled to judgment. The parts of the will which bear on the title are contained in the following items. The testator, after devising the use and income of the plantation in question to his wife Maria during her life, proceeds as follows : \u2014 \u201c Item, I give and bequeath to my youngest son, Daniel Maurer, the whole of the aforesaid plantation, &e., after the decease of my said wife Maria, and if my son Daniel should be a minor at the decease of my said wife, then my will is that my executor, &c. shall rent or lease the said plantation until my said son Daniel, shall arrive at the age of twenty-one years. Item, if my aforesaid son Daniel should die under the age of twenty-one years, and without lawful heirs, then my will is that my said plantation shall be sold by my executor, provided it be after the decease of my wife Maria, and the whole of the proceeds to be equally divided among certain children, naming them, and their lawful heirs, provided always, that if my said son Daniel begets lawful heirs, then, after his decease, the proceeds to be equally divided, share and share alike, to the heirs of my son Daniel.\u201d The plaintiff survived his mother, is married, and has heirs, one son, and moreover the estate-tail is barred. On this state of facts, the plaintiff has a marketable title which may be assigned to a purchaser, and consequently one which the vendee may be compelled to take. For, as was before remarked, it is of no consequence, for the purposes of this case, whether Daniel\u2019s title be a fee tail or a conditional fee. It may however be satisfactory to the parties to say, that on the authority of the cases cited, we are of opinion that the estate in Daniel is afee tail.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Mlbert, for plaintiff in error,",
+      "Banks and N. D. Strong, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Maurer versus Marshall.\nA testator devised as follows\u201c I give to my wife Maria tbe use and income of my plantation, the whole lying and being situate in Alsace township, for her support and maintenance during her life. Item, I give and bequeath to my youngest son Daniel Maurer, the whole of the aforesaid plantation ; also, my woodland, containing about fourteen acres, lying on Penn\u2019s Mount, after the decease of my said wife Maria; and if my son Daniel should be a minor at the decease of my said wife Maria, then my will is that my executor, hereinafter named, shall rent or lease the said plantation until my said son Daniel shall arrive at the age of twenty-one years. Item, if my aforesaid son Daniel should die, under the age of twenty-one years, and without lawful heirs, then my will is that my said plantation shall be sold by my executor, providing it be after the decease of my wife Maria, and the whole of the proceeds to be equally divided among the lawful heirs of my son George, the lawful heirs of my daughter Maria, and the lawful heirs of my daughter Sarah, provided, always, that if my son Daniel survives and begets lawful heirs, then after his decease, the proceeds of the said plantation to be equally divided, share and share alike, to the heirs of my son DanielA conveyance was made by Daniel to bar the entail, and he tendered a deed in fee simple to the purchaser of the estate with whom he had contracted to convey such an estate : Held, that Daniel had such an estate in the premises as the purchaser was compellable to take. The estate which he derived under the will was considered by this court to be an estate-tail.\nError, to the Common Pleas of BerJcs county.\nThis was an action by Daniel D. Maurer against Jacob Marshall, to recover an instalment of $3000, on an agreement for the sale of a tract of land which was to be conveyed in fee simple to Marshall. The question in dispute was whether Daniel D. Maurer had an estate for life in the land, or a fee-tail, or a conditional fee. The following facts were agreed upon by the parties to the suit, in a case stated.\nOn the 4th day of December 1819, Maria De Turk, the mother of the plaintiff, became seized and possessed of the said land, in her own right, in fee simple absolute, for the consideration bf $12,000, by deed of that date from John Rothermel and Deborah his wife to the said Maria, which deed is duly recorded in the proper office, at Reading, in said county, in book A, vol. 36, p. 324.\nSometime in 1820, the said Maria De Turk, mother of the said plaintiff, intermarried with Jacob Maurer, the father of the said plaintiff.\nSubsequent to said marriage, to wit, on the 12th day of December 1820, the said Jacob Maurer and Maria his wife, for the consideration of \u00bf64000, therein expressed, conveyed the said land to Daniel Guldin in fee simple, which said Daniel Guldin and Margaret his wife, on the 16th of the same month, for the same consideration of \u00bf64000, conveyed the said described land, in like form, to the said Jacob Maurer. The said Jacob Maurer continued seized and possessed .of the said land until in the year 1839, when he died, leaving the said Maria his widow, since deceased, and the plaintiff, who was the only child of the said marriage \u2014 and also leaving children of a former marriage, to wit, George Maurer, Susan intermarried with Daniel Weidner, Maria intermarried with Jacob Long, and Sarah intermarried with John Weidner. The plaintiff is above the age of twenty-one years, married, and has an heir, a son.\nJacob Maurer left a will, which contained, inter alia, provisions as follows: \u2014 Item, I give to my wife Maria the use and income of my plantation, occupying the whole lying and being situate in Alsace township, for her support and maintenance during her life. Item, I give and bequeath to my youngest son Daniel Maurer, the whole of the aforesaid plantation; also my woodland, containing about fourteen acres, lying on Penn\u2019s Mount, after the decease of my said wife Maria, and if my son Daniel should be a minor at the decease of my said wife Maria, then mywill is that my executor, hereinafter named, shall rent or lease the said plantation until my said son Daniel shall arrive at the age of twenty-one years. Item, if my aforesaid son Daniel should die, under the age of twenty-one years, and without lawful heirs, then my will is that my said plantation shall be sold by my executor, providing it be after the decease of my wife Maria, and the whole of the proceeds to be equally divided among the lawful heirs of my son George, the lawful heirs of my daughter Maria and the lawful heirs of my daughter Sarah, provided, always, that.if my son Daniel survives and begets lawful heirs, then, after his decease, the proceeds of the said plantation to be equally divided, share and share alike, to the heirs of my son Daniel.\nOn the 1st day of April A. D. 1851, according to the terms of the agreement, (a copy of which was exhibited,) the said plaintiff tendered to the said Jacob Marshall a deed in fee simple for the said land, according to all the requisitions of the act of Assembly, passed the 16th of January A. D. 1799, entitled an act to facilitate the barring of entails. This deed the defendant refused to accept, and to pay the said sum of $3000, alleging that the'said plaintiff had only a life-estate in the said land, and had no power to convey an estate in fee simple as specified in the said agreement.\nIt was agreed, that if upon the facts stated the said Daniel D. Maurer had an estate in the said tract or tracts of land,- which might he barred under the said act of Assembly, so as to enable the said plaintiff- to convey an estate in fee simple, then judgment shall be entered for the plaintiff for the sum of $3000, the amount of the said first instalment, with interest from the 1st of April 1851. But if otherwise, then judgment shall be entered for defendant,, with costs of suit.\nMay 26,1851, the court entered judgment in favor of the plaintiff, Daniel D. Maurer, on the case stated.\nIt was assigned for error:\nThat the court erred in entering judgment in favor of the plaintiff below.\nMlbert, for plaintiff in error,\ncontended that Daniel D. Maurer took, an estate for life only in the land : 10 Ser. & R. 296, Abbot v. Jenkins; 3 Bin. 139.\nBanks and N. D. Strong, for defendant.\nIt was contended that the devise in this case gives to Daniel Maurer an estate for life in the first instance; and by force of the devise to the heirs of his body, he is made the stock from which alone .they can inherit, and the source alone from which their inheritable blood can spring, and he has an estate-tail: 1 Harris 344, Hileman v. Bouslaugh. It is to the lawful heirs begotten by his son. This is clearly an estate-tail \u2014 not only substantially so, but technically so. He is tenant-tail general. Tenant in tail general is \u201c where lands or tenements are given to a man, and to the heirs of his body begotten Coke's Institutes, book 1, chap. 3, sec. 14; 2 Blackstone Com. top page 80, margin 114; also cited 3 Bin. 374-81; 1 Dallas 48; 1 Yeates 338; 2 id. 400; 3 Ser. & R. 470; 10 id. 429; 3 Rawle 59; 1 Whar. 139; 9 Watts 450; 7 W. & Ser. 98; 5 Barr 463; Jarman on Wills 488; 8 Ser. & R. 268, Cook v. Cassel.\nA conveyance of real estate to a married woman during her natural life, and after her decease to the heirs of her body, and to them and their heirs and assigns for ever, .creates an estate-tail: Hileman v Bouslaugh, 1 Harris 344.\nA devise to one for life, with remainder to the heirs of his body, gives him an estate-tail: id."
+  },
+  "file_name": "0377-01",
+  "first_page_order": 377,
+  "last_page_order": 380
+}

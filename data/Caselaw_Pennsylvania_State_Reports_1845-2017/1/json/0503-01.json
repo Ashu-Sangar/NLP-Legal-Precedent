@@ -1,0 +1,97 @@
+{
+  "id": 949927,
+  "name": "Loughry v. McCullough",
+  "name_abbreviation": "Loughry v. McCullough",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "503",
+  "last_page": "504",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 503"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Serg. & Rawle, 282",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts & Serg. 314",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853531
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0314-01"
+      ]
+    },
+    {
+      "cite": "3 Serg. & Rawle, 278",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1800151
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/3/0278-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 223,
+    "char_count": 2617,
+    "ocr_confidence": 0.592,
+    "pagerank": {
+      "raw": 1.0447290183395933e-07,
+      "percentile": 0.5517618980874947
+    },
+    "sha256": "8e7989a71907fb17d3c6283c00d3e957500c76b067b4fbd045e14e9f25352bcb",
+    "simhash": "1:a6fccc341daf5870",
+    "word_count": 455
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Loughry v. McCullough."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nIt is said in Bret and Sheppard's case, 1 Leon. 90, that comperuit ad diem pleaded to an action on a bail bond, must conclude with a verification by the record; and in Austin v. Fenton, 1 Taunt. 23, it is said that it is to be tried by the record of appearance. Is the discharge of an insolvent debtor from execution, less a matter of record ? The testimony in this case was not offered to prove the contents- of a destroyed record, for the party rested his argument for its admission on the ground that the discharge had not been recorded, and he gave evidence of-the fact. He was allowed to supply the place of record proof with parol .evidence ; and though it was not pretended that this could be done in any other country than Pennsylvania, it was suggested that suitors would suffer for clerical misprisions if prothonotaries were held to performance of their functions here, as officers of the class are held elsewhere. But surely legal distinctions are not to be confounded, and the records of our courts suffered to become barbarous, to rescue them from liability for the consequences of ignorance or negligence; nor ought the public good to be sacrificed to their convenience. Let the injured suitor pursue them and their sureties, and his loss will be compensated with damages : if he will not, let him bear it himself. The records of our courts are the muniments of all we possess ; and no particular grievance can bear comparison with the abuses that would creep in were they adulterated with any thing so uncertain and unsafe as parol evidence. An insolvent debtor\u2019s discharge is not matter in pais; and the judge erred not only in admitting the evidence, but in charging as to the effect of it.\nJudgment reversed; and venire de novo awarded.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Drum, for plaintiff in error,",
+      "Howe, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Loughry v. McCullough.\nThe discharge of an insolvent can only be proved by the record, or by parol to supply a loss; but unless the existence of the record be first shown, other evidence is inadmis sible.\nError to the Common Pleas of Jefferson county.\nThis was an action on an insolvent bond, and after proving it, the plaintiff proved by the prothonotary of the court that he had examined for the discharge, but could not find it. \\ At the time the petition was filed, the proceedings against insolvents were not entered in a book: the papers only were filed. The proceedings were generally endorsed on the petition. The defendants offered to prove, and, under objection, showed by parol testimony that the insolvent was discharged.\nDrum, for plaintiff in error,\ncited 3 Serg. & Rawle, 278; 2 Watts & Serg. 314; 7 Serg. & Rawle, 282.\nHowe, contra."
+  },
+  "file_name": "0503-01",
+  "first_page_order": 505,
+  "last_page_order": 506
+}

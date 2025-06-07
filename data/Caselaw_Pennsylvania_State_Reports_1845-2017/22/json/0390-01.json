@@ -1,0 +1,86 @@
+{
+  "id": 413704,
+  "name": "Commonwealth versus Sankey",
+  "name_abbreviation": "Commonwealth v. Sankey",
+  "decision_date": "1853",
+  "docket_number": "",
+  "first_page": "390",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Pa. 390"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Mass. 53",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Mass. 45",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003850
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/4/0046-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 757,
+    "char_count": 14595,
+    "ocr_confidence": 0.435,
+    "pagerank": {
+      "raw": 6.232978814160395e-07,
+      "percentile": 0.9573720321146136
+    },
+    "sha256": "de57f46ce3cc44d6ce2a82b2bd54d25b2bc44ba2c75d1dabe2d84d6985aea547",
+    "simhash": "1:16a6ede1e83ec5ea",
+    "word_count": 2673
+  },
+  "last_updated": "2024-02-27T20:47:09.354529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth versus Sankey."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, C. J.\nThe defendant wrote a note payable to himself, for $141, and got an illiterate man to sign it, by falsely and fraudulently pretending that it was for $41 only. On a special verdict finding these facts, the Court gave judgment in favor of the accused.\nThe act was a forgery according to all the text writers on criminal law, from Coke to Wharton. But their doctrine is not sustained by the ancient English cases, and is opposed by the modern ones. Only three American decisions were cited on the argument; and we take it for granted that there are no 'others on the point. Two of these (4 Mass. 45, 1 Yerger 76), are wholly with the defendant, and the other (6 Shepley 371) supports the argument of the Commonwealth\u2019s counsel. The weight of the judicial authorities is in favor of the opinion that this is no forgery. We think that the arguments drawn from principle, and the reason of the thing, preponderate on the same side. It must he admitted that, in morals, such an imposture as this stands no better than the making of a false paper. But even a knave must not be punished for one offence because he has been guilty of another. Forgery is the fraudulent making or altering of a writing to the prejudice of another\u2019s right. The defendant was guilty of the fraud, but not of the making. The paper was made by the other person himself, in prejudice of his own right. To complete the offence, according to the definition it requires a fraudulent intent and a making both. The latter is innocent without the former, and the former, if carried into effect without the latter, is merely a cheat. If every trick, or false pretence, or fraudulent act by which a person is induced to put his name to a paper which he would not otherwise have signed, is to be called a forgery, where shall we stop, and what shall be the rule ? Is it forgery to take a note for a debt known not to be due ? Or to procure a deed for valuable land by fraudulently representing to the ignorant owner that it is worthless ? or to get a legacy inserted in a will by imposing on a weak man in his illness ? All these would be frauds\u2014frauds perpetrated for the purpose of getting papers signed\u2014as much as that which was committed in this case. But no one thinks they are forgeries.\nFor these reasons, and the reasons given in the Court below, which we fully adopt, the judgment is to be affirmed.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Cunningham and McGruffin were on part of the Commonwealth.",
+      "Taylor was for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth versus Sankey.\nA person wrote a promissory note for $141.26, and fraudulently read it to another, who was unable to read, as a note for $41.26, and procured him to sign it as the maker. Held, that this was not a forgery.\nError to the Quarter Sessions of Lawrence county.\nIndictment against E. R. Sankey. The bill of indictment contained three counts: one for forgery and causing to be forged and counterfeited a promissory note; the second for forging and altering a note; and the third for uttering and publishing a false and altered note. The defendant was convicted generally; but the Court, entertaining doubts as to whether the case amounted to forgery, granted a new trial; and on 16th April, 1852, a special verdict was rendered. It was to the following effect, viz.: That, on the 12th October, 1850, Daniel Jones was indebted to the defendant, E. R. Sankey, in the sum of $41.26, a balance found due on settlement; and being so indebted, he authorized the defendant to write a paper, to be signed by Jones as a promissory note, for $41.26, payable to the defendant, six months after date. That the defendant, falsely and fraudulently, wrote the paper described in the indictment, except the signature thereof, and presented it to Jones for his signature, it being for the sum of $141.26, and that the defendant read the same to Jones as being for the payment of $41.26; that Jones was an illiterate person, unable to read the paper, and being ignorant of its contents, and relying upon the assertion of the defendant as to its character, he signed his name to it and delivered it to the defendant, who accepted it as being for the payment of $41.26. Also that the defendant, afterwards, viz.: on the 8th February, 1851, uttered, published, assigned, and delivered the said note to J. Sankey, as a valid note for the payment of $141.26, with intent to defraud the said Jones. Whether the facts amounted to forgery, was submitted to the judgment of the Court.\nAgnew, President Judge, delivered the opinion, as follows:\n\u201c From a recollection of the text writers, especially the case of the unauthorized insertion of a legacy in a will, we thought the defendant was guilty of forgery. A further examination made the matter doubtful, and upon a full investigation of the authorities, we feel the case one of too much uncertainty to justify us in passing sentence, preferring to leave the point to the decision of a higher tribunal, whither we hope it may go, to settle at once a vexed and an important question. The t\u00e9xt books bear out our recollection of the will ease, as stated to the jury on the first trial, commencing with 3 Inst. 170, and passing down through 2 East\u2019s P. C. 855; 1 Hawk. P. C. cap, 20, sects. 2 and 6; Bacon\u2019s Abridgment, title Forgery, A; 2 Russel\u2019s C. L. 318, 322, and others of\u2019 modern date. But a reference to the authorities quoted by these elementary writers, results in all being founded upon the case in Noy 101, reported also in Moore 769, and that of Sir John Marvin\u2019s will, in Dyer 288. The former decides that an omission of a thing to be put in a will is not a forgery; though if the omission changes an estate devised so as to increase it, as an omission of an estate for life, by which a remainder is made to vest immediately, it is. The case, however, is a Star Chamber case, and of little authority, and is impugned by the case in Dyer 288, where it is held, if one who writes a will of a man lying mortally sick, insert a clause in it after the testator is speechless and without memory, and he did not command the writer beforehand to put in that article or clause, it is not forgery under the 5th Eliz. chap. 14, (the general statute on the subject of forgery.) But, singular as it may seem, the case of Sir John Marvin\u2019s will, in Byer, has been quoted by all the text writers, as authority that this unauthorized insertion of a clause in a will is a forgery; the error commencing with Sir Edward Coke, in 3 Inst. 170.\nThere is, therefore, no weight of authority in the antiquity or the number of the English text writers on this subject, when their source of information is searched out. In Rex v. Hart, 1 Moody 486, (2 English Crown Cases 486,) it was unanimously decided by the English judges, that to fill up a blank acceptance for \u00bf6500, when the party was authorized to fill it up only for \u00bf6200, is forgery. But there the acceptor had already given his signature, besides marking the amount \u00bf6200, in pencil marks on the margin of the bill, and intrusted to the defendant. Having put the paper out of his possession, it was now in,the hands, of another, who clearly made a false instrument, when inserting \u00a36500 over the acceptor\u2019s name. But in the present c\u00e1se the signer of the instrument had not put the paper into circulation, and by ordinary caution had the power to prevent imposition; and the act consists not in the making of a false instrument, or alteration of one that is genuine, but in the false suggestion by which the signer is induced to subscribe his own name. \u2022 If, however, there were weight in this ease, it seems to be counterpoised, or, it may be, overruled in the case of Regina v. Collins, and Regina v. Chadwick, 2 Moody & Robinson 461 and 546, as cited in Arehbold\u2019s C. L., last edition, 429, where it is said not to be forgery, fraudulently to induce a person to execute an instrument on a misrepresentation of its contents, or to procure his signature to a document, the contents of which have been altered without his knowledge. We have not been able to get the works containing these cases, which are very recent, but if the abstract of them in Archbold be not unfounded, they are full to the point. Besides, Rex v. Hart is directly contrary to Putnam v. Sullivan, 4 Mass. 53, where it \"was held not to be forgery where blanks were left with a clerk, for specific purposes, and another by, false pretences (viz. by asserting that one blank got by him for a proper purpose had been spoiled in filling it up, whereby he got a second) obtained one of these blanks and wrote upon it a note for a different purpose. And it was there said it would not have been forgery in the clerk even had he used them for his own purposes.\nThe case chiefly relied upon by the Commonwealth, is the State v. Shirtliff, 6 Shepley 371, 18 Maine Rep., where the defendant having written a deed which the grantor agreed to and appointed the time to execute, in the meantime wrote another for a larger quantity of land and procured the grantor to sign it, under the belief that he was executing the one he had assented to, and it was held to be forgery. C. J. Weston cites 2 Russel 317, which in turn refers to 2 East 855; Noy 101, Moore 759; 3 Inst. 170; 1 Hawk. cap. 21; Bacon, tit. Eorgery, A, before alluded to. The opinion puts it on the ground, that the signature to a false instrument, in a moral and legal point of view, is as much imputable to the defendant, as if he had done it with his own hands, and that it does not lessen the tyrpitude that the injured party was made the involuntary agent of effecting his purpose. If every false pretence or fraud,were a forgery, the argument would be conclusive; but forgery is only one species of fraud; and that it is one of the highest penalty is the strongest reason why the citizen should not suffer its punishment unless guilty of the specific offence.\nBesides, that case differs from this one in this feature: There the defendant substituted another, an entirely false made writing in lieu of the one agreed to. Here there was but one writing, and its signature merely induced by falsehood. The case of Shirtliff rests on authority shown to amount to but little, and reasoning which is inconclusive; while it, at the same time, differs from the one before us in .the important fact stated.\n\u201c The authority of that case is met by that of Jonathan Hill v. the State of Tennessee, which is an exact parallel of the present, and runs on all fours with it. There the special verdict sets forth that the defrauded was merely illiterate; \u00bfhe defendant wrote the note in question for $100, when it should have been for $65; and falsely and fraudulently read it to the former as a note for'$65, who thereupon signed it. This is decided not to be forgery, and a much more elaborate opinion given than that in Shirtliff\u2019s case. The case of Woodward is therein also referred to: Leech C. L. 783, where a soldier was induced to sign his own name to a fabricated country bank-note; though done knowingly and for the purpose of fraud, it was held no forgery; the Court saying the prisoner must be acquitted of necessity, for that being signed by his own name, it could not be a false instrument, and therefore was not a forgery. Peck, Justice, in delivering the opinion, says: \u201c But it cannot be pretended that any false word .uttered to induce .real signing of an instrument can make forgery under our statute, because (as) the party himself signed this deedprimd facie, it is his hand; and to avoid it, proving the facts found, he must, under the law, plead a special non est factum, to wit: confess he did seal the instrument but that he was induced to do it by false reading, and therefore not his deed. The facts make out nothing more than a cheat, for which the party might be indicted.\u201d In conclusion, , amid this confusion of opinion and contrariety of decision, we think it unsafe to pass a sentence, which, however readily it may be removed by a pardon, must inflict a disgrace \u2019 that cannot be wiped out; and, indeed, we may add, that the weight ,of authority and of argument, on examination, appears to fall rather upon, the side of the defendant.\n\u201cWe therefore adjudge, that the facts set forth in the special verdict do not amount to forgery and are insufficient to support the indictment, and therefore discharge the defendant without day.\u201d\nIt was assigned for error, that the Court erred in deciding that the facts found did not amount to forgery.\nThe case was submitted. ,\nCunningham and McGruffin were on part of the Commonwealth.\nIn the printed argument, as to what constituted forgery, was cited 2 East, P. C. 855; Wharton C. L. 304. It was stated to have been decided to be forgery for a man, ordered to draw a will for a sick person, to insert legacies in it without authority: Id. and 2 Russ. C. L. 318. So, if, by omission of a bequest in writing a will, a material alteration is caused in the limitation over of a bequest: 1 Hawk P. C. c. 70-75-6; Russ. C. L. 322. The Court below said that this last doctrine rested upon a Star Chamber case, and was impugned by the case of Marvin\u2019s Will, in Dyer 288. But it was said that in 1 Hale, P. C. 684, is the following: \u201cThe inserting of a clause in a will, purporting a devise of lands without warrant or direction of the devisor, is the forging of a will within the statute (5 Eliz. cap. 14), though the whole \"will be not forged, and although done in the testator\u2019s life by the clerk that writes the will: Co. P. C. ch. 75.\u201d Note.\u2014\u201c This was when the testator was speechless; but if he had his understanding and assented to it, or published it afterwards, it is no forgery, though at first written without his dictation.\u201d It was therefore intimated that the report in regard to Marvin\u2019s Will, in Dyer, was perhaps incorrect. That the offence charged in this case was a forgery, further eases were cited, viz.: It is forgery if a parson find another\u2019s name at the bottom of a letter at a considerable distance from the other writing, and causes the letter to be cut off and a general release to be written above the name, and then take off the seal and fix it under the release: 2 Russ. C. L. 318; 3 Inst. 171. Also cited Wharton C. L. 304, citing 5 Esp. 100. So, if a person having a blank acceptance of another, authorized to write on it a bill of exchange for a limited amount, write a bill of exchange for a larger amount, with intent to defraud the acceptor or a third person, it is forgery: Rex v. Hart, 7 Car. & P. 652; 1 Mood. Cr. Cas. 486. Reference was also made to the case of The State v. Shirtliff, 6 Shepley 368. (This case is cited by Agnew, J.)\nTaylor was for defendant."
+  },
+  "file_name": "0390-01",
+  "first_page_order": 392,
+  "last_page_order": 397
+}

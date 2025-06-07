@@ -1,0 +1,254 @@
+{
+  "id": 992227,
+  "name": "Hughes et al. versus Stevens",
+  "name_abbreviation": "Hughes v. Stevens",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "320",
+  "last_page": "324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 320"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 60",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478714
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0060-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 172",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850021
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0172-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 213",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4689
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/17/0213-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 195",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 86",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Johns. 342",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134525
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0342-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 140",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 115",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 111",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850040
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0111-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 181",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856509
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0181-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 73",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Yeates 218",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 60",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478714
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0060-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 172",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850021
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/9/0172-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 213",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4689
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/17/0213-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 195",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Watts 86",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Johns. 342",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134525
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/8/0342-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 699,
+    "char_count": 13406,
+    "ocr_confidence": 0.464,
+    "pagerank": {
+      "raw": 5.239206312791531e-07,
+      "percentile": 0.9411533259274961
+    },
+    "sha256": "2af79044059736057269a5e1647d0829c3716807437579fc8f65628f4613c03b",
+    "simhash": "1:a6a3943188fddac1",
+    "word_count": 2395
+  },
+  "last_updated": "2024-02-27T22:20:12.272922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hughes et al. versus Stevens."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\n1. There is but little foundation for the assignment of error on the exception to the ruling of the court, in regard to the question proposed to be asked; for it does not appear to have been answered by the witness. He did not say what the timber would have been worth to the owner of the furnace, and this was what it was the 'object of the defendants to prevent. The question did no harm, as it was not answered in the objectionable form it was expected. If the same question was propounded to, and answered by others without objection, it would not make valid the exception in regard to the witness to whose testimony the objection was made. But we are not convinced that there would have been error in the particular alleged, if the question had been answered. It was one test of value, in corroboration of other general evidence, on the subject of damages. Such testimony was held admissible in the case of Reybold v. Voorhees 6 Casey 116. The case is without error in this particular.\n2. The evidence makes it quite apparent, that the second assignment is equally without merit. The plaintiff below was the owner of the legal title; and this in law' drew to him the possession, so as to enable him to maintain trespass against an intruder. It does not need the citation of authority to prove this. The testimony of the defendants below showed no such possession as could possibly be construed into an ouster of the plaintiff, so as to bar his right to redress by an action of trespass. It was1 simply, neither more nor less, than proof of successive occasional trespasses, up to the time of the trespass for which suit was brought. Some temporary shanties had been erected on the land ; but by whom directed, or by whom occupied, or how long, does not appear. The dwelling-house, as it was called, was never occupied after 1835. The occasional payment of taxes, or constant payment of them without an actual adverse occupancy of the land, would amount to nothing as evidence of ouster. The kind of possession here, if it is proper to call it such, in no sense interfered with the possession incidental to the ownership of the legal title: Hawk vSenseman, 6 S. & R. 21; Adams v. Robinson, 6 Barr 271; Miller v. Shaw, 7 S. & R. 134; Barr v. Gratz, 4 Wheat. 213; Wright v. Guier, 9 Watts 172; Sorber v. Willing, 5 W. & S. 60. As the testimony was therefore manifestly insufficient to call into action the principle contended for, it was not error to instruct the jury, as did the learned judge, in the matter complained of in the exception. No admission of ouster, or want of possession at the time the present suit was brought, could be legally deduced from the fact that the plaintiff below had in 1843'brought an action of ejectment for-a portion or perhaps the whole of the land, and shortly thereafter discontinued it. It might have been an admission to that effect, while it was pending; but its discontinuance did certainly not serve to perpetuate the presumption from that fact, so as to amount to an admission of the same kind in 1854, when this suit was brought. At that time, there was nothing to countervail the right of the plaintiff, to the immediate actual possession of the land, as an incident to his legal title, and this left him free to pursue the remedy adopted: Lewis v. Carsaw, 3 Harris 34; Dietrich v. Berk, 12 Harris 471. There is no error in this \u25a0branch of the case.\n3. The third error is to the action of the court in trebling the damages found by the jury. The counts in the narr. are in accordance with the common law actions and there is in them no reference whatever to the statute under which the recovery of treble damages is claimed. This is undoubtedly an omission which precluded the plaintiff.\u2019s right to treble the damages: Morrison v. Gross, 1 Bro. 9, where the subject is fully discussed; and so ruled by Rush, president, 6 S. & R. 286; Campbell v. Finney, 3 Watts 86; Tammany v. Whittaker, 4 Id. 221; Houston v. Sims, 2 Jones 195; Welsh v. Anthony, 4 Harris 254; O\u2019Reilly v. Shadle, 9 Casey 489. The same thing is held by the courts of the state of New York upon a similar statute: Newcomb v. Butterfield, 8 Johns. 342; 5 Id. 175. So, in England, 8 Went. Pl. 429; 2 Chit. Pl. 495. The statutory action is cumulative to the common law remedy, or perhaps rather an optional or alternative remedy; for a resort to either, would be a. bar to the other. But if the statutory action be intended, the defendant should be apprised of it in the usual way, namely in the narr., so that he may shape his defence accordingly. We have held it to be sufficient that the narr. conclude with an averment that the trespass Was against the Act of Assembly, &c. Under such a count, either the jury or court might double or treble the damages, as the facts of the case might demand. But neither could, unless that appeared.\nAgain, to authorize the court to duplicate or triplicate damages, it must appear by the verdict, when the narr. sufficiently refers itself to the statutory remedy, that the jury did not do so themselves. The verdict must, therefore, expressly be for single damages only, or the presumption will be, that the jury have duplicated or triplicated them: Campbell v. Finney, supra; 8 Johns. 342. All these requisites appeared in O\u2019Reilly v. Shadle, and the judgment of the court below was affirmed. Here the narr. was at common law, and neither the court nor jury could increase the damages according to the statutory provision. But even if this defect had not existed, as already said, the verdict was general and the presumption would be as stated, that the jury had given treble the damages.\nJudgment of the Common Pleas reversed, and judgment for the plaintiff on the verdict.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "Reilly Sharp, for the plaintiffs in error.",
+      "MeLelland MeGlure, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hughes et al. versus Stevens.\nIn an action of trespass, by the owner of a furnace property, for cutting timber on his lands, it seems, a witness may be asked, \u201c how much was the wood worth to the owner of the furnace ?\u201d for, it is one test of value.\nOccasional entries and the commission of acts of trespass upon the land of another, do not constitute such a possession as will interfere with that which is incident to the ownership of the legal title. The owner may maintain trespass guare clausum fregit against su'ch a party.\nA plaintiff cannot recover treble damages for entering on his land and cutting timber, unless his declaration show that the action was brought under the statute.\nIt is sufficient for that purpose, to conclude with an averment that the trespass was against the Act of Assembly. Under such a count, either the jury or the court might double or treble the damages, according to the circumstances of the case.\nTo authorize the court to treble the damages, it must expressly appear that the verdict was for single damages only; for, otherwise, the presumption is, that the jury have trebled them.\nError to the Common Pleas of Franklin county.\nThis was an action of trespass quare clausum fregit, brought by Thaddeus Stevens against John Holker Hughes and Napoleon Hughes, to recover damages for cutting timber upon the plaintiff\u2019s land in Guilford and Green townships.\nThe declaration, which was for a common law trespass, described the close by metes and bounds. To this' the defendants pleaded the general issue, two special pleas denying the title and possession of the plaintiff, and liberum tenementum. To this last plea, the plaintiff replied, by way of estoppel, a former recovery in another action of trespass, brought by Samuel Hughes, under whom the defendants claimed, for a breach of the same -close, in which a case had been stated, and judgment given for the plaintiff on the title: Stevens v. Hughes, 3 W. \u00a7 S. 465. This judgment was held to operate as an estoppel, and to conclude the defendants \u25a0from again contesting the title, in Stevens v. Hughes, 7 Oasey 381. This left but two questions for the determination of the jury, namely, whether the plaintiff had possession of the locus in quo, at the date of the alleged trespass; and the amount of his damages.\nOn the trial, the plaintiff gave his title in evidence; and there was proof of the repeated use by the defendants, and those under whom they claimed, from 1811 to 1858, of the tract in question, by cutting and coaling the timber thereon; they also paid the taxes; and at one time there was erected on it a tenant house and some collier\u2019s cabins, but they had been long abandoned.\nThe plaintiff proposed to ask a witness the following question: \u201c How much, was the timber in dispute worth to the owners of the furnace?\u201d The defendants objected to this offer; but the court admitted the question to be put, and the defendants excepted. It did not appear that the witness answered the question, other than by saying: \u201c If the wood had belonged to me, I would not have taken fifty cents a cord for it.\u201d But evidence of the value of the timber to the owners of the furnace was given by other witnesses, without objection.\nThe court below (Kimmell, P. J.) instructed the jury, that the plaintiff had the legal title to the land; that the defendants, and those under whom they claimed, had not had such possession as would defeat a recovery'; and that the true measure of damages Avas the actual value of the wood cut and carried away by the defendants. To this instruction the defendants excepted.\nThere was a verdict for the plaintiff for $500 damages; and afterwards, on application of the plaintiff, the court trebled the damages found by the jury, and entered judgment against the defendants for $1500 and costs.\nThe defendants, thereupon, sued out this writ, and here assigned for error : 1. The admission of the evidence mentioned in his bill of exceptions. 2. The charge of the court below to the jury. 3. The entry of judgment for treble damages.\nReilly Sharp, for the plaintiffs in error.\nThe court erred in admitting evidence of the value of the Avood to the owner of the furnace. There Avas no pretence that the trespasses had been accompanied by any peculiar hardship, outrage, or violence. The timber Avas cut and coaled by the defendants, under the firm and apparently well-grounded belief, that it was their own. Under such circumstances, the true measure of damages was its value in an open and fair market: Rogers v. Fales, 5 Barr 157; Sedgwick on Damages 474; Bank of Montgomery County v. Reese, 2 Casey 146; Eby v. Schumacher, 5 Id. 40; Staines v. Shore, 4 Harris 203.\nThe court erred in instructing the jury that the plaintiff had such possession of the locus in quo as Ayould enable him to maintain trespass. The question of possession Avas a vital one; and there were facts in evidence going to shoAV actual possession in the defendants, Avhich ought to have been submitted to the jury, under proper instructions: Addleman v. Way, 4 Yeates 218; Ward v. Taylor, 1 Barr 238; Greber v. Kleckner, 2 Id. 291; Lewis v. Carsaw, 3 Harris 34; Deitrich v. Berk, 12 Id. 470; Boyer v. Benlow, 10 S. & R. 303; Read v. Goodyear, 17 Id. 350; McCall v. Neely, 3 Watts 73; Heiser v. Riehle, 7 Id. 37; Thompson v. Milford, Id. 446, 580; Gregg v. Blaekmore, 10 Id. 192; McCaffrey v. Fisher, 4 W. & S. 181; Foust v. Ross, 1 Id. 505; Kelsey v. Murray, 9 Watts 111; Williams v. Hillegas, 5 Barr 492; Farmers\u2019 and Mechanics\u2019 Bank v. Woods, 1 Jones 115; Clarke v. Dougan, 2 Id. 92; Bigler v. Karns, 4 W. & S. 140; Sailor v. Hertzogg, 10 Barr 316; Beaupland v. McKeen, 4 Casey 134; Alden v. Grove, 6 Harris 388; Ament\u2019s Executor v. Wolf, 9 Casey 331.\nThe court erred in directing judgment to be entered for treble the amount of the verdict. The Act of 29th March 1824, furnishes two remedies to the party aggrieved \u2014 trespass and trover; hut to entitle him to treble damages he must sue under the statute. The plaintiff\u2019s action here was at common law; his declaration does not complain of the statutory offence, neither does it claim treble damages. To entitle him to these; it was necessary, at least, to have averred that the act complained of was contrary to the form of the statute in such case made and provided: Rees v. Emerick, 6 S. & R. 286; Reynolds v. Smith, 2 Bro. 257; Newcombe v. Butterfield, 8 Johns. 342; Livingston v. Platner, 1 Cowen 175; Campbell v. Finney, 3 Watts 86; Tammany v. Whittaker, 4 Id. 221; Houston v. Sims, 2 Jones 195; Welsh v. Anthony, 4 Harris 254; O\u2019Reilly v. Shadle, 9 Casey 489.\nMeLelland MeGlure, for the defendant in error.\nWhether the question complained of in the first assignment- of error was proper or not, is not material, since the court instructed the jury that the true standard of damages was the actual value of the wood.\nThe plaintiff had the legal title, and there can be no doubt, under the evidence, but that- the defendants, who' were wrongdoers, had not such possession as would defeat a recovery in trespass : Mather v. Trinity Church, 3 S. & R. 513; Miller v. Shaw, 7 Id. 134; Barr v. Gratz, 4 Wheat. 213; Hole v. Rittenhouse, 1 Casey 492; Wright v. Guier, 9 Watts 172; Sorber v. Willing, 10 Id. 141; Urket v. Coryell, 5 W. & S. 60; Ward v. Taylor, 1 Barr 238; Lewis v. Carsaw, 3 Harris 34; Hawk v. Senseman, 6 S. & R. 21; Adams v. Robinson, 6 Barr 271.\nThe court did not err in giving judgment for treble damages; the plaintiff was entitled to them under the Act of 29th March 1824, which authorizes him to sue either in trespass or trover: Welsh v. Anthony, 4 Harris 255."
+  },
+  "file_name": "0320-01",
+  "first_page_order": 320,
+  "last_page_order": 324
+}

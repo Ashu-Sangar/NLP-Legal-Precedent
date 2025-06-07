@@ -1,0 +1,73 @@
+{
+  "id": 960622,
+  "name": "McKelvy v. Wilson",
+  "name_abbreviation": "McKelvy v. Wilson",
+  "decision_date": "1848-09-25",
+  "docket_number": "",
+  "first_page": "183",
+  "last_page": "184",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Binn. 509",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 263,
+    "char_count": 3829,
+    "ocr_confidence": 0.406,
+    "pagerank": {
+      "raw": 9.118266397997446e-08,
+      "percentile": 0.5070031109921853
+    },
+    "sha256": "dc16d5b357129f099bb64d691ffb0687c058f5fa0872d4ce281073fa54408712",
+    "simhash": "1:94794726a9c3091a",
+    "word_count": 663
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McKelvy v. Wilson."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe law is, that it is a good consideration to support an action of assumpsit, where the forbearance is a benefit to the defendant, or a loss to the plaintiff: Hamaker v. Eberley, 2 Binn. 509. Mrs. Wilson had sold her coal-bed, containing four acres and one-fourth, by articles of agreement of the 1st of April, 1845, to Robert Nixon, who covenanted to pay her $300, in small, but monthly and half-monthly payments of $50 each. Nixon being in possession, and digging coal, made default in his payments, when Mrs. Wilson instituted her ejectment to enforce payment, and issued a writ of estrepement to stay the coal-digging. Then MeKelvy, the plaintiff in error, applied to her to stay her proceedings, and withdraw her suit against Nixon, and he promised and engaged to pay her what was then due. The amount was ascertained, and MeKelvy paid $50 on account, and promised to give his note for the residue; which promise he afterwards refused to perform, or to make further payments. It does not appear that anything was done on the estrepement, and the ejectment was discontinued before this action was brought. We see no error in the answers of the court to the plaintiff\u2019s three first points; on these points the cause was fairly put to the jury.\nThe fourth assignment of error is too general for this court to notice, after a trial on the merits. It does not point out the defective count, nor does it appear to have been noticed on the trial. The assignment is, \u201c that the judgment of the court is erroneous; general damages having been given by the jury upon the whole declaration, containing several counts, some of which are wholly defective.\u201d It is not said what count is defective, or why it is so. Such an assignment is nothing more than the general errors; which are never noticed in a court of error\u2019.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "S. W. Williams, for plaintiff in error.",
+      "Woods, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "McKelvy v. Wilson.\nA promise by a stranger to pay a debt, in consideration of a discontinuance of an ejectment and writ of estrepement by a vendor of mines to enforce payment of tlie purchase-money, is founded on a sufficient consideration: and if the proceedings are suspended in fact for a time, and discontinued before action brought on the promise, the action will lie.\nAnd where such promise is made in consideration that the promisor shall succeed to the right of the lessee, a subsequent agreement by the vendor with a stranger \u2022 for the use of the mines is immaterial, for he cannot affect the rights acquired by the promisor.\nAn assignment of errors that the judgment is entered on all the counts, some of which are bad, is insufficient; the defective counts must be pointed out.\nIsr error from the District Court of Allegheny.\nAssumpsit. Wilson, the plaintiff, had sold certain mines to Nixon, reserving the right to put an end to the agreement on his failing to make the stipulated payments. The payments being in arrear, she brought ejectment, and issued a writ of estrepement of waste. McKelvy then called on her, and promised to take Nixon\u2019s place, and pay the arrears, if she would withdraw her suits. McKelvy then worked the mines, and nothing was done in the ejectment for six months, when it, and the writ of estrepement were discontinued. There was some evidence of a subsequent arrangement having been made between Wilson and one Lewis, who entered and mined the coal.\nHepburn, P. J., instructed the jury that the permitting McKelvy to continue working the mines, and the subsequent discontinuance of the suit and of the writ of estrepement, was a substantial compliance by the plaintiff of that part of her agreement. And that the agreement with Lewis was not a rescisi\u00f3n of the contract, for she would not thus destroy MeKelvy\u2019s rights, but would remain liable for any injury which ensued to him.\nS. W. Williams, for plaintiff in error.\nWoods, contr\u00e1.\nSept. 25."
+  },
+  "file_name": "0183-01",
+  "first_page_order": 183,
+  "last_page_order": 184
+}

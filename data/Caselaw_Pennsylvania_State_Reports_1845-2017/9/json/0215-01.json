@@ -1,0 +1,66 @@
+{
+  "id": 960667,
+  "name": "Young's Petition",
+  "name_abbreviation": "Young's Petition",
+  "decision_date": "1848-09-18",
+  "docket_number": "",
+  "first_page": "215",
+  "last_page": "216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 229,
+    "char_count": 3213,
+    "ocr_confidence": 0.384,
+    "pagerank": {
+      "raw": 1.1967415926350717e-07,
+      "percentile": 0.592643239045983
+    },
+    "sha256": "2a3c5ee6f995973d060cc17253171b98c9c294fb85e15f4b3580a66fe6cdb21d",
+    "simhash": "1:54cb0835918a8d24",
+    "word_count": 575
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Young\u2019s Petition."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nIt is claimed on the part of the appellee that the certiorari must be quashed on. two grounds: 1st, That there is no allocatur; and 2d, That more than seven years have elapsed since the decree of the court. Regularly, a certiorari must be allowed either generally or specially; but as a certiorari in proper cases is a matter of right, and as this a case where a special allocatur is not required, this objection would interpose no difficulty, for if there was nothing else, we would allow the writ nunc pro tunc. But the second exception has something more substantial in it. The act of the 13th April, 1791, declares that no fine or common recovery, nor any judgment in a real, personal, or mixed action, nor any appeal from the Register\u2019s Court, shall be awarded or reversed for any defect or error therein, unless the writ of error be commenced, or the appeal brought and prosecuted within seven years after such fine levied, common recovery suffered, judgment signed and entered of record, and decree pronounced. This proceeding, it is true, does not come within the letter, but it certainly does within the spirit of the act. The object of the act is to limit the time when a party shall be permitted to review a judgment or decree of a subordinate court. Now this object would in a measure be defeated if this court would be at liberty to reverse a decree merely because the proceedings had been removed by certiorari, and not by writ of error. An appeal is in the nature of a new trial; a certiorari, in the nature of a writ of error. A certiorari is generally a proceeding only to give effect to objections to the form of proceedings: 2 Chitty\u2019s General Practice, 219. The only effect of the certiorari in this case is to remove the proceedings for the inspection of the court. In substance, it is an appeal from the decision of the Court of Common Pleas, a proceeding to obtain a rehearing on the merits, and as such, it unquestionably comes within the true intent and meaning of the act of the 13th April, 1791, which prohibits this court from reversing proceedings after seven years may have elapsed from the time of the decree pronounced. And although it is not a writ of error technically so called, yet it is in the nature of a writ of error, its only office being to remove the proceedings for the inspection of the court. The act of limitations, as well to writs of error or certiorari, as in other cases, is a most beneficial statute, being a statute of repose, and absolutely necessary to quiet titles. As such it has been much favoured in latter times by the courts.\nWrit of certiorari quashed, and record remitted.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Hamilton now moved to quash the writ.",
+      "McOandless and Metcalf, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Young\u2019s Petition.\nA writ of certiorari is within the act of 1791, and will be quashed if the judgment or decree sought to be removed was not entered within seven years.\nCertiorari to the Common Pleas of Allegheny.\nYoung filed a petition to prove a contract for the conveyance of lands against the executors of Aitken. Proof was made, and a decree accordingly entered in 1828, that the facts were sufficiently proved within the act of 1818.\nThis certiorari was sued out as late as 1846.\nHamilton now moved to quash the writ.\nMcOandless and Metcalf, contr\u00e1.\nSept. 18."
+  },
+  "file_name": "0215-01",
+  "first_page_order": 215,
+  "last_page_order": 216
+}

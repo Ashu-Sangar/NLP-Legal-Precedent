@@ -1,0 +1,66 @@
+{
+  "id": 975851,
+  "name": "McKee et al. versus Sanford",
+  "name_abbreviation": "McKee v. Sanford",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "105",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 123,
+    "char_count": 1779,
+    "ocr_confidence": 0.437,
+    "pagerank": {
+      "raw": 2.857335567258976e-07,
+      "percentile": 0.8411432481198711
+    },
+    "sha256": "c916e2f62f385a8bb52657efd3a8de0b87d6faf32adf17b60d9c40876f251cd9",
+    "simhash": "1:8ae7833aab599da1",
+    "word_count": 310
+  },
+  "last_updated": "2023-07-14T18:53:06.435062+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McKee et al. versus Sanford."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, C. J.\nThe decision of the District Court on an application to open a judgment by confession, is not the subject of revision here. We have no authority to interfere in such cases, and the parties cannot give us, by consent, a jurisdiction which the law has not conferred. An agreement on the facts, with a provision for a writ of error, does not give us jurisdiction to review the decision of questions which the law places under the discretion of the courts of original jurisdiction.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Marshall and Brown, for plaintiffs in error.",
+      "Gteyer, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "McKee et al. versus Sanford.\nThe decision of the District Court of Allegheny county, on an application to open a judgment by confession, is not the subject of revision in this Court.\nConsent of parties cannot give this Court a jurisdiction which the law has \u2022 placed in the discretion of Courts of original jurisdiction.\nError, to the District Court of Allegheny county.\nThis was a scire facias guare executionem non upon a judgment, which was entered against defendants, March 6,1855, for $255.64. On the 28th June, 1855, the defendants obtained a \u201crule to show cause why the judgment should not be opened, and the defendants let into a defence.\u201d This rule was discharged by the Court on the 7th July, when a statement of facts was agreed to by the parties, and submitted to the Court, with a stipulation \u201c that either party should have the right to take a writ of error to the judgment of this Court.\u201d\nThe only question considered by this Court was, whether the judgment of the District Court on an application to open a judgment by confession is the subject of review here ?\nMarshall and Brown, for plaintiffs in error.\nGteyer, for defendant in error.\nThe arguments of counsel were confined to the facts in the case stated."
+  },
+  "file_name": "0105-01",
+  "first_page_order": 105,
+  "last_page_order": 106
+}

@@ -1,0 +1,152 @@
+{
+  "id": 959539,
+  "name": "Mortland v. Himes",
+  "name_abbreviation": "Mortland v. Himes",
+  "decision_date": "1848-06-14",
+  "docket_number": "",
+  "first_page": "265",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts, 204",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840046
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0204-01"
+      ]
+    },
+    {
+      "cite": "1 W. 126",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 391",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819375
+      ],
+      "pin_cites": [
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0391-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 358",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Penn. Rep. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 131",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 445",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 P. R. 57",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 R. 303",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 R. 100",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Rawle, 361",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 658,
+    "char_count": 14394,
+    "ocr_confidence": 0.399,
+    "pagerank": {
+      "raw": 2.0645960442350687e-07,
+      "percentile": 0.7569873764841116
+    },
+    "sha256": "9cbd035f40aec3e976c0faf4d8d513b6d75ff51cc4076659d6d5ae5ea7564969",
+    "simhash": "1:1ab183b7ae149c9e",
+    "word_count": 2574
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mortland v. Himes."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nThe principle is familiar, that a release of one of two or more joint, or joint and several debtors, will operate to release all the others from the obligation of the debt. The reason is, that otherwise the effect of the release would be to increase the responsibility of those not included in its terms, by casting the whole burden of the debt upon them, in direct violation of their contract, which was to bear it only in common with the others. This cannot be done without the consent of all who are jointly bound; and as the release is efficacious in favour of him to whom it is given, the only way in which the rights of the other debtors can be pre- \u2022 served, is to absolve them altogether from the obligation to pay. But an obligee may release one of two several obligors without disturbing his remedy against the other; for the undertaking of each is commensurate with the whole debt, and therefore the release of one does not increase the liability of the other, or change the nature or amount of his obligation. On the same principle, the release of a principal debtor will discharge a mere surety; but a release of one co-surety will exonerate the other only to the extent to which the releasee would otherwise have been compellable to pay. The creditor may recover against the other co-sureties, but not more than the proportion they would have paid supposing the co-surety released had contributed his share: Ex parte Gifford, 6 Ves. jun. 805. So too it has been held, and the determination is noticed with approbation by this court, in McLenachan v. Commonwealth, 1 Rawle, 361, that the release of one of three guardians by a ward, only discharges one who was surety for all of them to the extent of the liability of the release, but still leaving the surety bound fol* the other two: Kirby v. Taylor, 6 Johns. Ch. R. 242. And the reason .given is, that such appeared to be the understanding and agreement of parties, and therefore by the discharge pro tantof the release was prevented from increasing the responsibility originally assumed by the surety. It will thus be seen, that in each case the solution of the question, Whether a release of one joint debtor discharges another? depends upon the further question, Whether the effect of the release will be to increase the original responsibilities of the latter? If not, though effective as to the releasee, it is never permitted to work a dissolution of the contract of the party not released.\nNow, as between principal and surety, both at law and in equity, the former is considered as the debtor, and morally bound to protect the latter against liability. In chancery the doctrine is that \u201cif a person is surety in a contract, there is an implied contract that the principal shall indemnify the surety,\u201d and this equity arises where the money is due though not paid, for it would be unreasonable that the surety should be for ever at the mercy of the creditor in respect to an engagement which ought to be performed by the principal: 1 Eq. Ca. Abr. 79, pl. 5; Hungerford v. Hungerford, Gilb. Eq. R. 67. Therefore a surety may come into a court of equity to compel the principal to relieve him from his liability. At law, the surety may recover from the principal in an action of assumpsit the money paid by the surety, on the ground that in the absence of an express stipulation between the parties, a promise is raised by implication of law, on the part of the principal, to repay the money so paid for his use: Toussant v. Martinant, 27 R. 100. This being so, the release of a surety does in no wise increase the legal or equitable responsibilities of the principal, nor, as to\u2019him, change the nature or extent of his contract.\nUpon the principle which has been brought to view, it follows from this that the discharge of a surety interferes not with the liability of the principal to the creditor; for such a discharge is nothing beyond what the principal himself was bound to effect, and there- \u25a0 fore no injustice is done him. In accordance with this doctrine are the cases which determine that if the holder of a bill of exchange or promissory note give time to the acceptor or maker, who are considered as the principals, without the consent of the intermediate parties who stand in the place of sureties; or allow the acceptor or maker to renew the bill or note without consulting the other parties, they are discharged from its payment. But giving time to the drawer or endorser is no discharge of the maker or acceptor; nor will any prior endorser be exonerated by giving time to a subsequent one, for he is regarded as the surety of the preceding endorsers. These and the analogous determinations, of which there are many, proceed upon the rule that the discharge of a surety has not the effect to release the principal debtor: Pitman on Prin. and Surety, 175, 192.\nNor is the operation of this rule excluded by the merger of the contract, in a judgment recovered. In The Commonwealth v. Miller, 8 S. & R. 458, it was solemnly decided, that the relation of a principal and surety is not dissolved by a judgment at law; for there can be no reason why the fixing of the parties at law should absolve the principal from the moral obligation to protect bis surety. The soundness of this determination is recognised in The Bank of Pennsylvania v. Winger, 1 R. 303, where it was held that the virtual release of the estate of a surety from the lien of a judgment will not discharge the estate of a principal, even in favour of other lien creditors. In delivering the opinion of the court, the Chief Justice remarked, \u201c the refusal of the bank to take satisfaction out of the hand of the surety, was in furtherance of the equity between the debtors themselves. It waived its preference in favour of a surety to pursue the principal \u2014 the very thing a court of equity would have compelled it to do.\u201d The case of Benson v. Kincaid, 3 P. R. 57, though decided on the ground of consent by all the parties to be affected by the release, may, I think, be regarded as strongly sanctioning the doctrine I have endeavoured to illustrate, and is the more valuable in its application here, from its being the case of a joint judgment recovered against principal and surety. The only objection urged at the bar against the applicability of the principle to such a judgment, is the purely technical one that, as the judgment is joint, the process to enforce it must necessarily be also joint. In this, there is more of form than substance, for admitting it, the court from which the process issues will take care that it be not used to work injustice. In the proper exercise of the discretion vested in them, they will doubtless protect the. surety from an attempted disregard of the release by the creditor.\nIt will be perceived we are of opinion that the judgment rendered by the court below, in favour of the plaintiff, under the case stated, is correct. Wherefore,\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Cfaullagher and Biddle, for plaintiffs in error.",
+      "Meed, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Mortland v. Himes.\nThe release of one of several joint debtors, if it do not increase the original responsibilities of the others, will not work a dissolution of the contract as to those not released.\nThe release of a surety does not, in any case, increase the legal or equitable responsibility of the principal debtor, nor, as to him, change the nature or extent of his contract: which is to protect the surety from liability.\nThe operation of the rule, that the release of a surety does not discharge the principal, is not excluded by the merger of the original contract of indebtedness in a judgment recovered; nor does the recovery of a judgment at law as between principal and surety, dissolve that relation.\nThe release of a surety, after a joint judgment against him and his principal, does not discharge the principal from his obligation to pay the judgment.\n\u2018The rule, that where a judgment is joint, the process to enforce its payment, must also be joint, is technical, and has more of form than substance in it; and the court out of which the process issues, will take care that it be not used so as to work injustice, and will protect a surety from an attempted disregard of .a release to him, by a creditor.\nIn error from the Court of Common Pleas of Cumberland' county.\nJune 2. This was a case stated, from which it appeared that one George Himes, the defendant in error, obtained and entered of record in the Court of Common Pleas of Adams county, on the 18th of October, 1842, a judgment by confession, without stay of execution, against Moses Mortland and David Harman, the plaintiffs in error. On the same day, a writ of fieri facias was issued on this judgment, which was returned on the 20th of October, 1842, \u201cnulla bona,\u201d by the sheriff. On the 29th of November, 1842, the plaintiff, George Himes, entered on the record a certificate or release, of which the following is a copy: \u2014 \u201c Phis is to certify that I exonerate Daniel Harman as security of Moses Mortland, in a judgment I hold against them, on the docket of Adams county, Pennsylvania; as witness my hand and seal, this %9th of November, 1842.\nGeorge Himes, [l. s.]\nWitness: William Himes.\u201d\nTo November Term, 1845, No. 135, the judgment in this case was transferred by certified copy of the whole record, under the act of 16th of April, 1840, to the records of the Court of Common Pleas of Cumberland county. On this judgment a writ of attachment in execution was then issued,- under which, a sum of money, amounting to $90 \u2014 funds belonging to Moses Mortland\u2014 was attached in the hands of William M. Biddle, Esq., who was summoned as garnishee.\nThe question, under the facts submitted to the court for decision, was, whether the release of George Himes to Daniel Harman, the surety, of the 29th of November, 1842, operated also as a release or discharge to Moses Mortland, the principal in the judgment, and as an extinguishment of the judgment.\nThe court (Hepburn, P. J.) directed judgment to be. entered for George Himes, the plaintiff, for the amount of the judgment; and this was the error assigned here.\nCfaullagher and Biddle, for plaintiffs in error.\nIn a fieri facias and attachment under act of 1836, the defendant may plead any plea that he might have taken advantage of upon a scire facias post an. et diem; every object of a scire facias being provided for in the act itself: Ogilsby v. Lee, 7 W. & S. 445. We say, therefore, that no judgment can be given against Harman, who has been released \u2014 and consequently none against Mortland, who was jointly bound with Harman. It would be in effect giving two final judgments on a joint contract, which cannot be done; because each defendant is entitled to the benefit of his co-defendant\u2019s plea. The plaintiff in contract or personal action must succeed against all the defendants or none: O\u2019Neal v. O\u2019Neal, 4 W. & S. 131. If a creditor release one of two joint debtors in a bond or judgment, or simple contract, it will discharge the other: Burson v. Kincaid, 3 Penn. Rep. 57; Ingersoll % Sergeant, 1 Whart. 358; 1 Rawle, 391, 398.\nThe plaintiff by his suit elected to treat this as a joint claim, and. is bound by all the legal effects and consequences of a strictly joint demand. For, in a joint action against two on a joint and several bond, if the writ be served on one only, and judgment be taken against him, and the other is returned non est inventus, the judgment against the obligor who appeared, is a bar to the suit against the other: Beltzhoover v. Commonwealth, 1 W. 126 ; Downey v. Bank, 13 S. & R. 288; Walter v. Gingerich, 2 Watts, 204. Then after treating defendants as joint, courts will not permit the creditor, without the consent of the defendants, to change the liability from a joint to a several one: 1 Whart. 358.- Here Mortland\u2019s liability was joint, and he never agreed to the release of Harman: nor to his (Mortland\u2019s) being bound severally. See 2 Watts, 204.\nThey also cited 40 Law Lib.; Pitman on Prin. and Su. 131,132; Nicholson v. Preville, 4 Ad. & Ell. T5; 1 Bos. & Pull. 630; 1 Sto. Eq., sections 112,124 and notes, 146 and 164; 1 Eonb. Eq. 134; 2 Watts, 204.\nMeed, contr\u00e1.\nAt law, the general rule is, that the release of one joint judgment creditor is, per se, the release of the other. Primd facie, they both stand equally bound for the payment of the debt, and in equal parts. That being the import of the contract between all the parties, plaintiff and defendants, it cannot be \u2022changed without the consent of all. If the plaintiff, by his own act, discharge one of the defendants, the contract, being an entirety, is at an end. But this is not always so in equity; and equity, in this court, controls the law. One of the exceptions to the rule is where one of the defendants is principal debtor, and the other but surety. And this is the position of the two defendants in this ease. The fact is made part of the special verdict. Mortland is the sole debtor, and bound to pay the whole; and a court of equity would enforce such payment, if necessary to indemnify Harman, the surety. The plaintiff then, in this case, has only done what a court of equity would have done, put the burden in the right place, and administered the law according to the principles of equity. The design of the parties, and the justice of the case, will restrict the release to the one defendant to whom it was given, and leave the obligation to the other in full force. This doctrine is sustained by the ease of Kirby v. Taylor, 6 Johns. Ch. B. 250. This case is full to the point; and it is cited with approbation by Chief Justice Gibson, in McLenachan v. Commonwealth, 1 Bawle, 361; 8 T. B. 168. -\nThe ground of the rule in law in discharging both, is the protection of the rights of the defendants, that their mutual burdens shall not be cast upon pne. But suppose, in this case, Harman, the surety, had paid the debt either voluntarily or on compulsion: by our law, tempered by equity, he would have been entitled to substitution in the judgment as against Mortland, and could himself have enforced payment of it by him.\nIt is said Harman may have paid the judgment as a consideration of the exoneration. This would only change the equitable plain-\u2019 tiff, and the court below will take care of its suitors. Even if paid by Harman, the -judgment is good against Mortland. He also cited Burson v. Kincaid, 3 P. It. 57; Bank of Pennsylvania v. Winger, 1 Itawle, 302.\nJune 14."
+  },
+  "file_name": "0265-01",
+  "first_page_order": 265,
+  "last_page_order": 270
+}

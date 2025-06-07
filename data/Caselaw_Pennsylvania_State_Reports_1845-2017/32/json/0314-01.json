@@ -1,0 +1,73 @@
+{
+  "id": 986656,
+  "name": "Hill versus Irwin et al.",
+  "name_abbreviation": "Hill v. Irwin",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "314",
+  "last_page": "315",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 Pa. 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Binn. 373",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 2222,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.4692005209570133
+    },
+    "sha256": "753dbec5825b3712828df315adb71d9259e4a8eb9ebda04a10a571aeadb25fe3",
+    "simhash": "1:bb500dadab1aadf5",
+    "word_count": 411
+  },
+  "last_updated": "2024-02-27T20:05:07.474243+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hill versus Irwin et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J. \u2014\nA writ of error only lies where a court of record has given a final judgment, or made an order in the nature of a final judgment: 3 Binn. 373; 1 Casey 105. The error assigned on this record is to the action of the District Court, in opening a judgment obtained by the plaintiffs in error against the defendants in error, by submission and award, alleged to be under the Act of 1836. There has been no final judgment as yet in the case, and as the act complained of is neither the entry of judgment nor an order in the nature of a judgment, it is not the subject of a writ of error. Acts within the discretion of the courts are generally not reviewable, unless perhaps in a flagrant case of wrong, which is very unlikely to occur. If an interlocutory proceeding be injurious, it may be examinable after final judgment in the case, but not before. \"We cannot review the act of the court in opening this judgment, and the writ of error must be quashed.\nWrit of error quashed.",
+        "type": "majority",
+        "author": "Thompson, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Hamilton, for the plaintiff in error.",
+      "Shinn, for the defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hill versus Irwin et al.\nError will not lie to the action of the court below, in opening a judgment, to let the defendant into a defence.\nError to the District Court of Allegheny county.\nThis was a scire facias to revive a judgment in favour of Joseph Hill, for the use of Ira B. McVay, against William A. Irwin, Samuel Baird, and Alexander McClurg. The cause was arbitrated by agreement of counsel, and on the 23d November 1857, an award was made in favour of the plaintiff for $637.90, on which judgment was entered.\nOn the 5th January 1858, on affidavits of the defendants Baird and Irwin, alleging a good defence to the original judgment, and that they had never authorized the submission, or had any knowledge of it; and of McClurg that he had a good defence to the whole of the original judgment, with the exception of $15 and the costs; a rule was obtained to show cause why the judgment should not be satisfied on payment of $15 and costs. And on the hearing of this rule, the court below ordered that the judgment of revival be opened and the defendants let into a defence; which was here assigned for error.\nHamilton, for the plaintiff in error.\nShinn, for the defendants in error."
+  },
+  "file_name": "0314-01",
+  "first_page_order": 314,
+  "last_page_order": 315
+}

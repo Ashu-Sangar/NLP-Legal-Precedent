@@ -1,0 +1,114 @@
+{
+  "id": 992194,
+  "name": "Sallade's Appeal",
+  "name_abbreviation": "Sallade's Appeal",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "429",
+  "last_page": "430",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Johns. Ch. 260",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Binn. 300",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 303",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844017
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "314"
+        },
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0303-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 18",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480095
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0018-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 340,
+    "char_count": 5308,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 4.204985631468752e-08,
+      "percentile": 0.26799072069452695
+    },
+    "sha256": "0e26b4a5291dbdee61b7405d43c10b65316c36065766947b79b5a6287de2d54e",
+    "simhash": "1:55cb05e5a42c9c43",
+    "word_count": 944
+  },
+  "last_updated": "2024-02-27T22:20:12.272922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Woodward, J., and Read, J., dissented."
+    ],
+    "parties": [
+      "Sallade\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThe appellant held a note against the assignor for $540, and he was allowed only $300 on it, because he was attorney of the assignees and had paid the holder only that amount for it. If a person standing, in no fiduciary relation to the debtor or his creditors had bought it, he would have been allowed the whole. This is admitted. And to whom does the defendant stand in a fiduciary relation ? Not to the estate assigned ; it can appoint no attorney. Not to the assignor or his creditors, for he may have to present continual opposition to their wishes in the discharge of his duties; they could neither appoint nor dismiss him, and cannot call him to any account. He is simply and purely the attorney of the assignees, and is accountable only to them; and has no other connexion with the assigned estate. When all others oppose the' assignees, he defends them. He counsels, not the estate, but only the assignees in relation to such of their duties as they may need assistance in. He may be both creditor of the estate and attorney of the assignees; the relations are not incompatible. The only point at which they would seem to become incompatible is in the act of distribution: but even there it only seems so ; for every other creditor may dispute his claim and have it disallowed, if wrong, even after the assignees have paid it. No case is cited showing that his purchase is forbidden, and we know of no principle that allows the assignor to object to it. There seems to be no valid defence against the appellant\u2019s claim, and it ought to have been allowed in full. .\nDecree reversed so far as relates to the claim of the appellant, and his claim in full is allowed with interest; costs of this appeal to be paid by Benneville Keim, the appellee, and the cause is remanded to the Common Pleas that this decree may be carried into effect.\nWoodward, J., and Read, J., dissented.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Banks, for the appellant.",
+      "Van Reed and C. Davis, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Sallade\u2019s Appeal.\nA person retained as attorney for an assignee in trust for the benefit of creditors, occupies no such fiduciary relation towards the assigned estate, as renders him incompetent to become the purchaser of the promissory note of the assignor, and to claim payment thereof out of the funds in the hands of the assignee.\nAppeal from the Common Pleas of Berks county.\nThis was an appeal by Andrew M. Sallade, from the decree of the court below distributing the estate of Benneville Keim, in the hands of John Bertolette and Jacob M. Sallade, his assignees in trust for the benefit of creditors.\nOn the 6th September 1856, Benneville Keim made a voluntary assignment of all-his estate to John Bertolette and Jacob M. Sallade, in trust for the benefit of his creditors. On the 12th June 1858, the assignees filed their account, which was referred to an auditor, to audit, settle, and adjust the same, and.report distribution of the fund in the hands of the accountants. Before the auditor, Andrew M. Sallade, who was the attorney for the assignees, claimed payment of a promissory note of Benneville Keim, the assignor, in favour of Anthony Fricker, for $540, dated the 2d May 1856, and payable sixty days after date, which had been assigned to him on the 1st July 1857, in consideration of the sum of $300.\nThe auditor reported in favour of the payment of a dividend on the whole amount due on this note. The report gave to each of the creditors of the assignor 86-|- per cent, on the amount of their respective debts. Exceptions were filed by the assignor to this report, and among others, to the allowance in full of the.note held by the appellant. These exceptions were sustained by the court, and the matter was referfed back to the auditor to report distribution in accordance with the opinion of the court; this resulted in the payment of all the other creditors in full, both principal and interest; the allowance to the appellant of the sum of $300, the amount which he paid for the note, with interest thereon; and the payment of a balance to the assignor. This report was confirmed by the court, and distribution decreed accordingly; whereupon this appeal was taken.\nBanks, for the appellant.\nDid the appellant violate any professional duty in the purchase of this note ? It was thrown into the market; why might he not buy ? This was a matter altogether apart from the trust. It did not prejudice the interests of the assignee; for he was bound for the whole debt. Neither did it injure the other creditors; for the whole- debt would at all events have been presented for a dividend. There is nothing in the policy of the law, which forbids such a purchase on the ground of the trust and confidence existing between attorney and client: Fisk v. Sarber, 6 W. & S. 18; Dobbins v. Stevens, 17 S. & R. 13; Leisenring v. Black, 5 Watts 303; Devinney v. Norris, 8 Id. 314; Bank v. Forster, Id. 305; Galbraith v. Elder, Id. 100.\nVan Reed and C. Davis, for the appellee.\nThe appellant was as much the counsel for the creditors and the assignor, as for the assignees: Drysdale\u2019s Appeal, 2 Harris 531. As the assignees could not purchase or compromise for their own benefit, so neither can their attorney: Greenfield\u2019s Estate, 2 Harris 489, 506; Hatch v. Hatch, 9 Ves. 296, 297; Guier v. Kelly, 2 Binn. 300; Beck v. Uhrick, 4 Harris 503; 2 Johns. Ch. 260."
+  },
+  "file_name": "0429-01",
+  "first_page_order": 429,
+  "last_page_order": 430
+}

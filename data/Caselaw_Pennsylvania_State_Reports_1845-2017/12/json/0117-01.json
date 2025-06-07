@@ -1,0 +1,145 @@
+{
+  "id": 963737,
+  "name": "John Reed v. John B. Reed",
+  "name_abbreviation": "Reed v. Reed",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "117",
+  "last_page": "121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 117"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Pa. Rep. 360",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        400542
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/3/0360-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 509",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846113
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0509-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 56",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854674
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0056-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 464",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846150
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0464-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 131",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 172",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/8/0172-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 56",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854674
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0056-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 515,
+    "char_count": 10310,
+    "ocr_confidence": 0.382,
+    "pagerank": {
+      "raw": 8.52844101763608e-08,
+      "percentile": 0.48731817955409756
+    },
+    "sha256": "04ece4ae17669f5ed0ceb68f73c70c4ee9f2a39d19743ec46338580f187529b0",
+    "simhash": "1:5671ec37c1c6c644",
+    "word_count": 1935
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Reed v. John B. Reed."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of this Court was delivered by\nBurnside, J.\nThe doctrines of the English chancellors, concerning part performance of parol contracts for land, have'been adopted as the law of Pennsylvania. Under our Act of Assembly against frauds and perjuries, notwithstanding the omission in the latter of section 4 of the English statute, delivery of possession of land, in pursuance of a parol contract, amounts to part performance ; and the vendee, as well as the vendor, may insist on specific execution of the contract: Pugh v. Good, 3 W. & S. 56. Hence, it seems to a majority of this Court that this case was not properly put to the jury. I think the fair inference from the evidence was that the son was put into possession in pursuance of .a contract entered into with Ms father. That is a fact for the jury to determine, and the evidence is clear that the father afterwards had the land surveyed for the son, but refused to make him a deed, until the whole purchase-money was paid. It is in evidence that the son paid a judgment for the father, lifted a note, and paid sixty dollars on his contract for the land, and the father declared it was all paid but forty dollars, a balance in the last gale; that the son was industrious, made valuable improvements, and turned the wilderness into a fruitful field.\nIn the examination of cases on parol contracts, it frequently happens that there was no person present when the bargain was made, or that, if present, he is not living at the trial. The declaration of the vendor is evidence for the vendee, and of the vendee for the vendor. The father certainly admitted the contract when he refused to make the deed until he received the last forty dollars. Whether there was a contract and possession delivered in pursuance of it ought to have been submitted to the jury. They had a right, under the evidence, to say what sum was due on the contract to the vendor, if they found one,1 and they might have found for the plaintiff, to be released in a reasonable time, to be fixed by the jury, and that the plaintiff should not have execution until he tendered or filed a conveyance in the office: Swartzlander v. Markly, 8 W. & S. 172. I deem it unnecessary to recapitulate the evidence. It is clear to me the case, on that evidence, ought to have been put to the jury on the principle indicated.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Cox, for the plaintiff in error.",
+      "Gaither, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "John Reed v. John B. Reed.\n1. Delivery of possession of land, in pursuance of a parol contract of sale, amounts to part-performance; and the vendee, as well as the vendor, may insist on specific execution of the contract.\n2. The declaration of a vendor, by parol contract, that he would not make a deed until his vendee had paid a specified balance of purchase-money, in the absence of precise evidence of the terms of the contract, is evidence for the vendee of how much is due to the vendor.\nError to the Common Pleas of Somerset.\nOct. 16. This was an action of ejectment brought by John B. Reed, the father, against John Reed, the son.\nIt was agreed on both sides that the legal title was in plaintiff, and that defendant was in possession.\nFor the defence, R. Robinson testified\u2014I was present at a survey of this tract of land; I heard John B. Reed say that he had received $60 on that land; I think it was $60 on the last hundred that was to be paid, but I will not be confident; he received it on the land John is living on; he said he intended that land for John; cannot say how many acres were surveyed off.\nCross-examined.\u2014I heard a conversation between these parties, in which it was said that the old man had sold John the land, in John\u2019s family; John Reed was living on the land when this survey was made.\nG. RoSs, sworn.\u2014I had several conversations with plaintiff, the last was four or five years ago. I asked him why he did not make John a deed for this land? He said he would not make a deed until he paid up. I asked -him how much he was back ? He said $40. John cleared and fenced a great deal of land; built an end and threshing floor to the barn; the land was very thickly timbered; there was a house on it and some clear land; think he cleared 20 or 25 acres of the land; the fences are very good, eight rails high.\nCross-examined.\u2014Think the profits of the land not equal to the value of the improvements; most of the clearing done four or five years ago; perhaps twenty acres cleared when he came there; John sold a couple of hundred rails to me; perhaps more to others.\nJ. Witt, sworn.\u2014I surveyed the land defendant lives on, at the request of plaintiff, who said he wanted it for his son John; defendant was living on it at the time; defendant paid me; think the old man said John should pay it and deduct it from the price of the land.\nJ. Boyd, sworn.\u2014Old Mr.. Reed told me to wait awhile about laying out a road until he would have the line run of John\u2019s place; he was cutting off John\u2019s place from his land; only a little piece cleared when John went there; he must have cleared 30 acres; the clearing would be worth $6 to $8 per acre; it is usual to give three crops for the clearing.\nPlaintiff\u2019s counsel proposed to ask the witness the length of time the defendant was in possession, the conditon of the land when he came there, and the value of it to him since he has been on it; which being admitted under exception,\nWitness proceeded.\u2014He cleared some the first year he came there; he fixed the house, and lived in it from the first; worth $30 a year, as it is now; would have been worth $10 a year before; John was in possession of the land at the time of my conversation with his father.\nJ. Imhoff, sworn.\u2014I was at John Reed\u2019s; the old man was present; I asked him how his line run; he said by the turnpike; wanted to buy another aero across the turnpike; the old man told him he had sold him land enough already.\nC. Beam, sworn.\u2014In 1839, plaintiff was sued before me; defendant came and said he had bought a piece of land of the old man, and had made arrangements to pay the debt; the old man came down and asked-if it was paid; I told him John had paid it; he said he had sold John a piece of land; that John had paid that debt for him as a part of the purchase-money; would be worth $8 to $10 per acre to clear and fence the land; I would give $400 or $500 more for the land now than before John went there; John went there in 1837.\nThe plaintiff then produced the following rebutting evidence:\nF. Launtz.\u2014Old Reed said at the survey that he would not make the deed; think John was present. The average value of the rent since John lived there, would be worth $25 to $30.\nII. Reed, sworn.\u2014I was at John\u2019s; I told him I had a notion of building on the land struck off to me; he said, \u201c You\u2019re foolish for that; I would have built before now on the tract I occupy, if I had had a title, but it will be at the old man\u2019s option; if he chooses, he can turn us off, and we\u2019ll lose our labour;\u201d he said further, \u201c You and me ought to get round the old man, and make him tight, and get our deeds;\u201d I said, what will the rest of the heirs do ? He said, \u201c Let them do like us, as well as they can.\u201d He said, \u201cI hold a note against the old man, I got from the Boyers;\u201d that when he lifted the note, he thought the interest would be as good to him as anybody ; it would come good some time; said the old man had it in his power to sell the land to somebody else; Ross & Parker got some rails; Picking got some.\nThe Court below (Black, President) charged the jury thus:\n\u201c The plaintiff makes out a good title by the admission of the defendant. He must have your verdict unless the defendant has proved that the land has been sold, and the title, legal or equitable, vested in himself.\n\u201c The defendant asserts that the plaintiff sold him the land in dispute by parol; that, in pursuance of that parol contract, he went into possession; paid part of the purchase-money, and made valuable improvements. If this has been clearly and satisfactorily made out, it is a good defence; and it is your duty to find in favour of defendant.\n\u201c But, in order to make this proof sufficient to justify a verdict for defendant, it is necessary that clear evidence be produced, showing not only that there was a contract, but what the terms of it were. Unless the terms of the contract are made known, it is impossible for a chancellor to say, that it is such a contract as ought to be enforced. The principal evidence here relied on, is that of Ross; that the plaintiff told him that he would not make a deed till John paid up, and that he was back $40. When you consider this defect in the evidence, in connexion with the defendant\u2019s admission, that the plaintiff had a right to sell the land, and the proposition he made to his brother, that they would make the old man drunk, and then get deeds from him, you will have no difficulty in seeing that the defence is not established; and that the verdict ought to be in favour of the plaintiff.\u201d\nYerdict for the plaintiff, with 6 cents damages, 6 cents costs, and judgment.\nThe errors assigned here were that\u2014\n1. The Court erred in receiving evidence, the effect of which was to show that the defendant had been compensated, in fart, for improvements, by the issues and jrents of the land. .\n2. The Court erred in instructing the jury that the defence had failed, and that the verdict should be for the plaintiff.\nCox, for the plaintiff in error.\nThere was such part performance here as to render the' plaintiff\u2019s recovery inequitable. Part payment and possession are enough to avoid the statute: Frazer v. Hallowell, 1 Binn. 131; Bassler v. Niesley, 2 S. & R. 352; Haslet v. Haslet, 6 Watts, 464. Taking possession alone is enough for that: Pugh v. Good, 3 W. & S. 56.\nAn unconditional verdict, in a case like this, is an encouragement to fraud. Whatever defect there was in our proof as to the entire consideration agreed to be paid for the land, was remedied by the proof that the vendor admitted he had received all the purchase-money, except $40. Shall he not be bound by that admission 1\nThe evidence to show that defendant had been compensated by the rent and profits for his improvements, should not have been received. It would be no defence to specific performance: Young v. Clendenning, 6 Watts, 509; Eckert v. Eckert, 3 Pa. Rep. 360.\nGaither, contr\u00e0."
+  },
+  "file_name": "0117-01",
+  "first_page_order": 117,
+  "last_page_order": 121
+}

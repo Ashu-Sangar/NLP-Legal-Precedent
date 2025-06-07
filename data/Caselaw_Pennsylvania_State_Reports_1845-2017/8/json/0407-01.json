@@ -1,0 +1,79 @@
+{
+  "id": 959527,
+  "name": "Faunce v. Sedgwick",
+  "name_abbreviation": "Faunce v. Sedgwick",
+  "decision_date": "1848-07-08",
+  "docket_number": "",
+  "first_page": "407",
+  "last_page": "409",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 W. & S. 260",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481798
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0260-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 425,
+    "char_count": 6768,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.033798688649415466
+    },
+    "sha256": "f29652696310804318352cb86743f1fccceef474884ac34fce266e4b7b3aaaf7",
+    "simhash": "1:9fa7eb86676ae5ff",
+    "word_count": 1212
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Faunce v. Sedgwick."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nI deem it unnecessary to take up the numerous errors assigned in detail, as we v-iew in the charge on the evidence manifest error from beginning to end.\nIn England, upon a fieri facias, the sheriff may either appraise the goods and sell them, without an inquiry, or else he may appraise them by a jury and sell them: Dalton on Sheriffs, 147. If he sells them by auction, the expense attending .it, over and above the fees and expenses allowed him by the statute, will fall on himself, unless the plaintiff or defendant expressly require the auction: Woodgate v. Knatchbull, 2 Term. Rep. 157. In Pennsylvania, our provincial statute requires a public sale on notice; and, so far as the subject is touched by subsequent statutes, under the commonwealth, similar provisions are required. The sheriff always sells by public vendue or outcry, in accordance with our local law and the uniform usage of the state. The principle is well settled, that a bidder at auction has a right to retract his bid at any time before the hammer is down, unless there are conations of sale containing express stipulations to the contrary: Babington on Auctions, 41, 19 Law Lib., from 13 to 18, and the cases there cited.\nThe right to retract the bid 'before the hammer is down, cannot be denied. In Donaldson v. Kerr, 6 Barr, 486, it was held, that at a judicial sale by the sheriff, the bidder is not bound by his bid, after an adjournment of' the sale on the sheriff\u2019s mere motion, although such bid was not expressly retracted before the adjournment. Bearing these principles in mind, how did Sedgwick stand ? He proves he bid $1,150 for the printing establishment, which was refused by the sheriff. Whether this bid was absolute or conditional, does not clearly appear. Nor is it material, for it was virtually withdrawn; for in a few minutes he went to a table and reduced a bid to writing, and handed it to the sheriff, viz:\u2014\n\u201cTo Samuel Faunce, Esq., Sheriff of Dauphin county.\n\u201cSir: For the press and materials of the Pennsylvania Intelligencer, as now offered for sale, I hereby offer to bid the sum of eleven hundred and fifty dollars; the money to be applied on my executions, and the costs on the same now in your hands, standing against Elliott & McCurdy; and if you do not strike down the same to me, on these terms, but sell for a less sum, I shall hold you personally liable for the loss I may sustain thereby.\n\u201cP. C. Sedgwick.\n\u201c February 7, 1844.\u201d\nThis paper Mr. Sedgwick handed to the sheriff. It was his' definite and last bid, and superseded all the previous ones. As this bid was in writing, there could be no mistake as to its tenor and effect. Was the sheriff bound to take it ? We are of opinion he was under no such obligation. What was it ? That he would give $1,150, on condition that the $1,150 be applied to his execution. A bidder has no right to impose conditions on his bid. The writ under which the sheriff sold, commanded him to have the money before the court. Here the sheriff had notice of different claimants; and in such a case, the prudent and proper course was for the sheriff to pay the money into court, and let the law distribute it. Execution has heretofore been deemed the life as well as the end of the law; and if the sheriff was bound to accept conditional bids, a sale of property would only be the commencement of new litigation. His writ commanded him to sell for money, and have that money before the judges of the court on the return of the writ. The money the sheriff made was determined by the court to belong to the bank. The question, in that case, involved the construction and .effect of the stay-law of 1842. The profession and the inferior courts differed, as to the effect of the law upon property appraised under the act. It was for the superior court to settle the law on the subject. If the Supreme Court had affirmed the judgment of the Common Pleas, and the sheriff had returned the sale on the conditional bid of Sedgwick, he would have made a nice exhibit to the court, in selling on a conditional promise, which the law would not have helped him to enforce. Conditional bids, at sheriffs\u2019 sales, are contrary to law, and must be disregarded.\nIn the case before us, Sedgwick had no claim to a verdict; and the jury ought to have been so instructed.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Watts and McCormick, for plaintiff in error.",
+      "Fisher, cont\u00f3,"
+    ],
+    "corrections": "",
+    "head_matter": "Faunce v. Sedgwick.\nThe sheriff, when selling pergonal property on execution, may disregard a bid, conditioned that the money be applied to the bidder\u2019s execution, even though he was legally entitled to the proceeds of sale. '\nA bid reduced to writing before the sale is concluded^ is a waiver of prior bids by the same person.\nIn error from the Common Pleas of Dauphin county.\nThis was an action on the case against the sheriff, for refusing a bid by the plaintiff, who was an execution creditor.\nIt appeared that the sheriff, under the plaintiff\u2019s execution, had levied on certain personal property, which was appraised under the act of 1842, and not bringing two-thirds of the valuation, a bond was given pursuant to that act.\nSubsequently to this levy, one Gibbart issued a fi. fa. against the same defendant, under which real estate was seized and condemned. The attorney, however, gave notice to the sheriff not to pay over the proceeds of the property levied on under Sedgwick\u2019s fi. fa.\nAnfed. fi. fa., at the suit of the Harrisburg Bank, against the same defendant, was also left with the sheriff, but no levy was made thereunder. The attorney on this writ also gave notice to the sheriff to pay into court the proceeds of Sedgwick\u2019s execution.\nOn the sale of the property, there was evidence that Sedgwick made several bids, and it was disputed whether they were conditional; but he finally reduced his bid to writing, in which was contained a condition that the money made should be applied to his execution. The sheriff refused to accept this bid, and sold the property at a less price than Sedgwick had offered.\nHepburn, P. J., left it to the jury to say whether Sedgwick\u2019s bid had been conditional, instructing them that the sheriff was bound to accept it though conditional, if no reasonable man could have doubted that the money ought to be applied according to the condition. That in this case the two other executions were clearly not entitled: for on one of them there had been a levy and condemnation of real estate, and on the other no levy on the goods ; and that if there were a doubt he should have demanded indemnity, and not have sold the goods at a less price than was bid.\nWatts and McCormick, for plaintiff in error.\nFisher, cont\u00f3,\ncontended, that i^ having been decided that Sedgwick alone was entitled to the money, 7 W. & S. 260, the sheriff was bound to accept his bid.\nJuly 8."
+  },
+  "file_name": "0407-01",
+  "first_page_order": 407,
+  "last_page_order": 409
+}

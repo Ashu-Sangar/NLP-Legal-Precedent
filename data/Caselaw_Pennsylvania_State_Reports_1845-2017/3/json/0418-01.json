@@ -1,0 +1,103 @@
+{
+  "id": 400629,
+  "name": "Farley v. Kustenbader",
+  "name_abbreviation": "Farley v. Kustenbader",
+  "decision_date": "1846-08-01",
+  "docket_number": "",
+  "first_page": "418",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts & Serg. 180",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481783
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0180-01"
+      ]
+    },
+    {
+      "cite": "12 Serg. & Rawle, 393",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8879054
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/12/0393-01"
+      ]
+    },
+    {
+      "cite": "6 Watts & Serg. 213",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480222
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0213-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 246,
+    "char_count": 4032,
+    "ocr_confidence": 0.569,
+    "pagerank": {
+      "raw": 6.939155244961223e-08,
+      "percentile": 0.4206976931859734
+    },
+    "sha256": "ebba88033a51d67dba6f51acad3273d148be90eecaa2428e22d281b9918b8f66",
+    "simhash": "1:80297e9b26663808",
+    "word_count": 736
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Farley v. Kustenbader."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\nThe rule is now established by repeated decisions, that an acknowledgment of a debt, to take it out of the bar of the statute of limitations, must be clear, distinct, and unequivocal : otherwise no promise to pay can be inferred from it. That is not the case here. It is uncertain what amount the defendant offered, or whether he offered it as a compromise, or as a payment in part, or of the whole. Zimmerman is the only witness; and he says he saw the defendant offer a bank note to the plaintiff, but does not know how much, for costs as a witness in behalf of the defendant in a former suit. The plaintiff would not take the money, saying if the defendant would give it all to him he would take it. He cannot tell whether it was a five or ten dollar note, or either. On this evidence the court left it to the jury to determine whether it was an offer of part payment, or only an offer of the note for what costs he owed him, by way of compromise. But there is no evidence from which the jury could determine either of these alternatives ; they could at best but conjecture: whereas, to make it such an acknowledgment as amounts to a promise, it should be shown clearly by some evidence, that the offer was in payment of part of the debt. No testimony was given but that of Zimmerman, and his evidence leaves the matter uncertain and obscure.\nThis dispenses with the necessity of examining the other points, whether a promise within the six years is sufficient; and therefore, at present we give no opinion on it. ,\nJudgment reversed, and a venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for plaintiff in error.",
+      "Linn, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Farley v. Kustenbader.\nAn offer of payment, to take the case out of the statute of limitations, must be clear, distinct, and unequivocal; therefore, where the evidence was an oiler of a bank note, of which the amount was uncertain, which was refused, unless all of it was given; it was error to leave it to the jury, whether this was an offer to pay on account of the debt, or in full satisfaction, there being no evidence from which they could decide which it was.\nWhether a promise within six years will take the case out of the statute of limitations 1\nIn error from the Common Pleas of Union county.\nJuly 29. This was an action in 1844, by a witness in a cause tried May Term, 1835, to recover his daily pay. To avoid the plea of the statute of limitations, plaintiff called a witness, who testified that at one time, (other evidence showed it to have been in 1839,) he saw the defendant offer plaintiff a bank note, and that defendant stated it was for witness fees; but witness did not know its amount, \u25a0whether a five or ten dollar note. That plaintiff refused to accept it, saying, if defendant would give it all to him, he would take it.\nHis honor (Wilson, President J.) instructed the jury, the statute was a bar, unless this evidence showed a promise within six years; that if the offer was to pay a part of the amount, it wmuld take the case out of the'statute, being an acknowledgment not inconsistent with such a promise. But if he offered to pay the amount of the note for what costs had been incurred, and the plaintiff refused it, because defendant would not pay the entire amount due, it -would not have the effect contended for. That the jury would decide whether it was an offer to pay on account, or in full satisfaction.\nThe defendant excepted generally.\nMiller, for plaintiff in error.\nThe offer of a sum, which is declined as being less than the amount -claimed, is not an acknowledgment within the rule of law. Gilkyson v. Larue, 6 Watts & Serg. 213 ; Eckert v. Wilson, 12 Serg. & Rawle, 393; Allen v. Pennington, 7 Watts & Serg. 180. Nor will -an acknowledgment before the statute has completely barred the action, have any effect. Case v. Cushman, 1 Barr, 241.\nLinn, contr\u00e0.\nNo specific direction was asked, and there was no error if the acknowledgment takes the case out of the statute. Co-wan v. Megamin, Wallace, 66. There was no question as to the subject of the acknowledgment; it was the existing debt.\nAug. 1."
+  },
+  "file_name": "0418-01",
+  "first_page_order": 416,
+  "last_page_order": 417
+}

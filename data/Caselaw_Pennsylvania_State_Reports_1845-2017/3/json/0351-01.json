@@ -1,0 +1,184 @@
+{
+  "id": 400739,
+  "name": "Wells v. Baird",
+  "name_abbreviation": "Wells v. Baird",
+  "decision_date": "1846-07-27",
+  "docket_number": "",
+  "first_page": "351",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 351"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Rawle, 224",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820628
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0224-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 297",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0297-01"
+      ]
+    },
+    {
+      "cite": "5 Serg. & Rawle, 128",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1804333
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/5/0128-01"
+      ]
+    },
+    {
+      "cite": "17 Serg. & Rawle, 121",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1818220
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/17/0121-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 124",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0124-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 4",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Serg. & Rawle, 425",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1816725
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/16/0425-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 504",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 316",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846859
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0316-01"
+      ]
+    },
+    {
+      "cite": "5 Whart. 324",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rawle, 364",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823556
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0364-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 383,
+    "char_count": 5922,
+    "ocr_confidence": 0.568,
+    "pagerank": {
+      "raw": 1.1478787937015561e-07,
+      "percentile": 0.5806500687877942
+    },
+    "sha256": "2719fada4e0fe46584dda9995e95c3342d3fa79ded6b84f133b75c8f8e53b5c9",
+    "simhash": "1:d7223beaecdee25d",
+    "word_count": 1064
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wells v. Baird."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\nWe perceive nothing wrong in the result to which the court below came. According to settled principles, which are stated by the court below, the judgment against the testator continued a lien on the lands in the hands of devisees, without any legislative limitation. What effect the sheriff\u2019s sale of George\u2019s interest had in respect to the purchaser, or the land he bought, it is unnecessary and would be improper to decide now, because he is not a party to this suit. Nor is it necessary to say, how far the plaintiff would have been bound to look to the money raised on that sale, for his debt or any portion of it, had it been the only estate bound by his judgment. A creditor having a judgment which binds land owned by two tenants in common, to whom it passed subject to the lien, is not obliged, if the estate of one is sold out by execution against him, to come in and take payment of his judgment out of the fund raised by that sale, but may elect to look to the remaining estate. Whether he could voluntarily have claimed it, or could have been compelled to receive any of the money, are points which do not arise, as neither case occurred. It is sufficient that the plaintiff\u2019s proceedings, as they appear, are according to law; and any rights accruing between other parties must be determined among themselves.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Williston and Elwell, for plaintiff in error,",
+      "Patrick and Greenough, contr\u00e0,"
+    ],
+    "corrections": "",
+    "head_matter": "Wells v. Baird.\nThe lands of a devisee are not discharged from the lien of a judgment against the testator in his lifetime, which is not revived within five years of his decease.\nThe sale of the lands of one of the devisees by the sheriff, will not affect the right of the creditor to a judgment de terris, against the lands held by another devisee.\nMoney paid to the prothonotary, and entered by him on the docket as paid into court, will not affect the right of the plaintiff in a judgment to have the judgment revived.\nIn error from the Common Pleas of Bradford county.\nJuly 17. Case stated, with leave to bring a writ of error. In 1833, judgment was entered by confession against Henry Wells, to secure a note payable in three years. In the same year Henry Wells died, having devised to his three sons, George H., James PI., and Henry S. Wells, certain lands as tenants in common. To George H. Wells, he devised other lands in trust for his daughters, Susan and Francis. To his wife he devised the one-third out of his lands for life, and appointed George H. Wells and his wife executors.\nIn 1836, George H. Wells, as executor of Henry Wells, paid $800 to the prothonotary of the court, on account of the above-mentioned judgment, which was entered on the docket as paid into court, but was never received by the plaintiff.\nIn 1843, George purchased Henry\u2019s (his brother\u2019s) interest in the lands devised, subject to this judgment. And on the same year the interest of George was sold, under execution, to Storm & Co., for $9500.\nA sci.fa. to revive the judgment of 1833, issued in 1844, against George H.-Wells, as executor, and the devisees named in the will of Henry Wells. The questions submitted were, if the court considered the plaintiff was entitled to judgment de terris, then to enter, &c.; if the payment of $800 was good as a set-off, it was to be deducted; and the court were also to decide, whether the judgment was a lien on the land sold, or whether it ought to contribute.\nThe court (Conyngham, P. J.) considered the payment to the prothonotary as unauthorized, and therefore not binding on plaintiff on the authority of Barr v. Kistler, 4 Rawle, 364; Tomkins v. Wood-ford, 1 Barr, 156. Whether the devisees were liable to a judgment de terns, depended on the act of 1797, April 4th. That the Supreme Court had settled the rule against heirs, under the act of 1798; and whether the same rule should not be applied to devisees, wds the question. He considered them in the same light, viz., as volunteers, and liable to the same rule adopted in Jack v. Jones, 5 Whart. 324, under the act of 1798, as to heirs. That this construction was aided by the act of 1834, by which only bond fide purchasers, mortgagees, &c., are protected from liens not duly revived. That the proceeds of the land sold to Storm could not be applied, as an encumbrance uncertain in amount, being the widow\u2019s interest under the will, intervened; and hence, under Mix v. Acida, 7 Watts, 316; Swar\u2019s Appeal, 1 Barr, 92, the purchaser took subject to the lien of such-uncertain encumbrance, and of all prior liens. That Jack v. Jones seemed to decide the lien of the judgment was gone by lapse of time, as to the land sold ; but neither this nor the question of contribution was raised by the record on which the court were called upon to decide. Judgment for plaintiff was therefore entered generally.\nWilliston and Elwell, for plaintiff in error,\ncontended, that the effect of this decision was to discharge the claim of one child in the lands of the sheriff\u2019s vendee, leaving the whole amount of the lien on the others; and cited acts 1798, 1834; Graff v. Smith, 1 Dall. 504; Cahoon v. Hollenback, 16 Serg. & Rawle, 425; 1 Penna. Rep. 71; 3 Penna. Rep. 229.\nPatrick and Greenough, contr\u00e0,\nargued in support of the reasons given by the court below, for their construction of the statutes, and cited Fetterman v. Murphy, 4 Watts, 4-24; Brobst v. Bright, 8 Watts, 124; that the devisees were but volunteers, and that liens continued on their lands without regard to lapse of time; Fryhoffer v. Busby, .17 Serg. & Rawle, 121; 5 Serg. & Rawle, 128; 2 Rawde, 224; 2 Watts, 297; for it would be absurd to make a distinction between an estate of one testate, or intestate.\nThat the defect of non-joinder of the holders of other lands liable to this lien, could only be pleaded in abatement; 2 Saund. 7, n. 10; and even thus it would be unavailing, as this lien was discharged as to him. 17 Serg. & Rawle, 121; 2 Rawle, 224 ; 5 Serg. & Rawle, 128; 2-Watts, 297; 5 Whart. 324.\nJuly 27."
+  },
+  "file_name": "0351-01",
+  "first_page_order": 349,
+  "last_page_order": 351
+}

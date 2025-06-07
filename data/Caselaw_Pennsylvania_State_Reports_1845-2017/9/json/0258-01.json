@@ -1,0 +1,79 @@
+{
+  "id": 960697,
+  "name": "Hazlebacker v. Reeves",
+  "name_abbreviation": "Hazlebacker v. Reeves",
+  "decision_date": "1848-10-16",
+  "docket_number": "",
+  "first_page": "258",
+  "last_page": "260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 W. & S. 213",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480222
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/6/0213-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 315,
+    "char_count": 5206,
+    "ocr_confidence": 0.374,
+    "pagerank": {
+      "raw": 8.337275655039473e-08,
+      "percentile": 0.48062435300281986
+    },
+    "sha256": "328ea8d78dc61bb41c9296e26b9ddb022d980d776d50f6a59e98a176098fcd0f",
+    "simhash": "1:fa3a4a139aec8228",
+    "word_count": 928
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HAZLEBACKER v. REEVES."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe case of Morgan v. Walton, 4 Barr, 321, was decided mainly on the ground that the evidence of the acknowledgment and promise was vague, shadowy, and uncertain, and because it was altogether in doubt, from the evidence, whether the intestate intended to refer to that part of the account then due and legally recoverable, or to that part which was barred by the statute, or to the whole account taken together. And that, therefore, it was rendered insufficient by the case of Gilkyson v. Larue, 6 W. & S. 213, which ruled that the acknowledgment of a debt is evidence of a promise, but that it ought to be plain, unambiguous, express, and so distinct and palpable in its extent and force as to preclude hesitation. In relation to that part of the account which was not barred by the statute at the time of the alleged promise or acknowledgment, the judge who delivered the opinion stated, as ancillary to the main view of the case, that a promise made within the six years is a nudum pactum, without consideration, and cannot establish a new contract, and thus create a new era from which the statute will run, as the original cause of action itself is still in full legal vitality. This dictum expressly refers to the case of Case v. Cushman, 1 Barr, 246, then recently reported, as the authority on which it was predicated. In that case the late learned judge who delivered the opinion thus declares the law: \u201c The debt was not barred at the time the new promise is alleged to have been made, the plaintiff was still and at that time under a legal obligation to pay it; and without some consideration being given for it, which is not pretended in this case, it was at most but a mere nudum pactum, and no cause of action could arise or accrue from it. The only cause of action which existed, therefore, and had accrued or could accrue in regard to the debt in question, was founded upon tbe original promise to pay it, and accrued on tbe 14th November, 1830, against which the statute of limitations commenced running, at the latest, as early as the 28th July, 1831, when the plaintiff Was in New York, and bought goods of Gascoignes, when they might have sued him. If a debt be barred by the statute of limitations, or the debtor be discharged from it by a proceeding in bankruptcy, a new promise made afterwards by him to pay it has been considered binding, on the ground that he was still under a moral obligation to pay it, though discharged from all legal obligation ; and being under a moral obligation, that formed a sufficient consideration in law to make the now promise binding. But as long as the original legal obligation to pay is in force, this principle will not apply.\u201d This language seems to be unambiguous and direct, and full up to the point. And although there may be some idiosyn-. crasy in the case which makes it peculiar and alone, that does not seem to have been present to the mind of the judge who delivered the opinion. It was doubtless understood by the profession as establishing a general rule. The point was again mooted in this court in Farley v. Kustenbader, 3 Barr, 418, in which Case v. Cushman was cited as authority. The court, however, ruled the cause on the ground that the alleged acknowledgment was not clear, distinct, and unequivocal, and said that it was not necessary to examine the other point, to wit, whether a promise made within the six years was sufficient to take the case out of the statute or not \u2014 no disapprobation of Case v. Cushman is there expressed. But it would seem that the court \u2014 as no opinion was expressed, but declined \u2014 was not unanimous. This case was not reported, however, when Morgan v. Walton was decided, and as it was ruled before I came on the bench, it was of course unknown to me. But the subject was considered in Forney v. Benedict, 5 Barr, 225, when Case v. Cushman, although not overruled, is shaken to its very foundation. The principle is established that the promise within six years has a sufficient consideration, because it may throw the plaintiff off his guard, and induce him to wait beyond the six years. The current of authority and the sense of the profession are strong against Case v. Cushman, as a general rule. It is left, therefore, as disposed of by Forney v. Benedict, 5 Barr, 225, and is accordingly overruled as it regards a promise within six years, and with it falls the dictum in Morgan v. Walton, expressly founded upon it, and on which the court below ruled the cause on hand. But in order to preserve as much of the statute as remains, the rule in Gilkyson v. Larue, reiterated in Morgan v. Walton, is inveterate. On another trial the plaintiff may perhaps bring himself within that rule.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Kuhns, for plaintiff in error.",
+      "Oowan, contrA"
+    ],
+    "corrections": "",
+    "head_matter": "HAZLEBACKER v. REEVES.\nAn acknowledgment of a debt within the six years takes the case out of the statute of limitations.\nIn error from the Common Pleas of \"Westmoreland.\nAssumpsit. Plea, the statute of limitations. The plaintiff gave evidence of the acknowledgment of the debt by defendant within six years after it accrued. The court said this did not take the case out of the statute.\nKuhns, for plaintiff in error.\nOowan, contrA\nOct. 16."
+  },
+  "file_name": "0258-01",
+  "first_page_order": 258,
+  "last_page_order": 260
+}

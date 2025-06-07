@@ -1,0 +1,59 @@
+{
+  "id": 964994,
+  "name": "Deed to bar an Estate tail",
+  "name_abbreviation": "Deed to bar an Estate tail",
+  "decision_date": "1850-04-06",
+  "docket_number": "",
+  "first_page": "146",
+  "last_page": "146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Pa. 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 560,
+    "ocr_confidence": 0.383,
+    "sha256": "ac88ca4ecf5d9b09d33abe32e91b8b08df7abffe5972bad48312712a68f265e9",
+    "simhash": "1:384d8a0365ecafb5",
+    "word_count": 108
+  },
+  "last_updated": "2023-07-14T19:17:11.914383+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Deed to bar an Estate tail."
+    ],
+    "opinions": [
+      {
+        "text": "J. W. Asiimead stated to the court, that a deed to bar an Estate tail had been executed some years before and had been recorded in Delaware county, in which the land lay, within six months after its execution, but that no motion had been made to enter it on the records of the Supreme Court, in conformity to the second section of the act of 16th of January, 1799, which is entitled an act to facilitate the barring of entails. Pie moved that the same be entered on the records of the court, which was directed to be done.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Deed to bar an Estate tail.\nApril 6."
+  },
+  "file_name": "0146-01",
+  "first_page_order": 148,
+  "last_page_order": 148
+}

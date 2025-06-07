@@ -1,0 +1,102 @@
+{
+  "id": 953556,
+  "name": "McCulloch v. Norris",
+  "name_abbreviation": "McCulloch v. Norris",
+  "decision_date": "1847-05-25",
+  "docket_number": "",
+  "first_page": "285",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts & Serg. 214",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns. 188",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376258
+      ],
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0188-01"
+      ]
+    },
+    {
+      "cite": "10 Johns. 243",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135892
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0245-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 290,
+    "char_count": 4116,
+    "ocr_confidence": 0.397,
+    "pagerank": {
+      "raw": 8.480243508190428e-08,
+      "percentile": 0.4856769641782204
+    },
+    "sha256": "5cfe99954189ba49b5652eaec83156e1c459e12e1e9aac7290cca64e1890dae7",
+    "simhash": "1:3d351db23b5c4850",
+    "word_count": 718
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McCulloch v. Norris."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nIt is unnecessary to inquire whether an agreement not to plead the statute of limitations is to have a restricted or an extended interpretatioh: whether it is to have the effect simply of a new promise to pay the debt within six years, or the effect, as contended here, of sustaining an action on the original promise, against the debtor\u2019s executor, instituted thirteen years after the date of the agreement, and nine years after his testator was laid in his grave, when the evidences and circumstances of the original transaction were probably lost or forgotten. The question will be a difficult one when it will have to be met: at present, we are not compelled to decide it. To avail himself of the agreement, it was necessary for the plaintiff to state it specially in his replication. The defendant pleaded that his testator had not assumed within the six years, and the plaintiff, instead of confessing the matter of the plea and avoiding it, went directly to issue on it; and as the actual assumption within the alleged period was the point before the jury, it is not strange that he failed in his proof. As the court did not, however, rule the cause on the nature of the issue presented by the pleadings, it has been suggested that the judgment might be reversed on the actual ground of the decision, because, to have put it on the true ground, would have warned the plaintiff of his slip, and enabled him to amend his replication so as to give him the benefit of the agreement. But it is the business of the parties to look to the pleadings, and not of tbe court to point out defects. Besides, we are here to decide as tbe pleadings are: not as they might have been. The assignment of error, therefore, is very plainly groundless. ' Judgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Hale and Hale, for plaintiff in error.",
+      "Parker and McAllister, contra."
+    ],
+    "corrections": "",
+    "head_matter": "McCulloch v. Norris.\nTo a plea of non assumpsit infra sex minos, the plaintiff replied, that defendant did assume within six years. The cause of action having accrued more than six years before suit brought, an agreement not to plead the statute cannot be given in evidence' under the pleadings.\nAnd though the court rejected the evidence, for reasons unconnected with the state of the issue, the judgment will not be reversed, to permit the plaintiff to alter his replication.\nIn error from Mifflin county. (Special court.)\nMay 25.\nThe plaintiff declared in assumpsit, and the defendant pleaded non assumpsit infra sex annos; to which plaintiff replied, \u00abthat he did assume within six years.\u201d\nOn the trial, the plaintiff proved sales of land by himself as sheriff, to defendant\u2019s testator, for which a deed had been acknowledged in 1827. The action was brought in 1845. The plaintiff then offered a written agreement, dated in 1832, signed by defendant\u2019s testator, which, reciting the sales, witnessed that he thereby agreed that the statute of limitations should not be a bar against McCulloch\u2019s recovering the amount of the sales, and having the sales settled as though there were no statute of limitations to interfere ; and he did thereby make the same agreement as to all other cases where the said McCulloch held deeds for property sold, by him as sheriff, to the testator.\nThe court (Hepburn, J.) said that there being no offer to follow this by proof, taking the case out of the statute, and this being without consideration, they rejected it as insufficient to entitle the plaintiff to a verdict.\nHale and Hale, for plaintiff in error.\nThis written agreement should have gone to the jury; Hicks v. Burhans, 10 Johns. 243; 14 Johns. 188, 378, for the statute is a right which may be waived by the party entitled to its benefit, as much so as costs on appeal, inquisition of condemnation, &e. It is settled, that courts of equity will not permit the statute to work injustice. Story Eq. \u00a7 1521; Chitt. on Cont. 47.\nParker and McAllister, contra.\nThe evidence showed a nudum factum, and though testator himself might have been held to the waiver, it could not be extended to his executors. The evidence was not pertinent to the issue; it was matter of estoppel, if any thing, and should have been pleaded specially. 6 Watts & Serg. 214."
+  },
+  "file_name": "0285-01",
+  "first_page_order": 285,
+  "last_page_order": 287
+}

@@ -1,0 +1,201 @@
+{
+  "id": 960608,
+  "name": "King's Appeal",
+  "name_abbreviation": "King's Appeal",
+  "decision_date": "1848-09-18",
+  "docket_number": "",
+  "first_page": "124",
+  "last_page": "128",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 124"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Mass. Rep. 43",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 63",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483317
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0063-01"
+      ]
+    },
+    {
+      "cite": "5 W. 193",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Mass. Rep. 82",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2055280,
+        2055321
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/15/0080-01",
+        "/mass/15/0081-01"
+      ]
+    },
+    {
+      "cite": "5 Conn. Rep. 522",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Ala. Rep. 319",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8495834
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/3/0319-01"
+      ]
+    },
+    {
+      "cite": "5 Wh. 125",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0125-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 49",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Verm. 120",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8544970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/2/0120-01"
+      ]
+    },
+    {
+      "cite": "24 Wend. 389",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wend. 553",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3517401
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/2/0553-01"
+      ]
+    },
+    {
+      "cite": "6 Mass. Rep. 243",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Penn. Rep. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Wend. 396",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 68",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 432,
+    "char_count": 9424,
+    "ocr_confidence": 0.41,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.33809384253676567
+    },
+    "sha256": "547bcdcc8d71ed4fd571e2faa36b53c0a3031bb241fb0cb6abda5fc79e92d05b",
+    "simhash": "1:f2a9aea2b05345bb",
+    "word_count": 1660
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "King\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nLet the judgment be affirmed, on the lucid and accurate opinion given by the President of the District Court.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Dunlap, for appellant,",
+      "Woods, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "King\u2019s Appeal.\nA separata execution against one partner was left with the sheriff, and afterwards a joint execution issued against the firm. The sheriff returned on all the writs that he had sold the property of A. and B. (the two partners), for, &o.: the return shows that the joint property was sold, and hence the separate execution-creditor cannot come on the fund until the joint creditors are paid.\nAppeal from the District Court of Allegheny.\nGriffiths and Dixon were partners. _ On the 27th July, a fieri facias against Griffiths was left with the sheriff by King. On the same day Church & Carothers left with the sheriff a fieri facias against all the members of the firm. On the 30th July, Faber left a similar fieri facias.\nThe sheriff returned on each of the writs, \u201c Levy made on personal property of George Griffiths, and made by sale of the same $234; also levy made on personal property of Griffiths & Dixon, and made by the sale of the same $2,224.39, in all the sum of $2,458.85, which I have applied to the payment of Church & Carothers\u2019s execution $924, to costs $67, and paid the balance, $1,466, into court.\u201d\nThe proceeds of the separate property were paid to King, and Church & Carothers\u2019s execution was also paid without dispute. The question was, whether King was entitled, as against Faber, to be paid in full out of the fund in court.\nHepburn, P. J., in giving judgment, said:\u2014\n\u201c It is contended on the part of Alexander King, the separate creditor, that his execution being prior in time and the first lien, and it being the duty of the sheriff to seize and sell under it the separate interest of Griffiths in the partnership effects of the firm, and the sheriff having actually reported a sale, it must be presumed that the sheriff did his duty by selling on the process in his hands consecutively in the order of their date, and that such sale was of the separate interest of the defendant Griffiths, and that his creditor is therefore entitled to the proceeds.\n\u201c On the part of E. and F. Faber, the joint creditors, it is contended that the sale reported by the sheriff is distinctly that of the partnership property of Griffiths & Dixon, and this fact being stated, there can be no presumption to the contrary; and that the sheriff having in his hands joint executions sufficient to absorb the entire partnership effects, the law would not require him to do so nugatory an act as to sell the separate interest of one of the partners, when it was clear his interest was of no value. \u25a0\n\u201c The creditor of any one partner may take in execution that partner\u2019s interest in all the tangible property of the partnership, and may sell the undivided interest of his debtor. The purchaser becomes a tenant in common with the other partner, and takes the property in the same manner as the debtor himself had it, subject to the partnership debts and to the rights of the other partner: Collyer on Part. 472. These principles are also fully established by numerous authorities cited at the argument. It will be sufficient to refer to Taylor v. Henderson, 17 S. & R. 456; Knox v. Summers, 4 Yeat. 477; 8 W. & S. 68; 24 Wend. 396; 2 Johns. C. Rep. 548; 9 Greenl. 28.\n\u201cIf, then, the separate creditor of an individual partner can levy and sell only the separate interest of his debtor in the partnership effects, subject to the partnership debts, it follows very clearly, that the partnership creditors can claim nothing out of the proceeds of such a sale. This doctrine is fully recognised in Doner v. Stauffer, 1 Penn. Rep. 198, where it is said that a separate execution-creditor sells, not the chattels of the partnership, but the interest of the partners encumbered with the joint debts; and the joint creditors have therefore no claim to the proceeds: See also 1 Pet. O. C. Rep. 460, 465.\n\u201cIf the property sold on King\u2019s execution was only the separate interest of his debtor, Griffiths, there could be no controversy between him and the joint creditors, and he would be entitled to the money. If the money in controversy is the proceeds of the joint property of Griffiths & Dixon, made on the joint executions against them, then, just as clearly, the separate creditor is excluded, and the money has been rightly distributed by the auditor.\n\u201c The whole difficulty in this case arises from the sheriff\u2019s return to the execution of the separate creditor. On that he has reported a sale of the partnership property, amounting to $2,224. That execution was not a lien upon the partnership effects; and under it, the sheriff could no more seize and sell that property, than he could the property of an entire stranger to the proceedings. But the sheriff having reported the sale, what is the effect of his return ?\n\u201c The counsel for the creditor of the separate partner contends, upon the authority of Doner v. Stauffer, that it must be construed as a return that he had sold what he was entitled to sell, the separate interest of the debtor, and that the separate creditor is therefore entitled.to the money. But we think that case establishes no such principle. There the sheriff had separate executions against each of the individual partners, but he had no joint execution against the partnership property. His sale, therefore, was of the separate interest of the several partners; and the court held that the separate creditors were entitled to the proceeds of the sale, to the exclusion of the joint creditors. In the case before us, if the doctrine contended for by the separate creditor, that the $2,224 must be considered as the proceeds of Griffiths\u2019 interest, then what becomes of the return to Faber\u2019s execution, where the sheriff also reports a sale of the partnership property to the same amount. If the sale of Griffiths\u2019 interest produced $2,224, and the sale of Griffiths & Dixon\u2019s interest produced the same sum, then it follows that but one-half the amount produced has been paid into court, But manifestly the sheriff sold, under all the writs, the entire partnership stock, at one operation, and has, by his returns, ascertained the proceeds of the partnership property; and we do not think that we are liberty to fix another amount.\n\u201cIf the separate property of Griffiths was. sold to any amount, or if the sheriff was bound to sell it, the remedy of the creditor is against him, and not against the fund in court.\n\u201c But has the sheriff done the separate creditor any wrong by selling the entire partnership effects, under the joint executions, without first selling the separate interest of the individual partner, upon the prior execution against him ?\n\u201cThe joint executions, as the event proves, were sufficient to absorb the entire partnership stock. Then where was the interest of the individual partner, or what could the sheriff have sold or made on the separate execution? If he had sold, could he have delivered possession to the purchaser, or was he not bound to retain it in satisfaction of the joint executions still in his hands ?\n\u201cWe are not without authority on this point. In Pierce v. Jackson, 6 Mass. Rep. 243, it was decided, * that an attachment of the goods of the. partnership, by a creditor of one of the partners, is not valid against an after attachment of the same goods by a partnership creditor.\u2019\n\u201cThe ease of Dunhams. Murdock, 2 Wend. 553, is precisely in point. There the court decided, that \u2018 an action for a false return woiffd not be against a sheriff, for returning an execution \u2018 nulla Iona,\u2019 when the property of a firm was levied on by virtue of an execution against one of its members, and previous to a sale thereon, an execution against the firm came to the hands of the sheriff; under which the property levied on by virtue of the first execution was sold and exhausted.\u2019\n\u201c This doctrine may be illustrated by the case of a mortgage, when the sheriff has in his hands a venditioni exponas, for the sale of real estate, bound by a mortgage, which is the first encumbrance. Afterwards, a levari facias upon the mortgage is placed in his hands. Is he bound to sell the equity of redemption on the venditioni exponas first, or may he sell the property out and out, upon the levari facias, and so that the proceeds may be distributed according to priority of lien? So in the sale of partnership pro-' perty, under joint execution. The sale of goods levied on as the property of a firm, should be of the entire partnership property; and the separate execution-creditor would be entitled to the surplus, if any were left, after payment of the partnership debts. This is precisely what has been done in this case; and we think the partnership creditors are entitled to the money, and as there is no surplus, the separate creditor can have nothing. The distribution of the auditors, in this particular, is therefore approved.\u201d\nDunlap, for appellant,\ncited 24 Wend. 389, 403; 2 Verm. 120; 10 Ib. 165; 2 Hill, 49; 4 Ib. 161; 5 Wh. 125; 2 McC. 478; 3 Ala. Rep. 319; 3 B. & P. 289; 3 Deo. 50; 5 Conn. Rep. 522; 2 Johns. C. Rep. 548; Colly on Part. \u00a7 822; 15 Mass. Rep. 82; Story on Part. \u00a7 358; 5 S. & R. 96; Doug. 650.\nWoods, contra,\ncited 2 Wend. 553; 5 W. 193; Pet. C. C. 460; 8 W. & S. 63; Baldw. 534; 6 Mass. Rep. 43; 9 Greenl. 28; Cowp. 445; 4 Ves. 396; 2 Ves. & B. 300; 3 B. & P. 288; 7 Barr, 165.\nSept. 18."
+  },
+  "file_name": "0124-01",
+  "first_page_order": 124,
+  "last_page_order": 128
+}

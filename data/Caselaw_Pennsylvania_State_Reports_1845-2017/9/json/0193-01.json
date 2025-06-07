@@ -1,0 +1,76 @@
+{
+  "id": 960637,
+  "name": "Bears v. Ambler",
+  "name_abbreviation": "Bears v. Ambler",
+  "decision_date": "1848-09-27",
+  "docket_number": "",
+  "first_page": "193",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. & S. 530",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852640
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0530-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 170,
+    "char_count": 2178,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 4.4294537584809935e-07,
+      "percentile": 0.9207805165474898
+    },
+    "sha256": "cd5d1ccd71a3e187f99650033f5910eebbca77902064efd6db9d461c48f26ce4",
+    "simhash": "1:69cf5f1f8fb5a9cb",
+    "word_count": 400
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bears v. Ambler."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nThe laAv of the case is accurately stated in the charge. A tenant or occupier is always liable for an injury caused by his neglect, irrespective of any contract between him and the landlord, or owner of the property. So far as the public is concerned, it is nothing to them who may be ultimately liable for repairs. It is the duty of the tenant or occupier in the first instance to keep the ways in such order as not to endanger others, whatever may be his agreement with the landlord or owner of the premises. And this imposes no hardship on him of which he can justly complain, as the landlord and owner is liable on his contract, or his expenditure may be deducted from the rent. Third persons have no means of ascertaining their agreement; moreover the rule of law is, that in the absence of any contract to the contrary, the tenant is bound to keep the premises in repair: Long v. Fitzsimmons, 1 W. & S. 530. The tenant always; the landlord may\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bears v. Ambler.\nThe tenant in possession is liable for an injury resulting from the grate oyer a yault under the highway in front of his premises being out of repair ; and the landlord is not liable if the premises were let in good repair, and he was not bound by the lease to keep them in repair.\nIn error from the District Court of Allegheny.\nThe defendant, Bears, Avas the lessee in possession of a tavern in Pittsburgh, and the defendant, Weaver, was the lessor. It did not appear that there were any covenants. in the lease respecting repairs. There was a vault under the sidewalk on the public street in front of the premises, into which there was an opening, covered by a grate. One of the bars of the grate was broken during the term. The plaintiff was walking along the street in the evening, when her foot slipped through the broken grate, and she was injured. Eor this the action was brought.\nHepburn, P. J., instructed the jury that the tenant was liable, but not the landlord, for it was shown that the premises were in good repair when demised, and it did not appear he was bound by his covenants to repair.\nThe defendant, Bears, excepted, and sued out this writ of error.\nSept. 27."
+  },
+  "file_name": "0193-01",
+  "first_page_order": 193,
+  "last_page_order": 194
+}

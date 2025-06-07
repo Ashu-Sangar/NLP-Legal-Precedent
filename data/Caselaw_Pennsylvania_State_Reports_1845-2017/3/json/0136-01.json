@@ -1,0 +1,266 @@
+{
+  "id": 400657,
+  "name": "Pierce v. McKeehan",
+  "name_abbreviation": "Pierce v. McKeehan",
+  "decision_date": "1846-06-15",
+  "docket_number": "",
+  "first_page": "136",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 136"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Whart. 500",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835017
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0500-01"
+      ]
+    },
+    {
+      "cite": "7 Watts & Serg. 373",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481840
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0373-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle, 203",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wharton, 485",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833435
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0485-01"
+      ]
+    },
+    {
+      "cite": "3 Watts & Serg. 377",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle, 437",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0437-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle, 226",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820577
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0226-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch. 441",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1178214
+      ],
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/2/0441-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 313",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850947
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0313-01"
+      ]
+    },
+    {
+      "cite": "7 Watts & Serg. 374",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 282",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0282-01"
+      ]
+    },
+    {
+      "cite": "11 Serg. & Rawle, 377",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1812833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/11/0377-01"
+      ]
+    },
+    {
+      "cite": "4 Whart. 501",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Whart. 505",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts & Serg. 280",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854639
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0280-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 58",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Serg. & Rawle, 175",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801920
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/4/0175-01"
+      ]
+    },
+    {
+      "cite": "3 Watts & Serg. 373",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854636
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0373-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle, 437",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/3/0437-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 684,
+    "char_count": 14471,
+    "ocr_confidence": 0.533,
+    "pagerank": {
+      "raw": 1.115799758619781e-07,
+      "percentile": 0.5721847103827289
+    },
+    "sha256": "da9ab023f1f6ac8e966abffd777f8309908db8d932adb3289efaa5318a42a002",
+    "simhash": "1:bf10f2bfbc8dd64f",
+    "word_count": 2539
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pierce v. McKeehan."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nIn the Harrisburg Bank v. Tyler, 3 Watts & Serg. 373, the declarations of a' deceased person, that he had invested certain trust moneys in stock for his children, were held to be admissible, on the ground, that the sacrifice of his interest involved in them was an equivalent for his oath. And in Gibblehouse v. Stong, 3 Rawle, 437, a kindred principle was carried still further, by admitting the declarations of one who had held the legal title to land, that he was a trustee for another, who had paid the purchase money, on the ground that the admissions of a grantor, when in possession, are not more competent against himself than they are against his grantee, who stands in his place. Now, that is in principle the case before us. Andrew, the grantor, admitted, that he had bought the land afterwards conveyed by him to the defendants, with money bequeathed o him for the maintenance of his brother Joseph; and as his admissions would have been competent to impair his grantee\u2019s title to the land, they are competent to impair the securities given for the price of it. But what was put forth as a defence to the legal plaintiff\u2019s recovery, for the benefit of his assignees to the use of his creditors, is strangely neither, more nor less than the supposed right of Joseph\u2019s trustee to bring the action in the name of Andrew, whom he succeeded in the trust! Between competing claimants such as these it is not so easy to decide, but against the legal plaintiff\u2019s equitC \u2019.e assignees, standing as they do in his place, his declarations are as competent as they would be against himself.\nAs to the points, the first of them was settled when the cause was here before; and I dismiss it without,further remark.\nThe second is founded on an assumption, that assignees for the benefit of releasing creditors are to be protected as purchasers for value. Conceding it for the moment, the consequence attempted, would not follow, for the assignee of a bond tabes it subject to the equities between the original parties. Such is the principle of Bury v. Hartman, 4 Serg. & Rawle, 175, and other cases since. But, it w'ill be said, the actual contest is not betwmen an assignee and the obligor, but between an assignee and a party who has succeeded to the place of an assignor, as a trustee of the legal title. Strange contest in such an action, and with such an issue as is formed by the pleadings!!! But between these competitors for the right to sire, the consequence of the principle is the same. The equitable assignee of a bond or other chose in action takes no more than the equitable ownership ; and an equitable assignment is an executory agreement or declaration of trust, which, a chancellor exercising a sound discretion will execute or hot, according to the circumstances of the case. Then granting that McAlister, the personal trustee of Joseph, stands in the place of Andrew, whom he succeeded in the trust, yet a chancellor wmuld not execute Andrew\u2019s declaration of trust in fa- \u25a0 vour of his own creditors, at the expense of the antecedent trust for his brother. Prior in tempore potior injure, would be a conclusive answer to them. But the purchase/of an equity stands or falls by the title of him from whom he'purchased it; and as the assignees stand, in regard to these bonds, in the place of Andrew, a chancellor would compel them to execute the original trust, at the instance of Joseph, or his leg^l representative, as readily as he would compel Andrew himself to execute it. In equity, therefore, the money secufed by the bonds, dr so much of it as may be necessary for Joseph\u2019s' support, belongs to his trustee, who may yet have trouble, however, in reducing it to possession. We have heretofore said, that ,to trace the equitable title from the legal plaintiff, is to lard the declaration with impertinences, and that the legal'parties are the legitimate litigants at the trial of the title. When the money has been recovered; the right to it may be litigated between legal and equitable claimants of it; not,- however, in the action to bring the money into court, but in a collateral issue, should the court think proper to direct it. It is said,;that these questions were raised out of their place by agreement, andif the defendant McKeehan was a party to it, all may be well; if not, the claimant who has defeated the recovery may find himself in' an awkward predicament, in being 'compelled to encounter ^ plea'of former recovery between the same parties, when he comes to sue in the name of the obligee, to his particular use. - By that, however, he would be justly punished for having despised the course pointed out in Armstrong v. Lancaster, 5 Watts, 58; and it is proper tp stale, that no agreement for a defence so barbarous as the present will hereafter be respected.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Walls and Gaullagher, for plaintiff in error.",
+      "Graham and Biddle, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Pierce v. McKeehan.\nA., by her last will, gave and bequeathed thus: \u201c I give and bequeath to my son B., and to his heirs and assigns, all the residue and remainder of my estate, of whatsoever kinds the same may be,'Subject to the maintenance of my son Joseph, for and during his natural life.\u201d B., who was also the executor, having received money of the said estate, purchased a tract of land, which he afterwards sold to C., and took from him two bonds for \u00a7891 each, to secure the payment of part of the purchase money. Some time after- ' wards, B., being indebted, made an assignment for the benefit of his creditors. Held, that in an action brought to recover the amount of the said bonds, in the name of B., for the use of his assignees, the declarations of B., made whilst he was the owner of said lands, that he had bought the same with mohey bequeathed to him for the maintenance of his brother Joseph, were evidence against B.,'the legal plaintiff, and also against his equitable assignees, who stood in his place.\nThe assignees of'B. having taken his place in regard to the said\u2019 bonds, a chancellor would compel them to execute the original trust, at the instance of the cestui que trust, or his legal representative, as readily as he would compel B. himself to execute it.\nError, to tbe Common Pleas of Cumberland county.\nJune 7 and 8. Andrew Pierce, for the use of A. D. McBride and John McClay, his assignees, now for the use of E. Bradford Todd, assignee of said Andrew, plaintiff in error and plaintiff below, against \u2019 Robert McKeehan. This case was before the court on a former occasion, and is reported in 3 Watts & Serg. 280, where all the material facts are so fully stated, that a statement of them here is deemed unnecessary. The controversy in the court below was between the assignees of Andrew Pierce and the trustee of Joseph Pierce; and the question was, which of these parties was entitled to the amount of the two bonds ?\nOn the trial, before Hepburn, President, the defendant offered to prove by Paul S. Pierce and Alexander Kerr, that Andrew Pierce, the grantor, told them that he had bought the land after-wards conveyed by\u2019him to the defendant, with money bequeathed to. him for the maintenance of his brother Joseph. This evidence was objected to by the plaintiff, on the ground that Andrew Pierce was in full life, and a competent witness; but that his declarations were not competent evidence. The evidence was admitted; and this decision of the court constituted plaintiff\u2019s first and second bills of exceptions.\nThe witnesses were then examined, and proved the facts, as stated in the offer of the defendant.\nThe counsel for the plaintiff prayed the court to instruct the jury on the following points, and to file their charge of record:\u2014\n\u201c1. That the evidence in the cause does not in law establish, that the bonds now in suit and the money payable on them are a trust fund, such as may be pprsued by the trustee of Joseph Pierce.\n\u201c2. That the assignment of Andrew Pierce, of the 22d June, 1838, to McBride and McClay, for the benefit of such creditors as should release the said Andrew Pierce within sixty days, the inventory of the property assigned, (including the bonds in suit,) taken the 14th July, 1838,. and the subsequent release of the creditors, of the 19th July, 1838, vested in them aright to the-money secured by these bonds; and they were thereby purchasers for a valuable consideration without notice of the alleged trust, and are therefore now entitled to recover.\u201d\nThe court charged, that the plaintiff\u2019s first point was settled by the Supreme Court, when this cause was there on a,former occasion, and that the court below were reversed for deciding this very question as the plaintiff now asked it to be decided. On the second point, they instructed the jury thus: \u201cThe case of Knowles v. Lord, 4 Whart. 505, is a case in point. That case, like the present, was an assignment for the benefit of creditors, some of which were preferred, and some required to release within a certain time. Mr. Justice Sergeant, in delivering the opinion of the court, says, that \u2018there is nothing in the case which places the assignees in a better situation in respect to these goods than their assignor.\u2019 Again he says, \u2018 the defendants are not purchasers either in their own rights or as representing creditors who may have released.\u2019 He says it would be a solecism to call such a transaction, a sale, or such a grantee, a purchaser, or to apply these terms to the creditors who accept the conditions, and release their claims upon the grantee. We rule the law of the case against the plaintiff. As to the facts there seems to be no dispute. The question for the jury is, did Andrew Pierce, who was made a trustee for Joseph Pierce by his mother\u2019s will, invest the money he received as such trustee under .the will of his mother, in the farm he sold afterwards to McKeehan, and are these bonds now in suit a part of the purchase money? These facts are not controverted by the plaintiff\u2019s counsel in their argument, yet they do not agree to them. If you are satisfied from the evidence of those facts, then you must inquire if those bonds are more than is necessary for the support of Joseph under his mother\u2019s will. You will take into consideration Joseph\u2019s situation as described by the witness; a fair and reasonable allowance should be set apart for him. If you believe the whole of these bonds should be appropriated for that purpose, your verdict should be for the defendant. If, however, you believe they would amount to more than is necessary, your verdict should be in favour of the plaintiff for the surplus.\u201d\nThe plaintiff excepted to the charge, and removed the record to this court, where he assigned the following errors:\u2014\n\u00ab1. The court erred in admitting the declarations of Andrew Pierce, as testified to by Paul S. Pierce.\n\u201c2. They erred in admitting the declarations of Andrew Pierce, as testified to by Alexander Kerr.\n\u201c 3. They erred in their instruction to the jury on the first point submitted by plaintiff. , ,\n\u201c 4. They erred in their instruction to the jury on the second point submitted by plaintiff.\u201d\nWalls and Gaullagher, for plaintiff in error.\nAn assignment in trust for the benefit of creditors, who shall release their claims within a stipulated time, is for value; and such releasing creditors are purchasers for a valuable consideration. In support of this position, they cited 4 Whart. 501; 3Whart.493; 11 Serg. & Rawle, 377; 1 Rawle, 282; 7 Watts & Serg. 374; 10 Watts, 313; 4 Watts\u2019s Cir. Co. Rep. 235; 2 Johns. Ch. 441, 479.\nGraham and Biddle, for defendant in error,\nas to the admissibility of the declaration of Andrew Pierce, cited Greenleaf\u2019s Ev. secs. 171, 190, 191; Ibid. 108, 109; 2 Starkie\u2019s Ev. 40; Deardorff & Hildebrand, 2 Rawle, 226; Gibblehouse v. Stong, 3 Rawle, 437.\nOn the 1st point, that the evidence in the cause does not in law establish, that the bonds now in suit and the money payable on them are a trust fund, such as may be pursued by the trustee of Joseph Pierce, they cited Pushman v. Tilleton, 3 Ves. jun. 7; 1 Powell on Dev. 355; 2 Sch. & Lef. 189; Bank v. Tyler, 3 Watts & Serg. 377; Willis on Trustees, 185; Lewin on Trusts, 201, 202, 610, 686 ; Twelves v. Williams, 3 Wharton, 485 ; Wolf v. Eichelberger, 2 Penna. Rep. 346 ; Pierce v. McKeehan, 3 Watts & Serg. 280.\nOn the 2d point, that the assignment to McBride & McClay, under the circumstances, made the purchasers for a valuable consideration, they contended, that it was settled by the cases of Wolf v. Eicherger, 2 Penna. Rep. 346; Krause v. Beitel, 3 Rawle, 203; Frantz v. Brown, 1 Penna. Rep.; 7 Johnson's Ch. 57; Haggerty v. Palmer, 7 Johnson\u2019s Ch. 4.37; Willis on Trustees, &c., that the interest of the assignees is exactly that'\u00ae! the assignor, as it stood affected by countervailing equities at the time of the assignment; that they- are not purchasers for value. The circumstance of some of the creditors releasing'* did not alter the rule. They released, to come in under the distribution^ the assets. The consideration for doing 'so, was the estate assigned, as it stood affected by countervailing equities in the hands of the assignees. The cases of Twelves v. Williams, 3 Whart. 485; and Vandike v. Crist, 7 Watts & Serg. 373, do not sustain the position\u2019 of the plaintiff in error. The point really decided is against it... In, both it is held, that an assignee is not a purchaser for value; and although it is said,. \u201c'that creditors are not bound by .the assignment, till they have acceded to it, by an acceptance of its conditions, and that till then they have gained no vested interest in it;\u201d yet this is not to be construed so as to change the assignee, a volunteer, into a bona fide purchaser, but refers to the effect of an acceptance of the conditions of an assignment, on the creditors themselyes. The very point, however, was ruled against the plaintiff in error, when this case was formerly before the Supreme Court. Pierce v. McKeehan,'3 Watts & Serg. 280.\" The court below had instructed the jury, that, the plaintiff could not recover, by which the question, whether the assignees were purchasers for value, was fairty before this court; and the arguments of counsel, and opinion delivered, show, that it was decided they were not. Again, Lord v. Knowles, 4 Whart. 500, is-similar in all its features., The defenc\u00e9'there was,that the assignees were bona fide purchasers. The point was made and argued, and it was there too decided, they were not purchasers for value, are decisions, not dicta, and one of the cases, this very case.'.\nJune 15."
+  },
+  "file_name": "0136-01",
+  "first_page_order": 134,
+  "last_page_order": 139
+}

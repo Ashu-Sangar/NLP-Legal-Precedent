@@ -1,0 +1,79 @@
+{
+  "id": 992178,
+  "name": "Borough of Sewickley",
+  "name_abbreviation": "Borough of Sewickley",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "80",
+  "last_page": "80",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 80"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 281",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0281-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 110,
+    "char_count": 1329,
+    "ocr_confidence": 0.457,
+    "pagerank": {
+      "raw": 2.398856006524641e-07,
+      "percentile": 0.7986618138740907
+    },
+    "sha256": "c29f2eec212825ca2e80614250caeaf47bb477736c0606a69d62604f1fa39f21",
+    "simhash": "1:bb7d24b58815d138",
+    "word_count": 225
+  },
+  "last_updated": "2024-02-27T22:20:12.272922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Borough of Sewickley."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nThe case of the Borough of West Philadelphia, 5 W. & S. 281, was ruled on the Act of Assembly of the 1st April 1834, the first section of which limited the powers of the Quarter Sessions, to the incorporation of \u201c any town or village within their respective jurisdictions, containing not less than three hundred inhabitants.\u201d But by the 21st section\u2019of the Act of 3d April 1851, the Quarter Sessions have power to incorporate boroughs without regard to the population thereof, and this case arises under the latter act. It is impossible to doubt, that the Court of Quarter Sessions has power to incorporate a borough of the dimensions of Sewickley, and that is all we are called on to decide. The soundness of the discretion exercised, is not a subject of review on certiorari.\nThe decree is affirmed. .",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Hamilton, for the exceptants.",
+      "White, Penny, and Sterrett, for the petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "Borough of Sewickley.\nThe Courts of Quarter Sessions have power under the Act of 3d April 1851, to incorporate a borough without regard to its population. And the soundness of the discretion exercised by them, is not the subject of review.\nCertiorari to the Quarter Sessions of Allegheny county.\nHamilton, for the exceptants.\nWhite, Penny, and Sterrett, for the petitioners.\nThis( case was decided on the 15th December 1853. See Borough of Little Meadows, 11 Casey 335."
+  },
+  "file_name": "0080-01",
+  "first_page_order": 80,
+  "last_page_order": 80
+}

@@ -1,0 +1,91 @@
+{
+  "id": 998508,
+  "name": "Paxson's Appeal",
+  "name_abbreviation": "Paxson's Appeal",
+  "decision_date": "1865-03-06",
+  "docket_number": "",
+  "first_page": "195",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Pa. 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Wright 502",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 455",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483409
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/8/0455-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 186",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 585,
+    "char_count": 13474,
+    "ocr_confidence": 0.483,
+    "pagerank": {
+      "raw": 1.1858135126459835e-07,
+      "percentile": 0.5901645231054011
+    },
+    "sha256": "0be085d301584e29e0e426a607f01f00631e432d528467d8d1eebe642632bc23",
+    "simhash": "1:2a0883fd20368f55",
+    "word_count": 2379
+  },
+  "last_updated": "2024-02-27T21:13:48.159806+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paxson\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nThompson, J.\nThe question in this appeal is single, and arises upon the sheriff\u2019s returns to the above-named executions. On each the return is levied on personal property subject to prior levies. Those prior levies are on executions in the names, respectively of Hill v. Devereaux, and Hancock v. Same. The 'property was returned sold on all the executions, and the money brought into court for distribution.\nThe appellant claimed priority of satisfaction of his executions on the ground that the prior levies, referred to in the returns on his writs, were never proper levies, the property, the barque St. James, not being in port at the time the levies bore date, nor for some time after; that there was no manual seizure of the vessel, and no power to make it until after the return days of these writs. To prove these facts, the auditor received testimony, as he says, without objection, and found the facts to be so. He accordingly reported distribution in favour of the subsequent levies ; but, on exceptions to his report for so doing, the District Court overruled him, and to the subsequent decree of distribution which awarded the money to the prior executions, these appeals are taken.\nThe levies on the appellant\u2019s executions were made after the return days of the first two. But this circumstance makes no difference; although the return days of the latter had transpired without a sale, still a sale might have been made upon them, either on the writs themselves or on venditionis: Dorrance\u2019s Administrator v. The Commonwealth, 1 Harris 160; Beale v. The Commonwealth, 7 Watts 186; Felton v. Patton, 8 W. & S. 455.\nThe appellant\u2019s position is that the sheriff\u2019s returns on the two earliest writs are not conclusive on him. This must be conceded. The law is undoubtedly that they are conclusive only in the cases in which they were made, and upon privies : Watson on Sheriffs 72; Sewell Id. 387; Lowry v. Coulter, 9 Barr 349. Many other authorities might be cited to the same effect, but are not needed. But the appellant\u2019s difficulty lies not in this, but in the necessity, in order to arrive at what he claims, to contradict the returns on his own writs. He insists on striking out in effect, by testimony aliunde, what is not extrinsic matter in his returns, namely, that the levies are subject to prior levies. If it were foreign or extrinsic matter, it would legally be no part of a proper return, and would prove nothing; but it is not so : it is the regular mode of stating the facts of the levy. Upon the principle of the authorities, conceded by the appellant\u2019s counsel, and which could not have been denied, viz., that the return on an execution is conclusive in the case, I see not what possible escape there is for the appellant from its force. His returns are levied subject to prior levies. May he contradict them ? If he may, the principle does not exist; but we know it does, and, as it does, he cannot evade it by any theory made apparent in these cases. I will admit that the rule seems to operate somewhat inequitably in this case; but there is no principle to dispense with it.\nIn Vandyke\u2019s Appeal, 5 Harris 271, there is some resemblance to the cases in hand, but it is more apparent than real. There the last four writs were levied on firm property subject to a prior levy on the property, as belonging to one of the partners. The auditor held these returns conclusive on the subsequent writs, and the court below affirmed the report; but this court reversed and sent back the case for a decree according to, the rights of the creditors, on firm and separate property. That case is not like this. In obedience to principle and authority, therefore, we must affirm the decree of the court below, and leave the party to his remedy by action, if there have been false returns made. Decree affirmed.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "P. Qarroll Brewster, for appellant.",
+      "J. Ooolce Longstreth and Parle White, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Paxson\u2019s Appeal.\nLevy made after return day of prior writs.\u2014 Contradiction of sheriff\u2019s return when inadmissible.\n1. Where the plaintiff in certain executions claimed priority in the distribution of the proceeds on the ground, that the levies on two executions previously issued, \u201csubject to which levies\u201d his own wore returned by the sheriff, were mere paper levies, as the defendant\u2019s property, a vessel, was not in port at the time they bore date, nor for some time after, and that there was no manual seizure of the vessel nor power to make it until after the return days of the prior writs: the mere fact that the levies on his own writs were made after the return days of the former writs was held immaterial: for though the return days had transpired without a sale, it might still have been made, either on the writs themselves or on venditionis.\n2. Though the sheriff\u2019s return on the prior executions that he had levied upon the vessel, was only conclusive on him and on privies, it was held that the plaintiff in the subsequent executions, to which the sheriff had returned \u201c levied subject to prior levies,\u201d could not contradict the returns: his remedy was by action, if false returns had been made.\nAppeal from the District Court of Philadelphia.\nThis wras an appeal, by Edward M. Paxson, from the decree of the court helow, distributing the fund arising from the sheriff\u2019s sale of the barque St. James, which was sold, under certain executions, as the property of James Devereux.\nThe facts of the case, as found by the auditor, were these:\u2014\nThe oldest writ, which was an alias fi. fa. for William Hill v. James Devereux (697, December 1862), was placed in the hands of the sheriff at fifty-five minutes past twelve o\u2019clock P. M., January 21st 1863. The second writ in order of time, an alias fi. fa., Hancock & Conrow v. Devereux (819, December Term 1862), was placed in the hands of the sheriff at forty minutes past one o\u2019clock P. M., January 26th 1863. 'These writs were returnable on the first Monday of the following February. On the 14th of February 1863, at forty minutes past eleven o\u2019clock A. M., a fi. fa., at the suit of Margaret Eastwick v. James Devereux, No. 84, March Term 1863, returnable to the first Monday of March following, was put in the hands of the sheriff.\nOn the 20th day of February 1863, at eleven o\u2019clock A. M., an alias fi. fa., at the suit of Elizabeth Savage v. James Devereux, No. 158, March Term 1863, returnable to the first Monday of March following, was placed in the sheriff\u2019s hands. George H. Earle, Esq., who represented said plaintiff, instructed the said sheriff to levy on the said barque St. James. In obedience to this instruction the sheriff levied on the barque on that day, took possession of her, and placed a watchman on board. Prior to that time the sheriff not only had not seized said barque in execution, but did not know she was in his bailiwick, and had received no instruction of information touching her.\nThe following writs, in the hands of the sheriff unreturned, were produced beford the auditor :\u2014\nJohn P. Brua v. James Devereux, alias fi. fa., No. 268 of March Term 1863, real debt $2178.58, put in sheriff\u2019s hands March 5th 1863, at 12.45 p. M.\nEdmund Carmody v. James Devereux, alias fi. fa., No. 267, March Term 1863, real debt $361.92, put in sheriff\u2019s hands March 5th 1863, at 12.45 p. M.\nThomas S. Darlang v. James Devereux, alias fi. fa., No. 303, March Term 1863, real debt $182.97 (cr. by-cash on ac. $150), put in sheriff\u2019s hands March 10th 1863, at 12.35 p. M. Endorsed on said writ, \u201c December 26th 1863. Stayed by order of plaintiff.\u201d\nHenry E. Simpson v. James Devereux, fi. fa., No. 327, March Term 1863, real debt $440.60, put in sheriff\u2019s hands March 13th 1863, at 2.54 p. m.\nWesley Rogers v. James Devereux, security, &c., alias fi. fa., No. 426, March Term 1863, real debt $547.39, put in sheriff\u2019s hands March 21st 1863, at 2 p. m.\nThe judgments of Eastwick and Savage were purchased by Edward M. Paxson, Esq., prior to the sheriff\u2019s sale of the bark. The writing of transfer to Mr. Paxson was in blank, i. e. a blank was left for the name of the transferree. This blank was subsequently filled with Mr. Paxson\u2019s name. Since the closing of the audit, to wit, February 26th 1864, these judgments were, by the filing of said writing of transfer \u201c marked to the use of Mr. Paxson.\u201d\nAfter Mr. Paxson had purchased said judgments he told his client, Mr. Grant,.\u201cif he desired to have them he might, because he did not want to occupy what could by any possibility be an antagonistic position to his.\u201d Grant & Son were claimants of this barque in a feigned issue, in which judgment had been rendered against them.\nUpon the authority of Duncan\u2019s Appeal, 1 Wright 502, the auditor decided that no levy was made upon the barque St. James by either the Hill writ or Hancock & Conrow writ. The barque was not in the possession, power, or view of the sheriff until after the return day of said writs, and therefore they never were liens on said barque, and have no .claim on the fund created by the sale of said barque. Objection was made to the Eastwick and Savage judgments by reason of the sale and assignment of them to Mr. Paxson. This objection was disregarded.\nThe residue of the fund, after payment in full of the judgments of Eastwick and Savage, was awarded to the Brua and Carmody judgments, to be distributed between them pro rata; the writs of fi. fa. upon said judgments being next in order in point of time, and were placed in the sheriff\u2019s hands at the same time. As has already been stated, these writs were not returned, but were still in the hands of the sheriff.\nAt the request of J. Cooke Longstreth, Esq., counsel for Mr. Hill, the auditor annexed, as part of his report, the sheriff\u2019s returns as endorsed on the above-mentioned writs :\u2014\n\u201cIn obedience to the within writ, I levied, January 21st 1863, on the personal property of the defendant. The said personal property so levied on was afterwards claimed by Richard Devereux and Patrick Gillespie, and Samuel Grant & Son, and after-wards rules were taken, interpleaders and feigned issues ordered by the court, and bonds filed to March Term 1863, Nos. 3 and 11. The last of the said feigned issues, to wit, March 1863, No. 11, is still pending and undetermined, and the first was decided against the claimants, viz., Samuel Grant & Son. I further certify that I sold certain of said personal property so levied on, to wit, the bark St. James (which has been claimed by Samuel Grant & Son), on the 27th day of August, for the net sum of $1476, after deducting expenses, said sale being made before either of said feigned issues had been determined; on a certain other writ of fi. fa. issued out of this county, to wit, Savage v. Devereux, March 1863, No. 168, on which a levy had been made, February 20th 1863, subject to the levy on the within writ, and to a levy on a certain other writ of fi. fa., to wit,' Biddle Hancock et at. v. Devereux, December Term 1862, No. 819, issued out of this court.\n\u201c So answers \u201c John N. Hagkgy, Deputy Sheriff.\n\u201cJohn Thompson, Sheriff.\u201d\nSimilar returns were made on the other writs, as to levies under writ of Mr. Hancock, on January 26th 1863, Mrs. East-wick on February 14th 1863, and Mrs. Savage on February 20th 1863, \u201csubject to prior levies.\u201d\nHe also presented the following paper to be made part of the auditor\u2019s report \u2014\n\u201c J. Cooke Longstreth appears for the purpose of stating that the execution of Hill v. Devereux, D. C., fi.fa., December Term 1862, No. 697, and the judgment on which it was issued, in both of which he is attorney for the plaintiff, still remain unpaid and unsatisfied. He does this without admitting that there ever was any money raised under that execution, and without waiving any claims he may have on other parties by reason of anything that occurred on or after the day of the teste of the writ. He appears in order that the auditor may not suppose that the debt has been paid, compromised, or satisfied, and to that the fund be distributed according to law.\u201d\nThe auditor made the following distribution:\u2014\nFund in court ....... $1308.00\nExpenses ...... $142.46\nTo Eastwick v. Devereux, prin\u2019l., int. and costs 341.92 \u201c Savage v. \u201c \u201c \u201c \u201c 174.19\n\u201c Carmody v. \u201c \u201c \u201c \u201c 191.17\nu Brua v. u \u201c \u201c u 458.26\n--$1308.00\nTo this report and distribution exceptions were filed for Mr. Hill, and for Messrs. Hancock and Conrow.\nOn hearing, the court below made the following decree:\u2014\n\u201c And now, April 16th 1864, exceptions sustained, and it is ordered and decreed that there be paid out of the fund in court to William H. Hill (alias fi. fa., December 1862, 697), the sum of $284.86, to Biddle Hancock et al. (alias fi. fa., December 1862, 819), $860.50, and to Margaret Eastwick (fi.fa., March 1863, 84), the balance of the fund in court.\u201d\nProm which decree Mr. Paxson appealed, averring here that the court below erred in awarding the fund or any portion thereof to the judgments of Hill v. Devereux, D. C., 697, December 1862, and Biddle et al. v. Devereux, 819, December Term 1862, it having been found as a fact by the auditor upon testimony received without objection, that the levy under each of the said writs was made after the return day thereof.\nAlso in not awarding the said fund to the judgment of Savage v. Devereux, (No. 168 of March 1863, D. C.), or so much thereof as may be necessary to pay said judgment, and in not dismissing the exceptions to the auditor\u2019s report.\nP. Qarroll Brewster, for appellant.\nJ. Ooolce Longstreth and Parle White, for appellees.\nMarch 6th 1865,"
+  },
+  "file_name": "0195-01",
+  "first_page_order": 197,
+  "last_page_order": 202
+}

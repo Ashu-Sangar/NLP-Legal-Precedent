@@ -1,0 +1,91 @@
+{
+  "id": 401897,
+  "name": "Playford v. The Commonwealth",
+  "name_abbreviation": "Playford v. Commonwealth",
+  "decision_date": "1846-10-31",
+  "docket_number": "",
+  "first_page": "144",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts, 39",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848377
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0039-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 449",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801935
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/4/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 135,
+    "char_count": 1331,
+    "ocr_confidence": 0.581,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.014870558090452377
+    },
+    "sha256": "74ee5e75ad661245eb9bdc4299b4e3f54787857a027ad8a7aa57ebd2bf4f2b6e",
+    "simhash": "1:bc80adb8dae912b7",
+    "word_count": 238
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Playford v. The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe point before us was ruled in Duncan v. The Commonwealth, 4 Serg. & Rawle, 449, on grounds whichpwe see no reason to question, and feel no disposition to disturb. Judgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Howell, for plaintiff in error.",
+      "Veech, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Playford v. The Commonwealth.\nSentence to pay costs of prosecution may be passed, though there be a general pardon after verdict.\nIn error from the Quarter Sessions of Fayette county.\nOct. 27. On the 4th of June, 1844, plaintiff in error was found guilty, on an indictment for an assault and battery. On the 1st of November, he was pardoned by the Governor. On the 2d of December, this pardon was filed in the court. On the 4th of June, 1845, the defendant.was sentenced to pay the costs of prosecution.\nThis sentence, after pardon, was the error assigned.\nHowell, for plaintiff in error.\nThere being no judgment, the costs as well as the other consequences of the crime, were included in the pardon, Duncan v. The Commonwealth, 4 Se'rg. & Rawle, 449. That it was- treated as if plead\u00e9d, is apparent, from the fact that there was no other punishment awarded for the,offence.\nVeech, contra.\nThere must be a plea of the pardon to entitle the-party to its benefit. 4B1. Com. 402 ; Bac. Abr. tit. Pardon, (G.) 2 ; 1 Ch. C. L. 466. The mere filing of the pardon does not make it part of the record. Hines v. Barnitz, 8 Watts, 39.\nOct. 31."
+  },
+  "file_name": "0144-01",
+  "first_page_order": 144,
+  "last_page_order": 145
+}

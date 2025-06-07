@@ -1,0 +1,103 @@
+{
+  "id": 970563,
+  "name": "Cummings versus Antes",
+  "name_abbreviation": "Cummings v. Antes",
+  "decision_date": "1852-11-24",
+  "docket_number": "",
+  "first_page": "287",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts 442",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842689
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0442-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 233",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rawle 130",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823576
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 512,
+    "char_count": 14016,
+    "ocr_confidence": 0.408,
+    "pagerank": {
+      "raw": 2.972940509014125e-07,
+      "percentile": 0.8504262217604193
+    },
+    "sha256": "a2b73661ca34b0fdd00f98b785d5dce0617892edd1500f5d5a0a4a888248f970",
+    "simhash": "1:aeedb45a469710fe",
+    "word_count": 2510
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cummings versus Antes."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court, filed was delivered by\nWoodward, J.\nWe have here articles of agreement for the sale and purchase of the Samuel Gibson survey, as 400 acres and allowance, at the price of $1000; a deed for the tract as 430 acres 10 perches and allowance; a covenant on the part of the vendees', Antes and Clark, to pay $13 the acre for any excess over 400 acres and allowance; and the bond of the vendoi\u2019, Cummings, with Gamble as his surety, for $3 the acre for each and every acre Venada and Vandyke should take out of the survey by the ejectments then pending. On this bond the present suit was brought. It turned out that Venada and Vandyke held 52 acres 65 perches of the survey, and that there remained to Antes and Clark 400 acres 72 perches. The question now is, have Antes and Clark a right to receive $3 the acre for the quantity taken off by Venada and Vandyke ? The Court below held that they were, and directed a verdict for them for the full amount of their claim.\nThe words of the bond are very express, and would abundantly justify the conclusion of the Court if taken alone. \u25a0 But can they be taken alone ? It is part of the case that the deed was delivered on the day of the date of the bond, and the covenant of the plaintiffs is of the same date. We must suppose these instruments, therefore, to have been contemporaneous; and they are in pari materia. They must be taken together, and be so construed that each may have the effect intended by the parties. We cannot separate what the parties have- joined, and look for their understanding and intentions in one instrument, when they have employed three to express them. What then was the legal import of the transactions of the 2d of February, 1889 ?\nThat the contents of the Samuel Gibson tract was a point of uncertainty, is apparent from their treaty about fixing the lines and paying for the possible excess over 400 acres and allowance. That the deed was intended to convey all the land within the Gibson lines that were themselves within the Cash surveys, appears not only from the description, but from the quantity stated \u2014 thirty acres more than'the quantity mentioned in the articles of agreement.\nThen on ascertaining the contents, and after Venada and Vandyke should be served, if more than 400 acres and allowance should remain to Antes and Clark, they should pay Cummings $13 the acre for the excess; if less than 400 acres and allowance, Cummings was to pay them $3 the acre for the deficiency. Four hundred acres and allowance, were the basis of their treaty. That quantity had been paid for in the $1000. When the ejectments should he decided, and the lines should be fixed, whatever deficiency or excess should appear, on comparison with that standard, should be paid for at the rates stipulated. It was like a wager on the ultimate effect of the deed. If it should prove to be a good title to more than 400 acres and allowance, Cummings was to have $13' per acre for the excess; if for less, he was to pay $3 the acre for the deficiency. There was a lack of equality, but the parties made the odds unequal, and our business is to interpret and enforce their contracts.\nSince then it appears that Antes and Clark held under that deed more than 400 acres and allowance, how can they have a right of action on the bond of Cummings and Gamble ? Clearly they have none, and the Court were in error in directing a verdict for them.\nWe attain to this conclusion by the necessary construction of the instruments of writing, and without looking at all to the parol evidence which was offered to prove that such was the intention of the parties. The Court properly rejected that evidence, for when parties have written down their contracts and signed and sealed them, they have created the highest evidence that can exist of what they meant. Mistake or fraud, clearly proved may countervail written instruments, but Courts should be deaf to parol proof to alter or vary them.\nThe judgment is reversed and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "J. Armstrong and W. H. Armstrong, for plaintiffs in error.",
+      "Campbell, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Cummings versus Antes.\n1. A person, by articles of agreement, contracted to sell to two persons 400 acres of land, with the allowance, out of two tracts, claimed by the vendor on two surveys in the names of 0. and T. Cash,.being the 400 acres surveyed on a warrant in name of Samuel Gibson, for the consideration of $1000. Above two years after the date of the agreement, the vendor delivered his deed for the tract of land surveyed in the name of Samuel Gibson (being part of two tracts, &c.), containing 430 acres 10 perches and allowance. On the day of its delivery, the vendees agreed, in writing, that, if the Gibson survey should include more than 400 acres and allowance, they would pay to the vendor $13 per acre for said excess; and the vendor, by a written instrument or bond, bound himself to pay to the vendees $3 per acre for every acre included in the Gibson survey, and within the lines of his two surveys which shall be recovered , in two ejectments then pending. In those ejectments 52 acres and 55 perches and allowance were recovered from the vendor; but there still remained in the Gibson survey, exclusive of the quantity recovered, 400 acres 72 perches and allowance.\nIn a suit by the vendees against the vendor on his bond, brought to recover for the quantity recovered in the ejectments, at the rate of $3 per acre, it was held, that the delivery of the deed and the bond, being of the same date, must be supposed to have been contemporaneous; they were in pari materia, and must be taken together.\n2. It appearing that the contents of the Gibson survey were uncertain; that it was intended to convey all the land within the Gibson survey which was within the Cash surveys, the deed conveying thirty acres more than the quantity mentioned in the articles of agreement; that four hundred acres and the allowance toas the basis of the treaty, that quantity being paid for with $1000; and that when the ejectments were decided and the deficiency or excess ascertained, then the vendees were to pay for any excess over 400 acres, at $13 per acre, and the vendor to pay $3 per acre for any deficiency: Held, that the want of equality in the contract was not material; but, as the Gibson survey contained 400 acres exclusive of the amount recovered in the ejectments, the vendees had no claim against the vendor on his obligation.\n3. The above conclusion was the proper construction of the written instruments, without considering the parol evidence offered to show that such was the intention of the parties. Such parol evidence was properly rejected.\nError to tbe Common Pleas of Lycoming county.\nThis was a suit to September Term, 1848, by Antes and Clark, against A. Cummings and Gamble, to recover the amount of certain acres of land, at three dollars per acre, which amount of land had been recovered from Antes and Clark, by Tenada and Vandyke, in two actions of ejectment.\nCummings had claimed two tracts of land in Nippenose valley, Lycoming county, warranted in names of Caleb Cash and Thomas Cash. Samuel Gibson had made an improvement on those lands, and had a survey of a subsequent date laid on the Cash surveys. The plaintiffs, Antes and Clark, became interested in the improvement, and in order to arrange the title, articles of agreement were made, dated 15th October, 1836, by which Cummings-agreed to sell to Antes and Clark, 400 acres, with the allowance, out of the aforesaid tracts of land, being the 400 acres and allowance surveyed on a warrant to Samuel Gibson, and to convey in fee, with warranty, on or before the first day of April following, viz., 1837.\nTwo hundred dollars were paid on account, and a deed, dated 9th January, 1839, was executed by Cummings and wife to Antes and Clark for the tract of land surveyed in the name of \u201c Samuel-Gibson\u201d (being part of two tracts of land, one of which was surveyed to Thomas Cash, the other of which was surveyed to Caleb Cash), containing four hundred and thirty acres ten perches and' allowance. This deed was not delivered till 2d February, 1839.\nOn that day (2d February, 1839), Antes and Clark, by an agreement under seal, acknowledged the receipt of the deed by Cummings and wife, and agreed that if the Gibson survey should' include more than 400 acres, with the allowance of six per cent., that they would pay to Cummings $13 per acre for the excess, whenever the lines were so fixed as to determine the excess, if any existed.\nOn the same day (2d February, 1839), Cummings and Gamble, by writing under seal, became bound to pay to Antes and Clark three dollars per acre for each and every acre of land included in the Gibson survey, and within the lines of the two Cash surveys, which shall be recovered by Venada and Vandyke by two ejectments then pending.\nOn this last paper the suit was founded.\nOn the part of the plaintiff evidence was given that the Venada and Vandyke surveys interfered with the Cash survey and the Gibson survey; that the interference of one amounted to 17 acres and 105 perches; that of the other to 34 acres and 120 perches, in all 52 acres and 55 perches and allowance.\nThere was in the Gibson survey, exclusive of the interferences claimed by Venada and Vandyke, 400 acres 72 perches and allowance.\nOn the part of the defendant, it was offered to prove that the bond of indemnity on which the suit was founded was given to indemnify Antes and Clark, the plaintiffs, for any loss of land by the ejectments, for which they had paid.\nAlso, that the parties agreed that the actual quantity contained in the lines of the Gibson survey was not correctly known on the 2d February, 1889, and that only 400 acres and allowance had been purchased by Antes and Clark under the first agreement; and that only that quantity was claimed by them until they purchased the excess at $18 per acre. This was offered to explain the two agreements of 2d February, 1839. It was objected to, as going to contradict the writings under seal, and was rejected.\nDefendants offered to prove that the price of $3 per acre was fixed by the parties by a calculation of the price of 400 acres at $1000 and the addition of the interest, for the purpose of showing that the bond was to indemnify Clark and Antes against any loss of land out of said 400 acres and allowance, then paid for.\nObjected to, as contradicting the bond and deed, and because there was no ambiguity in the bond, and no allegation of fraud or mistake. Evidence overruled, and exception on part of defendants.\nIt was also offered to prove that Clark, one of the plaintiffs, acknowledged, in 1841, that they had paid for 400 acres and allowance, and had a conditional bargain for the balance or excess of the survey at $13 per acre. That the price paid for 400 acres and allowance was $1000, and that was all that had been paid. Objected to and overruled.\nIt was also offered to show by a witness, that before the 15th October, 1836, he surveyed the Gibson tract; that the plaintiffs were along, and knew the boundaries and contents of that survey. This was offered in order to show that the defendants knew its actual contents when they purchased it as containing 400 acres and allowance, and fraudulently represented said survey as containing 400 acres and allowance, and concealed the truth at the time the original agreement was made.\nIt was objected on part of the plaintiffs, that the deed was a consummation of all previous agreements, and that it was not offered to be proved that there was any fraud or misrepresentation at the time of the execution and delivery of the deed or of the bond. Objection sustained, and exception taken.\nPollock, J., charged that the verdict should be for the plaintiff, for the amount of their claim, viz. $251.\nError wab assigned to the rejection of the evidence offered on the part of the defendants, and to the charge.\nJ. Armstrong and W. H. Armstrong, for plaintiffs in error.\nThe Gibson survey was represented by plaintiffs to contain 400 acres. They paid only for that quantity, and they agreed to pay $13 per acre for all that was over that amount. Why then should they be paid $3 per acre for what they had agreed to pay $13 ? The bond of indemnity was to secure them from loss ; to refund to them at the rate of $3 per acre for the difference, if the Venada and Vandyke surveys reduced the Gibson survey to less than 400 acres. If the land was lost, Cummings lost at the rate of $13 per acre. Must he lose $3 per acre in addition ? The Gibson tract contains 400 acres and 72 perches, exclusive of the interference, and so the plaintiffs lost nothing. The bond was, therefore, without consideration. The evidence offered was not to contradict, but to explain the agreements of the parties. It was admissible for explanation: 4 Rawle 130; or to show fraud: Id. 141; 1 Jones 233.\nCampbell, for defendant.\nThe official survey of the Gibson tract contained 424 acres 83 perches and allowance. The whole of the tract was conveyed by Cummings to Antes and Clark, by courses and distances, with a covenant of general warranty, and calling for 430 acres 10 perches and allowance. The deed was the consummation of the article of the 15th October, 1836. As a portion of the land was claimed by Venada and Vandyke, the article of 2d February, 1839, and the instrument on which this suit was brought, were entered into. The consideration of the whole tract being a lumping sum, and the event of the suits pending doubtful, the parties agreed to incur a mutual risk. Why one party agreed to pay $13 per acre for all gained, and the other $3 per acre for all lost, is not a material inquiry. The land lost may have been of greater value. All parties were presumed to know the quantity called for in the official draft, and the deed shows this. There being no ambiguity or fraud, in the agreements of 2d February, 1839, alleged, and the deed calling for the zohole survey, the evidence offered would have been in contradiction of these instruments: 3 Ser. & R. 607; 4 Watts 442; 1 Id. 36.\nNov. 24,"
+  },
+  "file_name": "0287-01",
+  "first_page_order": 289,
+  "last_page_order": 294
+}

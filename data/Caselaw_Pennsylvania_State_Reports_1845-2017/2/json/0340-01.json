@@ -1,0 +1,66 @@
+{
+  "id": 951403,
+  "name": "Stewart v. The County",
+  "name_abbreviation": "Stewart v. County",
+  "decision_date": "1845-04-08",
+  "docket_number": "",
+  "first_page": "340",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 170,
+    "char_count": 1925,
+    "ocr_confidence": 0.577,
+    "pagerank": {
+      "raw": 3.636916755780973e-07,
+      "percentile": 0.8894142090909547
+    },
+    "sha256": "0da184824c3b78829eaa5278daa1edff325ec2a7c6d103f5e297b5355fdb389c",
+    "simhash": "1:21f60d81a87c1cf7",
+    "word_count": 333
+  },
+  "last_updated": "2023-07-14T15:58:43.702579+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stewart v. The County."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.-\n\u2014 This is a plain case. The report had relation to the time when the street should be opened, for, till then, the plaintiff, having the use of his ground, could receive no injury. The proceedings would be vacated by lapse of time, at the end of a year, if the public did not exercise its right; and it is true, that in the mean time, he might be prevented, by the uncertainty of the event, from making improvements, but that is an inconvenience which the legislature did not mean to compensate. The plaintiff therefore is not entitled.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam.-"
+      }
+    ],
+    "attorneys": [
+      "Davis, for plaintiff in error.",
+      "H. M. Phillips, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Stewart v. The County.\nInterest not payable by county commissioners on damages awarded for opening a street, until the land is entered on.\nCertificate to the Nisi Prius, on a special verdict.\nApril 3. \u2014 In 1836-7-, under proceedings in the Court of Quarter Sessions, Jefferson street was opened and declared a public highway. On the 9th of January, the report of viewers wras confirmed. The plaintiff was entitled to $2500, awarded by said report. The commissioners declined paying, except in five per cent, loan, then eight per cent, below par. Plaintiff refused to accept this stock until Nov. 1842, when he accepted without prejudice to his claim for interest, which the commissioners refused to pay. The stock was then twenty-three per cent, below par.\nThe court gave judgment for defendant.\nDavis, for plaintiff in error.\n\u2014 The question is whether the county is liable for interest on a debt presently due. By the act of 1834, sect. 3, Purd. Dig. 189, they are liable to be sued as ordinary persons. If so, interest is but an incident.\nH. M. Phillips, contra.\n\u2014 The land could not be taken by the act of Assembly until payment. In this county, the proceedings are void' unless the payments are made within a year. During this time, the land not being used, the county is not bound to pay interest. The court declined hearing further argument.\nApril 8."
+  },
+  "file_name": "0340-01",
+  "first_page_order": 340,
+  "last_page_order": 340
+}

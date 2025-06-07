@@ -1,0 +1,111 @@
+{
+  "id": 484229,
+  "name": "Coxe's Executor versus Martin",
+  "name_abbreviation": "Coxe's Executor v. Martin",
+  "decision_date": "1863-02-26",
+  "docket_number": "",
+  "first_page": "322",
+  "last_page": "326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Pet. 412",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 218",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856477
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0218-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 200",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 How. 311",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3325053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/42/0311-01"
+      ]
+    },
+    {
+      "cite": "1 How. 312",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 601,
+    "char_count": 12856,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 2.6613817037378204e-07,
+      "percentile": 0.824973386479289
+    },
+    "sha256": "b702968ac240729db5a06d201615f7655f99dff908e96fc819bf7f66a97505e2",
+    "simhash": "1:deba3d04864cb9a2",
+    "word_count": 2282
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Read, J., dissented."
+    ],
+    "parties": [
+      "Coxe\u2019s Executor versus Martin."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, J.\nThis was a scire facias sv/r mortgage, to whicB the defendant pleaded, in abatement, that he had been mustered into the service of the United States as a private in the Forty-sixth Regiment, P. V., for the term of three years, unless sooner1 discharged, under a requisition from the President of the United States. The plaintiff demurred to this plea, and assigned five causes of demurrer, the first of Avhich was that the defendant had not brought himself within any Act of Congress or Act of Assembly in force at the time of making the mortgage, whereby such process is prohibited, and the fifth of which causes was that the Act of 16th April 1861 has no relation to a mortgage and the writs enforcing the mortgage-debt against the property pledged thereby. The other three causes of demurrer relate to the construction of the Act of 23d April 1822.\nNow, if it be granted that the defendant has not brought himself within the Act of 1822, why is he not entitled to the stay given by the Act of 1861, though it was not in existence when the mortgage was made, on the 6th of June 1860 ?\nThis court has said in many cases, and have just repeated in the opinion filed to-day, in the case of Breitenbach v. Bush, from Montgomery county, that the legislature are constitutionally competent to pass any stay laws applicable to prior, contracts. The learned counsel for the plaintiff does not mean, I presume, to deny this as a general proposition, but he argues that no law subsequent to 'a mortgage can take away the right of the mortgagee to have a sale of the promises, if the debt be not paid, because the remedy in such cases (a contract pledging property as security under laws universally in operation, by which the pledge can be enforced as against the property) is a part of the contract, and cannot be suspended or trammelled without involving a breach of the constitution.\nThe mortgage has not been exhibited to us, but if it were not\u00bb in the common form of Pennsylvania mortgages, it no doubt would have been placed before us. Assuming that it is like our general run of mortgages,, it is in form a deed of conveyance, with a clause of defeasance, on the condition that the debt therein recited be paid when due. Nothing is said about legal remedies to enforce payment in case of default. The scire facias is given, by our old Act of 1705, no allusion to which is contained in the mortgage. This remedy does not arise out of the contract; it is conferred upon it by the legislature, and because conferred by the legislative power of the state, it may be suspended by the same power, under pressure of public exigencies, for a time that is neither indefinite nor unreasonable. This mortgage was made subject to that power; all contracts within the state are so made. The power permeates them all, if not expressly excluded by the contracting parties. No such contract, therefore, is violated when the power acts, unless it transcends its constitutional limits. In Bronson v. Kinzie, 1 How. 312, there are dicta which go further than we carry the rule; but the point actually in judgment coincides with what is here laid down. Kinzie, the mortgagor, covenanted in the mortgage that if default should be made in the payment of principal or interest, it should be lawful for Bronson to enter upon and sell the mortgaged premises at public auction, and as attorney of Kinzie and wife, to convey the same to the purchaser, and out of the proceeds of the sale to retain the amount due, with the cost's and charges of the sale, rendering the overplus, if any, to Kinzie. Default occurring, Bronson filed a bill in chancery to foreclose the mortgage, when he was met by two Acts of Assembly of Illinois, passed subsequent to the date of the mortgage, one of which gave mortgagors a right of redemption for twelve months after the day of the sale of mortgaged premises, and the other of which provided that, when any execution should issue for the sale of real estate, three householders should be called in to appraise it, and when the property should be offered for sale, it should not be struck off unless two-thirds of the amount of such valuation should be bid therefor.\nIt is obvious that both of the Acts of Assembly were in direct conflict with the covenant of the parties, and Ch. J. Taney, after saying many things which we could not follow strictly, placed himself, at length, on what we regard as the true ground of decision. \u201c It is impossible to read this covenant,\u201d he said, \u201c and compare it with the laws now under consideration, without seeing that both of these acts materially interfere with the express agreement of the parties contained in their covenant.\u201d\nOn comparison of the mortgage sued on with the law now under consideration, there would be nothing found in the law to contradict any covenant of the mortgage. For this reason the doctrine of the above case, whilst it justifies the distinction I have taken, does not admit of application to the mortgage in suit here. There is no conflict between the terms of the mortgage and the terms of the law. The mortgage does not say there shall be no suspension of remedies. What the plaintiff complains of is that the law-making power which furnished the scire facias has interposed to stay it for a season. Such legislation violates no contract, and, unless the stay be unreasonable, calls for no interposition of the judicial power.\nA second reason why the Act of 1861 is not applicable to this mortgage is said to he that the process intended to be stayed was personal process, and not that against property.\nA scire facias is personal process, as is proved by the rule which requires a personal service, or two n\u00faiils as equivalent to personal service. It is, in some sense, a proceeding in rem also, but it is manifestly embraced by the very comprehensive words of the statute: \u201cNo civil process shall issue or be enforced against any person,\u201d &c. A scire facias on mortgage is a civil process issued and enforced against persons who own the mortgaged premises.\nThese observations, with those that were made in Breitenbach v. Bush, are sufficient to show that we consider all proceedings to enforce mortgages as within the words and spirit of the Act of 1861, and that the act is not unconstitutional in respect to mortgages drawn in the ordinary form.\nWe agree that it is a great liberty the legislature takes withD a creditor\u2019s mortgage, but the occasion is extraordinary, and the stretch of power must be estimated by the exigencies which ^ called it forth. When we look at the actual circumstances of the' country, we cannot deny the legislative power to intervene in the manner complained of.\nThe judgment is affirmed.\nRead, J., dissented.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "B. O. McMurtrie, for plaintiff.",
+      "John A. Burton, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Coxe\u2019s Executor versus Martin.\nEnforcement of Civil Process against Persons in the Military Service of the United States.\n1. The Act of 18th April 1801, providing that no civil process shall issue or be enforced against any person in the military service of the state or of the United States, extends to a writ of scire facias upon a mortgage, unless expressly prohibited by the act of the contracting parties.\n2. The act is not unconstitutional, as impairing the validity of the contract by delaying the remedy; for the legislative power which conferred might also suspend it, for a time not unreasonable nor indefinite.\nCertificate from the Court at Nisi Prius.\nThis was a scire facias sur mortgage, brought to January Term 1862 by Charles S. Coxe, executor of Edmund S. Coxe, against John L. Martin, on a mortgage dated June 6th 1860, payable in one year, with interest semi-annually. The defendant pleaded that he \u201c is mustered in the service of the United States as a private in the Forty-sixth Regiment, P. V., for the term of three years, unless sooner discharged under a requisition from the President of the United States,\u201d and prayed judgment in abate-ment. To this the plaintiff demurred, and assigned the following causes of demurrer :\u2014\nBecause the defendant has not brought himself within any Act of Congress or Act of Assembly, in force at the time of the making of the mortgage sued on, whereby such process as is issued in the above case is prohibited.\nBecause the Act of Assembly, bearing date the 23d April 1822, which was the only Act of Assembly on the subject-matter of the plea, in force at the time the mortgage was ex\u00e9cuted, applies only to persons who are compelled to serve in the militia of the state, and the defendant has not averred that he was so compelled. On the contrary, he has set forth that he has entered, or enlisted, or been mustered into service for a term that by law he could not have been compelled to serve for, viz., a term of three years or the war.\nBecause said act applies only to persons who are compelled to service for a term not exceeding three months in every year, and does not extend to persons who have voluntarily agreed to serve for a term of three years.\nBecause the said act does not apply to the case of any person who has, of his own free will and accord, entered into the service of the United States.\nBecause the Act of 16th April 1861 has no relation to a mortgage, and the writs for enforcing the mortgage-debt against the property pledged thereby.\nThe learned judge entered judgment for the defendant on his plea, which was the error assigned.\nB. O. McMurtrie, for plaintiff.\nI. No law subsequent to the contract could take away the -right of the mortgagee to have a sale of the premises, if the debt were not paid. The remedy in such cases is a part of the contract, and cannot be suspended or trammelled without involving a breach of the constitution : Kinzie v. Bronson, 1 How. 311.\nII. The law in force at the time the contract was made did not authorize this plea. It is confined to proceedings against the person: Act 1822, \u00a7 20, 7 Sm. L. 646. By see. 62, the time during which the governor can retain such men is three months. And by sec. 2, Act of Congress 1795, they may be retained for three months after the meeting of the next Congress. No other legislation existed under which militiamen could be required to serve.\nIt is submitted, 1. That such legislation contemplated a limited temporary suspension of process. 2. That it was confined to persons compelled to serve, not to persons volunteering. 3. The process contemplated was personal, and not that against property.\nJohn A. Burton, for defendant.\n1. The Act of April 16th 1861, which provides: \u201cNo civil process shall issue, or be enforced against any person mustered into the service of this state, or of the United States, during the term he shall be engaged in such service,\u201d applies to the case before the court. The law acts upon the remedy, and does not pretend to affect the obligation of the contract: Sturgis v. Crowninshield, 4 Wheat. 200. A modification of the remedy can only impair the contract by being a part of it, which it is said to be by the plaintiff in error. On this hypothesis every contract embraces the existing remedies. If the remedy be a part of the contract, the courts must look to the law in force at the date, and not at the time of bringing action on the contract^ Must the legislature, then, be prohibited from making any change in remedies ? The law is otherwise. The legislature may alter, modify, or repeal remedies for existing rights: Evans v. Montgomery, 4 W. & S. 218. The legislature may divest vested rights, if it does not destroy the contract: Setterlee v. Matthewson, 2 Pet. 412.\nAgain, in this case, the law lays hold of the seire facias, which is a rule to show cause to which the right of the mortgagee is not more perfect under the mortgage than is the right of the mortgagor to defend; their rights are reciprocal, and it would be contrary to the spirit and intent of the law to allow one party to enforce, while it disabled the other from defending under the contract. The scire facias is not a part of the contract, because by it the parties are brought before the court, who is to determine whether the contract is broken. It cannot be a part of the thing broken, and the medium to determine whether it is so. How does the law impair the contract in this case ? Does it loose the obligation of the defendant? Does it alter the relation or condition of the parties. Does it take away any right the plaintiff had in relation to his tenure of the property ? If it does not, it is not unconstitutional ? The law\u00c9 in effect only extends the time for issuing the scire facias beyond which it has already given. 2. The Act of 1822, 7 Sm. L. 646, applies to all militia indiscriminately; and it applies to process against property as well as the person.' And the demurrer does not raise the question whether the law is applicable to the person and property or to the person only.\nFebruary 26th 1863,"
+  },
+  "file_name": "0322-01",
+  "first_page_order": 322,
+  "last_page_order": 326
+}

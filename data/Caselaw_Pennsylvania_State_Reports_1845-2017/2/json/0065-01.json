@@ -1,0 +1,62 @@
+{
+  "id": 951159,
+  "name": "Haines v. Moorhead",
+  "name_abbreviation": "Haines v. Moorhead",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "65",
+  "last_page": "66",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 65"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 121,
+    "char_count": 1407,
+    "ocr_confidence": 0.498,
+    "sha256": "59dfc22652b598d8a0752e620721475edb693103be088d8b8344f527c53b8acd",
+    "simhash": "1:d3cf0bb62cf2207a",
+    "word_count": 249
+  },
+  "last_updated": "2023-07-14T15:58:43.702579+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Haines v. Moorhead."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014 The judgment is for more than was awarded, and why shall it not carry costs ? Because, says the defendant, it is less than the sum awarded, with interest during the interval. But the award, being appealed from, did not bear interest as a judgment; nor does it appear that the original demand did. The jury may, or may not, have allowed it; and the elements of their verdict are too uncertain to furnish a safe ground of comparison. The only practical criterion is the difference of amount; and we cannot enter into an examination of the cause by which it was produced.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Cowen, for plaintiff..",
+      "Foster, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Haines v. Moorhead.\nA plaintiff, who appealed from an award in his favour, and recovered more than the sum awarded to him, but less than such amount with interest added for the immediate time, allowed to recover full costs.\nMoorhead having obtained an award in December, 1843, for $448 13, defendant appealed; on the trial in May, 1845, plaintiff recovered a verdict for $>469 80. The court gave judgment, with full costs.\nCowen, for plaintiff..\n\u2014 The act of 1810, sect. 13, directs, if the sum recovered be less than the award, it shall not carry costs. Here, the interest on the amount of the award was greater than the excess of the verdict, and this is within the spirit of the act.\nFoster, contra.\n\u2014 The verdict is greater and more favourable than the award, and is within the very words of the act."
+  },
+  "file_name": "0065-01",
+  "first_page_order": 65,
+  "last_page_order": 66
+}

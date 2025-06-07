@@ -1,0 +1,73 @@
+{
+  "id": 962677,
+  "name": "Gilbert v. Drew",
+  "name_abbreviation": "Gilbert v. Drew",
+  "decision_date": "1849-04-09",
+  "docket_number": "",
+  "first_page": "219",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 219"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall. 345",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 289,
+    "char_count": 4017,
+    "ocr_confidence": 0.391,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.30231415036166204
+    },
+    "sha256": "6a015ef6147f96550fed262f2bd3feea5f3c0e80f098faebea26a7faf14562b6",
+    "simhash": "1:3cd2eb3f14c646c0",
+    "word_count": 737
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gilbert v. Drew."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThis case, that is, the only real point in it, has been twice ruled at this term, to wit: in the case of Davids v. Harris, and the case of Todd v. Stokes. The first builder of a party-wall has but a right of action against the second builder.. The two'cases I have mentioned, do but follow some five or six cases previously ruled in this city, two of which were in this court, and one at a very early period. The cases are enumerated in Todd v. Stokes, and it is unnecessary to make an incessant repetition of them. They may be all wrong, as the learned counsel strongly contends, on the authority of the scriveners and conveyancers of the city. But I should rather think the court were surer and safer guides in questions of law.\nThe circumstance of the second builder having paid the alienee of the real estate of the first builder, is a matter of no consequence whatever; because, if a debtor pays a wrong person, that furnishes no reason whatever why he should not pay the right one, that is, the one to whom the debt or duty is really due.\nThere is as little in the argument that Drew conveyed or assigned the chose by his deed to Hanna, the person to whom the second builder is alleged to have paid a moiety of the party-wall, because the deed on the whole face of it shows an intent to convey the real estate arid its hereditaments and appurtenances, and nothing more. This chose in action of the first builder being neither an hereditament nor appurtenance, nor any quality inherent in or adhering to the real estate, did not pass.\nThe courts having decided that the first builder had only a personal charge against the second builder for a moiety of the cost of the wall, or so much as the second builder shall use, it did not pass to Hanna by a conveyance of the real estate, but remained as the chose in action of Drew, who has a right to recover it.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "E. K. Price, for plaintiff in error.",
+      "Badger and Earle, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Gilbert v. Drew.\nA conveyance of a house and lot by the first builder, does not pass the right to compensation to be made for the party-wall by the second builder.\n1st error from the District Court of Philadelphia.\nApril 2. Dr\u00e9w built a house adjoining a vacant lot, and conveyed it to Hanna, together with the building appurtenances, &c., in the usual form. After the conveyance, Gilbert built a house on the vacant lot, and used the party-wall erected by Drew, one half of which stood on Gilbert\u2019s land. Gilbert paid Hanna the' compensation for the use of the wall, whereupon Drew brought this action to recover compensation for the use of the wall.\nThe court gave judgment for the plaintiff.\nE. K. Price, for plaintiff in error.\nIt is conceded the claim is a personal one against the second builder, that is, when the person is ascertained by user. But, until then, it is not a chose in action, for no right of action exists, and it is uncertain whether it ever will. Until that time it is an ownership in a corporeal substance, for an injury to which trespass lies: 1 Dall. 345. This shows that there is an ownership existing in the wall beyond the line of the owner\u2019s land. It is true, it may be released without necessity of notice to the purchaser, which is all that 5 S. & R. 1 decides. It is the universal understanding of conveyancers and others, that a conveyance of the house passes this right, if it then exist. The cost of the building is greatly enhanced, and the opposite doctrine will oust the lien of mechanics and mortgagees. It certainly constitutes part of the building, and, as such, passes by a grant of the building, since every deed is construed most strongly against the grantor. But, if it does not pass, where lies the remedy for an injury to it after alienation ? That it may become personal is no objection; for so may crops, fixtures, and the like, which pass by a grant of the land, unless turned into choses in action, or severed before conveyance. So may the right to unpaid purchase-money secured by retention of the legal title: 16 S. & R. 18, 294, 425.\nBadger and Earle, cont\u00f3.\nApril 9."
+  },
+  "file_name": "0219-01",
+  "first_page_order": 219,
+  "last_page_order": 220
+}

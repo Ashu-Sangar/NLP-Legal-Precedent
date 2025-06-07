@@ -1,0 +1,127 @@
+{
+  "id": 974075,
+  "name": "Gochenaur's Estate",
+  "name_abbreviation": "Gochenaur's Estate",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "460",
+  "last_page": "464",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 460"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Whar. 7",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0007-01"
+      ]
+    },
+    {
+      "cite": "5 Whar. 138",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877506
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0138-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 477",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts 255",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838097
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0255-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 478",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Whar. 138",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877506
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/5/0138-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 571,
+    "char_count": 12534,
+    "ocr_confidence": 0.428,
+    "pagerank": {
+      "raw": 1.4621102074942905e-07,
+      "percentile": 0.6575371768778797
+    },
+    "sha256": "0b03a0aa974568d01b90be35aa0baca971216b4fac829b277ab5da35a4dc62fb",
+    "simhash": "1:32223aa2988f8180",
+    "word_count": 2209
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gochenaur\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodward, J.\nUnder the terms of the Acts of Assembly relating to the jurisdiction and powers of the Orphans\u2019 Courts, and the opinion of this Court in Kittera\u2019s Estate, 5 Harris 422, it is not to be doubted that the Orphans\u2019 Court of Lancaster county had jurisdiction of the widow\u2019s claim in this case.\nThe second and more important question is, whether under the circumstances in proof before the auditor the money claimed was so reduced into possession by the husband as to become his property. If it was, the widow has no title to it; if it was not, her right survived, and may be asserted in the Orphans\u2019 Court.\nThe money came into his hands as administrator of Christian Newswanger, of whom Barbara was a daughter and heir, and to her Gochenaur stood in the double relation of husband and trustee.\nIn Baker v. Hall, 12 Vesey 497, where an executor entered into possession of the real and personal estate of the testator, married one of the residuary devisees under the will, and died, leaving her surviving him, it was held by Sir William Grant, Master of the Rolls, that the husband must be considered to have entered into possession as trustee and executor of the will only, and not as husband, and therefore his wife\u2019s share of the residue could not be deemed sufficiently reduced into possession so as to prevent its surviving to her upon his decease. And in Wall v. Tomlinson, 16 Vesey 413, it was said that the transfer of stock to a husband merely as trustee cannot be regarded as a reduction into possession that will entitle his representatives. It was made diverso intuitu. \u201cIf the husband take possession,\u201d says Chancellor Kent, 2 Com. 138, \u201c in the character of trustee, and not of husband, it is not such a possession as will bar the right of the wife if she .survive him. The property must come under the actual control and possession of the husband, quasi husband, or the wife will take as survivor instead of the personal representative of the husband.\u201d\nThis distinction has been fully adopted in Pennsylvania, and a series of well considered cases, carrying out the principle to its logical result, has established that reduction into possession so as to work a change of ownership, is a question of intention, to be inquired of upon all the circumstances. Conversion is not reduction into possession, but only evidence of it, and therefore conversion may be explained by other evidence, negativing the intention to reduce to possession in such manner as to transfer the title. According to these cases marriage is treated as only a conditional gift of the wife\u2019s choses in action, \u2014 or, to speak more accurately, a gift to the husband of her power to dispose of them to himself or any one else, by force of the dominion to which he has succeeded as the representative of her person; and because the gift is conditional he has a right to reject it by refusing to perform the condition. The law does not cast it upon him beyond his power of resistance ; for every gift requires the assent of the donee, and hence clear proof that a husband received his wife\u2019s money as a loan, or a disclaimer of intention to make it his own property, proved by his admissions, will preserve her right of survivorship: Siter\u2019s case, 4 Rawle 478; Hess\u2019 Appeal, 1 Watts 255; Hind\u2019s Estate, 5 Wh. 138; Timbers v. Katz, 6 W. & Ser. 290; Gray\u2019s Estate, 1 Barr 329; Woelpper\u2019s Appeal, 2 Barr 71. It was said in Gray\u2019s case that such admissions as a medium of proof are to be scanned with extreme vigilance; and to prevent the consequences of misapprehension or mistake on the part of witnesses, it is necessary that they be deliberate, precise, clear, and consistent with each other; not inconsiderate, vague, or discrepant \u2014 a rule founded in the experienced uncertainties of parol proof, and most necessary to be continually applied.\nBeside the implications from the fiduciary character of Gochenaur, we have in this case his declarations and admissions made, not in casual conversations after receipt and conversion of the money, but in the very act of receiving it, and which seem to answer all the conditions of the above rule. Thus Barr, who saw him receive $415 of the money in 1850, swears that he declared at the time, \u201c It is my wife Barbara\u2019s, and it is to be hers.\u201d And Ann Newswanger, speaking of the money he got from the notes and articles bought at the vendue, amounting to $700, reports him as saying, \u201c he would take this money and pay his debts on which he was paying interest, but that it was Barbara\u2019s money, and should be hers.\u201d Anna Kline thinks she was present three times when Gochenaur got money, and every time she heard him say it was his wife\u2019s, and should be hers. She saw him count the $700 ; he said \u201c it was his wife Barbara\u2019s; he owed it and was going to pay it out; he oughtn\u2019t almost to take it to pay his debts.\u201d It cannot be doubted that such declarations imported an intention to convert the money to his use as his wife\u2019s money and not his own \u2014 that is, they explain the act of conversion consistently with his intention that it should survive to her and not be so reduced into his possession as to extinguish her right. The credibility of the witnesses was for the auditor, and we cannot rejudge his judgment on this point. Taking their testimony as true, we think the auditor and the Court were right, in view of it and of the fiduciary relation of Gochenaur to the fund, in decreeing the money to Barbara.\nThe Court were clearly right in reversing the auditor on the question of interest, and of this the appellant has no reason to complain.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Hllmalcer, with, whom was Hiester, for appellants.",
+      "A. H. Smith, contri."
+    ],
+    "corrections": "",
+    "head_matter": "Gochenaur\u2019s Estate.\n1. The Orphans\u2019 Court has jurisdiction to direct distribution of an intestate\u2019s estate whether it he solvent or insolvent.\n2. If a husband take possession of his wife\u2019s property as administrator and not as husband, such a possession will not bar her right if she survive him.\n3. Conversion is not reduction into possession for his own use, but only evidence of it; and therefore the conversion may be explained by evidence negativing the intention to transfer the title.\n4. Clear proof that a husband received his wife\u2019s money as a loan, or a disclaimer of intention on his part to make it his own property, proved by his admissions, will preserve her right of survivorship. Such admissions should be deliberate, precise, clear, and consistent.\n5. Evidence that the husband at the time of receiving, at different times, money belonging to his wife, declared it was his wife\u2019s money and was tobe hers \u2014 that he would take the money and pay his debts on which he was paying interest but that it was his wife\u2019s money and she should have it; that it was hers and she should have it again. Held, that such declarations tended to explain the \u25a0 conversion and imported an intention that the right to the money should survive to her.\n6. The wife was not entitled to interest during the life of her husband on the money so received by him.\nAppeal from the decree of the Orphans\u2019 Court of Lancaster county.\nChristian Newswanger died in 1845, leaving a widow and three children, one of whom, Barbara, was married to Benjamin Gfochenaur. Benjamin G-ochenaur, the husband, and David Newswanger administered on his estate in March, 1816, and submitted an inventory Amounting to $1652.52. Benjamin Gochenaur, the husband, received a portion of the estate into his hands. He died on 31st December, 1851, leaving a widow, (said Barbara,) hit no children. The administrators of his estate, on 26th January, 1852, submitted an inventory, amounting to above $1300. His. widow claimed $300 under the Exemption Acts, out of the personal estate of her husband, and the same was set apart for her. The administrators of G-ochenaur\u2019s estate on 19th February, 1853, submitted an account, exhibiting a balance of $5136.55|-, in their hands for distribution. To this account exceptions were filed on 19th March, \u25a0 1853, for B. Gochenaur\u2019s widow, one of which was to the effect that the accountants had not paid to her certain money which Benjamin G-ochenaur, her husband, as administrator, had received on account of her share in her father\u2019s estate. April 11, 1853, on motion the Court appointed an auditor, to report distribution of the balance among those entitled. The heirs appeared, but no creditors appeared except the widow, who by her exceptions to the account, it was said, made the first attempt to demand either in her husband\u2019s lifetime or since his decease, the amount in controversy.\nIt appeared that the heirs of the estate of Newswanger made amicable partition of the estate real and personal. The auditor considered the share of Barbara Gochenaur in her father\u2019s estate to be about $2193, and that her husband had received of it about $1986.\nOne witness testified that he saw him draw $415, and he said \u201c It is my wife Barbara\u2019s, and it is to be hers.\u201d This was in 1850.\nAnother witness stated that Benjamin Gochenaur told her that he had got from the notes and articles he bought at the vendue about $700. This was in 1847. He said he would take this money and pay his debts on which he wais paying interest, but that it -was Barbara\u2019s money, and \u201cshe shall have it.\u201d\nAnother testified that she was present in 1850, and'saw Benjamin Gochenaur get $700. He said it was his wife\u2019s; he ought not almost to take it to pay his debts \u2014 that was all he said. But, she added, he always said it was hers and she should have it again. Ort cross-examination she said, every time he received any money, he said \u201c it was his wife\u2019s and should be hers.\u201d He said he would use it. She said that she saw him get money in 1846 and 1847.\nThe co-administrator stated the amount received by Benjamin Gochenaur on account of his wife\u2019s share at about $1786.\nThe auditor allowed her claim, referring to authority for the position that a reduction of possession of his wife\u2019s property by the husband was not identical with conversion, but only evidence of it \u2014that it was prim\u00e1faeie evidence of conversion, but that the presumption of intent may be repelled by evidence. In relation to the matter of reduction he referred to 12 Vesey 497, Baker v. Hall; 16 Vesey 413; 4 Rawle 477-8, Siter\u2019s Case; 5 Whar. 138, Hind\u2019s Estate; 6 W. & Ser. 290, Timbers v. Katz; 1 Barr 329, Gray\u2019s Estate; 2 Barr 71, Woelpper\u2019s Appeal; 5 Barr 157, Rogers v. Fales. He observed that this case did not rest upon subsequent-' admissions by the husband, but upon his declarations at the time he received the money. He allowed $1786, with interest from the 1st of May, 1850, which was several months previous to her husband\u2019s death.\nExceptions were taken to the report. The Court confirmed the report except with respect to the interest which accrued in the lifetime of the husband, which, referring to McGlinsey\u2019s Appeal, 14 Ser. & R. 64, was disallowed.\nExceptions were filed: The first being that the Court erred in taking jurisdiction of the claim of the widow, inasmuch as the estate was solvent. 2. In allowing the claim or any part of it. 3. In allowing interest.\nHllmalcer, with, whom was Hiester, for appellants.\nIt was alleged that it was held in Metz\u2019s Appeal, 1 Whar. 7, that the Orphans\u2019 Court, in 1831, had not jurisdiction of an adversary claim against an estate which was solvent; that the 19th section of the Act of 1832 authorizes the Orphans\u2019 Court to appoint auditors to report distribution whenever there are not sufficient assets to pay all the debts, and that the power was not extended by the Act of 1840. Kittera\u2019s Estate (see 5 Harris) was insolvent.\nAs to the right of the wife, reference was made to 1 Wh. Dig. 925; 3 Harris 449; 5 Ves. Jr. 71.\nInterest is not demandable till demand made where it is not provided for in the contract.\nA. H. Smith, contri.\nThe 1st section of the Act of 13th April, 1840, makes it the duty of the Orphans\u2019 Court, on the application of any legatee, heir, or other person interested in the distribution of the estate of any decedent, to appoint one or more auditors to report distribution of the estate in the hands of the executors or administrators, \u201c among the persons entitled to the same.\u201d Cited 8 Harris 474, Whiteside v. Whiteside.\nAs to the 2d exception. The case of Baker v. Hall, 12 Ves. 497, was cited to the point that where a husband receives his wife\u2019s money in the capacity of a trustee or executor, it will not be deemed to be sufficiently reduced into possession to prevent her claim on surviving her husband. Also cited 1 Barr 329, Gray\u2019s Estate."
+  },
+  "file_name": "0460-01",
+  "first_page_order": 460,
+  "last_page_order": 464
+}

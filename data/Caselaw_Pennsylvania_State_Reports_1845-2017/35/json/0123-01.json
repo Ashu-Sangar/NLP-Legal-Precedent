@@ -1,0 +1,121 @@
+{
+  "id": 990446,
+  "name": "The City of Philadelphia versus Bicknell et al.",
+  "name_abbreviation": "City of Philadelphia v. Bicknell",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "123",
+  "last_page": "125",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Rawle 146",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823564
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0146-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 459",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840083
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0459-01"
+      ]
+    },
+    {
+      "cite": "3 How. 333",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3318207
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/44/0333-01"
+      ]
+    },
+    {
+      "cite": "8 Wheat. 424",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Pick. 253",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 440,
+    "char_count": 6226,
+    "ocr_confidence": 0.457,
+    "pagerank": {
+      "raw": 5.464105272875323e-08,
+      "percentile": 0.3429755943300169
+    },
+    "sha256": "edbf6fee9358545c9d16ec5b592dcb31e8389825a187edf4b58ff99b0e7a7509",
+    "simhash": "1:f3cb0dae294e07e1",
+    "word_count": 1097
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The City of Philadelphia versus Bicknell et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nWe regard trusts of this character as public charities, and as being, therefore, subject to the control of the public authorities, which, in this matter, consist of the city of Philadelphia or the controllers of its public schools. Rut, by reason of the form of the gift, this property never became completely vested in the public as a charity, clear of encumbrances, for the condition was not absolutely performed. If the donor consented to a mode of performance by which it was subjected to a charge for the erection of the house, then it became a charity subject to this charge. If he did not so consent, then he and his heirs can alone take advantage of the breach of the condition. The charge upon it was a means by which the public got whatever title it had to the property, and it cannot, therefore, repudiate the charge in order to get clear of its consequences. As against it, the sale under the original charge, or under the mortgage, which was its substitute, conveys a valid title.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Sellers and King, fo.r the plaintiff in error,",
+      "Byrnes and E. K. Price, for the defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "The City of Philadelphia versus Bicknell et al.\nA lot of ground was conveyed to trustees, for an academy; the trustees erected a school-house thereon, procured an act of incorporation, and conveyed the title to the corporation thereby created, by whom the premises were mortgaged to one of the corporators, to secure the payment of a debt incurred for the erection of the building: Held, that default having been made in payment of the mortgage, a sheriff's sale, under .proceedings thereon, would vest a good title in the purchaser, as against the public.\nCertificate from the Court of Nisi Prius.\nThis was an ejectment by The City of Philadelphia against Rufus Bicknell, Henry B. Fussell, and Maria D. Fussell, for the Talbot Academy lot, in the twenty-fourth ward of the city of Philadelphia.\nOn the 10th March 1808, William Hamilton conveyed the premises in dispute to Daniel Smith, Andrew Petit, and James Traquair, in trust and for the sole use of erecting thereon a house to be appropriated as an academy or seminary of learning for the instruction of youth, and for no other use or purpose whatsoever; provided, that if the said trustees, &c., should neglect to erect the said building within twenty years, it should be lawful for the grantor, or his heirs, to re-enter upon the premises, and hold the same as if the said deed had not been executed.\nThe building was accordingly erected, and used for school purposes until about the year 1855, when it was burned down.\nOn the 18th January 1814, \u201c The Talbot. Academy in the village of Hamilton,\u201d was incorporated under the provisions of the Act of 6th April 1791; and, on the 23d July 1814, Daniel Smith and Andrew Petit, the surviving trustees, conveyed the lot and school-house to this corporation.\nNathan Jones, one of the corporators, had furnished stone for the erection of the building, and Jesse Vodges, the carpenter and builder, had filed a mechanic\u2019s lien against it for $791.30; and for the purpose of extinguishing these claims, the corporation, on the 12th July 1815, mortgaged the premises to Nathan Jones, to secure the payment of the sum of $1000, on the 1st July 1816.\nUnder proceedings on this mortgage, the premises were sold by the sheriff, on the 10th September 1826, to Nathan Jones, for $600; and a deed was. executed to him, on the 27th September 1827.\nOn the 15th July 1837, the widow and heirs-at-law of Nathan Jones conveyed the premises in dispute to Thomas Davis, John Daly, and James Coxey, in trust to permit the members of the Baptist Church, in Blockley township, to occupy the same for a school, academy, or seminary of learning; and, on the same day, the trustees mortgaged the premises to secure the payment of the sum of $300 each, to Ann Jones and Catharine Jones, two of the grantors.\nUnder proceedings on this mortgage, the premises were again sold by the sheriff, to Mary Jones and Catharine Jones, for $700, and a deed therefor was executed to them by the sheriff, on the 27th September 1845. The defendants showed title under Ann and Catharine Jones; and in addition thereto, Bicknell showed a deed from some of the heirs of William Hamilton, deceased, for any interest they might have in the premises.\nOn the 1st April 1852, an Act of Assembly was passed, vesting all the right, title, and interest of the extinct corporation, known by the name of \u201c The Trustees of the Talbot Academy, in the Village of Hamilton,\u201d in the premises, in the \u201cControllers of Public Schools of the First School District of Pennsylvania,\u201d for the same uses and purposes as the same were held by the Trustees of the Talbot Academy, during their corporate existence: Pamph. Laws 210.\nThe court below instructed the jury, that the mortgage executed by the corporation of The Talbot Academy, covered the legal and equitable interests in the premises; that by virtue of the proceedings under the mortgage, Nathan Jones obtained an absolute fee simple title in the same; and therefore, the defendants were entitled to a verdict.\nTo this charge the plaintiff excepted; and a verdict and judgment having been rendered for the defendants, the plaintiff removed the cause to this court, and here assigned the same for error.\nSellers and King, fo.r the plaintiff in error,\ncited Johnson v. Swan, 3 Madd. 457; Hill on Trustees 452; Witman v. Lex, 17 S. & R. 88; Wright v. Linn, 9 Barr 435; Hadley v. Hopkins Academy, 14 Pick. 253; 10 Ves. 555; 18 Id. 326; 6 Beav. 150; 2 Id. 43; St. John\u2019s Church v. Steinmetz, 6 Harris 273; Wormley v. Wormley, 8 Wheat. 424; Griffitts v. Cope, 5 Harris 96; Bovey v. Smith, 1 Vern. 145; Malpas v. Acland, 3 Russ, 273; Saunders v. Dehew, 2 Vern. 271; Hood v. Fahnestock, 1 Barr 470; Beaver v. Filson, 8 Id. 327; Kennedy v. Daly, 1 Sch. & Lef. 355; 2 Russ. 501; 4 Beav. 155; 6 Ves. 452; 13 Id. 570; 11 Harris 496; 1 Amb. 311; 9 Marsh. (Kentucky) 166; 2 Hare 172; 3 How. 333; 2 Watts 459.\nByrnes and E. K. Price, for the defendants in error,\ncited Kerlin v. Campbell, 3 Harris 500; Seebold v. Shitler, 10 Casey 133; Griffitts v. Cone, 5 Harris 96; Brown v. Johnson, 4 Rawle 146 ; Gause v. Wiley, 4 S. & R. 509; Brendle v. German Reformed Church, 9 Casey 415."
+  },
+  "file_name": "0123-01",
+  "first_page_order": 123,
+  "last_page_order": 125
+}

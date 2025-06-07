@@ -1,0 +1,127 @@
+{
+  "id": 963802,
+  "name": "Thomas Watson and John McCahan, Garnishees of William Seatown, v. Bagaley & Smith",
+  "name_abbreviation": "Watson v. Bagaley",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "164",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wh. 287",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wh. 240",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830491
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0240-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 400",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dall. 278",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 392",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Wharton, 280",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0280-01"
+      ]
+    },
+    {
+      "cite": "4 Dall. 280",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Binn. 400",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 490,
+    "char_count": 9636,
+    "ocr_confidence": 0.369,
+    "pagerank": {
+      "raw": 5.089094310081917e-07,
+      "percentile": 0.9380429129265837
+    },
+    "sha256": "a0b2a8dfa818e7ab5afb5ecaa08ed6423b3ca97a9b35a703a7e14d984e687512",
+    "simhash": "1:0d875d0fa5c9f574",
+    "word_count": 1664
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Watson and John McCahan, Garnishees of William Seatown, v. Bagaley & Smith."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of this Court was delivered by\nGibson, C. J.\nAn assignment of a chose in action or of a fund need not be by any particular form of words, or particular form of instrument. It leaves the legal ownership and consequent right of action in the assignor; and it has therefore been treated as a declaration of trust for the assignee, or an agreement that he shall receive the money to his own use; or, as the case may be, to the use of the persons beneficially concerned. Any binding appropriation of it to a particular use, by any writing whatever, is consequently an assignment, or what is the same, a transfer of the ownership; and that it may be effected by a letter of attorney to collect and distribute so as to be good against an attachment by particular creditors, was ruled by this Court in The United States v. Vaughan, 3 Binn. 400, and Sharpless v. Welsh, 4 Dall. 280, so that the case before us is with the defendants on authority. The difficulty, on principle, arises from the revocable nature of the instrument; whence an argument that if the principal can control the money, it is potentially his property, and subject to attachment, in whatever hands it may be. The solution of it is that a letter of attorney is not revocable after it has been executed; and here the money was collected and ready for distribution according to the terms of the trust. The services of the trustees, in the 'execution of it, was a consideration for an agreement which would have prevented the donor of the power from retracting it had he been disposed to do so. The consideration of trouble was certainly as potential as the trifling pecuniary one inserted in formal assignments. If, then, the letter of attorney, and the acts done pursuant to it, virtually constituted an assignment, it was decisively within the purview of the statutes to regulate transfers for the benefit of creditors; else those statutes might be evaded, and the pernicious- power to prefer be retained by changing the form of the instrument. True, it was held in Blakey\u2019s Appeal, 7 Barr, 449, that judgments given to prefer particular creditors, are not assignments in substance or in form; but they could not be made so by any construction, however forced. An assignment passes the property immediately: a judgment enables the creditor to seize it: but their operation is diverse. Here the garnishees had the property for the creditors, by force of an irrevocable power, and it was consequently subject to attachment.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Aeheson and MeKennan, for the plaintiff in' error.",
+      "Gow, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Watson and John McCahan, Garnishees of William Seatown, v. Bagaley & Smith.\n1. A power of attorney to collect certain moneys, and pay them to certain creditors, in a prescribed order of preference, is virtually an assignment.\n2. Though such power was revocable, it was no longer so after the collection of the moneys, and holding them ready for distribution, according to the terms of the trust.\n3. Such an assignment is within the purview of the acts regulating transfers for the benefit of creditors; and the provision of one of those acts, requiring such assignments to be recorded, not having been complied with, the moneys collected were held liable to attachment by a creditor of the assignor.\nError, to the Common Pleas of Washington.\nOct. 27. This was an amicable scire facias, in wbich Bagaley & Smith, who had obtained judgment in foreign attachment against William Seatown, were plaintiffs, and Thomas Watson and John McCahan, as garnishees of Seatown, were defendants.\nThe attorneys of the parties stated the following case, in the nature of a special verdict, for the opinion of the Court below.\nWilliam Seatown, who was indebted to the plaintiffs in this case, executed and delivered to Thomas Watson and John McCahan a power of attorney, as follows:\u2014\n\u201c Know all men by these presents, that I, W. S., merchant, have made, constituted, and appointed, and by these presents do mate, &c., and in my place and stead put and depute J. McC. and T. W., my true and lawful attorneys, for me and in my name and for my use to ast, demand, sue for, recover, and receive all such sum or sums of money, debts, goods, wares, and other demands whatsoever, which are or shall be due, owing, payable, and belonging to me by any manner or means whatsoever: and all moneys left by me, and all other moneys or other evidences of indebtedness that may come into the hands of my attorneys hereby constituted and appointed, I hereby authorize and empower to pay over to, and in the following manner, aBd especially to the following persons, viz.: to D. P., one hundred dollars with the interest due thereon; 2. to A. B., one hundred dollars with the interest due thereon; 3. to the estate of M. L., deceased, seventy-three dollars, or whatever amount may be found due the said estate upon settlement; 4. to G. B. W., whatever amount may be found due the said W. on settlement; and all other just and lawful claims found due by me to the balance of my creditors, I hereby authorize and empower my attorneys aforesaid to pay pro rata out of the balance of the assets in their hands, after deducting all necessary expenses for settlement of my accounts, and the fulfilment of the within power of attorney. Witness my hand, &c.\u201d\nIn pursuance of this writing W. and McC. collected and received on account of debts due Seatown, sufficient to pay Bagaley & Smith\u2019s claim.\nThe plaintiffs issued a foreign attachment, which was executed by attachment of the moneys and effects of Seatown in the hands of W. and McC., Seatown having then removed from the state.\nThe money attached is claimed by the plaintiffs under their attachment, and also by the creditors named in the writing aforesaid, to whose use it is claimed to be appropriated.\nIf the Court is of opinion that the plaintiffs are entitled to payment of their attachment out of the fund, then judgment to be entered in their favour; sum due to be liquidated by attorneys.\nIf the opinion of the Court is against the plaintiffs, then judgment to be entered for the defendants. In either event the judgment to be subject to a writ of error.\nUpon this case stated the Court below delivered the following opinion:\n\u201c It appears from the case stated, as we understand it, that Sea-town executed to Watson & McCahan a power of attorney to collect his debts,' and pay from the proceeds of said collections, certain creditors of said Seatown, named in said power of attorney, preferring certain creditors, and directing the remainder to be paid pro rata. That by virtue of said power of attorney, said Watson & McCahan did collect certain moneys, and had the same in their hands, when the foreign attachment issued at the suit of Bagaley & Smith, and the amount attached in their hands as garnishees. The question is, whether the creditors mentioned in the power of attorney, or the attaching creditor, are entitled to the money. This power of attorney, in the opinion of the Court, is virtually an assignment, and if it had been recorded according to the requisites of the Act of 24th March, 1818, would have been good as an assignment, but the assignees would have been trustees for all the creditors since the Act of 17th April, 1843, Purdon, 90. Under the authority of Flanagin v. Wethefill, 5 Wharton, 280, the Court think that the power of attorney or assignment should have been recorded, agreeably to the Act of 1818, and, not having been so recorded, that the fund in the hand of the garnishees or assignees was liable to be attached.\n\u201c The Court therefore direct judgment to be entered- for -the plaintiffs.\u201d\nIn this Court this entry of judgment was assigned for error.\nAeheson and MeKennan, for the plaintiff in' error.\n1. This letter of attorney' has none of the formal or substantial attributes of a voluntary assignment, which is an absolute and indefeasible conveyance of the subject-matter of it, transferring the actual and legal ownership to the assignee: Ridgway v. Stewart, 4 W. & S. 392; 2 Blackstone\u2019s Com. 326. This being a mere letter of attorney, with instructions to the agents, it was not necessary to record it; as is shown by Ridgway v. Stewart, and by Blakey\u2019s Appeal, 7 Barr, 449. See also. \u00a74, Act 16th April, 1849, 2d Dunlop, 1198. This, then, being an arrangement, bond fide, for the benefit of particular creditors, in form not expressly prohibited, is not unlawful in its object.\n2. The directions in the letter are an equitable appropriation of the moneys to be collected under it: 2 Story\u2019s Eq. Jur. \u00a7 1047, and the receipt of it by the plaintiffs in error made that appropriation irrevocable; they becoming thereby trustees for the enumerated creditors, and those creditors acquiring an interest in the trust, which could not be affected by an attachment: Sharpless v. Welsh, 4 Dall. 278; Caldwell v. The Garnishees of Vance, &c., as stated by Justice Yeates, in U. S. v. Vaughan, 3 Binn. 400.\nGow, for defendants in error.\nThe power was an assignment in trust, which became void on not being recorded: Act 24th March, 1818, Purdon, 89; and therefore the attachment was valid. According to Sharpless v. Welsh, and the cases in 1 Atkyns, 124, and 2 Atkyns, 207, the plaintiffs in error were trustees for creditors, in whom an interest vested, indefeasible by Seatown. This instrument was an assignment by an insolvent of all his property for the benefit of all his creditors. The Act of 1818 is to be construed in suppression of the mischief: Englebert v. Blaujot, 2 Wh. 240; Elanagin v. Wetherill, 5 Wh. 287. If this instrument is a mere defeasible letter of attorney, the property remained in Seatown, and was liable to the foreign attachment."
+  },
+  "file_name": "0164-01",
+  "first_page_order": 164,
+  "last_page_order": 167
+}

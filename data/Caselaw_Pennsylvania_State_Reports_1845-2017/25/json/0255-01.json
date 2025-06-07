@@ -1,0 +1,79 @@
+{
+  "id": 975757,
+  "name": "Neely versus McCormick",
+  "name_abbreviation": "Neely v. McCormick",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "255",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wh. 490",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns. Rep. 352",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 206,
+    "char_count": 2831,
+    "ocr_confidence": 0.419,
+    "pagerank": {
+      "raw": 1.2079948046057773e-07,
+      "percentile": 0.59523914328596
+    },
+    "sha256": "e6d1d78344f8692fc3c32389ddc8aa3095171fdefcff8654117d2f3919fbdf30",
+    "simhash": "1:6e71c795ea4837eb",
+    "word_count": 505
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neely versus McCormick."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nUnder the Act of 14th April, .1851, upon demand made, it is the duty of the personal representative to have appraised and set apart of the real or personal estate of their decedent, property to the value of $300, to remain with the widow for the use of herself and family. So much of the estate as is thus set apart, is withdrawn from the general administration, and becomes the property of the widow for the aforesaid purpose, as soon as it is appraised and set apart, subject, however, to the approval of the Orphans\u2019 Court.\nWhere the administrator refuses or neglects, upon request made, to allow the property claimed to be appraised and set apart for the widow, she may have an action against him at once without waiting for the settlement of the estate, and the general distribution of its effects. Yet she cannot maintain trespass; for the possession of the personalty is in the personal representative, and the widow has neither a general nor special property in any particular goods until after the election and appraisement. Her remedy is a special action on the case, unless the estate has been sold and converted into money by the administrator; when, at her option, she can maintain assumpsit for money had and received to her use.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Barton, for plaintiff in error,",
+      "G. P. Hamilton, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Neely versus McCormick.\nWhere an administrator refuses to set apart for the widow of a decedent the property to which she is entitled under the Act of 1851, she has neither such a general nor special property in the articles to which she is entitled as will enable her to maintain trespass against the administrator.\nHer remedy in such circumstances is a special action on the case, or if converted by him into money, she may sue in assumpsit for money had and received to her use.\nError to the District Court of Allegheny county.\nJohn Neely died in July, 1851, leaving the plaintiff his widow: the defendant is his surviving administrator. On the 31st of July, an appraisement was filed of the personal estate, amounting to $858.59f.\nBefore and at the time the inventory was taken, the plaintiff claimed property of the value of $300, under the Act of 14th April, 1851; the administrators refused to allow her the benefit of said Act, but had the property appraised and disposed of in the course of administration; she then brought this action of trespass m et armis, to recover the value of said property.\nThe Court (Hampton, P. J.,) held that the plaintiff could not recover in this form of action.\nThis was assigned for error.\nBarton, for plaintiff in error,\ncited 14 Johns. Rep. 352; Act 14th April, 1851; 1 Chitty\u2019s Pl. 171; 14 Ser. & R. 499; 6 Wh. 490; 7 Harris 255.\nG. P. Hamilton, contra,\ncited Act of 9th April, 1849; 1 Ser. & R. 480; 4 Ser. & R. 490; 7 Ser. & R. 9; 4 Taunt. 547; 1 East 244; 7 C. & P. 74."
+  },
+  "file_name": "0255-01",
+  "first_page_order": 255,
+  "last_page_order": 256
+}

@@ -1,0 +1,73 @@
+{
+  "id": 483139,
+  "name": "Gump et al. versus Showalter",
+  "name_abbreviation": "Gump v. Showalter",
+  "decision_date": "1862-11-17",
+  "docket_number": "",
+  "first_page": "507",
+  "last_page": "509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "43 Pa. 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Smith 511",
+      "category": "reporters:state",
+      "reporter": "Smith & H.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 301,
+    "char_count": 4441,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 6.642137631490024e-08,
+      "percentile": 0.40502148966986107
+    },
+    "sha256": "d65fd3e2ab5989fda71a8760ec40b9f64cdadb2fc046e3ce81f8afe06f8cdf06",
+    "simhash": "1:cc0d9f61fc28aafa",
+    "word_count": 811
+  },
+  "last_updated": "2024-02-27T20:32:47.191475+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gump et al. versus Showalter."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, fry\nRead, J.\nIn England sales in market overt are binding on all those who have any right or property therein, but even in such case, if the buyer knoweth the property not to be in the seller, the owner\u2019s property is not bound thereby. But a purchaser gains no property in a horse that has been stolen, unless it be bought in a fair or market overt, according to the direction of the statutes 2 P. & M. c. 7, and 31 Eliz. c. 12, which secure the most perfect publicity to the whole transaction; nor does such sale take away the property of the owner, if within six months after the horse is stolen he puts in his claim before some magistrate where the horse shall be found.\nIn case any of the requirements of the statutes are not observed, such sale is utterly void.\nIn Pennsylvania markets overt do not exist, nor are the foregoing statutes in force, And in cases of sales of horses by commissioned auctioneers, it is expressly provided by the Act of Assembly that no sale of any stolen horse, mare, or gelding shall be deemed a public sale in markets overt so as to change the property thereof: Act 23d September 1780, \u00a7 7, 1 Smith 511. Now the Act of the 7th April 1807, giving a lien upon horses delivered to innkeepers and livery-stable keepers, to be kept in the stables, for the expense of keeping, and if it amounts to $30, the power o'f selling the horse at public sale according to law, evidently contemplates no such case as a stolen horse left by a thief; for it provides before sale for a personal demand. And in case of removal for notice and demand of payment in writing, left at his last place of abode, and after the sale it is directed that such livery-stable keeper or innkeeper, after deducting from the amount of sale the costs of sale, and the expenses of keeping, \u201c shall deliver the residue on demand to the person or the agent of the person who delivered the horse or horses to him for keeping.\u201d\nSuch provisions are clearly inapplicable to persons guilty of horse-stealing; and if the sale is to be conducted by the auctioneers empowered by law to make public sales of horses, then the Act of 1780 expressly provides that such sale shall not change the property of a stolen horse. The sale of the stolen horse, therefore, by the innkeeper, in this case, did not divest the title of the real owner, nor did it in any way change the property which still remained in him.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "Purman and Ritchie, for plaintiffs in error.",
+      "J3. W. Sayers, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Gump et al. versus Showalter.\nSale of stolen Morse at Suit of Innkeeper for Livery does not divest Title of Owner.\nThe Act 7th April 1807, giving a lien upon horses delivered to innkeepers for keeping, and also the power to sell at public sale after the expense amounts t< > $30, does not apply to a stolen -horse left by the thief, and such sale does not divest the title of the real owner.\nError to the Common Pleas of Greene county.\nThis was an appeal from the judgment of a justice of the peace, in an action of assumpsit brought by John Showalter, against Archibald Gump and A. J. Gump, to recover the value of a gray mare, which the plaintiff had received in exchange from defendants, but which having been- stolen, was subsequently reclaimed by the owner.\nThe testimony showed that the mare had been stolen from one William Daw, in Ohio; that she was left by a stranger at the public-house of Mrs. Morris, in Greene county, where she was allowed to remain until the bill for her keeping amounted to over $30, when she was advertised under the Act of April 7th 1807, creating \u201c a lien in favour of livery-stable keepers and innkeepers, on horses delivered to them to be kept in their stables,\u201d and sold to Elijah Patterson, who sold her to the Messrs. Gump, by whom she was given to the plaintiff in exchange for a horse.\nThe plaintiff claimed to recover on the implied warranty of title, while the defendants insisted that the sale by the innkeeper passed a good title to Mr. Patterson, which title had passed to the plaintiff, and that as he had voluntarily surrendered the mare to Mr. Daw, he could not recover.\nThe court below instructed the jury, that the innkeeper\u2019s sale did not pass title to the purchaser, and that the plaintiff below was entitled to recover the value of the mare at th'e place where she had been exchanged; which was assigned here for error by the defendants.\nPurman and Ritchie, for plaintiffs in error.\nJ3. W. Sayers, for defendant.\nNovember 17th 1862,"
+  },
+  "file_name": "0507-01",
+  "first_page_order": 507,
+  "last_page_order": 509
+}

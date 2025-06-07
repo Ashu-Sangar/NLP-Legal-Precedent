@@ -1,0 +1,109 @@
+{
+  "id": 972343,
+  "name": "Crook versus Williams",
+  "name_abbreviation": "Crook v. Williams",
+  "decision_date": "1853-03-21",
+  "docket_number": "",
+  "first_page": "342",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Pa. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wh. 53",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830471
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0053-01"
+      ]
+    },
+    {
+      "cite": "3 Bibb 450",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6409529
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/6/0450-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 58",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 303",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 487,
+    "char_count": 8746,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 6.54292549810138e-08,
+      "percentile": 0.4012529301901385
+    },
+    "sha256": "65a549b4a4408c684dd87a782b66a0bfbf01b3b28d6718c6009f2e0dfc9998b8",
+    "simhash": "1:d6e92ff139445993",
+    "word_count": 1568
+  },
+  "last_updated": "2024-02-27T16:08:18.291907+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Crook versus Williams."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nBlack, C. J.\nThis was replevin for three cows, which had been levied and sold as the plaintiff\u2019s property, under a warrant for school tax. The defendant was the crier of the constable\u2019s sale, and knocked off the three cows in dispute, to himself. The judge was requested to say, that the sale was illegal and void, and that the plaintiff might treat it as a nullity, and recover in this action. His refusal to do so is the exception here.\nA constable can buy property at his own sale no more than any other person charged with the execution of a trust or a duty inconsistent with the interest of a purchaser. If he delegates his power to another, the deputy stands in the shoes of his principal. But where the constable superintends the sale himself, and employs a crier merely as his mouth-piece, there is nothing to prevent the latter from bidding.\nThis sale was an honest one. The jury found it so. It is impugned only on the ground that the crier stood in such a relation to the business that he could not lawfully purchase. If this were true, it would not be void but only voidable, and the owner of the goods could have no advantage of the illegality, except by claiming a resale, or by demanding the property after a tender of the purchase-money. Where there is no fraud in fact, the person who has in good faith made a purchase which violates a rule of policy, is not to be punished by losing more than the advantage of the bargain; he does not lose both the property and the money he paid for it. The price of these goods went to satisfy the plaintiff\u2019s debt; and if the purchaser had been a trustee for the sale of them, the plaintiff could not have them back again while the proceeds were applied to his benefit, without refunding them.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "W. Darlington, for plaintiff in error.",
+      "E. Darlington and Lewis, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Crook versus Williams.\n1. A constable cannot lawfully purchase at his own sale, and one deputed by him to make the sale is subject to the same disability. But where the constable personally attends and superintends the sale and employs one merely as a crier, the latter may purchase at the sale.\n2. Such a purchase, if not actually fraudulent, would be only voidable and not void: but where the proceeds of such purchase are applied to the debt of the defendant in the execution, the latter cannot take advantage of the illegality except by claiming a resale or demanding the property, after tendering the purchase-money.\nError to the Common Pleas of Delaware eounty.\nThis was an action of replevin, brought by William T. Crook, against Benjamin M. Williams, to recover three cows.\nThe defendant pleaded property, \u2014 and the plaintiff replied property in himself.\nThe verdict was for the defendant, $75 damages and 6 cents costs, \u2014 and judgment accordingly.\nThis case was up before on other grounds; see 5 Harris 199, &c.\nThe plaintiff was the owner of the cows in question. He resided in the village of Crookville, Delaware county. That village was formerly part of Nether Providence and Chester townships,' and was erected into a separate school district by the Act of April 9, 1849. The time when the common school law went into operation in that district, and when the jurisdiction of those townships over it ceased, became a question. Nether Providence assumed jurisdiction over it, and assessed school-tax upon the property of citizens of Crookville, for the school year 1850. Among those upon whom it was so assessed was William T. Crook, and for nonpayment thereof, a levy was made by the constable of Nether \u2022 Providence under a warrant from the treasurer, upon five cows of Crook\u2019s. The constable advertised the cows levied on.\nThe defendant in the execution, Crook, who was the plaintiff in the replevin, proclaimed to the persons then present, that, \u201c if any person purchased the cows, he would buy a lawsuit.\u201d The sale was adjourned, and, on the second day fixed for the sale, a like notice was given. The constable had the sale proceeded with, and Williams, the defendant in this case, was the crier of the sale. He struck off three of the cows to himself, at $11.50, $14, and $15.50, respectively, and the two others to other persons, one for $25 and one for $20.\nThis action was brought to recover the three cows so purchased by the defendant.\nOn the trial of the cause the plaintiff\u2019s counsel requested the Court to charge the jury,\n1. The alleged sale of the cows in question to the defendant, he being the auctioneer and agent of the constable at the time thereof, was illegal and void, and vested no title to the property.\n2. The plaintiff, being the owner of the cows in question, has a right to treat the alleged sale as a nullity, and to recover in this action.\n. The Court, in reply to the said points, charged the jury\u2014\n\u201cIt is undoubtedly tru.e that auctioneers, trustees, and all those in whom mutual confidence has been reposed by the parties interested, are denied the right of making purchases at their own sales. \u2018The circle of the rule,\u2019 says his honor Judge Bell, in the case of Beeson against Beeson (9 Barr 284), \u2018is extended to include special agents, commissioners of bankrupts, assignees of bankrupts, solicitors of the commission, auctioneers, creditors who have been consulted as to the mode of sale, attorneys and solicitors, and others holding similar relations of confidence.\u2019 An examina-tion of the eases referred to by his honor Judge Bell, has, however, satisfied the Court that the rule has never been extended to a case like the one before us. The cases of special agency whereto relation is made, were of a character entirely different from the one before us, one being where the agent who purchased the land bought it for the executor, and the other was a case of gross and outrageous fraud. [It is not the crier at a sale, but the seller, that is precluded from purchasing.] Neither the executor or administrator, nor commissioners of bankrupts, nor attorneys and solicitors, nor even auctioneers on all occasions, cry their own sales; but they are the sellers, they are the trustees, having the confidence of the parties, and shall not be permitted to purchase at their own sales. [This was not the sale of Williams, and he' stood in no relation of confidence to the parties interested, which could have been affected by fraud/] No public policy can be outraged by this proceeding. [Williams stood in the same relation to the parties as does the clerk or the individual who delivers from their places the articles to be sold. He held up for public sale the property to be disposed of, and solicited the bids of the crowd at the sale. This is not such a trust as is contemplated in the law.} Actual fraud, even in the case before us, would avoid the sale, as fraud vitiates all transactions into which it enters; but nothing bearing the color of fraud has been suggested here.\u201d\nError was assigned to the part of the charge in brackets.\nW. Darlington, for plaintiff in error.\nThe auctioneer or agent of the constable conducting the sale, cannot legally purchase the property sold: Babington on Auctions 104; Story on Sales, sec. 476; 6 Ves. 626; 1 Story\u2019s Eq. sec. 322; 6 Ves. 617; 2 Johns. C. R. 263; 6 Watts 303; 7 Id. 389; Id. 472; 9 Barr 284; 7 W. & Ser. 401; 3 Binn. 58; 3 U. S. Dig. 430; 3 Bibb 450; 6 W. & Ser. 18; 7 Id. 152; 2 Wh. 53; 1 Ashmead 307.\nThe rule which forbids a trustee from purchasing at his own sale, forbids an agent of the trustee employed for the purpose of sale: 5 Madd. 91.\nSale of personal property by a constable to the plaintiff in the execution, no other person being present, held to be void: 3 Harris 92.\nE. Darlington and Lewis, for defendant in error.\nThe constable attended the sale and managed it. The rule invoked applies only to persons occupying a fiduciary relation to each other: 9 Barr 284; 2 John. Ch. 252. But Williams, as crier, ivas not intrusted with any power in the premises. He merely announced the bids and struck down the property to the highest bidder. He should not be considered as an auctioneer. The latter has not only possession of the goods which he is employed to sell, but he has an interest in them: 2 Kent 586.\nThe sale was not fraudulent in fact. If voidable, it is rendered so by the policy of the law, and the plaintiff, to avoid the sale, should pay to the purchaser what he paid for the property, and interest, and reasonable expenses : 9 Barr 280; 2 John. Ch. 263; 10 Ves. 385. The plaintiff should have tendered the price paid and expenses.\nThere is no rule that a trustee empowered to sell cannot be the purchaser; but however fair the transaction, it is subject to an option in the cestui que trust, if he come in a reasonable time, to have a resale: 5 Ves. 678; 6 Id. 617; 2 John. Ch. 263; 10 Ves. 385.\nMarch 21,"
+  },
+  "file_name": "0342-01",
+  "first_page_order": 344,
+  "last_page_order": 347
+}

@@ -1,0 +1,66 @@
+{
+  "id": 960651,
+  "name": "Bank v. Patterson",
+  "name_abbreviation": "Bank v. Patterson",
+  "decision_date": "1848-10-11",
+  "docket_number": "",
+  "first_page": "311",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 311"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 214,
+    "char_count": 3243,
+    "ocr_confidence": 0.412,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.29375090980207724
+    },
+    "sha256": "328d3eb71d13da34decb677c9a9f8f716986481c17490b6f3e9336db009628c2",
+    "simhash": "1:05611c50795657e5",
+    "word_count": 582
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bank v. Patterson."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe lien of a mortgage, where it is prior to all other liens, is, by express statutory law, unaffected by a sale on a judgment. The object of the legislature was in such cases to make it independent, and above the process of execution on junior judgments. I can see no reason why this superiority should not extend to the process of delivering land upon an extent, as well as to the process of sale. In this case the defendant agreed to accept the premises at the valuation fixed and determined by the inquest, and they were delivered to him by the sheriff, under the act in such case made and provided. The question is, whether the mortgage, which is prior to the other liens, or the judgment-creditor, shall have the money. The 3d section of the act of 13th October, 1840, under which the proceeding took place, directs that the defendant who takes the premises at the valuation, shall pay the rent in semi-annual instalments to the plaintiff in the execution, until the debt, interest, and costs shall be satisfied. The 4th section of the same act provides, that the court out of which the execution issued, shall, on the application of any creditor, make an order directing the manner in which the money arising from such instalments shall be distributed among the different lien-creditors, according to the priority of their liens, in the same manner and with like effect as in case of money arising from sheriffs\u2019 sales. Now it is clear that in case of a sale, the mortgage would not be entitled to any part or portion of the money; because the lien of the mortgage is not divested by such sale, or in any way affected by it. It still continues to subsist in full force. A priori, the money which arises from an extent which is to be distributed in the same manner, cannot be appropriated to the mortgage. The mortgagee may at any moment after the delivery upon an extent, proceed to sell the premises, just as he could sell a second time upon a sale on a junior judgment. There was therefore error in making the rule to show cause why the money arising from the instalment should not be applied to the mortgage, absolute. The judgment-creditor, the Bank of the United States, is entitled to the money.\nThe order of the court quashing the rule absolute is reversed, and it is ordered that the Bank of the United States take the money out of court.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Shaler, for plaintiff in error.",
+      "Agnew, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Bank v. Patterson.\nWhere lands are taken by the defendant in the execution at an annual valuation fixed by the inquest, a mortgage-creditor whose lien would not have been discharged by a sale of the lands under such execution is not entitled to the fund.\nIn error from the Common Pleas of Beaver.\nThe lands of Patterson having been levied on, their yearly value was appraised by the inquest, and they were delivered to him at that valuation by consent of the plaintiff, according to the provisions of the act of 1840. The question was, whether the owners of a mortgage given to one Rapp, were entitled to the rent or annual valuation. This mortgage was a prior lien to the plaintiff\u2019s judgment, and would not have been discharged by a sale of the land thereunder. The court awarded the fund to the holder of the mortgage.\nShaler, for plaintiff in error.\nAgnew, cont\u00f3.\nOct. 11."
+  },
+  "file_name": "0311-01",
+  "first_page_order": 311,
+  "last_page_order": 312
+}

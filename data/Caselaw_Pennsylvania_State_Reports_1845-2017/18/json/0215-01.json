@@ -1,0 +1,116 @@
+{
+  "id": 969132,
+  "name": "Ridgway versus Longaker",
+  "name_abbreviation": "Ridgway v. Longaker",
+  "decision_date": "1852-04-05",
+  "docket_number": "",
+  "first_page": "215",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 282",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Whar. 210",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0210-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 475",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846874
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0475-01"
+      ]
+    },
+    {
+      "cite": "1 Pa. Rep. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle 56",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820579
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0056-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 560,
+    "char_count": 12797,
+    "ocr_confidence": 0.438,
+    "pagerank": {
+      "raw": 1.4339914343311679e-07,
+      "percentile": 0.6518530617035974
+    },
+    "sha256": "aed881181280092d895fefda2eff8b4de9ad0dc5c4d29f06d52cf0e5d5034ca6",
+    "simhash": "1:df738e34f85f7b70",
+    "word_count": 2259
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ridgway versus Longaker."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLowrie, J.\nA sei. fa. on a mortgage is a proceeding in rem to have the property sold for the debt charged upon it, and, of course, the existence of the lien and its' amount are subjects of inquiry. In this case, Steiner, the mortgagor, having been divested of his title to the land, had no interest left, and made no defence. The plaintiffs, therefore, took judgment against him by default, and whether that judgment can serve any purpose, vre need not inquire. Longaker, the terre tenant, pleads that the lien was discharged by a sale to him on a judgment and execution for the same debt, which was partly secured by this mortgage, and on-this plea this issue was raised.\nTo this issue Steiner was no party, and was even without interest in the thing which is the subject of the suit, except that the establishment of the lien might benefit him. His interest on the question raised by the plea is against the terre tenant and in favor of the plaintiffs, and therefore the defendant had a right to call him as a witness: Talmage v. Burlingame, 9 Pa. S. R. 26.\nSteiner testified that the bond of 9th Oct., 1847, and the bond and mortgage of 27th November, 1847, were both given for advances made and to be made. The plaintiffs then proposed to ask him what advances were made, but the Court did not permit it. When it is observed that the accounts rendered by the plaintiffs themselves were in evidence and undisputed, showing how the account stood before either security was given, and every item afterwards, it is impossible to see any useful purpose of the question. The Court is not bound to hear evidence of admitted facts. If the purpose was to show that the securities were severally given for different parts of the same debt, and not each for the whole, it should have been stated.\nAs to the plaintiff\u2019s points, the Court was not bound to answer them specifically; it is sufficient that the law of the case is properly announced to the jury. The charge was, in substance, that, the land having been already sold under a judgment of the Court, it is discharged from the prior mortgage, if the judgment and the mortgage were both given as security for the same debt, and if otherwise, it was not. If this instruction does not appear very clearly, it arises from the Court being called upon to state it in answer to several points presented by the plaintiff'. But in a case so simple, it could hardly be misunderstood.\nWe need not repeat the authorities cited by counsel to show that the instruction was correct. How could it he otherwise ? At the time the mortgage was given, the whole debt was about $8100, and it was afterwards reduced to about $2000. The mortgage was for $3500, and the judgment-bond was for $1000, both being duplicate securities for the real debt. Now it is apparent that a sale of the land on the judgment is just the same as a sale on the mortgage, for the proceeds will go to the payment of the debt secured by the mortgage; and bow could it be sold again for the balance of the same debt ? It is needless to mention other stronger effects of a contrary vie'w.\nIt is much to be regretted that the Act of 1880, preserving the lien of a\u2019mortgage after a sale on a junior judgment, was ever passed. It is the cause of great uncertainty as to title on judicial sales, and of consequence, of great sacrifices of property to the injury of defendants and the later lien creditors. It is founded on no valuable principle, and is of no real advantage to any class of people, except those who are skilful in profiting by the misfortunes of others.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Mulvany, for plaintiff in error.",
+      "Fornanee, with whom was MunsicJcer, for defendant in error.\u2014",
+      "T. S. Bell in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Ridgway versus Longaker.\n1. In a scire facias on a mortgage, the terre tenant may call the mortgagor against whom judgment by default had been rendered, to prove that a single bill, which was given by the mortgagor to the plaintiffs, and the mortgage, were given for advances, the mortgaged premises having been sold' under a judgment on the single bill and purchased by the terre tenant.\n2. A Court is not bound to hear evidence of admitted facts.\n3. The Court trying a cause, is not bound specifically to answer points submitted, if they be answered in the general charge.\n4. If a mortgage and a judgment be given as security for the same debt, a sale of the mortgaged premises under the judgment, discharges them from the' lien of the prior mortgage.\nError to the Common Pleas of Montgomery county.\nThis was a scire facias in the names of Thomas Ridgway, Henry Budd, and Rowland Kirkpatrick, trading under the firm of Ridgway, Budd & Co., to the use of Ridgway & Budd, v. Abraham Steiner, with notice to Henry Longaker, terre tenant.\nThe plaintiffs, Ridgway & Budd, with Rowland Kirkpatrick, who had gone out of the firm, had been flour factors in the city of Philadelphia. \u2022 Abraham Steiner was a miller, at the Perkiomen Mills, in Montgomery county; and in the years 1847, 1848, and 1849, manufactured flour, oil, &c., and consigned the same to the plaintiffs, who gave acceptances and advanced money to him from time to time, for a considerable amount. To secure them for these acceptances and advances, Steiner, on the 9th of October, 1847, executed to the plaintiffs a bill single, in the penal sum of $7000, conditioned for the payment of $3500, and took their receipt, as follows: ,\n\u201c Received, October 9, 1847, from Abraham Steiner, his judgment note of this date in our favor for the sum of $8500, it being a collateral security for money now due, and that may hereafter become due us by him in the course of business for cash, acceptances, or otherwise. Ridgwat, Budd & Co.\u201d\nJudgment was entered upon this bill single in the Common Pleas of Montgomery county, on the 16th Ma.y, 1849.\nOn the 27th of November, 1847, Steiner also executed to the plaintiffs a mortgage on a tract of ten acres and eighty-six perches of land in Lower Providence township, and an accompanying bond for $1000, payable on the 1st of April, 1848, with interest. The mortgage was recorded November 29, 1847.\nUpon the judgment entered on the bill single, the plaintiffs issued a fi. fa. to May Term, 1849, No. 48, under which the sheriff levied on the same tract of land described in the mortgage; and afterwards they issued an al. vend,, ex. to November Term, 1849, No. 31, under which the sheriff sold the tract of land referred to, to Benry Longaker for the sum of $1, and executed to him a deed poll accordingly.\nThe plaintiffs subsequently issued a writ of scire facias on the mortgage to February Term, 1850, against \u201c Abraham Steiner, with notice to Henry Longaker, ierre tenant.\u201d Judgment was entered by default, for want of an appearance, against Abraham Steiner, on return of two nihils. Longaker appeared and pleaded in substance, that the lien of the mortgage was divested by the sheriff\u2019s sale under the al. vend. ex. to November Term, 1849, No. 31, and that he held the land unencumbered by the mortgage. On the trial, the defendant, Longaker, called Steiner, his co-defendant, as a witness to prove that the bill single and the mortgage were both given as collateral security to the plaintiffs for advances. The plaintiffs objected to the competency of Steiner as a witness, but the Court overruled the objection; and this was the subject of tho first bill of exceptions.\nSteiner, in his examination in chief, testified that the judgment note and mortgage were given as collateral security to plaintiffs for advances, &c. On his cross-examination, the plaintiffs offered to ask him what advances were made, to him. Defendant objected, and the objection was sustained; and the plaintiffs again excepted. The rejection of this evidence formed the second bill of exceptions.\nPlaintiff\u2019s counsel asked the witness whether he did not owe the plaintiffs the amount of the mortgage. This was overruled, and exception taken on part of plaintiffs.\nThe receipt above referred to was given in evidence on the part of defendant. Also, an account current of Ridgway, Budd & Co., against Abraham Steiner, which was rendered to him, stating a balance due -them on December 31, 1847, of $1156.42. Also, another account rendered April 14,1849, stating a balance due to plaintiffs of $1617.22.\n\u2022There was also given in evidence the declarations of Kirkpatrick, that the mortgage and judgment were taken as collateral security for advances to Steiner, in carrying on his milling business.\nAlso, a deed from Landis and wife to Abraham Steiner, for ten acres and eighty-six perches of land; deed dated October 22, 1847.\nOn the part of plaintiffs was given in evidence an account rendered by them, in which a balance was stated against Steiner on 24th February, 1851, of $2469.97.\nPoints as follows were proposed on the part of the plaintiffs: \u2014 \u2022\n1. That the mortgage on which the suit was brought, was a lien on the land prior to and independent of the judgment, under which the defendant purchased the premises.\n2. 'That the lien of the said mortgage was not destroyed by the sheriff\u2019s sale under the vend. ex. to November Term, 1849, No.' 31, but the mortgage remained a good and subsisting lien, notwithstanding the said sale.\n3. That the evidence on the part of the defendant constitutes no valid defence against the mortgage, and the verdict of the jury ought to be in favor of the plaintiffs.\nKrause, J., charged the jury as follows:\u2014\n\u201c Both parties in this case have submitted points for the direction of the Court to the jury. The defendant\u2019s contain an assertion of facts which constitute a question for the jury, and not the Court. The third point of defendant is not law in the cause, and is negatived by the Court. But if the jury find the fact as stated in his first and second points, viz. that said mortgage and judgment are security for the same debt, then the Court instruct the jury that said two points are true, and the three points submitted by plaintiffs are not the law in the case. If, however, the jury find that said mortgage and judgment are not securities for the same debt, then the said three points of plaintiff are true, and the law in the case.\u201d\nThe plaintiffs excepted to the charge of the Court.\nYerdict was rendered for the defendant.\nIt was assigned for error : \u2014 1. That the Court erred in admitting Abraham Steiner, the defendant on the 'record, as a witness in the cause; his competency being objected to, as stated in the first bill of exceptions. 2. In not admitting the evidence referred to in the second bill of exceptions, and in refusing to permit the plaintiffs to ask the witness, Steiner, as to the nature and amount of the advances made to him. 8. In not answering each of the points submitted by the plaintiffs, separately; the manner in which they charged upon them was calculated to mislead the jury. 4. In not answering the first, second, and third points of the plaintiffs in the affirmative.\nMulvany, for plaintiff in error.\nHe contended, inter alia, that Steiner, being a party to the record, was incompetent,, though judgment by default had been entered against him: 1 Barr 441, Wolf v. Fink; 4 Id. 200.\n2. A party has a right to prove every fact which may elucidate the transaction in question: 6 Barr 179.\nAs to 3d and 4th assignments in this case, the mortgage was recorded as the first lien on the property; the sheriff\u2019s sale was under a vend. ex. under a subsequent judgment; the state of the account between the parties was varying, from time to time, according to the course of business; the balance due the plaintiffs at the time of the trial upon the sci. fa. on the mortgage was $>2469.97; and under this state of facts the Court ought to have instructed the jury, as matter of law, that the mortgage was a valid lien upon \u2022 the property, and that the plaintiffs were entitled to recover.\nFornanee, with whom was MunsicJcer, for defendant in error.\u2014\nIt was the interest of Steiner that the plaintiffs should get judgment against the terre tenant, and he was competent to testify against his interest: 1 Ser. & R. 526. The defence of Longaker, the terre tenant, did not affect Steiner\u2019s liability, but was personal to himself: 1 Barr 26, Talmage v. Burlingame; 1 Green Fv. s. 356.\nThe witness Steiner testified on the part of the terre tenant, that the judgment and mortgage were given as collateral security for advances. The questions put on the part of the plaintiff applied not to the nature of the advances, but to their amount. The questions were not proper on cross-examination.\n4th spec\u2019n. If the judgment and mortgage were for the same debt which was submitted to the jury, the lien of the mortgage was divested by a sale on the ven. exp. on the judgment: 2 Rawle 56 ; 1 Pa. Rep. 144; 7 Watts 475; 8 Id. 215; 6 Whar. 210; 10 Barr 472; 8 Id. 471; 1 Jones 282; 10 Barr 482.\nT. S. Bell in reply.\nApril 5, 1852,"
+  },
+  "file_name": "0215-01",
+  "first_page_order": 215,
+  "last_page_order": 220
+}

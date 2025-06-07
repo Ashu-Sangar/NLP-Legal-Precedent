@@ -1,0 +1,242 @@
+{
+  "id": 990506,
+  "name": "The Evangelical Association's Appeal. The Charitable Society of the Evangelical Association's Appeal",
+  "name_abbreviation": "Evangelical Association's Appeal",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "316",
+  "last_page": "322",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 316"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts 218",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838070
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0218-01"
+      ]
+    },
+    {
+      "cite": "10 Leg. Int. 110",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 303",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854624
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0303-01"
+      ]
+    },
+    {
+      "cite": "5 Wh. 506",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878805
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0506-01"
+      ]
+    },
+    {
+      "cite": "17 How. 396",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 86",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 493",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843959
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0493-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 440",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wheat. 582",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1429928
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/25/0582-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 62",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "pin_cites": [
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Cranch 45",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle 170",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822493
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0170-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 220",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Pet. 138",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Rawle 151",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824632
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0151-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 224",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wheat. 49",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 How. 144",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wheat. 3",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts 218",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838070
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0218-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 914,
+    "char_count": 19733,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 3.2654262592200193e-07,
+      "percentile": 0.8697837209814163
+    },
+    "sha256": "d7343bdfe08bb5c17113f3e722b06d30782c4840bac00ee311bb3dc71463b268",
+    "simhash": "1:f562b3acfa70bd1d",
+    "word_count": 3320
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Evangelical Association\u2019s Appeal. The Charitable Society of the Evangelical Association\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\nBoth these appeals involve the same questions, and they have been argued together. Whatever may be the merits of that taken by \u201c The Evangelical Association,\u201d it is clear, that the appeal of \u201c The Charitable Society of the Evangelical Association\u201d ought not to prevail. The appellants do not answer the description of the legatees given in the will of the testator, while \u201c The Evangelical Association\u201d does. The bequests are to \u201c The Evangelical Communion or Association,\u201d and the report of the auditor establishes that there is in being an organized body known as \u201c The Evangelical Association.\u201d The latter answers fully the description of the testator, and is entitled to the legacies, if it is capable of taking them. It is true, that in cases of charitable gifts, the substance of the gift is regarded, and when the object designated by the donor is incapable of taking directly, the law assures the gift to a superior party which is capable, if the gift be intended in ease of that party. But unincorporated religious societies are capable of taking- legacies, and \u201c The Charitable Society of the Evangelical Association,\u201d though a corporation, and capable of taking, is not the superior of The Evangelical Association, but subordinate to it. A gift to the latter is not in ease of the former. Upon no recognised principle, therefore, can we hold that The Charitable Society of the Evangelical Association is a legitimate claimant to the fund for distribution.\nAre the legacies, then, available in favour of The Evangelical Association ? That is established by the proofs, and found by the auditor, to be an unincorporated religious society, composed of about thirty thousand members, residing at various places in this state, in other states, and in Canada, who hold to a defined system of faith, who are united in quarterly, annual, and general conferences, and who are governed by a certain prescribed discipline, and by rules of order adopted from time to time by the legislative power of the association. Its organization is as complete, as minute as that of any existing religious society in the country. And it is strictly and exclusively a religious association, existing only for religious purposes. If it cannot take the legacies given by the will of Frederick Miller, it is not because it is incapable of taking any legacy, for nothing is better settled than that religious societies, whether incorporated or not, have capacity to take and hold charitable bequests.\nIt is contended, however, that the bequests in this will to the association are invalid, because the society is composed largely of persons not resident within the state of Pennsylvania, and in support of this position reliance is placed upon Methodist Church v. Remington, 1 Watts 218. Such is clearly not the rule in England respecting charitable bequests to foreigners: 1 Bro. Ch. 274-444, 571; 14 Vesey 539; 16 Id. 337 ; and the doctrine of that case has not been adhered to in this state. In Spear v. Bruce, argued at Pittsburgh in 1843, this court sustained a devise of land \u201cto the Synod of the Secession Church,\u201d \u201cthe proceeds to be applied to the spreading of the gospel here and elsewhere, and for the support of pious young men preparing for the ministry,\u201d which land the executors were directed to sell for that purpose. And this testamentary disposition was sustained, though the synod was not incorporated, and though it represented a denomination of Christians whose members were scattered throughout the United States and British North America. Again, in Thompson v. Swoope, 12 Harris 474, where The Methodist Church v. Remington was reviewed, it was held, that \u201c the law does not require that charities and charitable institutions, in order to be entitled to its sanction and protection, shall be limited in their sphere of operation by the lines of the state.\u201d That the donees were not resident in this state was there held to be immaterial. The principles regulating gifts in charity must be the same, no matter what may be the residence of the donee, and as it is one of those principles, that an unincorporated religious society may take, it can make no difference that some of the ultimate objects are without the state limits.\nIt is next urged, that. the bequests are void, because they are made to an unincorporated association, and not upon any defined charity, or for any specified charitable use. It is admitted, that if they were made to a corporate body, the absence of any designation of a charitable use might be immaterial, but it is contended, that the appellants, being unincorporated, cannot take, because it is denied that the bequests are charitable. They are to \u201c The Evangelical Communion or Association,\u201d and there is no expression of the purpose for which they are given. We are told, that no cases are to be found, in which gifts have been held to be charitable, where the donee only was named, without any designation of an use other than to such donee. That this is a mistake we shall presently see. It may be well, however, first to notice the character of the donees in the present case. They are a religious society, as has been seen. The purposes of their organization are all such as the law denominates charitable. Under their present mode of existence, they have no power to devote property given to them to any other than charitable uses. This is the prescription of their discipline and rules of order, and to such uses all the funds of the association must be devoted. It is impossible that while they continue The Evangelical Association, their property can be expended for any other uses and purposes than those pointed out in their articles of union. Why, then, is not a gift to them a charitable gift ? No one can doubt that the design of the testator was to consecrate his bounty to the uses which the association has in view. His intent is as plainly manifested, as it would have been, if he had expressly declared, that the legacies should be applied to the very uses for which the association was created, and for which it exists. We are not to be astute in defeating his benevolent purpose. It has been said, indeed, by an-eminent text writer, 1 Jarman on Wills 193, that \u201c a gift will not be deemed charitable merely from the nature of the professional character of the devisee, or on account of the testator\u2019s having accompanied the gift with an expression of his expectation that the devisee would discharge the duties incidental to such a character, however intimately those duties may concern the welfare of others, as this merely denotes the motive of the gift, and not that the devisee is to take otherwise than beneficially.\u201d The only ease cited for this doctrine is Doe on the demise of Phillips v. Aldridge, 4 T. R. 264. There the devise was to a natural person described by name. He was also described as \u201c now preacher at the meetinghouse at Lyndhurst.\u201d Then followed an expression of the testator\u2019s expectation, that the devisee would \u201c without delay, settle and forward everything in his power, to promote and carry on the work of God at Lyndhurst.\u201d This was held, and necessarily so, not to be a devise in charity, but to be beneficial to the devisee. This is very far from maintaining the position generally, that a devise will not be held charitable merely from the nature of the professional character of the devisee. However true this may be, where the devisee is a natural person, and where, consequently, he has interests of his own, distinct from those which appertain to him as a professional man, the reason for it altogether fails, when the donee is an artificial being, having but one character, and that charitable. In the noted case of Morice v. The Bishop of Durham, 9 Vesey 408, and 10 Vesey 532, where the gift was held not to be charitable, there was a trust declared. It was not there a question whether the bishop took beneficially, or whether he took in trust. He was the executor of the will, and disclaimed taking beneficially. But the trust having been to dispose of the bequest-for objects of benevolence and liberality, the question was whether such objects were necessarily charities. It was held, that they were not, and therefore the trust was decreed to be too indefinite. Had \u201c objects of benevolence and liberality\u201d been necessarily objects of charity, the trust would have been enforced. Whether in this state it would have been held valid, need not now be considered. In Witman v. Lex, 17 S. & R. 88, it was said, that it probably would. But at all events, the case furnishes no support to Mr. Jarman\u2019s position. In the case The Society for the Propagation of the Gospel in Foreign Parts v. The Attorney-General, 3 Russ. 142, it was held, that when a pecuniary legacy is bequeathed absolutely to a corporation existing only for charitable purposes, the court will decree payment without requiring that a scheme be settled by the master for its distribution; and in Well Beloved v. Jones, 1 Sim. & Stu. 43, a legacy was held valid as a charity, given to the treasurer of an unincorporated charitable institution, to become part of the general funds of that institution. Of the same class are all the numerous gifts to the general funds of a religious or charitable association, which have been sustained as charities, without any other expression of the donor\u2019s intent. Thus, in Magill v. Brown, Brightly 347, numerous bequests were ruled to be valid, made to Friends, composing different Yearly Meetings, to be paid into the Yearly Meeting stock. There was no other designation of a charitable use than was to be found in the character of the legatees, who were unincorporated religious societies. The legacies were given without any direction as to their disposition, except that they were to become a part of the general property of the societies. So in Blenon\u2019s Estate, Brightly 339, unincorporated charitable institutions took legacies given to them without any direction that the gifts should be expended for charitable purposes. Their own character determined the character of the gift. In Price v. Maxwell, 4 Casey 23, a gift to the West Town Boarding School was held a charity, solely because the donees were a charitable association. As to a part of the gift, there was no designation of an use. See also Burr v. Smith, 7 Vermont 241. Great numbers of eases might be cited, in which gifts to associations whose objects were exclusively charitable, have been sustained as charities, though the direction was to pay into the general funds of the associations, and though there was no express requirement that the donor\u2019s bounty should be applied to any other uses.\nWe are of opinion, therefore, that the legacies given by the will of Frederick Miller to The Evangelical Communion or Association are valid, and that The Evangelical Association is entitled to them in the distribution. The decree of the Orphans\u2019 Court must be reversed.\n\u25a0 The joint distribution was also erroneous. It will of course be corrected in the court below.\nThe decree of the Orphans\u2019 Court is reversed, and the record is remitted, with instructions to order a distribution according to the principles indicated in this opinion.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "J. B. Stiles and 3. 0. Longneeher, for the appellants,",
+      "Reeder $ Green and Q. M. Runic, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "The Evangelical Association\u2019s Appeal. The Charitable Society of the Evangelical Association\u2019s Appeal.\nAn unincorporated religious society being capable of taking a charitable bequest, a subordinate corporation erected for the purpose of creating and establishing a fund for the relief and support of its itinerant, superannuated, and worn-out ministers and preachers, cannot claim a legacy evidently intended for the society at large; for a gift to the latter is not in ease of the former.\nA charitable bequest to an unincorporated religious society is not invalid, by reason of its being composed, to a great extent, of persons not resident within the state.\nNor is such bequest void, because given simply to an unincorporated association, and not upon any defined charity, or for any specified charitable use.\nWhere executors file separate accounts, it is erroneous to decree a joint distribution.\nAppeals from the Orphans\u2019 Court of LehigJi county.\nThese were two appeals from the decree of the court below upon the accounts of Peter Horrace and David Mertz, executors of Frederick Miller, deceased, the one by The Charitable Society of the Evangelical Association, a society incorporated by the state of Pennsylvania, and the other by The Evangelical Association, an unincorporated religious society.\nFrederick Miller died on the 24th January 1854, having first made and published his last will and testament, as follows:\u2014\n\u201cIn the name of God, amen. I, Frederick Miller, of the township of Washington, Lehigh county, Pennsylvania, farmer;\nI, being weak in body, but of sound mind and memory and understanding, but considering the uncertainty of this transitory life, do make and publish this my last will and testament, in manner and form following, to wit:\n\u201c First. I direct that my body be decently interred, according to the rites and ceremonies of a Christian, and that my funeral be conducted in manner corresponding with my estate and situation in life.\n\u201c Second. It is my will, and I do order that all my just debts and funeral expenses be duly paid and satisfied, as soon as conveniently can be, after my decease, and as to such worldly estate as it hath pleased God to intrust me with, I dispose of the same, as follows:\n\u201c Third. I do order and direct that in two years after my death, I bequeath four thousand dollars, which shall be paid to the i Evangelical Community or Association.\u2019 (I think they are incorporated.)\n\u201c Fourth. I do order and direct that in one year thereafter, I bequeath two thousand dollars ($2000) to the Common- Free School of the district of Washington township and Heidelberg township, in Lehigh county, to wit, twelve hundred dollars to the district of Washington township, and eight hundred dollars to the district of Heidelberg, and two thousand dollars to the said \u2018Evangelical Communion or Association.\u2019\n\u201c Fifth. And in one year thereafter, I bequeath two thousand dollars to the said \u2018 Evangelical Communion or Association,\u2019 and two thousand dollars to the common free schools of said Washington and Heidelberg districts, to wit, to the district of Washington twelve hundred dollars, to the district of Heidelberg township eight hundred dollars.\n\u201c Sixth. I bequeath in one year thereafter, two thousand dollars to the heirs of my two brothers, George and John, or to their heirs or assigns, and also two thousand dollars to the said \u2018 Evangelical Communion or Association.\u2019\n\u201c Seventh. In one year thereafter, I bequeath two hundred dollars to Sally Martin, my present housekeeper, two hundred dollars to Susan Roth, intermarried with Peter Horrace, and also two thousand dollars to the \u2018 Evangelical Communion or Association\u2019 aforesaid, and sixteen hundred dollars to my two brothers, George and John, or their heirs or assigns, to share and share alike between said George and John, or their heirs or assigns.\n\u201c Eighth. And I do further bequeath that two thousand dollars snail be paid to the aforesaid \u2018 Evangelical Communion or Association,\u2019 and. two thousand to the heirs of my two brothers George and John, or to their heirs or assigns, to share and share alike,, each and every year thereafter, until all my real and personal property be distributed as herein mentioned.\n\u201c Lastly. I nominate, constitute, and appoint Hugh 0. Wilson, David Mertz, and Peter Horrace to be my executors of this my last will, and they shall dispose of all my real and personal estate, either by private or public sale, to the best advantage, and for their services they shall have six per cent, for all moneys received and paid over to those legally authorized, and I do hereby revoke all other wills, and declaring this my last will and testament.\n\u201c In witness whereof, I have hereunto set my hand and seal, this seventeenth day (17th) of January, one thousand eight hundred and fifty-four (1854.)\u201d\nThe testator, in his lifetime, was a member of the \u201c Evangelical Association,\u201d an unincorporated religious society, commonly known as the \u201cAlbright People,\u201d or German Methodists, composed of about 30,000 members, embracing congregations not only in this Commonwealth, but in Ohio, and other of the western states, and in Canada. It is an organized Christian denomination, holding a defined system of doctrine, united in quarterly, annual, and general conferences, and governed by a certain prescribed discipline, and by the rules of order adopted, from time to time, by the legislative power of the association.\nThe Charitable Society of the Evangelical Association is a corporation chartered by the state of Pennsylvania, for the purpose of creating and establishing a fund for the relief and support of itinerant, superannuated, and worn-out ministers and preachers of the \u201cEvangelical Association\u201d in the United States of America, their wives and children, widows and orphans.\nDavid Mertz and Peter Horrace filed their separate accounts as executors of Frederick Miller, deceased, on the 30th June 1855, exhibiting a balance in the hands of David Mertz of $3974.47, and in the hands of Peter Horrace of $1573.96.\nThe auditor appointed to report distribution of the funds in the hands of the executors, blended the separate accounts, and reported a joint distribution among the school districts and the heirs at law of the testator; and rejected the claims both of the \u201c Evangelical Association\u201d and of the \u201c Charitable Society of the Evangelical Society,\u201d as legatees under the will. And his report having been confirmed by the court, and distribution decreed accordingly, these appeals were taken.\nJ. B. Stiles and 3. 0. Longneeher, for the appellants,\ncited Appendix to 4 Wheat. 3; 2 Bl. Com. 270-1; 4 Reeves 237; Vidal v. Girard\u2019s Executors, 2 How. 144; Crabb\u2019s E. L. 504; Stat. 43 Eliz. c. 4, 2 Ruff. 708; 5 Hume\u2019s Hist. 617-87; 3 Rapin 225-6 ; 2 Mer. 143; Witman v. Lex, 17 S. & R. 91; Baptist Association v. Hart, 4 Wheat. 49; Dartmouth College v. Woodward, Id. 518; Zane\u2019s Will, Brightly 408; Leazure v. Hillegas, 7 S. & R. 321; Methodist Church v. Remington, 1 Watts 224; McGirr v. Aaron, 1 Penn. R. 51; Domestic and Foreign Missionary Society\u2019s Appeal, 6 Casey 425; Thomas v. Ellmaker, 1 Pars. 98; Babb v. Reed, 5 Rawle 151; Price v. Maxwell, 4 Casey 23; Cresson\u2019s Appeal, 6 Id. 437; Cresson v. Cresson, 6 Am. L. R. 46 ; Inglis v. Trustees of the Sailor\u2019s Snug Harbour, 3 Pet. 138; Pickering v. Shotwell, 10 Barr 26; Zimmerman v. Anders, 6 W. & S. 220; Philadelphia v. Elliott, 3 Rawle 170; Terrett v. Taylor, 9 Cranch 45; Kirk v. King, 3 Barr 439; Caufman v. Presbyterian Congregation of Cedar Spring, 6 Binn. 62, 66; McConnell v. Town of Lexington, 12 Wheat. 582; Mather v. Trinity Church, 3 S. & R. 510; Ex parte Cassel and Spayd, 3 Watts 440; Martin v. McCord, 5 Watts 493; Beaver v. Filson, 8 Barr 334; Newell\u2019s Appeal, 12 Harris 197 ; Morrison v. Beirer, 2 W. & S. 86; Fontain v. Ravenel, 17 How. 396; Congregation v. Johnston, 1 W. S. 25; Unangst v. Shortz, 5 Wh. 506; Means v. Presbyterian Church, 3 W. & S. 303; Skilton v. Webster, Brightly 203; Phillips v. Jones, 10 Leg. Int. 110.\nReeder $ Green and Q. M. Runic, for the appellees,\ncited Methodist Church v. Remington, 1 Watts 218; Price v. Maxwell, 4 Casey 23; Hillyard v. Miller, 10 Barr 326; Witman v. Lex, 17 S. & R. 91; Shelford on Mortmain 85; Vesey v. Jamson, 1 Sim. & Stu. 69; Morice v. Bishop of Durham, 9 Ves. 406; s. c. 10 Id. 521; 2 Story\u2019s Eq. Jur., \u00a7 1183; Zimmerman v. Anders, 6 W. & S. 220; The Domestic and Foreign Missionary Society\u2019s Appeal, 6 Casey 435."
+  },
+  "file_name": "0316-01",
+  "first_page_order": 316,
+  "last_page_order": 322
+}

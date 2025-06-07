@@ -1,0 +1,103 @@
+{
+  "id": 953531,
+  "name": "Atkinson v. Rittenhouse et al.",
+  "name_abbreviation": "Atkinson v. Rittenhouse",
+  "decision_date": "1847-04-13",
+  "docket_number": "",
+  "first_page": "103",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts, 90",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850041
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0090-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 301",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846149
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0301-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 113",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846890
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0113-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 109,
+    "char_count": 1097,
+    "ocr_confidence": 0.372,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03355504510108504
+    },
+    "sha256": "d4d1ccd2fc2d997e925bd797ed38635855d9c1544c8eea69ce3a746b1f78e9c8",
+    "simhash": "1:d45e9a33699763dd",
+    "word_count": 196
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Atkinson v. Rittenhouse et al."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe wife, in this instance, is\" clearly not joined as a plaintiff with her husband; for though there has, \u2022 perhaps, been a practice to name them in this manner in the entitling of the action, the husband alone is named as plaintiff in. the declaration. He sues in her right, and cannot recover without her.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Mulvany, for plaintiff in error,",
+      "Powell, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Atkinson v. Rittenhouse et al.\nThe wife must be joined with her husband in ejectment for her land; and unless named in the declaration, she is not a party, though named in the title of the action.\nIn error from the Common Pleas of Montgomery county.\nMarch 23. \u00ab H. Rittenhouse, intermarried with Eliza, late Eliza Norman,\u201d plaintiff, brought an ejectment for land which was the property of Eliza. The writ recited \u201c the right of possession or title to which he, the said II. R., saith is in him, and not in,\u201d &c.\nThe court below (Krause, P. J.) decided the joinder of the wife as a party was unnecessary.\nApril 13.\nMulvany, for plaintiff in error,\ncited 7 Watts, 113; 6 Watts, 301; Rees v. Waters, 9 Watts, 90.\nPowell, contra,\ncontended the wife was joined."
+  },
+  "file_name": "0103-01",
+  "first_page_order": 103,
+  "last_page_order": 103
+}

@@ -1,0 +1,115 @@
+{
+  "id": 957929,
+  "name": "In re Campbell's Estate",
+  "name_abbreviation": "In re Campbell's Estate",
+  "decision_date": "1847-11-04",
+  "docket_number": "",
+  "first_page": "100",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 100"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "22 Wend. 535",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Serg. & Rawle, 545",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801974
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/4/0545-01"
+      ]
+    },
+    {
+      "cite": "18 Johns. 145",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        8710324
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/18/0145-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 271",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838051
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0271-01"
+      ]
+    },
+    {
+      "cite": "1 Serg. & Rawle, 317",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 458,
+    "char_count": 7071,
+    "ocr_confidence": 0.417,
+    "pagerank": {
+      "raw": 7.888300892801877e-07,
+      "percentile": 0.9728308484394264
+    },
+    "sha256": "f5d01912fc5aba696d1b0cf17c2c40dc8ed6f20c9c65d99d347bce01565484a3",
+    "simhash": "1:dc302cbb94fd5b2e",
+    "word_count": 1248
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Campbell\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe notes in question could have been discharged only by a sealed release, or a parol gift of them; the disposition of them insisted on by the accountant was neither. A gift is a contract executed; and, as the act of execution is delivery of possession, it is of the essence of the title. It is the consummation of the contract which, without it, would be no more than a contract to give, and without efficacy for the want of a consideration. If made on sufficient consideration, it would be a binding agreement; but then the nature of the contract would be changed, and there would still be no gift. The gift of a bond, note, or any other chattel, therefore, cannot be made by words in futuro, or by words in prcesenti, unaccompanied by such delivery of the possession as makes the disposal of the thing irrevocable. Even the revocation of a will before the statute of frauds, could not be effected by words in futuro; as was held in Benton v. Gowell, Cro. Eliz. 306. Possibly the destruction of a security might be equivalent to a delivery of it; but no mere intent to destroy it' would be so. Nothing discharges it while it remains in the creditor\u2019s possession and power. The cases all agree, not excepting even Wentz v. Dehaven, 1 Serg. & Rawle, 317, that the parol discharge of a debt without consideration, or delivery up of the security, is inoperative. The gift in the latter was sustained on the baseless argument that the discharge, though unsealed, was in writing; the futility of which was shown in Whitehill v. Wilson, 3 Penna. Rep. 412, on the authority of the great case of Rann v. Hughes, 7 Term Rep. 346, in note; in which it was decided by all the judges in the House of Lords, that all contracts which are not by specialty, are alike by parol; and that unsealed contracts by writing do not form an intermediate class. Nor is the consideration of blood, or natural affection, sufficient to support a promise to give; as was shown in Kennedy\u2019s Executors v. Ware, 1 Barr, 450, sustained by Lyon v. Marclay, 1 Watts, 271, and Fink v. Cox, 18 Johns. 145, and many other cases. What, then, is the transaction before us ? Duncan Campbell, a married, but childless old man, intending to die intestate, is disposing of parts of his property, in contemplation of death. He calls for his notes and bonds, in order to distribute them among particular objects of his bounty ; and when they are transferred, he asks his wife whether they are all he has, and is told that they are all,* except the notes of Duncan Campbell, his nephew. She inquires what is to be done with them; and swears that he told her to destroy them. Freeman, who wrote the assignments of the other notes, testifies that he told her to burn them, or give them to Duncan Campbell, the nephew; and Ewart, who was there to witness the assignments, says he told her, that if he were likely to drop off, or any thing should happen to him before he should see the nephew, she .should then burn them. If the case stood upon the testimony of this last witness, it would clearly be that of an intent to give in futuro, reserving the control over the ownership in the mean time. But all agree that the possession was not parted with; and it cannot be disputed that his intention to have them destroyed or delivered up might have been abandoned, and his directions countermanded. They were his property while he lived; and as the direction was not a testamentary one, it became inoperative at his death. It was a mere authority, which expired with him. To say the least, the case is not stronger than Plum-stead\u2019s Appeal, 4 Serg. & Rawle, 545, in ayMcIi the words, \u201cfor the heirs of Gr. P.,\u201d endorsed on an envelope containing securities, was held not to be a testamentary gift; and had it been thought to be a gift inter vivos, there would not have been an attempt to have the papers admitted to probate. The accountant, therefore, ought to have been charged with the notes in question.\nDecree reversed in part, with direction to charge the accountant with his own notes; and affirmed for the residue.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Mahon, for appellant.",
+      "McGandless and McKennan, contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re Campbell\u2019s Estate.\nTo discharge a debt due on promissory notes by way of gift to the debtor, a release, under seal, or for a consideration, or air actual delivery, or cancellation of the notes, is essential. An intent so to do, or instructions given for the delivery up or destruction of the notes, will not suffice, though shown to have existed when the creditor was making distribution of hiS estate, and the debtor was a favourite nephew.\nAppeal from the Orphans\u2019 Court of Washington.\nOct. 28. D. Campbell, jun., administrator of Campbell, filed an account, -which was referred to auditors. From their report it appeared, that accountant was a favourite nephew of the intestate, and had purchased some land from him. Some time afterwards, the intestate had taken two notes from accountant, and the question was, whether he was chargeable with them. It was proved, that in the accountant\u2019s absence, the intestate had sent for one Freeman, to prepare assignments of certain notes, &c., held by him. This was done, and the property assigned among his relatives. Freeman testified, when this was taking place, the wife of the intestate asked him what ho would do with D. Campbell\u2019s [[the accountant] notes, and he directed her either to burn them or give them to him. They were not then produced or specified. The widow of the intestate stated she had been directed by her husband to destroy the notes, and she had delivered them to accountant after intestate\u2019s death. Ewart, who witnessed the assignments, stated, that after they had got through, Mr. Campbell asked his wife if these were all the notes; she said they were, excepting D. Campbell's notes; Mr. Campbell said, \u201cif he was likely to drop off, or any thing should happen to him before he would get to see D. Campbell, do you take them notes and burn them;\u201d this direction-he repeated.\nThe accountant offered himself for examination, but it was declined ; and the auditors being of opinion the transaction amounted to an equitable extinguishment of the debt, refused to charge accountant with the amount of his notes. The report havirg been confirmed, this was the question argued here.\nMahon, for appellant.\nThe fact that the intestate survived this alleged gift, and that the notes were not cancelled, is conclusive against the supposed satisfaction of the debt by gift: 2 Story\u2019s Eq. ss. 705-6; Flower v. Marten, 2 My. & Cr. 459; Weckett v. Raby, 3 Bro. P. C. 16; Edwards v. Jones, 1 My. & Cr. 226; Duffield v. Elwes, 1 Blig. N. S. 497.\nMcGandless and McKennan, contra.\nThere were good reasons for this conduct, and they could have been explained by the accountant. But as the report shows there was an equitable discharge, accident only preventing a delivery of the instruments, or the destruction of them according to the owner\u2019s directions: Weckett v. Raby, 2 Bro. P. C., Toml. ed. 386; Sibthorp v. Moxom, 3 Atk. 579; Eaton v. Smith, 5 Ves. 350; Gardner v. Gardner, 22 Wend. 535; 2 Story\u2019s Eq. ss. 705, 706.\nNov. 4."
+  },
+  "file_name": "0100-01",
+  "first_page_order": 100,
+  "last_page_order": 102
+}

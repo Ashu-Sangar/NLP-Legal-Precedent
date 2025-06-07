@@ -1,0 +1,126 @@
+{
+  "id": 992183,
+  "name": "Saylor versus Hicks et al.",
+  "name_abbreviation": "Saylor v. Hicks",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "392",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 392"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts 149",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838064
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0149-01"
+      ]
+    },
+    {
+      "cite": "4 Dall. 120",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        581129
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/4/0120-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 273",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823537
+      ],
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0273-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 299",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852572
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0299-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 185",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 477,
+    "char_count": 8343,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 1.4930701642126758e-07,
+      "percentile": 0.6634021906296468
+    },
+    "sha256": "9f3ce46701d1bf9d061af05702a3ee28a0b2698f3569381111d3ba8015c0027a",
+    "simhash": "1:dc2514b17a6778d8",
+    "word_count": 1488
+  },
+  "last_updated": "2024-02-27T22:20:12.272922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Saylor versus Hicks et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\nIf a final decree had been made upon the bill brought by Saylor to set aside his deed for fraud and mistake, it would have been conclusive upon the parties, and would have been a bar to the trial of the question of fraud in this case. But there was no final decree. An issue was sent to a jury to find for the information of the conscience of the court, whether the deed had been obtained by fraud, and their verdict was that it had not. There the matter rested. Of course, this constituted no estoppel of record. It is the judgment or decree of the court which concludes, not the verdict of a jury. The Common Pleas were not themselves bound by the verdict. They might have sent an issue to another jury to try the same facts, or have disregarded the verdict entirely. The court below erred, therefore, in giving to the verdict an effect which belongs only to a judgment or decree.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Coffroth & Colborn, for the plaintiff in error.",
+      "Baer Brothers, for the defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Saylor versus Hicks et al.\nThe verdict of a jury, upon an issue directed by a court of equity, no final decree having been entered in the cause, is not conclusive upon the parties, on the trial of an action at common law, in which the same question is raised.\nError to the Common Pleas of Somerset county.\nThis was an action of trespass by David Saylor against Conrad M. Hicks and John J. Fike, for quarrying and carrying away limestone from his land in Somerset township.\nOn the 25th January 1853, David Saylor, the plaintiff, contracted by articles of agreement to sell to Conrad M. Hicks, all the coal a.nd other minerals embodied or imbedded under the surface of his farm, excepting so much limestone and coal as he might require for his own individual consumption and purpose.\nOn the 3d April 1854, a deed was prepared and executed, whereby the plaintiff and his wife conveyed to Conrad M. Hicks, Richard D. Johnson, and James Smith, their heirs and assigns for ever, all the stone coal, iron ore, fossils, -limestone, and all other minerals and mineral substances (exclusive of the surface soil) in, under, and contained within the premises described in the articles of agreement; reserving to the grantors, during their natural lives, and the life of the survivor, the right of taking and using all the stone coal that should be necessary for their domestic use upon the farmland of quarrying and using all the limestone that should be necessary, or that they might desire to use upon and for the use of the farm, as a fertilizer for the same, and so much stone coal as should be needed to convert the said limestone into lime; and also all the minerals within two acres of the farm to be laid off, so as to include the dwelling-house and barn.\nOn the 20th March 1855, the plaintiff filed a bill in equity against the grantees in this deed, charging that the contract was for the sale of the coal only, and that through the fraudulent practices of the defendants therein, the written agreement was made- to include all the coal and other minerals; and that the deed, by specifying more minutely the substances implied under the general term \u201c minerals,\u201d was, by the said defendants, fraudulently made to enlarge the grant; and that the limestone was not intended to be included therein; and praying that the said deed and articles of agreement might be vacated, and annulled.\nThe defendants filed their answers to this bill, denying the charges therein contained; and when the cause came on for hearing, the court ordered that the cause be referred to a iury, to find, for the information of the conscience of the court, the truth of the following propositions, to wit: 1. Was the agreement, in the plaintiff\u2019s bill mentioned, fraudulently obtained from the plaintiff by Conrad M. Hicks, one of the defendants ? 2. Was the deed, in tlje plaintiff\u2019s bill mentioned, fraudulently obtained from the plaintiff by the defendants, or any, or either of them ?\nThese issues were tried by a jury; on the 15th November 1855, there was a verdict for the defendants; and on the 19th November, the entry was made, \u201cjudgment on verdict;\u201d but no decree was made in the equity suit.\nThis action of trespass was brought for quarrying, and carrying away the limestone upon the premises included in the deed of the 3d April 1854; and the defendants relied upon that deed as a justification. On the trial, the plaintiff offered to prove that this deed was obtained by fraud and deceit; and that Conrad M. Hicks, the acting party, had declared at different times, both before and after, and on the day, and at the time, it was executed, that he was getting the coal only. To the admission of this evidence the defendants objected, on the ground that the plaintiff was estopped from contesting the validity of the deed, by the proceedings in the equity suit. The court below sustained the objection, ruled out the evidence, and the plaintiff excepted.\nThere w.as a verdict and judgment for the defendants; whereupon, the plaintiff removed the cause to this court, and here assigned the rejection of the said evidence for error.\nCoffroth & Colborn, for the plaintiff in error.\nThe proceedings at equity were informal, and are not conclusive against the plaintiff. It is true, they were sued out by his counsel; but the remedy was mistaken, the common law affording ample remedy, and there was no necessity for a proceeding in equity. There was no decree as contemplated by law. The court did not make a decree upon the bill filed, but submitted the facts to a jury, and after a finding by them, judgment was taken in the usual way, as in other actions at law. This is one of the cases which did not require equity proceedings, as every point in it could be decided in an action of trespass.\nBut if the proceeding in equity was all regular and in form, it ought not to be a bar to the plaintiff\u2019s action. It is against the policy of the law to encourage fraud and dishonesty. The plaintiff\u2019s farm was worth thousands before this deed was made; since, it is not worth as many hundreds; and all this by reason of the fraud perpetrated upon the plaintiff at the execution of the deed. He was told that he was only selling the coal and iron ore, with the right to mine, &c. Sometime after the deed was executed and delivered, he was informed that all the limestone was included, which is more valuable than the coal and iron ore combined. The plaintiff is a very ignorant man, unable to read or write, and made his mark to the signature of the deed.\nThe filing and pressing of a bill in equity, on the part of a creditor, who denies the validity of a voluntary assignment for creditors, against the assignees, to compel a specific performance by the assignees of an agreement between himself and the insolvent assignor, does not impair, in any way, the- creditor\u2019s right to bring an action of ejectment on the-same claim against a purchaser from the assignees: Hanson v. Lessee of Eustace, 2 Sow. 653.\nThe plaintiff is not prejudiced by the result of that suit. He lost nothing, for the plaintiff paid the costs of trial. An estoppel can only be asserted or pleaded by one who was affected by the act which constitutes the estoppel: Miles v. Miles, 8 W. & S. 185. All the avenues that facilitate the detection and overthrow of fraud, should be kept open and free from the interposition of bars and estoppels: Foulk v. McFarlane, 1 W. & S. 299.\nBaer Brothers, for the defendants in error.\nThat the judgment in 1855 was conclusive, and an effectual bar against all future proceedings on the same question, is well established by our courts, and found in our earliest reports. A verdict and judgment between the same parties, or their privies, on the same subject-matter, though in a different form of action, is admissible and conclusive: Marsh v. Pier, 4 Rawle 273, 287; Calhoun v. Dunning, 4 Dall. 120; Hess v. Heeble, 4 S. & R. 246; Kean v. McKinsey, 2 Barr 31; Bratton v. Mitchell, 3 Barr 49; Man v. Drexel, 2 Barr 210. And whether it was a verdict of a Court of Common Pleas; or a decree of a -Court of Chancery, under our Pennsylvania practice, is wholly immaterial; for the decree of a Court of Chancery on the same subject-matter, under the same limitations, is as conclusive as a judgment of a court of record: Evans v. Tatem, 9 S. & R. 252; Owens v. Dawson, 1 Watts 149."
+  },
+  "file_name": "0392-01",
+  "first_page_order": 392,
+  "last_page_order": 395
+}

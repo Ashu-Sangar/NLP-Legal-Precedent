@@ -1,0 +1,121 @@
+{
+  "id": 420648,
+  "name": "Barnes's Appeal",
+  "name_abbreviation": "Barnes's Appeal",
+  "decision_date": "1863-11-17",
+  "docket_number": "",
+  "first_page": "350",
+  "last_page": "356",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 Pa. 350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 437",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846788
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0437-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 300",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 186",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483304
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0186-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 329",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0329-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 228",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856543
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0228-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 613,
+    "char_count": 15748,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 9.329648789572246e-08,
+      "percentile": 0.5134492397047087
+    },
+    "sha256": "585438128d7e99912d93f18dae9d04fc99e7794b8ac7d64a1497d6913d3e3646",
+    "simhash": "1:a8205491a92af2de",
+    "word_count": 2807
+  },
+  "last_updated": "2024-02-27T20:44:21.245247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barnes\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, November 17th 1863, by\nStrong, J.\nIt is very plain that House, the appellee, has obtained, in the distribution, no more than he is entitled to, if indeed he has not failed to secure all that equity would award him. If the contract between him and Wright is to be treated as rescinded, it is doubtless true he has no claim upon the fund in court. It is only as an equitable owner, that he has any standing there. But his purchase by articles of agreement, and his payment of part of the price, made him an owner of the land sold, in equity, at least to the extent of the purchase-money paid. Nor could he cease to be an owner, except with his own consent. The sheriff\u2019s sale under the mechanics\u2019 lien converted the whole property, as well that of House as that of Wright, into money, but it only substituted an ownership of money in the place of the ownership of land. House then being an owner in equity by purchase from Wright, had an equitable right to insist that the original purchase-money due to McConnell, and the mechanics\u2019 claims should be paid out of his vendor\u2019s remaining interest, and in marshalling the fund, the mechanics\u2019 liens will be thrown upon that interest. Of this the subsequent judgment-creditors of Wright cannot complain. They are not purchasers, but volunteers, and they stand in their debtors\u2019 place. They can obtain no more out of the fund than he could if there were no such judgments against him. Their judgments were liens only upon the interest he had at the time when they were entered; that is, upon the undivided half of the lot, and upon the other half sold to House, to the extent of the unpaid purchase-money.\nAs it was not in the power of Wright to make a title to his vendee of all he had covenanted to convey, the latter had an equity to an abatement out of the purchase-money unpaid for the deficiency, as was ruled in Erwin v. Myers, ante 96. The auditor ascertained, and correctly as it appears to us, the value of the deficiency, and deducting it with one-half of the original purchase-money due to McConnell from the unpaid portion of the price which House had covenanted to pay, he found there remained $567.50. To the extent of this sum, and no further, the judgment-creditors of Wright can resort to the undivided moiety of the property sold by executory agreement to House,. That half sold at sheriff\u2019s sale for $1700. If from this sum be deducted for the judgment-creditors $567.50, there remains $1132.50, which belongs in equity to House, the vendee, for the costs and expenses of distribution are all properly chargeable upon the other portion of the fund. If any one has a right to complain, then, it is not the appellants but the appellee.\nThis appeal is dismissed, at the costs of the appellants.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Turman Ritchie, for appellants, argued",
+      "Black Pheelan, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Barnes\u2019s Appeal.\nDistribution of proceeds of sheriff's sale between owner of an undivided moiety of real estate, and lien-creditors of the owner of other moiety.\n1. Where an undivided moiety of real estate (held under articles of agreement and to be paid for in instalments) was conti-aeted for by one who paid a portion of the purchase-money, but was prevented from paying the balance and receiving his title by a judicial sale of the whole property under mechanics\u2019 liens which were on it at the time of the contract, on distribution of the proceeds of sale: it was held,\n(1) . That the contract and payment by the purchaser of the undivided moiety made him an owner in equity to the extent of the money paid:\n(2) . That the sheriff\u2019s sale converted the interests of both owners into money substituting an ownership of money instead of land:\n(3) . That the unpaid instalments due to the previous owners and the liens which attached prior to the contract for the sale of the undivided moiety, were payable out of the interest remaining in the vendor of said moiety. And\n(4) . That the liens against said vendor which attached after the sale of the moiety, bound only his remaining interest.\n2. Where a vendor is unable to make title to his vendee for all that he has covenanted to convey, the vendee has an equitable right to an abatement out of the unpaid purchase-money for the deficiency.\nAppeal from the Common Pleas of Greene county.\nThis was an appeal, by Silas Barnes et al., from the decree of court on the distribution of the proceeds of the sheriff\u2019s sale of the real estate of George Wright.\nThe real estate of Wright having been sold by the sheriff on a levari facias, at the suit of S. B. & C. Hays, the money arising from the sale was ruled into court, and George L. Wyly, Esq., appointed to distribute it among the persons to whom it was legally due.\nThe report presented the following facts :\u2014\n\u201c On the 2d of December 1859, George Wright, then sheriff of Greene county, purchased of Joseph McConnell, by articles of agreement, a lot of ground situate on High street, in the borough of Waynesburg, for the sum of $400, to be paid in four years from that date, with interest. Some time after the purchase of this lot, Wright commenced the erection thereon of a large three-story brick house, intended for a tavern stand. Having made considerable progress in the erection of the house, on the 13th May 1861 he sold to Joseph House, by articles of agreement, an undivided half part of said house and lot, together with an undivided half part of another lot, situate near the former, on which a large frame stable was in process of erection. The terms of this agreement were : that Wright was to finish the house according to the plan which he had adopted; to furnish materials to complete the stable; to board the hands employed in the erection of the stable, and to make to House a good general warranty deed for the property, on or before the 1st of July 1862. On his part, House was to superintend the erection of the stable, and \u201c to do all the work in the erection thereof,\u201d and to pay to Wright the sum of $3000, $1100 in hand, and the residue in two equal annual payments, with interest. House paid the hand-money at the date of' the articles, and $300 more on the 11th of July 1861, making in all $1400 paid by him on the contract. Before the next payment fell due, Wright became insolvent, and liens, to an amount greatly exceeding the value of the property, were filed and entered against him.- Many of these were mechanics\u2019 claims, which attached from the beginning of the work, and were liens on the whole estate, as well upon the moiety which was sold to House as the moiety which remained in Wright. The mechanics\u2019 liens were the only liens against the property at the time of the sale to House, and of these only one (that of George Hamilton) wa& filed at that time.\n\u201c On the 13th day of June 1862, a levari facias was issued on a judgment obtained on one of these mechanics\u2019 liens by S. B. & O. Hays, on which the brick house and lot were sold by the sheriff to Joseph L. McConnell, for the sum of $3400. The lot on which the stable was to be erected remained unsold. The money for which the brick house property was sold, was the fund for distribution. It was conceded by all parties that Mr. McConnell took a perfect title to the whole property under his purchase from the sheriff; it was also conceded that the mechanics\u2019 liens, being liens on the whole estate, must be paid out of the fund. The controversy was between House and those creditors of Wright whose liens attached after the sale to House. The counsel of House claimed for him out of the fund the amount of money paid by him on his contract, viz., $1400, with interest thereon from the date of payment; Wright\u2019s creditors denied that House was entitled to any part of the fund, and claimed that they were entitled to the whole of it.\nThere was nothing in the evidence showing that House was not at all times ready and willing to perform his contract. He paid the hand-money at the date of the articles, and he paid nearly one-third of the next instalment before it fell due. Whether Wright had ceased work on the building at the time the second instalment fell due did not appear, but he had become insolvent, and was unable to make to House \u201c a good general warranty deed\u201d for the property, as he had bound himself to do by his-contract, and before that time, the writ on which the property was sold, was in the sheriff\u2019s hands. If House had applied the amount due on the second instalment to the liens, it would not have prevented a sale of the property, for the reason that the liens greatly exceeded that amount, although it was sufficient to pay the lien on which the property was sold.\u201d\nIt was estimated by the auditor that it would require about $1200 to finish the house.\nAs the contract for the sale to House was entire, the auditor apportioned the unpaid purchase-money between the lot on which the house was built and that on which the stable was to be erected, estimating the latter at one-eighth the value of the former. He then decided that the position of House was that of owner of an undivided moiety of the property, subject to the payment of so much of the unpaid purchase-money as in equity ought to be paid, which he ascertained by allowing a credit on the unpaid purchase-money of half of vrhat it would take to finish the house, and pay the balance of the purchase-money on the contract with McConnell.\nHe therefore awarded to House $1061.12, which he ascertained as follows:\u2014\nHe then awarded a balance to other judgment-creditors of Wright, in the order of time, leaving the sum of $1071.56, which he divided fro rata between the judgments of Barnes and oth\u00e9r creditors of Wright, whose liens attached on the same day.\nTo this report the following exceptions were filed:\u2014\n1. The auditor erred in appropriating to Joseph House $1061.12.\n2. The auditor erred in not appropriating the residue of the proceeds of the sale of the real estate, mentioned in said report, to judgment No. 46, September Term 1861, Silas Barnes et al. v. George Wright; and No. 47, September Term 1861, J. L. McConnell v. George Wright, after the payment of the judgments upon the mechanics\u2019 liens.\nThe court below on argument confirmed the report for the reasons given by the auditor; which was the error assigned on this appeal.\nTurman Ritchie, for appellants, argued\n1. The sheriff\u2019s sale on the judgment of S. B. & C. Hays v. George Wright, passed the whole estate of the vendee, because Wright had commenced the building, against which it was a mechanics\u2019 lien, before the sale of the \u201cundivided half of the brick house,\u201d by Wright to House: Act 28th April 1840, \u00a7 2; O\u2019Conner v. Warner, 4 W. & S. 228.\n2. House can have no right to portion of the fund for distribution against the judgment-creditors of Wright, although their judgments were entered subsequent to the sale by the latter to the former, as their contract had not been executed by them before the sheriff\u2019s sale of the \u201cbrick house and lot,\u201d unless the judicial sale of a part of the property executed the contract between Wright and House, pro tanto, and compels the parties to treat the residue of the contract as abandoned. If the contract had been executed between Wright and House, by the delivery of a deed from the former to the latter, before the sale by the sheriff, House could claim the surplus of the sale, after appropriating to the judgment-creditors the amount of the unpaid purchase-money from House to Wright. Or, as th\u00e9 judicial sale in this case passed to the sheriff\u2019s vendee the whole estate, if the sheriff\u2019s sale had embraced all the land sold by Wright to House, the latter might be in a condition to claim the surplus of the one-half the fund, after the payment of the unpaid purchase-money due to the latter on the contract of purchase. This is the principle enunciated in the cases relied on by the appellee. But in this case, the sheriff\u2019s sale only embraced one part of the land sold by Wright to House, and the auditor and the court below have undertaken to separate and apportion an entire contract, to give them a foundation to proceed to declare that the sheriff\u2019s sale executed the contract, so far as to authorize the appropriation of a portion of the fund to Joseph House. This, we submit, was manifest error: \u2014 Because, ever since the case of Cutter v. Powel, an entire contract must be performed in toto, or it falls. Because, when the law is the executioner of men\u2019s contracts, it executes the whole contract, or it can do nothing but compensate in damages. Ho ease has been produced where the vendee of an executory contract for the purchase of land has been allowed to take, after a sheriff\u2019s sale of the premises, the surplus of the fund, after the payment of the unpaid purchase-money, unless where the whole premises embraced in the voluntary sale were sold by the sheriff. Where a vendor himself asks to rescind a contract because he cannot give all he covenanted to convey, the vendee may take less, and have the contract executed, but this is the act of the parties, where it does not prejudice the rights of third persons. But where the law executes men\u2019s contracts, it must execute the entire contract, or let the entire contract fall, the law cannot separate and apportion men\u2019s contracts when they are entire, although the parties themselves may.\nIn this case the execution of a part of the contract prejudices the rights of the judgment-creditors of Wright, by compensating House out of the fund for Wright\u2019s failure to complete the \u201c brick house,\u201d lowering the amount of unpaid purchase-money due from House to Wright; and this, too, in utter disregard of House\u2019s covenant \u201cto superintend, and do all the labour in the erection of the stable.\u201d\nThe auditor and the court below held that Wright\u2019s covenant to finish the \u201cbrick house\u201d formed a part of the consideration for which House agreed to pay to Wright the sum of $3000, and therefore House was entitled to an abatement on the unpaid purchase-money to Wright, the amount it would cost to finish the building, and allowed the same accordingly. But they failed to see that House\u2019s covenant \u201cto superintend, and do all the work in the erection of the stable,\u201d formed a part of the consideration to he paid by House to Wright, and the amount to he added to the $3000, to ascertain the unpaid purchase-money from House to Wright.\nIt will not do to say that Wright failed to comply with his contract', because the court undertakes to execute a contract between Wright and House, and when they do this, they must make House pay all the purchase-money agreed to be paid, and abate it by Wright\u2019s failures. The court have undertaken to execute a contract, which, from its condition, they cannot do without violence to some one, and hence this court will leave the parties to their respective remedies at law on the contract.\nBlack Pheelan, for appellee,\ninsisted that House\u2019s equity was superior to that of Wright\u2019s judgment-creditors \u2014 1. Because by his contract he became seised of an estate in the property, being a purchaser entitled to notice.\n2. His money was advanced upon the faith of the contract, and was paid to acquire a substantial interest in the property.\n3. It is prior as to time; the judgments of the appellants having been subsequently entered, and subordinate to House\u2019s right to demand of Wright a specific performance, or in default, to indemnify himself from the property, or its proceeds if sold. Citing and relying on Kohl v. Harting, 8 Watts 329; Siter, James & Co.\u2019s Appeal, 2 Casey 178; Crouse\u2019s Appeal, 4 Id. 139; White & Tudor\u2019s Lead. Cases in Eq. 357; Dumars v. Miller, 10 Casey 319; 2 Story\u2019s Eq. p. 106, pi. 779; Cover v. Black, 1 Barr 494; 1 Harris 476; Ludwig v. Highley, 5 Barr 132; as also the cases in 8 W. & S. 186; 2 Harris 112; 1 Jones 300; 7 Watts 437."
+  },
+  "file_name": "0350-01",
+  "first_page_order": 350,
+  "last_page_order": 356
+}

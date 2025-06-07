@@ -1,0 +1,103 @@
+{
+  "id": 962658,
+  "name": "Franklin Beneficial Association v. The Commonwealth",
+  "name_abbreviation": "Franklin Beneficial Ass'n v. Commonwealth",
+  "decision_date": "1849-05-28",
+  "docket_number": "",
+  "first_page": "357",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 218",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0218-01"
+      ]
+    },
+    {
+      "cite": "2 Wh. 309",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830458
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0309-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 193",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025510
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0193-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 450,
+    "char_count": 7702,
+    "ocr_confidence": 0.371,
+    "pagerank": {
+      "raw": 2.812433244330473e-07,
+      "percentile": 0.8377065612705605
+    },
+    "sha256": "9f102e47484b095ef4d626d4d7a3e08a5dc2e20d740fc31b7b6c4f254f5215c0",
+    "simhash": "1:f02dbdc56eadbb9f",
+    "word_count": 1333
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Franklin Beneficial Association v. The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, O. J.\nA society for mutual assistance in time of sickness or inability to labour, not caused by voluntary exposure of the person to extraordinary perils, is doubtless legal; and perhaps an exception of disability incurred by following the profession of a soldier or a sailor, is not forbidden by any principle of public policy. I see no room for objection to such a condition in articles of association, as it would leave the maintenance of the worn-out soldier to the government bound to provide for him, and not to private citizens associated for other purposes than pensioning soldiers. As they have an undoubted right to combine for mutual assistance, and as they are not bound by any consideration, moral or political, to bear more than their share of the public burthens, it seems to follow that they may combine for lawful objects on their own terms, and without being compelled to take collateral risks, with which they may choose to have no concern. Such an association is virtually a mutual health-insurance company, standing, as regards the present question, exactly as a life-insurance company, which, as it is said in 2 Phillips on Ins. 143, constantly inserts a condition like the present in a policy effected by a person on his own life. If disability incurred from soldiership could not be excepted, neither could disability incurred from serving in the commercial navy, in which the nation has a stake, as a school for those who are to man its ships of war. The objection would go to the legal existence of the association, which would not have been formed had the condition not been inserted as a fundamental one; consequently, it would have been the duty of this court to withhold its certificate, in the first instance, that the objects, articles, and conditions, set forth in the constitution were lawful, instead of suffering the members of the projected incorporation blindly to incur responsibilities, against which they had mutually protested.\nBut as such a condition undoubtedly holds out to the corporators inducements not to serve in the army, it is not to be favoured in construction. \u2022 In this instance, the relator\u2019s case may be within the reason of the exception, but it is not within the letter of it, beyond which we are not bound to carry it. \u201cNo soldier of a standing army,\u201d the article runs, \u201cseaman, or mariner, shall be capable of admission; and any member who shall voluntarily enlist as a soldier, or enter on board of any vessel as a seaman, shall thenceforth lose his membership.\u201d The first of these clauses has respect to admission ; the second, to forfeiture of membership; but in each, the nature of the disability was to be the same, and if the exact signification of the word \u201c enlist,\u201d in the second of them, were doubtful, it would be fixed by the words \u201cstanding army\u201d in the first, with which it is intimately associated. The relator became a soldier, but not a regular one; in other words, he did not embrace the profession of arms as a business. He was a citizen soldier. I doubt not that the case of a recruit in the regular regiments raised to serve during the war, would be within the exception; but the words \u201cstanding army,\u201d in connexion with the word \u201cenlist,\u201d mean no more than the regular army, in contradistinction to a force composed of volunteers. They certainly have no exclusive regard to the regiments on the permanent establishment, in which the personal risks of the soldier in time of peace, are no greater than the personal risks of the citizen in time of war. But the relator did not enlist even as a volunteer. The word is to be taken in the popular sense of it; and in England, whence we brought it, as well as in the American states, it means not merely to enrol the name, but to sign a written contract of military service made on the part of the government by a recruiting officer. On each of these grounds the relator is entitled to a peremptory mandamus.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, O. J."
+      }
+    ],
+    "attorneys": [
+      "Ford, for plaintiffs in error.",
+      "The court declined hearing Hayes, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Franklin Beneficial Association v. The Commonwealth.\nA by-law of an incorporated beneficial association provided that \u201cno soldier of a standing army, seaman, or mariner, shall be capable of admission; and any member who shall voluntarily enlist as a soldier, or enter on board of any vessel as a seaman or mariner, shall thenceforth lose his membership.\u201d The relator, a member of the association, joined a volunteer corps raised in another state, who tendered their services to the United States under the act of 1846, and were accepted and mustered into -the service. The relator continued in such service in Mexico imtil the expiration of his term. Held, that this act did not authorize his expulsion from the association.\nIn error from the Common Pleas of Lancaster.\nThe relator had become a member of the Franklin Beneficial Association, an incorporated society. One of the by-laws of the association provides that \u201c no soldier of a standing army, seaman, or mariner, shall he capable of admission; and any member who shall voluntarily enlist as a soldier, or enter on board any vessel as a seaman or mariner, shall thenceforth lose his membership.\u201d The plaintiff having been expelled from the corporation, applied for a mandamus to be restored. The defendants, in their answer, set forth the by-law above referred to, and averred that the relator, being a member, in May, 1846, at Baltimore, voluntarily entered and enrolled himself as a private soldier in the volunteer corps of riflemen, called, &c., for the purpose of volunteering their services to the President of the United States, under the act of Congress of 1846; that, in furtherance of said purpose on the part of the said volunteer corps, the relator, as a private member thereof, and in company with his fellow-members, voluntarily, and being under no compulsion so to do, nor under any legal obligation to obey any orders of the President of the United States or the Governor of Maryland, or any other person, in the premises, made a tender of his services to the government to enter the army of the United States as a soldier; that he was accordingly marched to Washington with the said volunteer corps, where he was, in company with his fellow-soldiers, by the proper officer of the United States, duly mustered into the service of the United States for the full term of twelve months, agreeably to the provisions of the said act of Congress; that he thereby became subject to the articles of war as a private soldier of the army of the United States, and proceeded to Mexico, and served out his term of service as a soldier; that the corporation, defendants, had thereupon expelled him from membership, on the ground of the forfeiture of his rights by reason of the aforesaid acts. To this there was a plea and demurrer, which raised the question, whether these acts of the relator were a sufficient ground of forfeiture under the by-law.\nLewis, P. J., awarded a peremptory mandamus to restore the relator.\nFord, for plaintiffs in error.\nThe act of the relator being purely voluntary, was ipso facto a forfeiture of his right of membership: Bac. Abr. T. Forfeit; Jac. L. Die. Ib.; 8 Shep. 372. The proceedings to expel him need not be noticed, for he has withdrawn himself as a member, and the court will not restore him, when the facts show that he could not lawfully continue a member: 11 S. & R. 39; 23 Wend. 193; 1 Dow. P. C. 302. The relator here enlisted: Walker Die.; Webster Die.; Bouv. L. Die. There is no distinction between a volunteer and a regular soldier. The matter has been passed upon by the tribunal to which the relator submitted himself by becoming a member: 2 Wh. 309; 4 Barr, 519; 3 W. & S. 218.\nThe court declined hearing Hayes, cont\u00f3.\nMay 28."
+  },
+  "file_name": "0357-01",
+  "first_page_order": 357,
+  "last_page_order": 360
+}

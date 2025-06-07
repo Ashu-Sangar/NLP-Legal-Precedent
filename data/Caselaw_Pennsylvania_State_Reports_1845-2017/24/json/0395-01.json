@@ -1,0 +1,91 @@
+{
+  "id": 9504791,
+  "name": "Ross versus Dysart",
+  "name_abbreviation": "Ross v. Dysart",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "395",
+  "last_page": "396",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 395"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 398",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 526",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846842
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0526-01"
+      ]
+    },
+    {
+      "cite": "3 Pa. Rep. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 219,
+    "char_count": 2777,
+    "ocr_confidence": 0.412,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6007541366311318
+    },
+    "sha256": "97aea49183c5f668d8ab7a30ed1b9f241822c0561441a09f0f276ac981ae5625",
+    "simhash": "1:662e4031f0ecde93",
+    "word_count": 501
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ross versus Dysart."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowRIE, J.\nThe Act of Assembly does not require, on appeals from awards, that the affidavit shall be in writing ; and without such a requirement by Act of Assembly or rule of Court, we cannot declare an unwritten affidavit to be erroneous, and we must presume that the officers administrated it in the form prescribed by law. Such was our decision in a late case at Pittsburgh, Clarke v. Hoag.\nThe principles appearing in the case of Murray v. Hazlett, 19 State Rep. 357, show that the recognisance is sufficient.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "LowRIE, J."
+      }
+    ],
+    "attorneys": [
+      "\u2022 Blair, with whom was Calvin, for plaintiffs in error.",
+      "Banks, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Ross versus Dysart.\n1. The Act of 1836 d\u00bbes not require that an affidavit on appeal from an award of arbitrators be in writing. When it appears from the record that oath has been made by the appellant, it will be presumed to have been administered in the form prescribed by law.\n2. It being stated on the record that a person named was \u201c tent in $200 for all costs, &c./; that may accrue in this case, according to the Act of Assembly in such case made and provided: and was stated to be taken and acknowledged before the prothonotary: it was held to be a sufficient recognisance on appeal from award of arbitrators.\nERROR to the Common Pleas of Blair county.\nThis was an action of covenant to March Term, 1849, by James Boss v. Dysart & Earhart. It was referred to arbitrators, whose award for the plaintiff for $661.57 was filed on 29th June, 1849. It was stated on tbe record as follows: \u201cAnd now, 18tb July, 1849, Joseph Dysart appears, makes oath, pays costs, and appeals from the award of arbitrators in this case. Thomas B. Moore, of Hollidaysburg, tent in two hundred dollars for all costs, &e., that may accrue in this case, according to the Act of Assembly in such case made and provided. Taken and acknowledged this 18th day of July, 1849. Cor. Joseph Smith, Prothonotary.\u201d\nOn 15th October, 1849, a rule was granted to show cause why the appeal should not be set aside. The rule was discharged at February Term, 1854; and on the 31st January, 1855, verdict was rendered for plaintiff for $470.30.\nIt was assigned for error that the Court erred in discharging the rule to show cause why the appeal should not be granted.\n\u2022 Blair, with whom was Calvin, for plaintiffs in error.\nThe re-cognisance was defective, being without a condition: 13 Ser. R. 245. 2. The record does not state that the appellant made affidavit, as required by the 36th section of the Act of 16th June, 1836, that \u201cit is not for the purpose of delay such appeal is entered, but because he firmly believes injustice has been done.\u201d The record merely states that the appellees made oath; but the substance of the oath is not given. Cited 4 Ser. $ R. 135; 3 Pa. Rep. 65; 1 Barr 258; 7 Watts 526; 1 Jones 398.\nBanks, contra."
+  },
+  "file_name": "0395-01",
+  "first_page_order": 393,
+  "last_page_order": 394
+}

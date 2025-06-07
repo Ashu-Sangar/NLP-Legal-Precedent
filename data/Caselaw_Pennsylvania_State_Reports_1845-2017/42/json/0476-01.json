@@ -1,0 +1,152 @@
+{
+  "id": 481547,
+  "name": "Saurman's Executors versus Bodey",
+  "name_abbreviation": "Saurman's Executors v. Bodey",
+  "decision_date": "1862-05-10",
+  "docket_number": "",
+  "first_page": "476",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "42 Pa. 476"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 144",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850016
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0144-01"
+      ]
+    },
+    {
+      "cite": "8 Peters 16",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 268",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle 196",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819361
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0196-01"
+      ]
+    },
+    {
+      "cite": "2 Whart. 50",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830466
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0050-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 557",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854645
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0557-01"
+      ]
+    },
+    {
+      "cite": "5 Whart. 2",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 445",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856518
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0445-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 360,
+    "char_count": 5852,
+    "ocr_confidence": 0.448,
+    "pagerank": {
+      "raw": 5.12982294956584e-08,
+      "percentile": 0.3215436498421336
+    },
+    "sha256": "7552329fe7295b72b5139c33e8a03697795384f7bfd7b3ef1b0c4041c538c8f8",
+    "simhash": "1:8d88cc140a39d0d1",
+    "word_count": 1043
+  },
+  "last_updated": "2024-02-27T21:29:12.689079+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Saurman\u2019s Executors versus Bodey."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, May 10th 1862, by\nWoodward, J.\nThis is an action by an endorsee of negotiable paper against a prior endorser, and the only question is, whether the maker was a competent witness to prove the agreement alleged in the offer. The cases cited show that he was not competent. Counsel do not pat-ry these cases by showing that Bodey had negotiated the note, and received it back after protest. This is an unimportant circumstance. He was a.s truly a bond fide holder as if he had never parted with the note. It is the duty of an endorser to receive back and pay after protest, the bill he negotiated, and when he does so, the relation between him and prior endorsers is the same as if the protest had happened whilst he held the paper.\nThe substance of the alleged agreement would be competent evidence, for if the three endorsers agreed to share the loss equally, they ought to be held to contribution, but Lancaster was incompetent to prove the agreement, and therefore the ruling was right.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "James Boyd, for plaintiff in error,",
+      "A. B. Longalcer, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Saurman\u2019s Executors versus Bodey.\nMaher of Note when incompetent as Witness for Endorsee of Note against prior Endorser.\nIn an action by an endorsee of a negotiable note against a prior endorser, the maker of the note is not a competent Avitness to prove an agreement betAveen the endorsers, of whom the plaintiff Avas one, that they would contribute equally to the payment of the note, if it was not paid by the maker.\nError to the Common Pleas of Montgomery county.\nThis was an action of assumpsit by Jacob Bodey against Thomas Saurman, deceased. Pending the suit the defendant died, and Catharine Saurman and James Hoover, his executors, were substituted.\nThe plaintiff declared on a promissory note for $650, dated Norristown, February 6th 1856, at five months, by Charles Lancaster, to the order of Thomas Saurman, endorsed by Thomas Saurman, John Jacobs, and Jacob Bodey; to which defendants pleaded non assumpsit.\nOn tbe trial the plaintiff gave in evidence the note, with its endorsements, and the protest, and rested. The defendants then called Charles Lancaster, the maker of the note, and offered to prove by him that \u201c on the 13th of July 1855, a promissory note w'as drawn by the said Thomas Saurman in favour of John Jacobs and the said Jacob Bodey or'order, at four months, for $650, and endorsed by the said John Jacobs, Jacob Bodey, and Charles Lancaster; that on the 6th November 1855, another promissory note was drawn and endorsed in the same way, at ninety days, for $650, to take up the above note of July 13th 1855; that the note sued upon and given in evidence by the plaintiff, was made to take up the above note of November 6th 1855; that in each of the above cases the names of the said Thomas Saurman, John Jacobs, and Jacob Bodey were loaned to the said Charles Lancaster, to enable him to raise money for his own uses and purposes, to enable him to establish and carry on a ladies\u2019 seminary, known as \u2018The Keswick Institute of Norris-town,\u2019 and that the money was raised by him upon said notes, and was used by him, the said Charles Lancaster, exclusively for his own uses and purposes; that at the said several times the said Thomas Saurman, John Jacobs, and Jacob Bodey loaned their names as aforesaid, for the accommodation of the said Charles Lancaster, it was agreed by and between them, the said Thomas Saurman, John Jacobs, and Jacob Bodey, that in case the said Charles Lancaster ultimately failed to take up and pay off the said notes, or either of them, that then the said Thomas Saurman, John Jacobs, and Jacob Bodey would contribute in equal parts towards taking up and paying off of said notes, or either of them; that the said Charles Lancaster failed, and was and still is, by reason of insolvency, unable to take up and pay off the same, or any part thereof. To be followed up by competent evidence, to show that the said John Jacobs is solvent, and able to pay his part of said note; the defendant being able, willing, and ready to pay his one-third part thereof, in accordance with the aforesaid agreement.\u201d\nTo which the plaintiff objected on the ground of interest, public policy, irrelevancy, and that the offer was of matters that were inter alios acta.\nThe court below (Smyser, P. J.) sustained the objection on the ground of public policy, reserving their opinion on the other grounds, and rejected the witness, which was assigned 'here for error.\nJames Boyd, for plaintiff in error,\ncited and relied on Shollenberger v. Neff, 4 Casey 189, and Breitenback v. Houtz, 11 Id. 153.\nA. B. Longalcer, for defendant in error,\nargued that the witness was incompetent \u2014 1. Generally citing Watson v. Shelly, 1 Term Rep. 196, Knight v. Pugh, 4 W. & S. 445, and Jarden v. Davis, 5 Whart. 2. He was also incompetent on principles of general policy : Davenport v. Freeman, 3 W. & S. 557; Emerick v. Harley, 2 Whart. 50; Jarden v. Davis, 338; Griffith v. Redford, 1 Rawle 196 ; Gest v. Espy, 2 Watts 268; Bank of Metropolis v. Jones, 8 Peters 16; States v. Dunn, 6 Id. 51. 3. Also on the ground of interest: Davenport v. Freeman, 3 W. & S. 557; Bank of Montgomery County v. Walker, 9 S. & R. 229; Smith v. Thorne, 9 Watts 144; Dennison v. Flemming, 7 Barr 528. The note being in the usual commercial form, Bodey is presumed to have received it in the usual course of business, and is to be treated as an innocent bond fide holder for value. The onus of proof of a fraud is upon the plaintiff in error; that Lancaster is incompetent to prove a fraud, or that the note was not negotiated in the course of business, want of consideration, or any agreement whatever, which was made at the inception of the note, or at the time it was negotiated; even if the note were an accommodation note, and Bodey one of the original parties to it, it cannot change the rule."
+  },
+  "file_name": "0476-01",
+  "first_page_order": 476,
+  "last_page_order": 478
+}

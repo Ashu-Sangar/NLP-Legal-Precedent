@@ -1,0 +1,103 @@
+{
+  "id": 994103,
+  "name": "Peters's Appeal",
+  "name_abbreviation": "Peters's Appeal",
+  "decision_date": "1861-02-21",
+  "docket_number": "",
+  "first_page": "239",
+  "last_page": "240",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 239"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Binn. 422",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795138
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0422-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 541",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 540",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844075
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/5/0540-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates 161",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 5019,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.3175096308703712
+    },
+    "sha256": "fdc6e5c6bdc8db983f4ef7efc8509cd7673964b35726e346a426c1575ef0cb76",
+    "simhash": "1:ce4fd417046ef78f",
+    "word_count": 873
+  },
+  "last_updated": "2024-02-27T22:44:35.746514+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peters\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Thompson, J.\n\u2014 That executors and administrators, as such, may submit to arbitration matters in dispute in respect of, and claims upon, the personal estate of their testator or intestate, is elementary law: Watson on Awards 46; Kyd on Awards 39 ; and so treated in our books: 1 Yeates 161; 6 Binney 423. Sergeant, J., in Grace v. Sutton, 5 Watts 540, asserts the doctrine, and cites numerous authorities approving the power. He also speaks approvingly of its exercise in appropriate cases: so does Watson on Awards, p. 47, wherein he says, \u201cIn many cases it is the best possible way for an executor or administrator to ascertain whether or not there be any foundation for the demand upon him, without disputing it in an action; and it is frequently advantageous to both parties that the matter in dispute should be referred.\u201d We think the matter in dispute here peculiarly appropriate to this method of settlement.\nThe auditor finds that there was a submission of the question of ownership of the horse by the administratrix of Peters\u2019s estate, and the claimant James S. Peters, Jr., to Joseph Lewis, Esq., and that he awarded by parol in favour of the latter, after hearing testimony in the case.\nBut the court erred in supposing that the submission of the administratrix did not bind the estate on principles of law. In the absence of anything to impeach the transaction, we think it did bind, and of course the award, which is also in no way impeached, bound the parties to it: that is to say, the estate, and also the claimant of the horse.\nFebruary 18th 1861. The decree of the court is reversed, and the record is remitted to the court below, to correct the account stated by the auditor, and allow the administratrix the full appraised value of the horse, viz. $300; and that the costs of this appeal be paid by the appellee.",
+        "type": "majority",
+        "author": "by Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "Joseph J. Lewis, for appellant.",
+      "Wm. Darlington, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Peters\u2019s Appeal.\nRight of Administrator to submit Matters in dispute to Arbitration.\n\"Where an administratrix submitted a disputed matter eonneeted with the settlement of the estate to an arbitrator, who after hearing the testimony made a parol award, deciding the controverted point, it was Meld, that the submission was proper, and the award sufficient to warrant a credit in her account in accordance with it.\nAppeal from the Orphans\u2019 Court of Delaware county.\nThis was an appeal by Mary D. Peters, administratrix of James S. Peters, deceased, and of James S. Peters, Jr., from the decree of the court confirming the report of the auditor appointed to settle the account of said administratrix.\nMary D. Peters, who was administratrix of the estate of her husband, James S. Peters, filed her account, in which, among other items, she took credit for $300, the value of a horse which was upon the farm of deceased, and had been appraised at $300, but which was claimed by his son, James S. Peters, Jr., who was living with his father at the time of his death. Objection being made by some of the children, the administratrix, with their consent, agreed with James to submit the question of ownership to Mr. Lewis, her counsel, who, on hearing a number of witnesses, decided that the horse belonged to James. The horse was accordingly delivered to James, and credit asked by the administratrix for the appraised value.\nExceptions were filed to this item of the account, and an auditor appointed, who rejected the credit on the ground that four of the children of Mr. Peters had not joined in assenting to the reference. To his report the testimony bearing upon the question of ownership was appended. Exceptions were filed to this report by Mrs. Peters, alleging error in charging her with the value of the horse, in deciding that the question of ownership was not finally decided by Mr. Lewis, and in deciding the question of fact as to the ownership of the horse.\nThe Orphans\u2019 Court (Haines, J.) overruled the exceptions and confirmed the report. Whereupon the case was removed into this court by appeal, where the decree of the court dismissing the exceptions and confirming the report was assigned for error.\nJoseph J. Lewis, for appellant.\n\u2014 The auditor and the court below decided as a principle of law that an administrator cannot in his representative character submit a matter in dispute so as to make the award binding on the estate of the decedent. In this there was error: Grace v. Sutton, 5 Watts 541; Harris v. Hayes, 6 Binn. 422; Pearson v. Henry, 5 T. R. 6; Love v. Honeybonrne, 4 T. R. 814. Besides, in answer to a groundless objection, it appears by tbe auditor\u2019s report that all tbe'distributees did consent to the reference.\nWm. Darlington, for appellee.\n\u2014 The decision of the auditor and the court was, not that an administrator cannot refer so as to bind the estate, but that in this case, there was no award that bound the heirs not assenting to the submission. Mr. Lewis merely gave an opinion as counsel of the administratrix, as to the ownership of the horse, which was not meant to bind any one.\nFebruary 21st 1861,"
+  },
+  "file_name": "0239-01",
+  "first_page_order": 239,
+  "last_page_order": 240
+}

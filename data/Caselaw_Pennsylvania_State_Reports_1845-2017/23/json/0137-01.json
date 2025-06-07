@@ -1,0 +1,88 @@
+{
+  "id": 974037,
+  "name": "Lennig versus Ralston",
+  "name_abbreviation": "Lennig v. Ralston",
+  "decision_date": "1854-05-16",
+  "docket_number": "",
+  "first_page": "137",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Whar. 425",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Dall. 20",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        580980,
+        581085
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/4/0020-02",
+        "/us/4/0020-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 622,
+    "char_count": 12231,
+    "ocr_confidence": 0.435,
+    "pagerank": {
+      "raw": 1.7869338285259764e-07,
+      "percentile": 0.7144165547875572
+    },
+    "sha256": "d5b5d9d364c6a9819911f6bfea5918c8ff1decf52477bd23d53944a8fd4459c8",
+    "simhash": "1:12278ba27037f330",
+    "word_count": 2190
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lennig versus Ralston."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLewis, J.\nThis suit is brought for the benefit of the Commercial Bank of London, upon an instrument which bears upon its face every mark of a foreign bill of exchange, drawn in Philadelphia upon a house in London, and accepted by the latter. It is true that the bill was not actually negotiated in this state, so that it is not, Avitliin the letter of the statute of 1821, a bill \u201c drawn in Pennsylvania.\u201d The drawers had a mercantile house in Philadelphia, and they placed \u201cPhiladelphia\u201d at the head of the bill as the place at which it was to bear date, leaving blanks for the day of the month and the year. They fixed the amount of it and signed it, leaving blanks also for the period which the bill had to run before maturity and for the names of the payee and acceptors. All this was done by the defendants here. The instrument was then sent, in this imperfect condition, to their partner in London. This authorized him to fill the blanks and negotiate it in London; and he did so. It was purchased by the bank without any notice of the manner in which it originated or of the fact that it was issued in that city and not in Philadelphia. When that institution became the holder, it bore the dress of a bill of exchange drawn in Pennsylvania; and, upon the principle that every one is presumed to intend to produce all the consequences to which his acts naturally and necessarily tend, the presumption is that the defendants intended that the purchasers of it should receive it under the belief that it was a bill drawn in Philadelphia, in the usual course of business. The question is, whether they shall be compelled to perform their contract in the sense in which they intended the opposite party to understand it, or in a sense contemplated only by themselves, and entirely excluded by the terms of the instrument itself. It is very material to the parties that this question should be properly decided. The bill was drawn on the 3d of July, 1850. The Act of 13th May, 1850, reducing the damages on dishonored foreign bills of exchange to 10 per cent., contains a provision limiting its operation to bills drawn after the 1st of August, 1850. So that if the bill in question is to be enforced according to its terms, the Act of 30th March, 1821, giving 20 per cent, damages for its dishonor, furnishes the rule of decision.\nAll writers of authority on questions of morals agree, that promises are binding in the sense in which the promissors intended at the time that the promisees should receive them: Paley, ch. 5; Wayland, ch. 2; Adams, pt. 3, ch. 5. Upon this principle it was deemed a gross violation of contract, when Mahomet, after promising to \u201cspare a man\u2019s head,\" ordered his body to be out through the middle.\" When Tamerlane, at the capitulation of Sabasta, promised to \u201c spill no blood,\u201d it was an infraction of the treaty to \u201c bury the inhabitants alive.\u201d These monstrous constructions of contracts were condemned by the civilized world as gross violations of the established rule of construction already indicated: Vattel, B. 2, ch. 17, s. 274. There can be no plainer principle of equity than that which requires every one to speak the truth, if he choose to speak at all, in matters which affect the interests of others. He that knowingly misrepresents a fact for the purpose of inducing another to part with his money or goods is held to his representation in favor of the party who confided in it. It is upon this principle that the maker of a negotiable instrument is not allowed to impair its value in the hands of a bond fide holder, by denying the existence of a consideration, or by otherwise showing that it is not what it purports to be. Chitty on Bills 9; 7 C. & P. 633; Byles on Bills 65. On the same principle a man who procures credit for an insolvent person, by knowingly misrepresenting him to be a man of ability, is bound to answer in damages for the injury thereby produced. In truth, the law merchant is a system founded on the rules of equity, and governed, in all its parts, by plain justice and good faith: Master v. Miller, 4 T. R. 342.\nWhen this bill was dressed in the costume of a Pennsylvania bill, it thereby gained a credit in the foreign market which it could not otherwise have received. The Act of 1821, providing ample damages in case of the dishonor of bills drawn in Pennsylvania, contributed to give it that credit. That Act must be considered as operating on the minds of those who purchased it. In Ripka v. Gaddis, Phila., March, 1852, it was declared by this Court, after a careful examination of the authorities, that \u201c it had been long established in the case of negotiable paper of every kind, that it is construed and governed, as to the obligation of the drawer or maker, by the law of the country where it was drawn, or made ; as to that of the acceptor, by the law of the country where he accepts; and as to that of the endorser, by the law of the country where he endorsed. \u2019 \u2019 In Hazlehurst v. Kean, 4 Dall. 20, it was affirmed that the parties in the purchase of a bill of exchange must be supposed to have in contemplation the law of the place where the contract was made, and it (that is, the law of the place where the bill was drawn) necessarily forms part of the contract. In Allen v. The Bank, 5 Whar. 425, the same principle was re-asserted. From this rule, thus repeatedly recognised, and well established, it follows that the bank in the purchase of this bill must be supposed to have had in contemplation the law of Pennsylvania providing indemnity for its dishonor. The law of this state was therefore a part of the contract of purchase, and we have no right to impair its obligation.\nThere is no reason why the statute of 1821 should not receive a liberal construction. It has been held that it is not a penal, but on the contrary that it is a remedial Act \u2014 that the damages given are not for punishment, but are intended as compensation \u2014 that its provisions are just and equitable, and highly necessary in a commercial community to guard the interests of innocent individuals, and to secure good, faith in commercial transactions: 5 Whar. 425. No one can foresee the extent of the injury which the holder of a foreign bill of exchange may suffer from its dishonor. It is not like a domestic obligation, the breach of which can, in general, be repaired by the presence and credit of the holder. But the dishonor of foreign bills may occur, and usually does occur, at points where the holders cannot supervise tne result, and where they have neither means nor credit to provide against the injury. These instruments are generally procured at a premium by the holders, for the purpose of making their purchases in the country where the bills are payable, or as the means of pursuing their travels, or maintaining their credit abroad. The great distance between the residence of the drawers and that of the acceptors must necessarily cause great delay in procuring indemnity from the former. In the mean time, the loss to the holders, if they rely exclusively upon the bills to maintain their credit and carry on their business, might be irreparable. Under such circumstances the recovery of the face of the bill only, with the usual interest, re-exchange, and costs, would be but a cold and inadequate remedy for so great an injury. The Act of 1821 was deemed necessary, in order to do justice in such cases, and for the purpose of maintaining our commercial credit in other countries. It should receive such a construction as will best promote the intentions of the legislature in these respects.\nUpon the whole, we are of opinion that the bill should be met by the drawers in the sense in which they manifestly intended that it should be received by the holder, and we think that the District Court was in error in adopting a different rule.\nJudgment reversed, and judgment for the plaintiff in error for $1453.31, with interest from the 18th May, 1852, and costs of suit.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "G. and J. Fallon, for plaintiff in error.",
+      "G-. M. Wharton, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Lennig versus Ralston.\nA bill of exchange was drawn on 3d July, 1850, in Philadelphia, blanks being left therein for the time the bill had to run before maturity and for the names of the payee and acceptor. The bill was sent to anjigent of the payors in London where it was negotiated. It was Held that it was to be presumed that the drawers intended the bill to be received as having been drawn in Philadelphia at the time of its date \u2014 that the party purchasing the hill in London was to be supposed as having in contemplation the law of Pennsylvania providing indemnity for dishonored bills \u2014 that the bill was therefore subject to the provision of the Act of 30th March, 1821, imposing damages at the rate of twenty per cent., and not to the Act of 13th May, 1850, which reduced the damages to ten per cent, on bills drawn after the 1st August, 1850.\nError to the District Court, Philadelphia.\nThis was an action in the name of Frederick Lennig v. A. Gr. Ralston and others, trading as A. Gr. Ralston & Co. The action was founded on a bill of exchange, dated at Philadelphia, drawn by the defendants in blank, and after being filled up in England, there negotiated. The bill, after being filled up, was as follows, the parts in italics being those inserted in the instrument after its transmission to England.\nPhiladelphia, July 3, 1850.\nExchange for \u00a3786, 7s. 3d. Stg.\nNinety days after sight of this first of Exchange (Second and Third of same tenor and date unpaid) Pay to the order of George Sennet, Esq.,\nSeven hundred eighty-six Pounds, 7s. 3d. Stg.\nValue received and charge the same to account.\nTo Adams Go. A. & Gr. Ralston & Co.\nEndorsed, George Sennet, London.\nAccepted July 22, 1850, at Messrs. Glynn & Co., London.\nThe defendants, the drawers of the bill, were citizens of the United States, composing a firm in Philadelphia, two of them being residents thereof, the third partner, Ralston, being a resident of London, where they had a firm of the same name.\nThe bill, after being signed in Philadelphia, was sent by the firm in Philadelphia to G. Ralston in London, who procured the same to be accepted by Adams' & Co. in London, and then sold the same to George Hennet, and filled in the name of Hennet as payee, and otherwise completed the bill, so as to read as before stated.\nAt the time of the purchase as aforesaid, Hennet gave full value for the bill, and he afterwards had it discounted by the Commercial Bank of London, who gave full value for it, and had no knowledge of how the name of George Hennet had been inserted, nor of how or where the bill had been negotiated or filled in with the name of George Hennet.\nUpon maturity of the bill it was protested for non-payment, and notice thereof given to defendants, and the bill was then returned by the Commercial Bank of London to the plaintiff, as their agent in Philadelphia, to sue upon.\nThe question was submitted to the Court whether twenty per cent, damages, allowed by the Act of 30th March, 1821, upon the principal of bills drawn upon persons in Europe, are recoverable in this suit. The Court below was of opinion that they were not recoverable in this case, and judgment was entered accordingly. Such judgment was assigned for error.\nThe Act of 30th March, 1821, provides that wherever any bill of exchange, hereafter to be drawn or endorsed within this Commonwealth, upon any person or persons or body corporate of, or in any other state, territory, or place, shall be returned unpaid, with a legal protest, the person or persons to whom the same shall or may be payable, shall be entitled to recover and receive from the drawers or endorsers the damages afterwards specified, over and above the principal sum and charge of protest, together with lawful interest on the principal sum, &c. In case a bill be drawn upon any person or body corporate in Furope, or any of the islands thereof, the damages were to be twenty per cent.\nThe Act of 13th May, 1850, reduced the damages to ten per cent, on such bills drawn or endorsed after the first day of August, 1850, within this Commonwealth, upon persons in Great Britain or other places in Europe.\nG. and J. Fallon, for plaintiff in error.\nG-. M. Wharton, for defendants in error.\nMay 16,"
+  },
+  "file_name": "0137-01",
+  "first_page_order": 137,
+  "last_page_order": 141
+}

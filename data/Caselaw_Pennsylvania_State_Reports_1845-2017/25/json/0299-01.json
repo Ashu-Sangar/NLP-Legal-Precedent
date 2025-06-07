@@ -1,0 +1,140 @@
+{
+  "id": 975811,
+  "name": "Brownfield versus Canon",
+  "name_abbreviation": "Brownfield v. Canon",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "299",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Rawle 100",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823581
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0100-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 462",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0462-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 27",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0027-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 111",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Binn. 65",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Binn. 61",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1792398
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/4/0056-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 100",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/4/0100-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 487,
+    "char_count": 8947,
+    "ocr_confidence": 0.44,
+    "pagerank": {
+      "raw": 2.6053901880219014e-07,
+      "percentile": 0.819908419371168
+    },
+    "sha256": "5757876ae9acc04b440b70cbce2db53a32b106ce8ae0becc22d0eedf78b09992",
+    "simhash": "1:7d43d9240e7659dc",
+    "word_count": 1593
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brownfield versus Canon."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J.\nThe old common law process of interpleader is not much used with us, but it is not abolished, for we never consider an old remedy abandoned until we have an adequate substitute for it: 17 Ser. & R. 211, 314; 11 Id. 274; 9 Id. 323; 8 Id. 242; 1 P. A. Browne 82; 1 Miles 46. While, however, we receive the old forms, we modify them according to the analogies of our own general practice, and even enlarge their sphere according to the equitable principles of our common law: 4 Binn. 61; 4 Rawle 100; 9 State R. 51.\nThe principles of interpleading, and the cases in which it may be applied, are best exemplified in the practice in equity; but the form of the procedure in a common law case is very simple, and requires but little modification. It may be found very fully presented in the abridgments of Fifzherbert, Brooke and Viner, under the titles Garnishee, Enterpleader, and Interpleader, and in 2 Mod. Ent. 425, 427. The principle appears \u2018in various forms in our law; as where heirs, devisees, or alienees come in on notice by writ, or by the party to defend for their interests, where a warrantee or landlord comes in on notice to defend an action of ejectment, and other cases: see Brightly\u2019s Equity, 226.\nUnder our practice, where the middleman or stakeholder is sued, he may take the simple course of giving notice to the other claimant of the money or thing in controversy, to come and defend the action, or be barred of his claim. But this does not conclusively save the middleman from his liability to action by the other claimant ; for the latter, not being a party on the record, is not held barred by the judgment until the fact of notice is properly proved. The middleman is not, therefore, conclusively protected by such judgment, for his proof of notice may fail him. Besides, if the middleman fail, he will have to pay the costs himself, and may have no available recourse.\nIt would therefore seem more prudent for the defendant to pursue the regular common law form of filing his suggestion, admitting the debt or duty, and his willingness to pay or perform, and stating the claims of third persons, and therefore pray for a scire fa\u00f3ias to bring him in to interplead. Thus the third person, called, from his being warned, the garnishee, or, in other forms of procedure, the intervener, 3 Adams\u2019s Ecc. R. 37; 1 L. Ecc. R. 599; 2 Domat 676, is compelled to come in as a party and set up his claim, and is concluded by the record.\nBy the service of the scire facias, the intervener or garnishee actually becomes a party, and if he makes default, the plaintiff will have judgment to recover the money or thing claimed from the defendant, and his damages and costs from the garnishee. If he comes in and disclaims, the plaintiff recovers of course from the defendant. If he defends unsuccessfully, the plaintiff will have judgment for the thing claimed against the defendant, and against the garnishee for damages, or interest and costs. If the intervener plead, the issue to the Court or jury is between him and the plaintiff, and the defendant stands aside altogether and has nothing further to do but to pay the money, or deliver the thing sued for according to the judgment of the Court. If the intervener recover he shall have judgment against the defendant for the thing claimed, and against the plaintiff for his damages and costs. If, however, the money be in Court, the judgment of course is that the party recovering shall take it out of Court. If it has been delivered to one of the claimants, the judgment will accord with the fact. Usually, when the suit is for money, the defendant offers to bring it into Court, and does so; and-, if it is for some other thing, he keeps it safely to abide the order or judgment of the Court.\nIf the middleman be sued by two claimants severally, he must sue out his scire facias to interplead in the suit first brought, or if they are both brought at once, then in the one in which the declaration shall be first filed, or which the Court shall direct. All these principles are plain, reasonable, and very easy of application.\nIn the present case they have been substantially, but not very regularly pursued. It was irregular for the defendant to deny the plaintiff\u2019s claim, and for the intervener to come in at the same time and set up his claim to the money. These two sets of pleadings are totally incompatible and unallowable, and the plaintiff might elect on which of them he would join issue and go to trial. The intervener voluntarily made himself a party and was accepted as such; and, as was said by Chief Justice Tilghman in a similar case, 4 Binn. 65,, it does not lie in his mouth to say he ought not to have been admitted. Besides, it seems very plain from the record that all the pleadings were put in by the intervener, and were intended to try the title between him and the plaintiff.\nIt is objected that the judgment ought to have been against the defendant for the money in dispute, and against the intervener for the damages and costs only, and so it usually is when the plaintiff recovers. But the result is properly different here, because in this instance the defendant had paid the money to the intervener, and therefore out of his hands the plaintiff was entitled to' have it. The. plaintiff might possibly have claimed a judgment against the defendant notwithstanding such payment, but, under such circumstances, the intervener cannot complain that the judgment is against him.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "J. B. and A. Sowell, for plaintiff in error. \u2014",
+      "Kaine and Swing, contra. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Brownfield versus Canon.\nWhere, in a suit to recover money, the sum was claimed hy a third party, and he voluntarily appeared and interpleaded, and the amount was paid to him hy the stakeholder, there was no error in directing thejury to he sworn between the plaintiff and the claimant, omitting the original defendant.\nA verdict having been rendered for the plaintiff, the judgment was properly entered against such claimant alone.\nError to the Common Pleas of Fayette county.\nThe action was assumpsit by Daniel Canon, for the use of Boyle & Rankin, against William Searight, commissioner of the Cumberland Road, who succeeded William Hopkins in that office. Canon had been a contractor on the road, and the plaintiffs claimed to recover the amount of an order drawn by Canon in their favour on the 7th April, 1848, for $161.90, and notice of it given to the commissioner. Ewing Brownfield claimed the amount due from the commissioner to Canon, under an arrangement alleged to have been made with Canon and the commissioner of the road prior to the order to Rankin and Boyle; and voluntarily appeared and interpleaded in the cause, and the commissioner paid to him the money in dispute. On the trial of the cause, at the suggestion of plaintiff\u2019s counsel, the jury were sworn as to Brownfield alone, and a verdict was rendered in favour of the plaintiff and judgment entered on the same against Brownfield, to both of which matters his counsel excepted, and assigned them for error in this Court.\nJ. B. and A. Sowell, for plaintiff in error. \u2014\nRegarded only as a question of practice, the Court was in error. There is no instance in Pennsylvania where the name of the claimant has been substituted for that of the stakeholder. 4 Rawle 111 expressly says that constitutes the difference between the practice here and in England. This practice is recognised 9 Barr 51-52. The same was held by Judge Sharswood in Philadelphia: cited 1 Troub. & Hal. 374, in note: 2 Miles 24; 9 Am. L. J. 135-136.\nIn this case, Searight, the commissioner, had pleaded, and the issue was made up between him and the plaintiff. If the money had not been paid to Brownfield, he would not only have lost his account, but would have been compelled to' pay the plaintiff in addition.\nThe action could not have been maintained against the superintendent. He was a public officer: 9 Watts 27. Of this defence Brownfield was deprived by order of the Court. The effect of this judgment is to recover money from Brownfield, which was voluntarily paid to him under a claim of right, and this could not be done: 6 W. & Ser. 485; 9 Watts 462; 1 Barr 29.\nKaine and Swing, contra. \u2014\nMr. Searight died before the cause was tried. The jury were rightly sworn as to Brownfield, who then had the money. Indeed it was the only way, as is ruled in 1 Vernon 351. This case is referred to and affirmed in 4 Rawle 100. The case in 2 Miles 24, cited by the plaintiff in error, was under the provisions of the Act in relation to the District Court of Philadelphia, which is not in force here. The case of Coates v. Roberts, 4 Rawle 111, does not sustain the position contended for. Brownfield voluntarily put himself upon the record as the real defendant, and had the money: this being the case, there was no error in swearing the jury as to him alone. The authorities show that was the proper course, and he suffered no injury by the ruling of the Court."
+  },
+  "file_name": "0299-01",
+  "first_page_order": 299,
+  "last_page_order": 302
+}

@@ -1,0 +1,157 @@
+{
+  "id": 988356,
+  "name": "Johnston's Estate",
+  "name_abbreviation": "Johnston's Estate",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "511",
+  "last_page": "516",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Pa. 511"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 W. & S. 212",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Ala. 626",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8496861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/3/0626-01"
+      ]
+    },
+    {
+      "cite": "6 S. & M. 628",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "case_ids": [
+        1637843
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/14/0628-01"
+      ]
+    },
+    {
+      "cite": "4 J. J. Marsh 474",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "case_ids": [
+        11269716
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/27/0474-01"
+      ]
+    },
+    {
+      "cite": "6 Port. 219",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        11256088
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/port/6/0219-01"
+      ]
+    },
+    {
+      "cite": "5 Hill 221",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pick. 342",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pick. 43",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070920
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0045-01"
+      ]
+    },
+    {
+      "cite": "12 Mass. R. 546",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 690,
+    "char_count": 14774,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 1.0983161739767449e-06,
+      "percentile": 0.9855003129526084
+    },
+    "sha256": "7e91c6d73d3cfa5a51bd2bd8b784077646636df597c34e4500a107079b5be347",
+    "simhash": "1:e16c24b8b21b9a3e",
+    "word_count": 2559
+  },
+  "last_updated": "2024-02-27T20:46:52.756636+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnston\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nThe personal estate of Adam Johnston having been sold at sheriff\u2019s sale, the proceeds were .distributed to the mechanics and labourers employed in his service, in pursuance of the Act of Assembly of 2d April 1849: Purd. 344, tit. Execution, pl. 108.\nHis real estate was then levied on and sold, and after deducting costs and expenses, a fund of $14,379.66 remained for distribution. Part of this fund, $12,847.17, was taken out of court by judgment-creditors, whose right to it does not seem to have been contested. The residue, $1532.49, was also claimed by judgment-creditors, whose judgments were entered on the 24th March 1858; but they were resisted by the mechanics and labourers, on the ground that Johnston became insolvent on the 10th April 1858, and that under an Act of Assembly, applicable only to Berks county, passed the 23d January 1849 (Purd. 835, tit. Wages, pl. 5), they were entitled to be paid wages for six months immediately preceding \u2022 his insolvency, in preference to judgment-creditors.\nThe court referred the matter to auditors, and they found that Johnston became insolvent on the 10th April 1858, and that the mechanics and labourers were entitled to wages for six months before that period; but that from the 24th March 1858, the judgment-creditors acquired a superior lien, and that from the six months\u2019 wages allowed to the mechanics and labourers, there was to be deducted so much as they earned between 24th March and. 10th April 1858. They made distribution accordingly, which the court confirmed, and from that decree both parties, the judgment-creditors and the mechanics and labourers, have appealed to us.\nBefore adverting to any other facts, I pause to remark, that any distribution to the mechanics and labourers, as against judgment-creditors, must be supported by the before-mentioned Act of 23d January 1849, exclusively, for in Wade\u2019s Appeal, 5 Casey 328, it was decided that although, under the Act of 2d April 1849, labourers might be paid $50 of their wages out of the proceeds of their debtor\u2019s real estate, yet they were not entitled in preference to lien-creditors of record, but took only where there were no such creditors, or after they had been satisfied. If that case be law, and we have no reason to doubt it, there is an end of these unrecorded claims, so far as the last Act of Assembly is concerned, for the judgments on record greatly exceed the fund for distribution. \u2022\nYet the auditors strangely blended the two Acts of Assembly in making their distribution. They took the six months from the first, and the $50 from the last, as limitations upon the rights of the labourers. There were more than ninety creditors of this class, and their respective claims ranged from $5 to $600. The auditors allowed none of them over $50, no matter how much they may have earned in the last six months. Then, from that sum they deducted what was received from the distribution of the personal estate, and from the balance, again deducted what was earned after the judgment-creditors acquired their lien on the 24th March.\nThis cannot be right. If the labourers are entitled to share in this distribution at all \u2014 there being judgments enough to absorb the whole fund \u2014 I repeat that their right rests exclusively on the Act of 23d January 1849, and in that act there is no limitation of $50. The only limitation in that act is six months immediately preceding the insolvency. What they would be entitled to take, therefore, would be six months\u2019 earnings, and as the fund would be inadequate to pay the aggregate of' these, it would have to be distributed among them pro rata, to the total exclusion of judgment-creditors. In other words, the fund in court belongs wholly to the labourers, or wholly to the judgment-creditors, as the one act or the other shall be followed.\nThis brings us to the question whether both of these Acts of Assembly are in force. That they cannot both be followed in the same distribution is apparent, from what has been already said. That they were both intended to protect the wages of labour is too apparent to be doubted, and that the mode of protection was by payment out of the proceeds of the sale of the debtors\u2019 property, appears by the words of both. They are, therefore, in pari materia. Yet, in several points they are inconsistent. One, the limitation imposed, has been already adverted to. In the first act, it is a limitation of time; in the last, of amount. So in regard to the parties subject to this legislation; in the first act, they are the \u201c owner or owners of any manufacturing establishment in the county of Berks;\u201d in the latter act, they are any person or persons \u201c owning or leasing forges, furnaces, rolling-mills, nail factories, machine shops, or foundries, in Berks,\u201d and several other counties mentioned. In the first, the six months\u2019 wages are declared to be a \u201clien on the establishment;\u201d in the last, the $50 of wages are called a claim, to be paid by the officer who sells the property, in the manner he pays rent. In the first, the wages are payable out of the proceeds of sale, only in the event of death or insolvency; in the latter act, they are to be preferred in all assignments, to rank immediately before rents in case of death, and to be paid \u201c in all cases of execution.\u201d \u25a0\nThis comparison of the two acts shows that, in all essential particulars they are inconsistent with each other, and therefore the latter repeals the former. It is said, that the first of these acts was passed by the legislature of 1848, and presented to the governor for his signature on the 6th April 1848, and was not returned within three days of the meeting of the next legislature, whereby it became a law. It is most likely the legislature of 1849 were not aware that the enactment of the previous session had thus come into operation, or they would have added a repealing clause. But, doubtless, they intended a substitution for it, that should extend not only to Berks, but to the other counties enumerated. It has been said, that a subsequent statute, revising the whole subject-matter of a former one, and evidently intended as a substitute for it, although it contains no express words to that effect, must, on the principles of law, as well as in reason and common sense, operate to repeal the former; by Dewet, J., in Bartlett v. King, 12 Mass. R. 546: he refers himself to King v. Cater, 4 Burr. 2026, and King v. Davis, 1 Leach\u2019s Cases 306, which are the same authorities on which Judge Kin\u00ae ruled the case of Commonwealth v. Cromley, 1 Ash. 181.\nIn Harcourt v. Fox, 1 Shower\u2019s R. 520, Mr. Justice Eyre said, \u201c Where a subsequent statute affirmative is a repeal of a former statute made concerning the same matter, is a large field to walk in;\u201d but, he concluded that affirmative statutes, introductive of a new law, do imply a negative; and he referred to Townsend\u2019s Case, Plowd. Com. 113, \u201c where you may see a great deal of this learning plainly laid down to this purpose.\u201d From what is said in Plowden, it is manifest that by \u201c new law\u201d is meant a rule out of the course of the common law. The new law implies a negative of all prior statutes on the same subject, as well as of all things not expressed affirmatively. \u201cAnd so do all other statutes, which, in affirmative words, appoint or limit an order or form of things which were not at common law; but, if a thing is at common law, a statute cannot restrain it unless it be in negative words. And so is the diversity, where a statute makes an ordinance by affirmative words, touching a thing which was before at common law, and which was not before at common law.\u201d\nNow, it need not be said that these acts, and especially that of January 1849, was a \u201c new law,\u201d quite out of the course of the common law. The labourers, whose contract was personal, had at common law no manner of lien on their employer\u2019s establishment. That act undertook to give them one, but it was negatived by the affirmative words used on the same subject in the subsequent act. And it is well it was, for it would have been a difficult, if not impossible task, to administer a \u201c lien upon such establishment.\u201d Johnston carried on a large iron foundry, machine shop, blacksmith and car shop, in the city of Reading. He had, doubtless, his own residence, and some of his many hands may have had theirs. Now, what was his \u201c establishment ?\u201d Did it include all his buildings, and the ground they stood on, and the machinery and tools they contained ? And what sort of a lien did the legislature mean to give for the six months\u2019 labour ? What was the amount of it? Would it take precedence of mortgages, mechanics\u2019 liens, and judgments duly recorded and docketed ? Would it follow the establishment into the hands of purchasers either at private or judicial sale ? How long would it last, and when could it be known to have ceased? These and many other questions would have arisen in practice; and seeing how embarrassing they would have been, and how opposed the enactment was to that policy of our law which requires the ascertainment and public record of liens, it is fortunate that we are able, on settled principles of construction, to declare it annulled by the subsequent enactment.\nThe construction already fixed for the subsequent enactment, excludes the mechanics and labourers from the distribution, and therefore the decree must be reversed.\nAnd now, to wit, 30th June 1859, this cause came on to be argued by counsel, and having been fully considered by the court, it is ordered and decreed that the decree of the Common Pleas of Berks county be reversed and set aside in each of said appeals, and that the fund in court be distributed among the judgment-creditors as follows:\nTo Ritter & Kline, . $535.80;\nDaniel McCormick, 103.17;\nJunius Judson, Ritter & Kline, . 338.62; 554.58;\nand that the costs of these appeals be paid equally by the appellants in each case, and that this decree stand for each of said appeals.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Livingood and Bobeson, for the judgment-creditors.",
+      "Hagenman and Bichards, for the mechanics and labourers.\u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Johnston\u2019s Estate.\nUnder the Act 2d April 1849, the wages of miners, labourers, and mechanics are not entitled to a preference in the distribution of the proceeds of the sale of real estate, over liens of record.\nWade\u2019s Appeal, 5 Casey 328, affirmed.\nThe Act 2d April 1849, supplies and repeals the Act 23d January 1849, $ 2, relating to the liens of labourers in manufactories in Berks county.\nA subsequent affirmative statute is a repeal, by implication, of a former one made concerning the same matter, if it introduce a new rule upon the subject, and be evidently intended as a substitute for the former law; although it contain no express words repealing it.\nAppeals from the Common Pleas of Berlcs county.\nThese were two appeals from the decree of the court below distributing the proceeds of a sheriff\u2019s sale of the real estate of Adam Johnston; the one taken by William Briggs and others, mechanics and labourers in the employment of the said Adam Johnston; and the other, by Ritter & Kline and others, his judgment-creditors.\nAdam Johnston was the proprietor of a large iron foundry, machine shop, blacksmith\u2019s shop, and car shop, in the city of Reading, at which he manufactured stationary engines, cars, castings, and machinery of various kinds. During 1857, and up to the 24th March 1857, judgments were obtained against him to the amount of $12,850.\nOn the 24th March 1858, additional judgments were obtained against Johnston amounting to $1947, among which were those of Ritter & Kline, and others, appellants. On the 10th April 1858, Johnston became insolvent. On that day, executions were issued against him, by virtue of which his personal property was sold, and the proceeds applied to the payment of the wages of mechanics and labourers in his service, under the provisions of the Act 2d April 1849, Brightly\u2019s Purd. 835.\nOn the 9th October 1858 his real estate was sold by the sheriff, and after the payment of undisputed liens, there remained a balance of $1532.49, which was claimed, both by the mechanics and labourers, and by the creditors who obtained judgments on the 24th March 1858.\nThe auditors appointed, to report distribution of this balance, reported that the mechanics and labourers were entitled, under the Act 2d January 1849 (Brightly's Purd. 835), to receive their wages for the six months preceding the 10th April 1858, not exceeding $50 each; but that, from the 24th March 1858, the judgment-creditors acquired a superior lien, and therefore, from the six months\u2019 wages allowed to the mechanics and labourers, there was to be deducted so much as they earned between the 24th March and the 10th April 1858, as also the amount they had already received from the proceeds of the personal property.\nThe court below confirmed the auditors\u2019 report, and decreed distribution accordingly; and from this decree both parties appealed.\nLivingood and Bobeson, for the judgment-creditors.\n\u2014 The Act 23d January 1849 is evidently supplied and repealed by that of 2d April 1849: Ellis v. Paige, 1 Pick. 43; Commonwealth v. Cromley, 1 Ash. 179. The judgment-liens cannot be prejudiced by the claims of the mechanics and labourers: Wade\u2019s Appeal, 5 Casey 328; Wood\u2019s Appeal, 6 Id. 274.\nHagenman and Bichards, for the mechanics and labourers.\u2014\nThe Act 2d April 1849 does not repeal the former law, relating to Berks county; the construction given by the court below, gives efficacy to both acts, and shows that they are entirely consistent. The law does not favour repeals of statutes by implication: Bank v. Commonwealth, 10 Barr 448; Loker v. Brookline, 13 Pick. 342, 348; Haynes v. Jenks, 2 Id. 172, 176; Snell v. Bridgewater Co., 24 Id. 296, 297; Goddard v. Boston, 20 Id. 407; Bowen v. Lease, 5 Hill 221; Wyman v. Campbell, 6 Port. 219. Where the provisions of a precedent statute are not incompatible with those of a subsequent one in pari materia, it is not repealed by construction: Brown v. Miller, 4 J. J. Marsh 474; Bank v. Commonwealth, 10 Barr 448. Nor unless the repugnancy is plain and unavoidable: Planters\u2019 Bank v. The State, 6 S. & M. 628. If they can be construed together, both will be sustained, as the law does not favour repeal by implication: Kinney v. Mallory, 3 Ala. 626; Bowen v. Lease, 5 Hill 221. To repeal an express enactment by implication, requires a strong and clear inconsistency between the laws: Street v. Commonwealth, 6 W. & S. 212; Bank v. Commonwealth, 10 Barr 448. A general law does not operate a repeal of a special law upon the same subject, passed previous to the general law at the same session: McFarland v. State Bank, 4 Pike 410.\nIf the Act 23d January 1849 be in force, it gives a lien to the mechanics and labourers, and the decisions under the Act 2d April 1849 do not apply."
+  },
+  "file_name": "0511-01",
+  "first_page_order": 511,
+  "last_page_order": 516
+}

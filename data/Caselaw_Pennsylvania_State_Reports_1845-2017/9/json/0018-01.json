@@ -1,0 +1,66 @@
+{
+  "id": 960655,
+  "name": "Greenough's Appeal",
+  "name_abbreviation": "Greenough's Appeal",
+  "decision_date": "1848-07-11",
+  "docket_number": "",
+  "first_page": "18",
+  "last_page": "19",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 18"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 181,
+    "char_count": 2355,
+    "ocr_confidence": 0.338,
+    "pagerank": {
+      "raw": 1.4796556662624712e-07,
+      "percentile": 0.660880615047441
+    },
+    "sha256": "c8fa9fbfe9b1d0cc50bb7e7d4e5b106b3e0082e6b2257a0c6c054dfe1454c4fb",
+    "simhash": "1:ef5fd0a11788c432",
+    "word_count": 421
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Greenough\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per, Curiam.\nDebts which do not abate fro rata, when payment is to be made out of the assets of an insolvent estate, are not within the spirit of the act which requires presentation for settlement within the year. The question then is, whether the appellants\u2019 claim was a privileged one; and that depends on the nature of their contract with the decedent. It was the grant of a right to mine coal for so much the ton; and the redditus was consequently a certain rent for which a distress might have been made. In substance, it was as distinctly a lease as that in Offerman v. Starr; nor is that case distinguishable from this in any respect, except that in the one the lease Ayas to a co-tenant, and in the other it Ayas to a stranger. But it is certain that one joint tenant or tenant in common may lease his part to his felloAy. The whole claim therefore ought to have been alloAyed.\nDecree corrected accordingly.",
+        "type": "majority",
+        "author": "Per, Curiam."
+      }
+    ],
+    "attorneys": [
+      "Harrison Wright, for appellant.",
+      "McOlintooh, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Greenough\u2019s Appeal.\nA preferred debt, tliougb not presented for payment within a year from the death of the debtor, is entitled to be paid in full, out of assets in the hands of the administrator of an insolvent.\nA claim for money, payable as rent, by a co-tenant, for the privilege of talcing coal out of a mine at so much per cubic yard, is a preferred debt under the act.\nAppeal from the Orphans\u2019 Court of Luzerne.\nJuly 11.\nThe administratrix of Thomas had a sum of money in her hands for distribution among the creditors of the estate, which was insolvent. Thomas died in 1844; administration was granted in 1845, and the usual advertisements were made. The appellants\u2019 claim was for rent that accrued in the lifetime of Thomas, under an agreement, \u201cthat Thomas may have the privilege of taking coal out of the P. mine, he paying to the respective owners thereof (of whom Thomas was one) their respective proportions of the sum of twenty-five cents per cubic yard of coal so taken out, as rent for the said privilege.\u201d This was determinable on one month\u2019s notice by either party, and \u201c the rent\u201d was to be paid quarterly.\nThe claim for the rent was not presented to the administratrix until 1847, on which ground the auditor rejected it. But the court allowed the lessor a fro rata dividend with the other creditors, considering the claim as not preferred within the act of Assembly.\nHarrison Wright, for appellant.\nMcOlintooh, cont\u00f3."
+  },
+  "file_name": "0018-01",
+  "first_page_order": 18,
+  "last_page_order": 19
+}

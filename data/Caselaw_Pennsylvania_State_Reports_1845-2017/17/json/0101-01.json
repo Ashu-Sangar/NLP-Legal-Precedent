@@ -1,0 +1,99 @@
+{
+  "id": 967651,
+  "name": "Miley versus Todd",
+  "name_abbreviation": "Miley v. Todd",
+  "decision_date": "1851-12-12",
+  "docket_number": "",
+  "first_page": "101",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Pa. 101"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 304",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848385
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0304-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 498",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846088
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0498-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 268",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 367,
+    "char_count": 6328,
+    "ocr_confidence": 0.405,
+    "pagerank": {
+      "raw": 5.12982294956584e-08,
+      "percentile": 0.3218038966750571
+    },
+    "sha256": "2fbc9a7b59db205be808b1cd5bed6db4612fea35fad1ef36e33e75a367252dd5",
+    "simhash": "1:ab3a4347f44972ee",
+    "word_count": 1169
+  },
+  "last_updated": "2024-02-27T16:05:10.368024+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Lewis, J., dissented."
+    ],
+    "parties": [
+      "Miley versus Todd."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrib, J.\nThe rule in cases of this class is, that no one, who at the happening of the right of action on promissory notes, is a party in interest to the transaction, can, by transferring his interest to a mere volunteer, become a witness in the action in order to enforce the right.\nThe witness Justice appears to be in no way interested at present in the event of this suit, for the note is in the hands of a previous endorser.\nThe rule that excludes a party to a note from being a witness to invalidate it in the hands of the holder, does not apply to him, for it is the holder that calls him.\nHe is not excluded merely because an antecedent liable endorser has lifted the note after it became due; because in such an act, such an endorser is no volunteer, but does only what the law requires of him. There is no legal suspicion attached to such an act.\nBut here the note presents the appearance of having been due one year before there was any demand and notice; and therefore, according to the evidence, the prior endorser was discharged, and, in lifting the note, was a mere volunteer. By want of demand and notice, he ceased to be a party to the note, and his lifting it afterwards made him an assignee by his own act. He became a volunteer party after the dishonor of the note, and cannot use him who was then the only party in interest, as a witness.\nIt is said, however, that the witness held the note merely for collection. This may be true in fact; but the presumption of law is that the endorsee is the owner, and the rebutting of that presumption is necessary, in order to remove his apparent incompetency. But under such circumstances, the witness cannot testify to his own competency.\nJudgment reversed and a new trial awarded.\nLewis, J., dissented.",
+        "type": "majority",
+        "author": "Lowrib, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by W. L. Hirst for plaintiff in error.",
+      "Erazer, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Miley versus Todd.\n1. The rule which prohibits a person from testifying in support of the action upon a chose in action assigned by him applies only to one who, at the happening of the cause of action, is a party to the transaction, and where the transfer is to a mere volunteer.\n2. The rule as to negotiable paper does not exclude a subsequent endorser from testifying in support of the note, at the instance of the holder, who was a prior endorser; such prior endorser in taking up the note is not a volunteer. But where the note has been apparently long due, and the prior endorser apparently discharged for want of notice, such prior endorser, in lifting the note, would appear to be a volunteer; and therefore he could not use the subsequent endorser, who was the holder at the time, as a witness in a suit against the first endorser, to prove that the note was given in the year following the date of it, and not in the year stated on its face.\n3. Though it was alleged that the witness who endorsed it had held the note merely for collection, yet the presumption of law being that he was the owner of it, he was not a competent witness to rebut that presumption: he was not admissible to prove his own competency.\nError to the District Court, Philadelphia.\nThis was au action by John Todd, endorsee, against John Miley, who was the first endorser upon a promissory note, as follows:\u2014\n$154 68-100. _ Philadelphia, Jan. 2, 1844.\n_ Sixty days after date, I promise to pay to the order of John Miley, without defalcation, one hundred and fifty-four dollars ^ for value received.\nJohn Uber.\nPayable at the Southwark Bank.\nEndorsed successively by John Miley, John Todd, Caleb Wilkinson, Charles Justice, Jr.\nWhen the note fell due, it was in the hands of Charles Justice, Jr. After it became due, he transferred it to Todd, who was a prior endorser.\nThe note was protested upon the 5th of March, 1845. Upon the trial, the plaintiff having first struck out all the endorsements after his own, called Charles Justice, Jr., a subsequent endorser (to whom, it was alleged, the note had been given for the purpose of collection), to prove that he had drawn the note, for the parties, upon the 2d day of January, 1845, and that upon that day it had been signed by the maker, John Uber, and endorsed by John Miley; but that owing to its being so early in the year, he (the witness) had, through mistake, dated it Jan. 2d, 1844.\nTo his admission as a witness, the defendant below excepted.\nThe error assigned was the permission to Justice to testify.\nThe case was argued by W. L. Hirst for plaintiff in error.\nHe contended that the owner of a chose in action cannot, under the decisions of this court, be allowed to testify in favor of any subsequent holder of it; and it makes no difference that the holder is allowed to sue in his own name: 2 Barr 156, Smith v. Craig; 5 Id. 398. And it matters not that the assignment was bona fide: 1 Barr 156; 2 Id. 47, 427-8. All such transfers are jorima facie fraudulent, and the onus lies on the party offering the testimony to contradict the presumption: 6 W. & Ser. 555; 1 Barr 575. If the witness ever owned the claim, he is to be excluded: 1 Barr 176, Phinney v. Tracey ; 3 Id. 381\u20149; 6 Id. 401.\nErazer, for defendant.\nThe general rule is that it is no objection to the competency of a witness that he is a party to the bill or note, unless he is directly interested in the event of the suit: 1 Greenleaf on Ev. sec. 384; 2 Starkie 258. The rule has been narrowed as to negotiable instruments actually negotiated in the usual course of business, in preventing a party from testifying to facts which would invalidate it before it passed from the witness: 2 Watts 268, Gest v. Espy; 4 W & Ser. 287, Parke v. Smith.\nThe witness was not interested in the event of the suit: being a subsequent endorser, he was not liable to the drawer or a prior endorser. But had there been an interest, it would have been removed by striking his name from the note: 6 Watts 498, O\u2019Brien v. Davis; 5 Barr 42-52. The witness was not called to destroy, but support the validity of the note: 8 Watts 304, Harrisburg Bank v. Forster; 9 Barr 279.\nThe cases cited on the part of the plaintiff in error belong to a different class from the present, and are founded on a different policy from that which prevails as to negotiable paper. They proceed upon the doctrine that the assignor of a chose in action is incompetent as a witness for the real plaintiff in an action on the chose assigned.\nDecember 12,"
+  },
+  "file_name": "0101-01",
+  "first_page_order": 101,
+  "last_page_order": 103
+}

@@ -1,0 +1,132 @@
+{
+  "id": 990439,
+  "name": "Dean's Appeal",
+  "name_abbreviation": "Dean's Appeal",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "405",
+  "last_page": "408",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 19",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts 301",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 425",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 471",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 95",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 419",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 84",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0084-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 464",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0464-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 11193,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 1.8009459258039696e-07,
+      "percentile": 0.7164172505810185
+    },
+    "sha256": "c8bdea50a46d0e7a340e022d422ed84a1aad1117a9205f8b3732b79e2fb52695",
+    "simhash": "1:12a865b424b2e78c",
+    "word_count": 1954
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dean\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nEvery argument on behalf of the appellants is sufficiently answered in the opinion of the learned judge, except perhaps that which is founded on the contract of the parties. It is said, that a party who consents to take a judgment with a restricted lien may, on the principles of the ruling in this case, defeat his agreement by immediately reviving it and obtaining a general lien. A sufficient answer to this objection is, that here the defendant had the whole benefit of the restriction. The judgment was entered 30th November 1850, and was not revived until 3d December 1855. It had lost its lien even on the property to which it was restricted; and if the defendant had intended to restrict the legal operation of the new judgment, which was not a judgment in invitum, but by confession, he should have stipulated for it. The case supposed in argument is not this c\u00e1se, and it will be soon enough to consider it when it arises. Meantime, all that did arise in this case was well decided in the court below.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Bana, for the appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "Dean\u2019s Appeal.\nA judgment entered on a bond and warrant of attorney, with a stipulation that its lien shall be restricted to certain specified real estate, and subsequently-revived generally, by confession, after the expiration of five years from the entry of the original judgment, is without limitation or restriction as to its lien on the defendant\u2019s real estate.\nAppeal from the Common Pleas of Luzerne county.\nThis was an appeal by Isaac Dean, from the decree of the court below, distributing the proceeds of a sheriff\u2019s sale of the real estate of Benjamin S. Tripp.\nOn the 30th November 1850, a judgment was entered in the court below, in favour of D. Gr. Ricketson against Benjamin S. Tripp, on a bond and warrant of attorney, conditioned for the payment of \u00a71000 in three annual instalments, with a stipulation that the lien of the judgment should be restricted to certain lands that day conveyed.\nOn the 24th November 1855, an amicable revival of this judgment was signed by the defendant, Tripp; but this was not filed until the 3d December, after the lien of the original judgment had expired. The fund in court was the proceeds of other real estate of the defendant than that to which the lien of the original judgment was restricted.\nThe court below, after payment of prior liens, decreed. the balance of the fund, amounting to \u00a7514.97, towards the payment of Ricketson\u2019s revived judgment; and the following opinion was delivered by Conyngham, P. J.:\u2014\n\u201c In considering the exceptions to the auditor\u2019s report, it becomes necessary to inquire into the effect of the revived judgment it favour of Ricketson, assigned to Keen. The original judgment was entered on the 30th November 1850, and was revived by amicable agreement dated November- 24th 1855, but not filed or entered of record until the 3d December 1855. The lien of the original judgment expired on the 30th November; and though the agreement to revive it was executed on the 24th of the same month, this would have no force to continue the lien, so that all right this revived judgment can now claim is of a lien commencing the 3d December 1855, irrespective of the earlier judgment.\n\u201cIt is conceded, that there would be no question in relation to the lien, as of this last date, if it were not for the restricted character of the original but expired judgment. This early judgment was entered on a bond conditioned for the payment of \u00a71000 in three annual instalments, the obligor reserving the right of paying the amount on liens and encumbrances upon the property purchased, it being also' stipulated in the bond, that \u00a3 the lien of the judgment should be restricted to the real estate this day conveyed,\u2019 referring to the date of the bond. To understand the nature and effect of this restriction, it is only necessary to refer to the decision of the Supreme Court in the case of Stanton v. White, 8 Casey 369. The lien entered upon the bond would be so far restricted, but it did not exempt other real and personal property of the obligee from liability to execution after the debt became due.\n\u201c It is contended, that this restriction of lien would be revived and continued upon the new judgment entered in December 1855; but we cannot so hold. A judgment which could be entered upon the bond, would, by the contract of the parties, be restricted, quoad its lien, for the statutory life of that judgment, say five years, but all other property would be liable to execution upon default of payment within and after that time. The contract between the parties was a confession of judgment to secure the payment of the debts in three years, and during this time upon compliance by the obligor with his payments, the lien for security was restricted to certain property, and the liability of any other property, either real or personal, was withheld, because no execution could issue; but when there was a failure to pay the debt and it all became due, and the defendant, who had the privilege to pay the amount on encumbrances, by his new contract and amicable scire facias, admitted that he had not so done, and by his confession of judgment, without any restriction or qualification, a judgment with all the ordinary incidents, acknowledged that it was ripe for general execution, we cannot see upon what principle it can be claimed, that the first contract is to control and limit the lien to the restricted property referred to in the bond.\n\u201cWhen, upon default of payment at any time, other property could have been taken in execution after a full and certain default, and a record acknowledgment of this failure, giving the plaintiffs the right to issue general execution upon a new judgment, surely such other property must be under the lien of such a judgment. With what justice can a defendant who has entirely violated his part of the contract, ask us to limit and restrict the force of a judgment, which in 1855 he himself voluntarily gave, apparently, upon the record, full and unrestricted ?\n\u201c In Meason\u2019s Estate, 5 Watts 464, it is decided, that the statutory judgment on a soi. fi. to revive an original judgment, is quod recuperet, and is effectively an award of execution. Again, in Shaffer v. Child, 7 Watts 84, it is said that such a judgment is quod recuperet, and that an expired judgment (the present case) binds as a new and original one, and consequently only what the debtor has at the time of revival. Here, 'in our case, the original restricted lien was lost; (whether Tripp still owns that property does not appear, though it is alleged it was sold by him some years since,) and if he has sold the property,'there being no notice to\nany terre tenant, according to the adverse argument, this new judgment would he entirely nugatory, and have no force as a lien at all, though at the time the defendant owned other property. If, however, we hold that the restricted lien had answered its contract purpose, by enabling the defendant to dispose of any other property he'may have desired to sell, during the continuance of the first judgment, as a new judgment, the revival ought to bind any property which the defendant owned at the time of such revival. In Ramsey v. Linn, 2 Eawle 229, it is held, that an amicable revival of a judgment which had previously no legal existence, is a good judgment, and creates a valid lien; and in Cash v. Tozer, 1 W. \u00a3 8. 525, where there was a defective judgment against two of three nominal defendants,, upon an amicable revival, signed by all of the defendants, the new judgment became a valid judgment against the property of all three.\n\u201c The cases all show that the second judgment is to be considered a new judgment, binding property which the defendant then holds, though not covered by the lien of the first judgment, having no reference to any restricted or doubtful character of such early lien. The amicable soi. fa. opens as it were the claim of the judgment, so as not only to continue any unexpired and early lien, but to give it all the incidents of a new judgment, unless by a new agreement of the parties it be newly limited or restricted. The new judgment is an absolute one, full and unlimited. What right has a defendant or his creditors now to look back beyond the present record, and attach to it disabilities which belonged to another judgment ? The lien under which the plaintiff now claims, originated with the new judgment, and has no reference, quoad the lien, to the old judgment, for that, restricted or unrestricted, was lost on the 30th November, three days before the entry of the new judgment.\n\u201cWe think the result at which we have arrived, would have been the same, even if the judgment had been revived upon adversary process; but however this may be, the reasoning of Mr. Justice; Tod, in Ramsey v. Linn, applies with greater-force to an amicable revival like the present.\n\u201c The defendant agreed to enter an amicable soi. fa. to revive the judgment and continue the lien, and confessed judgment of revival full and unlimited. Can he object against the validity or binding effect of such a judgment, now in a question of distribution of proceeds ? Can he now qualify that which he once made absolute? Is he not, in the language of Judge Tod, concluded and estopped by this record agreement and admission, and is it not equally conclusive against all claiming under him by title subsequent, and consequently against other judgment-creditors ? We differ from the argument of the counsel in saying that Tripp could not bind \u2018subsequent judgment-creditors\u2019 by extending the lien.\n\u201c The case of Simpson v. Murray, 2 Barr 76, cannot affect our present ruling. There the proceeding was in rem merely, under mechanics\u2019 lien law, and the judgment on a sci. fa., like that upon a mortgage, could affect neither the person nor other property of the defendant. So with the case of Irwin v. Nixon, 1 Jones 419, not adopting isolated expressions, but taking the whole argument in the opinion, the present view of our case is strengthened. And such also is the effect of Sankey v. Reed, 2 Jones 95. It is the absence of the agreement proved to have been made there, at the time of the revival, which is the foundation of our present argument.\n\u201c The conclusion, then, to which we have arrived, is that while by the contract of the parties in the bond, the judgment entered thereon was restricted in its lien to the therein specified property, when the defendant failed to comply with his part of the contract by paying the instalments, thus leaving all his property liable by execution, and subsequently revived the judgment by confessing a new one, unlimited and unrestricted, that such judgment, from that time, became a general lien, and is so to be regarded in the distribution of these proceeds.\u201d\nProm this decree, Isaac Dean, who was the holder of the next encumbrance on the fund, took his appeal to this court.\nBana, for the appellant,\ncited Little v. Smyser, 10 Barr 383; Pursh v. Overdeer, 3 W. & S. 471; Irwin v. Nixon, 1 Jones 425-6; 2 Barr 263; Stauffer v. Commissioners, 1 Watts 301; Hinds v. Scott, 1 Jones 19; Sankey v. Reed, 2 Id. 95."
+  },
+  "file_name": "0405-01",
+  "first_page_order": 405,
+  "last_page_order": 408
+}

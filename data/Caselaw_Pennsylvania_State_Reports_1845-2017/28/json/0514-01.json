@@ -1,0 +1,81 @@
+{
+  "id": 981552,
+  "name": "Walls versus Wilson",
+  "name_abbreviation": "Walls v. Wilson",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "514",
+  "last_page": "515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 495",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846773
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0495-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 229,
+    "char_count": 4133,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 2.3331862796979602e-07,
+      "percentile": 0.7913229690225183
+    },
+    "sha256": "b629188d24335e9a42bd685d19f19a72f0401948cd709afa9fbd22de7ed9f558",
+    "simhash": "1:986fbac6402e9bbb",
+    "word_count": 735
+  },
+  "last_updated": "2024-02-27T19:56:45.258485+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Lewis, C. J., and Armstrong, J., dissented."
+    ],
+    "parties": [
+      "Walls versus Wilson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nUnder the compulsory arbitration law this case was referred to Alfred E,. Crewit, Henry Glazier, and Peter C. Swoope.\nOn the day appointed the arbitrators met, were sworn, and heard part of the evidence, and by agreement continued the further hearing from the 25th August until the 80th day of October. At the second meeting but two of the arbitrators, Messrs. Glazier and Swoope, were present, before whom the parties agreed to proceed, and who on that day heard the balance of the testimony, and again adjourned. On the third meeting all of the arbitrators were present, and the award was signed by the three, the defendant\u2019s counsel objecting to any person taking part in the deliberation or decision except H. Glazier and P. C.- Swoope. A motion was made in the Common Pleas to set aside the award, founded upon an exception that it was illegal, irregular, and void on its face. The exception was overruled, and the motion refused.\nUnder the voluntary arbitration law an award may be set aside if the arbitrators misbehave themselves in the case, or if they commit a plain mistake in matter of fact or matter of law, or if the award is procured by corruption or other undue means; but under the compulsory arbitration act the remedy of setting aside the award, is confined to cases of misbehaviour in the arbitrators, and to cases where the award is procured by corruption, or undue means. A plain mistake, either in law or in fact, can only be remedied by appeal.\nWe do not think that the record convicts the arbitrators of misbehaving themselves in the case, or that it shows that the award was obtained by corruption or other undue means. There is nothing to show that the arbitrator who was absent when part of the testimony was given, influenced in any manner the determination of the other two arbitrators in the final decision; and as the two who heard all the evidence have signed the award, it is good as their act, and is not vitiated because it is signed by one who only heard a portion of the evidence. If the two arbitrators who were present at each of the hearings, consented that the other one should join in the award, they committed a plain legal mistake, but as it is presumed to have been an honest mistake, it does not amount to misbehaviour, and is not ground for setting the award aside. Had the Common Pleas been satisfied, from evidence extrinsic of the record, that Crewit had been influential in procuring the award, that court would undoubtedly have set it aside; but we are confined exclusively to the record, and as this only shows the act of signing, we cannot interfere with the award. In Wilson v. Cross, 7 Watts 495, .there was but one good signature to the award, here there are two.\nJudgment affirmed.\nLewis, C. J., and Armstrong, J., dissented.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Blair, for plaintiff in error.",
+      "Stewart, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Walls versus Wilson.\nUnder the compulsory arbitration act, the remedy of setting aside the award is confined to cases of misbehaviour by the arbitrators, and where the award is procured by corruption or undue means.\nIn such cases, for a plain mistake in fact or of law committed by the arbitrators, the only remedy is by appeal.\n. Where one of three arbitrators who had been sworn, and heard part of the evidence, failed to attend an adjourned meeting, and the parties agreed to proceed before the other two, who heard the balance of the testimony, and at a third meeting the defaulting arbitrator appeared and joined in the award by signing the same, it was not such evidence of misbehaviour, or that the award was procured by corruption or undue means, as would induce this court to set the award and judgment aside. .\nThe record to which this court is confined, shows only the act of signing, but as that does not show that he was influential in procuring the award to be made in the manner it was, it does not vitiate the act of the other two, which would have constituted a good award without his signature.\nError, to the Common Pleas of Blair county.\nThe facts of this case are fully stated in the opinion of Mr. Justice Knox.\nBlair, for plaintiff in error.\nStewart, for defendant in error."
+  },
+  "file_name": "0514-01",
+  "first_page_order": 514,
+  "last_page_order": 515
+}

@@ -1,0 +1,91 @@
+{
+  "id": 401910,
+  "name": "Miller v. Caldwell",
+  "name_abbreviation": "Miller v. Caldwell",
+  "decision_date": "1846-11-02",
+  "docket_number": "",
+  "first_page": "160",
+  "last_page": "161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts & Serg. 301",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0301-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 72",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0072-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 267,
+    "char_count": 4102,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.35368973249019536
+    },
+    "sha256": "698db9b1b02204ce9a7fe308257c420abf148bc5f4b0f3bd15dce257ea53ab60",
+    "simhash": "1:d57ef7d5cb088d63",
+    "word_count": 699
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miller v. Caldwell."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe assignment being conditional, and not an absolute transfer of the judgments, was a contract of indemnity ; and as the damages, recoverable for the breach of it, were not stipulated, they consequently could not transcend the amount of the trouble and loss. It was not intended that the defendant should make a job of the contract, or pocket any more than compensation and reimbursement. Stipulated damages can exist only by force of an unequivocal agreement to pay a specified sum, as liquidated satisfaction fixed beforehand by the parties. ,The assignment is in the nature of a penalty, against which the court below was as competent to relieve as a chancellor would be. Nor is the objection to the form of the action better founded. The agreement has been executed so far as it was executory; and it would puzzle a pleader to find in it any particular covenant for payment of the excess to the plaintiff. This was received as so much paid to his use\u00bf and assumpsit was consequently the proper action.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Gow and Jlclieson, for plaintiff in error.",
+      "Watson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Miller v. Caldwell.\nA. having entered into a recognisance conditioned for the appearance, &c., of B. at the Quarter Sessions, to answer a charge of forgery, took an assignment from B. of two judgments, conditioned to be void on B.\u2019s appearing, &c. B. not appearing, the recognisance was forfeited and compromised. Held, that A. was entitled to retain no more of the money received on theassigned judgments than he had paid on the recognisance\u2014 his counsel fees and compensation for his trouble; and that A. might maintain assumpsit for money had and received, for the residue.\nIn error from the Common Pleas of Washington county.\nOct. 29. Caldwell having been indicted for forgery, entered into a recognisance with Miller in $2500, conditioned for his appearance at the Quarter Sessions. On the same day, wdth the acknowledgment of this recognisance, Caldwell assigned to Miller all his interest in the principal of two judgments of said Caldwell against Summers, for $1313 62 and $1309 respectively, reserving to the assignor the accruing interest thereon. Annexed to this assignment was a condition reciting \u2022\u201c that if the said Caldwell, for whom the said Miller has entered bail in a recognisance, shall be and appear at the next court,\u201d &c., and abide all orders, &c., then the foregoing assignments should be void; and the prothonotary was authorized to enter the assignments of the principal sums due thereon on his docket.\nThe recognisance having been forfeited, a suit was brought and judgment confessed for $2000, the court having remitted the residue. Miller assigned $2130 75 of the money due on these judgments to the payment of the judgment on the recognisance, which was in full satisfaction, and then received the residue. The present action was assumpsit to recover the balance of the amount received, and not applied to the judgment of the Commonwealth.\nIn reply to the defendant\u2019s points, the court instructed the jury that the defendant was entitled, to so much of the money as he had paid over to the Commonwealth and as counsel fees, and a liberal allowance for his other expenses and trouble, but nothing further. If there was a surplus, it might be recovered in an action for money had and received.\nThese two points were assigned for error.\nGow and Jlclieson, for plaintiff in error.\nThis assignment was absolute on the failure of Caldwell to appear. It is not in the nature of a penalty, but liquidated damages. The sum of money is certain, and assigned on condition broken, by which it becomes absolute. The court below made a new contract, not that which the parties, who were competent, chose to enter into. 4 Burr. 2225; Ev. Po-thief, ii. 81; Slosson v. Beadle, 7 Johns. 72; 2 Bail. S. C. Rep. 293. On the form of the action, Harris v. Liggett, 1 Watts & Serg. 301.\nWatson, contra.\nThequestion is, whose money was received by the defendant, and for whom was the remission made by the court? It was proved at the trial that this was in consideration of the condition of Caldwell\u2019s family. It is plainly a contract of indemnity.\nNov. 2."
+  },
+  "file_name": "0160-01",
+  "first_page_order": 160,
+  "last_page_order": 161
+}

@@ -1,0 +1,103 @@
+{
+  "id": 953545,
+  "name": "Hudson v. Reel",
+  "name_abbreviation": "Hudson v. Reel",
+  "decision_date": "1847-05-29",
+  "docket_number": "",
+  "first_page": "279",
+  "last_page": "282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Whart. 146",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0146-01"
+      ]
+    },
+    {
+      "cite": "15 Serg. & Rawle, 227",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1815532
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/15/0227-01"
+      ]
+    },
+    {
+      "cite": "6 Whart. 146",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/6/0146-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 455,
+    "char_count": 8540,
+    "ocr_confidence": 0.364,
+    "pagerank": {
+      "raw": 1.421438856574727e-07,
+      "percentile": 0.6490864911429199
+    },
+    "sha256": "acb00c4add6d474074c6b6346ba48a1d8c9087635df19aa8b7c6224c73554a75",
+    "simhash": "1:0f9314050ddcf892",
+    "word_count": 1526
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hudson v. Reel."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nWe see nothing in the charge of the court 'below, of which the plaintiff in error .has reason to complain. The \u25a0sole question in the cause was, whether at the time the .bill single sued on was given by Hudson to Reel, the parties contemplated a possible rescission of the contract of sale by a failure on the part of Reel to comply with his agreement to pay $1500 of the purchase-money on the 22d of April, in which event the parties were to be remitted to their original position ? Such an understanding is certainly to be gathered from the face of the bill single, and the written stipulation accompanying it; .and this is put beyond doubt by the attending circumstances. The first paper is an express undertaking by Hudson to Reel to pay him within two days $300, without any qualification whatever. But the annexed writing shows that this was not to be done, if by payment of the first, instalment of the purchase-money, Reel put himself in a position to demand a conveyance of the land, in which event, and then only, the $300 was to be accounted as part of the sum to the payment of which Reel was bound- The latter having' failed to comply with his original contract by payment on the day named in it, solicited and procured further time on the payment of the $300.\nBut it is obvious that Hudson, to avoid being in any degree concluded by this transaction, and to leave it still open to him to repudiate the agreement of sale on a failure by Reel to comply with the second agreement, cautiously avoided giving a receipt for the amount paid, as so much of the purchase-money, but instead thereof bound himself to repay, should the consideration then in view \u00f3f the parties eventually fail. The idea of keeping both'land and money does not seem then to have crossed his mind, for the eventual appropriation to his own use of the sum received, is expressly made to depend upon the ultimate compliance of .Reel with the terms of his contract. The meaning of the papers, which become the subject of construction, may be elucidated by a reference to the circumstances under which they were given, and the subsequent conduct of the parties, and these, taken together, leave the mind clear of doubt that tbe instruction given on this head by the court below to the jury, ivas in every respect correct. Reel failed to pay the first instalment of purchase-money in full, and therefore relinquished\" his hold upon the land. Hudson accepted, this relinquishment by agreeing to recognise Reel as his tenant. The original object of sale and purchase was thus determined, and nothing was left upon which the stipulation supplemental to the bill single could operate. This took away all qualification of tbe defendant\u2019s prima facie liability upon his obligation, and vested in the plaintiff an immediate right of action. In this it rests upon a principle similar to that declared in Feay v. Decamp, 15 Serg. & Rawle, 227. This is in substance the opinion correctly expressed by the court below, both in the .general charge and the particular answers to the points submitted by the plaintiff.\nBut it is thought by the defendant, the plaintiff in error, that as the original paper had been cut into two parts, without, however, excising any portion of its contents, the court were bound to take it from the jury, with the declaration that it was utterly avoided by this interference with it. In this we do not agree with him. It may be true that where it is evident, upon inspection, a paper has been altered in a material part, and no explanation is offered, the court may withhold it from the jury. This appears to be the principle upon which Smith v. Churchman, 6 Whart. 146, was ruled. But where the fact is disputed, and it is a question of doubt, the supposed fraudulent action and intent must be left to the decision of the jury. In this instance, the paper was given in evidence without objection, and afterwards it was very properly left to the jury to say whether there had been any tampering with or alteration of the writing with a view to deprive the defendant below- of any legal advantage. The jury foqnd negatively upon this question, and this finding wo cannot deem to be erroneous.\nPerceiving no \u00e9rror in the record, the judgment is to be affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Blair, for plaintiff in error.",
+      "Orbison, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Hudson v. Reel.\nA., on receiving money from B., gave him a sealed bill for the payment of that sum, with' an under-written condition that the amount was to be applied and accounted part of the hand-money, payable by B. to A., under articles, if B. paid the residue on a given day. B. did not pay, but gave up his right to the land which he rented from A., from 'the day fixed for the payment of the money. B. is entitled to recover back the amount of the bill.\nFrom the under-written agreement, it appears that the parties reserved the right to rescind the former contract in the event of B. not paying the residue of the purchase-money stipulated for in the articles.\nAfter a paper had been read to the jury without objections, and there was evidence ot mutilation, the question of such mutilation was properly left to the jury, with instructions that if it had been fraudulently altered, it was avoided.\nIu-error from the Common Pleas of Huntingdon.\nMay 24. Debt on a single bill, dated 8th April, 1889, for $300, with an under-written agreement signed by the maker, that the above sum \u201cis to be applied and accounted a part of the hand-money as mentioned in the article of agreement between Hudson and Reel, if said Reel pays the remainder of the hand-money as specified in the article, on the 22d inst.\u201d By these articles, Hudson agreed to sell Reel certain lands, for which. $1500 was to be paid on the 1st April, 1839.\nDefendant then proved that this bill was given for money paid by plaintiff to him, and that when Reel offered this money, Hudson hesitated about taking it, but finally assented, under an assurance that the residue would be there by the 22d. At the suggestion of another person, this method was adopted, and the amount was to be credited with the residue of the hand-money when that was paid. Reel 'took possession, but on the 22d, not being able to pay according to his agreement, \u201c gave up, and rented the property from that day.\u201d There was some evidence that a part of the paper on which the bill and agreement was written, had been cut off; but the only evidence that any thing was there written, was that one witness thought he had written his name there as a witness; but there was no objection taken to its being read in evidence.\nThe court (Wilson, P. J.) told the jury that if this were a payment on account of the purchase-money, and Reel had subsequently made default, he could not have complained. But the written agreement, coupled with the note, showed that it was not to be so considered unless the balance was paid at the day. And if the parties both agreed to a rescission of the original contract, or an alteration in its terms, and this money was paid over under an agreement that it was not to be received on account of the purchase-money unless the residue was paid, Reel might recover it back. If there was any damage shown to Hudson, by reason of the rescission, he might deduct it.\nThe court also said that if the whole paper, as given by Hudson to plaintiff, was not produced, or if a part had been fraudulently taken off with intention of destroying the explanatory part and Hudson\u2019s ground of defence, plaintiff\u2019 could not recover.\nThe charge of the court as to the construction of the underwritten agreement; on the subject of the alteration; that the right to recover did not depend on the articles of sale; and that the construction of the memorandum was, that each party reserved the right to rescind if the residue of the money was not paid on the 22d, were the errors assigned by the defendant below.\nBlair, for plaintiff in error.\nThe intention of the parties was, that this should be a payment on account, for which there can be no recovery after default by the vendee; Churchman v. Smith, 6 Whart. 146. The paper was in the exclusive possession of the plaintiff, and the court should have rejected it, for it was apparent that it bad been cut in two; Williams v. Bank United States, 2 Peters, 102.\nMay 29.\nOrbison, contra.\nIn Churchman v. Smith, the objection was taken to the admission of the evidence; if no! taken then it must be decided by the jury; 1 Greenl. Ev. \u00a7 564. There was here clear proof that the contract had been rescinded, which restores the parties to their original condition."
+  },
+  "file_name": "0279-01",
+  "first_page_order": 279,
+  "last_page_order": 282
+}

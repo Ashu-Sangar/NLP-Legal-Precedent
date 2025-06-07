@@ -1,0 +1,105 @@
+{
+  "id": 977313,
+  "name": "Mohr versus Warg",
+  "name_abbreviation": "Mohr v. Warg",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "106",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Pa. Rep. 483",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Yeates 157",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6772370,
+        6772331
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0157-02",
+        "/yeates/3/0157-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 60",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841271
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0060-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 250,
+    "char_count": 3449,
+    "ocr_confidence": 0.416,
+    "pagerank": {
+      "raw": 5.8135822472443275e-08,
+      "percentile": 0.3619373175810636
+    },
+    "sha256": "0db0cc53c22bff4440ff553fbe35e2efd8f27ff9ecf159f9bcc7f51508e2328d",
+    "simhash": "1:fe8a18ed14fa29aa",
+    "word_count": 628
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mohr versus Warg."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nThe Act of Assembly does not prescribe the manner of service for a rule on garnishees to answer interrogatories, and there seems to be no rule of court in the Common Pleas of Northampton, that was intended to regulate the service of such rules.\nUnder these circumstances the question presented by this record, is to be decided upon general principles of law. It is a general rule, although of statutory origin, that a copy left at the party\u2019s dwelling with his wife is a good service. No statute makes such-service of a notice to take depositions sufficient, yet it was held in Snyder v. Wilt, 3 Harris 65, that a notice to take depositions was well served by leaving a copy with the party\u2019s wife: Campbell v. Shrum, 3 Watts 60, is to the same effect, but there was a rule of court on the subject.\nConceiving that a garnishee ruled to answer interrogatories,is not entitled to more notice than that which is sufficient to bring him into court, or to make depositions legal, we think the court were not in error in sustaining the proceedings in this case.\nThe rest of the plaintiff in error\u2019s case rests on a clerical error in docketing the rule as of the 5th August, 1846, instead of the 28th. The rule was to answer on the first day of the next term, and as it was not served until the 2'(^h October, and a term intervened between the 5th and 28th of August, the mistake of date was a very important one. That it was a mistake we infer from the uneontradicted statements of the defendant in error\u2019s paper-book. Amendable at any moment, it is no ground for reversal.\nThe proceedings are affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Green, for plaintiff in error,",
+      "Johnson, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Mohr versus Warg.\nA copy of a rule on a garnishee to answer interrogatories left at his dwelling-house, in his absence, with an adult member of his family, is a sufficient service.\nA mistake of the clerk in the date of the entry of the rule, was amendable at any time, and forms no ground to reverse the judgment.\n\u2022 Error to the Common Pleas of Northampton county.\nThis was an attachment execution, issued by Charles L. Mohr against Daniel Bickel, with notice to John Warg, as garnishee. The attachment was served on the 11th May, 1846, on the garnishee, and returned non est inventus, as to the defendant Bickel.\nOn the 26th August, 1846, interrogatories to the garnishee were filed, and rule on him to answer the same by the first day of next term or judgment. The sheriff returned on oath that he served a copy of the interrogatories on John Warg, by leaving it at his residence with his wife, October 2, 1846. No answers having been put in, the court on the 19th November, 1846, entered judgment against the garnishee for the debt, &c. A fieri facias was issued, and the defendant came in and presented an affidavit to the court that he never had notice of the filing of the interrogatories, and moved to set aside the judgment. The counsel of the garnishee contended that the service of the interrogatories to be effectual must be a personal one, there being no rule of court regulating the manner of service. The court refused to open or set aside the judgment.\nWhereupon Warg, the garnishee, sued out this writ.\nGreen, for plaintiff in error,\ncited act 13th June, 1836, \u00a7\u00a735 and 36, Purd. 333, pl. 28-29; same act, \u00a7\u00a7 56, 57, Purd. 390, pl. 14-15; 3 Yeates 157; Id. 168; 1 Pa. Rep. 483; 2 Brevard Rep. 47; 1 Barr 442.\nJohnson, for defendant in error,\nrelied on Snyder v. Wilt, 3 Harris 59."
+  },
+  "file_name": "0106-01",
+  "first_page_order": 106,
+  "last_page_order": 108
+}

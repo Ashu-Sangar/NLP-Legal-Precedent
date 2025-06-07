@@ -1,0 +1,141 @@
+{
+  "id": 970668,
+  "name": "Hoyt versus Koons",
+  "name_abbreviation": "Hoyt v. Koons",
+  "decision_date": "1852",
+  "docket_number": "",
+  "first_page": "277",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 277"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 298",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 437",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846788
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0437-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 40",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0040-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 13",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1851011
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0013-01"
+      ]
+    },
+    {
+      "cite": "4 Wharton 291",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1834999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0291-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 25",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wharton 469",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 298",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 448,
+    "char_count": 8593,
+    "ocr_confidence": 0.431,
+    "pagerank": {
+      "raw": 1.8172579149008758e-07,
+      "percentile": 0.7187150679441157
+    },
+    "sha256": "e18d1a649e6e0e3dfd236fef7c69b31eb3306060e26fd62f81cd9300c501e48e",
+    "simhash": "1:d4e307a3c17f70df",
+    "word_count": 1514
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Woodward, J., being of counsel for one of the parties, took no part in the decision."
+    ],
+    "parties": [
+      "Hoyt versus Koons."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the-Court was delivered by\nBlack, C. J.\nThe plaintiff below bought the land in dispute at sheriff\u2019s sale in November, 1842; the deed was acknowledged on the 23d of January, 1844. After the sale to the plaintiff the same land was again sold as the property of the same person, but under another execution and judgment. At this second sale one of the defendants was the purchaser, and had his deed acknowledged on the 11th January, 1843. The only question which the record presents is, whether a title acquired by a sheriff\u2019s sale can be defeated by a subsequent sale to another person, when the deed to the last purchaser is first acknowledged. We answer it here, as it was answered by the Common Pleas, in the negative. The sale divests the title of the defendant in the execution, and the judgment creditors must either set it aside, or look to the fund for payment of tbeir liens. The sheriff has a right to demand the purchase-money immediately, and unless he returns that it is not paid, the presumption is that he has received it, or some equivalent with which he is satisfied. The title acquired in this way relates back to the time of sale, not merely to the date of the deed: 1 Ser. & R. 96; 6 Watts 298; 7 Id. 487; 8 W. & Ser. 188. It may be that non-payment of the purchase-money, and no delivery of the deed for a very long time, with the acquiescence of all parties interested, would raise a presumption that the sale was set aside, although it did not appear so on the record. But .here the interval between the two purchases was less than three months. We also think that the record was sufficient notice of the first sale, to all the world.\nJudgment affirmed.\nWoodward, J., being of counsel for one of the parties, took no part in the decision.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "MeOlintocJc, for plaintiff in error.",
+      "S. Wright and W. B. Woodward, eontrA"
+    ],
+    "corrections": "",
+    "head_matter": "Hoyt versus Koons.\n1. The land of a debtor was sold on 15th November, 1842, at sheriff\u2019s sale under a venditioni exponas, which was returned \u201c sold.\u201d A deed was executed dated on the day of sale, but it-was not acknowledged till above a year after-wards. About three weehs after the said sheriff\u2019s sale, a venditioni exponas issued on a different judgment against the same defendant, and the same land was sold to another, and the deed was soon after duly acknowledged and entered of record: Held, that the title acquired by they?rs\u00bf sale was not defeated by the second sale, though the sheriff\u2019s deed to the second purchaser was first acknowledged.\n2. The first sale not being set aside divested the title of the defendant in the execution; and other judgment creditors could have moved to have the sale set aside, or have looked to the fund for payment of their liens.\n3. The title acquired related back to the day of sale, not merely to the date of the sheriff\u2019s deed.\n4. The interval of less fhan two months from the time of the first sale till the acknowledgment of the sheriff\u2019s deed to the second purchaser, was too short to raise a presumption that the first sale had been set aside.\n5. In this case the record was sufficient notice of the first sale.\nError to the Common. Pleas of Luzerne county.\nThis was an action of trespass, by William Koons v. William Iloyt and Joseph Lukens, for cutting timber on a tract of land, containing 190 acres. Both of the parties claimed the land, each under a sheriff\u2019s sale when sold under different judgments against John Koons.\nThe sheriff\u2019s sale to William Koons, the plaintiff, was made on the 15th November, 1842, but the sheriff\u2019s deed to him was not acknowledged till the 23d January, 1844. The property was sold under a judgment of Miller & Dorney, obtained on 13th January, 1840. The fi. fa. issued to August Term, 1842, and was returned, \u201cLand levied and condemned.\u201d The vend. exp. was issued to November Term, 1842. It was missing at the trial. The execution docket contained the entry, \u201c Sold \u2014 sheriff\u2019s fees $15.\u201d\nThe sheriff was examined, and stated that he had made search for the vend, exp., but could not find it. That it was his impression that \u201c the money was not paid right away \u2014 some time before the bid was paid after it was struck off.\u201d\nThe deed to William Koons was stated to have been executed on 15th November, 1842. The deed recited the sale on 15th November, 1842, to William Koons, for $191, and conveyed the land in question, but it was not acknowledged' till 23d January, 1844. It was not entered of record till 10th January, 1845, the day previous to the institution of this suit.\nThe judgment in favor of W. Wayne, under which defendants claimed, was entered on 15th November, 1836. Judgment of revival on 10th January, 1842. M. fa. to January Term, 1842, was returned, levied and condemned. Vend. exp. issued on 6th December, 1842, returnable to January Term, 1843, and was returned, sold. January 9, 1843, date of sheriff\u2019s deed to Reichard, the purchaser, who subsequently assigned to William Hoyt. The deed was acknowledged on eleventh January, 1843. The deed recorded in deed book of sheriff\u2019s sales.\nJessup, J., charged the jury: \u2014 1. That the plaintiff, upon the face of the papers, had exhibited the better title, and ought to recover such damages as he had actually sustained, to be ascertained by the jury under the evidence, unless,\n2. The jury should, under the evidence, be satisfied that when the property was a second time being sold by the sheriff, the plaintiff was present, and knowing it to be the land previously purchased by him, gave no notice of his prior title, in which case he would now be estopped from denying the title of the purchaser, and ought not to recover.\nYerdict for plaintiff.\nError was assigned to the first part of the charge.\nMeOlintocJc, for plaintiff in error.\nNo notice of the first sale was given at the second sale. Sheriff\u2019s deed without acknowledgment does not vest the title in the purchaser: Case of Eleventh St. Qu. Sess. Phila., Wh. Dig. last edition, vol. 1, pl. 843; 2 Wharton 469; 10 Watts 25, Bellas v. McCarty; 4 Wharton 291; 10 Watts 13-31, Patterson v. Stewart; 2 Binn. 40, Heister v. Fortner.\nS. Wright and W. B. Woodward, eontrA\nNothing in the Act of Assembly fixes any time within which sheriffs\u2019 deeds are to be acknowledged, and a deed may be acknowledged after the sheriff\u2019s term has expired: 2 Ser. & R. 53. In this case the sale to the plaintiff was under a writ returnable to November Term, 1842. The deed was executed on 15th November, 1842. On the 6th December, 1842, only twenty-one days afterwards, the vend, exp. on the Wayne judgment, under which the defendant claims, was issued; and on the 9th January, 1843, the sheriff\u2019s deed was made to the purchaser. Within six weeks after the return of th& first vend, exp., the second sale was made.\nThis case is different from those referred to on part of the plaintiffs in error. In Bellas v. McCarty, both parties claimed under George Derk, one by a private, the other by a judicial sale. The deed executed by Dirk was in 1829, was immediately recorded, and was sustained against a sheriff\u2019s unacknowledged deed, on a writ of testatum venditioni exponas from another county, in 1822. Patterson v. Stewart simply decided that parol evidence could not be admitted to prove the acknowledgment of a sheriff\u2019s deed. Heister\u2019s Lessee v. Fortner, decided that a deed dated in 1788, defectively acknowledged, and recorded in 1790, was not constructive notice to a purchaser of the grantor\u2019s property at sheriff\u2019s sale in 1797.\nIn the present case want of notice on the part of Beichard, of the sale to the defendants in error, cannot be alleged. The Miller & Dorney judgment was an existing, unsatisfied lien. The levy itself, under that judgment, upon the land in dispute, was a lien. Supposing the rights of William Koons not to have been consummated by the deed of 15th November, 1842, yet he had acquired an inceptive right under his deed, which gave him, as to notice, all the advantage to be derived from the fact that the proceedings upon the Miller & Dorney judgment and execution were pending. The process was Us pendens, and notiee of itself.\n\u201cA purchaser at sheriff\u2019s sale, before the deed is acknowledged, has an inceptive interest in the sale, which may be bound by a judgment; and which, when perfected by payment and a conveyance, gives the encumbrancer by relation, the benefit of the security to the extent of the whole estate:\" Morrison v. Wurtz, 7 Watts 437; Stephens\u2019 Appeal, 8 W. & Ser. 188.\n\u201cNotwithstanding the sheriff\u2019s deed was not recorded until after ejectment brought, yet the title relates back to the time when the deed was made:\u201d McCormick v. Meason, 1 Ser. & R. 96; Feger v. Keefer, 6 Watts 298."
+  },
+  "file_name": "0277-01",
+  "first_page_order": 279,
+  "last_page_order": 282
+}

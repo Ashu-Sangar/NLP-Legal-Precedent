@@ -1,0 +1,85 @@
+{
+  "id": 960746,
+  "name": "St. Clair v. Shale",
+  "name_abbreviation": "St. Clair v. Shale",
+  "decision_date": "1848-10-24",
+  "docket_number": "",
+  "first_page": "252",
+  "last_page": "253",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 252"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts, 28",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850057
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/9/0028-01"
+      ]
+    },
+    {
+      "cite": "3 Penn. Rep. 132",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 285,
+    "char_count": 4240,
+    "ocr_confidence": 0.389,
+    "pagerank": {
+      "raw": 8.411867578422581e-08,
+      "percentile": 0.48312662244015
+    },
+    "sha256": "83d5e1f62c44767b7d06e5cdef8e80dddebf724168315528139075413d4ef0ba",
+    "simhash": "1:52309ad1dbb0a419",
+    "word_count": 752
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "St. Clair v. Shale."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe error assigned is in admitting the copy of the record in the case of the lessee of Arthur St. Clair and Timothy Turnout, lessee in possession No. 131, April Term, 1774, Westmoreland Common Pleas, ejectment for three hundred acres, the same as claimed by Muchman (being the name of the location and survey). July, 1779, judgment; fieri facias issued Oct. 7,1779. Sept. 12,1779, executed, and possession given to the plaintiff. It was clearly evidence. There was no execution-docket for that period in the office; no papers to be found. Hammackstown, where the courts were held until 1781, had been burned by the Indians \u2014 a calamity remembered but by few now living. The county town of Westmoreland was not settled at Greensburgh until 1786. 2d. The error strenuously urged was the statute of limitations, and the declarations of Mrs. Bayard after the death of her husband, how she and her husband obtained the possession, and how they held the premises. I freely confess, that on the argument of the case, I was inclined to think her statements were not evidence; but the arguments of my brethren have removed my difficulties. It is in evidence, that Capt. Bayard entered on the land in 1795. He died in 1807, off the land. His house had been burned, and he was moved off with his family. Shortly after he died, and the neighbours built Mrs. Bayard a house, and she returned to the premises, where she remained until her death, in 1816 or 1817. They had a tenant residing on the land near their dwelling, who farmed the place. They had no children. Capt. Bayard was a brother of Mrs. Arthur St. Clair. There is not a sparlc of evidence in the case, during the life of Capt. Bayard, showing how he entered or claimed the premises. But after the death of her husband, Mrs. Bayard told Morris that Gen. St. Clair had given it to her and her husband during their natural life. The judgment of Gen. O\u2019Hara against Gen. St. Clair, was in evidence, and the sale to Gen. O\u2019Hara in 1810. The evidence of William Johnston proves that he stopped at Gray\u2019s house, who was a tenant under Mrs. Bayard in 1817; while there he made inquiries whose land it was, and Gray said it belonged to Gen. O\u2019Hara, said he had lived on it for some time, and after that leased from Louisa Robb. He afterwards promised to take care of it for Hamilton, who was the agent of Gen. O\u2019 Hara. ' In 1811 he had stopped at Mrs. Bayard\u2019s, with Hamilton and Montgomery. Mr. Hamilton introduced him to the old lady. He asked her if she knew it was sold, and told her he was an agent of Gen. O\u2019Hara\u2019s. She said she understood so ; that Gen. St. Glair had put her there, and Gen. O\u2019Sara would not put her out. Mrs. Bayard died on the land about the time she had been twenty-one years in possession. In a short time after her death, Gen. O\u2019Hara\u2019s agent obtained the possession. A possession to be protected by the statute must' be adverse; whore it is obtained under or by consent of the plaintiff, the statute will not protect him: Jones v. Porter, 3 Penn. Rep. 132; Alternas v. Campbell, 9 Watts, 28. So an adverse possession must continue the prescribed period of twenty-one years to make it a bar: Journal of Jurisprudence, 256.\nThere is no evidence in the case how Capt. Bayard claimed; none that he claimed adverse to Gen. St. Clair; and long before the statute had taken effect, Mrs. Bayard, whose adverse possession was essential to give the plaintiffs any title, disclaimed such an entry and possession to the agents of Gen. O\u2019Hara.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Foster, for plaintiff in error.",
+      "Williams, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "St. Clair v. Shale.\nDeclarations by a party in possession by virtue of -which title is claimed under the statute of limitations, are evidence to show that the possession was not held adversely.\nIn error from the Common Pleas of Westmoreland.\nEjectment. In 1795 Bayard entered on the land in question, and died in 1805. The title to the land was in his brother-in-law, St. Clair. His widow continued his possession, and the question was, whether her declaration that St. Clair had given the land to herself and husband for life was evidence to rebut the presumption of an hostile possession. The court said it was, and this was assigned for error.\nFoster, for plaintiff in error.\nWilliams, contrd.\nOct. 24."
+  },
+  "file_name": "0252-01",
+  "first_page_order": 252,
+  "last_page_order": 253
+}

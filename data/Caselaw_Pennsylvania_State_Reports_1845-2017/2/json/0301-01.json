@@ -1,0 +1,85 @@
+{
+  "id": 951234,
+  "name": "Stahl's Appeal",
+  "name_abbreviation": "Stahl's Appeal",
+  "decision_date": "1845-04-11",
+  "docket_number": "",
+  "first_page": "301",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Whart. 575",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 15",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0015-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 395,
+    "char_count": 7424,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 7.578924433977877e-08,
+      "percentile": 0.44906710777346476
+    },
+    "sha256": "ad68f2ca24d2fc30123b67a301cd23e02cb2a0741cd6552f323331e777e1b988",
+    "simhash": "1:fb92451175e4eb1b",
+    "word_count": 1326
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stahl\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Kennedy, J.\n\u2014 It will scarcely be denied, or even doubted, after reading the will, that the testator intended to give his wife a larger portion of, or interest in, his estate, as long as she should remain his widow, than she should have or enjoy after her marriage, if she married again. This appears plainly from the whole face of the will itself. [His honour here stated it.] The auditor, to whom the account w7as referred by the court below, in his report, allowed to the widow, upon her getting married again, the one-half of all the testator\u2019s personal estate absolutely, in the same manner as if he had died intestate, beside the $200 legacy in addition thereto. \u201cThe household furniture and other loose property,\u201d given to her in the first part of the will, amounting in value to $293.68, which she received immediately after the death of the testator, wrere deducted from the whole mass of the personal property before dividing and giving or allowung one-half thereof to the widow7, so that she has thus allowed to her the household furniture, and the $200 legacy, in addition to the one-half of the residue of the whole of the personal estate. Now, I think, it must be apparent to every one, that this, instead of allowing to her a less portion of the testator\u2019s estate, on account of her having married again, as the testator unquestionably intended, would be giving to her a much larger portion thereof than she could have claimed, or would have been entitled to receive, under the will, had she abstained from marrying. By the will, if she had not married again, she could only have claimed and received the interest, annually, upon $3391 58, that sum being the whole amount of the personal estate, after deducting the household furniture, and the expenses attending the administration of it; but according to the report of the auditor, which was approved and confirmed by the court below, she has had allowed and decreed to her $1695 79, one-half the amount of the whole of the principal, besides the $200 legacy, thus giving to her $1895 79 of the principal, instead of an interest, annually, of $203 49, which is all that she could have had if she had abstained from marrying, as the testator wished her to do. We cannot think that the testator intended to give her any thing like so large a proportion of his estate if she married, which he appeared to have been very solicitous she should abstain from. Such an allowance, instead of restraining her from marrying again, and changing her name \u2014 a thing, I repeat, that the testator seems to have been extremely anxious she should not do \u2014 would rather have had a tendency to have inclined her to do it, as it would have improved her condition in a pecuniary point of view. It is impossible to doubt for a moment, that the testator intended she should have less of his estate if she married again than if she remained unmarried. This must be regarded as a clew to a proper construction of the will, so that the intention of the testator may be carried into effect. The sentence giving rise to the difficulty is very badly and obscurely expressed, and it is only by ascertaining what it was that the testator wished to effect, if possible, by introducing it, that his meaning can be discovered. Seeing then his great object was to prevent her marrying again, and parting with his name, the natural, if not the inevitable conclusion, is, that he intended, if she married, she should have only $200 of his personal property, beside the household furniture, which he had given to her in the first part of his will, unless she should be entitled to it by the law of the land, against his will and consent.\nThe decree of the court below is, therefore, reversed, and $200 only, with interest thereon from the marriage of the wife, are decreed to be paid out of the testator\u2019s personal estate, to her and her present husband, beside the household furniture, which she received, and is, as we conceive, entitled to retain. Next, $800, with interest thereon, from the wife\u2019s marriage, out of the same, to Anna Maria Eckroth; and the residue thereof is ordered .and decreed to be paid to the brothers and sisters of the testator, or their legal representatives, as directed by him in his will. The costs, however, are ordered to be first paid out of the residue.",
+        "type": "majority",
+        "author": "Kennedy, J."
+      }
+    ],
+    "attorneys": [
+      "King, for residuary legatees, appellants.",
+      "Davis, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Stahl\u2019s Appeal.\n1. A bequest durante viduitate ceases on marriage.\n2. Bequest of household furniture to widow, residue to executors, to pay her the interest., so long as she remained his widow, and bore his name. \u201c Should she marry again, then she shall have so much of my property as the laws of the land will give her, and yet \u00a7200.\u201d. On a second marriage of the widow, the payment of interest ceases, and she is left to her rights at law, and can claim the absolute gift of the furniture, and $200 only.\nAppeal from the Orphans\u2019 Court of Lehigh county.\nMarch 21. \u2014 Stahl, by his will, gave all his furniture and loose property, except bonds, mortgages, &c., to his wife, absolutely, with the use of his land so long as she remained his widow. The rest of his personal estate was to be placed at interest, and his executors were to pay her the interest so long as she remained his widow and bore his name. He then continued, \u201c should my wife marry again, then it is my will that she shall have so much of my property as the laws of the land will give (or allow) her, and yet $200 in money.\u201d He gave a legacy to A. M. E., on the death of his wife, to be paid immediately if she married again. The residue \u201c which may be in the hands of my executors, after the marriage of my wife, shall be paid to my three brothers,\u201d &c. Testator left real estate valued at $3000. The widow married again, and the question here was on the settlement of his executor\u2019s accounts.\nThe court allowed her the income of his personal estate till the marriage ; then the one-half of the gross amount of that property, deducting from the remaining half the legacy to A., and the $200 legacy, which they also allowed the widow. These, with commissions charged on the income paid the wife until marriage, which also came out of the residue, were the subjects of exception here.\nKing, for residuary legatees, appellants.\n\u2014 The interest paid the widow during widowhood should not have come into this account, for as to that they were trustees, and should have so accounted. To that fund should the commissions have been charged, for it was payable by the cestui que trust. Equity cannot extend a gift, though it may dispense with a forfeiture; Bennet v. Robinson, 10 Walts, 348. What then has the testator given his widow in the event of her marriage ? I contend, simply that which the law gives her, in case there is a will, and $200 besides, which is her dower. This is the very case put in Rogers v. Rogers, 7 Watts, 15, which it is said would deprive her of every thing but the specific legacy. He evidently contemplates that a second marriage would release his estate. If he is to be considered intestate in this event, she must account for the properly given absolutely.\nDavis, contra.\n\u2014 It is clear he intended to provide liberally, and Mcllvaine v. Gethen, 3 Whart. 575, shows this forfeiture on marriage is void. [Kennedy, J. \u2014 That was a defeasance ; there is no objection to a limitation over on such event.] We contend the residue was given after she got all the intestate laws w'ould give her, and $200 besides.\nApril 11."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 301,
+  "last_page_order": 303
+}

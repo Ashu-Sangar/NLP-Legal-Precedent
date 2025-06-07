@@ -1,0 +1,103 @@
+{
+  "id": 953568,
+  "name": "In re Shaefferstown Road",
+  "name_abbreviation": "In re Shaefferstown Road",
+  "decision_date": "1847-06-29",
+  "docket_number": "",
+  "first_page": "515",
+  "last_page": "516",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts & Serg. 39",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0039-01"
+      ]
+    },
+    {
+      "cite": "3 Whart. 105",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833410
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/3/0105-01"
+      ]
+    },
+    {
+      "cite": "3 Watts & Serg. 559",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854640
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0559-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 201,
+    "char_count": 2527,
+    "ocr_confidence": 0.369,
+    "pagerank": {
+      "raw": 1.0269462673743285e-07,
+      "percentile": 0.5469587223038872
+    },
+    "sha256": "ca4164d4e24d7421fa8737f06a78089a423ab13ec73bd8cb7a61aed87e2c0fb2",
+    "simhash": "1:bea02fd7ac13527d",
+    "word_count": 451
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Shaefferstown Road."
+    ],
+    "opinions": [
+      {
+        "text": "Courter, J.\nOne of the errors. assigned has been frequently ruled by this court to be an incufable defect in proceedings of this kind. The breadth of the road was not fixed by the court at the time the road was approved, nor indeed at any other time; 1 Barr, 356; 3 Watts & Serg. 559; 3 Whart. 105; 4 Watts & Serg. 39. There' is no trace or scintilla .of evidence on the record that the court at any time fixed the breadth of the road. But it was alleged on the argument, that among the rules of court'of Lebanon county is one fixing the width of roads which may be laid out in that county. But I know of no authority justifying the court of Quarter Sessions to modify, alter, or change the act of Assem'bly on the subject. The 4th section of the act of June, 1836, directs that, \u201c if the court shall approve of the report of viewers, allowing a road, they shall direct what breadth the road so approved shall be opened, and at the next court thereafter, the whole.proceedings shall be entered on record, and thenceforth'the road shall be taken, deemed, and allowed a lawful public road or highway, or private road, as the case may be.\u201d\nThis very point was ruled in the matter of Pott\u2019s road, in Montgomery county, ante, 101.\nThe aet of Assembly requires the court to exercise its judgment and discretion in all cases, as to the width of roads, because, in some neighbourhoods, the amount of travel and business may require broader roads thaln other localities, where the travel is less.\nThe act of Assembly also requires that the width of the road should be recorded with the other proceedings at the time the road is approved, when all people interested may have an opportunity to see and examine it. The duty is not very onerous on the courts, and when they record their-approval of the road a few words inore will suffice to fix the breadth.\nAt all events it is peremptorily enjoined on the court by the statute, and not doing it is error, and for. this cause the\" proceedings are reversed.\nProceedings reversed.",
+        "type": "majority",
+        "author": "Courter, J."
+      }
+    ],
+    "attorneys": [
+      "Kline, for the exceptant.",
+      "Weidman, contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re Shaefferstown Road.\n\u00a1Unless the breadth of the road be determined by the court by special order, when the report of viewers, Ac., is confirmed, the proceedings will be quashed.\nCertiorari to the Quarter Sessions of Lebanon. -\nJune 21. The reports of viewers, reviewers, and re-reviewers having been filed, the court approved of the former and latter reports, but there did not appear to have been any order made as to the breadth of the proposed.road.\nJune 29.\nKline, for the exceptant.\nWeidman, contra."
+  },
+  "file_name": "0515-01",
+  "first_page_order": 515,
+  "last_page_order": 516
+}

@@ -1,0 +1,129 @@
+{
+  "id": 963730,
+  "name": "Stephens v. Myers",
+  "name_abbreviation": "Stephens v. Myers",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "302",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. & S. 240",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852643
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0240-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch, 253",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        530388
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/10/0253-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 239",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408532,
+        12142581
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0251-01",
+        "/dall/1/0239-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 213",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480222
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0213-01"
+      ]
+    },
+    {
+      "cite": "2 W. 306",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. 130",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 152,
+    "char_count": 1630,
+    "ocr_confidence": 0.406,
+    "pagerank": {
+      "raw": 1.1401102343332298e-07,
+      "percentile": 0.5782562998846651
+    },
+    "sha256": "2b1fecfe513d5cfc48de7058e3a57a810801815ee7746eea5ea843c32036d8cc",
+    "simhash": "1:56dc6ff1f9f5516e",
+    "word_count": 298
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephens v. Myers."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nA defendant has no right by the Act of 1806 to amend his plea, after judgment on demurrer. It was his folly not to withdraw it when the first demurrer to it was withdrawn. Nor could he have the benefit of an amendment at the trial, by filing a new plea. He would trifle with his statutory privilege, were he allowed to do so.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Howell, for plaintiff in error.",
+      "Black, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Stephens v. Myers.\nAfter judgment, on demurrer to a plea of bankruptcy, tbe same defence cannot be again pleaded, nor can tbe defective plea be amended.\nIn error from the Common Pleas of Greene.\nTo a sei. fa. upon a judgment the defendant pleaded payment, and that, after the judgment was recovered, he had become a bankrupt. To this the plaintiff demurred, which demurrer he subsequently withdrew, and again demurred.\nThe cause coming on for trial, the defendant was required to join in demurrer, which he did, and the Court gave judgment for plaintiff.\nDefendant then applied for leave to file an amended plea, averring Ms discharge as a bankrupt; which being, refused, this writ of error was sued out, and the refusal of the amendment assigned for error.\nHowell, for plaintiff in error.\nThe defect was a mere informality, amendable by the Act of 1806. The proposed plea was not a mere amendment, but a new plea, which was of right during the trial: 2 W. 130 ; 11 S. & R. 188.\nBlack, contr\u00e0.\nSuch amendments are not within the Act, 2 W. 306; and as a new plea, where the same defence had been pleaded and determined, the Court have a discretionary power: 6 W. & S. 213; 1 Dall. 239; 6 Cranch, 253; 2 Harr. & Gill, 79; 1 Harr. & McH. 400, 324; 1 W. & S. 240; 4 Barr, 119."
+  },
+  "file_name": "0302-01",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

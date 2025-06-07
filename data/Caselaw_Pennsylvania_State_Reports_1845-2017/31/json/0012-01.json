@@ -1,0 +1,66 @@
+{
+  "id": 985096,
+  "name": "Clowes' Private Road",
+  "name_abbreviation": "Clowes' Private Road",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "12",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 131,
+    "char_count": 1665,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 1.5985315799375735e-07,
+      "percentile": 0.6834676461832331
+    },
+    "sha256": "938e6a715a54024e1a37d1c40c48265a14253f368673bcf85235ab6202d907c2",
+    "simhash": "1:ec2966adeeac1c3b",
+    "word_count": 303
+  },
+  "last_updated": "2023-07-14T17:56:31.972662+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clowes\u2019 Private Road."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nThere is error in issuing an order for opening this road before the damages were paid, or tendered and brought into court; and also in confirming the report which values the damages as of a road twelve feet wide, and in then fixing the width at eighteen feet.\nThere is also error in laying the road on the bridge of another man without making a special order in relation to the duty of the applicant in regard to its maintenance and repairs. He ought to be required to keep it up so long as he alone uses it, and if the owner uses it in common with him, it ought to be kept up at the common expense, and so ordered.\nOrder reversed and procedendo awarded.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Barton for plaintiff in error, Henderson.",
+      "Marshall $ Brown, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "Clowes\u2019 Private Road.\nIt is error to issue an order for the opening of a private road before the damages are paid, or tendered and brought into court.\nIt is error to confirm a report in favor of a private road and to order it to be opened eighteen feet wide, when the report estimates the damages for a road only twelve feet wide.\nIn authorizing a private road partly over a private bridge of another man, it is the duty of the court to add to the confirmation such order relative to the maintenance and repair of the bridge by the applicant, as the case may require.\nCertiorari to the Quarter Sessions of Allegheny county.\nJames Clowes petitioned for a private road over land of his neighbour, William Henderson, in Indiana township, and a report was made and confirmed. The points raised and decided appear sufficiently in the opinion of the court, delivered in September, 1854.\nBarton for plaintiff in error, Henderson.\nMarshall $ Brown, for petitioner."
+  },
+  "file_name": "0012-01",
+  "first_page_order": 12,
+  "last_page_order": 13
+}

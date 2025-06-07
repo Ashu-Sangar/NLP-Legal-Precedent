@@ -1,0 +1,91 @@
+{
+  "id": 975837,
+  "name": "Pittsburgh and Steubenville Railroad Company versus Hall et al.",
+  "name_abbreviation": "Pittsburgh & Steubenville Railroad v. Hall",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "336",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 336"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wheat. 394",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1442075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/18/0394-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 33",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0033-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 196,
+    "char_count": 2572,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 6.61029502890295e-08,
+      "percentile": 0.4038557846422707
+    },
+    "sha256": "9b804e7e104f28144bf346b1293d1ad12899e3b4db243717a5d415be2c9dc9e7",
+    "simhash": "1:2741c4eac58a4330",
+    "word_count": 441
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pittsburgh and Steubenville Railroad Company versus Hall et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, J.\nAll the exceptions in this case are abandoned except one. That one is, that the viewers did not apportion and divide the damages among the different claimants, according to their respective interests in the land laken. This is nothing. If the railroad company pays these damages, it matters not to it how they may be divided among those entitled.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Black, J."
+      }
+    ],
+    "attorneys": [
+      "Todd and Smith, for plaintiffs, in error. \u2014",
+      "Hall and Woods, contr\u00e1. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Pittsburgh and Steubenville Railroad Company versus Hall et al.\n' TKe assessment of damages occasioned to a tract of land by the building of a railroad, on the petition of several joint owners, is properly made in a gross sum.\nIt is no objection to the validity of the proceedings, that the viewers did not apportion the damages among the claimants according to their respective , interests in the land.\nCertiorari to the Common Pleas of Allegheny county.\nOn the 27th day of January, 1855, James W. Hall, Margaret Hall Ms wife [late Margaret Ewing), John Ewing, and Elizabeth Woods, the two former being the children, and the latter the late widow of John Ewing, deceased, now intermarried with Stephen Woods, presented their petition to the Court of Common Pleas of Allegheny county, alleging they were the owners of a tract of land in said county, and that the railroad company had entered upon and appropriated a portion of the said land for the purposes of their road. On the same day the Court appointed viewers, and on the 1st of March following, the report was filed, finding for the petitioners $1500 damages.\nTo this report the railroad company filed exceptions, one of wMch was to the effect,, that the viewers had made no apportionment of the damages among the petitioners, according to their several interests in the land. These exceptions were overruled, and the report of the viewers confirmed.\nThe only exception pressed in this Court, was the one above stated.\nTodd and Smith, for plaintiffs, in error. \u2014\nThe claims of the complainants are distinct and distributive, and not collective and aggregate, and the finding of the viewers should correspond: 1 Harris 500; 7 Watts 33; 5 Wheat. 394; 3 W. & Ser. 464.\nHall and Woods, contr\u00e1. \u2014\nThe viewers assess the damages if there is any contest as to the distribution between the parties. A payment of the amount assessed would exonerate the company: 1 Harris 500. It is not necessary to set forth the title of the parties. The petitioners were bound to make out their title before the viewers, and in the absence of contrary proof, it will be presumed that they have done so: 7 W. & Ser. 236."
+  },
+  "file_name": "0336-01",
+  "first_page_order": 336,
+  "last_page_order": 337
+}

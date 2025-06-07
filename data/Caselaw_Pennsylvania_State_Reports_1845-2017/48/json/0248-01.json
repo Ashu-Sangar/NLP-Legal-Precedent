@@ -1,0 +1,127 @@
+{
+  "id": 422176,
+  "name": "Reppert versus Colvin",
+  "name_abbreviation": "Reppert v. Colvin",
+  "decision_date": "1864",
+  "docket_number": "",
+  "first_page": "248",
+  "last_page": "253",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 345",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854666
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0345-01"
+      ]
+    },
+    {
+      "cite": "5 Whart. 530",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878860
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0530-01"
+      ]
+    },
+    {
+      "cite": "1 Harper 245",
+      "category": "reporters:state",
+      "reporter": "Harper",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Maine 184",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        616000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/22/0184-01"
+      ]
+    },
+    {
+      "cite": "1 P. R. 135",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 W. & S. 345",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854666
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 574,
+    "char_count": 12802,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 1.1466069702324083e-07,
+      "percentile": 0.5803944554296409
+    },
+    "sha256": "867b51ad272fc93dc42fbaa90c334f1477606816c466a2942151086ef2c1f58e",
+    "simhash": "1:7e47cce1920875dd",
+    "word_count": 2283
+  },
+  "last_updated": "2024-02-27T22:05:40.639131+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reppert versus Colvin."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRead, J.\n\u2014 The law is well settled, that after the dissolution of a partnership, the partners cease to have any power to make a contract in any way binding on each other. The dissolution puts an end to the authority, and operates as a revocation of all power to create new contracts. Of course a new promise, of which the original debt is only the consideration, by a partner after the dissolution of the copartnership, will not take the debt out of the Statute of Limitations, so as to make the copartners liable.\n\u25a0 The exception -to this rule, is where the partner takes the stock on hand and becomes the liquidating partner, as in the case of Houser v. Irvine, 3 W. & S. 345. The authority of Smith in that case, says Chief Justice Gibson, \u201cwas to settle partnership debts, and pay them out of the effects in his hands.\u201d But this is not the case, where there is a total and entire insolvency of the partners, and a disposition of the whole of the firm assets by assignment or by sale by the sheriff. In the present suit, all the property of the partnership was sold by the sheriff under a judgment and execution against the firm in January 1852, and they were \u201c completely cleaned out\u201d and entirely insolvent. The firm entirely disappeared, and the business was carried on by the person who purchased the property at sheriff\u2019s sale, under the name of F. E. Smitley. \u201c Each partner went to shift for himself.\u201d In 1851 the firm gave to Thomas Woods a note for $150, who passed it to Charles K. Reppert without recourse, at the same time informing him that the firm was insolvent. On the 1st July 1855, Smitley gave a new note payable five years after date, and signed it \u201c Smitley & Colvin, per S. Smitley,\u201d upon which this suit was brought to March Term 1864, twelve years after the dissolution of the partnership and its total insolvency. It is clear that this case comes within the ruling of Levy v. Cadet, 17 S. & R. 126, and Searight v. Craighead, 1 P. R. 135, and not within any of the exceptions of the rule, and the court below were therefore right in entering judgment for the defendant non obstante veredicto.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "J. D. Hancock, for plaintiff.",
+      "Thomas MacConnell, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Reppert versus Colvin.\nRight of one partner to revive debts against his copartner, barred by Statute of Limitations.\n1. After the dissolution of a partnership, a new promise by one of the partners, the only consideration of which was the original debt of the firm, will not take the debt out of the Statute of Limitations, so as to make the copartners liable.\n2. The exception to this rule is where the partner by whom the promise was made has taken the stock on hand and become the liquidating partner. But this is not the case where there is a total and entire insolvency of the partnership, and a disposition of the whole of the firm assets by assignment or by sale by the sheriff.\nError to the Common Pleas of Allegheny county.\nThis was an action of assumpsit, by Charles K. Reppert against James Colvin, who was impleaded with John Smitley, late partners, doing business as Smitley & Colvin. .\nJohn Smitley and James Colvin, as partners, trading under the firm of Smitley & Colvin, carried on the coal business at Temperanceville, near Pittsburgh. Connected with their coal-works they had a store, principally to supply their hands with such articles as they needed. Beside this they did not transact any other business as partners.\nOn the 15th of January 1851, they confessed a judgment to Deal, Milligan & Co. for use of Ed. Heazleton, for $10,000. The judgment was 378, of January Term 1851.\nOn a fi.fa. issued on this judgment, all the property of Smitley & Colvin was levied on and sold by the sheriff. The sale took place in January 1852, and embraced all their property. The coal-leases, coal-works, &e., were bought at the sale by Ed. Heazleton, who afterwards carried on the coal business and store in the name of F. E. Smitley, John Smitley acting as his manager.\nThe sheriff\u2019s sale left the firm of Smitley & Colvin as well as the individual partners utterly insolvent. Colvin thereupon left, and from that day had nothing more to do with the concern, nor was he in any way connected with Smitley in any other kind of business.\nAfter the coal-works and store had been carried on awhile by Heazleton, they passed into the hands of McGilvry & Smitley. There was no liquidating partner of the firm of Smitley & Colvin.\nIn 1851, in consideration of flour sold to them, the firm of Smitley & Colvin gave their note to Thomas Woods for $150, which was afterwards sold to Mr. Reppert.\nOn the 1st of July 1855, Smitley took up the old note, and gave another in lieu of it for $187, payable five years after date, signed \u201c Smitley & Colvin, for J. Smitley,\u201d and it was on this note that this action was brought.\nSmitley made no defence, and judgment was entered against him for $230. Colvin pleaded the Statute of Limitations, averring that he had never signed or authorized any one to sign the note for him; that at its date, and for a long time previous thereto, he was not a partner with Smitley; that the firm ceased to exist in January 1852, at which time it was sold out by the' sheriff, leaving no assets, and that neither Smitley or any other person was authorized to use the firm name in former transactions, and that he did not know that he was ever indebted to the plaintiff on any account whatever.\nThe court below (Mellon, A. J.) said that the firm was dissolved by insolvency in 1851-2, and became extinct, and that under such circumstances, according to the ruling of this court in Coleman v. Forbes, 11 Harris 156, one partner could not keep alive a claim against the firm.\nThere was a verdict and judgment for defendant, Colvin. Whereupon the plaintiff sued out this writ, averring here that the court below erred,\n1. In admitting evidence of the insolvency of the firm prior to the making of the note in suit.\n2. In holding that the claim could not be kept alive, as was attempted; and,\n3. In entering judgment for defendant.\nJ. D. Hancock, for plaintiff.\n\u2014 The simple question to he decided in this case is, Is the note given by Smitley in the name of the firm, after the sale by the sheriff of the coal-works and store of the defendants, and their ceasing to do business together therein in renewal of a note made before such sale, binding upon the firm.\nTwo questions of law are involved in the solution of this question :\u2014\nI. Would a mere sheriff\u2019s sale, in the absence of other notice, be notice to the plaintiff of the dissolution of the firm ? and if not such notice, would not the firm continue liable for acts done in the name of the firm by one of the partners after dissolution ?\nA sheriff\u2019s sale of the property of the firm is entirely consistent with the continuance of the firm. It is nowhere decided that a mere sheriff\u2019s sale works a dissolution. A sheriff\u2019s sale of the whole of a partner\u2019s interest works a dissolution : Collyer on Part. \u00a7 112. So also levy and sale of one of the partner\u2019s effects, works a dissolution pro tanto: Story on Part. 443. Why ? Because it is the necessary consequence of the transfer of the property to the vendee of the sheriff as tenant in common with the solvent partner: Coll, on Part. \u00a7 112. But if any of the partnership effects were left after sale, there can be no doubt that the partnership would continue. Partnership effects might be sold on execution, and the firm at the same time be solvent. If sheriff\u2019s sale, therefore, would be notice of dissolution of an insolvent firm, the effect ought to be the same in the case of a solvent one. No one will hold that it would have that effect in the latter case. Why, then, have it in the former ? If a sheriff\u2019s sale is not per se a dissolution of the partnership, it seems to us that it cannot be notice of such dissolution. In all cases except death and bankruptcy notice must be given: Coll, on Part. \u00a7 120; Story on Part. 336; because, in the one case, it would be impossible to give such notice, and in the other the law has actually declared the firm insolvent, and therefore dissolved. But it is not so in case of a sheriff\u2019s sale, that being perfectly consistent with solvency.\nII. Has one of the partners authority, after dissolution, to renew a note made by the firm before dissolution ?\nAfter dissolution the partnership still subsists for the purpose of arranging the unsettled matters both in favour of, and against the firm; for, with regard to things past, the partnership is not dissolved, but only with respect to things future: Gow on Part. 64; Coll, on Part. \u00a7\u00a7 118, 546; Darling v. March, 22 Maine 184;. Story on Part. 473.\nWhere a firm has endorsed a note, one of the partners is authorized, after dissolution, to consent to the holders compounding with and releasing the maker, although such partner is not authorized to settle the affairs of the same: Union Bank v. Hall, 1 Harper 245. Brown v. Clark is almost exactly a similar case to this. The principle is further affirmed in Davis v. Desauque, 5 Whart. 530; Houser v. Irvin, 3 W. & S. 345; Robinson v. Taylor, 4 Barr 242; Kauffman v. Fisher et ux., 3 Grant\u2019s Cases 302.\nThe exercise by Smitley of the authority of liquidating partner is, primd facie, sufficient proof of his power so to act. If proof had been offered to show that this authority had been granted to Colvin to act as liquidating partner, the case might possibly have been different. But there was no such proof. There was not even evidence to show that 'Smitley had not such authority. On the contrary, the evidence of the defendants themselves goes to show that Colvin had not this authority, he having left the old place of business, and gone into the employ of Kirk Lewis. One or both of the partners must have had authority to conclude the unsettled affairs of the firm. If, therefore, this authority is not shown to have been in Colvin, it must, in the absence of proof to the contrary, be held to exist in Smitley, the partner who exercised it. But further than this, the fact that he remained at the old place of business, and that he settled up other claims after the failure of the firm, as testified to by Mr. Woods, are evidence that Smitley did perform the duties of liquidating partner.\nBut even if Smitley had not such express authority to settle up the affairs of the firm, Colvin cannot take advantage of it without first showing that notice was given to the public, showing who was the liquidating partner.\nThomas MacConnell, for defendant.\n\u2014 There was no evidence to show that the partnership of Smitley & Colvin extended to anything but the coal-works and the store connected with the works, or to show that the property of the firm was not all sold out at the sheriff\u2019s sale; on the contrary, the sheriff, after returning on the writ the fact of the sale, and the amount made by it, returned \u201c nulla bona as to the residue.\u201d\nAfter the sheriff\u2019s sale the business went into other hands, who carried it on in another name, with whom Smitley kept up some kind of connection; but Colvin left, went into the employ of others, and was never seen about the works afterwards.\nThe sheriff\u2019s sale completely exhausted the partnership property ; it left not only the firm but both the parties completely bankrupt; there was no liquidating partner, and none of the powers of a liquidating partner vested in either Smitley or Colvin.\nThe question then is, could Smitley, not being a liquidating partner, and without the knowledge or consent of Colvin, renew a note of the firm three years and a half after the dissolution, make the new note payable five years after its date, and thereby bind Colvin ?\nIn the case of Levy v. Cadet and another, 17 S. & R. 126, the firm was dissolved by becoming insolvent, and there was no liquidating partner; and it was held that, after the dissolution, one of the partners could not,' by his acknowledgment, revive the partnership debt so as to deprive the other partner of the benefit of the Statute of Limitations.\nIn Davis v. Desauque, Houser v. Irvine, Robinson v. Taylor, and Kaufman v. Fisher et ux., cited by plaintiff in error, the new promises were all made by liquidating partners, and for that reason were held binding on the other partners, the court putting it upon the ground that the power to liquidate included the power to make new promises.\nIn our case Smitley did nothing towards settling up the claim, the creditor nothing towards enforcing it. Woods\u2019s testimony shows that Smitley hunted the creditor up, and, without paying anything on the claim, extended it for five years, thereby putting it in a position in which the statute would not bar it for eleven years, and it would hang over Colvin\u2019s head all that time. See Brown v. Clarke, 2 Harris 469; Coleman v. Forbes, 10 Id. 156."
+  },
+  "file_name": "0248-01",
+  "first_page_order": 248,
+  "last_page_order": 253
+}

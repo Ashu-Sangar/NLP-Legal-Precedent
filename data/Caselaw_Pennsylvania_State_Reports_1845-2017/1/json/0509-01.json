@@ -1,0 +1,98 @@
+{
+  "id": 949861,
+  "name": "Daniel Geiger, Plaintiff in error, who was Defendant below, v. Joseph Hill, Defendant in error, who was Plaintiff below",
+  "name_abbreviation": "Geiger v. Hill",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "509",
+  "last_page": "511",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "16 Serg. & Rawle, 432",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 372",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846901
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0372-01"
+      ]
+    },
+    {
+      "cite": "5 Watts & Serg. 352",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478320
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0352-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 405,
+    "char_count": 7404,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0334121796290054
+    },
+    "sha256": "1d50bfa12740a2c47cfd59b2b8fa97e45595cf595c30c28925a1e802453843fc",
+    "simhash": "1:d4e1808dfafcf46e",
+    "word_count": 1326
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel Geiger, Plaintiff in error, who was Defendant below, v. Joseph Hill, Defendant in error, who was Plaintiff below."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, C. J.\nThe competency of the excluded judgments depends on the regularity of their revival as liens. Sherbondy, being seised of land bound by judgments, on the 25th of April, 1839, covenanted to convey to Hill, who, on the 11th of May in the same year, covenanted to convey it, clear of encumbrances, to Geiger, but without stipulating for any particular application of the purchase money. By articles dated the 20th of June, 1840, Geiger and Hill agreed that the unpaid balance should be applied first to the encumbrances, and that the surplus, if any, should be paid to Hill. Writs of scire facias had been sued out on two of these judgments, and served on Sherbondy, who was the defendant in the judgments, as well as the actual occupant of the land; and that the judgments of revival which followed bound the interest of the immediate parties, is not denied ; but it is insisted that, in order to bind the equitable interest of Hill, it is necessary that the writs should have been served on him. At the common lav/, none but the owner of the inheritance is regarded as the terre-tenant, so that service on a mere occupant would not affect him; and how far this principle has been altered by the act of 1798, for limiting the duration of liens by judgment, is the question. It directs that writs of scire facias for renewal of liens be served on the terre-tenants, or \u201c persons occupying the real estate bound by such judgmentsand though Sherbondy had sold, yet as he had not conveyed, he was still the legal terre-tenant, and having retained the possession, he answered the description in the statute, at least in one of two aspects. I do. not say that there may not be also an equitable terretenant ; or, that to bind his estate, no more is necessary than service on the legal terre-tenant. Such service would undoubtedly bind the vendor\u2019s legal title to the extent of the unpaid purchase money, but it would bind no more. Though an equitable interest in chattels might be sold on an equitable fieri facias at an early day, a creditor has been allowed only recently to prosecute an equitable elegit. But as equitable estates, whether real or personal, may be sold on legal process in Pennsylvania, it seems to follow that the equitable owner' ought to be served, either directly or through the occupant. But why should there have been service in this instance on both Hill and the occupant ? Neither the sheriff, who is bound at the common law to return the names of the terre-tenants where they have not been put in the writ, nor the judgment-creditor, who directs them to have notice, may have known of the purchase; and to require him to go bteyond the words of the statute, would be \u25a0 fraught with injustice. The framers of it did not mean that he should do so. It put the occupant in the place of the terre-tenant, for the reason that the act of 1772 put a lessee in the place of his lessor, as the person to receive a declaration in ejectment. Here Sherbondy was not only a terre-tenant but the occupant; and the service was undoubtedly good to revive the judgment against all derivative interests. The admissions of the parties were immaterial, as they could not add to or diminish the legal effect of the liens which, being regularlyrevived, were within the meaning of the agreement.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Foster and Cowan, for plaintiff in error.",
+      "Laird and Coulter, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Daniel Geiger, Plaintiff in error, who was Defendant below, v. Joseph Hill, Defendant in error, who was Plaintiff below.\nIn Error.\nService of a scire facias on the defendant, when he is the occupant of the land, is sufficient' to renew the lien of a judgment so as to bind the equitable interest of the vendee, though the latter be not served.\nError to the Court of Common Pleas of Westmoreland county.\nThis was an action of covenant*brought by Joseph Hill, against Daniel Geiger, to recover the balance of purchase money alleged to be. due upon articles of agreement dated the 11th day of M\u00e1y, 1839, for a tract of land in Washington township, in the county of Westmoreland. On the 20th day of May, 1839, one John Sherbondy had conveyed this same tract of land to Joseph Hill, th\u00e9 plaintiff below, who recorded his deed on the same day. On the 20th day of June, 1840, Hill conveyed the same to Daniel Geiger, the defendant below, in pursuance of the articles of agreement of the 11th day. of May, 1839, and under the same articles Daniel Geiger went into possession on the 1st or 2d day of April, 1840. On the 20th day of May, 1839, the day on which Sherbondy conveyed to Hill, two judgments to August term, 1834, Nos. 155 and 156, were liens, or alleged to be so, upon this tract of land. The judgment to August term, 1834, No. 155, was regularly renewed by an amicable scire facias, to May term, 1839, No. 101, under the act of 1827, without making Hill a party to it, although his deed from Sherbondy was then on record. The'judgment to August term, 1834, No. 156, was also regularly revived, on the 2d day of May, 1840, under a scire facias issued to August term, 1839, No. 32, Joseph Hill not having been made a party to it. On the 20th June, 1840, Hill and Geiger entered into a second article, by 'which it was agreed, that the balance of the purchase money remaining unpaid should be appropriated by Geiger to the payment of the judgments mentioned in that article, which were liens upon the' land, and if any thing remained after extinguishing them, it was to be paid over to Hill. Among these judgments, were the revived judgments No. 101, May term, 1839, and No. 32, August term, 1839. The counsel for plaintiff in error offered in evidence the original judgments, No. 155 and No. 156, August term, 1834, with the judgments of revival, No. 101, May term, 1839, and No. 32, August term, 1839, which were objected\u2019to by theeounsel for the defendant in error, and rejected by the court below; and this is the error assigned here.\nFoster and Cowan, for plaintiff in error.\nThe controversy in this case is about two judgments to August term, 1834, Nos. 155 and 156. These judgments had been revived. The questions are, were these judgments liens at the time the agreement of the 20th of June, 1840, was entered into, and was Hill bound to pay them ? They cited Armstrong's Appeal, 5 Watts & Serg. 352, and 7 Watts, 372.\nLaird and Coulter, for defendant in error,\ncontended that these judg. ments were not liens upon the land sold by Hill to Geiger, on the 20th of June, 1840, the date of the second article between them ; because Hill, the terre-tenant, -whose deed from Sherbondy was on record on the 20th May, 1839, was not made a party to the revivals, their lien having expired after the lapse of five years from the original entry in 1834.-\n2. That the agreement of 20th of June, 1840, having been entered into under a mutual mistake by both parties, in supposing these judgments to be liens at that time, that equity will relieve.\nIn support of the first point, they cited the act of 1798, sec. 3, Purdon's Digest, 605; and the act of 1827, Purdon, 606, sec. 1; Clipperger v. Miller, 1 Penna. Rep. 64; Luske v. Davidson, 3 Penna. Rep. 229; Armstrong's Appeal, 5 Watts & Serg. 352; 2 Saund. 7, n. 7; Cahoon v. Hollenback, 16 Serg. & Rawle, 432.\nIn support of the second point they cited 2 Kent, 491; Lammot v. Bowly, 6 Harr. & Johns. 500, 525, 526; Lawrence v. Beaubien, 2 Bailey's S. C. Rep. 623."
+  },
+  "file_name": "0509-01",
+  "first_page_order": 511,
+  "last_page_order": 513
+}

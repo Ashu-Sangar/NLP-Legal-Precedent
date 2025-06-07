@@ -1,0 +1,133 @@
+{
+  "id": 975798,
+  "name": "Stewart versus Stewart",
+  "name_abbreviation": "Stewart v. Stewart",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "234",
+  "last_page": "237",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Watts 185",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0185-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 158",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850989
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0158-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 76",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 How. 289",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        1503936
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/45/0289-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 195",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 566",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 363",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0363-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 449,
+    "char_count": 9202,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.034286361868973825
+    },
+    "sha256": "455b2aaa0fabfb098f4c09a3a353eaad8b6bfd281d5baa6feee5c37ae90e957e",
+    "simhash": "1:620b8692634ee6bc",
+    "word_count": 1653
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stewart versus Stewart."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, J.\nFrom the evidence returned with the charge of the Court in this case, it appears that the defendant occupied, had, and held, the land in dispute more than twenty-one years before the beginning of the present suit. Why should he not be protected by the statute of limitations ? The plaintiffs, who are his brother and sisters, answer that it was part of their father\u2019s land, of which their mother was the devisee, and they afterwards got it by her will.\nArchibald Stewart, the father of all the parties, owned four hundred acres, which he devised in separate portions to his two sons and his wife. The present defendant was in possession of the one hundred acres, which he now has, at the time of his father\u2019s death, and from that time to the present, he has asserted that the one hundred acres given him in his father\u2019s will, was this same piece. The plaintiffs insist that the land actually devised to him does not include the part in dispute, but other land of much less value, which he never claimed.\nWhen a devisee goes into the possession of land, claiming it under the devise, and beeps it undisturbed for twenty-one years, he has a title to it which nobody can question. If other devisees or heirs think he has taken too much land, or taken it in the wrong place, they must make their claim before the statute runs over it, or else not make it at all. After such a lapse of time, the law will presume that it was designated and marked off to him by the other parties interested. They cannot demand a' new apportionment, even if his possession has been inconsistent with the devise, much less can they do so when the description in the will is merely ambiguous. His possession for twenty-one years is as good as their deed.\nBut, in the present case, the defendant had taken possession before his father\u2019s death, probably under one of those gifts which parents frequently make to their children in anticipation of their testamentary arrangements. The Court seemed to think that this fact would take the case out of the general rule above laid down. We are not of that opinion. His keeping possession of the land in dispute and claiming it under his father\u2019s will, was an act of hostility against the other devisees, as distinct as anything he could have done. If he claimed it as devisee, he claimed it as his own, and if he claimed it as his own, that claim was surely adverse to them as well as all the rest of the world. It would not have been more so if he had held it under a deed from his father.\nIn this view of the case, the instructions upon that part of the evidence which was adduced to show what were the boundaries of the land devised, became unimportant. It does not matter much what they were, if the defendant has been in the adverse possession for twenty-one years.\nJudgment reversed and venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Black, J."
+      }
+    ],
+    "attorneys": [
+      "Drum, for plaintiff in error. \u2014",
+      "Banks and Taylor, for defendant in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Stewart versus Stewart.\nWhere a devisee goes into the possession of land claiming it under the devise, and keeps it undisturbed for twenty-one years, he has a title to it which nobody can question.\nOther devisees or heirs who are dissatisfied with the quantity or location of the land, must make their claim before the statute runs over it, as after such a lapse of time the law will presume that it was designated and marked off to him by the other parties interested.\nEven where the possession has not been consistent with the devise, or the description in the will is ambiguous, after twenty-one years\u2019 possession, no new apportionment can be demanded.\nNor will the fact that he entered into possession before the death of the devisor, who was his father, in anticipation of a devise to him, or under a gift from the latter, take the case out of the general rule; his keeping possession and claiming it under his father\u2019s will, was as distinct an act of hostility against the other devisees, as if he had claimed it under a deed from the devisor.\nError to the Common Pleas of Indiana county.\nJane, Polly, and Eleanor Stewart brought an action of ejectment against Samuel Stewart for 50 acres of land in Centre township, Indiana county. On the 29th day of April, 1828, Archibald Stewart, Sr., the father of the parties, was the owner of a tract of land of about 400 acres, of which this land in controversy was a part. On that day he made and executed his will, by which he divided the tract among his family. To his son Archibald he devised 100 acres and allowance to be laid off on the south side of the tract. To the defendant he gave 100 acres and allowance to be laid off to him on the north end of the farm, adjoining lands of Johnson and others, to include the buildings then occupied hy defendant. The residue of the tract he devised to his wife Eleanor in fee. Archibald Stewart, the testator, died in March, 1831. The widow, by her will, dated 4th July, 1831, devised her portion of the tract to the plaintiffs. In 1827, Samuel Stewart, the defendant, went into possession of the land he now occupies, including the land in dispute, under a gift from, or by permission of, his father, and continued in the actual occupancy of it until the trial of this suit.\nAbout one year after the death of the testator, Archibald Stewart, Jr., one of the executors (the widow and Jane being the others), procured a surveyor, and divided the land into three parts, according to the directions in the will, as they supposed. Samuel was present, and assisted in the survey, and his part contained 107 acres and 8 perches, and allowance. . The widow did not assent to this division, and died shortly after it was made.\nThe plaintiffs, afterwards, made a deed to Archibald for his part. Samuel continued in the exclusive possession of the part surveyed off to him, and the plaintiffs continued likewise after the death of their mother in possession of the part laid off for her, cultivating up to Samuel\u2019s lines, and assisting in keeping up the division fences, until the commencement of this action, on the 20th April, 1852.\nThe plaintiffs claimed that the defendant was in the possession of land, which, by their father\u2019s will, had been devised to their mother, and by her will devised to them.\nThe defendant relied mainly upon the statute of limitations.\nThe Court instructed the jury, that if the defendant was on the land claiming hy and under the devise, his possession was not adverse, and therefore the statute of limitations would not avail him. And that, before his possession could fairly be considered adverse to plaintiffs, there should be shown some acts of hostility; something to show that after his father\u2019s death he claimed adverse to, and not under the title derived through the will.\nThe jury found for the plaintiffs several acres on the east and south ends of defendant\u2019s farm, including a meadow and other fields, of which he had been in possession from before his father\u2019s death till the time of trial.\nThe instructions of the Court below were assigned for error in this Court.\nDrum, for plaintiff in error. \u2014\nThe defendant could well hold the land under the will and adversely to the other devisees at the same time. He held adversely to all the world, when he claimed to hold it as his own. Suppose him to have been in error that the devise covered the disputed part, his possession would be equally good. The fact that he entered by permission of his father in 1827, does not change the application of the rule. His possession at least commenced to be adverse at the father\u2019s death in 1831. The Court should at least have submitted the question to the jury. His occupancy, limitation of his boundary by the fences, and the coincident occupancy on the other side, were a constant and continuing assertion of adverse and hostile possession. An express declaration in severalty was not necessary: 1 W. & Ser. 191; 6 Id. 315; 10 Ser. & R. 182. Taking the whole of the profits must be under a claim of exclusive right: 9 Barr 227; 2 W. & Ser. 307 and 294; 9 Watts 363; 10 Id. 192; 6 Barr 483. Mutual occupation of lands up to a certain fence for twenty-one years, gives a right, whether either party knew of adverse claim or not: 9 Watts 566.\nBanks and Taylor, for defendant in error. \u2014\nThe defendant\u2019s right to the land must depend on the statute of limitations; he cannot pretend to claim it under the will, as the will gave him a different part of the land. The survey made was not in accordance with the will. The defendant claimed to hold under the will and not adversely to the other devisees. Until it was designated, they were holding as tenants in common, and then the statute would not begin to run until his possession became hostile and exclusive: Long v. Mast, 1 Jones 195; 4 How. 289. In Lodge v. Patterson, 3 Watts 76, it is ruled that the possession of one joint tenant or tenant in common is primd facie the possession of his co-tenants, and it would continue so until some\u2018hostile demonstration was made by the one in possession : 10 Watts 158; and the new entry into the lands of a common ancestor and taking the profits for twenty-one years, would not be a disseisin of the others, unless there were some plain and decisive acts of hostility : Hart v. Gregg, 10 Watts 185."
+  },
+  "file_name": "0234-01",
+  "first_page_order": 234,
+  "last_page_order": 237
+}

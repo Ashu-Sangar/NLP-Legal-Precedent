@@ -1,0 +1,91 @@
+{
+  "id": 957938,
+  "name": "Donley v. Brownlee",
+  "name_abbreviation": "Donley v. Brownlee",
+  "decision_date": "1847-11-04",
+  "docket_number": "",
+  "first_page": "109",
+  "last_page": "110",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts & Serg. 363",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478298
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0363-01"
+      ]
+    },
+    {
+      "cite": "10 Serg. & Rawle, 375",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Binn. 432",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 280,
+    "char_count": 3903,
+    "ocr_confidence": 0.413,
+    "pagerank": {
+      "raw": 5.891726166979012e-08,
+      "percentile": 0.36885490235144985
+    },
+    "sha256": "bb815e6dae4832497a32072825e05845398397e26810ffdc50c659ae9c459b22",
+    "simhash": "1:f75e12a58249945d",
+    "word_count": 682
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donley v. Brownlee."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe condition of this recognisance \u201c to prosecute this appeal with effect,\u201d is in substance the condition prescribed by the act of 1810, which allowed the bail to discharge himself by surrendering his principal. When the act of 1842 abolished imprisonment for debt, and made it impracticable to surrender the body, it became necessary to alter the form of the recognisance, in cases of appeal, to suit the altered state of the law; and this was done by prescribing a recognisance with condition that no part of the defendant\u2019s property should be removed, secreted, assigned, or disposed of, so as to baffle an execution in case the plaintiff should recover. But, as the defendant could not have been surrendered in discharge of his bail in the case before us, the recognisance, if valid for any purpose, would be a contingent engagement merely to pay the money, and, consequently, more burdensome to the appellant than that which is presented by the statute now in force. But that such a recognisance is void, was held in Thomas v. Stewart, 2 Penna. Rep. 475, in the case of a similar recognisance on the act of 1819, which exempted women from imprisonment for debt; and it is applicable in every respect to the case before us. As a void record is no record, the plea of nul tiel record, therefore, was properly sustained.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Gow, for plaintiff in error.",
+      "Watson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Donley v. Brownlee.\nA recognisance, entered into since the act of 1842, conditioned that defendant, appealing from \u00e1 judgment of a justice, shall prosecute his appeal with effect, is void ; for the condition refers to the provisions of the act of 1810, and those are supplied by the act of 1842.\nIn error from the Common Pleas of Washington.\nOct. 29. A judgment having been recovered against Robinson in 1844, before a justice of the peace, he appealed. The transcript showed \u201c defendant and Wm. Brownlee, each, tent in $200, conditioned that defendant shall prosecute his appeal with effect, &c.\u201d Judgment having been entered for plaintiff on the appeal, a sci fa. issued, reciting the proceedings and a recognisance by Brownlee, \u201c conditioned\u2019 that no part of the property of appellant, which was liable to be taken in execution, should be removed, secreted, or assigned, or in any way disposed of, except for the support of himself and family, &c., \u201c following the words of the act of 1842, abolishing imprisonment for debt. Plea, nul tiel record. On inspection, the court gave judgment for defendant.\nGow, for plaintiff in error.\nThe recognisance is under the act of 1842 \u2014 that being the law in force when it was entered into. The short form is sufficient, since it explains all the material parts of the agreement: 4 Burn\u2019s Justice, 60, tit. Recog. It is recognised in Commonwealth v. Emery, 2 Binn. 432, as a memorandum of the agreement of the recognisor, as stated to him by the magistrate. It afterwards may be drawn np at length; but the practice is to certify the short form. There can be no doubt, then, of its sufficiency under the act of 1810, 2 Penna. Rep. 431; 1 Penna. Rep. 149; and the et cetera, including all things that are material and proper to the completeness of the transaction, implied the condition then prescribed by law. This effect of the \u00a7c. appears from Wilson v. The Commonwealth, 10 Serg. & Rawle, 375; Sayer v. Pocock, Cowp. 407; Co. Litt. 17 b. There was, therefore, sufficient to enable the prothonotary to make out a writ, since, as was said in a similar case, Moore v. McBride, 1 Penna. Rep. 149, but one species of bail is known in this stage of the cause. Adams v. Mill was in the old form, and therefore bad; but it was at length, and not in short.\nWatson, contra.\nThe form of the recognisance applies to the act of 1810, and was in use then, and, unless that and the act of 1842 prescribe the same condition, it cannot cover both : Adams v. Null, 5 Watts & Serg. 363, in effect decides the point.\nNov. 4."
+  },
+  "file_name": "0109-01",
+  "first_page_order": 109,
+  "last_page_order": 110
+}

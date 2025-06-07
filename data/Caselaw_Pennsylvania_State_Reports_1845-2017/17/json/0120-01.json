@@ -1,0 +1,148 @@
+{
+  "id": 967573,
+  "name": "Dreisbach's Appeal",
+  "name_abbreviation": "Dreisbach's Appeal",
+  "decision_date": "1851-12-29",
+  "docket_number": "",
+  "first_page": "120",
+  "last_page": "126",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Pa. 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Whart. 96",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0096-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 1",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 32",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846127
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0032-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 430",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pa. Rep. 372",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        951225
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/2/0372-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates 74",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6771174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0074-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 299",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Bin. 358",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787954
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 744,
+    "char_count": 17692,
+    "ocr_confidence": 0.41,
+    "pagerank": {
+      "raw": 5.3228843983221193e-08,
+      "percentile": 0.3354782460290156
+    },
+    "sha256": "8c7427a157ccff795cd6a96e375d5bbf747c971ec66d21984e480912a7ce2bc6",
+    "simhash": "1:a3eee495561fa34e",
+    "word_count": 3124
+  },
+  "last_updated": "2024-02-27T16:05:10.368024+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dreisbach\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nBlack, O. J.\nWe are of opinion that where a person who is both an heir and an administrator of the same intestate takes land at the valuation, and there is a balance in his favor on final settlement of the personal estate, the Orphans\u2019 Court which has decreed that he shall pay for the real estate and that he shall receive the sum due him on his account, may order one of these debts to be set off against the other, upon a petition being presented which sets forth such facts- as show that the lands are still bound for such balance. The court below, therefore, in dismissing the petition for want of general jurisdiction over the subject-matter, did so for what we think an erroneous reason.\nBut, under the circumstances of this case, it was necessary that the petition should contain something more than the mere bald statement of the amounts due respectively on the recognisance and on the account. The intestate died in 1833. His debts were liens on his land for seven years. The administration account was filed and confirmed in 1846. It is manifest, from these dates, that the balance in favor of the accountant may have been produced by credits for the payment of debts whose liens on the land have expired long since. Such, indeed, is the presumption of law, in the absence both of allegation and proof to the contrary. If the fact was otherwise the petition should have particularized the debts, described their nature, and set forth the acts by which their liens had been continued. This not having been done, the record before us discloses no case which entitles the plaintiff to the relief he has asked for. The decree of the Orphans\u2019 Court, dismissing the petition, is therefore affirmed.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Black, O. J."
+      }
+    ],
+    "attorneys": [
+      "The case\u201dwas argued by Porter, for the appellant.",
+      "Maxwell and Reeder for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Dreisbach\u2019s Appeal.\nWhere one who is both an heir and an administrator of the same intestate, takes land at the valuation, and there is afterwards a balance decreed in his favour on final settlement of the personal estate, the Orphans\u2019 Court which has decreed payment by him for the real estate and the balance in his favour on his administration account, may order one of these debts to be set off against the other, upon a petition which sets out such facts as show that the lands are still bound for the balance due on the administration account. But where it does not appear that the balance on the account was produced by the payment of debts whose liens existed at the time of their payment, the petition for the decree of set-off should be dismissed.\nThis was an appeal by Aaron Dreisbach from the decree of the Orphans\u2019 Court of the county of Northampton, dismissing the citation and refusing the prayer thereof, issued at the instance of appellant, and directed to the heirs of George Peter Dreisbach, deceased, to show cause why the balance due him as administrator, should not be deducted from the bonds, given by him on the acceptance of a portion of the real estate of the decedent.\nGeorge P. Dreisbach died on the 8th October, 1833, intestate, leaving a widow, named Margaret, and issue seven children, to wit, David, Aaron (the appellant), and others.\nOn the day of 1833, letters of administration were issued to David Dreisbach and the said Aaron Dreisbach.\nOn the 24th January, 1884, on the application of Aaron Dreisbach, the Orphans\u2019 Court awarded an inquest to make partition of the real estate of the deceased, and an inquest was accordingly held, dividing the said real estate into three purparts, and appraising the said purparts, respectively as follows: No. 1 at $2691.31; No. 2, at $869.45; and No. 3, at $168.16.\nOn the 25th April, 1834, the inquisition thus made, was returned by the sheriff to the court and confirmed, and David Dreisbach accepted purpart No. 1, and the said Aaron Dreisbach, the appellant, and Jacob Dreisbach, accepted purpart No. 2, at the respective valuations aforesaid; and the court ordered the same to them respectively, \u201cthey first entering into recognisance and bonds for the true payment unto the widow and other children and representatives of the said intestate of their equal and proportionable parts of and in the valuation money aforesaid;\u201d and the court \u201c allow the said acceptors one year for the payment thereof, with legal interest.\u201d\nThe acceptors entered into the required recognisance, and also executed to the other heirs, pursuant to the said order of court, bonds as follows:\nBy David Dreisbach to each of the other six heirs for payment of $380.75, to wit: $253.83J, with 1 year\u2019s interest, on the 25th April, 1835; a,nd $126.91\u00a3 at decease of widow.\nBy Aaron and Jacob, to each of the other five heirs for $120.48; viz.: $80.32, payable 25th April, 1835, with one year\u2019s interest; and $40.16 on death of the widow.\nThe purpart No. 3, having been refused by all the heirs, the court on 1st May, 1834, ordered the said purpart to be sold by the administrators, who sold it at public sale for $196, and the sale was confirmed by the court on the 29th August, 1834.\nOn 17th August, 1839, David Dreisbach, by deed, conveyed the said purpart No. 1, accepted by him, to Aaron Dreisbach, the appellant, subject to the lien of the recognisance of the said David Dreisbach, for the payment of the valuation money thereof.\nOn 23d March, 1846 (David Dreisbach being then deceased), the said Aaron Dreisbach, as surviving administrator, settled and filed in the Register\u2019s Office of Northampton county, his account upon the estate, exhibiting a balance due him of $4564.55. This account having been duly advertised by the Register, was presented to and confirmed nisi by the Orphans\u2019 Court, on the 24th April, 1846; and on the same day the appellant presented his petition, verified by affidavit, to the said court, setting forth the facts hereinbefore stated, and praying the court to make a decree, \u201cthat the said balance so due him on the settlement of his administration account, may be deducted from, or set off against the valuation money of the said purparts so accepted as aforesaid, with the interest accrued thereon, and that credit be given upon the said recognisance and bonds for the amount thereof.\u201d\nOn the presentation whereof, the court awarded a citation to the other heirs and legal representatives of the intestate, to show cause against the decree being made, which citation was duly served.\nPending this citation, to wit, on the 29th June, 1846, on the application of several of the heirs, the court referred the account of the administrator to auditors \u201cto examine, and if proper resettle th\u00e9 same and make distribution, &c.\u201d On the 20th November, 1846, the said auditors made report thereon to the court finding a balance due to the accountant, of $4338.22, which report was confirmed nisi by the court, and no exceptions having been filed thereto, the said confirmation became absolute at the ensuing term.\nOn the 27th August, 1847, on motion of the appellant\u2019s counsel, the court granted a rule, to show cause why \u201c he should not be credited on the recognisance and bonds, given at the acceptance of the real estate, with the sum of $4338.22, balance due him as per report of auditors,\u201d &c., of which the respondent\u2019s counsel took notice at the bar.\nOn the 20th November, 1847, Messrs. Reeder and Maxwell, as attorneys \u201c for Enoch Heany and Elizabeth, his wife, Simon Heller and Sophia, his wife, and Adam Andre and Catharine, his wife,\u201d by permission of the court (the appellant objecting thereto), presented and filed a paper, wherein the said heirs say: \u201c that they were wholly and strongly opposed to the granting of the application of the appellant, and that he is not entitled to have the decree made as prayed for. That the said lands are not subject to the payment of the said claim, and if they be, that the way proposed is not the legal and proper mode to have the said claim paid; and that with all due respect to the opinion of the petitioners, the Orphans\u2019 Court have not, under the laws of this Commonwealth, the right to make the decree prayed for.\u201d\nAfter hearing the cause, the court on the 2d of December, 1848, ordered that the decree he refused, and the petition dismissed, for the reasons assigned by Jones, President Judge, in an opinion as. follows:\u2014\n\u201c On the 24th April, 1846, Aaron Dreisbach, surviving administrator, and one of the sons and heirs at law of Gr. P. Dreisbach, deceased, presented his petition to this court, praying that a decree be made, directing that a certain balance due to him as surviving administrator, as aforesaid, should be deducted from, or set off against the valuation money of certain purparts of the real estate of the said decedent, with the interest accrued thereon, which purparts had been taken by him at the appraisement, and that credit be given on the recognisance and bonds, entered into by him or his grantor, for the amount of said balance and the interest accrued thereon.\n\u201c Gr. P. Dreisbach died in October, 1833. In April, 1834, the partition of his real estate was made, on which were given the bonds and recognisance mentioned in this petition. No account was ever filed by his administrators until the year 1846, shortly before this application was made to this court.\n\u201c In this district applications of this kind have been frequently made, and precedents that have been produced show the exercise of this power, invoked by this petition, as far back as thirty years ago. Credits have been given upon recognisances, under the authority of this court, in repeated instances; yet in every one of those cases, it is believed to have been done, not because the court possessed the power to make the decree in invitum, but because it was an amicable arrangement between the heirs and the reeognisor; there was consequently no opposition to the action of the court, and the practice, such as it was, passed sub silentio. It was probably deemed the least circuitous, expensive, and troublesome way of reaching an end that could have been reached perhaps after partition, and within seven or five years after the death of the decedent, as the case happened to fall under \u00a7 IY. Act 4 April, 1797, or \u00a7 XXIY. Act 24 Feb. 1834, by an order of sale. But whilst decrees were made in such cases, in other cases of a like nature, where there was resistance or even mere want of consent, this court has refused to interfere.\n\u201c The case of Yohe v. Barnet, 1 Bin. 358, has been relied on, as showing that this court has the power here prayed to be exercised. There Yohe, who was largely indebted to the estate of his deceased father-in-law, upon partition and valuation of the real estate of his father-in-law, claimed that his wife\u2019s share of that estate should not be paid to the administrators in satisfaction of his debt. This was before the recognisance and bonds to the heirs were executed, and the Supreme Court, that being the condition of the matter, could see no reason why the Orphans\u2019 Court might not deduct what appeared to be due from him to the other heirs. It was necessary to do this, in order to ascertain what his share, if anything, of that real estate was, over and above his indebtedness, and that before the bonds and recognisance were executed for in the words of the Chief Justice, if he once got hold of the money or the bond, there was reason to fear that payment of his debt would never be obtained. It would then, in the view of the Chief Justice, be too late to make the deduction after the execution of the recognisance. This case then, it would seem, does not apply to the state of facts presented upon the petition before us, nor, upon a careful examination of them, do we find anything in the cases from 11 Ser. $ B. 231, 2 Bin. 299, 3 Ser. B. 539, 17 S. B. 60, which has a closer application.\n\u201c The decree asked for on this occasion, we think, exceeds the jurisdiction of the Court, and therefore the prayer of the petitioner is refused.\n\u201c It is unnecessary to decide the other point that was argued, as to the right of the administrator to apply this debt of his to the payment of those bonds. Since the argument, a case has been reported in 5 Barr 103, in Lentz\u2019s Accounts, Wallace\u2019s Appeal, wdiich, it seems to us, has a very direct bearing upon that point.\u201d\nOn the 10th Jan. 1849, Aaron Dreisbach appealed from this decree to the Supreme Court, and the following was assigned as error:\u2014\n\u201cThat the Orphans\u2019 Court erred in not making the decree prayed for by Aaron Dreisbach, and in dismissing the petition.\u201d\nThe case\u201dwas argued by Porter, for the appellant.\nThe account filed by the appellant in 1846, as administrator of George P. Dreisbach, deceased, shows that his entire personal estate was absorbed in the. payment of his debts, and that the appellant, in the discharge of his duty, paid from his own funds, the sum of $4564.55, in extinguishment of other debts of that intestate, for which he had not personal assets in his hands.\nUnder procedings in partition, for the valuation and division of the decedent\u2019s real estate, in 1834, the appellant became liable to pay to the other heirs of the deceased, their respective shares in the valuation money, as the aeceptant and alienee of the land so appraised, and these shares are secured by recognisance as a lien upon the real estate, now in the hands of the appellant.\nUpon the confinnation of the appellant\u2019s account, in 1846, he applied to the Orphans\u2019 Court to have the said balance of $4564.55 deducted, or set off against the valuation money of the land, which application the Orphans\u2019 Court refused. He contended that the court had power to direct the off-set: 2 Bin. 299; 11 Ser. & R. 69; 10 Barr 390; Yohe v. Barnet, 1 Bin. 358; 4 Yeates 74; 2 Pa. Rep. 372, Johnson v. Matson; 3 Rawle 430, Rhoads\u2019 estate.\nBut it is contended on the other side, that more than five years having elapsed, since the death of George P. Dreisbach, before the account was filed, and the administrator having failed to follow the directions of the Act of 24th of February, 1834, limiting the debts of a decedent to a period of five years after his death, the lien of his claim is gone as to the lands, and he cannot, therefore, set it off against the valuation money.\nThe appellant does not allege that his claim is an existing lien upon the real estate. The land itself, as land, cannot be reached for its payment. It has been determined by this court, in Commonwealth v. Pool, 6 Watts 32, and kindred cases, that this limitation applies equally in favor of heirs as it does in favor of purchasers. And it has also been decided, that the debts of a decedent are subject to the same limitation in the hands of the administrator, who has paid them out of his own funds, as they are in the hands of the original creditors: 1 W. & Ser. 208, Clauser\u2019s Estate; 5 W. & Ser. 397, McCurdy\u2019s Appeal.\nBut, in the present case, the appellant was lulled into security by the fact that he himself was in the seizin of the land, and he did\u2019 not consider it at all essential to the preservation of his claim, that it should be asserted on record as a lien upon the land in his own hands, as he himself, by reason of his ownership,.was the party, by whom payment was to be made to the heirs, for their share of the valuation. 'And the money not being paid or demanded from him, be bad a right to believe that they waived any benefit to themselves, arising out of bis neglect to file a copy of bis claim. Being bimself tbe owner of tbe land, it would have been an anomaly in him to assume tbe position of a creditor, bolding a lien on his own estate. In the case of Bhoads\u2019 estate, 3 Rawle, tbe testator died in 1814; partition among the beirs was made in 1815. Tbe application for contribution by tbe beirs was not made till 1828, and yet this court confirmed tbe decree of tbe Orphans\u2019 Court, which decreed contribution.\nNo attempt has ever been made to enforce tbe payment of the bonds of appellant: 1 W. & Ser. 183; 2 Jones, Groep\u2019s Appeal, were cited.\nMaxwell and Reeder for appellees.\nIf the personal estate was insufficient to pay the debts, tbe administrators should have made application to tbe Orphans\u2019. Court for an order of sale, stating an account of tbe debts; so that tbe beirs would have been informed of tbe condition of tbe estate; and if an order of sale bad been directed, tbe estate would have been open to competition. Tbe right of the Orphans\u2019 Court to make tbe decree prayed for, was denied. That it was a court of limited jurisdiction, and has not tbe general powers of a court of chancery.\nBut if they had such a power, it should have been exercised within seven years from tbe death of tbe intestate, tbe period fixed by law as limiting tbe liens of such debts on tbe real estate of a decedent: 1 W. & Ser. 293, Seitzinger v. Fisher; 5 W. & Ser. 397, M\u2019Curdy\u2019s Appeal.\nTbe accounts of tbe administrators show tbe payment of a large amount of tbe alleged indebtedness of tbe decedent, after tbe expiration of tbe seven years: 1 W. & Ser. 208, Clausen\u2019s Estate; 6 Watts 32, Com\u2019th. v. Pool; 1 Watts 1, Kerper v. Hoch; 5 Barr 104, Wallace\u2019s Appeal.\nPorter, in reply.\u2014Tbe administrator accepted tbe land as heir, not as administrator. All tbe debts paid were either paid or assumed by tbe administrator within a short period after the death of tbe intestate. None of tbe debts paid were barred by tbe statute when tbe administrator, as heir, accepted tbe land. Tbe report of tbe auditor, shows that a large proportion of tbe debts were paid, and tbe balance assumed, whilst they were liens.\nTbe powers of tbe Orphans\u2019 Court embrace this case: 1 Whart. 96, Wimmer\u2019s Appeal; Act of 16th June, 1836, relating to the jurisdiction of the Orphans\u2019 Court, Purdon 252-3; Fretz\u2019s Appeal, 4 W. & Ser. 435.\nDec. 29,"
+  },
+  "file_name": "0120-01",
+  "first_page_order": 120,
+  "last_page_order": 126
+}

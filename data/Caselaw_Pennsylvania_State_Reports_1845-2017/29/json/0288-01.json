@@ -1,0 +1,511 @@
+{
+  "id": 982817,
+  "name": "Born et al. versus Shaw",
+  "name_abbreviation": "Born v. Shaw",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "288",
+  "last_page": "293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 W & S. 394",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481803
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0394-01"
+      ]
+    },
+    {
+      "cite": "3 P. R. 370",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 101",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0101-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 94",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480254
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0094-01"
+      ]
+    },
+    {
+      "cite": "2 Wh. 207",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Denio 305",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485332
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0305-01"
+      ]
+    },
+    {
+      "cite": "1 Paige 220",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pick. 81",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070924
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0082-01"
+      ]
+    },
+    {
+      "cite": "7 Binn. 353",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 P. R. 117",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Mass. R. 53",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2052073
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/12/0055-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. R. 110",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Mass. 55",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2036119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/17/0044-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 544",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854580
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0544-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. 84",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007327
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/2/0084-01"
+      ]
+    },
+    {
+      "cite": "4 Cow. 508",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/4/0508-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 372",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 167",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 247",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846137
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0247-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 29",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846104
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0029-01"
+      ]
+    },
+    {
+      "cite": "2 Wh. 302",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830519
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0302-01"
+      ]
+    },
+    {
+      "cite": "6 Wh. 53",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0053-01"
+      ]
+    },
+    {
+      "cite": "2 W. & S. 147",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853591
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0147-01"
+      ]
+    },
+    {
+      "cite": "13 Mass. 1",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2073949
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/13/0009-01"
+      ]
+    },
+    {
+      "cite": "6 Mass. 358",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000806
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0294-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 103",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156451
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0103-01"
+      ]
+    },
+    {
+      "cite": "2 Hill S. C. 319",
+      "category": "reporters:state",
+      "reporter": "Hill S. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Bay. 377",
+      "category": "reporters:state",
+      "reporter": "Bay",
+      "case_ids": [
+        8672994
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/2/0377-01"
+      ]
+    },
+    {
+      "cite": "2 Cow. 626",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2161467
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/2/0626-01"
+      ]
+    },
+    {
+      "cite": "13 Pick. 64",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2017887
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/30/0064-01"
+      ]
+    },
+    {
+      "cite": "7 Martin 318",
+      "category": "reporters:state",
+      "reporter": "Mart.",
+      "case_ids": [
+        6684106
+      ],
+      "pin_cites": [
+        {
+          "page": "353, 354"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mart-os/7/0318-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 547",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Peters 67",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3335043
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/39/0067-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 285",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001800
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/4/0285-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. 241",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Peters 202",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wheat. 361",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1428694
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/24/0361-01"
+      ]
+    },
+    {
+      "cite": "13 Peters 378",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3337701
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/38/0378-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 385",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848498
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0385-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 84",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 488",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480244
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0488-01"
+      ]
+    },
+    {
+      "cite": "7 Martin 318",
+      "category": "reporters:state",
+      "reporter": "Mart.",
+      "case_ids": [
+        6684106
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mart-os/7/0318-01"
+      ]
+    },
+    {
+      "cite": "11 Wheat. 361",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1428694
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/24/0361-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 720,
+    "char_count": 13569,
+    "ocr_confidence": 0.438,
+    "pagerank": {
+      "raw": 2.9893760683165533e-07,
+      "percentile": 0.8516019659833449
+    },
+    "sha256": "3b59e30699d02e3eb3b74da47341de88c40da775b01664a543afc69905e28bc0",
+    "simhash": "1:67b7e5051a47bde7",
+    "word_count": 2456
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Born et al. versus Shaw."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nBy the law of Pennsylvania a sale of personal property is not good as against the creditors of the vendor, unless possession be delivered to the vendor in accordance with the sale.\nWhen possession is retained by the vendor, it is not only evidence of fraud, but fraud per se. There are some exceptional cases. When from the nature of the transaction, possession either could not be delivered at all, or, at least without defeating fair and honest objects intended to be effected by, and which constituted the motive for entering into, the contract, the cause might be regarded as an exception to the rule. Where possession has been withheld from the vendee, pursuant to the terms of the agreement, some good reason for the arrangement beyond the convenience of the parties should appear: Clow et al. v. Woods, 5 S. & R. 273. But this rule does not appear to prevail in Virginia: Davis v. Turner, 4 Grattan 422. In that state the rule is, the retention of possession of personal property by the vendors, after an absolute sale, is prima facie fraudulent, but the presumption may be rebutted by proof. In this case the parties to the sale, and the property which was the subject of it, were within the jurisdiction of Virginia when the sale was made; but the property, consisting of horses and mules, was subsequently sent over the state' line into Pennsylvania to be pastured. The question is, whether on an attachment in Pennsylvania, by a creditor of the vendor, the validity of the sale shall be tested by the law of Virginia or by that of Pennsylvania. If there had been a previous sale by the owners at their place of domicil, and the contest was between the prior and subsequent purchase, a very different question would be presented. So, if the property had been situated within the jurisdiction of Pennsylvania at the time of the sale in Virginia, the lex rei sites might be applied for the purpose of protecting the rights of our own citizens. But where the property and the parties to the sale were within the jurisdiction of another state, when the contract was made and executed according to the laws of that state, the right vested eo instanti in the purchaser, and no subsequent removal of the property into Pennsylvania for a lawful purpose, can divest it. The subsequent removal of the horses and mules for the purpose of pasturing them in Pennsylvania, was no violation of our policy, nor of the rights of our citizens. They had no claims upon it under our laws when the sale was made, because it was not in any respect subject to our jurisdiction. Their claims upon it were under the laws of Virginia, and the court fell into error in holding that the validity of the sale was to be tested by the law of Pennsylvania: Thuret v. Jackson, 7 Martin 318; Scott v. Duffy, 2 Harris 18; Shelby v. Guy, 11 Wheat. 361. By the common law a debtor has a right to prefer one class of creditors to another; and we think it was error to encourage the jury to take into consideration the exercise of this right, as \u201ca circumstance of suspicion,\u201d in deciding upon the fairness of the transfer.\nThe other errors are not sustained.\nJudgment reversed and venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Black and Phelan, for plaintiff in error.",
+      "Downey, Lindsey, and Fleniken, for defendants in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Born et al. versus Shaw.\nDelivery of personal property must accompany the sale in Pennsylvania, or it will be fraudulent as to creditors of the vendor.\nWhere possession of \"personal property is retained after sale, it is not only evidence of fraud, but fraud per se.\nWhere from the nature of the transaction possession either could not be delivered at all, or at least without defeating fair and honest objects intended to be effected by the transaction, the case may be regarded as an exception to the rule. *\nIn Virginia the rule is that the retention of the possession of personal property by the vendors after the sale is prima facie fraudulent, but this presumption may be rebutted by proof.\nWhere a sale of personal property took place in Virginia, but the property, consisting of horses and mules, was subsequently sent to Pennsylvania to be pastured, and here attached on a foreign attachment by a creditor of the vendor, it was hold that the validity of the sale and transfer was to be tested by the laws of Virginia.\nError to the Court of Common Pleas of Q-reene county.\nThis was a scire facias sur judgment in a foreign attachment, at the suit of Lucas Shaw against Pettibone, Hoban & Co. Judgment was obtained against the defendants for $964.94, and in which Born, Garrison and others, -together with the Baltimore and Ohio Railroad Company, were garnishees. To the scire facias the garnishees pleaded nulla bona, with leave to give the special matter in evidence. The defendants in the attachment were contractors for making a tunnel on the Baltimore and Ohio Railroad Company, in the state of Virginia, and but a short distance from the line of Pennsylvania.\nAfter the work had progressed for some time, the company, by virtue of power reserved in the contract, rescinded the same. The contractors being unable to pay off their hands, they transferred to the company, through the engineer, their stock of horses, mules, harness, tools, implements, fixtures, and materials, on the 2d day of September, 1852, by a written agreement, and in which it was declared that they delivered to Manning the possession of them on the same day. The agreement provided that the value of the stock should be paid by the company to the defendants as soon as the value could be ascertained by persons mutually chosen, so far as it was not agreed upon by the parties at the time of making out the schedule. On the same day a schedule of the property sold was made, which was signed by the defendants and 0. P. Manning, the company\u2019s engineer, and at the same time an estimate was made of the value of the property by the engineer, amounting to $8732.\nImmediately after the sale, and on the same day, Manning employed Hoban, a member of the firm of Pettibone, Hoban & Co., to assist the resident engineer in the preservation and care of the property purchased. Most of the property was on the premises at the time of the sale; a portion of the horses /were at pasture some distance from the work. A few days after this sale Hoban, by the direction of Frost, took a portion of the horses and mules to Abner Garrison\u2019s, in Greene county, Pennsylvania, for the purpose of being pastured there. Two men of the names of Born and Irwin, who had been employed by Pettibone, Hoban & Co., continued in charge of the horses and mules, and accompanied them to Garrison\u2019s, in the employ of Frost, the engineer of the company. A few days after the sale, Manning paid to the defendants eight thousand dollars, and took a receipt on account of the purchase of this property. At the time of the sale, and the transfer of the property, Manning, the engineer, gave permission to Pettibone, Hoban & Co. to use the property for a few days, until the money should be paid, to keep the hands employed, and to prevent difficulty with and clamour among the labourers. The money was paid, however, before the horses and mules were sent to Garrison\u2019s. While the horses and mules were there in pasture, this attachment was laid.\nThe plaintiff contended that, under the laws of Pennsylvania, the sale was fraudulent and void, because possession had not accompanied and followed the sale, and that the property having been voluntarily brought within the jurisdiction of this Common- \u25a0 wealth, the transaction must be governed by the law of the forum.\nThe court below (Gilmore, P. J.) charged the jury, inter alia, as follows:\u2014\n\u201cIf you should determine, therefore, that the sale was not fraudulent, there still will be another inquiry upon which the case may finally turn. You have it in evidence that on the 10th, 11th,. and 12th of September, these horses and mules, to the number of sixty-one, were taken to Pennsylvania, and put to pasture on the' farm of Esquire Garrison. By whom were they taken there ? Under whose care were they placed ? Who hired the pasturage for them ? You have the evidence of Garrison in reference to these several inquiries. In sending the property into Pennsylvania, was there any change of possession before they were- attached by the creditors of the vendors ? If you find that Hoban and the same ostlers who attended to them before the sale, still had possession of them, I do not see how you can find there was any change of possession \u2014 although you may believe that Hoban was constituted the agent of the Baltimore and Ohio Railroad Company. If the jury find, then, that there was no other change than this, we instruct you that this will not be sufficient; and if the horses were brought into this state by these agents of the Baltimore and Ohio Railroad Company, the lex loei, or the law of this state, will govern, and the sale must be considered fraudulent. It would be otherwise if the property was brought here against the assent of the railroad company. But I am not aware there is any evidence of this.\n\u201c If the jury, then, should find that after the sale, and until the horses were attached in this state, there was no other change of possession, except continuing them under the control of Hoban and the ostlers who had heretofore attended on them, such sale would be void in Pennsylvania against creditors, and the plaintiff would be entitled to recover. This would be the case, although the sale, by the decision of the courts of Virginia, might make it a valid sale there; the lex loci here requiring a change of possession, the neglect of which would render it fraudulent, per se- and this, although Hoban, one of the former owners, was in reality constituted the agent of the railroad company, to bring the property into this state.\u201d\nThe jury found for the plaintiffs $>1126.95, and that the garnishees had property in their possession amounting to the sum of $4833, and judgment was entered upon the verdict.\nThe garnishees sued out this writ, and assigned the charge as above quoted for error.\nBlack and Phelan, for plaintiff in error.\n1. It was improper to influence the minds of the jury by the presentation of evidence of a fact upon which they were not allowed to pass. Under the ruling of the court, the only inquiry for the jury was as to the retention of possession by the vendors, and if the jury found no other change of possession than the employment of Hoban to take care of the property, then the sale would be void: 6 W. & S. 488; 5 W. & S. 84 and 301; 8 Watts 385.\n2. Davis v. Turner, 4 Grattan 422; Story on the Conflict of Laws, \u00a7 242; 13 Peters 378; Shelby v. Guy, 6 Cond. Rep. 350; 11 Wheat. 361; Cox & Dick v. United States, 6 Peters 202; 2 Burr. 1077; 4 Term 182; 7 Term 241; 2 Johns. 241; 4 Johns. 285; Willing v. Consequa, 1 P. C. C. 317; Snydam et al. v. Broadnax et al., 14 Peters 67; Courtois v. Carpentier, 1 W. C. C. R. 376; Scott v. Duffy, 2 Harris 18; Case v. Cushman, 3 W. & S. 547; Thuret v. Jenkins, 7 Martin 318, 353, 354, referred to and incorporated in the text of the Conflict of Laws, \u00a7 391; French v. Hall, 9 New Hamp. 137; Thomas v. Tanner, 6 Monr. 52; Pitkin v. Thompson, 13 Pick. 64; Whitmore v. Adams, 2 Cow. 626; McCandlish v. Cruger, 2 Bay. 377; Allen v. Watson, 2 Hill S. C. 319; Ayres v. Audubon, Id. 601; Tarleton v. Briscoe, 4 Bidd. 73; Sherrill v. Hopkins, 1 Cow. 103; Greenwood v. Curtis, 6 Mass. 358-377; Blanchard v. Bussell, 13 Mass. 1-4.\n3. Hugus v. Robinson, 12 Harris 11; Babb v. Clemson, 10 S. & R. 418; Young v. McClure, 2 W. & S. 147; Clow et al. v. Woods, 5 S. & R. 275; Faunce v. Lesley, 6 Barr 121; Forsyth v. Matthews, 2 Harris 100; Hoofsmith v. Cope, 6 Wh. 53; 2 Wh. 302; 10 S. & R. 201, 419; 7 State R. 273-89; 6 Watts 29; Dunlap v. Bournonville, 2 Casey 72; McVicar v. May, 3 Barr 224; Avery v. Street, 6 Watts 247; Childs v. Simmons, Supreme Court at Pittsburgh, not reported; 24 State Rep. 9; 2 W. & S. 167; 5 Barr 326; Haynes v. Hunsicker, 2 Casey 58.\nDowney, Lindsey, and Fleniken, for defendants in error. \u2014\n1. The plaintiffs in error were not injured by the charge of the court when taken together, and it should not be separated in order to have a fair understanding of it: McHenry v. McCall, 10 Watts 372; 3 S. & R. 379.\n2. There was no actual delivery of the possession of any of the property. There was no change in the management, use, or control of the property. Under these circumstances, the property was brought into Pennsylvania, and was seized by the attachment in this case. Story on the Conflict of Laws, \u00a7 244, says: \u201c That no nation is bound to recognise or enforce any contracts which are injurious to its own interests or to those of its own subjects: Kent\u2019s Com. vol. 2, p. 458; Watson et al. v. Brewster, 1 Barr 38; Story\u2019s Conflict of Laws, \u00a7 567; 4 Cow. 508 ; 2 Mass. 84; 3 W. & S. 544; 17 Mass. 55; 14 Martin\u2019s R. 93; Lamfear v. Sumner, 17 Mass. R. 110; Lamb v. Durant, 12 Mass. R. 53; McKaig v. Jones, 3 P. L. Journal 365; McMullin v. Aughinbaugh et al., 1 P. R. 117; 7 Binn. 353; 1 Pick. 81; 1 Paige 220; 4 Denio 305.\n3d. Is the retention of personal property by the vendor fraudulent per se, and void as against creditors in Pennsylvania ? Clow v. Woods, 5 S. & R. 275; Cunningham v. Neville, 10 S. & R. 201; Babb v. Clemson, 10 S. & R. 419; Eckert v. Streeper, 2 Wh. 207; Stark v. Ward, 3 Barr 328; Cadberry v. Nolen, 5 Barr 324; Young v. McClure, 2 W. & S. 147; McBride v. McClelland, 6 W. & S. 94; Starkie, vol. 1, p. 17; 10 Watts 101; 3 P. R. 370; 6 Barr 250; 7 W & S. 394; 4 Harris 22; 7 Id. 341; 10 Id. 431."
+  },
+  "file_name": "0288-01",
+  "first_page_order": 288,
+  "last_page_order": 293
+}

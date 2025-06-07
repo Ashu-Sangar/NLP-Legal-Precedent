@@ -1,0 +1,91 @@
+{
+  "id": 998406,
+  "name": "Clark versus Martin",
+  "name_abbreviation": "Clark v. Martin",
+  "decision_date": "1865-03-28",
+  "docket_number": "",
+  "first_page": "299",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Pa. 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Wright 313",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 60",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0060-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 648,
+    "char_count": 13022,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 2.8294273082684976e-07,
+      "percentile": 0.8390516203840456
+    },
+    "sha256": "baa161f1239875adcee9970aef0c41c51dd86185afb4293bc0ced36081bf066a",
+    "simhash": "1:4b249234676629de",
+    "word_count": 2312
+  },
+  "last_updated": "2024-02-27T21:13:48.159806+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clark versus Martin."
+    ],
+    "opinions": [
+      {
+        "text": "The following opinion, on the motion of Charles S. Coxe, was delivered by\nWoodward, C. J.\nThe executor of the mortgagee of Martin asks to have the decree opened, and himself admitted to defend against the plaintiff\u2019s bill, on the ground that the mortgagee was not made a party to the proceeding that has been had, and that the decree was founded on a mistake of fact. The mistake consisted in Judge Lowrie\u2019s assumption that Alexander Henry was the owner of both lots (Clark\u2019s and Martin\u2019s) in 1814, when he conveyed the Martin lot subject to the restriction in question; whereas, in point of fact, he had only a life estate in said lots.\nGranting the mistake, it is impossible for us to invest it with the importance claimed for it, since it is part of the case that Henry\u2019s title was perfected by subsequent conveyances of the remainder-men to him. These conveyances enured, necessarily, to the benefit of his alienees, and thus Martin acquired a title in fee simple, subject only to the restriction. It is not to be doubted that a vendor who undertakes to sell a full title for a valuable consideration, when he has less than a fee simple, but after-wards acquires the fee, holds it in trust for his vendee, and will be decreed to convey it to his use, and equally clear is it that if a vendee mortgage his title, the perfection of the title by the vendor enures to the benefit of the mortgagee: Brown v. McCormick, 10 Watts 60; Tyson v. Passmore, 2 Barr 122. A judgment or decree against the vendee that affects the title will bind the mortgagee no less than the mortgagor.\nThen why open this decree to admit the mortgagee? He can have no rights in the premises superior to those that were vested in his mortgagor, and if he had had notice of the proceeding he could no more, have been admitted to defend than any other creditor of Martin. If the decree concludes Martin it concludes his mortgagee.\nAnd, beyond question, Martin is concluded, for the mistake, if indeed taking the whole opinion together it can be considered a mistake, was not such as to entitle him to a rehearing, and much less his mortgagee.\nThe application of the executor must therefore be refused, and his petition be dismissed.\nSame day defendant\u2019s appeal from the order of the judge at Nisi Prius refusing to rescind the order allowing the complainant to issue writs of assistance and fi. fa. for costs, was dismissed, and the order affirmed.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "This motion was argued by P. O. McMurtrie, Esq., for the petitioner; the Messrs. Perkins, contr\u00e1.",
+      ". The main question was argued, January 14th 1864, by John A. Barton and William L. Hirst for the appellant, and by Messrs. S. O. and /S'. H Perlcins for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Clark versus Martin.\nEquity. \u2014 Practice in enforcing injunctions. \u2014 Stay laws unconstitutional when remedy is suspended for an uncertain period.\u2014 Confirmation of title to vendor, enures to benefit of his vendee and his mortgagee.\n1. The 4th section of the Stay Law of 18th April 1861 is unconstitutional as applied to cases in which the suspension of the remedy is for an uncertain and unascertained and indefinite period.\n2. An individual mustered into the military service \u201c for the term of during the war,\u201d is mustered for an indefinite period without any ascertained limitation, and the suspension of civil process against him for such a period is unconstitutional.\n3. A vendor who undertakes to sell a full title for a valuable consideration when he has less than a fee simple, but afterwards acquires the fee, holds it in trust for his vendee, and will be decreed to convey it to his use ; and if the vendee mortgage his title, the perfection of the title to the vendor enures to the benefit of the mortgagee.\nThis was an appeal by defendant from the order of the court below, dismissing a motion to set aside writs of assistance and fi. fa. for costs granted to enforce decree in equity made as above stated.\nThe facts, up to the time of the decree, appear in the case of Clark v. Martin, ante p. 291. The decree having been drawn for the removal of the building erected in violation of the restriction, and a copy served on defendant\u2019s counsel, was filed, by the court, June 26th 1862, without amendment.\nJune 30th 1862, complainant sued out a writ of perpetual injunction, being in substance a copy of the decree; to which writ the sheriff returned that he had served the same on the tenant in possession, on the defendant\u2019s solicitor, and also on his agent.\nJuly 9th 1862, upon affidavit filed that the decree -had not been complied with, a writ of attachment issued which was returned non est inventus; and thereupon, July 12th 1862, a writ of sequestration issued directed to the sheriff.\nOctober 23d 1862, complainant filed a petition, setting forth so much of the decree as related to the taking down of the building and the payment of costs, and reciting also the issuing, service, and return of the writ of perpetual injunction, the issuing and return of the writ of attachment, and the issuing of the writ of sequestration, which was still in the hands of the sheriff, and the non-compliance of the defendant with the decree, and praying for a writ of assistance and a fi. fa. for costs. A rule to show cause was thereupon granted.\nAt the meeting of the court in banc, in January 1863, on application by the defendant, a rule was granted to show cause why the decree should not be amended. Application also was made for a rehearing and leave to file a bill of review. The decree was amended by consent, and a rehearing and leave to file a bill of review were refused.\nOn the 14th of February 1863, the rule for writs of assistance and fi.fa. for costs was made absolute.\nThe same day the defendant took a rule to show cause why all the proceedings since the decree should not be set aside. This rule, after argument, was discharged; and on the 28th of February defendant took a rule to show cause why the order allowing writs of assistance and fi. fa. for costs to issue should not be rescinded, upon the ground that the defendant was in the military service of the United States. Depositions were taken, and after argument the rule was dismissed, and the following opinion was delivered by Woodward, J.:\u2014\n\u201c The process sought to be set aside is that which was issued in execution of a decree in equity. I have no doubt that it is \u2018 civil process\u2019 within the meaning of the 4th section of our Stay Law of 18th of April 1861; and that it ought to be stayed if that section, as applied to the facts of this case, can be considered constitutional. The Supreme Court have lately held it constitutional in two eases where the term of the military service was shown to be for three years or during the war, these latter words being construed to mean less than three years. See Brietenbach v. Bush, 8 Wright 313, and Coxe v. Martin, 8 Id. 322.\n\u201c But in this case the defendant\u2019s muster was on the 16th of September 1861, \u2018 for the term of during the war.\u2019 There was no other definition of his term of service. This is shown by the muster-roll and the certificate of the mustering officer, now before me.\n\u201c His muster could not have been under the Act of Congress of 22d of July 1861, for that act authorized the president to accept not more than five hundred thousand volunteers, for such time as he should direct, \u2018 not exceeding three years nor less than six months.\u2019 Had the defendant been mustered under this act, his term would have been defined thereby, and would have been the same as in the adjudged cases above referred to.\n\u201cBut three days after this act, the president a-pproved another Act of Congress, dated 25th of July 1861, which authorized him to accept any number of volunteers \u2018 the exigencies of the public service may in his opinion demand;\u2019 and, says the 2d section of this act, \u2018 they shall be mustered into the service for during the war.\u2019.\n\u201c It was under this provision the present defendant was mustered in. No limitation or definition of his term can be obtained, except what is implied by the words \u2018 during the war.\u2019 These words, when found following a specific term of three years, were construed to mean less than that period. They were held to be not an extension of the specific period, but a possible abbreviation of it. Even as such, however, they were indefinite, and were so treated in the cases above referred to. Those cases were ruled on the ground that the maximum period was definite, and as that was considered not an unreasonable period, under all the circumstances of the case, no account was made of the indefiniteness of the possible abbreviation. And the constitutionality of the Stay Law of 1861 was supported solely on the ground that the utmost stay it could give to the defendant was for a period of time that was definite and reasonable.\n\u201c But how can that doctrine be applied to this case ? I am conscious of a strong desire to give every soldier the benefit of the Stay Law; but the Congress having, most unwisely as I think, made the enlistment of some soldiers definite and others indefinite, establishing thereby an invidious and embarrassing distinction, it is impossible to apply the Act of 1861 alike to both classes. It is to be hoped that the Act of 25th of July 1861, may be modified by the next Congress, so as to take away the-difficulty encountered in this case.\n\u201cIf I am to put myself upon the reasoning of the Supreme Court, in the cases above mentioned, and it is plainly my duty to do so, I must hold the Stay Law of 1861 inapplicable to this case, or unconstitutional if applicable. That law is valid only when it stays civil process for a reasonable time, and reasonableness includes definiteness. It has to be supported in the face of constitutional provisions which forbid the legislature to impair contracts, and which secure to every man for injury to his lands, goods, person, or reputation, remedy by due course of law, an l right and justice, without sale, denial, or delay. Civil process is thus guaranteed to the citizen by a law that is higher than the legislature, and which they can no more alter or disregard than the humblest man in the state. But under the pressure of such extraordinary events as have crowded into our history for the last two years, the Supreme Court went to th\u00e9 \u2019extrem\u00e9st verge of the constitution to sustain the .Stay Law for three years and thirty days from the date of enlistment. I have no right to anticipate that they will sustain a legislative suspension of civil remedies for a period so indefinite as during the war. What can he more indefinite ? The prevalence of a contagious disease, the duration of a panic in the money market, the successive failure of crops, or any other great public calamity, would afford a rule of legislation quite as certain and definite as this deplorable war. The war does not suspend the constitutional rights of the citizen any more than these other calamities would do. They all constitute- strong grounds for forbearance on the part of creditors, but the appeal on such grounds must be made to the discretion and humanity of creditors. Courts of justice cannot listen to it. They must give every man his meat in due season. They would not be courts of justice if they did not, for in Justinian\u2019s Institute, lib. 1, justice is defined to be the constant and perpetual desire of giving to every man that which is due to him.\n\u201c It is not fit or necessary that I should discuss the probable duration of the war. Whether it shall last as long as the most timid fear, or shall be terminated as soon as the most confident hope, its duration is essentially and in a very high degree uncertain, and that is all that I need to take notice of in.this case. According to the settled doctrine of the courts, the legislature have not the constitutional power to suspend the civil remedies of a citizen for an unascertained and uncertain period. The Act of 1861, if applied here, will be such legislation, and therefore I have no right to give it effect.\n\u201c The motion is dismissed.\u201d\nThe complainant accordingly issued the writs of assistance and fi. fa. for costs; whereupon the defendant took this appeal.\nJanuary 9th 1865, Charles S. Coxe, executor of E. S. Coxe, deceased, presented his petition to the court in banc, setting forth that his testator had held a mortgage upon the' property in question, that the defendant Martin had died since the last proceedings had been had in the case; and the premises in question having been sold by Martin\u2019s administratrix, under' the order of the Orphans\u2019 Court for payment of debts, had been bought by the petitioner for the protection of the mortgage held by his testator; that the mortgagee had not been made a party to the bill in equity, and the decree in the case had been founded upon the assumption that Alexander Henry, at the time of the creation of the restriction, was the owner in fee of the premises, which was a mistake- in fact; and asking that the decree be opened, and the petitioner allowed to come in and defend.\nThis motion was argued by P. O. McMurtrie, Esq., for the petitioner; the Messrs. Perkins, contr\u00e1.\n. The main question was argued, January 14th 1864, by John A. Barton and William L. Hirst for the appellant, and by Messrs. S. O. and /S'. H Perlcins for appellee.\nMarch 28th 1865,"
+  },
+  "file_name": "0299-01",
+  "first_page_order": 301,
+  "last_page_order": 305
+}

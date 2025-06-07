@@ -1,0 +1,66 @@
+{
+  "id": 994113,
+  "name": "Shelly's Appeal",
+  "name_abbreviation": "Shelly's Appeal",
+  "decision_date": "1861-02-11",
+  "docket_number": "",
+  "first_page": "210",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 262,
+    "char_count": 3615,
+    "ocr_confidence": 0.427,
+    "pagerank": {
+      "raw": 8.240003754952042e-08,
+      "percentile": 0.47755757188932635
+    },
+    "sha256": "9333d5a4209b06b1189b0b56ccd7f883d52ff907112abc58d2e61c6abd008bcb",
+    "simhash": "1:ae4e57a086ac3d18",
+    "word_count": 661
+  },
+  "last_updated": "2023-07-14T21:27:31.076625+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shelly\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Lowrie, C. J.\n\u2014 The decision of the court below was that where there are several liens against a defendant\u2019s land, and a sheriff\u2019s sale is had on a junior one, which does not produce money enough to pay off the senior ones, the sheriff\u2019s costs on the fi. fa. and vend, exp., on which the money was raised, are payable out of the proceeds; and this is entirely in accordance with our experience of the practice. And it seems to us a very just practice. Even the senior lien could not have been enforced without the same costs, and it has no right to expect a junior one to await its enforcement. They have a right to insist upon a sale in order to learn whether the net proceeds of the sale will reach them, and then to seek satisfaction otherwise, if it does not. On the same principle, the expense of an audit in distributing the fund is always paid out of the fund, whether the lien on which the sale was had is reached by the proceeds or not.\nDecree affirmed at the costs of the appellant.",
+        "type": "majority",
+        "author": "by Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Lewis B. Thompson, for appellant.",
+      "Greorge Lear, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Shelly\u2019s Appeal.\nCosts of Sheriff\u2019s Sale payable out of Proceeds.\nWhere there are several liens against the land of a defendant, and a sheriff's sale is had upon a junior lien, the sheriff's costs are payable out of the proceeds of the sale, though it do not produce money enough to pay off the prior liens.\nAppeal by Francis Shelly from the decree of the Common Pleas of Bucks county, distributing the money arising from the sale of the real estate of Aaron F. Shelly.\nFrancis Shelly held a judgment against Aaron F. Shelly for $3500, which was a lien on a house and two lots of land, belonging to Aaron, in Milford township. Subsequently John Sheetz obtained a judgment against Aaron F. Shelly for $1380, which bound the same property. On this last judgment an execution was taken out, and the real estate sold for $3050, the whole of which was claimed by Francis Shelly on account of his judgment. The sheriff claimed to deduct $63.37 as his costs on the writs of execution, and refused to pay more than the balance, after deducting this sum. It was received by Mr. Shelly under protest, who ruled the $63.37 into court for distribution. The court, without delivering any opinion, decreed the money to be paid, first to the costs of the sheriff on the sale proceedings, and the balance if any to Francis Shelly on his judgment; from which decree this appeal was taken.\nLewis B. Thompson, for appellant.\n\u2014 The execution-creditor should pay these costs. The record showed the previous lien, and if he chose to try an experiment it was at his own risk, or the chance of afterwards collecting the costs of the defendant. The appellant had a vested right which this sale and decree interfered with. The value of his vested interest could only be diminished by himself, as by a sale of the property on his own execution, when the costs must be taken out of the fund. Subser quent lien-creditors take their liens subject to the costs liable to be made by a sale on a previous lien. A prior lien-creditor cannot be justly subjected to costs made on an after acquired lien. This question does not appear to have been decided in this state, but the almost uniform practice is believed to have been in accordance with the views here stated.\nGreorge Lear, for appellee,\ncited and relied on the Act of April 20th 1846. A judgment gives the holder no interest in the land, but only a lien to be enforced if there be a deficiency in the personal estate of a defendant: 2 P. Wms. 491; Coover v. Black, 1 Barr 493; Watson v. Willard, 9 Id. 95; Reed\u2019s Appeal, 1 Harris 478.\nFebruary 11th 1861,"
+  },
+  "file_name": "0210-01",
+  "first_page_order": 210,
+  "last_page_order": 211
+}

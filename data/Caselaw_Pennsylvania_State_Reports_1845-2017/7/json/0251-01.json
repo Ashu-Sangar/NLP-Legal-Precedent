@@ -1,0 +1,115 @@
+{
+  "id": 957785,
+  "name": "Licey v. Licey",
+  "name_abbreviation": "Licey v. Licey",
+  "decision_date": "1847-01-08",
+  "docket_number": "",
+  "first_page": "251",
+  "last_page": "253",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 251"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts & Serg. 486",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478879
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0486-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 598",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156661
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0598-01"
+      ]
+    },
+    {
+      "cite": "18 Johns. 145",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        8710324
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/18/0145-01"
+      ]
+    },
+    {
+      "cite": "1 Dev. 309",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        8691044
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/12/0309-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 376,
+    "char_count": 5403,
+    "ocr_confidence": 0.429,
+    "pagerank": {
+      "raw": 2.8217790091228054e-07,
+      "percentile": 0.8383930877823379
+    },
+    "sha256": "76859c4a0744c25c53fa0c847552b48bd643030618eff2bfda697507307031eb",
+    "simhash": "1:eca6af089c60d829",
+    "word_count": 983
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Licey v. Licey."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThere is a ground on which, however, the cause was not ruled below, that is fatal to the judgment. If the defendant\u2019s evidence be true, the bond in suit was given up by the obligee to be cancelled, and it was cancelled. Was not the debt, therefore, gone ? There is a plain and well-founded common-law distinction, in this particular, between things which lie in livery and things which lie in grant. As the former pass by force of the livery, of which the deed is only evidence, they cannot be revested by destroying the instrument, for a right can be dissolved only by the means which created it; but, as the latter exist only by force of the deed, they necessarily cease to exist when it no longer sustains them. So far was this carried in respect to things which depend on a deed, that an accidental destruction of the seal was held, in the earlier cases, to destroy the right, though a different rule prevails at present, by which th\u00e9 donee is allowed to show the truth. But cancellation, eo animo, will now, as it ever has done, destroy any right which stands exclusively upon the instrument. Thus a lease for years might have been surrendered by cancellation before the statute of frauds, which now requires it to be done, at least, by a note in writing. But the very case before us is put as an instance of the principle in the last London edition of Sheppard\u2019s Touchstone, TO. \u201cAnd if a deed,\u201d it is said \u2014 \u201cnay, a bond \u2014 be delivered up to the party that is bound by it to be cancelled, and it is so, or if he that hath the deed doth, by agreement between him and the other, cancel the deed, by either of these means the deed (provided no estate passed by it) is become void.\u201d Even if a bond thus delivered, but not cancelled, come again to the hands of the obligee, though it be valid at law, the obligee will be relieved in equity: Cross v. Powel, Cro. Eliz. 483; and see Vin. Abr. Faits, X, 2, 3, 4. These authorities are decisive of the principle.\nBut why might there not be a valid gift of a bond by delivery to a stranger, as in the case of any other chattel ? Such a gift would be inoperative at law, for, as a bond is not negotiable, the legal title could pass only by an observance of the formalities prescribed- by -the statute; but, on the principle of Cross v. Powel and the authorities already quoted, it would pass the equitable ownership. The remark of Chancellor Kent, on which the cause was ruled, that the gift of a chose in action requires an assign-* men't, or some equivalent instrument, and that the transfer must be actually executed, certainly does not relate to a gift perfected by delivery; else the case of a redelivered, but an uncancelled, bond, put by Mr. Preston in his emendation of the Touchstone, cannot be law. But Hooper v. Groodwin, 1 Swanst. 486, and Picot v. Sanderson, 1 Dev. 309, on which the chancellor relied, lead to a belief that he had no such case in view. The first was the case of an unexecuted design to transfer personal estate of which there had been no delivery; and the second was the case of an unexecuted order on the agent of the obligee to deliver up a bond to the obligor, on which it was expressly ruled that the gift would have been good if the order had been executed. On neither ground, then, could the judgment before us be sustained.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Chapman, for plaintiff in error.",
+      "Ross and Dubois, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Licey v. Licey.\nCancellation of a bond, or delivery to the obligor with that intent, discharges the debt. Delivery of a bond to a stranger passes the right to the debt as a gift. \u2014 Per Gibson, C. J.\nDec. 28. Licey and others, administrators of Fretz, brought this action of debt, and declared on a bond, the profer\u00ed of which was excused by averring possession unlawfully obtained by the obligor, who had torn off the seal.\nAt the trial before Krause, P. J., the plaintiffs gave in evidence the bond, of which the signature and seal had been torn off. The defendant proved admissions by the obligee that she had given the bond to the obligor to do what he pleased with it.\nThe court, on the authority of 2 Kent\u2019s Com. 439, was of opinion an assignment, or transfer, actually executed, was essential, and directed a verdict for the plaintiff.\nChapman, for plaintiff in error.\nDelivery and cancellation of a bond is the legal evidence of satisfaction of the debt: Whitehill v. Wilson, 3 Penna. Rep. 412. This is conclusively shown by the form of pleading, which requires profer\u00ed, unless matter of excuse be averred and proved.\nRoss and Dubois, contra.\nIn the court below, we relied on the fraud of the defendant; but that being taken from the jury, the question is, can the judgment be sustained ? The cases of donationes causa mortis are inapplicable, and those only inter vivos are to be considered. There it is held that the gift between the parties must be complete, and not executory, as, where notes are given, they cannot be enforced: Fink v. Cox, 18 Johns. 145; Wright v. Wright, 1 Cow. 598. So, where releases not under seal are executed without consideration, they are invalid: Miller v. Hender, 5 Watts & Serg. 486. So of the assignment of a judgment by parol and without consideration: Kennedy v. Ware, 1 Barr, 445; Story\u2019s Eq., \u00a7 1040 c. [Gibson, C. J. \u2014 There is a distinction between a gift and an assignment \u2014 the latter is only available in equity, and will only be enforced so far as there is a consideration.]\nJan. 8."
+  },
+  "file_name": "0251-01",
+  "first_page_order": 251,
+  "last_page_order": 253
+}

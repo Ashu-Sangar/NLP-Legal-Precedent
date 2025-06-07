@@ -1,0 +1,91 @@
+{
+  "id": 400743,
+  "name": "Hobart v. McCoy",
+  "name_abbreviation": "Hobart v. McCoy",
+  "decision_date": "1846-08-01",
+  "docket_number": "",
+  "first_page": "419",
+  "last_page": "423",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 419"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts & Serg. 392",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481776
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0392-01"
+      ]
+    },
+    {
+      "cite": "7 Watts & Serg. 392",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481776
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/7/0392-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 450,
+    "char_count": 10173,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 8.923586926556056e-08,
+      "percentile": 0.5006807346683146
+    },
+    "sha256": "af2c3abefc188a7012df73786c9313cfe7e8bfbc70189f0edf7d4b40dbc783ec",
+    "simhash": "1:1fdac2801844d5c2",
+    "word_count": 1781
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hobart v. McCoy."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nThere is no valid objection, that we can perceive, to the admission of the deposition of George H. Small. For, although taken in another cause, it is between the same parties, and for the same matter, viz., the note now in dispute. In the action of account render, this item, among others, was claimed as money advanced by McCoy for a partnership, which it was alleged, and afterwards conceded, to have existed, between McCoy and Hobart, It, therefore, comes within the words and spirit of the act of the 28th March, 1814, an act further to regulate proceeding in courts of justice. But it is said to be defective, because the notes referred to in the deposition are not produced or identified. But it is sufficiently identified by naming the parties, the amount of the note, and the time payable, viz., ninety days after date. The object of the testimony is not so much to prove the execution of the papers, as that there was a note or notes of that description, discounted by the Harrisburg Bank, and proceeds passed to the credit of Hobart. In Petriken v. Collier, 7 Watts & Serg. 392, it is said to be better to attach the note or document referred to, to the deposition or commission, and to authenticate it by some mark put upon it by the commissioner ; but it is nowhere said, that this is essential to its validity, for where it is identified and particularly described, it may be given in evidence notwithstanding.\nBut we are by no means satisfied with the instruction of the court, that the parties, by their agreement, disavowed the partnership, and treated it as if it had never existed. That as Hobart received all the money got from the bank, and McCoy paid $1000 to the bank, Hobart would be indebted to McCoy, for so much money paid to his use. If the contract be as stated, we agree that the conclusion to which the court arrived, that the plaintiff was entitled to recover, was inevitable; but the intention of the parties to the agreement, does not appear in a written paper, which the court alone can construe, but it is collected from all the circumstances which surrounded the case : these the jury must find, and upon these they must decide. McCoy brought an action of accountr ender against Hobart, on a partnership said to exist on a railroad contract in Kentucky. Hobart a similar action against McCoy, on a transaction relative to some whisky of which McCoy was bailiff and receiver, as is alleged. In addition, Hobart brought suit against McCoy for money lent, and at the same time this action was pending. There were then various matters in dispute, this among others, when the parties came to an agreement to terminate them. To what extent the agreement went, and what it includes, is the difficulty. That the money advanced by the Harrisburg Bank, which is the subject in dispute here, was one of the items in the partnership account, seems to be conceded on all hands; and why is not that comprehended in the settlement, why is that exempted ? It seems to me to admit of great doubt at least, whether it was not the intention to put an end to all controversy of every description whatever, then existing and pending; and that by accident, or from some other cause, which is difficult to conjecture, no entry was made or express notice-taken of this suit. Indeed, no plausible reason can be assigned, at least none occurs to me, why this suit was brought at all, unless under an apprehension that the plaintiff might fail in proving a partnership, and the defendant might plead the act of limitations. On the whole, we think, justice requires that this case should be remanded, and that the jury should be permitted to decide upon the nature and extent of the agreement. Was it, as the court below suppose, their intention to assert that no partnership then existed, or ever did exist, and to remit the parties to their original rights ? or was it, as we are inclined to believe, their design to put an end to all disputes, this among others, by a compromise of intricate, perplexed, and harassing controversies ?\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Jordan, for plaintiff in error,",
+      "Hegins and Greenough, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Hobart v. McCoy.\nWhere a deposition was taken in a former action between the same parties, in which evidence was given respecting the same sum of money or payment, as was claimed in the latter suit; such deposition may be read on the trial of the latter.\nThe plaintiff and defendant having each brought an action of account render against the other, and the defendant an action for money had and received, in which references made to arbitrators, who examined the accounts between them, and heard evidence of the payment of sum in renewal of a note by one party, the proceeds of which had been received by the other exclusively, and the parties then agreed to a report of no causo of action, and to waive all claims to partnership, which had been shown to exist at the time of the alleged payment; it is for the jury to say, whether the parties intended a final compromise : although at the time of the report filed, an action was pending in which the amount of the payment was claimed.\nIn error from the Common Pleas of Northumberland county.\nJuly 29. In assumpsit, the plaintiff having proved a note drawn by defendant, and endorsed by himself, offered the deposition of Small, taken in a previous suit between the same parties. It was objected to, because not taken in the present suit, and because the notes referred to were not produced or identified. It was proved that in the former suit between the same parties, a note described in the deposition, as presently stated, by the names of the parties, date, time, and amount corresponding with the one given in evidence, was produced before the arbitrators, and the allegation of the defendant here, at that time was, that he had paid part of the amount. The admission of the deposition constitutes the first exception. The witness stated that, when clerk of the bank, a note drawn by Hobart, endorsed by McCoy, dated November 14,1836, for $2000 at ninety days, was discounted, and the proceeds went to Hobart\u2019s credit. It was renewed in February, 1837, on payment of $1000, and the discount by McCoy. For the amount of this payment, the present action was brought.\nThe defendant showed two suits, one by Hobart v. McCoy, and the other by McCoy v. Hobart. The former was in account render for certain whisky received, and not accounted for. The latter was account render, laying a partnership from November, 1836, to January, 1839.\nThere was, also, an action brought by Hobart v. McCoy, for money lent, in which a similar report was filed. These three suits were of April Term, 1839.\nOn the 25th February, 1843, in both cases the report of arbitrators was filed. In the former, \u201c That the parties agree that we report as we now do, no cause of action.\u201d In the latter, \u201c As the parties agree to waive all claims to partnership in this concern, we report no cause of action.\u201d At that time, the present action was depending.\nIt was also shown that the payment of the $1000, and discount on the renewal above stated, was proved by McCoy before the arbitrators. That the partnership at first was disputed, and afterwards conceded, and the accounts of the firm examined before the arbitrators ; and after the arbitrators had got through a statement of the accounts, the parties agreed the report should be made as above stated.\nThe court instructed the jury, that as the payment in renewal of the note by McCoy was not denied, and as the parties by the agreement disavowed the partnership, and treated it as if it never had existed: the plaintiff was entitled to recover the $1000 with interest paid on the note, the proceeds of which, when discounted, had been wholly received by Hobart.\nIn reply to defendant\u2019s first point, the court said, although the money was advanced in partnership concerns, yet as the parties had agreed to treat that as never existing, they were remitted to their individual rights.\nThe second wras, that the report of the arbitrators was not a bar, if the parol evidence in construction of it was believed.\nJordan, for plaintiff in error,\nargued against the deposition for the reasons taken below; and also, because the witness was within the state at the time, (this was not one of the grounds stated in the bill of exceptions.)\nThe award of arbitrators was, \u201cno cause of action.\u201d If the construction given by the court to the award of arbitrators was correct, still there was error in directing the verdict to be for the plaintiff.\nWhen this suit was brought, the .action of account render, in which the report was made, was pending.\nThe court erred in giving a construction to the agreement to waive the partnership, in the action of account render.\nWhen the construction of a paper depends partly on facts, it is a mixed question, and should be referred to the jury. If the judgment in this case be permitted to stand, it will work monstrous injustice to Hobart. When the agreement to waive the partnership was made, it was considered as a compromise, for the purpose of settling and ending all matters in controversy between the parties.\nHegins and Greenough, contr\u00e0.\nAs to the admissibility of the deposition in evidence, they cited act of 28th March, 1814, Purdon, 6th ed. 398.\nThe parties were the same, and the subject-matter in controversy .the same. The note upon which this suit was brought, was one of the matters in controversy, in the action of account render.\nThe identity of the note, and the evidence given thereof, was sufficiently proved. Petriken v. Collier, 7 Watts & Serg. 392. The deposition proved the identity of the note, and that the proceeds thereof went into the partnership. The note was described with as much precision as was possible, or necessary.\nIf McCoy had advanced money, which went into the partnership, and the partnership was waived on the trial of the action of account render; McCoy stood as if he had never been in partnership with Hobart, and is certainly entitled to recover the money he advanced.\nThe award of arbitrators in the action of account render, is no bar to this suit, which was then pending, and not noticed in the award.\nAugust 1."
+  },
+  "file_name": "0419-01",
+  "first_page_order": 417,
+  "last_page_order": 421
+}

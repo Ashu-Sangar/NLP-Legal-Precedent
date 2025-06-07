@@ -1,0 +1,78 @@
+{
+  "id": 977286,
+  "name": "Gault versus Vinyard",
+  "name_abbreviation": "Gault v. Vinyard",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "282",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wh. 242",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835014
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/4/0242-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 277,
+    "char_count": 4860,
+    "ocr_confidence": 0.427,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.034310301488619604
+    },
+    "sha256": "5e10a30df3277605727b5bee4ef39cf9c2c25c3cdc696ec92c1ed5f704bd3eaa",
+    "simhash": "1:503276b17257beb9",
+    "word_count": 847
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gault versus Vinyard."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, 0. J.\nThis is an action to recover twenty-six penalties of $50 each for taking greater fees than the fee bill allows; twenty-two penalties of $50 each, for taking other fees than the fee bill allows; and twenty-eight penalties of $10 each, for omitting to keep up in the prothonotary\u2019s office a fair table of fees. Each penalty is a separate and distinct cause of action depending on its own peculiar circumstances. The late Chief Justice Gibson, being of opinion that the Supreme Court, at Nisi Prius, had not original jurisdiction of the case, ordered a nonsuit. The great respect due to the well considered opinions of that eminent jurist, forbids a reversal of his judgment unless we are clearly of opinion that he fell into error. The Act of 16th June, 1836, declares that \u201c the Supreme Court shall have original jurisdiction within the city and county of Philadelphia, in all civil actions wherein the matter in controversy shall be of the value of five hundred dollars, or more.\u201d The Act speaks of \u201cthe matter\u201d in controversy in the singular number, and evidently applies to cases in which a single cause of action amounts to the value of $500, and not to cases in which several distinct claims combined amount, in the aggregate, to that sum. The jurisdiction is not limited by way of a proviso after words conferring general jurisdiction, as in the case of the District Court: Rodman v. Hutchinson, 4 Wh. 242. Nor is it the sum in controversy that is made the test of jurisdiction, as in that court, but \u201c the matter\u201d in controversy. It is very clear, therefore, that the Court of Nisi Prius has no jurisdiction whatever of an action for the penalty of fifty dollars for taking illegal fees. It is equally clear that it has no jurisdiction of an action for the penalty of $10, for omitting to keep up a table of fees in the office. As the law fixes with absolute precision the amount of the penalties to be claimed, the matter in controversy in each case is necessarily less than the sum required to give jurisdiction. The question is, can the plaintiff give the court jurisdiction by uniting seventy-six separate causes of action into one ? We are of opinion that he cannot, and that the Act of Assembly was not intended to give the Supreme Court original jurisdiction over such a case.\nIf this were an action of debt on contract, a different construction might perhaps prevail. In such a case, separate suits before a justice of the peace, when all the claims might be brought into one action in another form, has been censured as oppressive: Ballard v. Towanda Bank, 7 W. & Ser. 434. But actions for statutory penalties are governed by striet rules of construction. The court might not incline to save a wrongdoer from the costs of several actions in such a case.\nOut of the city of Philadelphia the question of jurisdiction would not arise, because the Court of Common Pleas has jurisdiction whether the sum be over or under $100, the penalty for suing there for less than $100 being merely the loss of the costs. It is probable that more difficulty might exist in the city of Philadelphia, as the jurisdiction in sums over $100 is exclusively in the District Court. But we confine ourselves to the question before us. The judge was correct in ruling that the Supreme Court at Nisi Prius had no original jurisdiction over the case.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, 0. J."
+      }
+    ],
+    "attorneys": [
+      "MttrMand and Lawrence, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Gault versus Vinyard.\nThe Supreme Court at Nisi Prius, has original jurisdiction only, in cases where a single cause of action amounts to the value of $500, but not in cases in which several distinct claims, each less than that sum, combined amount in the aggregate to the required sum.\nThe plaintiff cannot confer jurisdiction, by combining in one action a number of separate and distinct specific penalties, each one of which is less than $500.\nThe test of jurisdiction under the statute is not the sum but the matter in controversy.\nCertificate from the Court of Nisi Prius.\nThis was an action of debt, brought by Henry W. Gault against James Vinyard, Pr\u00f3thonotary of the Court of Common Pleas of Philadelphia county, to recover the penalties under the Acts of 1814 and 1821, for taking other and greater fees than the fee bill allows, and for not keeping up in his office a fair table of fees as required by the Act of Assembly. The declaration contained seventy-six counts, twenty-two of which alleged that the defendant took other fees than the fee bill allows; twenty-six counts alleged the taking of greater fees than the fee bill prescribes, and twenty-eight counts charged the omission to put up in his office a table of fees, &c.\nHis Honour (Gibson, J.) being of opinion that the court had not jurisdiction of the cause, directed a nonsuit.\nThe plaintiff moved to take it off, which was disallowed.\nMttrMand and Lawrence, for plaintiff."
+  },
+  "file_name": "0282-01",
+  "first_page_order": 282,
+  "last_page_order": 284
+}

@@ -1,0 +1,109 @@
+{
+  "id": 422160,
+  "name": "McDowell versus Johnson",
+  "name_abbreviation": "McDowell v. Johnson",
+  "decision_date": "1865-01-25",
+  "docket_number": "",
+  "first_page": "483",
+  "last_page": "487",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 483"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 W. & S. 10",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dall. 226",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 104",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840135
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0104-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 591",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788959
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0591-01"
+      ]
+    },
+    {
+      "cite": "16 Barb. 521",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 509,
+    "char_count": 9297,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.01558334095926056
+    },
+    "sha256": "b7a6ac9a550866cf5caa0729c8648a96bfb446372552c4454ce0ade06924738e",
+    "simhash": "1:39f6e6659f34a065",
+    "word_count": 1646
+  },
+  "last_updated": "2024-02-27T22:05:40.639131+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McDowell versus Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nStrong, J.\n\u2014 Under the contract given in evidence, the liability of the defendant was made to depend upon the performance of the work by the plaintiff. The right of the plaintiff to compensation for his labour and materials was not contingent upon the continued ownership of the property abutting upon the paved street. It is doubtless a fair construction of the contract that the plaintiff, to entitle himself to the benefit of the promise of the defendant, was bound to do his work within a reasonable time. What was such a time was of course a question for the jury, and the defendant had a right to any evidence which tended to show that the plaintiff had unreasonably delayed commencing and finishing the work. But we are unable to perceive that the fact that the defendant had sold a portion of the property in front of which the pavement was to be laid, after his contract with the plaintiff, had any relevancy to the inquiry whether there had been default on the part of the plaintiff. Especially does such evidence appear to be irrelevant when we notice that it was offered without any proposal to show that the plaintiff knew of the sale, or knew that a sale was intended. Indeed, it is highly improbable that the rejected evidence was offered for any such purpose. Erom the course of the trial, as exhibited in the bill of exceptions, it seems rather to have been intended by it to shift the responsibility for the paving from the defendant to the lot in the hands of his vendee. But it was incompetent for any such purpose. The defendant assumed a personal liability. Collateral to it may have been a lien on the lot, hnt the personal obligation could not be thrown off by his parting with the property collaterally held. He doubtless obtained a better price for it, because he had personally undertaken to pay for the pavement, by which it was to be improved. But, whatever may have been the purpose intended by the offer of the defendant\u2019s deed, there is no aspect of the case in which we can perceive that it was admissible in evidence.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "F. Carroll Brewster, for plaintiff in error,",
+      "Pierce Archer, Jr., for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "McDowell versus Johnson.\nLiability of property-owner to pay for paving street, not removed by subsequent sale of property.\nIn an action of assumpsit for street paving done under contract, evidence is not admissible on behalf of the defendant, that after the date of the contract and before the work was done he had sold a part of the land fronting on the street paved.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit by Jeremiah Johnson against John McDowell, for work and labour done in paving a street in front of property owned by the defendant. The declaration was the common count, to which defendant pleaded non assumpsit.\nThe material facts of the case were these:\u2014\nIn January 1858, the defendant was the owner of certain lots, situate at Eourth and Norris streets, in the city of Philadelphia. The street in front thereof was not paved. The plaintiff, following the custom in the city, went to the owners of the property fronting on the street, and obtained their signatures to a certain agreement dated January 8th 1858, that plaintiff should pave the street at a certain price. The work was not commenced by the plaintiff until October 1861. On December 2d 1859, the defendant sold and conveyed one of the lots in front of which the paving was afterwards done, to James A. Wright. The plaintiff filed a lien against the property, but sought to recover from defendant the amount of his bill.\nOn the trial of the cause, the defendant offered in evidence the deed from himself to Wright, conveying the property above referred to. This was objected to, and the objection sustained by the learned judge who tried the cause; which was the error assigned.\nF. Carroll Brewster, for plaintiff in error,\nagreed that there could be no recovery upon the contract in suit. The work should have been done within a reasonable time from the making of the contract. Such reasonable time must be adjudged by all the facts surrounding the case; the nature of the work to be performed, and the inconvenience, loss, or disadvantage the defendant has been put to. The defendant waited a period of two years for the performance of the contract, when he sold the property in front of which the work was alleged to have been done. Nothing can justify a delay -in the paving of a street for near four years. No cause was assigned by plaintiff, and the defendant was right in presuming an abandonment of the contract by the plaintiff.\nIn these cases the person who is to do the work is rarely known to the owners of the ground, the paper signed is not considered a contract, and the signing of it is frequently dependent upon the contingency of the contractor being allowed to proceed with the work by the Commissioner of Highways.\nThis offer of the deed from defendant to Wright was overruled by the learned judge! The case went to the jury entirely upon the contract, and a verdict was found for plaintiff for the full amount of his claim.\nThe evidence of a sale and conveyance of the property was the only testimony which a defendant could be expected to produce in such a case \u2014 the only circumstance which could excuse the defendant from paying the debt or making such a defence; it was evidence of the failure of consideration of the contract\u2014 that the work was not done for defendant \u2014 that the contract was not performed in a reasonable time; it was data in judging of the reasonableness of the time, and to show the loss defendant would suffer in the performance of the contract after the lapse of near four years, and it was further evidence that any acknowledgment or promise since the doing of the work was without any consideration. If such evidence is not admissible, the rule of law allowing such a defence should be reversed, and a contract be allowed to be performed at any time the party thinks proper, no matter what lapse of time has taken place, what loss, or what peculiar circumstances surround the case.\nEvery person who has entered into a contract for the performance of a particular task or job, is bound to enter upon his employment without delay, and be active, industrious, careful, and diligent in the performance of the work, to do it according to orders given and assented to, to complete it within a reasonable time, if no precise time has been agreed upon for its fulfilment. See Addison on Contracts 457; Streeter v. Horlock, 8 Moore 27; Coombe v. Greene, 11 M. & W. 483; Story on Contracts, vol. 2, 537, \u00a7 970; Ellis v. Thompson, 3 M. & W. 445; Cocker v. Franklin, 3 Sumner 530; Bottomley v. Forbes, 5 Bing. New Cases 127; Farmers\u2019 Loan Co. v. Blunt, 16 Barb. 521.\nPierce Archer, Jr., for defendant in error,\nargued, that the work in this case was done under a contract with the owners, for the reason that lots unimproved and encumbered with ground-rents were not of themselves security for the payment of the bill; that the proceeding was not in rem, the issue, not whether the defendant was the owner of the lots, but an issue raised by defendant\u2019s plea of non assumpsit.\nThat upon the question of reasonableness of time in the performance of the work, the conveyance was not a material fact for the defendant, unless plaintiff had knowledge of the conveyance, and continued working. If the conveyance, two years after the contract, of itself, discharged the defendant from liability, then a sale by him, one day after the contract, would have the same effect. The result of which would be to make his liability dependent solely on the fact of ownership. Such was not the intention of the parties. The work was done on the credit of the individuals. The jury have found that the work was done within a reasonable time, and it was a question peculiarly within their province.\nThe nature of the work is important in this connection. To get a contract of this character, signed by all the parties, is the work of months. A contract to have several squares of a public highway cannot be completed with the same despatch as one to build a house. The ordinances of the city forbid paving in the \u2022winter months, nor until the water-pipes are laid.\nThe second portion of the plaintiff\u2019s case rests upon the subsequent promises of the defendant alone, which, if binding of themselves, furnish a good cause of action, not to be affected by the admission of the deed in evidence.\nWas there sufficient consideration to support them ? Assuming the alleged conveyance to be bond fide, it was an advantage to the defendant in the sale of his property that the highway in front of it was under contract for paving, and thereby enhanced its value. Again, there was disadvantage to the plaintiff in defendant not informing him of the sale of the premises, but permitting him to go on with the work as if he were still the owner. There was at least a moral obligation on his part to save plaintiff from loss occasioned by his silence as to his having parted with the property. Any or all of these would be valid considerations. See Greeves v. McAllister, 2 Binn. 591; Hind v. Holdship, 2 Watts 104; Mercer v. Lancaster, 5 Barr 162; Austin v. McLure, 4 Dall. 226 ; Cornell v. Vanartsdalen, 4 Barr 365; Nesmith v. Drum, 8 W. & S. 10.\nJanuary 25th 1865,"
+  },
+  "file_name": "0483-01",
+  "first_page_order": 483,
+  "last_page_order": 487
+}

@@ -1,0 +1,66 @@
+{
+  "id": 973985,
+  "name": "Daniel versus Daniel",
+  "name_abbreviation": "Daniel v. Daniel",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "198",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 215,
+    "char_count": 2720,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 1.3434390419551834e-07,
+      "percentile": 0.6317640526532627
+    },
+    "sha256": "7a8f300db04f9d8638ef940bfc4acfa30abf3298741facff0826f5a97ffe5ea1",
+    "simhash": "1:e4c19034b28b3630",
+    "word_count": 473
+  },
+  "last_updated": "2023-07-14T18:41:05.651470+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel versus Daniel."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, O. J.\nThis was an issue to try the validity of a will assailed on the ground that the testator was incompetent and under undue influence. The result was a verdict, by which the will was pronounced valid.\nWe have listened to an argument on seven errors which are alleged to have been committed by the Court on the trial. But all these errors are waived, according to the rules of September, 1852, by the manner in which they are assigned on the record. These rules have been in full force for nearly two years. During that time they have been so generally observed as to prove that they are well understood, and easily followed. They are still occasionally disregarded. When they are, we sometimes dispose of the case just as if the rules did not exist. But this I believe has never been done except where some manifest injustice would otherwise have fallen upon the party. Perhaps even this is an indulgence which has done more evil than good. At all events, the time is approaching when it can be expected no longer. But here was a simple question of fact, fairly tried and determined according to the weight of evidence, under instructions as favorable to the plaintiff in error as he could ask. All the important evidence, and much that was unimportant, was admitted. All the exceptions but one (and that the argument abandons), are to matters of evidence so remote from the main subject of investigation, that their very remoteness creates the only difficulty about them. On every one of them the ruling of the Court turned on the question of relevancy. We cannot believe that the verdict would have been different if all these points had been decided the other way. When a party desires us to reverse a judgment which seems to be right according to the general aspect of the evidence, in order that he may have the desperate chances of another trial, he must not waive the errors on which he relies.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Black, O. J."
+      }
+    ],
+    "attorneys": [
+      "Bridges and Davis, for plaintiff in error.",
+      "Wright and Reeder, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel versus Daniel.\nErrors not assigned according to the rules of this Court may he considered as waived.\nError to the Common Pleas of Lehigh county.\nThis was an issue of devisavit vel non, in which Samuel Daniel was plaintiff, and Joseph Daniel was defendant, and was directed to try the validity of the will of William Daniel, deceased. The verdict was for the plaintiff.\nIt was assigned for error, first, \u201c The Court erred in rejecting the evidence offered in the first bill of exceptions.\u201d 2. \u201c The Court erred in rejecting the evidence offered in the second bill of exceptions.\u201d * ' * * * * 7. \u201c The Court erred in negativing defendant\u2019s seventh point.\u201d\nBridges and Davis, for plaintiff in error.\nWright and Reeder, for defendant in error."
+  },
+  "file_name": "0198-01",
+  "first_page_order": 198,
+  "last_page_order": 199
+}

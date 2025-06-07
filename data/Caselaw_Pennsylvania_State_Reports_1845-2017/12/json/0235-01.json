@@ -1,0 +1,66 @@
+{
+  "id": 963754,
+  "name": "Bell v. Bell",
+  "name_abbreviation": "Bell v. Bell",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "235",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 235"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 1929,
+    "ocr_confidence": 0.339,
+    "pagerank": {
+      "raw": 2.3964208045983414e-07,
+      "percentile": 0.7984442336213424
+    },
+    "sha256": "d15397dc7414530b34e28f7f9e8c9aaa5e50809e703bc55b0ee82acdc582d214",
+    "simhash": "1:fff106cfdc1abfbd",
+    "word_count": 344
+  },
+  "last_updated": "2023-07-14T20:53:58.856380+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bell v. Bell."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe receipt of W. W. Bell, dated March 16,1846, like every other document of the kind, was liable to and susceptible of explanation by competent parol testimony. The fact is, the very giving of that receipt under the circumstances, was a suspicious transaction on the face of it.\nIt has been ruled in Pennsylvania, that an attorney is a competent witness for his client in a cause pending, in which he is concerned as counsel. In this case it would seem from the statements at bar, that Mr. Fenton retired from the argument of the cause below, when he found it necessary that he should be a witness. That was a commendable delicacy. It was always done by the old lawyers, so far as I know the practice.\nMr. Fenton was therefore a competent witness, and the evidence proposed to be given by him was pertinent and relevant to the issue, and ought to have been admitted.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Fenton and Mageehan, for plaintiff in error.",
+      "Cox, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Bell v. Bell.\n1. A plaintiff may contradict Ms own receipt by parol evidence.\n2. Where a note in suit has been delivered by tlie plaintiff, as collateral security for Ms debts, of wMeh tbe defendants bave notice, proof of a subsequent receipt by tbe plaintiff, for tbe amount of tbe note, is no defence.\nIn error from the Common Pleas of Cambria.\nAssumpsit on a note dated May 12th, 1845, and payable Sept. 1, 1846. The attorney of the plaintiff proved he had received the note from his client on the 12th of May, as collateral security for the payment of certain debts, to which the proceeds when collected were to be applied, which fact was communicated to the defendants.\n.The defendants produced a receipt by the plaintiff in full for the note, dated in March, 1846.\nThe plaintiff then offered to show the facts above stated, and that defendants had since made an offer of money if the note would be delivered up, which the Court rejected.\nFenton and Mageehan, for plaintiff in error.\nCox, contr\u00e0."
+  },
+  "file_name": "0235-01",
+  "first_page_order": 235,
+  "last_page_order": 236
+}

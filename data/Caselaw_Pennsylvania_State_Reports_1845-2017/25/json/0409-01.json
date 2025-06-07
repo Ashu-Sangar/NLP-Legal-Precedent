@@ -1,0 +1,91 @@
+{
+  "id": 975850,
+  "name": "Rowen versus King & Schrack",
+  "name_abbreviation": "Rowen v. King & Schrack",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "409",
+  "last_page": "411",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 280",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/46/0280-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 548",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477715
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0548-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 3763,
+    "ocr_confidence": 0.418,
+    "pagerank": {
+      "raw": 8.41186757842258e-08,
+      "percentile": 0.4828125114630235
+    },
+    "sha256": "2ad9e09753e7b8492b4d840a81a12d9fb01c7d20570682b2e229805ad711cb61",
+    "simhash": "1:8b6552dc9fb32379",
+    "word_count": 679
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rowen versus King & Schrack."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, J.\nThe defendant below was sued before a justice and employed an agent, who, instead of making her defence, confessed judgment against her for $93.95. From this judgment she after-wards appealed, but the Court, being of opinion that an appeal would not lie, quashed it.\nEvery person, against whom a justice of the peace renders a judgment, is entitled, of common right, to an appeal and a trial by jury. It has never, yet been decided that it makes any difference whether the judgment was obtained by confession or otherwise. A judgment may be confessed by mistake, or in consequence of imposition, or it may be done fraudulently by a corrupt agent. In such case, what is the remedy, and how shall justice be reached ? The justice is not bound by tbe statute to open tbe judgment, and a certiorari would be of no avail. If the wronged party discovers bis situation in time to appeal, he ought not to be turned out of Court. When tbe judgment is confessed by tbe defendant in person, it is evidence that tbe debt is just, and may be proved for that purpose. But no admission of a debt can be strong enough to preclude tbe party from showing that it was made in ignorance of bis rights. Much less can tbe admission of an agent have that effect.\nAppeal reinstated and record remitted with a procedendo.",
+        "type": "majority",
+        "author": "Black, J."
+      }
+    ],
+    "attorneys": [
+      "Gaither, for plaintiff in error. \u2014",
+      "Edie, for defendant in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Rowen versus King & Schrack.\nNo admission of a debt by a party, much less by an agent, can be strong enough to preclude the person from showing that it was made in ignorance of his rights.\nA judgment entered by a justice of the peace upon the confession of the party or his agent, is subject to an appeal.\nError to the Common Pleas of Somerset county.\nAn action was brought by King & Schrack against Sarah Rowen, before a justice of the peace, to recover a debt which the \u25a0 defendant\u2019s son owed the plaintiffs. Mrs. Rowen employed a man by the name of Garrison Smith to attend to the suit as her agent, and he employed counsel to appear before the justice and make defence. On the day of appearance Smith, and the counsel of Mrs. Rowen, and the plaintiffs and their counsel, appeared before the justice. After some proceedings and conv\u00e9rsation among the parties it ivas stated that judgment should be entered for the defendant. Her counsel then retired, but ascertained afterwards that Smith had confessed a judgment against the defendant for $93.95. He applied to the justice to open the judgment, which was refused, and the defendant then appealed. The appeal was entered in the Common Pleas on the 20th January, 1855, to February term; On the 27th August, 1855, at the third term after the appeal, a rule was granted 'to show cause why the appeal should not be quashed; which rule was made absolute on the 18th September following. To reinstate the appeal this writ was sued out by the defendant below.\nGaither, for plaintiff in error. \u2014\nThe agent had ho authority to eonfess the judgment in this case. It would require a special authority for that purpose: 5 W. & S. 548 ; 2 Harris 105; 2 Kent 793. The motion to quash was made too late: 3 Barr 354; 1 Jones 280.\nEdie, for defendant in error. \u2014\nIt appears from the evidence given on the argument of the motion, that Smith was instructed by defendant to attend to the 'cause as if it were his own. This, it is submitted, would confer the power to confess a judgment. If he could confess a judgment in his own case, he could do so in this.\nNo appeal can be taken from a judgment confessed.\nThe cases cited from 3 Barr and 1 Jones by plaintiff in error, do not sustain the position assumed in this case. There declarations had been filed, and the causes tried before arbitrators. 'Here nothing was done after the appeal, and the motion is believed to be in time."
+  },
+  "file_name": "0409-01",
+  "first_page_order": 409,
+  "last_page_order": 411
+}

@@ -1,0 +1,115 @@
+{
+  "id": 418934,
+  "name": "Shriver et al. versus Harbaugh et al.",
+  "name_abbreviation": "Shriver v. Harbaugh",
+  "decision_date": "1861-01-07",
+  "docket_number": "",
+  "first_page": "399",
+  "last_page": "402",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 399"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wh. 125",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0125-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates 177",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6772767
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0176-02"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 134",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481821
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0134-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 65",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481773
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0065-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 458,
+    "char_count": 9302,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 2.6269643816501196e-07,
+      "percentile": 0.8218612359253378
+    },
+    "sha256": "de13feddea0a71d418d132e7ab786ebe4ca5c1ab634c1bddac31318d4f8bb5e9",
+    "simhash": "1:7b0503ab7eb6bc2f",
+    "word_count": 1621
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shriver et al. versus Harbaugh et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nLowrie, C. J.\nIt is by common law that the sheriff (apart from the sheriff\u2019s interpleader act) has a right to indemnity before seizing goods on a fieri facias, where the property of the defendant in them is disputed, and the principle extends to seizures under a foreign attachment or execution attachment, so as to protect the sheriff, and through him the garnishee, when the sheriff makes him his bailee pending the process. The plaintiff and the sheriff cannot escape the risks of the attachment by a mere copy service, where the defendant\u2019s title is disputed, and throw them all upon the garnishee, by requiring him to retain the goods, undefined perhaps in amount and kind, or give them up to another claimant at his own risk.\nWhere the sheriff has no notice of any claim by any other person than the defendant or the garnishee, such a service may do well enough. It may be sustained-rather by the practice than by the words of the law. The statute plainly requires a seizure of the property, if it be susceptible of it, and within his reach, and the garnishee has a right to insist upon this as a part of the service of the writ, if he does claim the property as his own,, and the sheriff must see to his indemnity if the case requires any. When, therefore, he informed the sheriff that the bales of wool in his possession, and supposed to be the defendant\u2019s, were claimed by another person, this was a warning that he could not hold them as bailee of the sheriff by virtue of the copy-service; and so the sheriff understood him, and therefore demanded indemnity of the plaintiff, which was refused; and thereupon the sheriff gave the garnishee notice that he had no claim on the goods. Surely, therefore, the garnishee cannot be treated as the sheriff\u2019s bailee of them. It would be very unjust that he should be required to run the risk of a contest which others may raise at their -pleasure, and in which he has no interest, except the risk unjustly imposed upon him. Defendant\u2019s title may be a secret one, and the garnishee ought not to be held responsible for property which he may not know to belong to the defendant, and which, perhaps, may be merely passing through his hands as a commission merchant or transporter.\nThe evidence that there was in fact no seizure, and that the sheriff discharged the garnishee from holding the goods as his bailee, does not change the sheriff\u2019s return: but it accounts for its incompleteness, and shows that it was left incomplete, because the defendant\u2019s title was in dispute, and indemnity was refused to the sheriff; and not because the garnishee was willing to hold the goods for the sheriff. The return shows a copy served, but no goods seized, and the evidence agrees with it. The functions of the writ were not exhausted by the return of it, for it is the sheriff\u2019s voucher for holding the goods by himself or his bailee, or for taking them into custody at any time, until the termination of the process. He could therefore discharge his bailee from liability for them, even after the return of the writ.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "H. Burgwin, for plaintiffs in error.",
+      "Hamilton & Acheson, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Shriver et al. versus Harbaugh et al.\nIndemnity to Sheriff. \u2014 Duty of Sheriff in Foreign Attachment. \u2014 Liability of Garnishee as Bailee of Property attached.\n1. At common law the sheriff had a right to indemnity before seizing goods on an execution, where the defendant\u2019s property in them is disputed: and this principle extends to seizures under a foreign attachment or an execution attachment, so as to protect the sheriff, and through him the garnishee, where the sheriff makes him his bailee, pending the process.\n2. The plaintiff and the sheriff cannot, by a mere copy service of the writ, escape the risks of the attachment, and throw them upon the garnishee, by requiring him to retain the goods, when the title to them is in dispute.\n3. A garnishee, in whose possession certain bales of wool were attached, notified the sheriff that they were claimed as the property of another person. The sheriff demanded indemnity from the plaintiff, and, upon its being refused, gave notice to the garnishee that he had no claim on the goods. It was held, in a scire facias by the plaintiffs against the garnishees, that defendants were not liable as bailees of the sheriff.\nError to the District Court of Allegheny county.\nThis was a scire facias sur foreign attachment, by Samuel P. Shriver and John S. Dilworth, partners, against Springer Harbaugh and William Magill, who had been summoned as garnishees of William Porter, the defendant in the attachment.\nMagill had been sheriff of Allegheny county, and, under a foreign attachment against Porter, at the suit of Robinson & Co., had attached ten sacks of wool as the property of Porter, then in the custody of the Ohio and Pennsylvania Railroad Company, and had placed them in the custody of Harbaugh for safe keeping. After this, Shriver and Dilworth sued out a writ of foreign attachment against .Porter, which was placed in the hands of Sheriff Paterson, commanding him in the usual form to attach the said Porter, \u201c by all and singular,\u201d &c., and to summon William Magill and Springer Harbaugh as garnishees. To this writ Sheriff Paterson made the following return: \u201cExecuted this writ by serving copy on Springer Harbaugh, and by summoning him as garnishee.\u201d Also by copy on William Magill, and by summoning him as garnishee, October 29th 1855. Judgment was obtained against Porter on the foreign attachment for $648.49, which was followed by this scire facias, to which the garnishees, as defendants, severally pleaded nulla bona, and the eases were tried together.\nThe plaintiffs claimed the value of the ten sacks of wool, which had been attached in their hands as the property of Porter.\nOn the trial, the defendants under objection, proved by Edward Campbell a deputy sheriff under Paterson, that when the writ of attachment in this case was served, the wool in question was claimed by Robinson & Co.; that he gave notice to plaintiff\u2019s attorney that he would not make actual seizure of the wool without indemnity; that plaintiffs declined to indemnify, alleging that the service already made was sufficient to hold it without actual seizure; that he therefore refused to take possession of the wool, and so informed Harbaugh; that Harbaugh had repeatedly requested him to take possession of the wool, if he wished to hold it and release him from the possession of it, which Campbell refused to do without the indemnity, and which plaintiffs had declined giving; that he gave Harbaugh a paper in which were recited the above facts, and stated that \u201c the sheriff has therefore no claim on said wool, or any other goods in your possession, and claims to hold none by virtue of said attachment.\u201d The defendants\u2019 counsel requested the court to instruct the jury that the mere service of a copy of the writ of foreign attachment on the defendants did not bind the wool in question, because the evidence showed that it was susceptible of seizure or manual occupation by the sheriff, who, for want of indemnity, on the part of the plaintiffs, had notified Harbaugh of his refusal to execute the writ.\nThe court (Hampton, P. J.) reserved this question, and instructed the jury, proforma, that taking this to be true, it did not constitute a valid defence to this action. The jury found for the plaintiffs, subject to the opinion of the court in banc on the question reserved.\nOn the 11th of February 1860, the opinion of the court on the question of law reserved was filed, and judgment was entered for defendant, non obstante veredicto. Whereupon, the plaintiffs sued out this writ, and assigned for error the entering of judgment for defendants, and in not directing judgment for plaintiffs on the verdict.\nH. Burgwin, for plaintiffs in error.\nThe parol explanation of the sheriff\u2019s return was improperly admitted. If wrong, it should have been amended in court: Diller v. Roberts, 13 S. & R. 60; Fleck v. Troxell, 7 W. & S. 65; Hoffman v. Danner, 2 Harris 25; McClelland v. Slingluff, 7 W. & S. 134; Shoemaker v. Ballard, 3 Harris 92; Paxton v. Steckel, 2 Barr 93. Under the plea of nulla Iona this defence was not admissible: 2 Tr. & H. Pr. 673; Woods v. Roach, 1 Yeates 177.\nThe act does not require an actual seizure, nor is it the practice : 2 Tr. & H. Pr. 657 ; Paxton v. Steckel, 2 Barr 93; Childs v. Digby, 12 Harris 23.\nHamilton & Acheson, for defendant in error.\nThe parol evidence was not intended to alter or contradict the return, and did not do so. Paxton v. Steekel is in no respect like this case.\nNulla bona is the general issue, nor is there any rule of court here limiting it, as in Wood v. Roach. Pancake v. Harris, 10 S. & R. 109; Thornton v. Bonham, 2 Barr 102; Sinnickson v. Painter, 8 Casey 384; Bingham v. Lamping, 2 Casey 340; are authorities in favour of the use of this plea in such cases. The wool being susceptible of manual occupation, it was the sheriff\u2019s duty to take possession of it: 2 Tr. & H. 656; Morgan v. Watmough, 5 Wh. 125. The garnishee is not bound to retain goods thus attached, and hold them with all the risks incident thereto against his .will. A plaintiff cannot escape all this risk, and throw it on an innocent garnishee by refusing to indemnify the sheriff.\nJanuary 7th 1861,"
+  },
+  "file_name": "0399-01",
+  "first_page_order": 399,
+  "last_page_order": 402
+}

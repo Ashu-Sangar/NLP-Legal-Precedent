@@ -1,0 +1,117 @@
+{
+  "id": 408760,
+  "name": "Craig versus Sibbett & Jones",
+  "name_abbreviation": "Craig v. Sibbett & Jones",
+  "decision_date": "1851-02-24",
+  "docket_number": "",
+  "first_page": "238",
+  "last_page": "241",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Peters 398",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Low. 237",
+      "category": "reporters:federal",
+      "reporter": "Low.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wend. 227",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009745
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0227-01"
+      ]
+    },
+    {
+      "cite": "9 Mass. 55",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2029736
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/9/0057-01"
+      ]
+    },
+    {
+      "cite": "19 Pick. 220",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2037628
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/36/0220-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 489,
+    "char_count": 10424,
+    "ocr_confidence": 0.436,
+    "pagerank": {
+      "raw": 3.5493378157779296e-07,
+      "percentile": 0.8852404136302927
+    },
+    "sha256": "bdf7003ae2b18aba464f56f4c7392ad3f5d86129a51ca248a02edd0999f7b131",
+    "simhash": "1:a5fd6c716df898de",
+    "word_count": 1825
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Craig versus Sibbett & Jones."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, C. J.\nThere is no plausible pretext for refusing to pay this hill; for it is not pretended that the plaintiffs below, who discounted it in the regular course of their business, did any act which was not consistent with perfect good faith. They knew it was drawn against flour supposed to have been shipped in a regular course of dealing between the drawer and the acceptors; but they had discounted other bills between the parties, which were paid at maturity; and if they had not, they would have had no reason to suspect that a fraud was meditated by the drawer in this particular instance. Yet' he did meditate a fraud, and perpetrated it by procuring the signature of the master to a bill of lading of flour which \u25a0 was never put on-board. With participation in this, it is attempted to charge the plaintiffs; but with how little reason, a simple statement of the facts is suffleient to show. The only additional matter is that the bill of lading was endorsed to the plaintiffs as a security in case of non-acceptance, and that it was presented to the defendants with the bill of exchange; whence an argument that, as the plaintiffs were apprized of the course of dealing, they must have known the acceptance was on a tacit condition that the flour should be forwarded. Has it ever been supposed that the purchaser of a bill drawn against cotton to be shipped to Liverpool is bound to guaranty the delivery of it ? The plaintiffs were not party to the shipment; nor did they interfere in respect to it. It is said that though the acceptance was absolute in form, they must, from the nature of the transaction, have understood it to be conditional in substance. The administrator, in th\u00e9 Bank of Ireland v. Bellsford, did not intend to make himself personally liable by his unqualified acceptance, but the law intended that he did. The cases show that the payee looks only to the terms of the acceptance; and that when he has acted in good faith, he is not to be prejudiced by the acts of the drawer. The latter is liable to him on the bill, and the drawee on his contract of acceptance; but he stands in no privity to them in any transaction between themselves. According to the cited case of Reynolds v. Robinson, which goes far to rule the present, it was the duty of the defendants to accept absolutely or refuse absolutely, in order that the plaintiffs might look to their relations with the drawer; and it determines the point that it is immaterial whether the endorsement of the bill of lading were before or after the acceptance of the bill of-exchange.\nIt is scarce necessary to say that the objections to the depositions went to the credibility, and not to the competency of the witnesses.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Hare, for plaintiffs in error.",
+      "Law, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Craig versus Sibbett & Jones.\n1. The purchaser of a bill of exchange is bound to look only to the terms of the acceptance; and when he has acted in good faith, he is not to be prejudiced by the acts of the drawer.\n2. Where it was arranged between a drawer and another, that the latter would accept his bills in consideration of produce to be transmitted, the latter will be bound to the payee by his general acceptance of a bill, though it turn out that the bill of lading, forwarded at or about the time of the transmission of the bill of exchange, \"was fraudulent, it not being shown that the payee of the bill was privy to the fraud; and the mere knowledge by the payee of the terms of the .arrangement between the drawer and acceptor, is not material. Nor is it material -whether the endorsement of the bill of lading was before or after the acceptance of the bill of exchange.\nError to the District Court, Philadelphia.\nThis was an action by Sibbett & Jones, exchange brokers of Pittsburgh, against Craig, Bellas & Co., of Philadelphia, on a bill of exchange, drawn by Samuel Barnum, on Craig, Bellas & Co., and accepted by the latter, as follows\n$900. Pittsburgh, 20th May, 1844.\nSixty days after date, for value received, pay to the order of the drawer, the sum of nine hundred dollars, and charge the same as advised, to account of Your obedient servant,\nSamuel Barnum.\nMessrs. Craig, Bellas & Co., Philadelphia.\nPayable at Philadelphia Bank. Accepted.\nCraig, Bellas & Co.\nEndorsed, Samuel Barnum,\nSibbett & Jones.\nThe declaration contained a count on the bill, and also the common counts.\nBarnum, the drawer of the bill in suit, entered into an arrangement with Craig, Bellas & Co., under which he, Barnum, proposed, in February 1844, to forward to them produce from Pittsburgh, and they to accept his drafts in Consideration of the produce shipped. The first communication from Barnum to them, appears to have been dated 3d February, 1844, informing them of a consignment of produce; and the letter was accompanied by a bill of lading, and informing them of a draft drawn for $550, at 60 days from the 5th inst. Other letters of a similar' character were afterwards received, usually accompanied by a bill of lading. Sibbett & Jones usually discounted the bills- of exchange, and, at the end of about a month, were the holders of three bills of exchange .for five hundred dollars each, which Craig, Bellas & Co. refused to accept, on the ground that Barnum had not complied with his agreement to send produce to cover the drafts. One of the firm of Sibbett & Jones had one or more interviews with Craig, one of the defendants below, in relation to a certain draft, drawn by Barnum in favor of Sibbett & Jones, which Craig refused to accept without being put in possession of property. Property was furnished, and the bill was accepted.\nIn consequence of this difficulty, Sibbett & Jones afterwards usually took from Barnum, bills of lading of produce shipped to Craig, Bellas & Co. In some instances, at least, the bills of lading were forwmrded by Sibbett & Jones to Craig, Bellas & Co. But on the 10th, 16th, and 20th of May, three drafts, drawn by Barnum and discounted by Sibbett & Jones, were forwarded by them to Craig, Bellas & Co., and were accompanied or followed by bills of lading, purporting to be for produce shipped by Barnum, but were in reality false and fraudulent, no such merchandise being in existence. Craig, Bellas & Co. accepted drafts on the faith of the bills of lading, and refused payment on discovering that the latter were fraudulent, and this gave rise to this controversy.\nSharswood, J., charged the jury, inter alia:\u2014If the plaintiffs are bona fide holders for value of the bill sued on, they are entitled to your verdict. It is of no consequence whether they knew or not of the arrangement between Barnum and the defendants. It is of no consequence that they became holders of the bill before it was accepted. There is no evidence that they had any knowledge of the fraud committed by Barnum, or participated in it at all, even innocently; for the bill was transmitted for acceptance by Barnum, and in doing so, he is not to be considered as acting as agent for the plaintiffs, but on his own account as drawer of the bill. It was the business of the defendants to inquire and satisfy themselves, before they accepted the bill, that property or funds to meet it had been remitted. Had they done so and refused to accept, the plaintiffs would have had the opportunity at once to take measures for their own security. We have no evidence as to the precise time when the fraud was discovered, and whether any, and if any, at what time notice of it was given to the plaintiffs. As between Barnum and defendants the defence here set up would be perfectly valid: but, if the plaintiffs paid a valuable consideration for the bill, and took it in good faith, without any knowledge of or participation in the fraud of Barnum, they .have a right to recover.\nThe counsel for defendants excepted to the charge. The verdict was not stated on the paper-book.\nError was assigned, on the part of defendants below, plaintiffs in error, to the admission of certain depositions, and that the judge erred in instructing the jury, that if the plaintiffs were bona fide holders for value of the bill sued on, they were entitled to a verdict.\nThe case was argued by Hare, for plaintiffs in error.\nHe contended that where a hill of exchange is accepted, subject to a prior agreement that the drawer shall make shipments, or otherwise provide funds for its payment, such agreement is binding as between the parties, and will control the acceptance: 19 Pick. 220. If such an agreement is binding as between the drawer and acceptor of a bill, it must be operative against an endorser who becomes a party to it, or takes the bill with notice of its existence : 9 Mass. 55-60; 1 Meeson Welsby 212. That the material question is, whether, as Sibbett & Jones knew that the understanding was that produce was to be forwarded to meet bills, and that not being the case with respect to this bill, they cannot recover.\nLaw, for defendants.\nThe plaintiffs were bona fide holders of the draft for a valuable consideration, without notice of any fraud, and with none imputed to them by defendants. That there was no evidence that plaintiffs below were parties to the arrangement between Barnum and Craig, and if they were aware of that arrangement, still, as the draft was accepted absolutely, the defendants below were liable, though, through the fraud of the drawer alone, they were not in funds: 7 Wend. 227; 9 Ser. 22. 238; 12 id. 332 ; Bank of Ireland v. Bellsford, 6 Low. 237 ; 10 Bing. 51-56; 4 Barr 347; 2 Adol. Ellis 196, Reynolds v. Robinson. The bill of lading on- which this draft was drawn was not a forgery. It is in the handwriting of Barnum, and the signatures to it are genuine. It was fictitious, not forged. It was forwarded by Barnum to defendants below, not by plaintiffs. The draft was discounted by plaintiffs below, and forwarded to their correspondent in Philadelphia for negotiation.\nWhere a draft is drawn on one as administrator, and accepted by him as administrator, and the estate is insolvent, it does not make the acceptance conditional, but absolute, and he is personally bound: 4 W. $ Ser. 346, Tassey v. Church; Bank of Ireland v. Bellsford, 6 Low. 237; 2 Adol. Ellis 196; Reynolds v. Robinson. It matters not whether the bill was accepted before or after endorsement; that is, the endorsement of the drawer to the plaintiffs: '2 Adol. $ Ellis 196, before cited; 3 McClean 272; 15 Peters 398.\nFebruary 24, 1851,"
+  },
+  "file_name": "0238-01",
+  "first_page_order": 238,
+  "last_page_order": 241
+}

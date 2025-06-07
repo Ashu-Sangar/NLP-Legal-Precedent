@@ -1,0 +1,101 @@
+{
+  "id": 981618,
+  "name": "Hatfield versus Swiler",
+  "name_abbreviation": "Hatfield v. Swiler",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "522",
+  "last_page": "524",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 522"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Binn. 436",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788948
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0436-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 349",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12147046,
+        1408335,
+        1408337,
+        12147124,
+        1408476,
+        12147198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0349-01",
+        "/us/1/0366-01",
+        "/us/1/0366-02",
+        "/dall/1/0349-02",
+        "/us/1/0366-03",
+        "/dall/1/0349-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 289,
+    "char_count": 4698,
+    "ocr_confidence": 0.441,
+    "pagerank": {
+      "raw": 2.2269389344706595e-07,
+      "percentile": 0.7783262653536943
+    },
+    "sha256": "ee81db4fcdeed637e968c7b6341287a761732b73b3e078ba59aa70ec843ad753",
+    "simhash": "1:d78502878d2e8d17",
+    "word_count": 860
+  },
+  "last_updated": "2024-02-27T19:56:45.258485+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hatfield versus Swiler."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nThere is nothing in the Act of 13th June, 1836, which is inconsistent with the law in existence previous to its passage, that there should be at least ten days between the day on which a summons is issued and the day upon which it is made returnable. The thirty-first section is rather confirmatory of the old rule, than repugnant to it; for it creates additional return days to be used where there are not ten days between the issuing of the summons and the first day of the term. Had the intention been to change the rule, and allow a summons to issue within ten days of the commencement of the term, it would have been wholly unnecessary to provide the return days mentioned in this section, for the ten days allowed before judgment for want of an affidavit of defence, are computed from the service and not from the issuing .of the writ. The only object of the section appears to be to allow a summons to be issued even within ten days of the term, if the party issuing it is willing to make it returnable on the day preceding the last day of the term, or upon the first day of the next succeeding term. We are satisfied that the learned president of the Common Pleas arrived at a correct conclusion in this case, and that the summons was properly quashed because it was issued within ten days of the first day of the term, on which day it was made returnable.\nTo avoid misconstruction, it is proper to say, that the thirty-second section of the act referred to, places the courts of the city and county of Philadelphia, and the county of Allegheny, upon a different footing from those in the other counties of the state, and that we should not be disposed to interfere with any existing practice on this subject in Philadelphia or Pittsburgh not plainly contrary to the above-named section.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Rawn, for plaintiff in error.",
+      "Briggs, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hatfield versus Swiler.\nThe Act of 13th June, 183G, requires that there should be at least ten days intervening between the day on which a summons is issued, and that upon which it is made returnable.\nThe 32d section of that act places the city and county of Philadelphia, and the county of Allegheny, upon a different footing from the other counties of the state, in regard to the issuing and service of summons.\nError to the Common Pleas of Dauphin county.\nOn the 15th January, 1857, Samuel Hatfield, the plaintiff, caused a summons in assumpsit to be issued against M. A. Swiler, the defendant, and which summons was made returnable on the first day of the succeeding term, being the 19th day of January. It was served personally on the defendant before the return day. The defendant caused an appearance de bene esse to be entered by attorney, who, on the 25th January, 1857, moved to set aside the summons and the service.\nThe court below (Pearson, P. J.), after argument, quashed the writ.\nThe plaintiff took this writ, and assigned here that the court below erred in quashing the writ.\nRawn, for plaintiff in error.\nUnder the law as it stood prior to 1836, a freeholder could not be brought into court by any writ issuing within ten days of the first day of the term. The issuing a capias and marking \u201c no bail required,\u201d was irregular and unauthorized: Barnhard v. Field, 1 Dall. 349. The old law required ten days issuing and service before the return day \u2014 the present law ten days before taking judgment: Act 13th June, 1836, \u00a7\u00a7 30, 31, 32, 33, and 34. From the remarks of the revisers Parke John., Dig. p. 805, it will be seen that one of the evils to be remedied was, that under the old system three months might elapse before the defendant .could be required to enter an appearance. But if the doctrine of the court below be correct, that evil is not obviated. When the court lasts but one week, a writ issued after Tuesday of the week preceding the first day of the next term, it must be made returnable to the subsequent term; and though the writ might be served the day it was issued, the plaintiff would have to wait more than three months for an appearance. A writ may issue upon any day, and be made returnable on any one of the three return days designated in the act. It is optional with the party issuing \u2014 on any of the three days he sees fit. The word \u201c shall\u201d would have been used if the legislature had intended to require that ten days should in every case intervene between the issuing and return day of a summons. The case in 2 Binn. 436, decides only that under the Act of 1724-5 ten days\u2019 service before the return day was required. Fisher v. Potter, 2 Miles 147; Heberton v. Starkton, 2 Id. 164; Dyott v. Pennock, Id. 213; Boyd v. Serrill, 4 Pa. L. J. 114; 3 Id. 72.\nBriggs, for defendant in error."
+  },
+  "file_name": "0522-01",
+  "first_page_order": 522,
+  "last_page_order": 524
+}

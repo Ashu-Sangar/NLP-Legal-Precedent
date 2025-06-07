@@ -1,0 +1,97 @@
+{
+  "id": 990471,
+  "name": "McAuley's Appeal",
+  "name_abbreviation": "McAuley's Appeal",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "209",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Whart. 214",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 478",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 416",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846765
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0416-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 282",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 404,
+    "char_count": 7121,
+    "ocr_confidence": 0.458,
+    "pagerank": {
+      "raw": 3.444214350816176e-07,
+      "percentile": 0.8798215648866015
+    },
+    "sha256": "374b0eb477f5f6c5321231fafba1c325d78bae131bdb18ab613def24c151bfa1",
+    "simhash": "1:b91a162cc50924c8",
+    "word_count": 1245
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McAuley\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nWe are satisfied with the reasons of the District Court and the auditor for the ruling below.\nThe case of Hill v. Johnston & Parker, 5 Casey 362, is not an authority for the appellant, for the claim of the debtor was not sustained in that case as against his mortgagee, but only as against his judgment-creditors. Here it is set up against the mortgagee, and the only reason assigned in its support is, that the money, was brought into court by proceedings on the mortgage-bond instead of proceedings directly on the mortgage itself. Still, it was the money of the mortgagee, and to take it from him and give it to the debtor, would be to extend the exemption law to mortgage debts, which the legislature have not yet thought proper to do.\nThe decree of distribution is afiirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "JBlaeJcburn, for the appellant.",
+      "Abbott, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "McAuley\u2019s Appeal.\nA mortgagor is not entitled to the benefit of the $300 exemption law of the 9th April 1849, as against his mortgagee, under an execution, issued upon a judgment entered on the bond accompanying the mortgage, and levied on the mortgaged premises. \u2022\nAppeal from the District Court of Philadelphia.\nThis was an appeal by George McAuley from the decree of the court below, distributing the proceeds of a sheriff\u2019s sale of his real estate.\nOn the 12th July 1855, George McAuley mortgaged the premises out of which the fund was raised, to John Dornan, to secure the payment of his bond for $200.\nAt December Term 1857, judgment was entered on the bond accompanying this mortgage; and a fieri facias was issued thereon. The defendant demanded an appraisement of the premises under the exemption law of 1849, which was had, and the land was appraised at $400. It was subsequently sold under a venditioni exponas for $330, and the proceeds of sale were paid into court for distribution.\nAfter payment of arrearages of ground-rent and expenses, there remained a balance of $170.58, which was claimed by the mortgagee under his mortgage; and t>y the mortgagor under the exemption law.\nThe auditor appointed to report distribution of the fund, awarded this balance to the mortgagee, for the following reasons, as set forth in his report:\u2014\n\u201c Had the premises in question been sold upon the mortgage, the defendant would not have been entitled to the exemption: Morgan v. Noud, 1 Phila. It. 250. Does the mortgagee\u2019s electing to proceed upon the bond materially alter the rights of the parties ? \u2018 When the mortgaged premises were levied upon, by the fieri facias, it was an election of the mortgagee to proceed in rem, against the pledge, and a sale upon the venditioni, was as much a, sale of the pledge, out and' out, as if it had been upon thelevari facias. It is no objection with me, that the party has elected his remedy. It is not a case of election of alternate remedies ; the remedies are cumulative, concurrent, may be all carried on together, though there can be but one satisfaction. The mortgagee has three remedies, debt upon his bond, ejectment, and scire facias on the mortgage, all provided at the same time, if he so choose:\u2019 McCall v. Lenox, 9 S. \u2021 R. 314.\n\u201c \u2018 A party may hold several liens of different dates, as security for the same money, and his proceeding on one does not in general impair the other. Here the judgment bond was used as the instrument to bring the money into court, but the money comes into court attended by the lien of the mortgageBanks v. Chester, 1 Jones 282; Grarro v. Thompson, 7 Watts 416. \u2018 I mentioned before that the mortgagee has a triple remedy, which he may pursue in triple form, until his debt be satisfied. This is justice \u2014 this is equity. The equity of the mortgagor is to have restitution of the land, upon the payment of the debt, and the equity of the mortgagee is to hold the land until his debt be satisfiedMcCall v. Lenox.\n44 It is conceded, that the mortgagee\u2019s hold upon the land was loosened by the sale upon the bond. If so, does it not necessarily follow, that he has his lien upon the proceeds of the mortgaged premises ? The money in court stands in the place of the land; \u2018 as has already been intimated, it flows from the fact, that the bond and mortgage are but accumulative securities for the same debt, and the use of either, for the purpose of collecting it from the land pledged, must be unavoidably attended with the same legal consequences:\u2019 Clarke \u00b6. Stanley, 10 Barr 480.\n44 The literal construction of the Act of 1849 \u2014 that the defendant is entitled to his exemption of three hundred dollars, when the land is sold upon \u00e1 venditioni exponas, is attempted to be sustained by an argument, which, while adhering to the letter, ignores the spirit and purpose of the' law. It is to the fact of a man\u2019s property being sold, and to prevent absolute poverty, that the law looks, and not the name of the writ which commands the sale. Many cases could be mentioned, where-a defendant has no right to exemption, where the land is sold upon a venditioni \u25a0exponas. Thus, where land is sold for arrears of ground-rent, the ground-rent will be paid rather than the defendant\u2019s claim of exemption. Again, if the argument for a literal construction he sound, when land is sold by a fieri facias or a levari facias, the \u25a0defendant has no right to his three hundred dollar exemption, because the Act of Assembly speaks only of venditioni exponas.\n\u201c It is not questioned that the sale upon the bond in this case, which was effected by a venditioni exponas, divested the lien of the mortgage, yet the Act of 1830 says, 4 The lien of such mortgage should not be destroyed, or in any way affected by any sale made by virtue or authority of any writ of venditioni exponas.\u2019 Argument, however, is superfluous, as Pierce v. Potter, 7 Watts 478, Berger v. Hiester, 6 Whart. 214, and many other cases that could be mentioned, are directly to the point of the legislative meaning of the words 4 venditioni exponas,\u2019 and impress upon them a judicial import, entirely consistent with the foregoing views.\u201d -\nThe court below confirmed the auditor\u2019s report, and decreed distribution accordingly, the following opinion being delivered by Sharswood, P. J.:\u2014\n\u201c The plaintiff entered up judgment on the bond accompanying his mortgage, and having sued out and sold the mortgaged premises under a venditioni exponas, the question now is, whether the defendant is entitled to his three hundred dollar exemption ? Had the proceeding been under the mortgage, it is clear he would not. But the title of the vendee at the sheriff\u2019s sale is still fortified by the plaintiff\u2019s mortgage. He purchased and paid for, not merely the equity of redemption subject to the mortgage, but he bought the mortgage itself. The mortgagee, by proceeding on his bond, could not sell subject to the lien of his mortgage; it follows then, that the adoption of the one or other remedy ought not to vary, and does not vary the relative rights of the party. We agree with the auditor that the principle of McCall v. Lenox, 9 8. R. 302, settles this case.\u201d\nFrom this decree, the present appeal was taken.\nJBlaeJcburn, for the appellant.\nAbbott, for the appellee."
+  },
+  "file_name": "0209-01",
+  "first_page_order": 209,
+  "last_page_order": 211
+}

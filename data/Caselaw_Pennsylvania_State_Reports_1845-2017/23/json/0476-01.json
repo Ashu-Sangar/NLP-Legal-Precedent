@@ -1,0 +1,93 @@
+{
+  "id": 974014,
+  "name": "Foland versus Boyd",
+  "name_abbreviation": "Foland v. Boyd",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "476",
+  "last_page": "477",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 476"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts 339",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841235
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0339-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 454",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844065
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0454-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 236,
+    "char_count": 3197,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 4.5828155114230504e-08,
+      "percentile": 0.28691190104133485
+    },
+    "sha256": "0ccc0753a9679130be1c5d1bf2003f530e2d1597fe184cfe40f37cb79fdcd1c1",
+    "simhash": "1:678886c2c8dc3c5e",
+    "word_count": 588
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Knox, J., dissented."
+    ],
+    "parties": [
+      "Foland versus Boyd."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J.\nWe discover no substitute for notice here and no excuse for its omission, and such was the view taken elsewhere in a very similar case: Morris v. Husson, 4 Sandf. S. C. R. 93.\nThis is not like the cases where a note has copartners for the makers and some of them for endorsers, and where, of course, the knowledge of the dishonor by the makers is chargeable on them as endorsers. This suit is upon the note, a contract by which the maker and endorser stand severally and not jointly related to the plaintiff, the duty of each being different; and it cannot at all be said that one is liable for the other, except according to the contract ; or that one is chargeable with the knowledge of the breach of contract of the other. Though they were partners in the original purchase, that does not confound this contract so as to allow a demand to be made of the endorser and notice to the maker or no notice or demand at all, which is really the effect of what is claimed here. If a remedy against them as partners is sought, let the plaintiff resort to the original contract.\nThe principle is recognised in Barclay v. Weaver, 19 State R. 396, that notice will sometimes be excused where it can be of no .use to the endorser, as where he is the real and sole debtor, and not at all a surety. But we cannot apply this principle here, because, not having the terms of the partnership, we cannot say that the endorser was the real debtor, and therefore cannot say that notice could be of no use to him.\nJudgment reversed and new trial awarded.\nKnox, J., dissented.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Colwell and Penrose, for plaintiff in error.",
+      "Henderson, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Foland versus Boyd.\nWhere copartners purchase goods, together and give a promissory note therefor with one of them as maker and the other as endorser, the latter is not liable on his endorsement unless he be duly notified of the dishonor of the note.\nError to the Common Pleas of Cumberland county.\nAction by W. A. Boyd against George Eoland, as endorser of a promissory note for $156.89, dated December 11, 1852, at four months, of which George W. Eoland was the maker. .\nThe facts as found by the jury were, that George, the father, and George W., his son, were copartners in trade, and as such purchased a lot of tobacco from the plaintiff, and that, on being asked for their note for the amount, the father refused, for some reason, to sign any note; but it was arranged that the son should give his note and the father endorse it. This was the note sued upon. When it became due it was dishonored by the maker, and no notice thereof was given to the endorser. The plaintiff relied on the circumstances under which the note was given as dispensing with the necessity of notice, and the Court below held that they did so, and this was the principal matter complained of.\nColwell and Penrose, for plaintiff in error.\nIt was argued that being sued as endorser, he was liable only on the principles that govern that relation. The contract is not as partners, but as maker and endorser of a promissory note: 5 Watts 454; 7 Harris 178.\nHenderson, contr\u00e1.\nThe original liability being as partners, notice of dishonor to one of them was not necessary: 3 Barr 399; 3 Watts 339; 7 Harris 396."
+  },
+  "file_name": "0476-01",
+  "first_page_order": 476,
+  "last_page_order": 477
+}

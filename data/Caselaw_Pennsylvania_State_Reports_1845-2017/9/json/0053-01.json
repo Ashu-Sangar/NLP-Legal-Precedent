@@ -1,0 +1,79 @@
+{
+  "id": 960605,
+  "name": "Green v. Hallowell",
+  "name_abbreviation": "Green v. Hallowell",
+  "decision_date": "1848-07-31",
+  "docket_number": "",
+  "first_page": "53",
+  "last_page": "54",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 118",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0118-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 166,
+    "char_count": 2327,
+    "ocr_confidence": 0.395,
+    "pagerank": {
+      "raw": 7.500188514851263e-08,
+      "percentile": 0.4462026550582679
+    },
+    "sha256": "df64b2835479c5656c38170d0644e2bf9644f8ecea3584ce39713a101a48842b",
+    "simhash": "1:62e060097948c53b",
+    "word_count": 422
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Green v. Hallowell."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe first error assigned is, to the court entering judgment against Robert B. Green, for want of a plea. It is true that in assumpsit against several, if some are served with process and appear and plead to issue, and some who are served malie default, the plaintiff takes judgment by default against the latter: Ridgely v. Dobson, 3 W. & S. 118. But in such case the judgment must be taken in accordance with the rules of court. Here a rule was obtained at September Term, 1846, to plead. On the 26th December, 1846, on motion judgment against Robert B. Green for the sum of $131.25, for want of a plea. The rule of court is, that \u201c a rule to make defence or plea at least twenty days before the next preceding term is of course, and on failure of the defendant so doing, the plaintiff may, in like manner, within twenty days, enter a second rule to make defence, or plead,\u201d &c. The plaintiff had no right to have a judgment until after his general rule.\nThe second error assigned is, to the court entering judgment against R. B. Green for $131.25, on motion, without the aid of a jury to assess the damages, it being an action of assumpsit.\nIn this case there had been a rule of defence under the compulsory arbitration act, and an award for plaintiff for $ 131.25. Tbe judgment was only entered for the amount of the award. In such a case we all think there was no error. When a cause is referred and the award appealed from, and the defendant declines to plead, a judgment may be taken, in accordance with the rules of court, by default, for the amount of the award, without a writ of inquiry of damages. \u2019 '\nThe judgment is reversed, and procedendo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for plaintiff in error.",
+      "Woods, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Green v. Hallowell.\nWhere the rules of court require two consecutive rules to plead to be taken to entitle the plaintiff to enter judgment by default, the plaintiff cannot take judgment by default on one rule.\nAfter appeal from an award, a judgment in default of a plea may be entered for the amount found by the award, without a writ of inquiry, &e.\nIn error from the Common Pleas of Union.\nJuly 21. Assumpsit against three. Award filed, finding a sum due by two. One of the defendants appealed. The judgment was entered against him under the circumstances stated in the opinion of this court.\nMiller, for plaintiff in error.\nWoods, contra.\nJuly 31."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 53,
+  "last_page_order": 54
+}

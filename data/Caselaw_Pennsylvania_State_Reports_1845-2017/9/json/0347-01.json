@@ -1,0 +1,103 @@
+{
+  "id": 960623,
+  "name": "Dayton v. Gunnison",
+  "name_abbreviation": "Dayton v. Gunnison",
+  "decision_date": "1848-10-07",
+  "docket_number": "",
+  "first_page": "347",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts, 349",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846028
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0349-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 525",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0525-01"
+      ]
+    },
+    {
+      "cite": "8 Johns. 249",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0249-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 264,
+    "char_count": 3415,
+    "ocr_confidence": 0.363,
+    "pagerank": {
+      "raw": 9.926657407125691e-08,
+      "percentile": 0.5362727711152272
+    },
+    "sha256": "d6684a210179c6cdf3d8427c67bd0538bdc9d513be3e2f6bc1ef9389f35e83db",
+    "simhash": "1:aa9a86359256a482",
+    "word_count": 597
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dayton v. Gunnison."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nThe contract averred in the second count of the plaintiff\u2019s declaration, being proved 'to the satisfaction of the jury, nothing can be clearer than his right to recover the full amount of the debt which the defendant undertook, but failed to discharge. It is totally unlike the cas\u00e9 of a surety, who, though bound to pay, cannot maintain an action against his -principal, until he has actually paid; for it is only then his principal is in default. But here, one for a valuable consideration received, undertook, absolutely, to pay a debt for which another is responsible. No time being expressly ascertained, within which the agreement is to be performed, the law allows to the promisor a reasonable time. But, regardless of his obligation, he permits nearly five years to roll round; at the end of which time the original debtor is sued, before he institutes an action upon the agreement of the defendant. For the breach of such an undertaking, the measure of damages is the amount the defendant undertook to answer, and to which the plaintiff remains subject. It is not necessary he should have paid; it is enough that he is compellable to pay. The undertaking of the promisor is violated by leaving him open to be called on; and the case affords no other standard than the whole sum for which he remains liable. The answer of the court to the fourth and fifth points was therefore correct.\nThere is nothing in the third assignment of error. The testimony of the witnesses named in it did not necessarily contradict Mrs. Fross. Were this otherwise, being at most but a mistake of fact, it is not imputable here as error.\nThe instruction that it was the duty of the jury to endeavour to reconcile apparently conflicting testimony, was so tritely right, it is strange counsel should have thought of complaining of it.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "JE. Babbitt, for plaintiffs in error,",
+      "Galbraith, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Dayton v. Gunnison.\nWhere a promise is made for a valuable consideration to pay a debt due by the promisee, a right of action accrues after a reasonable time for performance has elapsed; and it is immaterial to the right of recovery, whether the promisee has paid the debt or not.\nIn error from the Common Pleas of Erie.\nThe declaration and evidence, in this case, according to the verdict, was in substance this: \u2014 Fross, the plaintiff\u2019s intestate, was the owner of lands which he had mortgaged to secure his bond to Hart & French. Dayton, the defendant, was a creditor of Fross, and purchased the land. An agreement was then made between Dayton and Fross, by which their accounts were settled, and a bond given by the latter to the former, in settlement, and also in consideration that Dayton would pay the bond of Fross, held by Hart & French. Several years elapsed, and this bond was not paid, but suit was brought on it, and judgment recovered against Fross.\nChurch P. J., instructed the jury that the defendant had a reasonable time to fulfil his engagement; and on failure to comply, an action accrued, and the measure of damages was the debt and interest \u2014 it being unnecessary for the plaintiff to show either that he had paid the debt, or even, that suit had been brought against him.\nThe other points were immaterial.\nJE. Babbitt, for plaintiffs in error,\ncited Morrison v. Berkey, 7 S. & R. 238 ; Hassinger v. Solms, 5 Ib. 8; 2 Com. Con. 182; Powell v. Smith, 8 Johns. 249 ; Powell v. Elliott, 5 W. & S. 525.\nGalbraith, contra,\ncited 6 Watts, 349.\nOct. 7."
+  },
+  "file_name": "0347-01",
+  "first_page_order": 347,
+  "last_page_order": 348
+}

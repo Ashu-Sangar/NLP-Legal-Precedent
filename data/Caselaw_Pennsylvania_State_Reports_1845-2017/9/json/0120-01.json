@@ -1,0 +1,148 @@
+{
+  "id": 960682,
+  "name": "Alexander v. Leckey",
+  "name_abbreviation": "Alexander v. Leckey",
+  "decision_date": "1848-09-11",
+  "docket_number": "",
+  "first_page": "120",
+  "last_page": "123",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 W. 179",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Pick. 488",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058503
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/26/0496-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 275",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 112",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852653
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0112-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 276",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003878
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0246-01"
+      ]
+    },
+    {
+      "cite": "12 Mass. Rep. 127",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Wend. 302",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018898
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0302-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 361",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 434,
+    "char_count": 5911,
+    "ocr_confidence": 0.424,
+    "pagerank": {
+      "raw": 5.892943091201799e-08,
+      "percentile": 0.3689595416566757
+    },
+    "sha256": "e30cb2cd45ea91739798f22b1004b9d15d03d255c3cc33266700f6bca09f2040",
+    "simhash": "1:f2b64ff19ffd0edc",
+    "word_count": 1075
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alexander v. Leckey."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nI have carefully examined tbe opinion of the learned Judge of tbe District Court, returned with tbe record, and I think it a sound and correct view of tbe law as applicable to tbe case.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Mellon, for plaintiff in error,",
+      "Washington, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Alexander v. Leckey.\nAssumpsit against a sheriff for the surplus of the proceeds of a sale under execution is barred by the statute of limitations.\nIn error from the District Court of Allegheny.\nAssumpsit by a defendant in an execution, to recover the surplus which remained from a sale by defendant as sheriff under a fieri facias. Plea, the statute of limitations. The plaintiff proved his case, and there was no evidence of notice having been given him by the sheriff that there was a surplus. Lowrie, J., directed a verdict for plaintiff, reserving the question as to the effect of the plea; and subsequently gave judgment for defendant non obstante, &c., for the following reasons:\u2014\n\u201cIt is true that the case of Cockram v. Welbye, tried in 1677, and variously reported in 1 Freem. 236, 1 Mod. 246, 2 Ib. 212, and 2 Show. 79, decides that in such a case the statute is no bar; and the case of Church v. Clark, 1 Root Rep. 303, contains an assertion in the same way; and the rule is cited with approbation by Mr. Justice Kennedy in the case of Williams v. Freeman, 7 W. & S. 361.\n\u201c But the point must be considered as still undecided by our Supreme Court; and we can hardly regard the case of Cockram v. Welbye as of conclusive authority, when we bear in mind that it was decided at a time when the statute was very differently estimated from what it now is, and when the courts in England were prone to treat the general rules created by statute with no undue reverence.\n\u201cThe decision is entitled to respect for its antiquity, and for the learning of the judges who pronounced it; but we.are not estopped from inquiring how far it accords in principle with more modern rules. And we must deny its authority altogether, if we find it to be opposed to the ordinary principles of construction of the statute of limitations, and leave it to the usual fate of cases, founded, not upon principle or general rules, but upon some fanciful notions of exceptional justice.\n\u201c The case of Cockram v. Welbye is so variously reported, that it is difficult to ascertain the form of action, or the ground of the decision. But certainly the principal ground of the decision is, that the claim, though not matter of record, is yet founded upon it, and has a strong relation to it; and this is, I think, a false foundation. Mr. Justice Scroggs, who differed from the rest of the court, thought that the receipt of the money raised a contract by implication in favour of the plaintiff, and that the action was properly founded upon this contract, and was of course barred. And upon this principle was decided, very shortly afterwards, the case of Oliver v. Thomas, 3 Lev. 367, for attorney\u2019s fees, they not being matter of record as against his client.\n\u201cNow, it is well settled, that actions on the case for negligence of duty, actions against sheriffs for insufficient and false returns, and actions by clients against attorneys, are all equally within the bar of the statute: Stafford v. Richardson, 15 Wend. 302; Rice v. Hosmer, 12 Mass. Rep. 127; C\u00e6sar v. Bradford, 13 Ib. 169; Miller v. Adams, 16 Ib. 456; Mather v. Green, 17 Ib. 60; Howell v. Young, 5 B. & C. 259; Brown v. Howard, 2 Br. & B. 73; Whitehead v. Howard, Ib. 372; Short v. McCarthy, 3B. & Al. 626; 4 Harr. & McH. 419. It is also well settled, that where money is collected for another on a bond or judgment, the original security is, pro tanto, extinguished, and an implied contract is raised in favour of the party entitled to the money; which contract is within the statute: Penniman v. Vinton, 4 Mass. Rep. 276; Gemberlin v. Myers, 2 Yeat. 341; Finney v. Cochran, 1 W. & S. 112.\n\u201cI think, therefore, that the case of Cockram v. Welbye has no foundation of correct principle, and that it cannot now be recognised as law; and that a sheriff collecting money on executions is within the protection of the statute of limitations.\n\" It is argued that this claim is excluded from the statute, being a trust. If this were a technical and continuing trust, falling within the peculiar jurisdiction of chancery, this would be true. But being always remediable at common law, it is otherwise: Lyon v. Marclay, 1 Watts, 275; 1 W & S. 112.\n\u201cI am unable to see why a sheriff, or any other collecting officer, should not be protected by the statute. He is as liable to lose his receipts as other people, and no more bound to take care of them. The statute has not excepted him from its protection. Why should the courts except him ? Is he, and are his representatives after his death, to be for ever liable to actions for moneys collected by him ? I think not.\n\u2018 \u2018 It is usually true, that the sheriff is not liable to an action for money collected until after demand made; but the statute runs from the time when the plaintiff might have made the demand: 15 Wend. 302; Wenman v. Mohawk Insurance Company, 13 Ib. 267; Little v. Blunt, 9 Pick. 488; Newman v. Kettelle, 13 Ib. 418; Norton v. Ellam, 2 Mees & W. 461.\n\u201c It is not necessary to decide whether, in an action upon the bond or recognisance of the sheriff, this plaintiff could be admitted to come in and assign, as a breach, the non-payment of a debt barred by the statute; though I think he could not, or rather, if he should do so, the plaintiff might meet him by setting up the bar of the statute. If the plaintiff could recover in this way, I should hesitate before I would say that his claim is barred simply because he has adopted the remedy of assumpsit.\u201d\nMellon, for plaintiff in error,\ncited 4 W. 179, 334; 7 W. & S. 361; 2 Show. 79.\nWashington, contra,\ncited 1 Mod. 245; 2 Ib. 212; 2 B. & B. 73; 2 C. & P. 228 ; 15 Wend. 302; 12 Mass. Rep. 127; 16 Ib. 456; 16 S. & R. 379.\nSept. 11."
+  },
+  "file_name": "0120-01",
+  "first_page_order": 120,
+  "last_page_order": 123
+}

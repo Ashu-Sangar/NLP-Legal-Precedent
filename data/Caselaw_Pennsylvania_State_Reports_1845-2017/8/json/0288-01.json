@@ -1,0 +1,73 @@
+{
+  "id": 959558,
+  "name": "Keller's Appeal",
+  "name_abbreviation": "Keller's Appeal",
+  "decision_date": "1848-06-20",
+  "docket_number": "",
+  "first_page": "288",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 W. & S. 108",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 373,
+    "char_count": 5037,
+    "ocr_confidence": 0.398,
+    "pagerank": {
+      "raw": 4.6317942133999295e-07,
+      "percentile": 0.9268059643631733
+    },
+    "sha256": "53a3000dc0e1ae87ede6fda7534137c998ee768a8aa0142411ff0167d7df0381",
+    "simhash": "1:7073a6a1508f05b1",
+    "word_count": 859
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keller\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe rule of accountability, as applicable to executors, administrators, guardians, and other trustees, is one of very great importance : the precise limitations of which are not, and perhaps cannot be definitely traced or defined, in their application to particular cases. Much must be left to the discretion of the courts, who will duly estimate the lights and shadows of < cases as they arise, and with careful hand adjust acknowledged principles to the case. It is peculiarly a branch of equity jurisprudence, where the conscience of the chancellor, enlightened and controlled by adjudicated precedents, is the umpire. This I may say, however, that a court of chancery always deals with great tenderness towards a trustee acting in good faith.\nA striking lineament in the case under consideration is, that the administrator did not give a new and original credit to Martin Miley. He found the bond among the decedent\u2019s papers, and it had been due something over four months before decedent\u2019s death. Saxton died in January, 1842, and Miley failed in the fall of 1843, the precise date not stated on the paper-book. During the interval, no change of circumstances, or new posture of the obligor\u2019s affairs occurred, to put the administrator on greater vigilance than had been observed by the deceased in his lifetime. The obligor, during the year, made considerable payments on the bond, amounting to $291, nearly one-half. Miley\u2019s credit continued perfectly good until his failure, which produced general surprise in the neighbourhood. Every witness called testifies to this fact. And they all say they would have trusted him for a larger sum up till the time of his failure; and he was indebted to four of them for much larger sums.\nIt is not pretended that the administrator acted otherwise than with honesty of purpose. The worst that can be said, is, that it was an error in judgment on the part of the accountant; and that he had not a keener vision into the vicissitudes of fortune, than all the rest of the people in his neighbourhood. A distinction is taken in our books between cases where the administrator has money in his hands, or property of the estate, and loans or sells it; and cases where a security comes into his hands for collection. In the former case, a more rigid accountability is created; because he parts with that which is already in his hands, and secure to the estate; and ought, therefore, to look more closely into the circumstances of those on whose credit he parts with it.\nThe administrator in this case is entitled to the benefit of this distinction, because he only continued a confidence already reposed in the obligor, by the decedent. A slumbering credulity, or careless indifference, on the part of a trustee, the law will not tolerate. He must do as a prudent man, under like circumstances, might do in his own case. The most stringent of our own cases require that the administrator should be guilty of gross negligence in order to charge him: 9 W. & S. 108. -We cannot say that the administrator in this case was guilty of gross negligence.\n\u2022 It must be borne in mind that the office of administrator, executor, and guardian, is one of the highest and most absolute necessity in society; and in a great majority of cases is undertaken more out of kindness and duty, than with any hope or expectation of. emolument, and is attended in its faithful discharge with trouble, anxiety, and hazard.\nIn the case of Knight v. Earl of Plymouth, 3 Atk. 480, Lord Hardwick observes: \u201c If there is nothing wilful in the conduct of the trustee, no mala fides, the court will always favour him. To subject him to losses which he could not foresee, would be manifest hardship, and would be deterring every one from accepting such an office.\u201d We think the administrator in this case was in the exercise of ordinary care and prudence, and was not guilty of gross negligence, and therefore he ought not to be charged with the $339.56, the balance of Martin Miley\u2019s note, which he prayed credit for' in his account; and that the decree of the Orphans\u2019 Court, striking out that credit from his account, was error.\nIt is, therefore, so far reversed; and it is ordered that the court below reform the account accordingly.\nDecree reversed; account to be reformed as above.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Biddle, for appellant.",
+      "Watts, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Keller\u2019s Appeal.\nAdministrator not chargeable for not immediately suing a note held by decedent, where the drawer continued in good credit.\nAppeal from the Orphans\u2019 Court of Cumberland county.\nJune 5. On a settlement of an administration account, Keller claimed credit for the loss on a note held by decedent. The note matured September, 1842. Decedent died January 3d of that year. In 1842 and 1843 payments on account were made, which reduced the note one-half. Suit was commenced in October, 1843, after an assignment for creditors by the drawer.\nThe appellant proved that the drawer was in good credit up to the time of his assignment \u2014 but the court refused to allow the credit.\nBiddle, for appellant.\nWatts, contr\u00e1.\nJune 20."
+  },
+  "file_name": "0288-01",
+  "first_page_order": 288,
+  "last_page_order": 290
+}

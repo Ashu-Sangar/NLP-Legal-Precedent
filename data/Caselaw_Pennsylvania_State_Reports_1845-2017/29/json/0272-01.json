@@ -1,0 +1,110 @@
+{
+  "id": 982806,
+  "name": "Williams versus Bentley",
+  "name_abbreviation": "Williams v. Bentley",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "272",
+  "last_page": "277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 272"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Watts 101",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0101-01"
+      ]
+    },
+    {
+      "cite": "9 W. & S. 197",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        12169304
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/9/0197-01"
+      ]
+    },
+    {
+      "cite": "2 Brock. 186",
+      "category": "reporters:federal",
+      "reporter": "Brock.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 R. 37",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 555",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 677,
+    "char_count": 12729,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 5.8135822472443275e-08,
+      "percentile": 0.3619377037039611
+    },
+    "sha256": "5e925e473e8afd57579d59becd2cf177a9e3bc7aab4f82585c7874191acdf753",
+    "simhash": "1:64986d961cd9f6c7",
+    "word_count": 2250
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Williams versus Bentley."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nIt was error for the Court of Common Pleas to withdraw this case from the jury and to direct a verdict for the defendants.\nThe case presented two questions, and both were questions of fact to be determined by the jury. The first question related to the making of the contract, and the second to its performance by the plaintiff. If the contract was fairly and honestly made, without fraud, misrepresentation, or undue influence on the part of the plaintiff, and the covenants by him fairly performed or offered to be performed, substantially in accordance with the terms expressed by the contract, the plaintiff was entitled to a verdict, otherwise -the verdict should have been for the defendants. We do not think it was necessary for the plaintiff to prove that he had paid the $100 note in full before this suit was brought. If he had paid part of the note to Bentley, and Bentley had parted with the note before the remainder became due, it matters not whether it was wholly paid or not before the action was commenced, or even before the trial; for as to Bentley, it must be considered as a payment of the $100 mentioned in' the contract. It is also pretty clear from the evidence that the debts due from Bentley, mentioned in the contract, were paid by Williams in money furnished by him to Bentley for that purpose. There is, however, contradictory evidence as to the manner in which Bentley was supported at the house of Williams.\nWhether there was a compliance with the contract stipulation in this respect, could alone be determined by the jury.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "\u2022Marshall and Church, for plaintiff in error.",
+      "Thompson and Walker, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Williams versus Bentley.\nIn an ejectment to enforce specific performance of a contract for the sale of land, in which there are controverted facts, it is error for the court to withdraw the case from the jury.\nWhether there was fraud and misrepresentation in the concoction of the contract, or performance, or an offer to perform its terms, are questions to be decided by the jury, where any evidence has been given on the points.\nWhere a vendee under articles gave his note for the purchase-money, and the vendor parted with it, it was not necessary for the vendee to prove in an action of ejectment, brought by him to enforce the agreement, that the note was actually paid\u2019.\nError to the Court of Common Pleas of Erie county.\nThis was an action of ejectment by W. B. Williams against William Bentley and others, to recover possession of 100 acres of land in Yenango township, in said county.\nWilliam Bentley, on the 80th day of December, 1850, was the equitable owner of the land in dispute, by virtue of a purchase from the owners through their agent, Judah C. Spencer, by articles of agreement, upon which Bentley had paid the purchase-money, except about $60. Bentley, on the 30th day of December, 1850, by writing under his hand and seal, sold, assigned, transferred, and set over to W. B. Williams, his heirs and assigns for ever, all his right, title, and interest, of, in, and to the land, describing the same by bounds and abuttals, and thereby authorized and directed Spencer to execute a deed for the .land to Williams; and Williams, in consideration of the conveyance, agreed to pay Spencer the balance of the unpaid purchase-money, and to pay certain debts which Bentley then owed, to pay Bentley $100, and also to support and maintain Bentley during his life at the house of Williams. Williams paid the debts of Bentley, or at least there was nothing appeared on the trial that Bentley ever paid any of them.\nBentley lived in the family of Williams until April or May, 1851. Williams rented the farm to one Baird, in the spring of 1851. One Shadduck, who was the tenant of Bentley at the time of the sale, continued to live in the house on the premises, and refused to give up the house to Baird, and Baird threw up his lease. In the summer of 1851, Bentley married Rebecca, one of the above-named defendants. Shadduck moved off, and Bentley, with his wife and her son, W. C. Pratt (the other defendant), moved upon the premises, refusing to live any longer with Williams. Bentley, on the 16th day of June, 1851, voluntarily, without being called upon or requested by Spencer, paid Spencer $60, the balance of the purchase-money. Spencer, learning that Bentley had previously conveyed the land to Williams, refused to deliver Bentley the deed.\nIn August, 1851, Williams offered to pay Spencer the balance of the purchase-money due on the land. S. declined receiving it until the dispute between Williams and Bentley was settled.\nWilliams, on the 30th day of August, 1852, brought this action of ejectment against William Bentley and W. C. Pratt. The death of William Bentley was suggested October 3, 1853, and the name of Rebecca Bentley, his widow and devisee, was substituted.\nPlaintiff claimed that he had complied with his part of the contract with William Bentley, and was entitled to specific performance.\nThe defendant, Rebecca Bentley, claimed title to the land in controversy under the will of William Bentley, dated November 10,1852, duly proved. The following is the contract under which plaintiff claimed:\u2014\n\u201c This agreement, made on the 30th day of December, 1850, between William Bentley, of Venango township, county of Erie, and state of Pennsylvania, of the first part, and Wareham B. Williams, of the borough of Wattsburg, county and state aforesaid, of the second part, witnesseth, that the said party of the first part, does hereby sell, assign, transfer, and set over unto the said party of the second part, and to his heirs and assigns for ever, all his right, title, and interest, of, in, and to, a certain piece, parcel, or farm of land, situate, lying, and being in the town of Venango, in the county of Erie and state aforesaid, and lately occupied by the said party of the first part as his farm, and bounded as follows, to wit: (here the description follows) containing 100 acres and allowance, more particularly described in a certain article of agreement made and executed by J. C. Spencer (the agent for said land) to the said party of the first part. And the said party of the first part does hereby authorize the said J. 0. Spencer to execute a deed to the said W. B. Williams for the said land.\n\u201c The said Wareham B. Williams, the party of the second part, does hereby, as a consideration for said premises, agree to pay the debts or claims against the said party of the first part to the following named persons, to the following amounts, if they should amount to so much, to wit: H. Janes, $5; Harper, Ross & Gould, $2; Haynes, $1; J. Robinson, $1; Prentiss Brown, $3: in all $12. Also, the party of the second part is bound and agrees to pay not far from $60 to the former owners of said premises, it being as near as may be the amount yet due on said premises. And further, the said party of the second part further agrees tq pay the said party of the first part $100, the receipt of which is hereby acknowledged. And the said party of the second part further binds himself to support and maintain the said party of the first part at his own- house, to wit, at the house of the said party of the second part, in a good and comfortable manner, and to provide him with all necessaries suitable with his condition in life, and to provide him with all necessary attention during the term of his natural life, and to assist him to visit his friends. And the party of the first part shall have liberty to go and come when he pleases. And the said' parties do severally bind themselves each to the other, their heirs 'and assigns for ever, to perform each and every of the conditions on their part to be performed.\u201d\nAt the time of the contract, Bentley was about seventy-five years old \u2014 feeble, and of intemperate habits; and at the time of its execution, under the influence of liquor. It was not shown that the debts were paid in full, nor that the $100 was paid to Bentley, except by the recital in the contract. It appeared that the contract of maintenance was defectively performed.\nOn the trial in the court below, the defendants contended that the contract was obtained by fraud and misrepresentation on the part of the plaintiff, and that he had not shown such performance of its stipulations as entitled him to a decree for specific performance.\nThe court below (Galbraith, P. J.) instructed the jury, inter alia, as follows:\u2014\n\u201cIn this case there was little or no question upon the credibility of witnesses, or conflict of testimony. It rests entirely upon a chain of evidence on both sides, not materially in conflict or controverted, upon which we are compelled, as we believe, acting as a court of chancery, to withhold a decree for specific execution on the part of the plaintiff, and to leave the parties to their remedy at law upon the contract, and therefore direct a verdict to be entered for the defendant. We have come to this conclusion out of no disrespect to the jury, but from a sense of duty under what we regard as the plain direction of the Supreme Court.\u201d\nA verdict and judgment were accordingly rendered in favour of the defendants.\nWhereupon the plaintiff took this writ and assigned the foregoing charge, with the answers to the various points presented by him, for error.\n\u2022Marshall and Church, for plaintiff in error.\nThe Supreme Court in this case, Williams v. Bentley, 3 Casey 294, decided that the plaintiff must show that he had paid, or was ready to pay, to enable him to recover, or to enforce specific performance. The material part of the testimony on this point rested in parol, and its weight and the credibility of the witnesses was for the jury, and not for the court: Wilson v. Clark, 1 W. & S. 555; Bodine v. Glading, 9 Harris 53; Dalzell v. Crawford, 1 Par. 42; Twells v. Costen, Id. 381; Farley v. Stokes, Id. 431; Bright. Eq. 187. The maintenance of the vendor was a continuing consideration, and the whole facts show that possession was to be delivered before entire performance: Bright. Eq. 189-90; McCrelish v. Churchman, 4 R. 37; Garnett v. Macon, 2 Brock. 186. And taking possession, as here, must be presumed to have been in pursuance of the contract, and the subsequent entry was an ouster; and a possession so acquired must be restored irrespective of the rights of the parties: Bossler v. Neisley, 2 S. & R. 355; Harris v. Bell, 10 Id. 42 ; Heft v. McGill, 3 Barr 263 ; Gregg v. Patterson, 9 W. & S. 197; Wykoff v. Wykoff, 3 Id. 484; Davidson v. Little, 10 Harris 245; Sug. on Vend. 203; 7 Ves. 35; 1 Ves., Sen. 279; 6 John. Ch. R. 224; Stor. Eq. \u00a7 742; Rex v. Wilkes, 4 Burr. 2539 ; Sto. Eq. \u00a7 751; 9 Ves. 608. _\n_ On the question of performance by plaintiff, the court below overlooked the doctrine of equity, that where circumstances of a reasonable nature or the acts of the vendor himself have contributed to' prevent a strict and full compliance, or if the party comes recenti facto to ask a performance, the suit will be treated with indulgence and favour by the court: Jeremy on Eq. Jurisp. b. 3, pt. 2, ch. 4, s. 1, p. 461, 2; Story\u2019s Equity 776, 779. If there was a spark of evidence it should have been submitted to the jury: Inman v. Kutz, 10 Watts 101; Fitzwater v. Stout, 4 Harris 22. Nor is it sufficient to avoid a contract in equity, to show weakness or indiscretion in the party against whom it is sought to be enforced, if the agreement is reasonable: Willis v. Jarnigan, 2 Atk. 251.\nThompson and Walker, for defendants in error.\nThe cases cited by the court below of Moore v. Small, 7 Harris 468, and Greenlee v. Greenlee, 10 Harris 236, fully sustain the ruling in this ease. In Browley v. Fitzplace, Freem. Chan. Rep. 245, it is laid down in these words: \u201c This court will not execute all agreements in specie, but will consider upon the circumstances relating to the agreement, the reasonableness and equitableness of executing the same: and will in many instances leave the party to his remedy at law, to recover damages only for not performing his agreement.\u201d * *\u25a0 \u201cIt may,\u201d says Lord Harbwickb in Jasen v. Chesterfield, 2 Ves. 155, 156, speaking of fraud, \u201c be presumed from the circumstances and condition of the parties contracting, and this goes further than the rule of law; which is, that it must be proved, not presumed; but it is wisely established in this court in order to prevent taking surreptitious advantage of the weakness or necessity of another, which knowingly to do is equally against conscience as to take advantage of his ignorance; a person is equally unable to judge for himself in one case or another.\u201d Plaintiff was not entitled to possession until he possessed himself of the legal title: Williams v. Bentley, 3 Casey 300."
+  },
+  "file_name": "0272-01",
+  "first_page_order": 272,
+  "last_page_order": 277
+}

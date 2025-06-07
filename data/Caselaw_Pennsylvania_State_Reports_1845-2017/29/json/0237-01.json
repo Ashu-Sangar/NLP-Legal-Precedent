@@ -1,0 +1,169 @@
+{
+  "id": 982819,
+  "name": "Loomis's Appeal",
+  "name_abbreviation": "Loomis's Appeal",
+  "decision_date": "1857-11-03",
+  "docket_number": "",
+  "first_page": "237",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 237"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. & S. 208",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852517
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0208-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 397",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477989
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0397-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. 94",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 228",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682171
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/46/0228-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 53",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840127
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0053-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 118",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480080
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0118-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 207",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 B. 265",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 W. & S. 13",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        12168761
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/9/0013-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 397",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477989
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0397-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 443,
+    "char_count": 7739,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 1.43411191895653e-07,
+      "percentile": 0.6518773874461407
+    },
+    "sha256": "91174ea07903f46c4c1ad6b65e59a31331c5d0971786adb1e2fbc2fdd8795031",
+    "simhash": "1:55ac0d0439dc0682",
+    "word_count": 1395
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Loomis\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Knox, J.\nWe agree with the auditor and the Orphans\u2019 Court, that there is no necessity for selling the real estate of Dyer Loomis, deceased.\nThe testator died on the 16th of January, 1842; and as no steps have been taken by the creditors to charge the real estate in the hands of the devisees with the payment of the decedent\u2019s debts, it is no longer liable to the lien of such debts.\nThat the executor has paid the debts, or a part of them, out of his own money, in no degree extends the lien upon the real estate, or impairs the right of the devisees to hold it discharged of the lien through lapse of time: McCurdy\u2019s Appeal, 5 W. & S. 397.\nThe legacies have never been paid by the executor, nor did it appear that they had ever been demanded. When they are demanded, and when the devisees refuse permission to the executor to apply the rents, issues, and profits in his hands, arising from the real estate to their payment, there may be some occasion for the real estate, to be sold; but at present there is none. And the same reason applies to the compensation of the executor, and the expenses of administration; for the use of the real estate since Hiram\u2019s majority, is clearly sufficient to pay legacies, expenses, and compensation.\nUnder the evidence, wre cannot say that the Orphans\u2019 Court erred in decreeing that the executor should pay the costs.\nDecree affirmed at the appellant\u2019s cost.",
+        "type": "majority",
+        "author": "by Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Babbitt, for appellant,",
+      "Thompson and Grant, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Loomis\u2019s Appeal.\nTo perpetuate the statutory lien of a simple contract debt, against the real estate of a decedent, since the Act of 24th February, 1834, some steps must be taken to charge it within the time limited by law. Lying by without action against the devisees for twelve years discharges the estate from the lien.\nThe payment of debts by an executor, out of his own money, does not extend their lien upon the real estate, or impair the right of the devisees to hold it discharged therefrom.\nWhen the will directs that debts and funeral expenses be paid by the executor out of the first money that shall come into his hands from the estate, a part of it being land, and the executor has himself occupied and used the same, the funds thus arising are assets in his hands for the payment of debts, unless the devisees specially refuse their permission to such application.\nWhen an executor, with the rents and profits of the real estate in his hands sufficient to pay the debts, applies for an order of sale, and makes sale, and the court refuse its confirmation and set it aside, it is not error to make the executor pay the costs.\nAppeal from the decree of the Orphans\u2019 Court of Erie county.\nDyer Loomis, Sr., died January 23, 1842. By his will he directed that \u201c all my debts and funeral expenses be paid by my executor from the first money that shall come into his hands from my estate\u201d * * * * \u201c my executor to have the use and occupancy of my estate until Hiram, my youngest son, attains the age of twenty-one years.\u201d He then bequeathed some specific legacies, the' amount of which now payable is $300. Hiram became of age May 14, 1853. The will made Dyer Loomis, Jr., executor. He was in possession of the property, real and personal, at the time of his father\u2019s decease, and so remains to this time. The evidence showed the rents and profits of the farm to be $114 per year, after the payment of taxes and repairs. Testator was indebted at the time of his decease, inter alia, to the United States Bank by note about $400. On the 6th July, 1842, the executor confessed a judgment to the bank for the amount of the note, which was revived amicably against the executor May 1, 1845, and October 5, 1848. The heirs and devisees were never made parties to the suit or judgment. April 31, 1854, more than twelve years from his testator\u2019s death, the executor exhibited an account to the Orphans\u2019 Court, showing a balance due to himself and others of $1762.70, and no personal property, and asked for an order to sell the real estate. This amount was made up of the debt, interest, and costs of the bank judgment, legacies, and advancements made by the executor on account of the estate upon debts which had not been made liens against the real estate. The sale was made and its confirmation excepted to, and a motion made to strike off the order, on the ground that the debt, except the legacies and expenses of administration, were not liens upon the estate: the heirs and devisees not having been made parties to the suit within ten years; and that as to advancements, the executor was in no better position than the creditor would be; and- that the rents of the estate accrued in the testator\u2019s hands were now more than sufficient to pay the legacies and expenses of administration, no other debts being liens. The whole matter -was referred to George H. Cutler, Esq., auditor, who reported that \u201c at the time the order of sale was granted, the only liens upon the real estate were the expenses of administration and the legacies.\u201d Exceptants claimed that the accrued rents in the executor\u2019s hands should be applied to the payment of debts and legacies. The executor objected, because he alleged \u201c that the money belonged to the heirs, and could not be so applied.\u201d \u201cThis,\u201d says the auditor, \u201cwould be correct in case of an administrator, because, on the death of an intestate, lands immediately descend to the heirs. Although this question is by no means free from difficulty, the auditor, upon mature consideration, is of the opinion with counsel for exceptants, and that under the will, in this case, this fund can be so applied. The fourth clause in the will directs the legacies to be paid from his estate generally; and by its fifth clause he directs that after the payment of the legacies, the remainder of his estate, real and personal, should be equally divided among all his twelve children. Therefore the land devised was not vested in possession in the devisees at the time the order of sale was granted.\u201d * * \u201c It also appears that the land sold amounts in value to nearly ten times the amount of all the liens against the estate. It is said in Davis\u2019s Appeal, 2 Harris 371, that the court ought to decree the sale of so much land only as is necessary to. pay the debts, for the conversion of real estate is not favoured by the law; and the Act of 20th February, 1834, in case of deficiency of personal estate, only authorizes the sale of so much of the real estate as may be necessary to supply the deficiency. It is also the opinion of the auditor that the Orphans\u2019 Court has no power to grant an order for the sale of real estate for the payment of legacies, upon the petition of the executor alone, when there has been no demand of payment by the legatees.\u201d And further recommended that the sale should not be confirmed.\nTo this report the executor filed exceptions.\nThe court confirmed the report of the auditor, and decreed that the executor, Dyer Loomis, Jr., should pay the costs; from which decree the executor appealed, and assigned the same for error\nBabbitt, for appellant,\nreferred to 2 Jarman on Wills 509, note 1, 512, 513; 2 Story\u2019s Eq. Jur. \u00a7 1246; 2 John. Ch. 614, 615, Lupton v. Lupton; Act of 18th April, 1853, Pamph. L. p. 503; Cobaugh\u2019s Appeal, 12 Harris 143-4-5.\nNovember 3, 1857,\nThompson and Grant, for appellee,\nreferred to Acts of 24th February, 1834; Bemus v. Philips, 9 W. & S. 13; Moorhead v. McKinney, 9 B. 265; Duncan v. Clark, 7 Watts 207; Bailey v. Bowman, 6 W. & S. 118; Penn v. Hamilton, 2 Watts 53; Maus v. Hummel, 1 Jones 228 ; Trevor v. Ellenberger, 2 Pa. 94; McCurdy\u2019s Appeal, 5 W. & S. 397; Act of 4th April, 1794, \u00a7 4; Clauser\u2019s Estate, 1 W. & S. 208; Cobaugh\u2019s Appeal, 12 Harris 143; Act of 18th April, 1853, \u00a7 1-2, Pamph. L. 503."
+  },
+  "file_name": "0237-01",
+  "first_page_order": 237,
+  "last_page_order": 239
+}

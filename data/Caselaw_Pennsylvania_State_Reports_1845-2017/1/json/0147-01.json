@@ -1,0 +1,397 @@
+{
+  "id": 949918,
+  "name": "John King v. John L. Cartee",
+  "name_abbreviation": "King v. Cartee",
+  "decision_date": "1845-07",
+  "docket_number": "",
+  "first_page": "147",
+  "last_page": "154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts & Serg. 20",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856218
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0020-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 13",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1851011
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0013-01"
+      ]
+    },
+    {
+      "cite": "3 Watts & Serg. 494",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854683
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0494-01"
+      ]
+    },
+    {
+      "cite": "7 Watts & Serg. 137",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481788
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0137-01"
+      ]
+    },
+    {
+      "cite": "6 Serg. & Rawle, 63",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1805914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/6/0063-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 87",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0087-01"
+      ]
+    },
+    {
+      "cite": "6 Watts & Serg. 505",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 85",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842700
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0085-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 86",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846783
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0086-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 548",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844029
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0548-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 294",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846045
+      ],
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0294-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 270",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842713
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "367, 424"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0270-01"
+      ]
+    },
+    {
+      "cite": "17 Serg. & Rawle, 327",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1818196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/17/0327-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle, 223",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0223-01"
+      ]
+    },
+    {
+      "cite": "7 Serg. & Rawle, 269",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1808205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/7/0269-01"
+      ]
+    },
+    {
+      "cite": "13 Serg. & Rawle, 213",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1813941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/13/0213-01"
+      ]
+    },
+    {
+      "cite": "6 Serg. & Rawle, 296",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1805891
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/6/0296-01"
+      ]
+    },
+    {
+      "cite": "2 Serg. & Rawle, 156",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Binn. 40",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788946
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0040-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates, 268",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6773219
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0267-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 490",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840131
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0490-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. 296",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132768
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0296-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 214",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787880
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0214-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates, 546",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812747
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0546-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 308",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844092
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0308-01"
+      ]
+    },
+    {
+      "cite": "2 Watts & Serg. 135",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853554
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0135-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 87",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/5/0087-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 670,
+    "char_count": 18430,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 1.310461560038441e-07,
+      "percentile": 0.6242551206653361
+    },
+    "sha256": "f565f7ae4ed62d3ba67b3acd34a68d2f5a8e324adac5f932857df96eb07a0ad7",
+    "simhash": "1:bba764a523c031d1",
+    "word_count": 3232
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John King v. John L. Cartee."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nSergeant, J.\nWe are of opinion that there is no ground for the objection to the validity of the judgment of revival against Cartee and Taggart, entered on the 27th December, 1839, by A. V. Parsons, attorney for plaintiff, and M. Bliss, attorney for defendants, as Mr, Bliss was an attorney of the court, and undertook to appear\u2019 and confess judgment for both defendants.\nBut we are of opinion that the sale of land in Potter county by the sheriff of Lycoming county, in 1840, after Potter county had been organized into a separate county, by virtue of the act of 8th April, 1833, on process issued out of the Court of Common Pleas of Lycoming county, though on a judgment remaining in Lycoming county, not transferred by any of the acts of Assembly on lire subject, was irregular and void: and that the mode of proceeding to effect the purpose, was by a testatum ft. fa. directed to the sheriff of Potter county, who alone had authority to levy an execution on lands in Potter county, as was done in a similar instance in West's Appeal, 5 Watts, 87. For this reason the judgment is affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "White, for plaintiff in error.",
+      "Knox and Maynard, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "John King v. John L. Cartee.\nThe confession of a revival of a judgment against the defendants in the same, by an attorney of the court, by virtue of a written authority given him by one of the defendants, \u201c to enter his appearance for the DEEEsrDAirTs, and to consent to the revival of the judg. ment, by an amicable scire facias, for the amount of principal and interest,\u201d is valid.\nBy the act of the 26th of March, 1804, Potter county was annexed to Lycoming county for judicial purposes, but was subsequently annexed to McKean county by the act of the 27th of March, 1824, which last act was not to take effect until September 1, 1826.\nDuring the time Potter was annexed to Lycoming county, a judgment was entered in the Court of Common Pleas of the latter, to bind lands in the former county. On the 8th of April, 1833, an act of Assembly was passed constituting Potter a separate county for all purposes. To February term, 1840, an amicable scire facias on said judgment was entered in the Court of Common Pleas of Lycoming county, and a judgment of re. vival confessed thereon, on which writs of fi. fa. and ven. ex. were issued, directed to the sheriff of Lycoming county, under which he levied upon and sold the lands lying in Potter county, that had been bound by the original judgment. 'Held, that the sale was irregular and void, and that the sheriff\u2019s vendee obtained no title.\nError to the Common Pleas of Potter county.\n- This was an action of ejectment brought by John King, plaintiff in error, who was plaintiff below, against John L. Cartee, defendant in error, and defendant below, for one acre and three-fifths of land, situate in Coudersport, in said county. The writ was issued on the 7th of March, 1843, and returned, served. On the trial of the cause in the court below, the plaintiff having given in evidence the writ of eject, ment and return, offered in evidence the exemplification of a judgment from the record of the Court of Common Pleas of Lycoming county, at the suit of John Keating against John L. Cartee and Leonard Taggart, entered originally of November term, 1824, against John L. Cartee, Joshua Jackson, and Leonard Taggart, for the sum of $100, upon a bond and warrant of attorney, entered November 20, 1824. A sci. fa. issued to revive this judgment on the 11th of March, 1829, and on the 7th of May, 1829, judgment was revived on motion of plaintiff\u2019s attorney, against Cartee and Taggart, two of defendants. It was revived again by sci. fa. issued to September term, 1833, on the 5th of September, 1833, and again on the 11th of December, 1837, by sci. fa. to December term, 1837. These several writs of scire facias were issued to the sheriff of Lycoming county, and served by him personally on the defendants, residing in the county of Potter, which, in 1834, at the time of the entry of the original judgment, was annexed to Lycoming county for judicial purposes, but was subsequently annexed to McKean, by act of 7th of March, 1824, to take effect from the 1st of September, 1826. The judgment was again revived by amicable .scire facias on the 27th of December, 1839, by stipulation filed, executed by A. V. Parsons, Esq., as attorney of plaintiff, and H. M. Bliss, Esq., as attorney of defendants. Accompanying the stipulation there was also filed\u2019a warrant of attorney from Taggart, one of the defendants, to Bliss, dated 24th December, 1829. The warrant of attorney and stipulation are in these words:\nH. M. Bliss, Esq.\nSir, \u2014 You are requested to enter an appearance in the above case for the defendants, and consent to the revival of the above judgment, by an amicable sci. fa. for the amount of the principal and interest.\nLEONARD TAGGART.\nn j . nA.i n loon Couderspori, 24m Dec., 1839.\nIt is agreed by the counsel of the plaintiff and defendants, that an amicable sci. fa. be entered in this case, and that the prothonotary en. ter judgment for the amount of debt, and the legal interest on the judgment. \u25a0 A. V. Parsons, Plffs. atty.\nDec. 27, 1839. H. M. Bliss, Atty. for defdts.\nJudgment was entered by the prothonotary against both defendants for $223 43, and a fieri facias issued to February term, 1840, directed to the sheriff of Lycoming county, by virtue of which a levy was made inter alia upon the land in dispute, which was returned with inquisition and condemnation. A venditioni exponas issued to May term, 1840, directed also to the sheriff of Lycoming, who, on the 13th of May, 1840, returned the property sold to Anson V. Parsons, for the sum of $145, which \"was applied upon the judgment. This evidence \u25a0was objected to by defendant\u2019s counsel, because, 1. The judgment of 1824 was revived by sci. fa. against Taggart and Cartee, without any suggestion as to Jackson. 2. Because the revival of judgment by amicable sci. fa. in 1839 was without authority from John L. Cartee, and void as to him; and, 3. Because the revival of judgment by sci. fa. issued to the sheriff of Lycoming county, and served in Potter, and the levy and sale by the sheriff of Lycoming county of defendant\u2019s property situate in Potter, were without authority of law, and void. The court overruled the 1st and 3d objections of defendant, and sustained the 2d, but admitted the evidence upon the ground that the judgment was valid against Taggart, and the sale would pass whatever interest Taggart might have in the property. Plaintiff then gave in evidence a deed from John Bennet, high-sheriff of Lycoming county, to Anson V. Parsons, for the land in controversy, dated 14th May, 1840, and an assignment of the sheriff\u2019s deed on the back of it, from Anson V. Parsons to John King, the plaintiff, dated June 18,1840. Defendant gave no evidence. Plaintiff\u2019s counsel then requested the court to charge the jury, that if they believed all the facts given in evidence in the cause, the plaintiff was entitled to recover. To this the court responded: \u201cWe answer in the negative, and say, the plaintiff is not entitled to recoverand in reply to points put by defendant\u2019s counsel, say, 1st, That the judgment given in evidence is not a judgment against John L. Cartee, having been confessed by Bliss without authority from Car-tee ; and, 2d, That the plaintiff, having shown no title to the property in dispute in Leonard Taggart, he cannot recover, and the verdict of the jury must be for defendant.\nThe counsel of plaintiff excepted to the answer of the court (M\u00a3Calmont, President) to the points submitted by defendant\u2019s counsel, and also to the point of plaintiff\u2019s counsel. The jury returned a verdict for the defendant in conformity with the directions of the court, when the plaintiff removed the record to this court by writ of error, and assigned the following errors:\n1st. The court erred in their charge to the jury on the point put by plaintiff\u2019s counsel.\n2d. The court erred in their charge to the jury on the first point put by defendant\u2019s counsel.\n3d. The court erred in their charge to the jury on the second point put by defendant\u2019s counsel.\nWhite, for plaintiff in error.\nTwo questions arise from the errors assigned in this cause.\n1. Was the judgment entered in the Common Pleas of Lycoming county against John L. Cartee and Leonard Taggart, at the suit of John Keating, a void judgment as against Cartee ?\n2. Were the levy and sale of Cartee\u2019s property in Potter county, by the sheriff of Lycoming, on executions issued on that judgment, unauthorized and void ?\n1. The judgment is regular on the face of it, and, till reversed, is a good judgment against both defendants. Bliss, who appears generally for both defendants, had authority, for aught that appears on the record, to revive the judgment against both, and did so. His warrant of attorney filed, though executed by Taggart alone, does not raise the presumption that he had no authority from Cartee. A parol authority would be sufficient, and the legal presumption is, that he had such authority, or that Taggart was authorized by Cartee to employ him generally, to appear and. revive the judgment.\nThe judgment, therefore, was not a void judgment; could not be impeached collaterally, and the purchaser at sheriff\u2019s sale, upon a venditioni exponas issued on it, is protected by the 9th section of the act of 1705. 2 Watts & Serg. 135; 5 Watts, 308; 2 Yeates, 546; 1 Binn. 214; 6 Johns. 296; 2 Watts, 490; 3 Yeates, 268; 2 Binn. 40; Id. 80; 2 Serg. & Rawle, 156; Id. 430; 6 Serg. & Rawle, 296; 13 Serg. & Rawle, 213; 7 Serg. & Rawle, 269; 3 Penna. Rep. 98; 1 Rawle, 223; 17 Serg. & Rawle, 327; 4 Watts, 270; Id. 367, 424; 6 Watts, 294, 297; 5 Watts, 548; 7 Watts, 86; 4 Watts, 85; 6 Watts & Serg. 505.\n2. Potter county was erected out of Lycoming, and its boundaries established by act of 26th March, 1804, (4 Smith\u2019s Laws, 171,) and by the 12thsection of that act, annexed to Lycoming for judicial purposes. By the act of 27th March, 1824, McKean county was provisionally organized, and Potter was annexed to McKean for\u2019judicial purposes; act to take effect from and after the first day of September, 1826. Pamph. Laws, 1823-4, p. 104. This act contains no provision whatever for the removal to McKean county of judgments entered in Lycoming, previous to 1st of September, 1826, against residents of Potter and McKean, nor does it provide any mode by which the payment of such judgments may be enforced. The legislature could not, by this omission, deprive the plaintiffs in such judgments of their rights, and of a remedy to enforce them, nor -would the courts adopt such a construction of the act as would destroy by implication what was not taken away by express enactment. Keating\u2019s judgment was entered in 1824, before the act of 27th March, 1824, took effect. Its lien, consequently, remained, and the Court of Common Pleas of Lycoming county, not having been deprived of jurisdiction, quoad hoc, over the person and property of the defendants, was vested with all the authority which it ever possessed of enforcing, by its own process, directed to its own officer; and executed by him, the payment of the judgment. The position assumed, that thelien of the judgment remained, is fully sustained by the case of West's appeal, 5 Watts, 87; and that the court was not deprived of jurisdiction follows, as a necessary consequence, from the doctrine established by the court, in their opinion in that case. He referred also to the case of Stowe v. Gloniger, 6 Serg. & Rawle, 63.\n\u25a0 But it is said that in the case of West\u2019s appeal, testatum writs issued from the Common Pleas of Cumberland county, to the sheriff of Perry, to enforce the collection of the judgment. This is not by any means conclusive, that writs issued to the sheriff of Cumberland, and executed by him in the county of Perry, would have been irregular and void. The mode of enforcing the collection of the judgment was not made a question in that case. Had there been no law in existence authorizing the issuing of testatum writs, the only process that could have issued would have been writs directed to the sheriff of Cumberland. The existence of such a law could not affect the rights of the plaintiff, and would not deprive him of a remedy,'which he certainly would have had without its passage. The 24th section of the act of 22d May, 1722, re-enacted with additional provisions in the act of 16th June, 1836, sections 76 to 80 inclusive, extends the jurisdiction of the several courts of Common Pleas for the purposes mentioned therein, and makes the sheriff of the particular county to which the test. fi. fa. issues, the officer of the court from which it issues to execute and return it. These acts confer jurisdiction, but do not taire it away where it exists \u2022 and there is nothing in either act which would raise even a strong implication that in cases where the court is not deprived of jurisdiction over the subject-matter, it could not enforce its judgment by process directed to its own officer. See 8th and 9th sections of the act of 27th March, 1804. No other rational construction can be given to these sections than that the jurisdiction of the Common Pleas of Lycoming county is not divested in the case ,of judgments, and of suits pending, when one of the parties is not a resident of the county of McKean or Potter, and such is the construction given to a similar law by the Supreme Court.\nThe case of Marges v. Oyster does not militate'against this doctrine. In that case the mortgage was recorded in Lycoming long after the division of Lycoming and Northumberland, and not having been recorded in Northumberland, was not a lien on the land lying in that county. A sale, therefore, upon a judgment obtained by sci. fa. on the mortgage in Lycoming, would vest no title in the purchaser to that portion of the mortgaged premises situated in Northumberland. So in the case of Treaster v. Leisher, 7 Watts & Serg. 137, no proceedings were had upon tire mortgage previous to* the division of Centre from Mifflin. It was simply the case of a mortgage recorded.in Mifflin before the division, and sued in Mifflin after the division \u2014 the premises mortgaged lying in Centre. The mortgage could have been and ought to have been made in Centre; no jurisdiction having attached to the Court of Common Pleas of Mifflin, or having been reserved by the act creating the division. But if judgment had been obtained in Mifflin county previous to the passage of the act, what would have been the situation of the plaintiff? Could he not have issued his levari facias to the sheriff of Mifflin county after the division, and would not a sale by the sheriff of. Mifflin on such writ, have vested a title in the purchaser ? A levari facias could not have issued to the sheriff of Centre county; the judgment on tire sci. fa. or mortgage could not have been transferred, and the recovery in Mifflin would have been pleadable in bar to another sci. fa. issued in Centre.\nThe arguments from inconvenience amount to nothing. The record of the acknowledgment of the sheriff\u2019s de'ed in Lycoming county would be legal notice if the court had jurisdiction, and no greater inconvenience would result from this doctrine than from the doctrine which preserves the lien of the judgment, or makes the acknowledgment of a sheriff\u2019s deed, entered in Lycoming county notice for lands sold previous to the 1st of September, 1826. It is just as convenient to ascertain what judgments existed previous to the 1st of September, 1826, in Lycoming county, against residents of Potter, and what sales have been made and deeds acknowledged, since the annexation of Potter to McKean, as it is to ascertain what sales were made and deeds acknowledged previous to that time. And the defendant, Cartee, cannot complain of want of notice of the sale, as it was the duty of the sheriff to have given him notice of the time and place where the property was to be sold, and the presumption is he did so.\nKnox and Maynard, for defendant in error.\nThe question presented in this case is this: Did the deed of the sheriff of Lycoming county to A. V. Parsons, and his assignment thereon, to the plaintiff in error, vest the title to the land in dispute in the said plaintiff?\nTwo objections are taken to the validity of said deed. 1st, The judgment upon which the land was sold was void as against Cartee; and 2d, The sheriff of Lycoming county could not legally levy, sell, and convey lands in Potter county. And as we consider the last point fatal to a recovery, we shall not insist upon the first.\nIt is conceded, upon the other side, that the second point is correct as a general principle, but it is contended that the judgment having been entered whilst Potter county was attached to Lycoming for judicial purposes, the lien of which was kept good by revivals, that the sheriff of Lycoming county had jurisdiction over the said county of Potter, for the purpose of collecting the same. We say that the correct practice would be to have issued a testatum writ or writs to the sheriff of Potter county, and that the levy, sale, and acknowledgment of the deed should have been by said sheriff. That the sheriff has no jurisdiction beyond his proper county, we cite Watson on Sheriff, 1, 3, 4, 52 and 61; Avery v. Seely, 3 Watts & Serg. 494.\nThe policy of our law requires that' all judicial sales of lands should be made in the county where the lands are situated, and in a stronger degree, that all record of sales should be kept in said counties.\nA purchaser at sheriff\u2019s sale is entitled to notice within the recording acts. 2 Binney, 40. Suppose the sheriff of Potter county had subsequently sold the lands in dispute, would not his vendee be a purchaser without notice ? As upon no principle can it be said that the record of the acknowledgment of the deed in Lycoming county was notice under the recording acts.\nSheriff\u2019s deed without recording, vests no title as against subsequent purchasers. 10 Watts, 13. Suppose Cartee had, after the sale, conveyed to a bona fide purchaser, would not such conveyance have been good? If these positions are correct, we are satisfied that this court will not sustain a practice that would produce such gross injustice, and create such confusion and uncertainty in judicial sales. We further cite Meages v. Oyster, 4 Watts & Serg. 20; Treaster v. Fleisher, 7 Watts & Serg. 137."
+  },
+  "file_name": "0147-01",
+  "first_page_order": 149,
+  "last_page_order": 156
+}

@@ -1,0 +1,158 @@
+{
+  "id": 979512,
+  "name": "Bender versus Pitzer",
+  "name_abbreviation": "Bender v. Pitzer",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "333",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 333"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 McLean 206",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "case_ids": [
+        11971392
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/8/0532-02"
+      ]
+    },
+    {
+      "cite": "3 Binn. 175",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0175-01"
+      ]
+    },
+    {
+      "cite": "10 John. 77",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wheat. 6",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        532342
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/14/0006-01"
+      ]
+    },
+    {
+      "cite": "7 Cranch 290",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        572766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0290-01"
+      ]
+    },
+    {
+      "cite": "10 Pet. 412",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5616788
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/35/0412-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 59",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795146
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0059-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 59",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795146
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/6/0059-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 413,
+    "char_count": 6918,
+    "ocr_confidence": 0.446,
+    "pagerank": {
+      "raw": 2.803642691908527e-07,
+      "percentile": 0.8370291086468747
+    },
+    "sha256": "ce0d938bc365eccb3ef82293a1c27427e362e836adf1730abf4bd8c6fea72505",
+    "simhash": "1:1f6abab717185aaa",
+    "word_count": 1224
+  },
+  "last_updated": "2024-02-27T17:46:01.700656+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bender versus Pitzer."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nIt has long since been settled, both in this country and in England, that ancient boundaries are provable by general reputation in a question involving public rights.\nIn Pennsylvania still greater latitude has been allowed in questions' of boundary. Here the declarations of a deceased person touching the locality of a boundary between adjoining owners have been admitted where the survey was made by the person making the declaration, or where the declaration was made by an adjoining owner, who pointed out the boundary line between the tracts to the witness at the time the declarations were made: Caufman v. Congregation of Cedar Spring, 6 Binn. 59; Hamilton v. Menor, 2 S. & R. 70.\nBut neither of these cases go to the extent that the Court of Common Pleas were asked to go in the case now under consideration. The offer was to prove the declarations of Andrew Jenkins, a deceased surveyor, respecting the locality of the original line between two donation tracts Nos. 26 and 27. It was no part of the offer that Andrew Jenkins had made the boundary, or that he was present when it was made, or that he had subsequently examined it, or had run the lines of either survey. Nor was the declaration accompanied by an act such as pointing out the boundary in question. Under such circumstances what was the declaration worth ? Literally nothing. It did not amount to general reputation, for one man\u2019s declaration of the existence of a fact does not prove that the allegation is generally reputed to be well founded. At most, it was the mere declaration of one who did not appear to have any correct information on the subject, and as evidence was wholly unreliable. Even in cases of pedigree, it has been frequently ruled that the witnesses who are called to testify should be related to the family by blood or marriage, or at least should have some personal knowledge of the family. A mere stranger, though skilled in tracing pedigrees, would scarcely be competent to testify as to who were the heirs of a deceased person.\nThe truth is, that this kind of evidence ought not to he encouraged. Declarations when made by a party in casual conversations are justly said to be the weakest of all evidence; but when made by a stranger to the cause, without oath, and in the absence of the parties interested, their admission as evidence at all is of doubtful propriety. If the question was an open one, it would probably be well to consider whether hearsay evidence respecting boundaries should not be confined to general reputation. We will, however, stand by the former decisions of this court, taking good care not to extend the rule heretofore laid down, or to enlarge the decisions already made.\nOur opinion is, that the offered testimony was rightly rejected; because Andrew Jenkins was not shown to have had any particular knowledge respecting the boundary in dispute, nor was the boundary actually shown to the witness when the declaration was made.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Cunningham, for plaintiff in error.",
+      "McGruffin and Stewart, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bender versus Pitzer.\nThe declarations of a deceased person touching the locality of a boundary between adjoining owners, have been admitted in evidence where the survey was made by the person making the declarations, or where they were made by an adjoining owner who pointed out the line at the time.\nBut the declarations of a deceased person who did not make the original Survey, nor subsequently examine it or run the lines upon the ground, and who was not an adjoining owner, and did not point out the lines at the time, are not admissible.\nThe admission of such declarations is not to be encouraged, and will not be extended beyond the cases already adjudicated. Per Knox, J.\nError to the Common Pleas of Lawrence county.\nThis was an action of ejectment brought by Eli Pitzer against Aaron Bender, to recover 25 acres of land situate in North Beaver township, Lawrence county.\n\u25a0 The case was tried at a special court held by Hon. J. M. Burrell, and involved, as a leading feature of the case, the boundary line as originally located between lots Nos. 26 and 27, in the first district of donation lands.\n\u25a0 After much evidence had been given on both sides, defendant offered to prove, for the purpose of fixing the boundary, what Andrew Jenkins (now deceased), who was an old resident of the neighbourhood and a surveyor, said or declared as to the line trees of lots Nos. 26 and 27, where they were situated, and that they had been cut down, and that these declarations had been made on the land.\nThis was objected to by plaintiff\u2019s counsel, and the objection was sustained by the count.\nThe jury found for the plaintiff, and the defendant removed the cause to this court, where the rejection of the foregoing offer was the only error assigned.\nCunningham, for plaintiff in error.\nIf any principle of law has been established and maintained by the Supreme Court of this state, from 1813 to the present time, it is, that the declarations of a deceased person in regard to boundary are admissible in evidence. That principle is ruled in the case of Caufman v Congregation of Cedar Spring, 6 Binn. 59. In that case Chief Justice Tilghman says : \u201c Where boundary is the subject, what has been said by a deceased person is received as evidence. It forms an exception to the general rule.\u201d And in Hamilton v. Menor, 2 S. & R. 70, it is decided \u2014 \u201c Such evidence is admissible, although an implication follows from it that a survey was made.\u201d In Buchanan et al. v. Moore, 10 S. & R. 275, it is held \u2014 \u201c The rule is that in cases of boundary, the declarations of deceased persons are evidence.\u201d The same principle is also recognised in Com. v. Philadelphia, 4 Harris 79.\nMcGruffin and Stewart, for defendant in error.\nThe evidence was offered to establish two facts: where the line trees were, and that they were cut down. The authorities cited do not fully meet the point at issue. In the case of Caufman v. Cedar Spring Cong., 6 Binn. 59, the declarations were those of the surveyor, made while he was making a survey, and admitted as part of the res gestee.\nIn Hamilton v. Menor, 2 Ser. & R. 70, the point was not made directly, whether the declarations could be received, but whether they should be admitted in consequence of an implication arising from them that a survey had been made. In Buchanan v. Moore, 10 Ser. & R. 275, the offer was to establish a boundary by the declarations of a witness whose death was not proven.\nThe case in 4 Harris 79 is but a dictum; no such point was raised in the cause.\nThe true distinction is that hearsay and reputation is evidence of boundary in questions of a public nature, but not in matter of private right: Elliott et al. v. Pearl, 10 Pet. 412, citing 14 East 325; 7 Cranch 290; 5 T. R. 123; 1 M. & S. 687; 4 Campb. 415; 1 Wheat. 6; 10 John. 77. The same is stated in 1 Stark. Ev. 33; 1 Green. Ev. 236; 3 Binn. 175; Elliott v. Pearl, 1 McLean 206."
+  },
+  "file_name": "0333-01",
+  "first_page_order": 333,
+  "last_page_order": 336
+}

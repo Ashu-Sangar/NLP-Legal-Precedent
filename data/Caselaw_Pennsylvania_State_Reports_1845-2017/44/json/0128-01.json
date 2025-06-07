@@ -1,0 +1,79 @@
+{
+  "id": 484224,
+  "name": "Harger versus Thomas",
+  "name_abbreviation": "Harger v. Thomas",
+  "decision_date": "1863-01-22",
+  "docket_number": "",
+  "first_page": "128",
+  "last_page": "131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Binn. 108",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1792451
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/4/0099-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 411,
+    "char_count": 8688,
+    "ocr_confidence": 0.47,
+    "pagerank": {
+      "raw": 2.756442087307467e-07,
+      "percentile": 0.8332008931794865
+    },
+    "sha256": "9962f5dadf9c540f9f169187be86f0e39d92b19c833d2ed98ba226855353de1a",
+    "simhash": "1:0f47ea5292a58eea",
+    "word_count": 1530
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harger versus Thomas."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nThompson, J.\nThere is in reality but one question presented on this record, although there are several specifications of error; and that is, whether the record of a prosecution and conviction of the plaintiff in error for forgery in Washington county, was evidence for the purpose for which it was received by the court below ?\nIt was offered on the trial as conclusive on the question of the forgery of the note in suit, but was properly overruled as not admissible for that purpose. It was then offered for the purpose o\u2019f laying a foundation for introducing the testimony of witnesses, examined by the Commonwealth on that trial to prove the forgery, and who have since died. No doubt it was evidence for that purpose, if the testimony proposed of the deceased witnesses was proper to be given on -this issue, but that is the difficulty. I do not think it was. The common law rule is that the record of a judgment may be evidence by way of inducement, or to establish the fact of .its own existence, although not between the same parties. \u201cThus the record of a conviction,\u201d says Greenleaf, \u00a7 527, \u201c may be shown to let in proof of what was sworn at the trial. So in prosecutions for perjury, the record of the case in which the false swearing is alleged is always evidence.\u201d But as this record was offered only by way of inducement, to be followed by the testimony taken on the trial of the indictment, it was not evidence unless that testimony was properly evidence.\nThe rule on this point is thus stated by Mr. Justice Yeates, in Miles v. O\u2019Hara, 4 Binn. 108, where he says, \u201c It is a settled rule of law, that what a witness has sworn on a former trial, between the same parties for the same cause of action, may be given in evidence in case of his death.\u201d Phillips\u2019s Ev., vol. 1, p. 337, 3d. Am. ed., is to the same effect, but the rule is a little more exactly stated. It is thus: \u201c Where the witness has been examined on the trial of a former action between the same parties, where the point in issue was the same in the second trial,\u201d there his testimony may be proved if deceased. Hill & Cowan, in notes 205, 206, and 207, to this volume, cite many cases in proof of the rule, and also of the modifications of it, growing out of a difference in the number of the parties in the first and second trials.\nOur Act of 1827, relating to depositions, is very analogous in principle to the common law rule in the case of deceased witnesses. We have often held that on a second trial they are only evidence between the same parties or privies as in the first, and where the subject-matter in controversy is the same, or the same in part.\nA criminal prosecution, although instituted by an individual, is not in any sense an action between the person instituting it and the prisoner. It is not an action at all. That is defined to be \u201cthe legal demand of one\u2019s rights, or the form given by law for the recovery of that which is dueBouvier\u2019s Law Diet. A criminal prosecution is also defined to \u201cbe a prosecution in a court of justice, in the name of the government, against one or more individuals accused of a crime1 Ch. Crim. Law. The issue is between the government and the prisoner on a question of the guilt or innocence of the latter. It is not a question of property. Yery different is the issue, as also the parties in a civil suit to recover on the forged instrument. There the defendant is clear of the obligation, let the forgery be by whom it may, and the guilt or innocence of the plaintiff is not necessarily involved.\nif Harger had been acquitted on the trial of the indictment in Washington county, it would hardly have entered into the imagination of any one that the record would have been evidence in the case between him and the defendants, or that the testimony of deceased witnesses, examined then in his favour, would have been evidence in this case. And why ? .Simply because Thomas was no party to the record, and the issue was not between them. This is but another point from which to look at the question, and from any point it is evident that the record was not evidence, because the testimony by which it was to be followed could not legally be given.\nWe are of the opinion, for these reasons, that the learned judge of the District Court erred in admitting it, and also the testimony of the deceased and absent witnesses.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "Kirkpatrick Mellon, for plaintiff in error.",
+      "' James K. Hopkins, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Harger versus Thomas.\nAdmissibility, in a civil Action, of Record of conviction in Quarter Sessions, as a ground for the introduction of the Testimony of deceased\nWitnesses who had then been examined.\nThe record of a prosecution and conviction of the payee of a sealed note for forging it, is not admissible, in a civil action on the note in the courts of another county, for the purpose of laying a foundation for introducing the testimony of the subscribing witnesses who were examined on the trial of the indictment, but had since died, if the testimony of the witnesses is inadmissible.\nError to the District Court of Allegheny county.\nThis was an action of debt by George Harger against Leverton Thomas, brought to November Term 1860. The plaintiff declared on a note under seal, dated August 31st 1854, for $1100, payable three years after date, without defalcation or stay of execution, signed by Leverton Thomas, and attested by Andrew Borland and George Passmore, and filed a copy of the note and an affidavit.\nOn the trial the plaintiff proved the fact of the death of the attesting witnesses, and the genuineness of their signatures, then offered the note in evidence, read it to the jury, and rested.\nThe defendant offered in evidence an exemplification of the record of the Court of Quarter Sessions of Washington county, in the case of The Commonwealth v. George Harger, No. 15, May Sessions 1857, being an indictment for the forgery of the identical note in suit in this case, with the conviction and sentence of the defendant thereon, as being,\n1. As conclusive in this case, and a complete and absolute bar to the action.\n2. Conclusive evidence that the note in suit is a forgery.\n3. To show that George Passmore and Andrew Borland, the subscribing witnesses of the alleged note, were sworn and examined on the trial, and,\n4. To be followed by evidence showing what was testified by the subscribing witnesses, and by other witnesses who have since died or removed out of the state. To which offer the plaintiff objected, on the ground that the record was irrelevant, and inadmissible for any purpose.\nThe learned court, under protest of plaintiff, admitted the record under a part of the defendant\u2019s fourth or last offer. The defendant, with leave of court, then called Alexander Wilson, Esq., prosecuting attorney of Washington county, and who was so at .the time of the trial and conviction of the defendant, George Harger. He also called Adam Ecker, Esq., at the same time a publisher of a newspaper called the Washington Examiner, who testified that they had taken notes of all the testimony, the one for Ms own use as counsel, and the other as publisher for his newspaper. They exhibited and identified their \u201c notes of testimony\u201d in the forgery case, the one by Mr. Wilson, in manuscript, and the other by Mr. Ecker, in his weekly newspaper, bearing date September 10th 1857.\nIn the still further prosecution and conduct of the defence, defendant offered the \u201c published notes of the testimony of Andrew Borland (one of the subscribing witnesses), as taken by Adam Ecker, and identified by him in the case of The Commonwealth v. Harger,\u201d on the trial for forgery of George Harger in Washington county. This evidence, under protest of plaintiff, was admitted and submitted to the jury. The defendant then offered notes of testimony of Alexander Wilson, Esq., to prove what David Munn, another of the Commonwealth\u2019s witnesses, had said on the trial of the forgery case in Washington county, in which George Harger was defendant, and Leverton Thomas was prosecutor. His evidence, under protest of plaintiff, was also admitted and submitted to the jury by the learned court.\nOn the trial of the cause below, numerous exceptions to the ruling of the learned court were taken by plaintiff, but the objections made, and exceptions allowed as above mentioned, constituted the chief and only error relied on by the plaintiff.\nUnder the ruling of the court below, there was a verdict and judgment for defendant; whereupon the plaintiff sued out this writ, and assigned for error the admission of the testimony above mentioned.\nKirkpatrick Mellon, for plaintiff in error.\n' James K. Hopkins, for defendant in error.\nJanuary 22d 1863,"
+  },
+  "file_name": "0128-01",
+  "first_page_order": 128,
+  "last_page_order": 131
+}

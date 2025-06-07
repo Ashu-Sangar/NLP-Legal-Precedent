@@ -1,0 +1,489 @@
+{
+  "id": 985079,
+  "name": "Hill et al. versus Epley et al.",
+  "name_abbreviation": "Hill v. Epley",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "331",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Johns. Ch. 166",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1982794
+      ],
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/6/0166-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 25",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle 90",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 401",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0401-01"
+      ]
+    },
+    {
+      "cite": "7 Barb. S. C. 644",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4885134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/7/0644-01"
+      ]
+    },
+    {
+      "cite": "14 Miss. 482",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Ala. 91",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3079629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/15/0091-01"
+      ]
+    },
+    {
+      "cite": "12 Barb. 128",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937891
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0128-01"
+      ]
+    },
+    {
+      "cite": "6 Cush. 210",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1989651
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/60/0210-01"
+      ]
+    },
+    {
+      "cite": "9 Ired. 163",
+      "category": "reporters:state",
+      "reporter": "Ired.",
+      "case_ids": [
+        8686910
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/31/0163-01"
+      ]
+    },
+    {
+      "cite": "2 Mich. 381",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1933606
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/2/0381-01"
+      ]
+    },
+    {
+      "cite": "18 Miss. 486",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        8840053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/18/0486-01"
+      ]
+    },
+    {
+      "cite": "3 McLean 358",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "case_ids": [
+        6624259
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/23/0700-01"
+      ]
+    },
+    {
+      "cite": "20 Ala. 95",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8496995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/20/0095-01"
+      ]
+    },
+    {
+      "cite": "7 Barb. S. C. 487",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Maine 130",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        371137
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/21/0130-01"
+      ]
+    },
+    {
+      "cite": "17 Verm. 449",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545524
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/17/0449-01"
+      ]
+    },
+    {
+      "cite": "3 Harrington 90",
+      "category": "reporters:state",
+      "reporter": "Harrington",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Conn. 345",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6752869
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/17/0345-01"
+      ]
+    },
+    {
+      "cite": "6 Cush. 4",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1989652
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/60/0004-01"
+      ]
+    },
+    {
+      "cite": "20 Conn. 563",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6756322
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/20/0563-01"
+      ]
+    },
+    {
+      "cite": "8 Barb. S. C. 102",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936217
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/8/0102-01"
+      ]
+    },
+    {
+      "cite": "32 Maine 127",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        665744
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/32/0127-01"
+      ]
+    },
+    {
+      "cite": "28 Maine 525",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        632718
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/28/0525-01"
+      ]
+    },
+    {
+      "cite": "20 Conn. 98",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6755005
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/20/0098-01"
+      ]
+    },
+    {
+      "cite": "11 Humph. 183",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        11266652
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/30/0183-01"
+      ]
+    },
+    {
+      "cite": "5 Met. 478",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        2062277
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/46/0478-01"
+      ]
+    },
+    {
+      "cite": "7 Texas 288",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        6768359
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tex/7/0144-01"
+      ]
+    },
+    {
+      "cite": "9 Pick. 520",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Mass. 180",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003845
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0163-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 163",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846848
+      ],
+      "weight": 5,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0163-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 267",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Watts 240",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841321
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0240-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 53",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Hill 215",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "case_ids": [
+        2510667
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/scl/21/0215-01"
+      ]
+    },
+    {
+      "cite": "2 Penn. 19",
+      "category": "reporters:state",
+      "reporter": "Penn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Watts 163",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0163-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 887,
+    "char_count": 18532,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 1.9191444146059245e-06,
+      "percentile": 0.9946160953785337
+    },
+    "sha256": "9d9281bac8b64a995217ae9696475c9d10db64961c7c782dd809b3b79e701d60",
+    "simhash": "1:0f535e8f67453e14",
+    "word_count": 3323
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hill et al. versus Epley et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\nThe question presented by this record is, whether when a tract of land has been sold at sheriff\u2019s sale, under a judgment obtained against a tenant in common, and the co-tenant, whose deed was upon record, was present at the sale, and caused notice to be given that it was only the interest of the judgment-debtor which was being sold, such co-tenant is estopped from asserting his title against the purchaser.\nConfining our attention to the facts which are material to the inquiry brought up here, we have the following: \u2014 \u2022\nDavid Witherow and Samuel Wither\u00b0w were owners as tenants in common, of a farm and mill property. They held under the same deed from Christian Routzong. Samuel lived upon the land, and David lived a few miles distant. A judgment was recovered against Samuel Witherow, upon which execution was issued and levied upon the property. It was condemned and sold on the 2d of August 1823, to Solomon F. Linn. That sale was set aside. On the 12th of August 1823, the deed to David and Samuel Witherow was. recorded. The property was again sold on the 10th day of November 1823, under an alias venditioni exponas, and Peter Epley became the purchaser. At the second sale, David Witherow was again present, and by his attorney requested the sheriff to give directions to the crier that he claimed one-half \u25a0 of the property as a tenant in common with his brother Samuel Witherow. The sheriff gave the directions requested, and the crier, in a loud and distinct voice, desired all present to take notice that it was only the interest of Samuel Witherow that he was then selling. This he .repeated several times. The court below instructed the jury that these facts would deprive David Witherow of all right to claim the land, unless the purchaser had seen his title on record. The court further charged the jury that it was the duty of David Witherow, if he wished to secure his claim, and set it up against the purchaser at sheriff\u2019s sale, to give direct and explicit notice of his title, \u2014 in short, to say he claimed the one undivided half. Was this instruction correct?\nThe doctrine of equitable estoppel by matter in pais, has doubtless been greatly extended by the courts in modern times; yet, it. is not entirely without limits, and it professes to be founded upon the principles ox natural justice. The general' principle now is, that where the conduct of a party has been such as to induce action by another, he shall be precluded from afterwards asserting, to the prejudice of that other, the contrary of that of which his conduct has induced the belief. The primary ground of the doctrine is, that it would be a fraud in a party to assert what his previous conduct had denied, when on the faith of that denial others have acted. The element of fraud is essential, either in the intention of the party estopped, or in the effect of the evidence which he attempts to set up. Thus, if a person positively encourage another to purchase either land or a chattel, he cannot afterwards assert any title in himself to the thing purchased, and this though he may have been ignorant of his rights when he gave the encouragement. For though, in the latter case, there may have been no fraudulent intent, yet the assertion of his title would operate as a fraud, as much so as if there had been a fraudulent purpose. Besides, the equitable principle is, that when a loss must befall one of two innocent persons, that one must bear it through whose act it was occasioned. It seems also to be well settled, that silence in some cases, will estop a party against speaking afterwards. Thus, if one suffers another to purchase and expend money upon a tract of land, and knows that that other has a mistaken opinion respecting the title to it, and does not make known his claim, he shall not afterwards be permitted to set up a claim to that land against the purchaser. His silence then becomes a fraud. But, silence without such knowledge works no estoppel. It is only when silence becomes a fraud, that it postpones : Beaupland v. McKeen, 4 Casey 124; Robinson v. Justice, 2 Penn. 19; Keeler v. Vantuyle, 6 Barr 253. The doctrine of estoppel, by matter in pais, resting thus upon the supposed existence of fraud, it is essential to its being allowed in any case, that it would work an injury, if the party alleged to be estopped should be permitted to set up his case. If no one has been misled to his hurt, if no injury has arisen from the conduct, declarations, or silence of a party, he will not be estopped from contradicting them, even though they would be conclusive against his right if not contradicted: Dezell v. Odell, 3 Hill 215; Patterson v. Lytle, 1 Jones 53. If, therefore, the truth be known to both parties, or if they have equal means of knowledge, there can be no estoppel. Accordingly, it has been held that one is not relieved, who had the means of becoming acquainted with the extent of his rights: Crest v. Jack, 3 Watts 240; Hepburn v. McDowell, 17 S. & R. 383; and in Knouff v. Thompson, 4 Harris 361, it was ruled, that silence does not estop when the party\u2019s deed is on record. ' It should never be forgotten, that there is a wide difference between silence and encouragement.\nInasmuch as the operation of an estoppel is ordinarily to prevent proof of the truth, and in such a case as this, to pass title to land without writing, it would seem indispensable that what is necessary to estop should appear affirmatively: Commonwealth v. Moltz, 10 Barr 531.\nApplying now these principles to the case in. hand, it may be asked where is the affirmative evidence of fraud which is necessary to constitute an estoppel ? Intended fraud is out of the question, for at the time of the sale, and for three months previous, the deed to David Witherow and Samuel Witherow was on record, and instead of active encouragement to Peter Epley to purchase, David gave notice to the sheriff that he claimed an undivided moiety of the land, and requested that his claim should be made known. If then he be estopped at all, it must be because proof of his title would operate as a fraud upon Epley, the purchaser. But, as has been seen, if Epley had notice of David Witherow\u2019s title, he could not be defrauded by mere silence; and such indeed was the view of the court below, for they charged the jury in effect, that if Epley had seen the deed on record there was no estoppel. The deed was upon record, and being there it was constructive notice to all the world. All the authorities agree that there is no difference in legal effect between actual and constructive notice. In the judgment of the law, therefore, Peter Epley knew, at the time he purchased, that David Witherow was the owner of one-half the land. Indeed, he could not have seen the deed to Samuel without being apprised of David\u2019s title. But, if he had not actual knowledge, as well as constructive, it was due to his own negligence and folly in not examining the record, as every purchaser at a sheriff\u2019s sale is bound to do, and he cannot build an estoppel upon his own default.\nClearly, if David Witherow had not attended the sheriff\u2019s sale, nothing would have been required of him, after he had his deed upon record. This is conceded. But, if it be admitted, that his presence at the sale imposed upon him the duty of giving other notice than that which his recorded deed furnished, and which was consequently known to Epley, it must be because he saw that the purchaser was still acting under an erroneous belief that the whole title was somehow in Samuel. Nothing else could make his silence work a fraud. But how could he see that? And how is such knowledge affirmatively brought home to him? There is no evidence of any such erroneous belief. The land was being sold as the property of Samuel Witherow, it is true. But Samuel had an interest in the land. Neither the execution, nor the sheriff, nor the crier, asserted that that interest amounted to the entire fee simple, or to an estate in severalty. The sheriff had no right to define what the interest was. The writ was just such an one as it would have been, if it had been known by every person present at the sale that Samuel Witherow owned but an undivided moiety. It is impossible, under such circumstances, to see how 'David\u2019s silence could be construed into an admission that Samuel owned the whole, because there was no assertion by the writ, by the sheriff, or by any one, that he did. It is equally impossible to discover how David could have supposed that Epley was bidding under such an impression, for there was nothing to warrant it, and a deed on record showing the contrary, of the contents of which not only the law presumed, but he had a right to presume, every bidder knew. If the sheriff had offered for sale a tract of land belonging to David in severalty, in which Samuel had no interest, the consequences of silence might have been different.\nBut there was actual notice given at the sale. It is true, the crier did not, as he was requested, inform the bidders that David Witherow claimed one undivided half of the land, as the court below were of opinion he should have done, but he did give notice, with a loud and distinct voice, that it was the interest of Samuel Witherow only in the land which he was selling. This he repeated several times, and of this, requested those present to take notice. This, however, the court below held insufficient.\nIt is established law in Pennsylvania, that whatever puts a party on inquiry amounts to notice; provided, the inquiry becomes a duty, as it always is, with a purchaser; and would lead to the discovery of the requisite fact by the exercise of ordinary diligence and understanding: Jaques v. Weeks, 7 Watts 267; Hood v. Fahnestock, 1 Barr 474. Mere rumors, it is true, do not amount to notice; but an announcement by the officer of the law, engaged in the sale of property, is more than a rumor. Now, what must have been the impression made upon the mind of a man, of ordinary understanding, by the crier\u2019s repeated announcement, in the form of a notice, that he was selling only Samuel Witherow\u2019s interest in the land; and by his request that the bidders should take notice of it ? It is argued, that inasmuch as the execution process was against Samuel Witherow alone, it was saying no more than what the law implied, and every one was bound to know. This, however, is a mistake; for the defendant\u2019s whole case rests upon the assumption that the sale, without notice, would pass not only Samuel\u2019s interest, but also David\u2019s, by way of estoppel. But even if the notice did amount to no more than the writ expressed, it by no means follows, that it was unmeaning, and imposed no duty upon the purchaser. It would not be in human nature, in such circumstances, to stifle the inquiry, Why such an announcement ? If it mean nothing, why repeated ? Why repeated with emphasis, and why is attention particularly called to it ? \u201c Only Samuel Witherow''s interest\u201d is a negative pregnant. To us the implication seems irresistible, that there was some other existing interest. We cannot shut our eyes to the manner in which sheriffs\u2019 sales are usually conducted. Nor can we forget that the maxim is, and is known to be, \u201c caveat emptor,\u201d not caveant omnes proprietores. If Peter Epley, after having been thus particularly warned to notice what he was purchasing; after having been told that the interest in the land of no other one than Samuel Witherow was being sold; did not take the trouble to step into the recorder\u2019s office, only a few feet distant, and see the deed to David on record, he did not act as prudent men commonly do. If he remained ignorant of David\u2019s right, his ignorance was wilful, and he is without equity. It should be observed, that David\u2019s title was not a secret trust. It was a legal right, and was to be found where ordinary prudence would direct her first look.\nWe have pursued this subject far enough. The court below based the instruction which they gave upon Epley v. Witherow, 7 Watts 163, a case, the authority of which we cannot admit. We discharge one of our most unpleasant duties, when we are constrained to dissent from a prior decision of this court; and the duty will never be performed, except under the pressure of the most imperative necessity. Happily, Epley v. Witherow was a former trial of the same controversy; and' overruling it, as we now do, we only deny that the facts proved in this case amount to an estoppel.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "W. H. Miller and Hepburn, for the plaintiffs in error,",
+      "Wills and Oooper, for the defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Hill et al. versus Epley et al.\nA tenant in common, whose deed is on record, and who, being present when the land is put up at sheriff\u2019s sale, under a judgment against his co-tenant, causes notice to be given that it was only the interest of the judgment-debtor which was being sold, is not estopped from asserting his title against the purchaser.\nEpley v. Witherow, 7 Watts 163, overruled.\nThe primary ground of the doctrine of equitable estoppel by matter in pais, is, that it would be a fraud in a party to assert what his previous conduct had denied, when on the faith of that denial others have acted.\nThe element of fraud is essential, either in the intention of the party estopped, or in the effect of the evidence which he attempts to set up.\nThe doctrine resting thus upon the supposed existence of fraud, it is essential to its being allowed in any case, that it would work an injury, if the party alleged to be estopped should be permitted to set up his ease.\nIf, therefore, the truth be known to both parties, or if they had equal! means of knowledge, there can be no estoppel by the silence of one of them.!\nThe facts necessary to work an estoppel must appear affirmatively.\nWhatever puts a party on inquiry, amounts to notice, provided the inquiry becomes a duty (as it always is with a purchaser), and would lead to the discovery of the requisite fact, by the exercise of ordinary diligence and understanding.\nError to the Common Pleas of Adams county.\nThis was an ejectment by Jobnston Hill and wife, and Harriet Witherow and others, against Samuel B. Epley and Jacob Myers, for the undivided moiety of a tract of 150 acres of land, with a grist-mill, saw-mill, and other improvements, in Cumberland township. There was a former ejectment for the same premises, which is reported in 7 Watts 163.\nBoth parties claimed under Christian Routzong, who, on the 16th of March 1812, conveyed the premises to David Witherow, the ancestor of the plaintiffs, and Samuel Witherow, under whom the defendants claimed title. This deed was recorded on the 12th August 1823.\nOn the 10th November 1823, the property was levied on by the sheriff, and sold by virtue of an execution against Samuel Withe-row. David Witherow was present at the sale. Notice was given by the crier, \u201c that it was only the interest of Samuel Witherow which was being sold.\u201d\nOn the trial, the court below instructed the jury, under the authority of the case of Epley v. Witherow, 7 Watts 163, that if David Witherow was present at the sale, the notice given was not sufficient; that it was his duty to give explicit notice of his title\u2014 to say, he claimed the one undivided half of the premises.\nTo this charge the plaintiffs excepted; and a verdict and judgment having been rendered for the defendants, the plaintiffs sued out this writ, and here assigned the same for error.\nW. H. Miller and Hepburn, for the plaintiffs in error,\nafter reviewing the authorities cited by Judge Kennedy, in Epley v. Witherow, 7 Watts 163, and the opinion of the court in that case, argued,\n1. That estoppels are not to be favoured: Leicester v. Rehoboth, 4 Mass. 180; Bridgewater v. Dartmouth, Id. 273; Owen v. Bartholomew, 9 Pick. 520.\n2. That a party who acts in ignorance of his rights shall not be prejudiced thereby: Lewis v. San Antonia, 7 Texas 288; Brewer v. Boston and Worcester Railroad Company, 5 Met. 478 ; Schultz v. Elliott, 11 Humph. 183; Whitaker v. Williams, 20 Conn. 98; Copeland v. Copeland, 28 Maine 525.\nS. The general principle is, that the acts or expressions must have been intended to mislead: Morton v. Hodgdon, 32 Maine 127; Otis v. Sill, 8 Barb. S. C. 102; Ryerss v. Farwell, 9 Id. 615; Dyer v. Cady, 20 Conn. 563; Cowles v. Bacon, 21 Id. 451; Pierce v. Andrews, 6 Cush. 4; Cambridge Institution v. Littlefield, 6 Id. 210; Brown v. Wheeler, 17 Conn. 345; Kinney Farnsworth, Id. 355; Crockett v. Lashbrook, 5 Monroe 530; Bank v. Wollaston, 3 Harrington 90; Hicks v. Cram, 17 Verm. 449; Rangeley v. Spring, 21 Maine 130; Martin v. Angell, 7 Barb. S. C. 487; Copeland v. Copeland, 28 Maine 525.\n4. The information which makes it the duty of a party to make inquiry, and shows where it may be effectually made, is notice of all facts to which such inquiry might have led: 1 Curt. C. C. 390; Ringgold v. Bryan, 3 Md. Ch. Dec. 488; Stockett v. Taylor, Id. 537; McGehee v. Gindrat, 20 Ala. 95; Tardy v. Morgan, 3 McLean 358; Lodge v. Simonton, 2 Penn. R. 445; Barnes v. McClinton, 3 Id. 67.\n5. A party\u2019s mere presence and silence, in such a case as this, will not affect him: Batchelder v. Sanborn, 4 Foster 474; Valls v. Clemens, 18 Miss. 486; Cicotte v. Gagnier, 2 Mich. 381; West v. Tilghman, 9 Ired. 163; Schultz v. Elliott, 11 Humph. 183; Cambridge Institution v. Littlefield, 6 Cush. 210.\n6. There is no estoppel in pais, unless the party who sets it up has, by the acts or declarations of the other party, been induced to believe the existence of facts inconsistent with the cHims of such other party, and acted on such belief: Lawrence v. Brown, 1 Seld. 394; Carpenter v. Stilwell, 12 Barb. 128; Hunley v. Hunley, 15 Ala. 91; Taylor v. Toppe, 14 Miss. 482; Whitaker v. Williams, 20 Conn. 98; Dyer v. Cady, Id. 563; Pennell v. Hinman, 7 Barb. S. C. 644; Martin v. Angell, Id. 407; Bank v. Wollaston, 3 Harrington 90; and the English decisions are to the same effect: Freeman v. Cook, 12 Jurist 777; Pickard v. Sears, 6 Ad. & Ellis 469; Gregg v. Wills, 10 Id. 90.\nNeither the former nor subsequent opinions of this court sustain Mr. Justice Kennedy : Knouff v. Thompson, 4 Harris 364 ; Carr v. Wallace, 7 Watts 401; Crest v. Jack, 3 Id. 238; Alexander v. Kerr, 2 Rawle 90; Goundie v. Northampton Water Company, 7 Barr 233; Bellas v. McCarty, 10 Watts 25.\nWills and Oooper, for the defendants in error,\nrelied upon the case of Epley v. Witherow, 7 Watts 163. They also cited 1 Story\u2019s Eq., \u00a7 385; Storrs v. Barker, 6 Johns. Ch. 166, 172; Wendell v. Van Rensselaer, 1 Id. 354."
+  },
+  "file_name": "0331-01",
+  "first_page_order": 331,
+  "last_page_order": 337
+}

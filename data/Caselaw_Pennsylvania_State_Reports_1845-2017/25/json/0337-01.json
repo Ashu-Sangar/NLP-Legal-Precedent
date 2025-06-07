@@ -1,0 +1,96 @@
+{
+  "id": 975749,
+  "name": "Carr versus Chartiers Coal Company",
+  "name_abbreviation": "Carr v. Chartiers Coal Co.",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "337",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Pick. 345",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2049707
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/19/0366-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. 334",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11270085
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0334-01"
+      ]
+    },
+    {
+      "cite": "Rob. 60",
+      "category": "reporters:state",
+      "reporter": "Robards",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 176,
+    "char_count": 1997,
+    "ocr_confidence": 0.408,
+    "pagerank": {
+      "raw": 4.787632004763382e-07,
+      "percentile": 0.9309743541032701
+    },
+    "sha256": "03b804d92f99cf0291449a2f6fff2558608e7a71c0b5f7634622ecc178bc8d77",
+    "simhash": "1:995f362dd6c815a7",
+    "word_count": 343
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carr versus Chartiers Coal Company."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, J. \u2014\nA person employed as the secretary of a private corporation, at a fixed rate of compensation, cannot demand extra pay for services in that capacity, which were not anticipated at the time of his appointment, or which were not enumerated in the charter or by-laws. The fair construction of his contract is, that he will do whatever his employers may have occasion to employ a secretary about.\n' Judgment affirmed.",
+        "type": "majority",
+        "author": "Black, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Mellon and Stanton, for plaintiff in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Carr versus Chartiers Coal Company.\nThe secretary of a private corporation, at a fixed salary, cannot recover\u2019 extra pay for services in that capacity.\nError to the District Court of Allegheny county.\nThe action below was assumpsit by the Chartiers Coal Company, an incorporated body, to recover from its secretary, Carr, the defendant below, |200 retained by him beyond his annual salary, for extra services which he claimed to have rendered the company in numbering, filling, and countersigning coupon bonds issued by the company. The cause being submitted to the Court below upon a case stated, judgment was entered for the plaintiff below; to reverse which the defendant sued out this writ.\nMellon and Stanton, for plaintiff in error. \u2014\nThe presumption of law and of fact is, that the annual salary compensated no more than the regular and defined duty; and it being shown that this duty was not within the enumeration, and it being admitted to have been worth the full amount of $200, the law implies an undertaking to pay for it. The work being shown to be extra, is therefore entitled to extra compensation; for it is a well established principle of law \u201c that, if work additional to that contemplated in the original contract be done at the request of the party benefited by it, he will be liable therefor, upon an implied promise to pay for it: Story on Contracts, \u00a7 15, citing Lovelock v. King, 1 Moody & Rob. 60; Dubois v. Canal Co., 12 Wend. 334; Damin v. Granby, 2 Pick. 345; Hoadly v. McLean, 4 Manning & Scott 340."
+  },
+  "file_name": "0337-01",
+  "first_page_order": 337,
+  "last_page_order": 337
+}

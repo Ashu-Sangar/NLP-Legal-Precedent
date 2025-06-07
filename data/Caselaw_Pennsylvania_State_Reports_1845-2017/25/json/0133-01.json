@@ -1,0 +1,66 @@
+{
+  "id": 975840,
+  "name": "Clark et al. versus Freeman",
+  "name_abbreviation": "Clark v. Freeman",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "133",
+  "last_page": "134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 159,
+    "char_count": 2552,
+    "ocr_confidence": 0.428,
+    "pagerank": {
+      "raw": 1.233649504999084e-07,
+      "percentile": 0.6062484724012868
+    },
+    "sha256": "cbb2f3572efb5c5f9e78da6a22d1f4253fa9a9ca85e0bb291338b47873e0cc5c",
+    "simhash": "1:b06808c5c3fd97ca",
+    "word_count": 442
+  },
+  "last_updated": "2023-07-14T18:53:06.435062+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clark et al. versus Freeman."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, C. J:\nThis is an action on a promissory note, drawn in favour of \u201cBradner & Co.\u201d or order, and purporting to bear their, endorsement. The Court admitted the note in evidence after proof of the handwriting of the makers, and evidence given by B. D. Hamlin that he had corrresponded with Bradner & Co., of New York; and, from his knowledge of their signature, thus acquired, his opinion was that the endorsement was entered by \u201c Bradner & Co.\u201d The admission of the note in evidence was the error assigned.\nThe execution of the note was an admission of the existence of the payees therein named; and the possession of it by the plaintiff, with Mr. Hamlin\u2019s testimony to the endorsement by \u201c Bradner & Co.,\u201d in the absence of evidence of any other firm of that name, was primd facie evidence that the endorsement was made by the proper parties. This was sufficient to justify the Court in admitting the note to be read to the jury.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J:"
+      }
+    ],
+    "attorneys": [
+      "Johnson and Brown, for plaintiff in error,",
+      "Witmore, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Clark et al. versus Freeman.\nProof of the handwriting of th\u00e9 maker of a promissory note, and the testimony of a witness that he had corresponded with \u201c Bradner and Co. of New York,\u201d and from his knowledge of their signatures thus acquired, his opinion was that the endorsement was made by \u201cBradner & Co.,\u201d was sufficient to let the note go to the jury.\nThe execution of the note, possession of it by the plaintiff, evidence of the handwriting of the endorser, in the absence of evidence of any other firm of the same name, is prim\u00e1, facie evidence of identity.\nError to the Common Pleas of McKean county.\nThis action was brought for the recovery of a promissory note, dated 31st May, 1850, for $728.72, signed by defendant, payable to the order of Bradner & Co., and endorsed, or said to be endorsed, by the payees.\nHamlin (a witness produced by plaintiff) deposed that he knew the parties to the suit, and had had correspondence with Bradner & Co., of New York \u2014 had addressed them letters, and had received replies; and, being shown the notes, said, \u201c from the knowledge I have of the signature of Bradner & Co., acquired \u2022by the correspondence aforesaid, my opinion is that the endorsement of Bradner & Co., upon the back of the note, was entered thereon by Bradner & Co.\u201d The Court admitted the note, and defendant excepted.\nJohnson and Brown, for plaintiff in error,\ncited 1 Greenl. Evidence, \u00a7 577; 2 Starkie 373. The identity of the endorsers with Bradner & Co. is not established.\nWitmore, for defendant in error,\ncited 1 Greenleaf, 3d ed., \u00a7 575."
+  },
+  "file_name": "0133-01",
+  "first_page_order": 133,
+  "last_page_order": 134
+}

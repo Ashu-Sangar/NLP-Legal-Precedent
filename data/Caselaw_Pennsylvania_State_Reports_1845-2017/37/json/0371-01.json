@@ -1,0 +1,97 @@
+{
+  "id": 418870,
+  "name": "Wharton versus The Borough of Birmingham",
+  "name_abbreviation": "Wharton v. Borough of Birmingham",
+  "decision_date": "1861-01-07",
+  "docket_number": "",
+  "first_page": "371",
+  "last_page": "372",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 W. & S. 340",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 125",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "260"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 269",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856422
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0269-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 4421,
+    "ocr_confidence": 0.413,
+    "pagerank": {
+      "raw": 2.152550582797141e-07,
+      "percentile": 0.7686664357651739
+    },
+    "sha256": "4def7a804335ad11d974becd113a24d21b9b3f3f9fb58b650644fb122fe7dc85",
+    "simhash": "1:9ca955f1ab0e117a",
+    "word_count": 785
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wharton versus The Borough of Birmingham."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, J.\nThis was an action of assumpsit to recover money paid under protest to the collector of borough taxes in discharge of a borough tax.\nAll our tax laws are founded on the principle, that every citizen shall have a right of appeal from assessments to the taxing power, before he pays his taxes. That is his remedy for an unfair or illegal assessment. If he waive his right of appeal, the collector has no power to relieve him. With a duplicate in his hands, charging the plaintiff with $15.10 of borough taxes for the year 1859, it was his duty to collect it out of her personal property, without regard to the manner of assessment. Her protest went for nothing, and gave her no right of action against the borough. It would become an intolerable grievance, if every taxpayer might sue the borough or county which taxes him, to recover bank moneys once regularly paid in pursuance of a regular assessment.\nIt is enough to say that an action of this sort will not lie, but if it would, what had the borough to do with the question that was mooted here, to wit, whether the plaintiff\u2019s vacant lots were or were not unseated ? The tax laws of the borough have not been shown to us or alluded to, but I suppose they authorize a taxation for borough purposes on the same property and same valuation which the county taxes. If the plaintiff suffered the county to assess her lots as seated, without appealing and without returning them as unseated, it is too late for her to object that the borough assessed them also as seated. Her remedy was by appeal to the county commissioners at the proper time.\nIn the course she adopted, the question discussed was not raised, nor could it be, and all that was said about it either by court or counsel was a waste of words.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "H. Burgwin, for plaintiff in error,",
+      "McKnight and Carnahan, for defendants,"
+    ],
+    "corrections": "",
+    "head_matter": "Wharton versus The Borough of Birmingham.\nRemedy for improper or illegal Taxation.\nThe remedy for an unfair or illegal assessment of taxes is by appeal to the county commissioners. If the party aggrieved neglect it, the collector cannot relieve him, but must collect the tax; and no action lies against the borough to recover back the sum paid, though payment was made under protest.\nError to the Common Pleas of Allegheny county.\nThis was an action of assumpsit before a justice of the peace by Oliveretta Wharton, against the Burgess and Town Council of East Birmingham, and came into the Common Pleas by appeal.\nThe plaintiff was the owner of certain vacant and unimproved town lots in the borough of East Birmingham, which had come to her by partition of an estate to which she was heir; but she exercised no ownership over them, except paying taxes, and, from time to time, offering them for sale.\nIn 1859, a tax of $12.50 was assessed on these lots for borough purposes, which, with other taxes against Mrs. Wharton, amounted to $15.10. This sum was demanded by the collector. Mrs. Wharton offered to pay all except that which was assessed against these unseated lots; which the collector refused to receive, and proceeded to levy on her personal property, for the whole amount. In order to save her property from sale, Mrs. Wharton, after the levy, paid the whole sum demanded, under protest, and with notice of reclamation.\nThe money was duly paid into the borough treasury, and this action was brought to recover it back.\nThe court below held that the lots were seated; that in order to render vacant and unimproved lots unseated, there must be an entire abandonment, not only of occupancy, but of ownership; and that if the owner exercised only such acts of ownership as paying taxes, and offering them for sale, she thereby, even without her own consent, rendered the property seated, and became personally liable for the tax assessed on them. Under this charge there was a verdict in favour of defendant, and judgment being entered thereon, the plaintiff sued out this writ.\nThe principal point before this court was, whether the property was seated, so as to impose personal liability for taxes on the owner.\nH. Burgwin, for plaintiff in error,\ncited and relied on Laird v. Hiester, 12 Harris 452; Frick v. Sterrett, 4 W. & S. 269; Negly v. Breading, 8 Casey 325.\nMcKnight and Carnahan, for defendants,\ncited Hegly v. Breading, 8 Casey 325; Harbeson v. Jack, 2 Watts 125; 3 Id. 260; 5 Id. 382; 4 Barr 221; 2 Harris 128, 404; 4 W. & S. 340; 8 Barr 169.\nJanuary 7th 1861,"
+  },
+  "file_name": "0371-01",
+  "first_page_order": 371,
+  "last_page_order": 372
+}

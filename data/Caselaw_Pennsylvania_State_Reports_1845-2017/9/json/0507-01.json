@@ -1,0 +1,86 @@
+{
+  "id": 960801,
+  "name": "Wright v. Truefitt",
+  "name_abbreviation": "Wright v. Truefitt",
+  "decision_date": "1848-01-26",
+  "docket_number": "",
+  "first_page": "507",
+  "last_page": "508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Raw. 307",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823551
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0307-01"
+      ]
+    },
+    {
+      "cite": "1 Raw. 197",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 3655,
+    "ocr_confidence": 0.385,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03381278213517468
+    },
+    "sha256": "a03628839cb6fe1062e037bfa9e01a795d4ecc35ffc4c70edaa53040e220d85f",
+    "simhash": "1:81ebaa3e4e06b5ab",
+    "word_count": 661
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wright v. Truefitt."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe rule in Walton and Shelly has never been applied, at least in this state, to a bill or note on which the action was not brought. The question could not arise in The Bank of Pennsylvania v. McCalmont, because the drawer was offered as a witness by the holder, not to impeach the note, hut to prove that he was the principal debtor, without affecting the liability of the endorser. The object and effect of the testimony was not to discharge either of them, but to bring the debt within the terms of the drawer\u2019s assignment for his creditors. It is true, that in delivering the opinion of the court, Judge Kennedy recognised the principle of Walton v. Shelly as a general one, and without distinction as to the foundation of the action; hut he was not called on to distinguish, as the rule was clearly inapplicable to that case on another ground. The point, therefore, did not come up, and there was no intimation of an opinion in relation to it. The rule is of questionable propriety in the abstract; and its utility in practice, if it has any, has not been so clearly disclosed as to give it a claim to extension.\nThe testimony of Beinhard being admitted, the question of fact submitted to the jury came up for determination as a matter in course. The papers on which the plaintiff principally relied as evidences of debt, were jorimd facie evidence of it, and the jury were told so. The court had then performed its proper function, in deciding what was an unmixed question of law; hut when parol evidence, explanatory of the transaction, became an element of the ca.se, it drew the whole to the jury. Then, if the note was given, as Beinhard testified, to accommodate Danforth, and not to secure advances by him, there was an end of the contest. The fact was for the jury, as judges of his credibility; and the court properly referred the whole to them.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Gerhard, for plaintiff in error.",
+      "C. Ingersoll, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Wright v. Truefitt.\nThe rule in Walton \u00b6. Shelly does not apply, where the note or hill is not sued on. Hence, in an action to recover from a prior endorser the amount advanced to take up the hill; the drawer and acceptor are not incompetent, under the policy of the law, to prove that the hill was endorsed for the accommodation of the party making such advance.\nIn error from the District Court of Philadelphia.\nJan. 19. Assumpsit for money had and received. The defendant was the drawer of a note to the order of Danforth & Hildeburn, and the endorser of a draft drawn and accepted by Reinhard. It was shown that these instruments, which had been negotiated, were taken up at or after maturity, in part by funds furnished by J. B. Danforth, a subsequent endorser, whose bankrupt assignee was the plaintiff, suing to the use of one who had purchased the claim, and claimed in this action the amount thus advanced.\nThe only material question was the competency of Reinhard, the drawer of the draft, to prove that it was an accommodation bill for the use of Danforth. He was admitted for this purpose, having been released by defendant, the objection being that he was a party thereto, and hence incompetent under the policy of the law.\nGerhard, for plaintiff in error.\nReinhard, if apparently incompetent as a party to the draft, could not remove the objection by his own evidence: 1 Raw. 197. The rule in Walton v. Shelly was established where the action was on the note, but it is equally applicable where a recovery is sought, based upon the note; and it was said in 4 Raw. 307, that the character of the suit does not alter the rule.\nC. Ingersoll, contra.\nWalton v. Shelly does not apply where the notes are not sued on: 6 S. & R. 115; 4 Raw. 307.\nJan. 26."
+  },
+  "file_name": "0507-01",
+  "first_page_order": 507,
+  "last_page_order": 508
+}

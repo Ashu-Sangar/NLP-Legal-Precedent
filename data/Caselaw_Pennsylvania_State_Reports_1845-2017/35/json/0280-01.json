@@ -1,0 +1,79 @@
+{
+  "id": 990449,
+  "name": "Bean's Road",
+  "name_abbreviation": "Bean's Road",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "280",
+  "last_page": "282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Yeates 514",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6776197
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/4/0514-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 294,
+    "char_count": 5599,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 5.6289412625052e-07,
+      "percentile": 0.9484639838075501
+    },
+    "sha256": "afc559502ea05de3df6a4fcd31241e2fa4ffdb811458c39337ad19d44e599226",
+    "simhash": "1:b8506c57ebe3eb6a",
+    "word_count": 958
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bean's Road."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\nThe only question raised in this court, and not abandoned during the argument, is, whether the termini of the road reported by the viewers are defined with sufficient precision. In the petition and order to the viewers-, the proposed road is described as \u201c beginning at a public road leading from Locust Valley to Allentown, at a certain point in said road, between the lines of lands of John Newcomer and A. Witman, and Richard Clewell\u2019s dwelling-house, thence by the nearest and best route until it intersects a public road leading from the former-mentioned road to Schaffer\u2019s tavern, between the dwelling-houses of Ephraim Geissinger and Jacob Walters, on lands of said Walters or Geissinger.\u201d The report lays out a road beginning \u201cin the public road leading from Locust Valley to Allentown, between the points within (in the order) mentioned.\u201d The viewers report in favour of a road commencing between two designated localities, at some considerable distance from each other, but they do not report at what point between those localities the beginning shall be, nor is there any more certainty in the description of the other terminus. That is reported to be \u201c in a public road, leading from said former road to Schaffer\u2019s tavern, between the points within mentioned.\u201d Here also is a large margin. The road may end at any point in the road between the dwelling-houses of Walters and Geissinger, either on the land of the one or on that of the other. This is altogether too uncertain. Had either terminus been fixed, the uncertainty of the other might perhaps not have been fatal. The courses and distances would have made the other terminus ascertainable. Thus in the Penn\u2019s Valley Road, 4 Yeates 514, and in the road from the house of Matthew Miller, 9 S. M. 35, the description of a road as beginning \u201c at a dwelling-house,\u201d and ending in a public road, was sufficiently certain. In those cases, one terminus was fixed. But how are the supervisors to know where to open this road ? At what point in the road between the houses of Ephraim Geissinger and Jacob Walters are they to commence or end ? How far shall the other terminus be from the lines of Newcomer and Witman, or from Clewell\u2019s house ? The duties of supervisors in opening new roads are ministerial, not discretionary. They are bound to locate the road where the Court of Quarter Sessions has ordered it to be. There must, therefore, be certainty in the description, at least so much certainty, that the description shall not answer equally well for two or more distinct roads. That certainty is wanting here.\nIt is true, this exception was not taken in the court below according to the rules of that court. The exceptions filed not having been accompanied with a certificate of the attorney, \u201c that, in his opinion, there were good legal reasons why the report should not be confirmed,\u201d they were liable to be dismissed on motion. They were dismissed, but the court went further, and confirmed the report of viewers. Doubtless, after the dismissal, the case was in the same condition as if no exceptions had been filed. Yet this did not authorize the court to confirm the report, and order a road to be opened, when there was nothing upon the record to show its locality. We do not, indeed, often notice exceptions not taken in the court below, but where there is a radical error patent on the face of the. record, especially when the court has made a final order that cannot he executed, an order which in. itself is erroneous, we will correct the mistake.\n. The order of the Court of Quarter Sessions is reversed, and the report of viewers is set aside.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "JR. JE. Wright, for the exceptants.",
+      "JE. J. Moore and J. JD. Stiles, for the petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "Bean's Road.\nA report of viewers laying out a public road must describe the termini with sufficient precision, to enable the supervisors to locate it, when ordered to be opened.\nAlthough this court does not ordinarily notice an exception not taken in the court below, it will do so, when it is a radical error patent on the face of the record, and the order itself of the court below is plainly erroneous.\nCertiorari to the Quarter Sessions of Lehigh county.\nOn the 7th August 1858, the petition of Jacob Bean and other inhabitants of the township of Upper Saueon was presented to the court below, for a public road, \u201cbeginning at a public road leading from Locust Valley to Allentown, at a certain point in said road, between the lines of lands of John Newcomer and A. Witman, and Richard Clewell\u2019s dwelling-house, thence by the nearest and best route, until it intersects a public road leading from the former-mentioned road to Schaffer\u2019s tavern, between the dwelling-houses of Ephraim Geissinger and Jacob Walters, on lands of said Walters or Geissinger.\u201d\nOn this petition, viewers were appointed, who reported in favour of a public road, beginning at a public road leading from Locust Valley to Allentown, ata certain point in said road, mentioned in the order of court, thence by designated courses and distances, to a certain point in the public road leading from said former-mentioned road to Schaffer\u2019s tavern, between the points mentioned in the order, a draft whereof they annexed to their report.\nThe court below overruled exceptions to this report, and directed the road to be opened of the width of thirty-three feet. The exceptants thereupon removed the cause to this court, and here assigned for error, inter alia, that the termini of the proposed road were uncertain, according to the report and accompanying draft.\nJR. JE. Wright, for the exceptants.\nJE. J. Moore and J. JD. Stiles, for the petitioners."
+  },
+  "file_name": "0280-01",
+  "first_page_order": 280,
+  "last_page_order": 282
+}

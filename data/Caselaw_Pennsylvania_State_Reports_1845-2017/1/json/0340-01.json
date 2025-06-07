@@ -1,0 +1,128 @@
+{
+  "id": 949853,
+  "name": "Hamilton v. Glenn",
+  "name_abbreviation": "Hamilton v. Glenn",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "340",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Serg. & Rawle, 244",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wheat. Rep. 401",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wheat. Rep. 826",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Serg. & Rawle, 92",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1816641
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/16/0092-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 169",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0169-01"
+      ]
+    },
+    {
+      "cite": "16 Serg. & Rawle, 97",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Watts, 401",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840072
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0401-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 341,
+    "char_count": 6438,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 5.67683038770863e-08,
+      "percentile": 0.35326692791741915
+    },
+    "sha256": "7d48a72cc75ac5584e3ea82a8050f7f6f4e300e43568f50de27212a668dedbd2",
+    "simhash": "1:1f2704a97add76bd",
+    "word_count": 1150
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hamilton v. Glenn."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRogers, J.\nIn Bellas v. Lloyd, 2 Watts, 401, it is ruled to be error, to permit the defendant to read and file a paper made by himself at the trial, disclaiming to hold property adversely. The permission to file papers, as is justly said, during a trial, affecting the event of the matter in issue, may lead to great irregularities and abuse. It may enable a party to vary the position of the cause by an act of his own, possessing no defined character, involving no legal responsibility, and taking the opposite party by surprise. It te$ds to embarrass the regular course of trial. It is the duty of the court to discountenance the practice, and it is error, for which the judgment will be reversed, if exception is taken to it at the time of being offered, or when sanctioned by the charge of the court. It is impossible not to feel the justice of these remarks ; and if the paper had been offered as evidence to the jury, and exceptions taken to it, it would be error to receive it, as the defendant cannot be permitted in this way to disclaim his own acts, and make evidence for himself. Evidence manufactured at the trial, when the consequences of his own rashness is about to be visited upon him, cannot rebut the imputation of malice at the time of uttering the false and scandalous words. If any thing, it merely proves that malevolence did not continue up to the trial a matter not in issue, and on which no evidence whatever was given. The paper, however, as plainly appears, was not admitted as evidence affecting the issue, but as a written statement of the defendant\u2019s intentions at the time, such as it would be competent for him to make by parol, either personally or by his counsel. It could be received for no other purpose, as it possesses none of the characteristics of legal evidence. Why then should it be sent out with the jury, it being but a substitute for parol declaration which cannot effect the issue, and not an exhibit or written document regularly in evidence ? In Hendel v. The Berks and Dauphin Turnpike Road, 16 Serg. & Rawle, 97, the rule is said to be, that all papers given in evidence in the trial of a cause, except depositions, are to be sent out with the jury. If the paper in question possesses any defined legal character, it resembles a deposition rather than a document; and, as such, the court was right in refusing permission to send it out with the jury: besides, although the refusal to send out papers may, in the discretion of the court, be good ground for a new trial, yet it is no cause for reversal in error, as is ruled in Spence v. Spence, 4 Watts, 169.\nAs the other errors filed were properly abandoned on the argument, we are of opinion the judgment should be affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Mahan, for plaintiff in error.",
+      "Burlce, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Hamilton v. Glenn.\nIn Error.\nPermission to file during a trial a paper affecting' the event of the matter in issue, is error, for which judgment will be reversed, if exception be taken when it is offered, or when it is sanctioned by the charge of the court.\nA written statement made at the trial by the defendant in slander, disclaiming any malevolent intentions towards the plaintiff, cannot be given in evidence on the trial, nor sent out with the jury, although allowed by the plaintiff to be given in evidence.\nError to the District Court of Alleghany county.\nJohn Glenn, the defendant in error, who was plaintiff below, brought an action on the case for defamatory words against Samuel Hamilton, the plaintiff in error, who was defendant below.\nOn the trial, defendant\u2019s counsel offered to read to the jury, and file of record, a paper signed by defendant, of which the following is a copy:\n\u201c The subscriber respectfully asks leave of the court to file of record this written declaration, that it never has been his intention to impute to the plaintiff in this cause the offence of perjury. He is not aware of the extent or force of the language used by him on the occasion referred to in the declaration of the plaintiff. Whatever it may have been, he is conscious that it was done under the influence of excitement, and regrets that any thing should have been said by him under any circumstances calculated to convey such an imputation. This explanation he has heretofore authorized his counsel to make, under the conviction that it was due to himself as well as to the plaintiff in this cause.\n\u201cThe subscriber is not at present able to appear in person in consequence of severe indisposition, and is, therefore, compelled to adopt this method of assuring the plaintiff, the court, and the jury, that this explanation is made in all sincerity.\n(Signed,) Samuel Hamilton.\u201d\nPlaintiff\u2019s counsel objected to the reading and filing of this paper, but afterwards withdrew the objection, and permitted it to be read to the jury.\nAfter the charge of the court was delivered, the defendant claimed the right to send the paper out with the jury. To this plaintiff objected. The objection was sustained by the court, and this is now assigned as error.\nMahan, for plaintiff in error.\nWe rely particularly on the first error: .that the court erred in refusing to permit the paper to be sent out with the jury. All papers given in evidence on the trial of a cause, except depositions, are to be sent out with the jury. Hendel v. Berks and Dauphin Turnpike Co., 16 Serg. & Rawle, 92. He contended, that the defendant might give in evidence any matter or thing in mitigation of damages. 2 Wheat. Rep. 826.\nBurlce, contr\u00e1.\nThe paper was not offered as evidence. The counsel of defendant-offered to read to the jury, and file of\u2019record, a paper signed by the defendant, and purporting to be a retraction of the slander or charge. We objected to giving the paper in evidence, on the ground, that the defendant could not, at the trial give in evidence his own declarations in mitigation of damages. We, however, withdrew our objections, and agreed that the paper might be read to the jury, and it was read over and over again to the jury. The paper did not fall within the class of papers referred to in 16 Serg. & Rawle, 92. Suppose Hamilton, the defendant, had been present in court at the trial, and had addressed to the jury the words contained in the paper, could he have been sent out with the jury ? The reasons for excluding depositions apply with tenfold strength to this paper being sent out with the jury. 2 Wheat. Rep. 401; 8 Serg. & Rawle, 244\u2014246."
+  },
+  "file_name": "0340-01",
+  "first_page_order": 342,
+  "last_page_order": 344
+}

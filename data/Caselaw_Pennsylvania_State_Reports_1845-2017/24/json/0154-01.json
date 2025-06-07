@@ -1,0 +1,109 @@
+{
+  "id": 9503606,
+  "name": "Duncan versus Lawrence",
+  "name_abbreviation": "Duncan v. Lawrence",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "154",
+  "last_page": "158",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Johnson 25",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Marsh. 551",
+      "category": "reporters:state",
+      "reporter": "Marsh.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Met. 168",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        2041088
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/43/0168-01"
+      ]
+    },
+    {
+      "cite": "21 Pick. 241",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2048065
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/38/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 584,
+    "char_count": 13347,
+    "ocr_confidence": 0.389,
+    "pagerank": {
+      "raw": 8.899803772892414e-08,
+      "percentile": 0.49994169544247563
+    },
+    "sha256": "560e0cc73e197643dc91cd742635221f98bd3006a7eb1bb8ec5fa00739475149",
+    "simhash": "1:2da3e71fed3cbc0d",
+    "word_count": 2342
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Duncan versus Lawrence."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nIt is an undoubted rule of law that no recovery can be had unless the cause of action exists before the suit is commenced.\nIt is equally clear that the acts and declarations of the defendant to a suit, after the commencement of the action, may be given in evidence, if they tend to establish the existence of a cause of action prior to its institution.\nOf this character was the article of agreement between Duncan, the defendant, and Shriner; for, although it was made after the suit was brought, it was a declaration of his right to dispose of the land, and was properly received as corroborative evidence of Duncan\u2019s disposition to repudiate the position of trustee for Mine-singer.\nWe assent to tbe view taken by tbe Court below, that tbe sale to De Normandie by Duncan, without tbe concurrence of tbe administrator of Minesinger, was such a repudiation of the trust as authorized tbe plaintiff\" to treat tbe contract between bis intestate and Duncan as rescinded, and to recover tbe money paid under it.\nThat Duncan had agreed with De Normandie to cancel the contract before this action was brought, makes bis position rather worse than better.\nHe admits now that he was the trustee of Minesinger; if so, it was his duty to consult Minesinger\u2019s representative before he made the sale, and to have given him notice of it after it was made. There was some evidence that- the administrator consented that the property should be sold, but none that he, agreed to the rescisi\u00f3n of the contract of sale.\nWhere one gives money to another to purchase an estate for him, he may recover the money back, if the estate so purchased is sold to a stranger without his assent. So if one holding an estate in trust for another, sells it with the knowledge -and consent of his cestui que trust, he may not cancel the contract of sale, without first advising with the party beneficially interested.\nThe neglect upon the part of Minesinger and those representing him to meet the payments as they fell due, and thus relieve Duncan from his assumed responsibility, would probably have justified him in selling the estate; but if the sale was to be made on account of the heirs and representatives of Minesinger, it should have been with notice to them, and when once made, they were entitled to the benefit of it. If it was made, as it seems to have been, for the benefit of Duncan, he must repay the money advanced to him by Minesinger.\nThis disposes of the 1st, and 4th assignments of error, which were the ones principally relied on by the plaintiff in error.\nWe see no objection to the answers to defendant\u2019s 2d, 3d, and 7th points; nor to that portion of the charge complained of in the 5th and last assignment.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Cunnnigham, for plaintiff in error.",
+      "Fetterman, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Duncan versus Lawrence.\n1. A cause of action must exist before suit is commenced.\n2. The acts and declarations of the defendant after the commencement of the action, may be given in evidence to establish a cause of action before the institution of the suit.\n3. After a verbal contract for the purchase'of land by one for the use of another, and part payment of purchase-money by the latter, if the purchaser, subsequently, by article of agreement, agreed to sell the land to another without the concurrence of the person for whom the purchase was made or of his personal representative, this was such a repudiation of the first contract as authorized the said administrator to treat the same as rescinded and to recover the money paid under it; and he was not obliged previously to tender the amount paid by the trustee on the purchase.\n4. If one holding an estate in trust for another sells it without the knowledge and consent of the cestui que trust, he lias no right to cancel the contract of sale without advising with the party beneficially interested.\n5. Where real estate was purchased by one at the instance of another, and the latter neglected to pay the instalments as they became due, the former probably would have been justified in selling the estate; but if the sale were designed, to be on account of the person for whom it was purchased, notice should be given to him or his heirs or representatives, before the sale, and they would be entitled to the benefit of the sale. If made on account of the purchaser himself, he is bound to repay to his principal the money advanced by the latter on the original purchase.\n6. One who alleges that a trustee has acted in violation of his trust must prove it; and where the terms of the trust are not clearly defined, acts of the trustee acquiesced in by the cestui qiie trust may be considered as not inconsistent with the trust; a'nd if the cestui que trust acquiesced in such acts they are not the subject of complaint on his part.\n7. But if the resale by the trustee was made at the instance of the administrator of the cestui que trust, an action could not be sustained against the trustee by the administrator to recover back the amount of purchase-money paid by the cestui que trust, before the trustee had received an amount sufficient to pay the plaintiffs claim, provided the trustee has acted in good faith. But if the trustee denied the trust, refused to execute it, and claimed the property as his own, or sold it without the consent of the cestui- que trust, the latter or his administrator could recover the amount advanced by the cestui que trust before tire trustee had realized that much from the resale of the land.\nERROR to the Common Pleas of Beaver county.\nAction of assumpsit to June Term, 1852, by Milton Lawrence, administrator of the estate of David Minesinger v. Jonathan Duncan, to recover certain; money paid to the defendant by Minesinger for the purchase of land. On. 25th May, 1846, a certain farm was sold by the administrators of the estate of William Conner, under an order of the Orphans\u2019 Court, and was purchased by the defendant, in trust for the said Minesinger, at $82.25 per acre; the purchase-money amounting to $4690.97. On 2d Juno, 1846, the sale was confirmed.- The terms- of sale were one-ffhird in hand; one-third in one-year; and the remaining third to remain for the use of the widow; the interest thereon being payable semi-annually. On 14th December, 1846, the defendant received a d\u2019eed for the premises.\nThere was no written contract between Minesinger and Duncan for the purchase;- but in September, 1846, Minesinger, in the presence of a, witness, paid to , Duncan $100.0, to. be used in making the.first payment. \u25a0 In November, 1847, Minesinger gave to Duncan the.further sum of $125, on account of the same purchase. After this payment, Minesinger paid no more on account of the purchase-money. He left the country in the summer or fall,of 1848, and died in Paris,.in the next year. The plaintiff in the suit' administered on Iris estate. '\nThe deed' for the premises was to Duncan, no trust being expressed in it. He' gave his judgment bonds with surety for the remainder of the purchase-money not paid, and took possession and leased the land. \u25a0\nOne of the administrators who made the sale testified that Duncan paid him about $900 on account immediately after the sale, and gave his own note for $600 on account, or in full of the hand-money, which he afterwards paid and settled for. About a year after, the sale, Duncan told him that the money first paid'he got from Minesing'er; when he settled for a portion of -the $600, the defendant s.aid he had bought the land for Minesinger, and never intended to take the property as his own, and requested the witness to state to Minesinger that he was ready to hand over the deeds. The witness stated that it was- his impression that he conveyed the message to Minesinger, but that his. recollection on the subject was not distinct.\nAnother witness said that he was pr'ese'nt at a conversation' between defendant and the plaintiff in 1849 or 1850, in relation to the farm in question; that' Duncan said he wanted to get fid of it, and he wanted Lawrence to sell; and Lawrence wa.nted Duncan to'sell it; that Duncan said all he wanted was to be placed in the situation he was when he bought the land.\nBy article of agreement dated 6th March, 1851, Duncan agreed to sell the land to T. A. De Normandie. By a subsequent agreement, dated 27th February, 1852, the former agreement was to be rescinded; De Normandie to remain in possession\u2018till 1st April, 1852. By a subsequent article between Du\u00f1can and C. H. Shriner, dated 17th May, 1853, Duncan sold the land to Shriner for $37.50 per acre. Two judgments on the land', each exceeding $900, and a dower fund exceeding $1287, were to be deducted, and Shriner to be responsible for their payment, and the balance was to be paid to Duncan as follows-: $500 in sixty days from date, and the remainder' on or before the 1st of April next with interest. It was agreed that Duncan was, to make a good title. This hrticle was made after the institution of this. suit.\nOn the trial, it was contended, on part of the plaintiff, that the defendant intended from the first to hold the land as Ms own, if the purchase proved profitable; and that there was no evidence, that after the death of Minesinger, Duncan had admitted that he was accountable for more than for the money he had received, from him.\nOn the part of the .defendant it was alleged that he purchased in trust.\nThe article of agreement between the defendant and Shri\u00f1er, dated 17th May, 1853, was offered in evidence on the part of the plaintiff as a declaration of the defendant repudiating the trust. It was objected to, as'made since the' institution of the suit, and was irrelevant. Its admission was excepted to.\nFebruary 1, 1854, verdict for plaintiff for f1686.5.0.\nIt was assigned for error: 1. That the Court erred in receiving in -evidence' the article of, agreement between Duncan & Shriner. 2. In'charging that certain acts complained of on the part of the plaintiff as inconsistent with th\u00e9 character of a trustee, viz.: the taking the deed in the defendant\u2019s own name \u2014 taking possession and withholding it \u2014 and exercising, authority over the property may or may not be consistent with his relation to 'it. 3., In charging, in reply to the 7th point, that if the plaintiff could treat the trust as rescinded, he could recover without making any previous tender of the amount advanced by defendant, with interest. 4. That notwithstanding the sale made by defendant to De Normandie in March, 1851, was rescinded before this suit was-instituted, yet that such sale amounted to such a repudiation of the trust as authorized the plaintiff\u2019s intestate to consider the trust as annulled. 5. In charging, in answer to the 9th point, that, if the sale to De Normandie was made at the instigation of the administrator, an action cannot be supported until the defendant has realized an amount sufficient to disburse the plaintiff\u2019s claim. This instruction-, said the Court, is, however, predicated upon the good faith of the trustee; for if you find from the evidence that he denied the trust, refused to execute it, and claimed the property as his own,-or' sold it without the consent of the personal representative, the plaintiff would be entitled to recover in this action before he had realized from the sale the amount claimed by the plaintiff.\nCunnnigham, for plaintiff in error.\nA. right of action must be complete before suit upon it: 21 Pick. 241; Id. 310; 2 Met. 168.\nIt was further contended that the legal presumption is that a trustee has acted' in good faith in fulfilment of the trust, unless the contrary clearly appears: Willis on Trustees 168; 2 Ves. Jr. 42-49 ; 7 Taunton 347; 2 Marsh. 551. It was alleged that the defendant had not repudiated the trust, and was not responsible for the money received from Minesinger till he had realized that amount from the sale of the land; that the right of action must be perfect before the institution of the suit, and that an admission made subsequent thereto was not admissible to maintain it. No act of a trustee, except a conveyance to a purchaser without notice, can prejudice the rights of'the person beneficially interested: Willis on Trustees 167-8. Whilst the contract with De Norman-die existed, it was but executory, and till conveyance to Shriner the cestui que trust was not prejudiced. Minesinger failed to pay the first instalment, and Duncan had to assume personal responsibility to a considerable extent. The equity of Minesinger was forfeited: 8 Ser. H. 493.\nIt was further said that the Court erred in submitting to the jury the question of a denial of the trust \u2014 that the evidence referred to did not warrant such submission.\nFetterman, for the defendant in error.\nIt was alleged that the defendant had rescinded the trust by the contract in 1851 with De Normandie, and that the defendant could not by a rescission of that contract reinstate himself as trustee. It was submitted to the jury whether the sale to De Normandie was made with the acquiescence of the administrator, and it was found that he had not acquiesced in it. That sale was at an advance of above $9 per acre; and it was rescinded without notice to him, which was improper : Willis on Trustees 125.\nIf a trustee fail in the performance of his duty, the principal may consider the trust as rescinded, and sue for the money he has paid: 5 Johnson 25; 1 Qaine 27."
+  },
+  "file_name": "0154-01",
+  "first_page_order": 152,
+  "last_page_order": 156
+}

@@ -1,0 +1,103 @@
+{
+  "id": 988384,
+  "name": "The City of Philadelphia versus The Philadelphia, Wilmington and Baltimore Railroad Co.",
+  "name_abbreviation": "City of Philadelphia v. Philadelphia, Wilmington & Baltimore Railroad",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Pa. 41"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 W. & S. 27",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        12168785
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/9/0027-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 202",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 334",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483321
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0334-01"
+      ]
+    },
+    {
+      "cite": "6 Rawle 291",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 417,
+    "char_count": 6950,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 3.5539169864925216e-07,
+      "percentile": 0.8854439003972818
+    },
+    "sha256": "1285aa24c2f908bd792fe8a538739948b026817fdb94ac42fd5643923e04422d",
+    "simhash": "1:f921ca61be3bb7d1",
+    "word_count": 1214
+  },
+  "last_updated": "2024-02-27T20:46:52.756636+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The City of Philadelphia versus The Philadelphia, Wilmington and Baltimore Railroad Co."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nThe municipal authorities paved the Gray\u2019s Ferry road for a considerable distance, at a place where it lies side by side with the defendants\u2019 railroad, and now seek to charge them with the half of the cost of it; but they cannot do it. Their claim has no foundation either in the letter of the law or in its spirit, nor in the form of the remedy. Not in the letter, because the defendants do not own the land sought to be charged, and have only their right of way over it. Not in the spirit, because the paving laws are means of compulsory contribution among the common sharers in a common benefit, and as a railroad cannot, from its very nature, derive any benefit from the paving, while all the rest of the neighbourhood may, we cannot presume that the compulsion was intended to be applied to them. Not in the form of the remedy, because the execution for this sort of claim is levari facias, a writ not commonly allowed against corporations, and which would hardly produce much when directed against a public right of way. It would be strange legislation that would authorize the soil of one public road to be taxed, in order to raise funds to make or improve a neighbouring one.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "A. Miller, for the plaintiff in error.",
+      "St. Cf. T. Campbell, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "The City of Philadelphia versus The Philadelphia, Wilmington and Baltimore Railroad Co.\nA municipal claim cannot be supported against a railroad company, for paving a street running side by side with the defendants\u2019 railway.\nError to the District Court of Philadelphia.\nThis was an amicable scire facias on a municipal claim, for $4583.04, filed by The City of Philadelphia, for the use of Matthew Thompson, against The Philadelphia, Wilmington and Baltimore Railroad Company, for paving the Gray\u2019s Ferry road, from its intersection with Federal street, westward to Maiden lane. The defendants\u2019 railroad runs side by side with the Gray\u2019s Ferry road, and the claim was filed against the strip of ground occupied by the railroad, being 2046 feet in front on the Gray\u2019s Ferry road, and 47 feet in depth, or thereabouts.\nThe parties agreed upon a case stated (with the right to sue out a writ of error), in which the location and occupation of the defendants\u2019 road; the performance of the work by Matthew Thompson, under the authority of the Board of Commissioners of the late district of Moyamensing; a compliance with the Acts of Assembly in relation to municipal claims; and the price of the work; were admitted, and the question of the defendants\u2019 liability was submitted for the opinion of the court.\nThe court below gave judgment for the defendant on the case stated, and the following opinion was delivered by Stroud, J: \u2014 \u25a0\n\u201c The action is a scire facias to recover $4588.04, as the expense incurred by the plaintiff in paving Gray\u2019s Ferry road. The defendants\u2019 railway bounds this road on the one side for the distance of 2046 feet, and the width of the railway is 47 feet. The paving was done, under an Act of Assembly, by the commissioners of the district of Moyamensing, several years since; and a claim for the above stated sum was duly filed, under the Act of Assembly providing for the recovery of municipal claims.\n\u201c The single question is, whether the remedy by scire facias, on the claim filed as above, can be enforced against the defendants, a corporate body clothed with the usual railway franchises.\n\u201c The process which the plaintiff seeks to use, is directed wholly against the soil of the railway, together with the structure of the railway itself; and on a judgment upon it for the plaintiff, this corpus may be sold, under a levari facias, to the highest bidder, at a sheriff\u2019s sale.\n\u201c To authorize this, would be to inflict a serious public evil; and this, too, without the pretext of a benefit having been received by the company, by reason of the paving of the public highway contiguous to the railroad.\n\u201c We think it, however, very clear that no such procedure is authorized.\n\u201c It was decided in Pennock v. Hoover, 6 Rawle 291, that the expense incurred for paving by a municipal district is, \"when assessed by the proper authority, to be regarded as a tax, for which a lien was given by the Act of 3d February 1824, relating to taxes on real estate in the city and county of Philadelphia. In Pray v. Northern Liberties, cited in the Northern Liberties v. St. John\u2019s Church, and there re-affirmed, it was decided \u2014 \u201cthat assessments for pitching, curbing and paving a street were not taxes.\u201d The case of Pray v. Northern Liberties has_not been reported, and whether Pennock v. Hoover was brought to the notice of the court in the argument, we have no means of ascertaining. In the Northern Liberties v. St. John\u2019s Church, 1 Harris 104, it does not appear to have been referred to by the court or counsel; and it is a fair inference from the observations of the judge who delivered the opinion of the court, that the question was regarded by him as of the first impression. We are scarcely bound, under such circumstances, to treat the decision in Pennock v. Hoover as overruled.\n\u201c If not overruled, the decisions that the bed, berm-bank, and tow-path of an incorporated canal company, Lehigh Coal and Navigation Company v. Northampton County, 8 W. & S. 334; and the zjoater stations and depots of an incorporated railroad company, Railroad v. Berks County, 6 Barr 70; and a toll-house of a similar company, Schuylkill Navigation Company v. Berks County, 1 Jones 202; and reservoirs of a canal, the houses and gardens occupied by the lock-tenders and collectors of tolls along a canal and railway, the engines and machinery for raising the cars up the planes, and the collectors\u2019 and engineers\u2019 offices, Wayne County v. The Delaware and Hudson Canal Company, 3 Harris 351; are not taxable as land, are directly applicable.\n\u201c But there is no necessity, in order to sustain our opinion in this case, to draw upon these decisions.\n\u201cFor conceding that the railroad company may be charged with the expense of the payment in some mode, the proceeding attempted here is not the proper one. It has been decided in the Susquehanna Canal Company v. Bonham, 9 W. & S. 27, that the franchises and corporate rights of a company, and the means vested in it which are necessary to the existence and maintenance of' the object for which it was created, are incapable of being granted away and transferred by any act of the company itself, or by any adverse process against it.\n\u201c And we have before stated, that the scire facias which has been issued in the case in band, can be enforced in no other way but by sale of the soil and structure of the railroad as real estate.\n\u201cJudgment is to be entered for the defendant on the case stated.\u201d\nThe plaintiff, thereupon, removed the cause to this court, and here assigned the same for error.\nA. Miller, for the plaintiff in error.\nSt. Cf. T. Campbell, for the defendant in error.\nThis case was decided in 1856.\nSince reported in 7 Casey 69."
+  },
+  "file_name": "0041-01",
+  "first_page_order": 41,
+  "last_page_order": 43
+}

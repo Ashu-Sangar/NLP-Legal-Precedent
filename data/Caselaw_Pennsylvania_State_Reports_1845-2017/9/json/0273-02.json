@@ -1,0 +1,76 @@
+{
+  "id": 960793,
+  "name": "Heath v. Biddle",
+  "name_abbreviation": "Heath v. Biddle",
+  "decision_date": "1848-10-23",
+  "docket_number": "",
+  "first_page": "273",
+  "last_page": "274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 273"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 359",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477782
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0359-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 248,
+    "char_count": 3179,
+    "ocr_confidence": 0.371,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03381258907372592
+    },
+    "sha256": "b4f360460a69c0713b9895b807e1965ab7d19dafbbbf40434254bfb272b5338d",
+    "simhash": "1:a7cd9b98c924b194",
+    "word_count": 545
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Heath v. Biddle."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe court below answers the first three points of the plaintiff in error in the affirmative, and refer the fourth to the jury, as presenting a mixed question of law and fact. We cannot say that the evidence of abandonment was so flagrant as to justify the court in pronouncing- it such. In all cases when the circumstances leave room for doubt, the jury is the proper tribunal to decide: Forster v. McDivit, 5 W. & S. 359; and in Wilson v. Watterson, 4 Barr, 219, it is observed, by the judge who delivered the opinion of the court, \u201c Some cases may be so strongly and indelibly marked, either by continuous absence, and suffering the improvement to return to its wild state, or by the declarations and acts of the party, as to justify -the court in deciding as a matter of law on the question; yet in a majority of the cases which occur, there is such a mixture of motive, intent, and circumstances, as to make it a matter properly referable to the jury and the facts and circumstances disclosed by the evidence in the present ease, afforded precisely the exigencies indicating the jury as the proper forum in the two decisions referred to. On this subject of abandonment, the instruction of the court is definite and clear. [His honour here stated the charge.]\nWe perceive no error in this instruction, and I feel quite free to say that the evidence, in my judgment, fully warranted the jury in finding a verdict under it for the defendant.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Heath v. Biddle.\nWhere, from the evidence, the intention of a settler to abandon is doubtful, it must be referred to the jury: and a temporary removal until he can obtain proper accommodations for his family on the land which he continues to cultivate, will not constitute an abandonment in point of law.\nIn error from the Common Pleas of Jefferson.\nThe plaintiff in this case had' the legal title. The ancestor of defendants (minor children) had previously entered and made a legal settlement, according to the verdict. The only question was, whether there had been an abandonment. The defendant having commenced his improvement, married, and lived on an adjoining tract. Pie then moved to land owned by his father-in-law; and having met with misfortunes, was obliged to seek for employment. But it was proved he always intended to return, and continued to improve the land every year until his death.\nMcCalmont, P. J., instructed the jury: \u2014 \u201c When a single man had an actual settlement, improvement, and residence on a tract of land, with a cabin to live in, suitable to his circumstances in his single state, and married, his residing off the land,- in a house of his father-in-law, or with his father-in-law until he could get accommodations for his wife and expected increasing family, for a reasonable time, during which time he still occupies it, would not be\"an abandonment. Whether the residence was changed for such temporary purpose, and whether the time of this absence of personal residence was a reasonable time to effect the object, and \u00a1Prosecuted with due diligence, especially when there was conflicting and contradictory evidence, would be facts to be determined by the jury.\u201d\nOct 23."
+  },
+  "file_name": "0273-02",
+  "first_page_order": 273,
+  "last_page_order": 274
+}

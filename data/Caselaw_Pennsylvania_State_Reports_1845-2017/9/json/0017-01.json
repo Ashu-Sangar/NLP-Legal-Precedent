@@ -1,0 +1,66 @@
+{
+  "id": 960803,
+  "name": "Ross's Estate",
+  "name_abbreviation": "Ross's Estate",
+  "decision_date": "1848-07-11",
+  "docket_number": "",
+  "first_page": "17",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 111,
+    "char_count": 1171,
+    "ocr_confidence": 0.386,
+    "pagerank": {
+      "raw": 5.862549054091062e-08,
+      "percentile": 0.36777337211551714
+    },
+    "sha256": "dd5d34a82645ebbbfa4cca65075ef942887053424ad5f07dce9dd3a51775afcf",
+    "simhash": "1:06060f4a09bd63a7",
+    "word_count": 203
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ross\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nIt is not disputed that the mortgage and judgment of Slocum was the first lien on the fund; but it is contended that it lost its priority by having been presented too late. It is never too late, however, to do justice by correcting a defect before final judgment and decree; and even afterwards, the proceeding may be unravelled at the discretion of the court. A mere slip, which may be retrieved, must not be allowed to work a forfeiture of right.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Wright, for appellant.",
+      "Fuller, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "Ross\u2019s Estate.\nA lien-creditor is not excluded from a fund, by reason of neglecting to present it to the auditor before the report is filed; if application be made before final decree.\nAppeal from the Orphans\u2019 Court of Wyoming.\nJuly 11.\nThe administrators of Ross having sold certain real estate, the distribution of the proceeds was referred to an auditor, who made a report. This was sent back, and pending the second reference, a claim was made on a judgment and mortgage against Ross, which had not been presented to the auditor, and were entered in Luzerne. The auditor rejected them, but the court admitted the claim \u2014 this was the error assigned.\nWright, for appellant.\nFuller, contrd."
+  },
+  "file_name": "0017-01",
+  "first_page_order": 17,
+  "last_page_order": 18
+}

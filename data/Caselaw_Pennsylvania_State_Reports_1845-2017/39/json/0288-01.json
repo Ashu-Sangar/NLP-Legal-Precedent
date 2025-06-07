@@ -1,0 +1,211 @@
+{
+  "id": 996242,
+  "name": "Kirkpatrick and Wife versus Kirkpatrick et al.; and Kirkpatrick versus Kirkpatrick et al.",
+  "name_abbreviation": "Kirkpatrick v. Kirkpatrick",
+  "decision_date": "1861-05-06",
+  "docket_number": "",
+  "first_page": "288",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 Pa. 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 243",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848446
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0243-01"
+      ]
+    },
+    {
+      "cite": "9 Metc. 268",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 438",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478492
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0438-01"
+      ]
+    },
+    {
+      "cite": "2 Gray 124",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1998206
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/68/0124-01"
+      ]
+    },
+    {
+      "cite": "10 Cushing 279",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1991456
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/64/0279-01"
+      ]
+    },
+    {
+      "cite": "11 Pick. 437",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cushing 235",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates 473",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812684,
+        812717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0473-02",
+        "/yeates/2/0473-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 240",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848414
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0240-01"
+      ]
+    },
+    {
+      "cite": "2 Dev. & Bat. 492",
+      "category": "reporters:state",
+      "reporter": "Dev. & Bat.",
+      "case_ids": [
+        11276347
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/19/0492-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 243",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2055346,
+        2055356
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/15/0224-02",
+        "/mass/15/0224-01"
+      ]
+    },
+    {
+      "cite": "10 Cush. 379",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cush. 217",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1986168
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/58/0217-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1111,
+    "char_count": 29074,
+    "ocr_confidence": 0.442,
+    "pagerank": {
+      "raw": 2.4376306474710016e-07,
+      "percentile": 0.8027332867669119
+    },
+    "sha256": "e0804ccff4ade7b723ed87b6ff9031adde0e5fae01031833bc0b62c55f079e4d",
+    "simhash": "1:1be783223866b7e1",
+    "word_count": 5007
+  },
+  "last_updated": "2024-02-27T22:43:51.432409+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kirkpatrick and Wife versus Kirkpatrick et al., and Kirkpatrick versus Kirkpatrick et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Thompson, J.\n\u2014\nA majority of us agree that the first reason assigned in the opinion, overruling the motion to take off the nonsuit, and for a new trial, was of itself sufficient to authorize the nonsuit; and we all agree that the second was so; and that want of probable cause was not shown. That opinion sufficiently expresses the views of this court, and we think that further elaboration of the doctrines therein asserted is not necessary. For the reasons there given, the\nJudgment is affirmed.\nThe second of the above cases arose out of the same prosecution as did the first, and was tried at a subsequent term, when my brother Read nonsuited the plaintiff for the first reason assigned in the opinion above referred to; and as a majority of us think that was sufficient, this judgment must also be affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "by Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "P. Carroll Brewster and David Paul Brown, for plaintiff.",
+      "This case was argued here by David Paul Brown, Jr., and David Paul Brown, for plaintiffs in error; and by George M. Wharton and George A. Coffey, for defendants in error, by whom the same positions were taken, and the same authorities were cited, as in the former case."
+    ],
+    "corrections": "",
+    "head_matter": "Kirkpatrick and Wife versus Kirkpatrick et al., and Kirkpatrick versus Kirkpatrick et al.\nMalicious Prosecution. \u2014 Averments in action. \u2014 Discharge not equivalent to Acquittal of offence charged. \u2014 Proof necessary to sustain the Action\n1. Where the wife of a plaintiff in an action for malicious prosecution was arrested and bound over on the ehai-ge of conspiring to poison the prosecutor, and, a true bill being found, was tried and convicted, but the judgment was arrested and she discharged, the averment of \u201c discharged\u201d was held, not to be a sufficient averment and proof of the termination of the prosecution, to sustain an action for malicious prosecution, for it did not countervail the effect of the record of the conviction. Nothing short of an acquittal will answer, where the prosecution has progressed to a trial by a petit jury.\n2. It is indispensably necessary to maintain the action, to prove want of probable cause and malice in the prosecutor. It is not enough to show the oath of one of the defendants as the foundation of the prosecution, the employment of counsel by him, and his attendance at the trial, supported by some evidence as to the innocence of the party prosecuted. It must clearly appear that the prosecution was groundless, and so known, or that it might so have been known to be by the prosecutor.\nCertificate from the Nisi Prius.\nThese were actions on the case, brought to January Term 1859, by Robert B. Kirkpatrick, and Sarah his wife, against Edwin Kirkpatrick, Mahlon Hutchinson, and Charles C. Culin; and to November Term 1859, by Robert B. Kirkpatrick against Edwin Kirkpatrick, Mahlon P. Hutchinson, Charles C. Culin, Alexander E. Kirkpatrick, Francis A. Kirkpatrick, and Jacob H. Lex.\nThe former case was tried before Justice Thompson, the latter before Justice Read. As both cases grew out of the same transaction, and were disposed of at Nisi Prius in the same way, they were considered together by the court in banc.\nThe material facts are as follows: \u2014 Some time in February 1858, Mrs. Kirkpatrick was arrested on a criminal warrant, charged with the crime of attempting to poison and murder the family of her husband\u2019s brother, Edwin Kirkpatrick, detained in custody of the officers in the private office of the magistrate for nearly one day, towards the close of which she was released, on giving bail for her appearance to answer the charge. A bill of indictment was preferred against Robert B. Kirkpatrick, Sarah Kirkpatrick, Josiah G. Jones, and Elizabeth Yardley, alias Richards, containing thirteen counts, and embracing charges of conspiracies to libel, to murder, both with and without poison, with arsenic, and with white arsenic, and charged also overt acts of poisoning, of assaults, with intent to murder the entire family of Edwin Kirkpatrick, and each member thereof, in detail.\nThe trial lasted from the 7th of July until the 9th of August 1858, when the verdict of the jury was rendered, acquitting Mrs. Yardley and Josiah G. Jones entirely, acquitting Mr. and Mrs. Kirkpatrick on the first eleven counts, and convicting them on the last two, one of which charged an assault on the person of Edwin Kirkpatrick, with intent to kill, and the other an assault on the person of Amanda, the wife of Edwin, with the like intent.\nA rule for a new trial was entered by the counsel for the defendant, who also, for reasons filed, moved in arrest of judgment.\nI. The reasons presented for a new trial were, that the learned judge who tried the case, erred,\n1. In admitting evidence as to the manner in which the prosecutor had obtained a bond from the defendant, and in permitting evidence to go to the jury as to the name of the counsel who had drawn the bond, and the consideration of said bond.\n2. In admitting evidence of alleged threats made by defendant two years prior to the supposed assault.\n3. In admitting evidence of an alleged statement by defendant in reference to Mrs. Landis.\n4. In permitting Wm. H. Kirkpatrick, an infant under seven years of age, to be sworn.\n5. In admitting the evidence of Drs. Hutchinson and Bridges, as to the alleged analysis of the pie which it was said was poisoned.\n6. In admitting evidence of alleged acts and declarations by Mrs. Kirkpatrick, after the consummation of the supposed conspiracy, and the commencement of the prosecution.\n7. In permitting the prosecutor to give to the jury, certain letters that were objected to on the trial.\n8. In refusing to receive the evidence of D. S. Soby, Esq.\n9. In permitting the prosecutor to introduce in rebuttal, evidence of supposed contradictions in the statements of Margaret Dunigan, which were wholly irrelevant to the issue.\n10. In charging the jury that the defendant, Mrs. Sarah Kirkpatrick, could be convicted separately on the last four counts. To which were added:\nThe separation of the jury after the charge, and before agree ing on their verdict.\nThat the verdict was clearly against the evidence.\nThat the verdict was against the law; and\nThat there was after-discovered evidence.\nThe reasons in arrest of judgment were as follows: \u2014 \u25a0\n1. The verdict is insensible, the jury having acquitted the defendants upon counts embracing the same charges as those upon which they have rendered a verdict of guilty.\n2. The conviction of Mrs. Sarah Kirkpatrick on the last two counts is irregular.\n8. The indictment is defective, uncertain, and insufficient to support any judgment thereon.\nOn hearing, before a full bench of. the Court of Oyer and Terminer, judgment was entered in favour of the defendants on the 22d of January 1859, and they were discharged.\nThis suit by Kirkpatrick and wife against Edwin Kirkpatrick, Hutchinson, and Culin, who, it was alleged, had acted with Edwin Kirkpatrick in carrying on the prosecution, and in certain matters which preceded it, who also were important witnesses on the trial of the indictment, constant in their attendance at court, and active in publishing the details of the case as the trial proceeded; was brought February 28th 1859. The declaration charged that the defendants, with the unlawful purpose of ruining the character of Mrs. Sarah Kirkpatrick, and depriving her of her liberty, had conspired to falsely accuse her of conspiracies of attempts to murder, and other aggravated charges, and, in pursuance thereof, had procured her to be arrested and imprisoned, and had falsely and maliciously, and without any reasonable or probable cause, and with full knowledge of her innocence, prosecuted her to a trial, which had resulted in her discharge.\nOn the trial, after the plaintiff\u2019s testimony was closed, Mr. Justice Thompson ordered a nonsuit to be entered. The plaintiff\u2019s attorneys then obtained a rule to show cause why the non-suit should not be taken off. On hearing the argument, Thompson, J., delivered the following opinion, and discharged the rule:\u2014\n\u201c There undoubtedly may be a termination of a prosecution, upon which an action for malicious prosecution may be sustained, without a verdict of acquittal; but dependent upon the stage in which it occurs; for instance, where the examining magistrate discharges without holding to bail or commitment, or where the bill is thrown out by the grand jury. In these instances, there is a termination of that particular prosecution. A new prosecution for the same offence would not necessarily be connected with, or a continuation of the prior one. The rule, however, is, in all cases, to aver and prove a termination of the prosecution, by an averment either of acquittal or that it is ended: 2 Saunders on PI. & Ev. 254.\n\u201cIn this case it was averred that the plaintiff, Mrs. Kirkpatrick, had been arrested and bound over; that a true bill had been found by the grand jury, on the charge ; (that she and others had conspired to attempt to kill by poison the prosecutor, and other members of his family;) that there was a trial by petit jury, a conviction of the plaintiffs, an arrest of judgment, and discharge. This was averred to be an acquittal and discharge of the plaintiff\u2019s wife.\n\u201c It is certain that the averment was not sustained by the proof, so far as the acquittal was concerned, for the record showed the very opposite.\n\u201c Was the averment of \u2018 discharged\u2019 as proved by the record, a sufficient averment and proof of the termination of the prosecution, as the record shows ? I think not. It did not countervail the legal effect of the record of the conviction. In my opinion, nothing short of an acquittal will answer where- the prosecution has progressed to a trial hy a petit jury. This is the force of the principle in 1 Hilliard on Torts 494 et seq., for which many authorities are cited. A nol. pros, has been held insufficient in numerous cases: 6 Mod. 375; 2 Grey 124; 4 Cush. 217. Perhaps, however, this may rest upon a different principle ; on the point of the necessity for there being an acquittal. As to the conclusiveness of a conviction, see Parker v. Farley, 10 Cush. 379; Whitney v. Peckham, 15 Mass. 243; Griffis v. Sellers, 2 Dev. & Bat. 492; 2 Greenl. Ev. \u00a7 452, 457; see also Herman v. Brockerhoff, 8 Watts 240, in which it was held, per Gibson, C. J., that a conviction is conclusive of probable cause, citing Reynolds v. Kennedy, 1 Wills. 232; that it is so, even although reversed on appeal, and also to the same effect, Girtlon v. Johnson, 1 Term Rep. 565. This exactly accords with several of the authorities airea,dy cited. The case before us is stronger than either of these, for the conviction is neither reversed nor set aside; its consequences only were evaded by the arrest of judgment. This proves the accuracy of the authorities in 2 Term Rep. 235, which denies that the averment of a \u2018 discharge\u2019 is equivalent to an averment of acquittal, and hence insufficient, where there has been a trial to sustain the action for malicious prosecution. On these grounds alone, I am satisfied the nonsuit was right.\n\u201c But even if this were not so, the case, so far as it was presented by the plaintiffs, was entirely barren of two indispensable ingredients necessary to the maintenance of the action, to wit, the want of probable cause and malice. The oath of one of the defendants, as the foundation for the prosecution, and proof of the employment of counsel by him, and the attention at the trial, was proved; and then some evidence was given to show innocence on the part of the wife of the plaintiff; and here 'the plaintiffs rested their case. This was not enough, even if it were possible, under any circumstances, to recover against such a record as existed in the case. There should have been testimony to show the case of the prosecution, and that there was no reason or probable ground for it. This was not done. It was a material allegation by the plaintiffs that there was no probable cause for the prosecution, and that there was malice. We should have heard, in substance at least, what the case made was, so that we could determine how these facts were preliminary to considering the question of damages. There may be many cases in which the party charged is entirely innocent, and yet the prosecutor not liable to respond in damages on account of it. It must appear, somehow, that the prosecution was groundless, and so known, or ought to have been known to be, by the prosecutor. We commonly judge of this from the facts and circumstances of the prosecution itself, or the declarations of the prosecutor. Want of probable cause, and malice, were affirmative facts, which the plaintiffs were bound to prove; and this was not accomplished by the small amount of evidence going to establish the probable innocence of the plaintiff\u2019s wife. More than that was needed, and its absence justified the nonsuit, if there had been no other reason for it.\u201d\nOn application of plaintiff, the case was certified to the court in banc, where the entering of the judgment of nonsuit by the judge at Nisi Prius was assigned for error.\nP. Carroll Brewster and David Paul Brown, for plaintiff.\nTo maintain the action in this case, it was necessary for the plaintiffs in error to prove, on the trial,\u2014\n1. That Mrs. Kirkpatrick had been prosecuted by the defendants in error, in a criminal suit, which was then at an end.\n2. That said criminal suit had been instituted maliciously, and without probable cause.\n3. That the plaintiffs in error had thereby sustained damage: 2 Greenl. Ev. 446.\nIt is submitted that all these points were established, and that tbe learned justice erred in entering tbe judgment of nonsuit. A careful examination of the evidence in the cause will fully demonstrate the truth of this proposition.\n1. The committing magistrate testified to a correct transcript of the proceedings in a criminal prosecution before him, wherein Mrs. Kirkpatrick was a defendant, and brought before him by virtue of a warrant issued upon the oath of Edwin Kirkpatrick. The hearing occurred February 22d 1858, and she was bound over in a recognisance of $5000. \u201cBail was entered in the evening,\u201d and therefore she must have been detained in custody the greater part of the day.\nThe record of the Court of Quarter Sessions was in evidence, showing that this lady, her husband, Mrs. Yardley, and Josiah G. Jones as co-defendants, were charged with conspiracies to murder, and assault with intent to kill. Endorsed upon the bill, and on the minutes of the trial, appeared the names of .the defendants in error. It also gave evidence of the long, protracted trial; of the acquittal of Mrs. Yardley and Jones; of the acquittal of the plaintiffs in error upon all but two of the thirteen counts; of their conviction upon two counts, charging assaults, with intent to kill (precisely such offences as had been laid in several of the former counts, and of which they had already been acquitted), and of the subsequent judgment of the court upon the record, discharging them entirely.\nIndependently of this, there was abundant testimony in the cause, showing a concert of action on the part of the defendants in error, to prosecute the said criminal suit.\nMr. Edwin Kirkpatrick declared himself to be \u201c the prosecutor\u201d in the criminal- ease, to Mr. Randall, who, with Josiah G. Jones, Mrs. Yardley, Mr. Yardley, James McCann, De Wolf Brown, and Mr. Hagart, testified, on the trial of the case at bar, that the defendants were the active prosecutors in the criminal case.\nThat due publicity might be given to their prosecution, the defendants in error employed a professional stenographer to report the trial for the newspapers.\nThe record showed also that they had leen discharged by the court without day.\nAnd that they had really leen acquitted by the verdict of the jury of the very charges specified in the counts on which they were convicted.\nIt is said that \u201c nothing short of an acquittal will answer where the prosecution has progressed to a trial by a petit jury.\u201d The authorities do not sustain such a doctrine. Even the learned justice, who tried this cause at Nisi Prius, concedes that the rule in these cases is, \u201c to aver and prove a termination of the proseeution by an averment, either of acquittal, or that it is ended 2 Saund. on Pl. & Ev. 354.\nAll that is required is to show that \u201c the prosecution is at an end 2 Greenl. Ev. 448, citing Arundel v. Tregono, Yelv. 116; Hunter v. French, Willes 517; Lewis v. Farrell, 1 Stra. 114; Shock v. McChesney, 2 Yeates 473.\nMore than this, there are express authorities against the opinion of the learned justice upon this point: 3 Steph. N. P. 2276, citing Chapman v. Pickersgill, 2 Wils. 145, Whiteworth v. Hall, 2 B. & Ad. 695; Jones v. Givin, Gilbert\u2019s Cases in Law & Eq. 185; Chambers v. Robinson, 2 Strange 691.\nAll that was necessary was to show that the prosecution against Mrs. Kirkpatrick had terminated. This fact appeared quite manifestly. The manner in which she was discharged by the Court of Quarter Sessions proves that she could never be prosecuted again upon similar charges.\nBut if it be admitted that the rule does require an acquittal by a jury upon the merits, the record shows that the rule has been complied with. Mrs. Kirkpatrick was acquitted, substantially, of all the charges specified against her. The mere conviction, upon the last two counts, was inconsistent with the record, and therefore tantamount to an absolute acquittal. It was so regarded by the Court of Quarter Sessions, and such is its practical and positive consequence.\nIf the ignoring of a bill of indictment, by a grand jury, be sufficient for an action for damages, a fortiori the rendition of a verdict and the judgment of a court thereupon, like that appearing upon this record, will sustain the action.\n2. As to evidence of malice and want of probable cause.\nThe learned judge, in overruling the motion to take off the nonsuit, says: \u201c There should have been testimony to show the case of the prosecution, and that there was no reasonable or probable ground for it;\u201d and adds, that in his opinion \u201cthis was not done,\u201d hence the nonsuit. It is proposed to demonstrate the error of this judgment.\nThe motion for a nonsuit is a demurrer to the evidence. It admits the truth of all the testimony, and admits every conclusion legally deducible from the evidence: 1 Tr. & H. 507; Tucker v. Bitting, 8 Casey 428.\nIt might be argued that, whether a given state of facts does or does not make out want of probable cause, is a question exclusively for a jury. Here the determination of that issue was taken from the appropriate tribunal, and decided by the court. The law requires but a scintilla of proof, in order to send the case to the jury. In this case, at least, two of the charges laid in the indictment from which plaintiffs were discharged, were flatly disproved on the trial.\nIn truth, the plaintiffs in error were not only innocent of the charges laid against them, but their prosecutors were abundantly informed of the fact before the indictment.\nThe question of malice is for the jury: 2 Greenl. on Ev. 449, citing Cohen v. Morgan, 6 D. & R. 8; Johnstone v. Sutton, 1 T. R. 540; Jackson v. Burleigh, 3 Esp. 34; Austin v. Debnam, 3 B. & C. 139; Burley v. Bethune, 5 Taunt. 580; Grant v. Duel, 3 Rob. (La.) R. 17.\nIf so, the court was in error in putting the judgment of non-suit upon this ground, since it is submitted that there was undoubtedly some proof of malice; at least what would have authorized a conviction in the absence of contradictory proofs.\nMalice need not appear in the shape of direct and positive testimony. It may be inferred from circumstances: 2 Greenl. Ev. 450. It may be inferred from the mere fact of the discharge of the plaintiffs in error. It may \u201c be proved by evidence of the defendant\u2019s conduct and declarations, and his forwardness and activity in exposing the plaintiff, by a publication of the proceedings against him, or by any other publications by the defendant on the subject of the charge: 2 Greenl. Ev. 451.\nIf these tests be applied to the testimony in the cause, it will-be seen that the fact of malice existing in the breasts of these defendants in error was made out, to an extent, to say the very least, warranting a decision thereupon by the jury.\nGeorge M. Wharton and George A. Goffey, for defendants.\u2014 The plaintiffs\u2019 case presents these points :\u2014\n1. A criminal charge.\n2. A binding over by the committing magistrate after hearing.\n3. A 'finding by the grand jury.\n4. A trial and conviction by the petit jury.\n5. A deliberation by the jury, after the judge\u2019s charge, for the space of four days.\n6. An irregular arrest of judgment, for want of sufficient evidence, in the opinion of the court, to convict.\n7. Absence of any express malice on the defendant\u2019s part.\n8. Absence of evidence showing the falsity of the charge. \u201e .\n9. And that the chief defendant had counsel, in the course which he took, about the criminal prosecution.\nWith such a case before him, could the judge hesitate in granting the motion for a nonsuit ? That he could not, and that he properly entered the nonsuit, are shown by the authorities which establish the following points :\u2014\n1. Whenever the prosecution which is the cause of action has proceeded to a trial, there must have been a prompt and complete acquittal. Any previous termination of the prosecution, as by discharge at the preliminary examination, or ignoramus by the grand jury, is of course regulated by different considerations. But when trial is reached, there can be no legal termination except by acquittal. Failing such a termination, the record of the prosecution is of itself sufficient evidence of probable cause: Goddard v. Smith, 6 Mod. 261; S. C. 11 Mod. 56, and 1 Salk. 21; Morgan v. Hughes, 2 Term Rep. 225; Bacon v. Towne and Others, 4 Cushing 235; Whitney v. Peckham, 15 Mass. 243; Commonwealth v. Davis, 11 Pick. 437; Parker v. Farley, 10 Cushing 279; Parker v. Huntington et al., 2 Gray 124; Smith v. Shackleford, 1 Nott & McCord 36; Griffis v. Sellars, 2 Devereux & Battle 492; Herman v. Brookerhoof, 8 Watts 240.\n\u201c It must appear that the plaintiff was acquitted of the charge,\u201d is laid down in 2 Greenl. on Ev., \u00a7 452; 1 Hilliard on Torts 494, et sequitur; and Stephens\u2019s N. P. 2279, 2287; F. N. B. 114.\nThe acquittal must be prompt as well as full: Smith v. McDonald, 3 Esp. 7; Grant v. Duel, 3 Rob. (La.) R. 17; 2 Starkie on Ev. 916; 2 Greenl. on Ev., \u00a7 457.\n2. At the trial of this action, when the plaintiffs closed their case, failing 'to show want of probable cause, or showing affirmatively its existence, it was the right and duty of the judge to take the case from the jury and order a nonsuit. Just as the judge is required, when plaintiff and defendant have both submitted evidence, to instruct the jury whether or not, if believed, it establishes probable cause: Travis v. Smith, 1 Barr 234; Laughlin v. Clawson, 3 Casey 328; Graff v. Barret, 5 Id. 477; Beach v. Wheeler, 6 Id. 69 ; Fisher v. Forrester, 9 Id. 501.\nAs regards what constitutes probable cause, we refer to Seibert v. Price, 5 W. & S. 438, containing Justice Gibson\u2019s well-known definition: \u201c It is a deceptive appearance of guilt, arising from facts and circumstances, misapprehended or misunderstood, so far as to produce belief.\u201d Or, as Sergeant, J., says, in Travis v. Smith, above cited, it is \u201creasonable grounds for belief of guilt.\u201d Both which definitions are quoted and confirmed per Woodward, J., in Beach v. Wheeler. And to the same effect is 3 Wash. C. C. R. 31.\nThe plaintiffs\u2019 case does not show any want of probable cause, even apart from the record offered, which does affirmatively show its existence. They have not shown the absence of all \u201c deceptive appearances of guilt.\u201d They have not shown that the defendants did not, on some apparently \u201creasonable grounds,\u201d believe all they charged and witnessed to. On the contrary, the plaintiffs\u2019 own evidence showed that there were other matters in the case, which were not brought forward in testimony on this trial, but which displayed themselves at the criminal trial.\n3. The prosecutor acted under the advice of counsel, which is uniformly held to be conclusive evidence of probable cause : 2 Greenl. on Ev., \u00a7 459, citing Hewlett v. Crutchly, 5 Taunt. 277 ; Snow v. Allen, 1 Starkie 502; Ravenga v. McIntosh, 2 B. & C. 693. Also, Stone v. Smith, 4 Pickering 393; Hall v. Suydam, 6 Barb., S. C. R. 83; Thompson v. Mussey, 3 Greenl. 310; Blunt v. Little, 3 Mason 102; Commonwealth v. Bradford, 9 Metc. 268. See, also, Sommer v. Wilt, 4 S. & R. 25; Herman v. Brookerhoof, 8 Watts 243; Walter v. Sample, 1 Casey 275; Laughlin v. Clawson, 3 Id. 328; Graff v. Barrett, 5 Id. 477; Fisher v. Forrester, 9 Id. 501.\n4. The plaintiffs admit, in their argument, that there is not any evidence of express malice. There is, indeed, not a particle; nor even of implied malice, unless it be assumed that the mere fact of prosecution and its necessary incidents, constitute proof of malice; an idea utterly inconsistent with reason, and never entertained by any court.\nThe other action, by Robert B. Kirkpatrick against E. Kirkpatrick, M. P. Hutchinson, C. C. Culin, Alexander E. Kirkpatrick, F. A. Kirkpatrick, and Jacob Lex, was also on the case for conspiracy, connected with the criminal proceedings above stated. It was tried at Nisi Prius, before Read, J., who, after the plaintiff\u2019s testimony was closed (which differed in no material point from that offered in the former case), directed a nonsuit to be entered for the following reasons:\u2014\n\u201c Where there has been a decision, by a judge sitting at Nisi Prius, and the same question comes before me as another judge at Nisi Prius, unless I am convinced that the previous decision is wrong, I will be governed by it. The rule invariably observed in England, where there are three superior courts, is that, where one court has decided a question, the others shall follow that decision, unless convinced that it is grossly wrong.\n\u201cI now rulo that in this case the record shows an entire absence of that element which is absolutely necessary to entitle a party to a verdict, namely, want of probable cause. I hold, with my brother Judge Thompson, that the conviction of the defendant, although the judgment was arrested, proves probable cause. It is conclusive, and therefore is not to be submitted to the jury. It is a matter for the judge.\n\u201c Upon that ground alone, if on no other ground (and, of course, where a nonsuit is allowed, any ground that will sustain the nonsuit is sufficient) \u2014 upon that legal ground I now direct a nonsuit to be entered.\u201d\nThe plaintiff afterwards moved for a new trial, and to take off the nonsuit, for the following reasons:\u2014\n\u201c 1. Because the learned judge repeatedly interrupted the opening of the case, on the part of the plaintiff\u2019s counsel, stating at the same time, that the case must be confined exclusively to the proceeding against Robert B. Kirkpatrick, and had nothing to do with the arrest and prosecution of his wife; whereas, it is respectfully submitted, that as the prosecution for a conspiracy embraced both in the same charge, it therefore became legally and essentially necessary, that the evidence adduced against both should be introduced upon the trial for a malicious prosecution.\nMay 6th 1861,\n\u201c 2. Because the learned judge erred in ruling out the testimony offered by the plaintiff, to show the oath upon which the warrant issued against Mrs. S. B. Kirkpatrick, who was charged with her husband and Josiah Gr. Jones.\n\u201c 3. Because the learned judge erred in stating before the jury, during the progress of the case, that a nonsuit had been entered in a similar case, namely, the case of Mrs. Kirkpatrick, whereas this case differed from the other in essential particulars.\n\u201c 4. Because the learned judge, while professing to adopt the law as laid down by Judge Thompson, in granting the nonsuit, actually refused to permit us to produce evidence, the non-production of which formed the ground of the former nonsuit.\n\u201c 5. Because the learned judge erred in holding that the verdict in the Quarter Sessions was sufficient proof of probable cause, whereas there was, legally speaking, no verdict; and even if there had been, it would not have availed, had we proved fraud and combination on the part of the prosecution, which the learned judge prevented our proving.\n\u201c 6. The learned judge erred in rejecting the evidence offered by the plaintiff to show combination and fraud, in the arrest of all the defendants in the original prosecution.\n\u201c 7. The learned judge erred in taking the question of fact (as proving malice and want of probable cause) from the jury.\n\u201c 8. The learned judge erred in ordering a nonsuit.\u201d\nThe learned judge at Nisi Prius, on hearing, discharged the rules, whereupon, on application of the plaintiff, the case was certified to the court in banc, where the ruling of the judge at Nisi Prius, rejecting portions of the plaintiff\u2019s evidence, and the entering of a nonsuit, as above stated, were assigned for error.\nThis case was argued here by David Paul Brown, Jr., and David Paul Brown, for plaintiffs in error; and by George M. Wharton and George A. Coffey, for defendants in error, by whom the same positions were taken, and the same authorities were cited, as in the former case."
+  },
+  "file_name": "0288-01",
+  "first_page_order": 288,
+  "last_page_order": 299
+}

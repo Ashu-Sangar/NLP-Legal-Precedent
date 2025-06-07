@@ -1,0 +1,110 @@
+{
+  "id": 964998,
+  "name": "Roberts versus Fitler",
+  "name_abbreviation": "Roberts v. Fitler",
+  "decision_date": "1850-03",
+  "docket_number": "",
+  "first_page": "265",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Pa. 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Pick. 168",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2031174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/21/0175-02"
+      ]
+    },
+    {
+      "cite": "7 Blackf. 129",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "case_ids": [
+        1382832,
+        1382885
+      ],
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/blackf/7/0129-02",
+        "/blackf/7/0129-01"
+      ]
+    },
+    {
+      "cite": "2 Whart. 37",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830556
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0037-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3579,
+    "ocr_confidence": 0.384,
+    "pagerank": {
+      "raw": 6.572654163217837e-08,
+      "percentile": 0.4024111058212274
+    },
+    "sha256": "9d96be4f1aee9a2db24ea89ce053f3c9c6ba057a24a84ecfee95b51d271f22ef",
+    "simhash": "1:4e63e5fb36dcc28b",
+    "word_count": 631
+  },
+  "last_updated": "2024-02-27T17:48:08.325420+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roberts versus Fitler."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nBurnside, J.\nThis action was debt on a replevin bond, in a suit of Roberts vs. Carr. They had been in partnership in the manufacture and sale of camphene lamps. They disputed about them advances to the firm, and Roberts claimed the goods as plaintiff in the replevin, under an alledged bill of sale from Carr.\u2014 The jury, in the replevin suit, found for the defendant, Carr, and assessed damages at $23 00.\nA fi. fa. issued for the damages and costs, and a retorno habendo for the goods, which had been delivered to Roberts on the bond in this action. To the retorno habendo the sheriff returned \u201celoigned.\u201d\n. On the plea of set off, the defendant offered in evidence various sums which he had paid for and advanced to the partnership of Carr and Roberts. This offer involved the settlement of their partnership accounts, without even an allegation of there being any thing due the defendant out of that partnership. The court were right in rejecting the offer. Their decision is fully sustained by the case of Sennett vs. Johnson, 9 Barr, 336, as well as many other cases. The judgment is affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Zantzinger and Share, for the plaintiff in error,",
+      "Perkins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Roberts versus Fitler.\nIn a suit on a replevin bond, by one partner against his co-partner, where the goods replevied were partnership property, the defendant cannot set off money paid by him on the partnership account, there being no proof that he would be a creditor after a settlement of the joint accounts.\nError, from the District Court of Philadelphia.\nThis was an action of debt on a replevin bond, by Fitler, late sheriff of the county of Philadelphia, for the use of Carr against Boberts.\nBoberts had brought' replevin against Carr for sundry chattels.\u2019 Defendant pleaded non cepit, property in defendant, and property in plaintiff and defendant jointly. In that action a verdict was rendered for Carr, the defendant, on all the issues. Judgment de retorno habendo was entered, and the sheriff returned the fi. fa. \u201celoigned as to the goods and chattels.\u201d This action was then brought by Fitter vs. Roberts, on the replevin bond, and the material plea was set off. Under the notice, the defendant offered to prove the payment and advance of various sums of money by himself to the partnership composed of Carr, to whose use this action is brought, and Roberts, the defendant. The rejection of the evidence was the point argued here.\nZantzinger and Share, for the plaintiff in error,\ncontended that there might be a set off against the cestui que trust of the plaintiff, 6 S. & R. 244; that this demand being collateral to the partnership, evidence of indebtedness, on that account, might be used by way of set off, 2 Whart. 37; and that it was of the very essence of the issue, to what extent the plaintiff had been damnified by the taking of the goods. If they were, as the verdict had settled, partnership property, it could not be that he could recover the whole value from his co-partner, when, in point of fact, the state of the accounts showed he had no real interest, being indebted to his partner to an amount exceeding the value of the assets. 7 Blackf. 129, 298; 4 Pick. 168; 18 id. 433.\nPerkins, contra.\nWhat may be the rule, when it is shown that the defendant is a creditor of the firm, need not be inquired into, for there was no offer to prove more than payments made on account of the partnership, from which, alone, no inference of indebtedness by the other partner could be rightfully drawn. If it could, the matter involving the settlement of partnership transactions cannot be used as a set off, 9 Barr, 336."
+  },
+  "file_name": "0265-01",
+  "first_page_order": 267,
+  "last_page_order": 268
+}

@@ -1,0 +1,66 @@
+{
+  "id": 963751,
+  "name": "Guthrie v. Horner",
+  "name_abbreviation": "Guthrie v. Horner",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "236",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 259,
+    "char_count": 4043,
+    "ocr_confidence": 0.379,
+    "pagerank": {
+      "raw": 8.267785713313966e-08,
+      "percentile": 0.47859045064017247
+    },
+    "sha256": "ee4fa148200898f6d74f6a4001762f1c8ab7461abca6324fb7397a74788225c6",
+    "simhash": "1:8aa15a750444adf3",
+    "word_count": 759
+  },
+  "last_updated": "2023-07-14T20:53:58.856380+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Guthrie v. Horner."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\n(after stating the case.)\u2014We think there was error in the way the learned judge put the cause to the jury. [His Honour here stated the first error assigned.] This Court has ruled in Jobson v. Boden, 8 Barr, 463, that under the Acts of 1836 and 1845, a journeyman is not entitled to a lien for his work. In that case the facts were that Jobson was employed by McAllister to build a mill at a certain price; Jobson hired Boden by the day, as a carpenter and millwright, for the agreed price. Boden filed a mechanics\u2019 lien for his pay. On the trial of the scire facias, the Common Pleas gave judgment for the plaintiff, and this Court reversed that judgment.\nI think no one will read the opinion of Mr. Justice Bell but will be satisfied that our mechanics\u2019 lien law never did nor never could contemplate that every man who was hired by a contractor to work at a building had a right to file a lien for his wages. Under the opinion of the Court in this case, the jury were misled, if they found that Horner was hired by Obert to work at the mill, Guthrie was in any event liable to pay him. Our lien law is not so.\n[His Honour here stated the second error assigned.] The evidence was clear that the mill was perfectly worthless. If the plaintiff relied on confirmation after full knowledge that the mill was of no value, it lay on the plaintiff to prove it.\n[His Honour here stated the third error.] .The jury ought to have been instructed that, if they found that Obert and Horner were partners, that then the defendant had the same defence against Horner that he had against Obert; and if they found from the evidence that Horner was a mere labourer for Obert, then, unless there was a full agreement and confirmation on the part of Guthrie to pay Horner for his labour, after knowledge that the mill was worthless (a fact not disputed), the making of the single bill did not prevent him from showing the mill was worthless in this case, and that the labour of Horner was a loss instead of a benefit to Guthrie. If the jury found Horner was a workman and labourer under Obert, and the place was Obert\u2019s, and Horner did his work faithfully for his employer, then, as we have said, he had Obert for his wages, and he was the person who ought to pay him.\nThe judgment is reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Purviance, for plaintiff in error.",
+      "Lathy, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Guthrie v. Horner.\n1. One hired by a contractor, cannot sue tie employer of the contractor for bis wages.\n2. Where a bond has been given to plaintiff for work done, in building a mill which is worthless, he must show that the defendant knew the fact at the date of the bond.\nIn error from the Common Pleas of Clarion.\nDebt on a single bill, dated in September, 1841. Payments had been made thereon in 1842, and 1844.\nDefendant proved admissions of plaintiff that the bill was given him for work done on a mill built for defendant. That he had been employed by one Obert to do the work, who had furnished the plan, and with whom he was in partnership; and lastly, that the mill was entirely worthless, owing to a defect in the plan.\nThe points in the charge which were assigned for error were,\n1. That labourers and material men working without contract on a job, have both the owner and contractor for their pay; and if the owner gives his note or agrees to pay the labourer his wages, he cannot set up a failure of the contract unless,, it was so understood and agreed upon when the note was given.\n. 2. That it was for the plaintiff to show that he was not acquainted with the defects in the mill at the time he gave the note, or that ho had not the means of knowing.\nThe third error assigned was, that the Court erred in not charging the jury that if,they believed the evidence that ITorner was acting either as the agent or partner of Obert in pursuance of a contract made between Obert and Guthrie, that Guthrie might set up any defence arising out of a failure of the contract or defect of workmanship that would be competent for him to make if Obert were plaintiff.\nPurviance, for plaintiff in error.\nLathy, contr\u00e0."
+  },
+  "file_name": "0236-01",
+  "first_page_order": 236,
+  "last_page_order": 238
+}

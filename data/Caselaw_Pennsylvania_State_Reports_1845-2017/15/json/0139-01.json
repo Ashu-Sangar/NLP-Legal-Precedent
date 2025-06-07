@@ -1,0 +1,103 @@
+{
+  "id": 408825,
+  "name": "Thomas versus Mowrer",
+  "name_abbreviation": "Thomas v. Mowrer",
+  "decision_date": "1850-08-01",
+  "docket_number": "",
+  "first_page": "139",
+  "last_page": "144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Bin. 55",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788983
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0055-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 37",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788942
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0037-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates 401",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 262",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 572,
+    "char_count": 14640,
+    "ocr_confidence": 0.449,
+    "pagerank": {
+      "raw": 7.505963857335425e-08,
+      "percentile": 0.4466847294958123
+    },
+    "sha256": "de16d51091d1e2646800b453df28b67d87b73bed381f8e508440b0223b3db9c7",
+    "simhash": "1:122d3a354b1520f6",
+    "word_count": 2638
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas versus Mowrer."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, C. J.\nThe principles stated by my brother Burnside, when the cause was here before, are indisputable; but they are inapplicable to the state of the case as they are now presented by the evidence. It was assumed to have been proved at the former trial, that the dead black-oak corner of the McDonald survey is a recognised monument of the Millard survey, and that the chestnut oak is a corner of it. Both are called for in the return of survey \u2014not in the warrant; but both are clearly shown to have been marked as monuments only of the McDonald survey. The chestnut oak was marked as a sight-tree on it; but not as it would have been, had it been a corner of the Millard survey. There is not a particle of evidence from marks on the ground that a line was run corresponding with those trees; but the line claimed for the Lee survey, as the dividing one between it and the Millard survey, is distinctly marked; and both these surveys were returned by the courses and distances of it. We have then, on the one hand, concurrent returns of the same courses and distances, and an actual line corresponding with them; and on the other, a call for an adjacent survey. Which is to prevail ? From sweeping expressions of the judge who delivered the opinion in Hartley v. Martz, 4 Watts 262, it might seem that, except in extreme'circumstances, the calls of a survey override every thing else; but the true principle of that case is stated by my brother Burnside, in Walker v. Smith, 2 Barr 44, where it is shown that the lines on the ground constitute the survey, and control the calls for a natural or other fixed boundary. Here the courses and distances called for in the return, are the same as the courses and distances marked upon the ground; .and the discrepancy in the case is between these and a call for a particular adjoiner. There is call against call; and the line on the ground is decisive. On the principle of the maxim, de minimis, a very slight variance might be immaterial; but here the consequence would be a loss of forty acres; and the judge who tried the cause was therefore right in directing, the jury to go by the actual survey.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Pleasants, for plaintiff in error.",
+      "Qomly, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas versus Mowrer.\nWhere a return of survey calls for an adjoining survey, hut the lines on {lie ground correspond with the courses and distances of the survey returned, the lines on the ground will control the call for the adjoining survey.\nError to the Common Pleas of Columbia county.\nThis was an ejectment by Lloyd Thomas vs. Peter Mowrer, for forty acres of land, in Roaring Creek township,. Columbia county.\nThomas, the plaintiff in error and plaintiff below, claimed the land under a warrant, dated 3d October, 1792, to Martha Millard, for two hundred acres, to adjoin land of Benjamin Williams, Samuel Siddings, including waters of Roaring Creek, in Catawissa township, Northumberland county, (now Columbia.) Survey made 18th September, 1793, 191 acres 40 perches and allowance. Survey returned 30th March, 1795,191J acres and allowance, adjoining John Davis in right of John Lee, John McDonald, Edward Lynch, Benjamin Williams, Samuel Siddons, and vacant land on the west side.\nMowrer, the defendant, claimed under an indescriptive warrant, dated 29th May, 1792, to Nathan Lee, for three hundred acres. Survey made 20th September, 1793, (two days after that of Martha Millard,) 304J- acres and allowance. Survey returned 12th February, 1795, (one month and eighteen days before the return of Martha Millard,) 304J acres and allowance, to adjoin Martha Miller, John McDonald, and Samuel Lobdell and others.\nThe survey of John McDaniel, called for as an adjoiner (by the name of John McDonald) in the return of survey of Martha Millard and in that of Nathan Lee, was made on the 9th of December, 1791. The three surveys were made and returned by the same deputy surveyor. The ironwood corner, common to both tracts (Martha Millard and Nathan Lee) on the west, is an established corner, and the line thence north 86\u00b0 east 156 perches, to the black-oak corner (being north 84\u00b0 east on the official drafts) is well marked on the ground, and is not the subject of dispute; but it is the course of the line running eastwardly from this black-oak corner that is litigated between the parties in this action. The return of survey of Martha Millard calls for a line from the black oak north 46\u00b0 east 219 perches, to a chestnut-oak corner in the line of John McDaniel, and calls for the \u201c-dead white-oak corner\u201d of John McDaniel as a line-tree in that line. The return of survey of Nathan Lee calls for a line from the same black oak north 45|- east 219 perches, to a dogwood corner. The testimony of Abraham Straub, David Rockafellow, and John Fetterman, established the existence of a line on the ground, of the date of the surveys of Millard and Lee, running from the black oak north 48\u00b0 east, which, allowing two degrees variation, the same as that on the line from the ironwood to the black oak, corresponds with the course in the return of Martha Millard, and to a half of a degree with that in the return of Nathan Lee. This is the line claimed by the defendant. The plaintiff .claimed to run from the bl\u00e1ck oak north 69f- east 176 perches, to the dead white-oak corner of John McDaniel, thence north 80-J-east 38 perches, to the chestnut oak in the line of John McDaniel, thereby introducing an additional line into his survey, and varying from the line returned, 23f degrees in the one line and 34J degrees in the other. There are no marks on either of these lines corresponding in date with the survey of Martha Millard.\nIt was not alleged, at the trial, that the line from the blank oak north 69f east had been marked on the ground at the time of making the survey of Martha Millard, or that the dead white-oak corner of John McDaniel was marked as a line-tree of plaintiff\u2019s survey ; but the plaintiff contended, and endeavored to prove, that the chestnut oak in the line of McDaniel had been marked in 1793 as a corner of Martha Millard\u2019s survey, but the jury found this against him. This question was submitted to them by the court below, and they found, by their verdict, that it was not marked as corner of Millard prior to the making of the survey of Lee.\nHis Honor J. B. Anthony, charged, inter alia:\u2014\nThis is an action of ejectment. Plaintiff shows a legal title to all the land included in Millard survey of 191J acres, made 18th September, 1793, and, so far as it extends, his title is superior to defendant\u2019s. Defendant claims under a survey of Nathan Lee, made 20th September, 1793, which adjoins Millard; it contains 304-|- acres in the whole. Defendant\u2019s part is 154-J- acres. The only question is, where is the boundary of Millard, as it was originally made upon the ground before the return of Lee ?\nIf the evidence now was the same in substance as that on former trial, this court would follow the instruction of the Supreme Court, and direct you that your verdict ought to be for plaintiff. But, in our opinion, the facts are different from those on former trial. Then it did not appear that Nathan Lee was returned before Millard. It now appears that it was, and accepted by the land-office one month and eighteen days previous, and it therefore becomes important to consider where the original survey of Millard was made; for, although the return of survey is strong presumptive evidence that it was made upon the ground as returned into the land-office, yet we do not consider the return \u201cconclusive evidence\u201d of that fact: but if the jury are satisfied from the evidence that the Millard survey made on the ground was altered after the Lee survey was returned, you have a right to determine where the original survey was made, upon a careful consideration of all the evidence in the cause.\n\u201cIf a surveyor marks corners and lines on the ground, and makes a return, calling for some of them, it is to be presumed that he returns by the marked lines and corners; for otherwise, he would deceive his employers.\u201d In this State, the natural and artificial boundaries, the monuments described as the boundaries and limits of a survey in general, form the only evidence of a survey: to these limits thus returned the survey extends, whatever may be the courses and distances expressed in such return; and this is the common law of the land. If, therefore, there has been no alteration by the deputy surveyor of \u201cthe natural or artificial boundaries\u201d of the Millard survey after the survey of Lee was returned; if the Millard survey returned into the office was the same survey that was made or adopted upon the ground, then your verdict should be for plaintiff; but if you believe that the line N. 46 E. running from the black oak was marked on the ground for Millard at the time it was made, and that after the Lee survey was made and returned the deputy surveyor changed or altered the line that he made on the ground so as to call for the dead white oak, and the chestnut oak; and that he adopted the chestnut oak as a corner of Millard in his return, without having made or adopted it as a corner of Millard previous thereto, then your verdict may be for defendant. We, therefore, leave the question of fact under all the evidence to be determined by you, whether the chestnut-oak corner was made for or adopted by the deputy surveyor when he made the survey of Millard; or whether the line N. 46 E., on which there are marks corresponding with the date of the survey, is the survey actually made on the ground.\nTo plaintiff\u2019s first point, the court answered:\u2014-\nThat, although his Hon. Justice Burnside, when this case was before the Supreme Court, said, that \u201cthe survey of McDonald was a certain and fixed boundary of Millard, that never could be mistaken, and is called for in the return, and, with the other evidence of the surveyor being on the ground, is conclusive that the survey returned adjoins McDonald;\u201d yet, he says, in the same opinion, that \u201c he has no doubt that Captain Gray ran the line defendant claims, but he did not return by it.\u201d We conceive the present case differs from that which went to the Supreme Court in this particular: in that case, the Millard was made two days before Lee, and the title was admitted to be the oldest; but the evidence now shows that, although Millard\u2019s title to the land included within his survey made on the ground is superior to Lee\u2019s, yet, as the survey of Lee was returned into the land-office on 12th of February, 1795, and Millard was not returned until 30th of March, 1795, the lines of Millard could not be legally extended or altered in the return of survey so as to cover lands hot within the original survey, if such extension or alteration interfered with the survey of Lee; and for this doctrine I refer to Yickary v. Shelly, 14 Ser. \u00a7\u2022 L. 377; Healy v. Maul, 5 Ser. \u2021 R. 181; Steel v. Findley, 2 Smith\u2019s Laws 155; Hepburn v. Levy, 4 Lai. 218. In 5 Ser. $ R. 187, Justice Duncan says, \u201c I do not question the right of an owner to have his lines extended, if his warrant be not filled,' nor do I doubt of the right of the deputy to alter his original survey, to throw out or take in other lands, provided this is done shortly, and does not interfere with mesne rights between the time of the original survey and the alteration before the return.\u201d See, also, Nicholas v. Holliday, 3 Yeates 401; Biddle v. Dougal, 2 Bin. 37; Evans v. Nargong, 2 Bin. 55.\nIf then the jury are of opinion that the survey as made on the ground does not adjoin the McDonald survey, then, like the case cited in 4 Ser. f R. 461, although it may call for \u201c a black oak in the State line;\u201d yet, if the marks and lines of the survey do not run on the State line, the jury must be governed according to the marked line. So in the present case, if the jury are satisfied that the line run and marked for the Millard survey does not adjoin the McDonald survey, they may reject the call for that survey as an error or mistake in the return, because the court is of opinion that the return of the Millard survey cannot prejudice the rights of the person holding under.the Lee survey by any alteration of the lines on the ground, as the Lee survey was returned into ofiice before that of Millard.\nTo plaintiff\u2019s second point, court answer:\u2014That although the return of survey of Millard extends as stated by the counsel in this point, and includes all the land in controversy; yet, whether the actual survey made upon the ground extends as therein stated, is a question of fact for the jury on careful consideration.\nError was assigned to the charge of the court, and to their answers to various points proposed on each side.\nThe case was argued by Pleasants, for plaintiff in error.\nQomly, for defendant.\nThe law as held by the court in Hall v. \u25a0 Powell, 4 Ser. $ R. 456, and cited by the court in their opinion given when this was first before them, as the established law of the land, and as ruling this case, rules it in favor of the defendant. 1st.\n\u201c That if a surveyor marks corners and lines on the ground and makes a return calling for some of them, it is to be presumed that he returns by the marked lines and corners; for otherwise he would deceive his employers.\u201d 2d. \u201c That when lines and corners are to be found on the ground, they cannot be departed from, though there may be some variance in the courses.\u201d 3d. \u201c The rule is invariable, that when two corners are established, the course is disregarded.\u201d\nIn this case it was proved and found by the jury that the chestnut- . oak corner claimed by the plaintiff was not marked as a corner by the surveyor, and it is therefore not established, while, on the contrary, the line from the black oak N. 48 E. is found on the ground, with marks corresponding with the date of the two surveys, and has been established by the verdict as the division line between the surveys made by the surveyor at the time. But it is said by the counsel for the plaintiff in error, \u201cthat the question whether or not the Millard survey extended to the line plaintiff claims to, was the only question in the cause,\u201d and that the court below ought to have decided this, as a question of law, in favor of the plaintiff. But where a survey extends to, depends upon the position of the natural or artificial monuments that bound it. When the existence and location of these are admitted, the extent of the survey is a question of law'; but when either the existence or location of these monuments is asserted on the one side and denied on the other, a question of fact is involved, which can be determined only by a-.FIT-\nAugust 1,"
+  },
+  "file_name": "0139-01",
+  "first_page_order": 139,
+  "last_page_order": 144
+}

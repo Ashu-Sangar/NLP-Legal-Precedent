@@ -1,0 +1,91 @@
+{
+  "id": 415624,
+  "name": "Tyler versus Young",
+  "name_abbreviation": "Tyler v. Young",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "143",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Jones 269",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 353",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/9/0353-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 269",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 261,
+    "char_count": 3820,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 1.799589373421605e-07,
+      "percentile": 0.7162342283275975
+    },
+    "sha256": "5c233252006217e066788d86894bdbd0c149ce63e838d82fdb6ccb904c30b9da",
+    "simhash": "1:ad00d0b4181fb7d9",
+    "word_count": 680
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tyler versus Young."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nPorter, J.\n\u2014 Was the defendant entitled to notice of demand and non-payment ? As much so as if the notes had been endorsed before maturity. The wonder is not that the error committed in Jordan v. Hurst, 2 Jones 269, should so soon have been corrected in Patterson v. Todd, 6 Harris 433, but that it should have occurred. The endorsement of a note, due or not due, always expresses a conditional as opposed to an absolute obligation; otherwise a new note would be resorted to. The endorsement of a note over due, has been invested by the modern decisions with a very distinct character: Leidy v. Tammany, 9 Watts 353. It is a bill of exchange drawn on the party primarily liable, payable at sight. In this theory, the necessity of demand and notice is an essential element: not notice) on a given day, as in the case of a maturing note, possible in that case, but impossible in the other, for the day appointed by the former maker and the new acceptor has passed; but notice after the holder has had reasonable time to make the demand on the maker, and has employed that time with diligence. The delay which occurred between September and May, or even between January and May, in giving this notice, was too long to be reasonable. The declining condition of the maker made it worse. No excuse can be found in the conversation between the defendant and a former holder, in regard to waiting for payment until spring, for that was no part of the contract of endorsement; and by it the plaintiff, who was a stranger to the arrangement, stood unaffected. In this determination of the only question brought to the notice of the court, no error was committed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Porter, J."
+      }
+    ],
+    "attorneys": [
+      "C. P. & G. G. Waller, for the plaintiff in error,",
+      "No counsel appeared^ for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Tyler versus Young.\nWhere a person endorses an overdue note, he is entitled to notice of demand and non-payment, as much as if it had been endorsed before maturity. It is the duty of the endorsee to present such note to the maker for payment, within a reasonable time, and in case of non-payment, immediately to give notice to the endorser.\nError to the Common Pleas of Wayne county.\nThis suit came into the court below on an appeal from the judgment of a justice of the peace. It was brought by William W. Tyler against David Young, as endorser of two promissory notes, made by Aaron McIntyre, one dated 3d March 1854 for $49.55, and payable on the 1st of May next to Benjamin and William Dexter, or bearer; and the other dated 29th June 1854, for $20, payable twenty days after date, to David Young, or bearer.\nIn September or October 1854, the defendant below was the holder of these notes, then overdue, and endorsed them to Moses D. Tyler, for value, exacting a promise from Tyler not to sue the maker before the next spring. In 1854, McIntyre became insolvent.\nIn January 1855, Moses D. Tyler transferred these notes, for value, to W. W. Tyler, the plaintiff, and informed him that they were not to be sued before the spring of 1855.\nOn the 23d May 1855, the plaintiff sued the maker upon the notes, recovered judgment, and issued execution which was returned \u201c no goods.\u201d But no notice of non-payment was given to Young, the defendant, until about the time suit was brought against the maker.\nThe court below (Barrett, P. J.,) charged the jury that the defendant was entitled to notice of demand and non-payment; and that no such notice having been given, their verdict must be for the defendant. To this charge the plaintiffs\u2019 counsel excepted; and a verdict and judgment having been given for the defendant, the plaintiff removed the cause to this court, and here assigned such charge for error.\nC. P. & G. G. Waller, for the plaintiff in error,\ncited Barclay v. Weaver, 7 Harris 396; Patterson v. Todd, 6 Harris 433; Jordan v. Hurst, 2 Jones 269.\nNo counsel appeared^ for the defendant in error."
+  },
+  "file_name": "0143-01",
+  "first_page_order": 143,
+  "last_page_order": 145
+}

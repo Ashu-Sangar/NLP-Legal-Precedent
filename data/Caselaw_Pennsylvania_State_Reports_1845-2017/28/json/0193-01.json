@@ -1,0 +1,116 @@
+{
+  "id": 981561,
+  "name": "Fegenbush versus Lang",
+  "name_abbreviation": "Fegenbush v. Lang",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "193",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts 450",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842786
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0450-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 449",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 John. 326",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6065052
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/17/0258-01"
+      ]
+    },
+    {
+      "cite": "12 John. 159",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139233
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/12/0159-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 466",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 286,
+    "char_count": 5201,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 4.3776877221195043e-08,
+      "percentile": 0.27470539788227033
+    },
+    "sha256": "bafc6393c2a54e17c6de82c90d03f775dc60dad6236e3ccf888152941ea84796",
+    "simhash": "1:341d865ddc1d2497",
+    "word_count": 948
+  },
+  "last_updated": "2024-02-27T19:56:45.258485+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fegenbush versus Lang."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nWhen bills of exchange and promissory notes are drawn and endorsed in the usual course of business, there is no difficulty in determining the extent of liability incurred. When a note is endorsed after it is due, the endorsement is equivalent to a bill of exchange drawn upon the maker at sight: Patterson v. Todd & Lemon, 6 Harris 426. When a note-payable to the order of the payee is endorsed by one not a party to it, the endorsement, unexplained, is an agreement to be liable for the note in the hands of third persons, after the payee has placed his name there as first endorser: Hauck v. Carman, 10 John. R. 224; 12 John. R. 159; Taylor v. McCune, 1 Jones 466. On such an endorsement, unaided by other evidence, the payee cannot recover against the endorser: Bishop v. Hayward, 4 T. R. 470. But the payee may show aliunde that the endorsement was made for the purpose of procuring a credit with him for the maker of the note. If so, the endorser may be regarded as a guarantor of the note: 4 T. R. 470; 12 John. 159; 17 John. 326; 1 Jones 466; 4 Watts 449; 6 Harris 426. In such a case, if the maker is insolvent at the maturity of the note, this is prima facie evidence that a demand and notice would be of no avail, and that the guarantor could not be prejudiced by the want of them. Gibbs v. Cannon, 9 S. & R. 198; 4 Watts 450. But in this case, no question was raised in the court below in regard to demand on the principal debtor, or due diligence in pursuing him, and we raise no questions of the kind here. As the evidence shows that the principal debtor was insolvent, and that the surety, after maturity of the note, promised to pay the debt, the parties very properly put the defence upon the nature and extent of the contract. The evidence is clear and uncontradicted, tending to show that the endorsement, although made before the note was delivered to or endorsed by the payee, was made for the purpose of procuring a loan of money from him to the maker of the note, and that Lang, the endorser, was to be security for the repayment of it. Under these circumstances it was not error to instruct the jury that, \u201c if the note was endorsed by the defendant with the view of obtaining a loan, and a loan was made on the faith of the endorsement, the plaintiff is entitled to recover, otherwise not.\u201d Applying these instructions to the evidence, they must have been understood by the jury as submitting to them to decide, whether the defendant contracted with the plaintiff to become security to him for the money advanced to the maker; and they have responded in the affirmative. This cures any ambiguity in the charge in regard to the presumption \u201c arising from the face or the back of the note.\u201d By the explicit instruction that the plaintiff could not recover unless the jury were satisfied that the endorsement was made with the view of obtaining a\u2019loan from the plaintiff on the faith of it, the cause was made to turn upon its true point.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Markland, for plaintiff in error.",
+      "Lex, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Fegenbush versus Lang.\nWhen a note payable to the order of the payee is endorsed by one not a party to it, the endorsement unexplained is an agreement to be liable for the note in the hands of third persons after the payee has placed his name there as first endorser.\nOn such an endorsement, unaided by other evidence, the payee cannot recover against the endorser.\nThe payee may show aliunde that the endorsement was made-for the purpose of obtaining a credit with him for the maker of the note; and in such ease the endorser will be regarded as a guarantor.\nIf the maker is insolvent at the maturity of the note, this is prima facie evidence that a demand upon the maker and notice to the guarantor, would be unavailing, and would dispense with the proof of them.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit, brought by Henry Lang against Jacob Fegenbush upon a note drawn and endorsed as follows:\u2014\nPhiladelphia, December 26, 1853.\nTwelve months after date, I promise to pay to H. Lang one hundred dollars, with lawful interest, for value received.\nSigned, Ernest Frederick Bdaich.\nEndorsed,\nJacob Fegenbush,\nH. Lang.\nOn the trial it appeared, that Lang was applied to by Blaich for the loan of the money, which was agreed to be given to him if he would get Fegenbush to endorse and become security for him. Fegenbush was told this, endorsed the note, and it was then delivered to Lang, who afterwards endorsed it. At the maturity of the note, Blaich was insolvent, and Fegenbush promised to pay the amount due.\nThe court charged the jury as follows :\u2014\n\u201c There is no presumption of law or of fact against the plaintiff, arising from the form of the note, either from the face or the back of the note. The other question is one of fact, and depends upon the evidence before the jury. If the note was endorsed by defendant with the view of obtaining a loan, and a loan was made on the faith of the endorsement, the plaintiff is entitled to recover, otherwise not.\u201d\nThe verdict of the jury was in favour of the plaintiff\nThe error assigned was to the charge of the court.\nMarkland, for plaintiff in error.\nLex, for defendant in error."
+  },
+  "file_name": "0193-01",
+  "first_page_order": 193,
+  "last_page_order": 194
+}

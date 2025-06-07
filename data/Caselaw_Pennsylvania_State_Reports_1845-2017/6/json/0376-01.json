@@ -1,0 +1,62 @@
+{
+  "id": 954599,
+  "name": "Keller v. Cunningham",
+  "name_abbreviation": "Keller v. Cunningham",
+  "decision_date": "1847-09-14",
+  "docket_number": "",
+  "first_page": "376",
+  "last_page": "376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 376"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 136,
+    "char_count": 1822,
+    "ocr_confidence": 0.358,
+    "sha256": "81fff50b02309e159892aa7170ced891bcec51b1b380bec7059d6c1880944567",
+    "simhash": "1:8a0488007385f5de",
+    "word_count": 325
+  },
+  "last_updated": "2023-07-14T16:04:23.168080+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keller v. Cunningham."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nThe nonsuit, it is clear, was improperly ordered; for, at the time it was entered, the cause was on the argument list on a motion to quash the defendant\u2019s appeal. A cause cannot be put on the argument and issue list at the same term: except by consent or special order of the court on notice to all the parties. A contrary practice would lead to surprise and injustice, of which this case furnishes an instance. The plaintiff having succeeded in obtaining an award, the defendant appealed, but without paying all the costs. Plaintiff obtained a rule on the defendant to pay the costs, and the costs being' afterwards paid, the motion for quashing the appeal was overruled; whereupon, at the same term, without notice to the plaintiff, and in the absence of counsel, the cause having been reached on the trial list, the court ordered a non-suit. This was done without due consideration; for, while the motion to quash was pending, the plaintiff was not bound to prepare for the trial of the issue, nor could the defendant be compelled to enter on his defence.\nThe judgment of the court below ordering a nonsuit is reversed, the suit reinstated, and procedendo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Alden, for plaintiff in error.",
+      "Austin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Keller v. Cunningham.\nA cause cannot be placed on the trial list during the term that a motion to quash the appeal is on the argument list. And a nonsuit in such case will be reversed.\nSept. 11. On the 6th April, defendant appealed from an award of arbitrators. Notice to pay the costs was served October 81st. In December Term, the motion was set down on the argument list. At the same time the cause was put upon the trial list. On the 2d February, 1847, the costs were paid, and the motion to quash discharged. On the same day the cause was reached on the trial list, and nonsuited.\nAlden, for plaintiff in error.\nAustin, contra.\nSept. 14."
+  },
+  "file_name": "0376-01",
+  "first_page_order": 376,
+  "last_page_order": 376
+}

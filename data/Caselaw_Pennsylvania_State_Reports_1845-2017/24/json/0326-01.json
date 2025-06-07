@@ -1,0 +1,91 @@
+{
+  "id": 9504551,
+  "name": "Root versus O'Neil",
+  "name_abbreviation": "Root v. O'Neil",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "326",
+  "last_page": "327",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 326"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Yeates 507",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6776043
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0507-01"
+      ]
+    },
+    {
+      "cite": "1 Whar. 11",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0011-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 202,
+    "char_count": 2527,
+    "ocr_confidence": 0.411,
+    "pagerank": {
+      "raw": 2.716521127412636e-07,
+      "percentile": 0.8297777206315889
+    },
+    "sha256": "101ce951a8637a274f09def8a0e8e2628f6cfb8ab6f6e38c17e5fe4ec1c3cf03",
+    "simhash": "1:be7ac4f44f9eff3b",
+    "word_count": 448
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Root versus O\u2019Neil."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack:, J.\nWhen a plaintiff has stated his cause of action defectively, he may amend his declaration at any time before or during the trial. But his right of amending is not entirely without limit. The great cardinal rule adhered to in all the cases is, that the amendment must not introduce a cause of action substantially different from that wbicb is set forth in the narr. already filed. In the case now before ns the first declaration was indebitatus assumpsit for goods sold and delivered; and the additional counts, filed by leave of the Court, were for money lent, laid out, and expended, and for a balance due on settlement. We think the latter of these new counts, if offered alone, would have been a permissible amendment of the original narr. But it was erroneous to allow the other to be put in. The insimul computassent may be only another way of alleging the indebtedness of the defendant for goods; but the loan of money must have been a perfectly distinct transaction.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Black:, J."
+      }
+    ],
+    "attorneys": [
+      "Wheeler, for plaintiffs in error,",
+      "Siewers, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Root versus O\u2019Neil.\n1. An amendment of the narr. must not introduce a new cause of action.\n2. A narr. for goods sold and delivered was not amendable by a new count for money lent and. expended; but a new count for a balance due on settlement , was admissible.\nERROR to the Common Pleas of Carbon county.\n\u2022Action in case, by O\u2019Neil v. Root & Blay.\nThe original narr. was in assumpsit, for goods, wares, and merchandise, sold and delivered.\nThe case was arbitrated and award rendered for the plaintiff for $109.65, from which the defendants appealed.\nUpon the trial, January, 1852, the plaintiff\u2019s books were given in evidence; and then an offer was made, on his part, to prove that he had lent to the defendants $300, for which a note was received. This was objected to on part of defendants, because not declared for.\nLeave was then asked to file a new narr., the first count being for money lent and expended, and another one for money due on accounting and settlement.\nThe amended narr. was objected to as enlarging the amount first claimed, and introducing a new cause of action since the appeal. The objection was overruled; the new narr. was filed; and the note for $300 was given in evidence.\nYerdict for plaintiff far $134.04.\nError was assigned to the admission of the new narr., and of evidence under it.\nWheeler, for plaintiffs in error,\ncited 5 W. \u00bfSer. 33; 2 Barr 446; 1 Whar. 11; 4 Yeates 507 ; 2 Bawle 337.\nSiewers, for defendant in error."
+  },
+  "file_name": "0326-01",
+  "first_page_order": 324,
+  "last_page_order": 325
+}

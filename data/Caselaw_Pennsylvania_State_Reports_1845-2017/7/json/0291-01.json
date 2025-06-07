@@ -1,0 +1,68 @@
+{
+  "id": 957838,
+  "name": "Savings' Institution v. Smith",
+  "name_abbreviation": "Savings' Institution v. Smith",
+  "decision_date": "1847-12",
+  "docket_number": "",
+  "first_page": "291",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "18 Serg. & Rawle, 431",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 100,
+    "char_count": 1114,
+    "ocr_confidence": 0.414,
+    "sha256": "16ece2d80d3e5c57aa5424228f22b70bb8eb533780415ee6db46e05fc01b66f3",
+    "simhash": "1:52d54cb6aa9c02ed",
+    "word_count": 201
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Savings\u2019 Institution v. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe act of 1817 requires bail in error to be given by a corporation, not to found the writ, but to make it a supersedeas of execution. Corporations are put by it on the footing of natural persons, and any one may sue out a writ of error without bail if he choose to subject his property to execution.\nRule discharged.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Clarkson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Savings\u2019 Institution v. Smith\nCorporations may have a writ of error without bail, but it is not a supersedeas.\nJan. 15. The plaintiff in error was a corporation, and had not entered bail in error.\nS. V. Smith moved to quash on that ground. By the act of 1817, a corporation cannot appeal without giving absolute security, since bail for the appearance would be nugatory. Now appeals and writs of error are put on the same footing; Schuylkill v. Thomas, 18 Serg. & Rawle, 431.\nClarkson, contra.\nThe object of that act was to place corporations on the same footing with natural persons. This is all we ask. In neither case is the writ a supersedeas without bail. But it cannot be supposed the intention was to deprive corporations of the right of review unless bail absolute was given."
+  },
+  "file_name": "0291-01",
+  "first_page_order": 291,
+  "last_page_order": 292
+}

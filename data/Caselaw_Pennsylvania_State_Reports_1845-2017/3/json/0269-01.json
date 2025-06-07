@@ -1,0 +1,97 @@
+{
+  "id": 400673,
+  "name": "George Karch, Plaintiff in error and Defendant below, v. The Commonwealth of Pennsylvania, for the use of Mary Long, Defendant in error and Plaintiff below",
+  "name_abbreviation": "Karch v. Commonwealth ex rel. Long",
+  "decision_date": "1846-06-27",
+  "docket_number": "",
+  "first_page": "269",
+  "last_page": "274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts& Serg. 455",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477733
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0455-01"
+      ]
+    },
+    {
+      "cite": "7 Serg. & Rawle, 273",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1808216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/7/0273-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 154",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 605,
+    "char_count": 14679,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 1.8094199787087406e-07,
+      "percentile": 0.7175661592625671
+    },
+    "sha256": "227ad7b6f6ee2dc17d7bfc41a1ae977e0283cc6aedc3e0e3acbf04940fb92944",
+    "simhash": "1:62669ebd060ac690",
+    "word_count": 2608
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George Karch, Plaintiff in error and Defendant below, v. The Commonwealth of Pennsylvania, for the use of Mary Long, Defendant in error and Plaintiff below."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\nAll the bills of exception to evidence have been waived on the argument here, except the 5th, 6th, and 7th.\n5. The defendant\u2019s fifth bill of exceptions, is to the rejection of evidence offered by him to show the discharge of Long under the insolvent laws; and that he had no property or effects at the time he Was sentenced, out of. which he could pay the costs lying-in expenses, &e. The object of this evidence was to show that the plaintiff sustained only nominal d\u00e1mages, and could recover no more against the sheriff for the .escape. The distinction in this respect between an action of debt for an escape, and an action on the case, was recognised by the court in the case of Snyder v. The Commonwealth, 1 Penna. Rep. 94, and the rule laid down, that in case against the sheriff for escape, the measure of damages is the actual loss which the plaintiff sustained; and therefore, in such action, it is competent for the defendant to prove, that, at tire time of the escape, the defendant was insolvent: but in debt for an escape, the plaintiff is entitled to recover the amount of his judgment and execution. There the suit was debt on the official bond of the sheriff for neglecting to take into custody a defendant, who was sentenced to give security after a conviction of fornication and bastardy. Here it is for suffering an escape after commitment; and there seems to be no ground of distinction between the cases. The evidence of insolvency of the defendant in the indictment was, therefore, immaterial and inadmissible. ' \u2019 :\n6 and 7. The sixth and seventh bills of exception are to the refusal .of the court to permit the defendant to show, by parol evidence, that Long was discharged in pursuance of a bond given by him on the 5th February, 1841, to take the benefit of the insolvent laws. This offer was rejected by the court below, on the ground that such discharge must be in writing. The provisions of the fourth and subsequent sections of the act of 16th June, 1836, relating to insolvent debtors, evidently contemplate that the order made by the judge for the discharge of the debtor, afte^ giving bond, shall be in writing, though that is not expressly-declared. It is to be directed to the officer or other person, wdio is to make a return of it on the process ; which is to be filed with the officer or magistrate, by whom a bail-piece is issued. In addition to which, it is a general principle that the discharge of an insolvent can only be proved by the record; and, unless to supply its loss, that parol evidence is not admissible for any other purpose. Loughry v. McCullough, 1 Penna. State Rep. 503. We think therefore the evidence was properly overruled.\nThe last exception is to the judgment entered by the court for the larger ^um found by the jury, which includes the damages sustained by the plaintiff to the time of trial. The defendant contends that they ought to have been assessed only to the institution of the suit. This depends on the construction to be given to the act of 14th June, 1836, relating to bonds; by which the legal proceedings to be had in suits on official bonds, are provided for by special regulations. It would seem, that notwithstanding the exactness aimed at in this act, the case before us is a casus omissus. The act gives an action to persons affected by the official acts, or neglects of public officers and others, and enables a party to sue out a writ in the name of the Commonwealth, suggesting his name as plaintiff. Two persons may join, or sue separately, and set forth breaches to their particular injury; another person, to whom a cause of action accrues at any time before judgment, may file a suggestion and become party; if final judgment be rendered, it is to be first for the Commonwealth, and second for the plaintiff to the amount of damages assessed and costs; judgment for the defendant shall not debar any action which the plaintiffs may have for any subsequent breach or cause, where the condition is broken after judgment for the Commonwealth; the party aggrieved, may, by a scire facias, recover the damages he shall have sustained,- in the same manner as on a bond to perform covenants. If the act be literally construed, I do not perceive that any remedy is furnished to the original plaintiff for damages sustained, between the institution of the suit and judgment. But that could never have been the intention of the legislature; and therefore it seems a reasonable construction to say, that the party who commences the action shall have an equal privilege with third persons, that of embracing in his recovery, damages to the time of judgment, where, as here, they proceed from the cause of action originally assigned as a breach.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Weidman, for plaintiff in error.",
+      "Kline, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "George Karch, Plaintiff in error and Defendant below, v. The Commonwealth of Pennsylvania, for the use of Mary Long, Defendant in error and Plaintiff below.\nIn an action of debt on a sheriff's official bond, for the escape of a defendant sentenced upon a conviction, for fornication and bastardy; evidence of the insolvency of the defendant at the time of his sentence is immaterial and inadmissible.\nThe distinction in this respect between an action of debt and an action on the case against the sheriff for an escape, is, that in an action of debt, the plaintiff is entitled to recover the amount of his judgment; in an action on the case, the measure of damages is the actual loss which the plaintiff has sustained : in the latter action, it is competent to prove the insolvency of the defendant at the time of the escape, but in the former it is not.\nParol evidence of the discharge of an insolvent on his giving bond to take the benefit of the insolvent law, is not admissible, as the order of discharge must be in writing.\nIt is a general rule, that the discharge of an insolvent can only he proved by the record; and unless to supply its loss, parol evidence is not admissible.\nIn an action on the official bond of a sheriff, the party who commences the action has a right to embrace in his recovery, damages up to the time of judgment, where they proceed from the cause of action originally assigned as a breach.\nError, to Common Pleas of Lebanon county.\nJune 23. This was an action of debt for an escape, brought by the defendant in error, against the plaintiff in error, upon his official bond given as sheriff of Lebanon county. The following breach of the condition of the bond was assigned m the declaration filed. \u201c That a certain Israel Long, on the third day of November, in the year of our Lord one thousand eight hundred and forty, in the court of Quarter Sessions of Lebanon county aforesaid, was convicted of fornication and bastardy on the body of Mary Long, and was then and there sentenced to pay Mary Long, the mother of the said illegitimate child, fifteen dollars for her lying-in expenses, and to pay her, the said Mary Long, fifty cents a week from the birth of the said child, (viz.: from the second day of June in the year of our Lord one thousand eight hundred and forty,) until it arrives at the age of five years, if it should so long live, (to wit, to the second day of June, in the year of our Lord one thousand eight hundred and forty-five,) and to enter bail in the sum of five hundred dollars to the directors of the poor of Lebanon county, to indemnify said county by reason of said bastard child, pay the costs of prosecution, and stand committed until the sentence was complied with. By virtue of which said sentence of the Court of Quarter Sessions of Lebanon county aforesaid, the said George Karch so being sheriff of said county of Lebanon as aforesaid, to wit, on the third day of November, in the year of our Lord one thousand eight hundred and forty, at the county aforesaid, took and arrested the said Israel Long by his body, and kept and detained him the said Israel Long in custody and imprisonment in the jail of Lebanon county from thence until the fifteenth day of December, in the year of our Lord one thousand eight hundred and forty; on which fifteenth day of December, without the leave or license and against the will of the said Mary Long, the aforesaid George Karch, so being sheriff as aforesaid, wrongly suffered the said Israel Long to escape from his custody and imprisonment, and to go at large wheresoever he would; and the said Israel Long did then and there escape from his imprisonment and go at large wheresoever he would out of the said custody and imprisonment of the said George Karch, the defendant, so then being sheriff as aforesaid; and the fifteen dollars adjudged to the said Mary Long for her lying-in expenses, and the fifty cents a week from the birth of the child until it arrives at the age of five years, (if it should so long live,) being then and still wholly unpaid and unsatisfied, to the said Mary Long, whereby, &c.\u201d\nIt appeared that Karch was both sheriff and jailor, at the time of the escape.\nAfter giving the bond in evidence, the plaintiff proved the conviction and sentence of Israel Long for fornication and bastardy with Mary Long, by the records of the Court of Quarter Sessions. The plaintiff then called Frederick Embich, the deputy-sheriff of Karch, who testified that Israel Long was taken into custody by the sheriff and committed to jail, pursuant to the sentence of the court; that before that sentence had been complied with, he saw Long on the pavement in the street, shovelling off snow, and engaged in making a road down to the stable, outside of the jail-yard; and also that at the request of the witness, the sheriff permitted Long to go with witness down to his house, a hundred and sixty or a hundred and ninety yards from the jail door, to make\u2019a path through his garden.\nThe defendant offered to prove, \u00abtliat Israel Long was insolvent before he was sentenced by the court, and had no property or estate at the time he was sentenced, out of which he could have paid the costs, lying-in expenses, fyc., or any part thereof.\u201d To the admission of, this evidence, the plaintiff objected; The court sustained the objection ; and the rejection of this evidence constituted the defendant\u2019s fifth bill of exception. The defendants then offered in evidence the bond of Israel Long, to taire the benefit 'of the insolvent laws, to show, that at the time he was shovelling snow, See., he had given such bond, and was not in jail under the sentence. Objected to by plaintiff, and objection sustained by the court. This decision of the court formed the defendant\u2019s sixth bill. The refusal of the court to permit the defendant to prove by parol evidence, that Israel Long was discharged from imprisonment in pursuance of the bond, constituted defendant\u2019s seventh bill. The other bills of exception taken by the defendant, to the admission and rejection of evidence, were waived on the argument here. :\nThe jury returned a special verdict in the following words: \u201c They find, that the amount of the bond is $15,000, and find for the plaintiff, and assess the damages at $145, if in the opinion of the court, the plaintiff is entitled to recover damages for all the payments up to this time; if not, and that the plaintiff is only entitled to recover damages for the amount due at the commencement of the suit, then we assess the damages at $51, and costs of suit.\u201d\nThe court directed judgment to be entered on the verdict for $145. This direction of the court constituted defendant\u2019s last exception.\nWeidman, for plaintiff in error.\nThe court certainly erred in not permitting us to show, that no actual damage had been sustained.\nThe action of debt against the sheriff for an escape, was first given by the statute of Westminster 2, c. 11, Roberts\u2019 Digest, 13, for the escape of an accountant found in arrear. The statute of 1 Richard 2, cap. 12, Roberts\u2019 Digest, 393, 394, gives an action of debt against the warden of the Fleet prison, for escapes of prisoners in execution. Upon the equity of these two statutes, the action of debt is held to be maintainable against any jailor or sheriff, for the escape of one charged in execution. But this action is not brought under these statutes. It is brought upon the official bond of the sheriff. The bond is provided, and form given by the sixty-fifth'section of the act of the 15th of April, 1834, Purdon\u2019s Digest, 970; and that act was passed as a substitute for the act of the 28th of March, 1803, Purdon\u2019s Digest, 972; 1 Smith, 45 ; and supplies and repeals all its provisions, except parts of the fourth and the eighth sections. Now by the fourth section of this act, it is provided that, \u201c upon such suits, it shall be proved what damage hath been sustained.\u201d As a matter of course, where a plaintiff is bound to show a certain fact in order to entitle him to recover the debt, he has a right to contradict it, and in this case we offered to do so. The principle for which we contend was decided in Commonwealth v. McCoy, 8 Watts, 154, in which the doctrine was laid down by the court, at length. We asked the court to be permitted to show that even if all the allegations made by the plaintiff were true, he yet had sustained no real injury.\nAgain, the bond of Israel Long, filed on the 5th of February, 1841, should have been received in evidence, and the question left to the jury to say whether he was not out under the discharge given in pursuance of that bond.\nBy the forty-seventh section of the act of the 16th of June, 1836, Purdon\u2019s Digest, 561, criminals confined under a charge of fornication and bastardy, may be discharged upon compliance with the previous provisions of the act relating to insolvent debtors.\nThe fourth and sixth sections of the same act provide, that the applicant shall give bond with condition to appear, &c., upon which any judge, or the prothonotary, may make an order for the discharge of the prisoner. The bond having been filed, it is to be presumed that the order was made.\nKline, for the defendant in error.\nThe court were right in rejecting the evidence of insolvency; Wolverton v. Commonwealth, 7 Serg. & Rawle, 273; Shulerw. Garrison, 5 Watts& Serg. 455; and also in rejecting the parol proof of the discharge of Israel Long, without first proving the existence of such ah order. Pur. Dig. 555, A., sect. 4; Loughry v. McCullough, 1 Barr, 503. There is no authority to discharge on giving bond in cases of fornication and bastardy, under the insolvent laws of June, 1836. Plaintiff was entitled to have the damages assessed up to the rendition of the verdict. The act of Assembly contemplates this, when it provides &r assessing the damages for any breach of the conditions of the bond'subsequent to the judgment.\nJune 27."
+  },
+  "file_name": "0269-01",
+  "first_page_order": 267,
+  "last_page_order": 272
+}

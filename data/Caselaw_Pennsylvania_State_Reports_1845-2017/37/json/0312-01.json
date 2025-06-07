@@ -1,0 +1,115 @@
+{
+  "id": 418861,
+  "name": "Gill versus Gill",
+  "name_abbreviation": "Gill v. Gill",
+  "decision_date": "1860-11-22",
+  "docket_number": "",
+  "first_page": "312",
+  "last_page": "315",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 311",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849983
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0311-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Rep. 159",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 27",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853552
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0027-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 229",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 464",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846150
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0464-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 413,
+    "char_count": 8162,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.015499552290500334
+    },
+    "sha256": "cc35c4500f556a8e01522342a7f3d99578ee9f924e4775e72143de8e3cdf207c",
+    "simhash": "1:1d779619a6bd1d8c",
+    "word_count": 1453
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gill versus Gill."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nStrong, J.\n\u2014 The verdict and judgment in the court below were in favour of the plaintiff. The jury found, therefore, against the alleged parol gift, and whatever error there may have been in submitting to them the question whether the case was taken out of the operation of the Statute of Frauds and Perjuries was rendered harmless by the verdict. But they were instructed that if the alleged parol contract (of gift) was proven, they might find for the plaintiff, upon condition that he should pay to the defendants, within a reasonable time, one-tenth of the value of the improvements made by their ancestor.\nThe learned judge seems to have followed a hint thrown out in the last sentence of the opinion in Postlethwaite v. Frease, 7 Casey 472, where the query is suggested whether the defendants in that case, who claimed under a parol contract of sale, incapable of being enforced in equity, but who were clearly entitled at law to compensation for the breach of'that contract, must first turn out and then sue, or might obtain compensation by means of a conditional verdict. It was but a query, suggested for the consideration of counsel, and entirely unnecessary to the decision of that case. The attempt to settle in an action of ejectment the damages due from one party to the other for the breach of a contract which is the foundation of no title, is certainly novel, whether that contract be parol or written. A defendant who sets up what he claims to be an equitable title, and fails in showing any equity, is defenceless. He is then in the situation of an unsuccessful suitor in chancery, asking the specific performance of a contract to sell. In such a case, there may be a contract proved, even a written one; but if it be such as a chancellor will not enforce, he will remit the complainant to an action at law. In a suit for the title, a proceeding to enforce the contract specifically, he will never assess damages for a breach of the engagement to convey, when he refuses to decree a conveyanee itself. And such an assessment of damages in an action of ejectment is not only novel, but, I apprehend it would be found in practice both dangerous and impracticable, in most if not all cases. It would be dangerous, for it would go far to make the Statute of Frauds a dead letter. A jury ever honestly disposed to hold a party to his contract, and impressed with the apparent hardship of the case, would often assess the damages so as practically to enforce the performance of even a parol contract. That it would be. impracticable is well illustrated in the present case. The alleged parol gift was not made by the plaintiff to the defendants, but by the ancestor of the former to the ancestor of the latter. If the contract of the plaintiff\u2019s ancestor was broken, the damages for the breach are due from his estate, and not from the plaintiff; and they are due, not to the defendants, but to the personal representatives of their ancestor. But in the attempt to liquidate the damages in this action of ejectment, they have been imposed upon a person not liable, and adjudged to those who have no legal title to them. It cannot be pretended that they are a lien upon the land.\nThe court was, therefore, in error in instructing the jury that they might attach to their verdict for the plaintiff a condition that he should pay to the defendants any part of the value of the improvements.\nA similar error is found in the direction, that the jury might impose upon the plaintiff a part of the costs. If he was entitled to recover at all, he was entitled to full costs.\nThe judgment is reversed, and judgment for the plaintiff unconditionally with full costs.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "A. H. Snyder, for plaintiff,",
+      "W. H. Stephenson, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Gill versus Gill.\nDamages in Ejectment. \u2014 Conditional Verdict fov Damages and Costs.\n1. In an action of ejectment, where the defendants alleged a parol gift of land by plaintiff's ancestor to their own, it was held an error in the court to instruct the jury that if such parol contract was proven they might find for the plaintiff, upon condition that he should pay to the defendants, within a reasonable time, one-tenth of the value of the improvements made by their ancestor.\n2. Such an assessment of damages, in an action of ejectment, is not only novel but impracticable and dangerous.\n3. If a jury find for the plaintiff they cannot impose any part of the costs upon him. If he is entitled to recover at all, he is entitled to full costs.\n4. Postlethwaite v. Frease, 7 Casey 472, explained.\nError to the Court of Common Pleas of Mercer county.\nThis was an action of ejectment brought in the name of James Gill, by his guardian Robert McCord, against Robert Gill, for the undivided ninth part of 50 acres of land in Paymatooming township, Mercer county.\nOn the death of the defendant, which occurred after suit brought, his widow and heirs were substituted as defendants; and with the case thus made up, the parties went to trial under the plea of \u201cnot guilty.\u201d\nJames Gill the plaintiff, and Robert Gill the original defendant, were children of Thomas Gill, deceased. The claim of James to the undivided ninth part of this property, was as heir of his father, who died intestate in 1850. The defendants claimed under an alleged parol gift from Thomas Gill, to Robert Gill, under which they averred they held possession. The fact of this parol gift was asserted on the one side, and denied on the other.\nThe court charged as to the requisites of a parol contract to take the case out of the Statute of Frauds, and that, if such contract was not proven, to find for the plaintiff.\nAnd then as follows, to which exception was taken: \u2014 \u201c But if such contract be proven you cannot find for the defendant, because the case from the evidence admits of compensation (Postlethwaite v. Frease, 7 Casey), and according to the- hint given in the opinion in that case the compensation may possibly be fixed in the same action. It is a matter of the first impression, and without argument or much consideration, I am disposed in this case, as it would in my opinion do justice, lay hold of the suggestion, and if it be error leave the correction of it to more learned consideration.\n\u201c The jury may, therefore, find for the plaintiff one undivided tenth, upon paying to the defendants one-tenth of the value of improvements (say $50), within a reasonable time to be fixed by the jury; and that the defendants pay the costs, or each party pay his or their own costs, but not that the plaintiff should pay all the costs.\u201d\nUnder the above instruction, the jury found a verdict in \u201cfavour of the plaintiff, for one undivided tenth part of the land described in the writ, upon the plaintiff\u2019s paying the defendant $50 for improvement, and each party to pay his or her costs.\u201d\nBoth parties excepted to the charge. Judgment being entered on this verdict, the plaintiff sued out this writ, and assigned for error the instruction of the court, as above given.\nA. H. Snyder, for plaintiff,\nargued that there was not sufficient evidence of the parol gift to the ancestor of the defendants to warrant it as a defence (Postlethwaite v. Frease, 7 Casey 473), nor evidence of possession under it. The contract in such cases must be clearly proven: Haslet v. Haslet, 6 Watts 464; Sage v. McGuire, 4 W. & S. 229; Fry v. Shepler, 7 Barr 91; Moore v. Small, 7 Harris 469.\nIt was a question for the court: Rankin v. Simson, 7 Harris 471.\nAs to the allowance for improvements, he cited Allen v. Flock, 2 Pa. S. Rep. 159; Cook v. Nicholas, 2 W. & S. 27.\nAnd as to the disposition made of the costs, he cited 2 Pa. Rep. 159.\nW. H. Stephenson, for defendants.\n\u2014 The evidence of the parol gift was properly submitted to the jury. Less proof is required for the purpose of recovering compensation for improvements, than to enforce the parol contract. The allowance of compensation was not erroneous. It avoided circuity of action. Conditional verdicts of the kind, are necessary for the purposes of justice: Collins et al. v. Rush, 7 S. & R. 147; Postlethwaite v. Frease, 7 Casey 472.\nIn relation to the division of costs, he cited Devlin v. Williamson, 9 Watts 311.\nNovember 22d 1860,"
+  },
+  "file_name": "0312-01",
+  "first_page_order": 312,
+  "last_page_order": 315
+}

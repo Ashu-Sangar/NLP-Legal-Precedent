@@ -1,0 +1,91 @@
+{
+  "id": 985036,
+  "name": "Brumbaugh et al. versus Keith",
+  "name_abbreviation": "Brumbaugh v. Keith",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "327",
+  "last_page": "328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 327"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Whart. 292",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829016
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0292-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 546",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023495
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/19/0546-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 239,
+    "char_count": 3099,
+    "ocr_confidence": 0.483,
+    "pagerank": {
+      "raw": 4.856319230494445e-08,
+      "percentile": 0.304312722479187
+    },
+    "sha256": "b4b518039d7367ded981caea8cd773fd94e52e32937a391df13c38789477e0b4",
+    "simhash": "1:67f35da09b4f3ff7",
+    "word_count": 540
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brumbaugh et al. versus Keith."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\nInstead of amending, by striking out one or other of the incongruous counts in the narr., as he might have done, when he discovered it was to be the foundation of objection and demurrer, the plaintiff chose to meet the defendant on the accuracy of the pleadings, and must abide the result.\nThat either debt or covenant might, in some cases, be an appropriate remedy on the same instrument, may be conceded, without yielding the position that they can be joined. The authorities are decisively against it. \u201c One species of action cannot be joined with counts in another, as assumpsit, covenant, debt, or account with each other:\u201d 1 Chitty\u2019s Pl. 199. \u201cDebt, covenant broken, account and assumpsit, cannot be joined in one action; nor either of them, it seems, be joined with any of the others.\u201d \u201c The forms of action adapted to them are essentially different; the joinder of them, or any of them, would tend to confusion and perplexity in the administration of justice:\u201d Gould\u2019s Pl., \u00a7\u00a7 90, 91. The criteria of joinder in these actions, although at common law much the same, can hardly be said to be so in our practice. Hon est factum is set down as the general issue in both, but this is scarcely more than theory, for in actual practice it is rarely such. The judgment, according to the English practice, was in both actions a misericordia; but with us it always sounds in damages in the action of covenant, and for a specific sum in debt, with a nominal one for damages. They are, and ever have been, essentially distinct and different forms of action, and cannot, notwithstanding some coincidence in the pleadings, be joined. The joinder of a count in covenant with one in debt, in this case, was bad on demurrer, and was so much a matter of substance that it would have been so held even on general demurrer: Seip v. Drach, 2 Harris 355. The court erred in entering judgment for the plaintiff on the demurrer.\nJudgment reversed, and judgment for defendant.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "King and Jordan, for the plaintiffs in error,",
+      "Cessna, for the defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Brumbaugh et al. versus Keith.\nCounts in debt and covenant cannot be joined. Such a declaration is bad on general demurrer.\nError to the Common Pleas of Bedford county.\nThis suit was originally brought before a justice of the peace, by John Keith against Simon Brumbaugh and others, school directors of Middle Woodbury township, to recover compensation for the plaintiff\u2019s services as a teacher, on an agreement under seal, dated December 1855.\nThe cause came into the Common Pleas by appeal, and the plaintiff filed a declaration, the first two counts of which were in debt, and the third in covenant. To this there was a special demurrer, in which the plaintiff joined.\nThe court below entered judgment for the plaintiff on the demurrer, for $88.80; whereupon the defendants sued out this writ, and here assigned the same for error.\nKing and Jordan, for the plaintiffs in error,\ncited 1 Chitty\u2019s Pleadings 201; Pell v. Lovett, 19 Wend. 546; Seip v. Drach, 2 Harris 355.\nCessna, for the defendant in error,\ncited 1 Chitty's Pl. 229; Id. 123; Id. 131; Walter v. Walter, 1 Whart. 292."
+  },
+  "file_name": "0327-01",
+  "first_page_order": 327,
+  "last_page_order": 328
+}

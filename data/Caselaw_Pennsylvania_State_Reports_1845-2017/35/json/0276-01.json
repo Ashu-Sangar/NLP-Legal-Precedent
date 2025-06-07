@@ -1,0 +1,91 @@
+{
+  "id": 990421,
+  "name": "Meeker versus Brackney",
+  "name_abbreviation": "Meeker v. Brackney",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "276",
+  "last_page": "277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 276"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wh. 359",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0359-01"
+      ]
+    },
+    {
+      "cite": "9 W. & S. 144",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 293",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 224,
+    "char_count": 2818,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 1.550531887304844e-07,
+      "percentile": 0.6745555435857458
+    },
+    "sha256": "23ed7e942dbba5d4f5125be2994a73376aa0540257a26192727b72fa300f7f48",
+    "simhash": "1:9ce881f592b7556c",
+    "word_count": 499
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Meeker versus Brackney."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014 A recognisance ia a contract of record, with a condition. What is the condition of this one ? There is nothing on the record to show. It is said, that the cause was carried to court by appeal, and therefore the condition must have been that the principal should prosecute his appeal according to law. But no appeal is entered on the justice\u2019s docket, and therefore it does not appear that the bail was for an appeal. We cannot supply the defects of the recognisance, by subsequent acts between the original parties to the suit. It is said, that no bail is admissible in a suit against a constable for neglect of duty, except bail for an appeal. But the justice and the bail may have been ignorant of this. If we should presume they knew all that the law required, we should have a ready way of correcting all bad recognisances. When sitting in error, the presumption that the justice knows the law, is not very availing.\nJudgment reversed, and judgment for the defendant below, with costs.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Bentley \u00a3 Pitch, for the plaintiff in error.",
+      "Little $ Post, for the defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Meeker versus Brackney.\nIn an action before a justice of the peace, against a constable, for a false return, a recognisance in' the following words, \u201c defendant gives bail, which is entered on the docket, for the sum of $100, J. W. B., bailcannot be supported as a recognisance of bail for an appeal.\nError to the Common Pleas of Susquehanna county.\nThis was a scire facias by John W. Brackney against David L. JMeeker, reciting a recognisance of bail for an appeal from the judgment of a justice of the peace. The defendant pleaded nul tiel record.\nIn support of the plaintiff\u2019s case, he gave in evidence the following transcript from the docket of B. M. Gage, a justice of the peace, of a suit by David B. Meeker, the plaintiff, against Mark Sutton, a constable, for a false return:\u2014\nD. L. Meeker \"} Nov. 16th 1854, Summons issued for the v. > neglect of duty, returnable the 22d inst., at Mark Sutton, j 1 p. m.\nNov. 22,1854, Summons returned, \u201cserved personally,\u201d and parties appeared. Nov. 25, 1854, Judgment rendered for plaintiff, for thirty-six dollars and eighty-five cents and costs ($36.85).\n(Costs, $8.16.)\nDecember 9th, 1854, Defendant gives bail, which is entered on the docket, for the sum of One Hundred Dollars.\nJ. W. Brackney, Bail.\nI hereby certify the above to be a true copy from my Docket.\nB. M. Gage, J. P. [l. s.]\nSilver Lake, Dec. 9th, 1854.\nBentley \u00a3 Pitch, for the plaintiff in error.\nThe recognisance is radically defective; it does not show the purpose for which it was taken; and it has no condition: Donaldson v Cunningham, 18 S. & R. 245; Caldwell v. Brindle, 1 Jones 293; Donley v. Brownlee, 7 Barr 109.\nLittle $ Post, for the defendant in error,\ncited Okeson v. Shirlock, 9 W. & S. 144; Moore v. McBride, 1 Penn. R. 148; Williamson v. Mitchell, Id. 9; Frost v. Roatch, 6 Wh. 359."
+  },
+  "file_name": "0276-01",
+  "first_page_order": 276,
+  "last_page_order": 277
+}

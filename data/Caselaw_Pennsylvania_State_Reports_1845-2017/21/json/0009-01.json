@@ -1,0 +1,253 @@
+{
+  "id": 411595,
+  "name": "Pennsylvania Railroad Company versus The Canal Commissioners",
+  "name_abbreviation": "Pennsylvania Railroad v. Canal Commissioners",
+  "decision_date": "1852-12-29",
+  "docket_number": "",
+  "first_page": "9",
+  "last_page": "23",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 Pa. 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "22 Pick. 122",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2045828
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/39/0122-01"
+      ]
+    },
+    {
+      "cite": "6 Paige 223",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "25 Maine 493",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8846852
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/25/0493-01"
+      ]
+    },
+    {
+      "cite": "13 Peters 521",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Peters 152",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3308768
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/29/0152-01"
+      ]
+    },
+    {
+      "cite": "8 Wheaton 388",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Cranch 127",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        1411944
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/6/0071-01"
+      ]
+    },
+    {
+      "cite": "6 Bin. 5",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795101
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0005-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 369",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820631
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0369-01"
+      ]
+    },
+    {
+      "cite": "1 Whar. 1",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0001-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 154",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842731
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0154-01"
+      ]
+    },
+    {
+      "cite": "4 Bin. 117",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1792427
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/4/0107-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 262",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Yeates 46",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6771611
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "155"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0045-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Rep. 517",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 23",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840039
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0023-01"
+      ]
+    },
+    {
+      "cite": "6 Wharton 44",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1228,
+    "char_count": 38962,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 8.931122842547533e-07,
+      "percentile": 0.9785311807754042
+    },
+    "sha256": "e9bf900085826dfee163a896228a60ccb0b04295f4a8b13acbcc520cdb1d513f",
+    "simhash": "1:2a94b4a18e3b1efc",
+    "word_count": 6643
+  },
+  "last_updated": "2024-02-27T16:29:59.856508+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pennsylvania Railroad Company versus The Canal Commissioners."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered at Philadelphia, by\nBlack, C. J.\n\u2014 This writ of mandamus was issued at Pittsburgh, and made returnable there to the Supreme Court for the Western District. It is objected that we have no jurisdiction there, because the chief place of business for the Canal Commissioners is at Harrisburg in the Middle District. The objection seems to be taken in obedience to what the respondents deem a public duty, and has been rather faintly urged. Our jurisdiction is over the whole state. It is not the practice to issue writs beyond the district in which they are made returnable, and that is all that was decided in Duffy v. The Hanover and Carlisle Turnpike, (9 Ser. & R. 59.) But no law forbids it. There are cases, and this is one of them, in which the rule of practice ought to be relaxed, though it certainly would not be relaxed if a motion were made to quash the writ in a purely local and private case.\nThe respondents deny that the relators have any right either hy their charter or by any other law, to carry freight or passengers on the Columbia Railroad. If this be true it ends the present controversy, since whatever may be the duties of the Canal Commissioners, the relators cannot complain unless they have been disturbed in the enjoyment of some lawful right of their own. It would be absurd to order that the railroad company should he permitted by the Canal Commissioners to do that which they cannot do without an illegal usurpation of a privilege which the law has denied them. If we assume that the legislature has not authorized the relators to prosecute the carrying business on the state road between Columbia and Philadelphia, the present proceeding is a demand that we establish, maintain, and protect them in the enjoyment of a privilege which the law forbids them to exercise. This of course is not expected; and therefore the construction of the charter and the other Acts of Assembly hy which it is claimed that their franchises have been extended, must he carefully attended to before it becomes worth while to inquire whether the conduct of the Canal Commissioners has been right or wrong.\nIn the charter of the Pennsylvania Railroad Company, we find nothing which gives colour to the notion that they have any legal rights whatever upon the state works. On 'the contrary, the proviso in the second section expressly denies them all privileges, except such as are necessary or convenient to the procuring, making, owning, maintaining, regulating and using their own road, and confines their operations after the road is built to the transportation of passengers and things thereon.\nA law passed the 13th of March, 184T, authorizes any railroad company to run cars over another road connected with their own; but it is provided that this shall only he done with the consent of the company owning the other road. This Act cannot he made to cover the present case. The road owned by the relators does not connect with the Columbia road. The latter road is not owned by a company, and to say that the state which does own it has consented to such' use of it, is to beg the whole question.\nIt is said that the right claimed is conferred on them hy the Act of 15th April, 1834, which authorizes the purchase of locomotives by the Canal Commissioners, and provides that individuals shall have the right to place cars on the road. This clause seems intended to establish a system hy which the state should furnish the motive power, and individuals do the carrying under such regulations as the Canal Commissioners might see fit to prescribe. We do not think the word individuals is to be understood in a sense so narrow as that which the respondents would assign to it. It means something more than single persons. It would not exclude a partnership nor an incorporated company, authorized hy its charter to carry goods or passengers on that road. The argument of the relators\u2019 counsel that it means anybody other than the Commonwealth is a fair and just one. But no signification of it can be large enough to include a company from which the privilege is withheld by the law which gives it existence and defines its powers. If one corporation may claim this addition to its franchises, so may all others, and every company incorporated for religious, literary, mining, manufacturing, or banking purposes may demand the right of becoming carriers on the state railroads. This extension of all existing charters was not made by the clause in question. It adds nothing to any of them, and the relators are not helped by it more than others.\nBy section 11 of the relators\u2019 charter, they are authorized in a certain contingency to connect with the state railroad at or near Columbia. From this as well as from many other things, it is fairly inferrable that the legislature contemplated a continuous line of railroad from Pittsburgh to Philadelphia. This was in fact the very object for which the Pennsylvania Railroad Company was established. It needs no argument to prove that a break over which passengers could only be carried in stage coaches, was neither expected nor desired. But a connection between two roads, does not imply that the company owning one shall have the right to run its cars upon the other. It required the Act of 13th April, 1847, to give that privilege to connected railroads owned by companies, and even under that Act it does not exist except by consent. Besides, the contingency on which this connection was authorized never occurred, and the connexion never was made.\nA supplement to the charter of the Pennsylvania Railroad Company was passed on the 23d of April, 1852, by which it was authorized to purchase and hold certain real estate in the county of Philadelphia, \u201cfor such objects as appertain to the legitimate business of the company, authorized by their Act of incorporation of transporting passengers and tonnage over their own and the Columbia Railroad.\u201d The simple and manifest object of this supplement was to give the company the power to hold the land for the purposes of the business which the charter authorized it to carry on, and to confine its future operations within the bounds previously afiixed. But in the overflowing redundancy of expression which usually characterizes our statutes, the legitimate busisiness of the company was not described according to the truth. The legislature, or a majority of its members, probably supposed that the charter did authorize the company to engage in the business of transporting passengers and tonnage on the Columbia Railroad, as well as on their own. But an error is not converted into a truth by the mere recital of it in an Act of Assembly. That which has not been law heretofore, must be enacted to make it law hereafter. We obey the will of the legislature when expressed as its will according to the forms of the Constitution, but its opinions are not binding. Such opinions are often entitled to great respect as evidence of the law in doubtful questions ; but when they are manifestly founded in mistake they are to be disregarded, like an erroneous decision of the judiciary.\nIt may be that the privilege which the relators claim might arise by implication out of their charter, or some other of the acts cited by their counsel, if we were at liberty to give to them the broad construction which we sometimes apply to other laws of a different character. Rut corporate powers can never be created by implication nor extended by construction. Ho privilege is granted unless it be expressed in plain and unequivocal words, testifying the intention of the legislature in a manner too plain to be misunderstood. When the state means to clothe a corporate body with a portion of her own sovereignty, and to disarm herself to that extent of the powers which belong to her, it is so easy to say so that we will never believe it to be meant when it is not said; and words of equivocal import are so easily inserted by mistake or fraud, that every consideration of justice and policy requires that they should be treated as nugatory, 'when they do find their way into the enactments of the legislature. In the construction of a charter, to be in doubt is to be resolved; and every resolution which springs from doubt is against the corporation. This is the rule sustained by all the courts in this country and in England. Ho other has ever received the sanction of any authority to which we owe much deference. This court has asserted it times without number. We have ruled five or six important cases upon it within the last year. We seem not to have made much impression on the professional mind, and we are probably making as little now. But when respectable counsel call on us hereafter (as they doubtless will) to enlarge corporate powers by construction, we can only repeat again and again that our duty imperatively forbids it. The privileges of the Pennsylvania Railroad Company may be too rigidly restricted. If the usefulness of the company would be increased by extending them, let the legislature see to it. -But let it be remembered that nothing but plain English words will do it.\nThe course of this reasoning necessarily brings us to the conclusion, that the relators, having no rights on the Columbia Railroad, cannot have been injured by the conduct of the Canal Commissioners ; and it matters nothing to them whether that conduct was in accordance with their public duty or not. We give no opinion on the other points of the case. \u2022 We have not considered the arguments so eloquently urged by the counsel of both sides, on the consequences of our decision to the revenues of the state, and the commerce of the country. We leave all this to that department of the government whose duty it is to take care of it. Ours is to say that no law has yet been made which authorizes the relators to have cars on the Columbia Railroad, and therefore we cannot order the respondents to attach their cars to the motive power of the Commonwealth.\nJudgment for the respondents that the peremptory mandamus be refused, and that respondents have their costs.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "On the part of the Pennsylvania Railroad Company, the case was argued by Meredith and Dallas, with whom were J. R. Tyson and T. S. Bell.",
+      "Campbell, Stanton, and Champneys, were on part of the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Pennsylvania Railroad Company versus The Canal Commissioners.\n1. The Supreme Court, at its session in either of its districts, may issue writs of mandamus to any part of the state; and therefore, at its session at Pittsburgh, it may issue a writ of mandamus to the Canal Commissioners, though their chief place of business was at Harrisburg, in the Middle District of the state.\n2. The Pennsylvania Railroad Company by its Act of incorporation has no legal rights upon the state works. The power to_ run cars over the Columbia and Philadelphia Railroad has not been given to it by the Act of 13th March, 1847, which authorizes any Railroad Company to run cars over another road connected with their own, the Pennsylvania Railroad not being so connected with the state road, as the former terminates at Harrisburg.\n3. Though the word \u201c individuals\u201d in the Act of 15th April, 1834, authorizing individuals to place cars on the Columbia Road, may include corporations, yet as such privilege is withheld by its Act of incorporation, the Pennsylvania Railroad Company is not authorized by that Act to use the said state road.\n4. Nor is such privilege given to it by the Act of 23d April, 1852, authorizing it to purchase and hold certain real estate in the comity of Philadelphia. Corporate powers are not to be created by implication nor extended by construction.\nThis was a proceeding had upon petition on the part of the Pennsylvania Railroad Company, by its President, praying for the issuing of a writ of mandamus to the Canal Commissioners. It was addressed to the Supreme Court for the Western District of Pennsylvania, in September, 1852.\nIt represented, inter alia, as follows: |\n\u201c That they are a Company constituted a body politic and corporate, under this title, by an Act passed on the 13th day of April, 1846, entitled, \u2018 An Act to incorporate the Pennsylvania Railroad Companyby which enactment and various supplements, they are authorized to construct and use a railway from Harrisburg to Pittsburgh, to own land within and near to the city of Philadelphia, and to exercise such other franchises as may be necessary or convenient for the full benefit of the said railway ; but which said Act and its supplements, the petitioners, for greater certainty, refer to as a part of their present petition.\n\u201c The railway thus authorized, is now nearly finished, and they have purchased land and built valuable structures, for the various purposes of transportation at West Philadelphia, the eastern terminus of the Philadelphia and Columbia Railroad, known as and commonly called the Columbia Railroad. They have been running cars both by themselves and other persons, for the transportation of passengers, merchandise, and the United States mail, over such parts of their railroad as are finished, and for more than a year over the said Philadelphia and Columbia Railroad, belonging to the state of Pennsylvania, and a railway intervening between the eastern terminus of the railway of the said Pennsylvania Railroad Company, belonging to the Harrisburg, Portsmouth, Mount Joy and Lancaster Railroad Company.\n\u201c That one of the great objects of the law incorporating the Pennsylvania Railroad Company, was to connect Pittsburgh with Philadelphia, and to enable the latter as an Atlantic city, .to participate more largely in the commerce of the west than she was able to do by means of the main line of the public works of Pennsylvania, and especially than she should do upon the completion of rival railways, in the course of construction by the respective states of Maryland and New York.\n\u201c In order to enable the Pennsylvania Railroad Company to carry out the great objects of their expensive work, it was necessary that their cars should have the right to run over the said two intervening railroads between Philadelphia and their eastern terminus at Harrisburg. On the 21st day of April, 1849, the petitioners entered into an agreement with the said Harrisburg, Portsmouth, Mountjoy, and Lancaster Railroad Company, for the use of their railroad, for the period of twenty years; (a copy of which agreement was attached.)\n\u201c That for some years, a large portion of the passenger' business done on the Philadelphia and Columbia Railroad, was performed by a company whose cars were known as the Eagle Line. At the solicitation of a member of the Board of the then acting Canal Commissioners, the petitioners were induced about the month of March, 1851, to purchase from said company all their cars; since which time down to the 15th instant, inclusive, the said cars, and others for the conveyance of passengers and the United States mail, as well as freight, were used and run by the said petitioners,' over the said Philadelphia and Columbia Railroad, with the knowledge, assent, and approbation of the Canal Commissioners, a body constituted by law to superintend the said railroad as one of the public works of the state.\n\u201c That the petitioners paid to the Canal Commissioners, or their duly constituted agent, from time to time as required, such tolls and other charges, as were imposed by the said Canal Commissioners, both for the conveyance of freight and passengers over said railroad, and in all other respects complied with the rules and regulations of said railroad.\n\u201c On the 20 th day of May last, the petitioners received notice from the said Canal Commissioners of a resolution adopted by the Board on the previous day, stating that a contract had been formed with Messrs. Bingham & Dock, for the carriage of all passengers and mails over the state road, except passengers carried by the West Chester Railroad Company, and by market cars.\n\u201c That the contract was to go into effect by its terms on the 1st of July ensuing, a copy of which notice is hereto attached.\n\u201c Since the date of this notice, a publication has been made, under the apparent authority of the Canal Commissioners, of which a copy of the paper purporting to be a copy of the contract above referred to, forms a part.\u201d They charged that if the said Canal Commissioners made such a contract as is contained in that paper they made it without any public notice inviting proposals for such a contract.\n\u201c They also annex a copy of a resolution passed by the said Canal Commissioners, on the said 19th of May last, prescribing the terms upon which transporters of passengers were to use the said Philadelphia and Columbia Railroad, including the toll and motive power. \u2019 The petitioners complied with this resolution by continuing to carry passengers, and paying the rates fixed therein, until stopped by the order of the said Canal Commissioners from using said railroad as hereinafter stated.\n\u201c The petitioners received a copy of a notice of another resolution, dated Towanda, June 12, 1852, postponing the commencement of the contract with Bingham & Dock, to the 16th day of August.\n\u201c Various advertisements were printed in several of the newspapers of the city - of Philadelphia, by Bingham & Dock, and the said Canal Commissioners, announcing to the public that the said Bingham & Dock, only (except the West Chester Railroad Com-party and market cars), could carry passengers, on and after the 16th day of August, 1852.\n\u201c On the 16th day of August last, two passenger cars, a baggage car, and mail car, belonging to petitioners, were taken by petitioners\u2019 agents, from their passenger depot at the south-east corner of Eleventh and High streets, in the city of Philadelphia, at precisely eight o\u2019clock, the usual and proper time for the morning train going west, and arrived on the railroad of the state, at West Philadelphia, at the regular time of attaching the train to the locomotive of the state, for conveyance, that being the place assigned by the said Canal Commissioners for said attachment, and the departure of westward trains, drawn by the motive power. The said cars contained respectively thirty-three passengers, or thereabouts, the baggage of said passengers, and the United States mail. The passengers were bound to various places on the Pennsylvania and Columbia Railway, to Pittsburgh, and to points west of that city.\n\u201c The agent in charge of the locomotive and train of cars, on behalf of said Canal Commissioners, was then and there requested by an agent of the petitioners, authorized for that purpose, to attach or permit the attachment of the said ears of the petitioners to the train which was to be drawn by the locomotive engines belonging to the state. The said agent acting as he said, and as petitioners aver, for and under the authority of the Canal Commissioners, refused to permit or to make any attachment whatever. The locomotive engine was started on its way to the west by order of the Canal Commissioners, carrying only the train of cars belonging to Bingham & Dock, leaving behind the said cars of the petitioners, which the said agent refused to attach or permit to be attached, and convey or draw or permit to be conveyed and drawn, under the authority aforesaid.\nOn the same day, to wit, the 16th day of August last, passenger cars of the petitioners for the two other trains going west and east, both the way and through trains, were also duly offered at the proper times and places by their agents for attachment and conveyance as aforesaid, over the said Philadelphia and Columbia Railroad, and were refused by the agents of the Canal Commissioners such attachment and conveyance, it being alleged by said agents that the orders of the Canal Commissioners were not to take and transport, or permit to be taken or transported, the passenger cars of the petitioners over the said railroad. The petitioners say that the state tolls were duly tendered to the proper officers, by an agent of the petitioners duly authorized for that purpose in two of the aforementioned cases, before the cars were offered for attachment and transportation, and refused as aforesaid. They further say that the said cars offered for attachment to and transportation by the motive power of the state, were in all respects conformable to the rules and regulations of the Board of Canal Commissioners, and that the time and manner of attachment demanded, were also in conformity therewith. They further alleged, that the refusal to permit to he attached and transported, the said cars of the petitioners, was made by the order and authority of John A. Gamble, William T. Morrison, and Seth Clover, the persons who now fill the office of Canal Commissioners.\nThe petitioners further represented that since the 16th day of August last, the said persons, Canal Commissioners, have attempted, under color of their said alleged contract with Bingham & Dock, to force, by the exaction of illegal tolls, the through travel from its natural and accustomed channel around by a circuitous route via Columbia.\nIt was alleged that these exactions were proposed to compel the petitioners to change their rules and connect with Columbia for said through passengers, a connection which they never made (except for a short time to enable necessary repairs to be made on the main and direct thoroughfare), because they believe it would prove injurious to the whole Pennsylvania line as a route to the west.\nThe petitioners insisted that they had the right by law, and are authorized by their Act of incorporation, to transport passengers and tonnage over their own road and the said Philadelphia and Columbia Railroad, and that the refusal to attach or permit the attachment of their cars to the motive power as aforesaid, was without legal authority and contrary to law.\nThey charged that the said John A. Gamble, &c., under the pretence of their authority as Canal Commissioners, have, in refusing to carry petitioners\u2019 cars, as aforesaid, occasioned damage to the petitioners, and that great public mischief must ensue therefrom to petitioners, to the public treasury, and to the commerce of the state.\n\u2021 ^ ^ \u2021 \u2021 ^ \u2021 ^\nThey also charged that said acts of the said Gamble, &c., were without and in violation of the law and the rights of the petitioners.\nThey prayed the Court to issue a writ of mandamus to the said John A. Gamble, &c., Canal Commissioners, requiring them to attach the passenger cars of the petitioners to the motive power provided by the Commonwealth for the transportation of passenger cars over the said Philadelphia and Columbia Railroad.\nSigned \u25a0Sworn and subscribed the 4th 1 day of September, 1852. j\nJ. Edgar Thompson, President.\nIn the agreement between The Harrisburg and Lancaster Railroad Company and the Pennsylvania Railroad Company, it was agreed that the former would transfer to the latter their locomotive cars, machinery, materials and tools on hand, to be paid for at a fair valuation. The Pennsylvania Railroad Company was to have the exclusive use of the roads then or thereafter to be constructed by the other Company. The Pennsylvania Railroad Company was to use exclusively the Harrisburg and Lancaster Railroad for carrying and transporting all passengers and freight carried over their road to and from Philadelphia and Pittsburgh, during the term of the contract, which was to continue in force for twenty years, unless discontinued or altered by the consent of both contracting parties.\nIn the contract executed on the 19th May, 1852, between The Canal Commissioners and Bingham & Dock, the latter party agreed to carry all the passengers over the Philadelphia and Columbia Railroad and intermediate points, except such passengers as the West Chester Railroad Company were then permitted to carry, and such market-men as are carried in market cars under regulations then existing. They also agreed to carry the United States mail as often as required by the Post Office Department\u2014 to collect the fare on each passenger \u2014 to stock the road with first class passenger cars \u2014 their compensation to be five mills per mile for each passenger \u2014 for emigrant passengers 2J mills per mile, &c. It was also understood that the agreement gave to the party of the second part, the exclusive right of carrying all the passengers over the railroad aforesaid, except those carried by the West Chester Railroad Company and by market cars. The'agreement was to continue in force for four years, commencing on 1st July, 1852.\nIn the answer of the Canal Commissioners it was admitted that the Pennsylvania Railroad Company had been running cars for the transportion of passengers, merchandise, and United States mails for more than a year over the state road; but it was said that they had used the road exclusively under and in obedience to the regulations of the Board of Canal Commissioners. It was said that the subject of an arrangement meditated for the transportation of passengers over the state works, to be conducted under the control of the Canal Commissioners, was known to the President and Superintendent of the Pennsylvania Railroad Company not less than two months before the 19th May, 1852, the date of the agreement with Bingham & Dock; and that the Pennsylvania Railroad Company proposed an arrangement at a higher rate than was afterwards agreed to by Bingham & Dock; that under the arrangement made with the latter, there has been so far an increased revenue to the state of above $9000 over the corresponding period of the last year; and that the total gain to the state for transporting the mails and passengers during four years might be $150,000.\nThe first Act of Assembly relating to a state railroad, is that of 9th March, 1827. By the 3d section of it, it was provided, That it shall he the duty of the Canal Commissioners to cause examination, survey and estimate to be made of the route for a canal, and also for a railway with locomotive or other stationary power from Philadelphia through Chester and Lancaster counties, so as to connect by the nearest and most eligible route with the Eastern section of the Pennsylvania Canal. By the 5th section of the Act of 24th March, 1828, authority was given to the Canal Commissioners to locate a railroad from Philadelphia to Columbia. By the 9th section of the Act of 6th April, 1830, it was provided \u201cthat the Board of Canal Commissioners shall appoint supervisors to take charge of such portions of the canals and railroads as shall be finished, for public use.\u201d It was said on the part of the Pennsylvania Railroad Company, that the words \u201c public use\u201d in the Acts of Assembly relating to the canal and railroad mean common use, in contradistinction to the use of the state: 6 Wharton 44; 2 Watts 23; 1 Baldwin 205; 2 B. A. 648; Shelford on Railways 67; Wolford on Railways 299.\nBy the Act of 11th June, 1832, the Canal Commissioners were authorized to permit cars to he placed on such parts of the Columbia Railroad as are or maybe finished; and the Act of 15th April, 1834, provided that \u201c individuals shall have the right to place cars on the road, and, under such rules and regulations as may be adopted, attach their cars to the locomotive cars belonging to the Commonwealth, for the purposes of transportation.\u201d This act in its title refers to both the railroads of the state. It was said on the part of the relator that this right is not confined to the transportation o'f merchandise, but embraces cars for the conveyance of passengers. It was also said that no act authorized the Canal Commissioners to purchase cars for either railroad, or boats for use on the canal. That their whole power was to keep those works in repair, to fix the tolls, to adopt rules and regulations concerning them, and to supply motive power for the railroads. That their powers on these subjects are to be found in the Acts of 24th March, 1828; 6th April, 1830; 11th June, 1832; 21st February, 1834; 15fch April, 1834; 8th April, 1834; 28th January, 1836; 16th April, 1838.\nFurther: By theJAct of 8th April, 1834, the Canal Commissioners were'authorized to make rules and regulations relative to the railroads of the state, which were \u201c not inconsistent with the laws of this state.\u201d Another provision of a similar character exists in the 12th section of the Act of 16th April, 1838; and it was contended that that power did- not authorize the purchase of cars or boats at the expense of the state, or the assumption of the carrying business or the exclusion of transporters from its use.\nThe Pennsylvania. Railroad Company was incorporated in pursuance of the Act of 13th April, 1846. The 11th section authorized the location and construction of a railroad, beginning at and uniting with the western terminus of the Harrisburg, Portsmouth, Mountjoy and Lancaster Railroad, in the borough of Harrisburg: Provided said Harrisburg, Portsmouth, Mountjoy and Lancaster Railroad Company shall be subject to and consent to the same rate of tax on tonnage for the use of the state, as is provided to be paid in this Act, by the Pennsylvania Railroad Company; and \u2022in case the said H., P., M. & L. Railroad Co. should not agree to comply with these conditions, within three months after the distance of fifteen miles from Harrisburg westward shall bona fide be put under contract, the said Pennsylvania Railroad Company are authorized to connect their road with the Columbia Railroad, at or near the borough of Columbia in Lancaster county, and thence terminating at such point or points in, at, or near the city of Pittsburgh, or other place in the county of Allegheny, with authority to extend the road or a branch to the town or harbor of Erie, as to the said president and managers may seem most advantageous or expedient.\nThe Pennsylvania Railroad was never extended eastward beyond Harrisburg.\nAn Act was passed on 18th March, 1847, by which it was enacted, That in all cases where two railroads in this Commonwealth are or shall be connected, it shall be lawful for the company owning either of the said railroads (with the consent of the company owning the other of said railroads) to run its cars and locomotive engines upon said other railroad, and to erect water stations and other buildings for the due accommodation of the cars and engines employed thereon, &c.\nIf this Act of 1847 was not applicable to the railroads of the Commonwealth, it was said that the Pennsylvania Railroad Company had, by a subsequent Act, the right to pass with cars over the Philadelphia and Columbia Railroad to and from Philadelphia. That the right of the said company to transport passengers and tonnage over the Columbia Railroad, was given or confirmed by the Act of 23d April, 1852. By the second section of that Act, the Pennsylvania Railroad Company were authorized to purchase and hold the title to two several estates, situated in West Philadelphia and county of Philadelphia, and also to purchase the title to any portion of the Powelton estate, \u201c for the purpose of erecting thereon offices, station-houses, warehouses, shops, car-sheds, sidings, cattle-yards, and for such other objects as appertain to the legitimate business of the company, authorized by their Act of incorporation, of transporting passengers and tonnage over their road and the Columbia Railroad, not exceeding thirty acres of uplands. The boundaries of such quantity of land as said company may deem proper to take, to be determined by the President of the company, and the Governor of the State of Pennsylvania, or the President of the Board of Canal Commissioners; also the right to purchase and hold within the city of Philadelphia, such other property for depots, offices, and sidings as may be necessary or convenient for the transaction of the proper business of said company, authorized by their Act of incorporation.\u201d\nThis case was argued in Philadelphia.\nOn the part of the Pennsylvania Railroad Company, the case was argued by Meredith and Dallas, with whom were J. R. Tyson and T. S. Bell.\nIt was inter alia contended that the Pennsylvania Railroad Company was included in the term individuals, used in the Act of 1834, giving authority to individuals to place cars on the Columbia Railroad, and, under such regulations as may be adopted, attach their cars to the locomotive cars belonging to the Commonwealth, for the purposes of transportation. That the term individuals was used in the sense of persons, and that as an artificial person the company would be entitled to place its cars upon the Columbia Railroad, and by attachment to the motive engine of the state. For the meaning of the term individual, reference was made to Richardson\u2019s Dictionary, and to Kyd on Corporations.\nIt was further said, that under the authority of the Act of 13th March, 1847, authorizing the companies of two connecting railroads, with the consent of each other, to run their cars on both roads, and by their contract with the Lancaster and Harrisburg Railroad Company, whose road connected with the state road at Dillersville near Lancaster, the Pennsylvania Railroad became connected with the Philadelphia and Columbia Railroad, and had the right to have its cars pass over the latter road. But that if the Act of 1847 did not apply to the roads of the Commomvealth, that such right existed under the provisions of the Act of 23d April, 1852, before recited. That from the permission to hold land at the eastern terminus of the state road, was to be inferred the understanding of the state that the legitimate business of the Pennsylvania Railroad was to carry freight and passengers over the whole road from Philadelphia to Pittsburgh. That the fact that the ears of the said company were so run at the time of the passage of the Act of 1852, was known to the legislature, and was to be considered in the construction of the Act, it being declared in the Act that the land acquired was to be for such objects \u201c as may be necessary or convenient for the transaction of the proper business of said company, authorized by their Act of incorporation;\u201d and in the previous part of the section it being declared to be for the erection thereon of offices, &c., and for such other objects \u201cas appertain to the legitimate business of the company, authorized by their Act of incorporation, of transporting passengers and tonnage over their road and the Columbia Railroad.\u201d\nIt was further said that a mandamus would not issue where a discretionary existed; but it was contended that there was no discretionary power vested in the Canal Commissioners to make such a contract as the one in question in this case; one made without public notice \u2014 for a period beyond their official term \u2014 with transporters of merchandise on the public work's (which the other contracting parties were alleged to be); to make the state a common carrier; to exclude individuals or any parties from the public works; to prevent the Pennsylvania Railroad Company from attending to their legitimate business \u201c of transporting passengers over it.\u201d That the said contract was inconsistent with the policy declared by the legislature in the general Railroad Act of 19th February, 1849, the 18th section of which enacts, that upon the completion of any railroad authorized by the act, it \u201c shall be esteemed a public highway 'for the conveyance of passengers and the transportation of freight.\u201d That the Canal Commissioners cannot make regulations as to the state railroads which were inconsistent with the laws, and that this \u2019contract was inconsistent with public law, and was void.\nAs to the subject of jurisdiction, it was said that the meetings of the Board of Canal Commissioners need not necessarily be held at Harrisburg; but by the Act of 11th April, 1825, may be held \u201cat such times and .places as shall be determined by their own adjournments, or by a call from their president, and as shall be most conducive to the public good.\u201d Reference made to 2 Pa. Rep. 517, Commonwealth v. Mitchell et al.; Commonwealth v. Clarke, 9 Ser. & R. 59.\nCampbell, Stanton, and Champneys, were on part of the defendants.\nObjection was taken to the presentation of the application to the Court when sitting in the Western District, it being alleged that the office of the Canal Commissioners was located in the Middle district of the Supreme Court. That the practice of the Court had been not to adjudicate in cases of mandamus except in the appropriate district of the Court. Reference was made to 1 Yeates 46; Id. 155; Id. 476; 2 Bin. 262; 3 Id. 363; 4 Bin. 117; l Ser. & R. 882; 8 Id. 211; 11 Id. 73; 4 Watts 154; 1 Whar. 1; 2 Rawle 369; 6 Bin. 5; 9 Ser. \u2021 R. 52; 5 Harris 9. That the. only object of the Act of 1852, extending the jurisdiction of the Supreme Court, was to extend its Original jurisdiction in Equity in the cases enumerated in the 13th section of the Act of 1836, -and had no reference to the common law remedy by mandamus.\nIt was said that it had hot been shown that the Pennsylvania Railroad Company had by any provision in its charter authority to place passenger cars on the Philadelphia and Columbia Railroad. That on the contrary, they could not run a car on the Harrisburg and Lancaster Railroad without the consent of that company. A corporation has only the powers vested in it by law: 1 jKyd on Corporations 65; 2 Cranch 127; 7 Id. 299; 8 Wheaton 388. It is to be limited to the powers granted to it. 2 Kent 298; 4 Peters 152; 5 Id. 641; 1 Sumner 47; 13 Peters 521; 3 Kelly 31; 25 Maine 493; 6 W. & Ser. 101 ;9 Id. 9; 7 Manning f Cranger 870 ; 6 Paige 223; 20 Vermont, Whitcomb v. Rood. The franchises of a corporation cannot be granted away by its own act. 9 W. f Ser. 27; 22 Pick. 122. It was contended that the company received no power by the Act of 1852, to place cars on the state road. By the Act of 1852, the Act of incorporation is referred to for the powers of the company; no additional authority was conferred, although additional means were given to give such powers more effect. In the conclusion of the 2d section, the enactment is stated to be, for the proper business of the company as authorized by their Act of incorporation. That in the incorporation of the two companies in question, it was contemplated that the connexion authorized to be made with the Philadelphia and Columbia Railroad would entitle those companies to transport passengers in the cars provided for the state road, upon the terms prescribed by the Canal Commissioners. It was said that the Act of 1884, allowing individuals to put cars on the road, was to be subject to the regulations of the Canal Commissioners. Commonwealth ex rel. Leech v. Canal Commissioners, 5 W. & Ser. 388.\nIt was said that the term \u201c individuals,\u201d as used in the Act of 1834, should not be construed to embrace corporations. Also that it was not intended by the state to surrender the control of the carrying trade between the east and west, or to give to the company in question any power over it on the state works. It was also alleged that the contract in question was operating to the advantage of the treasury of the state.\nDecember 29, 1852,"
+  },
+  "file_name": "0009-01",
+  "first_page_order": 9,
+  "last_page_order": 23
+}

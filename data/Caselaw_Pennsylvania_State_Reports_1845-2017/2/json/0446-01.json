@@ -1,0 +1,152 @@
+{
+  "id": 951322,
+  "name": "Winder v. Northampton Bank",
+  "name_abbreviation": "Winder v. Northampton Bank",
+  "decision_date": "1846-05-18",
+  "docket_number": "",
+  "first_page": "446",
+  "last_page": "448",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 446"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Serg. & Rawle, 81",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1815529
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/15/0081-01"
+      ]
+    },
+    {
+      "cite": "8 Serg. & Rawle, 287",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 175",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0175-01"
+      ]
+    },
+    {
+      "cite": "2 Serg. & Rawle, 358",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1798225
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/2/0358-01"
+      ]
+    },
+    {
+      "cite": "5 Watts & Serg. 33",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478555
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0033-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates, 507",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6776043
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0507-01"
+      ]
+    },
+    {
+      "cite": "5 Watts. & Serg. 35",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Whart. 11",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829050
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/1/0011-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 364,
+    "char_count": 6685,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 1.3358752373641561e-07,
+      "percentile": 0.6301118327748065
+    },
+    "sha256": "7af0b1c57a0cc3945557625cff182eedd8ce768f5bcd901a17002ad57613047f",
+    "simhash": "1:1ed98dc3d38ee7f0",
+    "word_count": 1172
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Winder v. Northampton Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 That a plaintiff, after an appeal from an award of arbitrators, cannot vary the nature of his demand by filing a new count, seems settled by former decisions. In Tryon v. Miller, 1 Whart. 11, the plaintiff had declared in trover for a bond, and the cause was referred to arbitrators, under the act of 1810, who made an award in favour of the plaintiff, from which the defendant appealed; and it was held that the plaintiff ought not, after the appeal, be permitted to withdraw the original declaration, and substitute one alleging the conversion to have been of certain instruments of writing not under seal, though of the same import as the bond. So in Reitzel v. Franklin, 5 Watts. & Serg. 35, it was determined that although the plaintiff might have joined his new count to the other, before the cause was referred; yet he could not do so afterwards, as it varied the nature of his claim, and of the evidence in regard to it, to the prejudice of the defendant and his surety on the appeal, who would thereby be subjected to responsibilities not within the scope of the arbitration or appeal. Indeed, the provision of the arbitration act, requiring the plaintiff to file a declaration before referring, could easily be evaded if it could be substantially changed after the award. Besides which, it may be added, that the act of 1806 authorizes amendments on or before trial; and I know not why a hearing before referees should not be deemed, so far as respects this point, as much a trial within the meaning of the act as a trial by jury.\nIt is plain that trover is a different mode of stating the plaintiff\u2019s complaint, from an action of deceit, and is sustained by different evidence, and on different principles, and though they might be joined before the reference, yet they could not afterwards.\nThis renders it unnecessary to decide the other points arising on the execution.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Meredith and Stevens, for plaintiff in error.",
+      "Franklin, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Winder v. Northampton Bank.\nAfter award and appeal, a new count varying the cause of action cannot be filed.\nCount in trover states a different cause of action from one for deceit, under this rule, though they might have been originally joined.\nError, to Common Pleas of Lancaster county.\nThe declaration in this case contained originally but one count, \u25a0which charged the defendant with having obtained, with intent to defraud the Northampton bank of $80,000, in the mortgage loan of the Lehigh Coal and Navigation Company, and of $27,000, in notes of the Northampton bank, and $1500 in the funds of that bank, by means of certain fraudulent transactions with John Rice; but at the trial, the plaintiff was permitted to file a count in trover, for the same claims and funds, though the defendant resisted the plaintiffs\u2019 right to do so, as the cause had been arbitrated, an award made, and an appeal taken.\nAt the trial of the cause, on the 30th day of April, and 1st of May, 1845, there was no evidence whatever given of any assignment to the use of Gibbons; and there was a verdict for the plaintiff, for $2456 21, on the count in trover, and generally for the defendant on the first count of the declaration.\n. Judgment having been rendered upon the verdict for the plaintiff, the defendant moved for a rule \u201c to show cause why the verdict and the judgment should not be received in Northampton bank notes, and that an order to that effect should be endorsed on any fieri facias that may issue,\u201d which, after argument, was discharged on the 3d day of May, 1845, the discharge of which rule is assigned for error, as also that the court permitted the count in trover to be added against the consent of the defendant.\nErrors assigned: \u2014 1. That the court below erred in not making the rule to show cause \u201c why the verdict and judgment should not be received in Northampton bank notes,\u201d absolute. 2. Because the court below allowed a count in trover to be added at \"the trial, against the consent of the defendant.\nMeredith and Stevens, for plaintiff in error.\n\u2014 On the second point, the only one decided here. This cause was arbitrated, an award made, and an appeal taken. The declaration originally contained but one count; but, at the trial, the court permitted a second count to be filed.\nThe first count alleges a conspiracy between Rice, the cashier of the Northampton bank, and Winder, the defendant; and charged the defendant with having obtained the property of the Northampton bank, with intent to defraud the said bank. This was the gist of the action.\nOn the original count, there was a verdict for the defendant, founded upon that part of the charge of the court -jyhich instructed the jury that defendant had sold a portion of the mortgage loan after five days\u2019 notice instead of ten days, which was the contract between Rice and Winder. They referred to Reynolds v. Irwin, (argued at the last term, and to be reported,) in which it was decided, that after appeal from an award, the plaintiff must go upon the count filed before arbitration.\nThey cited to the same point, Stock v. McChesney, 4 Yeates, 507, and Reitzel v. Franklin, 5 Watts & Serg. 33.\nFranklin, for defendant in error.\n\u2014 We were not able to prove any fraudulent conduct between Rice and Winder, in obtaining the property of the bank, as charged in the declaration originally, which contained but a single special count in case. We therefore added a second count. The second count was in trover, and entirely consistent with the first. It does not allege the fraudulent taking, but the wrongful conversion of the property or funds of the bank. The second is therefore a part of the first count. And as it requires us to prove less, the responsibility of the sureties is not enlarged.\nTrover may be joined with special action on the case, and counts not incompatible. 1 Chitty\u2019s Pleadings, 200, refers to Brown v. Dixon, 1 Term Rep. 274; Smith v. Rutherford, 2 Serg. & Rawle, 358; McCahen v. Hirst, 7 Watts, 175.\nUnder act of 1806, amendment must adhere to same cause of action or controversy, but may substantially differ from other counts; Cassel v. Cooke, 8 Serg. & Rawle, 287; Rodrigue v. Curcier, 15 Serg. & Rawle, 81.\nThere having been an arbitration, makes no difference, as same rule holds in respect to amendments after arbitration as in respect to those under act of 1806. Rule laid down in Reitzel v. Franklin, 5 Watts & Serg. 33, refers to amendments at common law; in which a new cause of action is added.\nHere plaintiff in error admits, on the face of his paper-book, that the cause of action is the same. On this ground the writ should be quashed, if this were the only error assigned. See opinion of the court below in this case, reported 5 Penna. Law Jour. 185.\nMay 18."
+  },
+  "file_name": "0446-01",
+  "first_page_order": 446,
+  "last_page_order": 448
+}

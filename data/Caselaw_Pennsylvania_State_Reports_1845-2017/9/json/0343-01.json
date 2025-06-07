@@ -1,0 +1,79 @@
+{
+  "id": 960721,
+  "name": "Stafford v. Ames",
+  "name_abbreviation": "Stafford v. Ames",
+  "decision_date": "1848-10-02",
+  "docket_number": "",
+  "first_page": "343",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 509",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478356
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0509-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 213,
+    "char_count": 2845,
+    "ocr_confidence": 0.378,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03381181682793089
+    },
+    "sha256": "618219352f2b05b1305fe6b8d09eb90ab94f6f4d350e22f2ca2d89651754b07c",
+    "simhash": "1:eb09a8f62c840cbc",
+    "word_count": 516
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stafford v. Ames."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nOn the trial, in the Common Pleas, the plaintiff offered Wm. Nutting as a witness. The defendant requested that he should be sworn and examined on his voire dire, which was done by the court. Nutting said, \u201cI made a bargain with Ames, after he sowed the wheat; I was to have it on conditions like this: I bought it, agreeing if it turned out well, to give him thirty bushels; if riot, he should make it up to me. Says he, I will. I was not to lose anything in cutting it. I gave my note to Ames for thirty bushels of wheat; the condition was not in the note. After I was refused leave to cut the wheat, plaintiff gave me up the note. This was before it was harvested. Then our agreement was rescinded.\u201d The witness was then offered in chief, and admitted ; and this forms the first error. The plaintiff in error relies on the case of Clover v. Painter, 3 Barr, 46, as supporting his exception. There is but little resemblance between that case and the present; There, Bachman, the witness, was a partner of Painter\u2019s, and the debt in question went into the firm; after that, when the witness left the concern, he re-assigned it to Painter. Although this case differed from Post v. Avery, in 5 W. & S. 509, and the like cases, in one particular, yet he was the assignee of the original creditor, and therefore we held him incompetent. But in the case before us, the wheat never passed into the hands or possession of Nutting. The plaintiff in error prevented him from harvesting the wheat and obtaining possession, and the contract was rescinded. It was further contended that the plaintiff had no property in the wheat, and therefore could not maintain trover. It is true, to maintain this action the plaintiff must have property in the goods, and the actual possession, or the right to immediate possession: 3 S. & R. 512-13. The defendant was a cropper, not a tenant; his agent was prevented from cutting and threshing the wheat; he was illegally kept out of the possession, and had a right to the immediate possession. There is no other alleged error worthy of notice.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Babbitt, for plaintiff in error.",
+      "Galbraith, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Stafford v. Ames.\nVendee of chattels after rescisi\u00f3n of the bargain is a good witness for his vendor in trover for the goods.\nA cropper entitled to a share of the grain may maintain trover against the owner of the land who cnts the grain and refuses to deliver it up.\nIn error from the Common Pleas of Erie.\nAmes and Stafford occupied land together, which was cultivated by Ames for a share of the crop. Ames left the premises, and Stafford cut the grain and refused to deliver any part of it to Ames. The court said this gave Ames a sufficient title to the grain to enable him to bring trover.\nThere was a question of evidence, which is fully stated in the opinion of this court.\nBabbitt, for plaintiff in error.\nGalbraith, contra.\nOct. 2."
+  },
+  "file_name": "0343-01",
+  "first_page_order": 343,
+  "last_page_order": 344
+}

@@ -1,0 +1,146 @@
+{
+  "id": 9504029,
+  "name": "Hospital versus Philadelphia County",
+  "name_abbreviation": "Hospital v. Philadelphia County",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "229",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 229"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Peters 110",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Conn. 223",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754525
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/6/0223-01"
+      ]
+    },
+    {
+      "cite": "2 Penn. Rep. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 104",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840135
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0104-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 461",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Pick. 13",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Watts 294",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Pick. 11",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Pick. 100",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 479,
+    "char_count": 9081,
+    "ocr_confidence": 0.427,
+    "pagerank": {
+      "raw": 2.5809120525490327e-07,
+      "percentile": 0.8171821986532806
+    },
+    "sha256": "63e73fc319e14eaf7b09e30a4fe471274572ad97ee74b6f5cfaf438489d8beb6",
+    "simhash": "1:88377d2b4efc2db9",
+    "word_count": 1587
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hospital versus Philadelphia County."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, 0. J.\nAn unjust assessment of taxes is in general to be remedied by an appeal to the county commissioners. In Philadelphia, Schuylkill, and perhaps some other counties, there is a further appeal to the Court of Common Pleas. But that Court, by the terms of the statute, is limited in its authority over the matter, and must either affirm or reduce, the assessment. It cannot avoid it altogether. The Act of 1836, giving this appeal, does not seem intended for cases of persons or property not liable to assessment at all. In Massachusetts it has been held, that where personal property, not within the jurisdiction, but otherwise liable to taxation, is assessed at the place of the owner\u2019s domicil, it is a case of overrating merely, and is to be remedied by an appeal. Osborn v. Davis, 6 Pick. 100. But where a non-resident, who is not subject to the jurisdiction, is assessed for a personal tax, he may, even after payment under protest, recover back the taxes collected : Preston v. Boston, 12 Pick. 11, 13. So, in this state; in a ease where a corporation is not to be regarded as \u201c a person\u201d within the meaning of an Act for assessment of taxes, the tax, after payment under protest, may be recovered back: 8 Watts 294. The same rule ought to apply to the case of an assessment on property not liable to assessment. In the one case there is no jurisdiction over the party, and in the other* none over the property. The principle is the same in both cases; and it has been constantly applied in the investigation of land titles under sales for non-payment of taxes. In all cases where seated property has been assessed and sold as unseated, the titles derived under such proceedings have been declared invalid. This is the principle of the decision in the Borough of Allentown v. Saeger, 8 Harris 421. In that case the ground of the action was that the property was not subject to taxation, and the only objection to the reclamation which was recognised by this Court was the voluntary payment without protest. In the opinion of the Court, delivered by Mr. Justice LowRIE, it was expressly declared that \u201c if it had been paid under protest, that is, with notice that he would claim it back, this would have repelled the implication of assent, and give rise to the right of reclamation.\u201d\nA voluntary payment of money under a claim of right cannot, in general, be recovered back; but it has been held that when a party is compelled by duress of his person or goods to pay money for which he is not liable, it is not voluntary but compulsory; and he may rescue himself from such duress by payment of the money, and afterwards, on proof of the fact, recover it back: Astley v. Reynolds, 2 Str. 916; 12 Pick. 13. But the threat of a distress for rent is not such duress, because the party may replevy the goods distrained, and try the question of liability at law: Knibbs v. Hale, 1 Esp. Rep. 84. The threat of legal process is not such duress, for the party may plead and make proof, and show that he is not liable: Brown v. McKinnally, 1 Esp. Rep. 279. But the warrant to a collector, under a statute for the collection of taxes, is in the nature of an execution running against the person and property of the party, upon which he has no day in court, no opportunity to plead and offer proof, and have a judicial decision of the question of his liability. Whore, therefore, a party not liable to taxation is called on peremptorily to pay upon such a warrant, and ho can saye himself and his property in no other way than by paying the illegal demand, he may give notice that\" he. so 'pays it by duress, and not voluntarily, and maintain an action to recover it back: 17 Mass. 461; 12 Pick. 13.\nThe Act of 6th April, 1833,.exempted from taxation all \u201cthe real property, including ground-rents, then belonging and payable to Christ Church Hospital, in the city of Philadelphia, so long as they continue to belong to said hospital.\u201d The preamble recites the past good works of the institution, and the decay of the buildings of the hospital estate, and the increasing burden of taxes, whereby its means of usefulness are curtailed and limited. But no duty is imposed upon the institution as the consideration of -the grant. It is required to do nothing. It is left to pursue its own course as freely as before. There is,-therefore, nothing in the statute of exemption which savors of contract. The legislature had the undoubted right to repeal the Act whenever the public exigencies required it. It is not necessary to review the decisions cited 'to prove that a state cannot pass a law impairing the obligation of a contract. They are entirely inapplicable to the case before the Court.\nBut the repealing Act of 14th April, 1851, does not apply to property \u201cin actual use and occupation\u201d of the corporation.. The case admits that the hospital buildings, No. 8, Cherry Street, are in the \u201cactual occupation of the corporation for hospital purposes.\u201d These buildings are therefore still exempt from taxation. The collection of $126 for the tax on these buildings was illegal, and should be returned to the plaintiff.\nJudgment reversed, and judgment in favor of the plaintiff in error for the sum of $126, with costs.",
+        "type": "majority",
+        "author": "Lewis, 0. J."
+      }
+    ],
+    "attorneys": [
+      "Watts, for plaintiff in error.",
+      "Badger, for the county.",
+      "Meredith, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Hospital versus Philadelphia County.\n1. Where an assessment is made upon property not liable to taxation it is not a case merely of overrating, where the remedy is by appeal; hut if paid .under protest, after levy under the collector\u2019s warrant on goods of the party taxed, it may he recovered back.\n2. It was enacted, by Act of 6th April, 1833, that the real property, including ground-rents, belonging to Christ Church Hospital, \u201c shall be and remain free from taxes.\u201d Held that there being nothing in the exempting statute savoring of contract, it was liable to repeal. '\n3. The repealing Act not applying to property \u201c in the actual use and occupation of such association,\u201d the tax assessed upon such property, and paid under protest, could be recovered back by suit against the county.\nIN this case the rector, churchwardens, &c., in trust for Christ Church Hospital, were plaintiffs, and the county of Philadelphia was defendant, arid a case was agreed upon to the following purport :\u2014\nIn an Act of 6th April, 1833, it was declared that it' appears that Christ Church Hospital has, for many years, afforded an asylum to numerous poor and distressed widows, &c., -and it was enacted that the.real property, including ground-rents, belonging and payable to the said hospital,, \u201c shall be and reinain free from taxes.\u201d, . ,\nBy a subsequent Act, passed on 14th April, 1851, it was provided that all property, real and personal, belonging to any association or incorporated company, which is now by law exempt from taxation, other than that which is in the actual use and occupation of such association or incorporated company, and from which an income or revenue is derived by the owners thereof, shall hereafter be subject to taxation,\u201d &c.\nAfterwards, certain real estate and ground-rents of the hospital, which belonged to it before the passage of the Act of 1833, was assessed; and on the 28th March, 1852, under warrant of distress, goods on the premises were levied on for the taxes aforesaid; whereupon the plaintiffs protested against the proceeding as illegal, but to prevent injury .paid the taxes claimed.\nAmongst the property taxed was the hospital buildings, in actual occupation of the corporation for hospital purposes.\nIt was submitted to the Court whether the plaintiffs were entitled to recover the amount paid under protest, or any part of it.\nApril '1st, 1854, judgment was entered generally for the defendant.\nSuch judgment was assigned for error.\nWatts, for plaintiff in error.\nIt was submitted whether the Act of 6th April, 1833, was not in the nature of a contract; and alleged that the preamble to the Act sets forth the consideration of the grant; that the Act of itself imports a sufficient consideration; and if a contract, it could not, constitutionally, be repealed: 6 Oranch 136, Fletcher v. Peck; 7 Id. 164, New Jersey v. Wilson; 2 Watts 104; -5 Parr 160 ; 2 Penn. Rep. 196; 6 Conn. 223; 7 Id. 335.\nBadger, for the county.\nIf a party, with full knowledge of the facts, pays a demand attempted to be enforced by legal proceedings, even under protest, unless there is fraud, it cannot be recovered back: 7 Gushing 125.\nIt was further contended that the Act of 1833 was not to be regarded \u25a0 as a contract, and that the Act of 1851 was constitutional : 8 Peters 110, Nathan v. Spencer.\nMeredith, in reply.\nThe case is not one of a merely irregular assessment. The hospital property was in actual use by the corporation, and not liable to taxation. The performance of its functions by the corporation was the consideration of the grant, and the Act of 1833 was not liable to be repealed. It was further contended that the Act of 1851 was not designed to operate upon the Act of 1833 in .question, but upon a-general Act passed upon 16th April, 1828, exempting churches, &e., from taxation."
+  },
+  "file_name": "0229-01",
+  "first_page_order": 227,
+  "last_page_order": 230
+}

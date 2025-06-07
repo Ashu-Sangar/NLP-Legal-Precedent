@@ -1,0 +1,145 @@
+{
+  "id": 477624,
+  "name": "Pontius versus Nesbit et al.",
+  "name_abbreviation": "Pontius v. Nesbit",
+  "decision_date": "1861-11-07",
+  "docket_number": "",
+  "first_page": "309",
+  "last_page": "311",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "40 Pa. 309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Rawle 53",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 252",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 289",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844079
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0289-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 273",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791138
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0273-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 222",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787875
+      ],
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0222-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 162",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0162-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 22",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 251",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 375,
+    "char_count": 5657,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 5.820778576059924e-07,
+      "percentile": 0.9515686049649998
+    },
+    "sha256": "e13b4959a6dca7a6418506a79355fd0d222ebb0b7307f399f9409d15cf0fddb4",
+    "simhash": "1:c05e5748904ab41c",
+    "word_count": 1026
+  },
+  "last_updated": "2024-02-27T19:07:13.205068+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pontius versus Nesbit et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Woodward, J.\nOn the 30th March 1861, plaintiff issued an attachment-execution under the 35th section of the Act of 16th June 1836, relating to executions, and served it on the Lewis-burg Bank; but finding that the defendants had no deposits there, he issued, on the 13th April 1861, an attachment under the 32d section of the same act, with a view of attaching stock which the defendants, or one of them, held in that bank, in the name of Mary Hayes.\nThe court, on motion, set aside the latter writ, on the ground that the former one had not been abandoned or discontinued, and that plaintiff Avas not entitled to tAvo attachments at the same time. To this judgment the present writ of error was taken, and we are now moved to quash it on the ground that a writ of error will not lie to such an exercise of mere discretion.\nA writ of error lies in all cases in Avhich a court of record has given a final judgment or made an aAvard in nature of a judgment, or where judgment has been arrested, or, on an appeal from a justice, has been dismissed, or on an aAvard of execution: 3 Barr 273; 2 S. & R. 57; Ibid. 392; 2 Jones 251. If the dismissal of execution process should be considered as a mere discretionary power of the Courts of Common Pleas, not reviewable on error, it is manifest they might prevent a plaintiff from collecting his judgment altogether. It is a high power to set aside the process of the law. Such a decree is final, and therefore revieAvable on error. It is one of those judgments with which \u201c persons may find themselves aggrieved,\u201d and therefore it falls within the letter of the old remedial law of 1772, Purdon 311.\nDeclining to quash the Avrit of error, it remains to inquire whether there was any legal ground for setting aside the attachment that bad been issued against the stock. There is no complaint that any of the statutory formalities had been disregarded. The only objection to it was the pendency of the prior attachment. That was no valid objection. Both writs of attachment were execution process; and the general rule is that you may have as many forms of execution as the law will afford, and may pursue them all at the same time until satisfaction be obtained on one of them. Before imprisonment for debt was abolished, a ca. sa., a fi. fa., and an attachment-execution might all be out at one and the same time. We see no irregularity in the practice in this case, but if there were any, it was obviated by the discontinuance of the first attachment, on the same day the court set aside the second.\nThe judgment is reversed, and the record remanded, with a procedendo.",
+        "type": "majority",
+        "author": "by Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "The ease was argued here by J. F. Sp J. M. Linn, for plaintiff in error,",
+      "G. F. Miller and S. H. Orwig, for defendant in error,",
+      "J. F. & J. M. Linn, in reply to the argument on the first point of the defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Pontius versus Nesbit et al.\nWhat Judgments are reviewed on Writ of Error.\u2014 Order to quash an Execution-Attachment reversed in Supreme Gourt. \u2014 Right of Plaintiff to more than one Form of Execution.\n1. An order setting aside an execution is not a matter of discretion with the court below, but a final decree, such as is reviewable on a writ of error. It is a \u201cjudgment\u201d with which \u201c persons may find themselves aggrieved\u201d within the Act of May 22d 1722, relating to writs of error and appeals.\n2. The general rule is, that a plaintiff may have as many executions at the same time as the law affords, and pursue each, until satisfaction is obtained on one: therefore, where the Court of Common Pleas set aside an execution-attachment against bank stock belonging to a defendant, standing in the name of another upon the books of the bank, because a previous execution-attachment upon the same judgment against deposits was still outstanding, it was error.\nError to the Common Picas of Union county.\nThis was a proceeding in the court below, under a rule obtained by Mary Hays, (who was summoned as garnishee in an attachment-execution against Nesbit, Hayes & Fichthorn; at the suit' of J. Frederick Pontius,) to show cause why an attachment-execution against her should not be quashed, on the ground of a previous execution-attachment having been issued on the same judgment against a different garnishee, and under a different Act of Assembly. On argument, the rule was made absolute, whereupon the case was removed into this court by the plaintiff, by whom the quashing of the writ was assigned for error. The facts of th.e case are sufficiently stated in the opinion of this court.\nThe ease was argued here by J. F. Sp J. M. Linn, for plaintiff in error,\nwho, in support of the right of a plaintiff to more than one form of execution, cited and relied on Tams v. Wardle, 5 W. & S. 22; Kase v. Kase, 10 Casey 128; Baldwin\u2019s Estate, 4 Barr 248; Newlin v. Scott, 2 Casey 103; Davis v. Scott, 1 Miles 52; 1 T. & H. Pr. 766.\nG. F. Miller and S. H. Orwig, for defendant in error,\nargued, 1. That the quashing of a writ by the court below was a summary; interlocutory proceeding, within the discretion of the court, and not the subject of a writ of error: citing Miller v. Sprecher, 2 Yeates 162; Brown v. Ridgeway, 10 Barr 42; Shortz v. Quigly, 1 Binn. 222, 226; Lewis v. Wallick, 3 S. & R. 411. 2. That there must always be an abandonment of the former writ, before a second can regularly issue; and there was no discontinuance in this case until the argument was closed in the court below: 2 Miles 173; Purdon v. Purdon, Id. 55; Davis v. Scott, Id. 164; Grant v. Potts.\nNovember 7th 1861,\nJ. F. & J. M. Linn, in reply to the argument on the first point of the defendant in error,\ncited and relied on Commonwealth v. Judges C. P., 3 Binn. 273 ; Beale v. Dougherty, 3 Id. 432; Adams v. Bush, 5 Watts 289; Harger v. Commissioners, 2 Jones 252; Cassel v. Duncan, 2 S. & R. 57; Barnet v. Ihrie, 1 Rawle 53."
+  },
+  "file_name": "0309-01",
+  "first_page_order": 309,
+  "last_page_order": 311
+}

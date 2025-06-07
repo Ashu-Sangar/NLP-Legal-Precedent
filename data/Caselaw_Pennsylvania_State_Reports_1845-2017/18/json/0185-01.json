@@ -1,0 +1,79 @@
+{
+  "id": 969103,
+  "name": "Law versus Mills",
+  "name_abbreviation": "Law v. Mills",
+  "decision_date": "1851-11-20",
+  "docket_number": "",
+  "first_page": "185",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Penn. Rep. 185",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Bin. 861",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 294,
+    "char_count": 4346,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 3.180249064301088e-07,
+      "percentile": 0.8644756895093112
+    },
+    "sha256": "f9fbda609167772ec48e77fbf0ec2b0332ea0ee561c4705c91bbb428ef3dd353",
+    "simhash": "1:098c18c4d926ae39",
+    "word_count": 731
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Law versus Mills."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court, was delivered by\nBell, J.\nThe only objection made against the assignment of the 17th November, 1849, executed by Joy and Webster, is that it is in contravention of our law, which forbids all attempts by an insolvent debtor to prefer one or more of his creditors before others. But our statute does not entirely invalidate assignments in trust for creditors, directing preferences. It simply enacts, that such a direction is to be disregarded, leaving the assignment to operate for the equal benefit of all the creditors. Yet were this otherwise, it is settled by Speed v. May (5 Harris 91), following prior determinations, that the validity of a voluntary assignment in trust, is to be ascertained by the law of the place of its origin. In ordinary contracts, the lex loei contractus determines their binding effect. And the same rule governs transfers of movable property and choses in action. No attempt was made to show that the assignment in question contravenes the. law of the state where it originated. Consequently, the determination of the Court below, sustaining the right of the assignees, is well founded.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Maxwell and Stewart, for plaintiff in error.",
+      "Petterman, with whom was Holstein, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Law versus Mills.\n1. The Act of 17th April, 1843, to prevent preferences in assignments, does not invalidate assignments in trust for creditors which direct preferences; the preferences are forbidden except in favor of labourers, but the assignment is operative for the benefit of the other creditors generally.\n2. The validity of a voluntary assignment of personal estate in trust for creditors, is to be determined by the law of the place of its execution : Therefore a voluntary assignment made in New York, of personal estate in Pennsylvania, which is valid by the laws of New York, will operate to pass to the assignee the property in Pennsylvania assigned thereby.\nError to the Common Pleas of Mercer county.\nThis was the case of a scire facias, by Andrew Law against Mills and Shepherd, as garnishees, on a judgment in foreign attachment issued by Law against Joy and Webster, in which proceeding judgment was had against Joy and Webster on 21st February, 1851, in the Common Pleas of Mercer county, Pennsylvania, for $847.10 and costs.\nJoy and Webster resided in Buffalo, state of New York, and had been engaged in mining coal in Mercer county, Pennsylvania. They became indebted to the plaintiff, for carrying their coal from the coal-bank to the canal. Under the writ of attachment a store of dry goods, groceries, &c., and an engine on board of a tow-boat, were attached. The attachment was served on Mills and Shepherd, on the 20th November, 1849. On the 17th November, 1849, Joy and Webster executed in the state of New York, an assignment of all their real and personal estate to Jacob A. Barker, of Buffalo, first to pay certain preferred debts; secondly, to pay other debts ratably; and thirdly, to pay ratably all the other debts owing by them. The assignment was acknowledged on 17th November, 1849, and was recorded in Mercer county on 6th December, 1849. The property attached was situate in Mercer county, and at the time of issuing and service of the attachment, the goods attached were in the possession of Mills and Shepherd, as agents of Barker, the assignee of Joy and Webster.\nA case was stated for the opinion of the Court, embodying the material facts, and providing that if the Court should be of the opinion that the property attached was not subject to attachment by reason of the assignment of Joy and Webster, then judgment to be entered for the defendants ; if otherwise, judgment to be entered for the plaintiff, for $847.10 with interest, &c., to be levied of the assets of Joy and Webster, in the hands of the defendants.\nAgnew, President J., observed, inter alia, that voluntary ex-territorial assignments, when unforbidden by policy and not repugnant to law, are clearly regarded in Pennsylvania as effectual not only against a foreign claimant, but the domestic creditor : 6 Bin. 861, Milne v. Moreton; 2 W. & Ser. 131, Lowry v. Hall; Story\u2019s Conflict of Laws 667; 3 Penn. Rep. 185. Upon general principles this attachment must fail.\nHe directed judgment to be entered for the defendants, and to this, error was assigned.\nMaxwell and Stewart, for plaintiff in error.\nPetterman, with whom was Holstein, for defendants in error.\nfiled Nov. 20,"
+  },
+  "file_name": "0185-01",
+  "first_page_order": 185,
+  "last_page_order": 187
+}

@@ -1,0 +1,91 @@
+{
+  "id": 404684,
+  "name": "Gilbert B. Swazey v. David Herr",
+  "name_abbreviation": "Swazey v. Herr",
+  "decision_date": "1849-07",
+  "docket_number": "",
+  "first_page": "278",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Pa. 278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 W. 93",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. 89",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 R. 108",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Leigh, 1068",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 258,
+    "char_count": 3995,
+    "ocr_confidence": 0.427,
+    "pagerank": {
+      "raw": 5.24865771216349e-08,
+      "percentile": 0.3301700214954617
+    },
+    "sha256": "43187d6f22ffa8f460fa03f826dc379cf2ba2fe6ecde5ed120af062720410884",
+    "simhash": "1:e208d0778fa9a6de",
+    "word_count": 705
+  },
+  "last_updated": "2024-02-27T20:36:37.361247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gilbert B. Swazey v. David Herr."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of this court was delivered by\nBurnside, J.\nThis action was case for deceit, to recover damages for selling the plaintiff the patent and the exclusive right of making and vending the defendant\u2019s clover-hulling machine in Warren county, New Jersey, when the defendant knew that no such patent existed.\nThe gist of this action is fraudulent misrepresentation. To recover, it must be shown that deceit was used to throw the plaintiff'off his guard and prevent his being watchful: 2 Leigh\u2019s N. P., 1377; 2 Eng. Com. Law R. 303. That the defendant knew the representations which he made were false, and the plaintiff had acted upon these representations: 2 Leigh, 1068; 3 Wendell, 385; 7 Vermont Rep. 67. It was in evidence that the defendant had applied for a patent, and paid $30 at Washington. He had not yet received it. The article between the parties recited, that he had obtained the patent, but he offered to prove before the article of agreement was signed, that Herr told Swazey he had not the patent, and this, as well as the 2d, 3d, 4th, and 5th bills of exceptions, which are the same in principle, forms the first error assigned. The objection was that the contract was in writing. The evidence was properly received. It was material evidence to show that the defendant had not acted fraudulently, that he had communicated the truth to the plaintiff, and that the parties acted upon the expectation that a patent would be issued from the department and duly received. The evidence, if believed by the jury, stripped the case of all fraudulent misrepresentations and falsehood, and put an end to the plaintiff\u2019s action. It was properly received.\nWe see no error in either of the other assignments on the record.\nThe opinion on the first error assigned puts an end to the plaintiff\u2019s case.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Jordan, for plaintiff in error,",
+      "Slenher, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Gilbert B. Swazey v. David Herr.\nIn an action on the case for deceit in the sale of a patent, which had never been issued, the defendant may prove that before the execution of the contract, \u25a0which expressly affirmed the existence of the patent, he told the plaintiff he had no patent yet for the machine; and may prove what efforts he made, before and after the sale, to procure the patent.\nError to the Common Pleas of Union.\nAug. 2. Swazey, the plaintiff below, brought an action on the case for deceit in the sale of a right to make and sell in a certain county a clover-huller, for which Herr, the defendant, by his formal assignment to the plaintiff, affirmed that a patent was received out of the Patent Office of the United States. The deceit consisted in this, that no patent had ever been granted for the machine.\nUpon the trial, defendant was permitted to offer testimony, under exception, to prove that he told the plaintiff before the assignment of the patent, and the memorandum of the agreement for the sale of it, were signed, that he had not a patent yet for the clover-huller; and also to give in evidence a certificate of the commissioner of patents, dated nineteen days after the sale, to the effect that the defendant had made application for a patent, which was then pending, and in connexion therewith a receipt, dated a year before the sale, from the Patent Office, for a payment required to be made on defendant, making the application for a patent for his clover-huller. He offered testimony, also under exceptions, to prove that he had sent a person to Washington, the year before the sale to plaintiff, to procure the patent for him, and that at the very time of the sale, and for some time after, he had an agent there endeavouring to procure a patent. The admission of this evidence constituted the matter, to which exception was taken in the five bills referred to in the opinion of this court.\nThe verdict was for the defendant.\nJordan, for plaintiff in error,\ncited Lighty v. Shorb, 3 Pa. R. 450; Collom v. Hooker, 1 R. 108; Wright v. Weakly, 2 W. 89.\nSlenher, contra,\ncited Reinhard v. Keenbartz, 6 W. 93; 2 Starkie\u2019s Ev. 747."
+  },
+  "file_name": "0278-01",
+  "first_page_order": 278,
+  "last_page_order": 280
+}

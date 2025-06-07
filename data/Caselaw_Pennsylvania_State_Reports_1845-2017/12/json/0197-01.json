@@ -1,0 +1,115 @@
+{
+  "id": 963722,
+  "name": "McCullough's Appeal",
+  "name_abbreviation": "McCullough's Appeal",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "197",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 W. & S. 142",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0142-01"
+      ]
+    },
+    {
+      "cite": "8 W. 498",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Whart. 576",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass. 169",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000791
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0139-01"
+      ]
+    },
+    {
+      "cite": "3 Whart. 162",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833445
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0162-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 257,
+    "char_count": 3457,
+    "ocr_confidence": 0.387,
+    "pagerank": {
+      "raw": 1.3178215006393166e-07,
+      "percentile": 0.6258791535722739
+    },
+    "sha256": "91641c843413014f435dc5b4d7165510cb4db2b8e957663aca834a9d2c2bc855",
+    "simhash": "1:09f0220b18ecfa5d",
+    "word_count": 618
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McCullough\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe provision for the wife, in this case, is a devise of the profits, and consequently of the land, to her for life, in the first instance; but coupled with a condition, or a conditional limitation, no matter which, that she do not marry. Whether it bo the one or the other, a limitation over is unnecessary to give it effect; for it is a familiar principle that devises of land, whether to a widow or any one else, are governed, not by the civil, but by the common law, which knows nothing of a condition in terrorem: as was determined in Commonwealth v. Stouffer, 10 Barr, 350. At her marriage, therefore, the wife\u2019s interest in the demised premises ceased, but the interest of the children, her co-tenants, survived. But what statute empowers an Orphans\u2019 Court to apply the income of devised land to the maintenance of infant devisees ? The question was not brought to the notice of the judge below; but it is nevertheless our duty to consider it. That Court has jurisdiction in cases of legacy, but not in cases of devise. By the terms of this will, the right of possession devolved on the executors, who consequently became liable to account for the profits to the children or their guardian. The present, however, is not a bill for an account, but a bill for payment over, in which shape it cannot be retained.\nBill dismissed for want of jurisdiction.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Drum, for the appellant.",
+      "Banks, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "McCullough\u2019s Appeal.\n1. The Orphans\u2019 Court has not jurisdiction to compel payment of the profits of land devised for the maintenance of minor children.\n2. A devise over is not essential to render a condition annexed to land, and in restraint of marriage, valid.\nFrom the Orphans\u2019 Court of Indiana.\nThe petition set forth that William Armstrong by his will directed that his wife and children should dwell on his farm, and have the use of it for the education of his children and her own necessary wants. In case she married, she was to move off the premises and deliver the same to his executors. He again directed that his wife, \u201c so long as she remained his widow and during her natural life, should have her maintenance and support off his farm.\u201d He then gave certain legacies to his children, and devised the farm to his son William, he paying them; and appointed his wife guardian of his children. The petition further set forth that the petitioner had married the testator\u2019s widow, and the executors had entered upon the land and received the profits, and that the testator\u2019s widow had not since 1846 received anything out of the farm for her own maintenance nor for the education of her children, and prayed an order \u201c touching the premises and the fulfilment of' the aforesaid provision, and for the maintenance and support of the widow'and the education of the children.\u201d\nThe Court directed that the executors should pay to the widow as guardian of the minor children the rents and profits, and as to the residue dismissed the petition. Whereupon the petitioner appealed.\nDrum, for the appellant.\nThe latter devise to the widow for life is inconsistent with the former during widowhood only, and must prevail: 3 Whart. 162. But here there is no such devise over as is requisite to divest her estate: 4 Burr. 2052; 2 Com. 726; 6 Mass. 169; 2 Ves. 293; 1 Ch. R. 121; 3 Whart. 576; 8 W. 498; 1 Wils. 21, 159, 135; Bac. Ab. tit. Legacy, F.; IT. R. 389; 1 Chan. Ca. 58.\nBanks, contr\u00e1.\nThis being a devise, and not a legacy, it ceases on condition broken: 2 W. & S. 142; 10 Barr, 75."
+  },
+  "file_name": "0197-01",
+  "first_page_order": 197,
+  "last_page_order": 198
+}

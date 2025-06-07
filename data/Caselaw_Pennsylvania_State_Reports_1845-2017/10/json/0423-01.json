@@ -1,0 +1,79 @@
+{
+  "id": 962734,
+  "name": "Snyder v. Snyder",
+  "name_abbreviation": "Snyder v. Snyder",
+  "decision_date": "1849-05-29",
+  "docket_number": "",
+  "first_page": "423",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 423"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Wh. 179",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829038
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0179-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 244,
+    "char_count": 3633,
+    "ocr_confidence": 0.358,
+    "pagerank": {
+      "raw": 1.3778082721044067e-07,
+      "percentile": 0.6398956078134285
+    },
+    "sha256": "3d7a5da59611fc7239752de1b048a3cffec9437548108c557b7f552994f9d664",
+    "simhash": "1:a48c5dc3ea807b16",
+    "word_count": 667
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Snyder v. Snyder."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThis case is ruled by the case of Jamison v. Brady, 6 S. & R. 466. There it was determined, that a bequest to a sister, for her oion use, was equivalent to a devise to her separate use; and that in an action by the husband and wife for the legacy, a debt due by the husband to the testator could not be set off by the executors. And in Lamb v. Milnes, 5 Ves. 520, it was held that a bequest to a feme covert for her own use, was tantamount to a bequest to her separate use. The words in this will are stronger than those used in either of the above cases cited. The bequest is, that after the payment of debts, all his real and personal estate should be held by his wife, for her own proper use .during her life, and then over to remainder-men. Now the words to Tier own use, in the legacy, of themselves would be sufficient to give a separate interest; but there is an addition, by the insertion of the word proper. This- word leaves not a shadow of doubt on the intent of the testator. \u201c To her own proper use,\u201d is equivalent to her own peculiar'use, as essentially belonging to her, or to her own use strictly. The wife had a separate estate and interest by the bequest in the property, and it was therefore not subject to the debts of her second husband, nor could he sell her interest in it, without her assent. She might in such case recover the property after his death. Nor, at his death, had his executors any business with it whatever, as it was not assets, to pay his debts and legacies. As the property remained in specie, the wife was entitled to it, after the \u2022 death of Snyder, as her own; and as the executor took it contrary to law, the wife had a right to recover it in this form of action. The position of the learned counsel, which he assumed as a sort of dernier resort, to wit: that the executors of Snyder were entitled to take and hold the property for the use of the widow and remainder-men, has nothing in it. What privity had they with the testator in the bequest, with the widow, or remainder-man ? None in the world. Then how could the widow have tbe use without the possession, in such property as spinning-wheels, beds, &c. ? She was entitled to recover the full value of the articles, as .they were taken from her without colour of right, and retained against her consent.\nThe court below having instructed the jury, that the marriage and possession of the husband took from bis wife whatever interest she previously had in the property, and vested it in the husband, and that it would pass into the hands of his personal representatives at his death, and that they were bound to render a verdict accordingly, fell into an error, for which tbe judgment must be\nReversed, and a venire de novo awarded,",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "McCreary, for plaintiff in error,",
+      "Reed, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Snyder v. Snyder.\nA bequest to a widow for her own proper use during her lifetime, remainder over, gives her a separate use; and the executors of her after-taken husband, having converted the property, are liable to her in trover.\nIn error from the Common Pleas of Adams.\nTrover, for certain chattels. Moose, by his will, bequeathed the chattels, mentioned in the declaration, to his wife, \u201cfor her own proper use during her lifetime,\u201d remainder over. The widow afterwards married Snyder, who died, and his executors sold the chattels bequeathed by Moose. The legatee then brought this action.\nIrvine, P. J., instructed the jury, that her interest passed to her husband by the marriage, and hence she could not recover.-\nMcCreary, for plaintiff in error,\ncited 6 S. & R. 466, 9 Ves. 177.\nReed, contra.\n1 Wh. 179. The gift of a use passed the property which vested in the husband.\nMay 29."
+  },
+  "file_name": "0423-01",
+  "first_page_order": 423,
+  "last_page_order": 424
+}

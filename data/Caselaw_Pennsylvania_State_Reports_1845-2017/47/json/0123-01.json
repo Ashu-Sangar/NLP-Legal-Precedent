@@ -1,0 +1,136 @@
+{
+  "id": 485544,
+  "name": "Luckenbach versus Anderson",
+  "name_abbreviation": "Luckenbach v. Anderson",
+  "decision_date": "1864-04-02",
+  "docket_number": "",
+  "first_page": "123",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "47 Pa. 123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 McLean 511",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Cranch 481",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        572729
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0481-01"
+      ]
+    },
+    {
+      "cite": "3 Wheat. 234",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1443486
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/16/0234-01"
+      ]
+    },
+    {
+      "cite": "6 Wright 471",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cow. 508",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/4/0508-01"
+      ]
+    },
+    {
+      "cite": "8 Leg. Int. 82",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "case_ids": [
+        6664315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/15/1201-02"
+      ]
+    },
+    {
+      "cite": "8 Leg. Int. 18",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 572,
+    "char_count": 11229,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 1.8667213946028778e-07,
+      "percentile": 0.7256110298322412
+    },
+    "sha256": "8fd9d1386e359d6682c91d8e33ce79c3c8f472da51ec8a0e92d697f0903e7a8b",
+    "simhash": "1:9e7286a159d665da",
+    "word_count": 1990
+  },
+  "last_updated": "2024-02-27T22:16:39.327750+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Agnew, J., was absent at Nisi Prius when this case was argued."
+    ],
+    "parties": [
+      "Luckenbach versus Anderson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, C. J.\nThe cases cited on behalf of the defendant in error, justified the court below in demanding a sufficient affidavit of defence from the defendant. The action was debt upon a judgment obtained in the Supreme Court of New York, and under the rule of court which the Common Pleas of Northampton maintains, and according to the course of decision that prevails in this court, it wras a fit and necessary case for a competent affidavit of defence.\nThe only question then, is, was the affidavit sufficient? It shows that the defendant was fraudulently decoyed into the city of New York for the purpose of being sued, but it alleges not a particle of defence against the debt for which he was sued. On the contrary, the record sued upon here shows that the defendant\u2019s counsel voluntarily confessed judgment, and the affidavit does not allege that they mistook or exceeded their instructions. When a man is sued for a judgment he has confessed, is it a sufficient defence to allege that he was decoyed into the jurisdiction where the original suit was brought ? We think not. If the confession of judgment had been fraudulently obtained, that would have been something, and if coupled with an allegation of defence against the original claim, might have constituted a good affidavit, but neither the judgment confessed, nor the claim whereon it was founded, are impeached by this affidavit. The manner of bringing the defendant into the New York court is the only thing complained of, and, exceptionable as that may have been, we think it was no defence to the present action.\nThe judgment is therefore affirmed.\nAgnew, J., was absent at Nisi Prius when this case was argued.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "Heeder Green, for plaintiff in error,",
+      "W. II. Armstrong, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Luckenbach versus Anderson.\nJudgment for want of affidavit of defence, in action on foreign judgmant. \u2014 Fraud in obtaining service in original suit, no defence to action on foreign judgment.\n1. Judgment for want of a sufficient affidavit of defence may be taken, in an action of debt in Pennsylvania, upon a judgment obtained in the Supreme Court of New York.\n2. An affidavit of defence to such an action, -which alleged that the defendant was fraudulently decoyed to the state in which he was sued, for the purpose of obtaining a service of the process upon him, but nothing against the debt for which the action was brought, held insufficient.\nError to the Common Pleas of Northampton county.\nThis was an action of debt by Horace W. Anderson against Charles A. Luckenbach, founded on a judgment obtained in the Supreme Court of the state of New York, in favour of the plaintiff and against the defendant above named.\nThe plaintiff filed, May 2d 1862, a copy of the record of the case, duly certified under the Act of Congress, as the statement of his claim, verified by affidavit of his counsel in Northampton county, and gave notice the same day; to which the defendant,\nJune 2d 1862, filed the following affidavit of defence:\u2014\n\u201c Charles A. Luckenbach, the defendant above named, being duly sworn, deposes and says, that he has a defence to the plaintiff\u2019s claim in this case as follows: That on or about the 9th day of August, a. d. 1860, he received by mail a letter, postmarked New York city, of which the following is a copy:\u2014\n\u201c \u2018New York, August 8th, 1860.\n\u2018 Charles A. Luckenbach, Bethlehem, Pa.\n\u2018 Dear Sir : I am just from Weaversville, California, and Harry Seaman requested me to write to you. I have some news from him to communicate to you, and if you will drop me a line, informing me when and where I can see you in this city, I will call on you and fulfil my promise with Henry.\n\u2018 Respectfully yours, \u2018 J. B. Fluno,\n\u2018Lovejoy\u2019s Hotel.\u2019\n\u201c That the name of J. B. Fluno signed to said letter is, as deponent believes, a fictitious name, and the said letter written or procured to be written by the above-named plaintiff. That the said Harry Seaman, named and alluded to in said letter, is the son-in-law of this deponent, who then resided in Weaversville, California, which facts were well known to said plaintiff, who had also resided in the same place. That this deponent, confiding in the genuineness of said letter, and anxious to hear from his daughter, Mrs. Seaman, and her family, proceeded at once to New York for the purpose of seeing the said supposed J. B. Eluno, and having arrived there despatched a note addressed to said J. B. Eluno, Lovejoy\u2019s Hotel, saying that he could be found at tiie Merchants\u2019 Hotel, Courlland street, at 9 o\u2019clock the following morning. That at 9 o\u2019clock on the following morning a gentleman came up to the office in the said Merchants\u2019 Hotel and asked for this deponent, who being within hearing, and taking for granted that it was the man whom he had appointed then and there to meet, came forward and made himself known to the person inquiring, who thereupon produced and proceeded to serve upon this deponent the writ of summons recited in the record of which an exemplification is set forth in the statement of the plaintiff\u2019s claim filed in this case, and which was the commencement of the action therein recited, and on which the judgment, or alleged judgment, therein recited is founded. That this deponent proceeded to said Lovejoy\u2019s Hotel, at which said letter is dated, and on inquiring for J. B. Eluno, was informed that there was not and had not been any such person at said hotel. That no other person than the said person who served said writ, called to see this deponent at said Merchants\u2019 Hotel, in reply to deponent\u2019s note addressed to said J. B. Eluno. That deponent has since said time been informed by his said son-in-law, Henry Seaman, that he does not know such a man as J. B. Eluno, and did not send any such message or messenger as is stated in said letter of August 8th 1860, to have been sent by him. Deponent therefore alleges his belief that the said letter was written, or procured to be written by the said plaintiff using the false and fictitious name of J. B. Eluno, and falsely pretending that some message, news, or communication had been sent to this deponent by his son-in-law, Henry Seaman, in order to entice this deponent to come to the city of New York, in order there to serve upon him the aforesaid writ \u2014 and that the said alleged judgment was obtained by fraud \u2014 which said facts this deponent verily believes he will be able to prove.\u201d\nThe record showed a confession of judgment by defendant\u2019s counsel in New York.\nThe court below gave judgment for plaintiff, for want of a sufficient affidavit of defence; which was the error assigned here for the defendant.\nHeeder Green, for plaintiff in error,\nargued: 1. That the suit being on a judgment of another state, the plaintiff is not entitled -to a judgment for want of an affidavit of defence : citing Reed v. Keetch, 1 Philad. R. 146, 8 Leg. Int. 18; Commonwealth v. Schultz, 6 Barr 470; McCleary v. Faber, 6 Id. 476; Walker v. Del. Mutual Safety Ins. Co., 1 Philad. R. 192, 8 Leg. Int. 82.\n2. That the judgment in New York was obtained in consequence of a gross fraud practised upon the defendant in order to get him within the jurisdiction of the court, to be served with process, and that all proceedings thereafter in the cause, including the judgment, are tainted with the original fraud, and therefore void.\nA foreign judgment may be impeached for fraud: Story\u2019s Conf. of Laws, \u00a7\u00a7 597, 608; 2 Phill. Ev. 58; Borden v. Fitch, 15 Johns. R. 144; Fermor\u2019s Case, 3 Coke 71; Jackson v. Jackson, 1 Johns. R. 424. See also the authorities cited in the notes to Story\u2019s Conf. of Laws, \u00a7 608, and in the notes to Andrews v. Heriot, 4 Cow. 508.\nThe conclusion, from the foregoing, and from a host of other cases that might be cited to the same point, would seem to be that when a judgment has been obtained by the practice of fraud, it becomes totally void, and of no effect. Consequently it cannot be enforced anywhere, and the fraud may be averred and interposed either in the court where the judgment was obtained, or wherever else it is set up.\nIf the service of the writ in the suit in New York was absolutely void by reason of the fraud, the defect was incapable of being cured by any subsequent ratification of it by the defendant. The principle that contracts and other acts done which are void on account of fraud cannot be ratified, is too familiar to need citation of authority, and the principle is certainly as applicable to acts of a judicial character, or acts done in judicial proceedings, as in those that are extrajudicial.\nW. II. Armstrong, for defendant in error.\n1. The cases, McCleary v. Faber, 6 Barr 476, Hogg v. Charlton, 1 Casey 200, and Moore v. Fields, 6 Wright 471, leave no room to doubt that judgment may be taken in an action of debt on a foreign judgment for want of an affidavit of defence.\nThe rules of court adopted by the court below expressly authorize judgment for want of an affidavit of defence \u201c in all actions of debt, or scire facias on judgments.\u201d\nThe argument of plaintiff in error, in treating of McCleary v. Faber, overlooks the fact that the suit is not brought upon the original cause of action, bht upon the judgment. The original cause of action has been extinguished by the judgment. With the original cause of action, as to whether or not, within the Affidavit-of-defence Law, the court below had nothing to do. In Hogg v. Charlton, Chief Justice Lewis states this expressly.\nIt has the effect of a domestic judgment in relation to the cause of action, and it is conclusive of the subject-matter, and the original cause of action is merged in it: Baxley v. Linah, 4 Harris 241.\n2. The complaint of fraud, in the service of the process in the original suit, sounds strangely after an appearance by counsel \u2014 a demand by counsel of the cause of action \u2014 an offer by counsel to confess judgment \u2014 and the accordant entry of judgment thereupon. The counsel who appear to the original process have not complained of fraud. The New York court had control of its own process, and this complaint should have been made there.\nTo allow such a charge to prevail under the circumstances of this case would be to disavow \u201c the full faith and credit that should be given by one state to the public acts, records, and judicial proceedings of every other stateArt. IV., \u00a7 1, Constitution United States.\nAll that is material to know is, whether process was served upon the defendant, and whether the court had- jurisdiction: Benton v. Bergot, 10 S. & R. 240. See also 3 Wheat. 234; 7 Cranch 481-3; 3 McLean 511; 9 S. & R. 260; 10 Id. 242; Mills v. Duryee, 7 Cranch 481; Baxley v. Lanah, 4 Harris 241.\nIn the case in hand there was an appearance to the process\u2014 an acquiescence in the correctness of the cause of action \u2014 while the jurisdiction of the court cannot be doubted.\nThe authorities referred to by plaintiff in error upon the subject of fraud have no place here. No fraud is alleged in the subject-matter of the suit. The alleged fraud in the service of the process should have been investigated in the court to which the process belonged.\n3. The affidavit of defence, besides being fatally defective in substance, was not filed within the thirty days, as required by the rules of the court below.\nApril 2d 1864,"
+  },
+  "file_name": "0123-01",
+  "first_page_order": 123,
+  "last_page_order": 127
+}

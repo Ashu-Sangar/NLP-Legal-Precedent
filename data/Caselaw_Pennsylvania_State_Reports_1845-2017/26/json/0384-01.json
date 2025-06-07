@@ -1,0 +1,127 @@
+{
+  "id": 977315,
+  "name": "Schnader versus Schnader",
+  "name_abbreviation": "Schnader v. Schnader",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "384",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 384"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts 347",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0347-01"
+      ]
+    },
+    {
+      "cite": "6 Wh. 189",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836948
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0189-01"
+      ]
+    },
+    {
+      "cite": "1 R. 435",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 432",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844006
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0432-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 249",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850926
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "384"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0249-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 421,
+    "char_count": 8583,
+    "ocr_confidence": 0.42,
+    "pagerank": {
+      "raw": 1.7529105209628034e-07,
+      "percentile": 0.7087917094780429
+    },
+    "sha256": "59772b9f1683841cc9984edae0626298780d0dffdc67d2864aa5b984457c5800",
+    "simhash": "1:1af3a64c17ac1fb9",
+    "word_count": 1523
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schnader versus Schnader."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nThe whole difficulty of this case grows out of a false presentment of it. Though it is very evident that nearly all this work was done for William Schnader, by Michael Schnader, on a special contract, yet nothing of this appears in the evidence in chief, given by the plaintiff to the jury. If it had appeared, then the admission of the plaintiff\u2019s book entries would have been improper: 10 Watts 249; 4 W. & Ser. 290; 5 Id. 384. But book entries are evidence of work and labour done where there is no special contract, and at the time when they were offered they appeared to be admissible on this principle. The record does not give us the book entries, or any indication of their substance, and therefore it is impossible for us to say whether they were objectionable in form or matter, or not.\nIt was very strange that Emanuel \u2019Bear should be examined on his voire dire as to his competency, and that other witnesses should be examined by the same party as to the same question; but as they proved no more than he had admitted, this did no harm to any one. This part of the investigation showed that Bear was in partnership with Michael in doing the work, and his deposition was rejected. Then the defendant\u2019s testimony showed that there had bepn a special contract for the work between the plaintiff and the defendant, and that the plaintiff took Bear into partnership in the job. Then the plaintiff again offered the deposition of Bear, and it was admitted.\n\u2022 If the plaintiff had placed his case on the special contract, this might have been right enough, for Bear was no party to that, and the defendant had nothing to do with the arrangement between Bear and Michael in that aspect of the case. But he did not so place it. In all his evidence he goes for a quantum meruit, and on this footing only were his books admitted.\nBy going on a quantum meruit, he claims the right to abandon his special contract and rely on the implied one arising out of the work done. But a contract can be implied only in favour of those who did the work; 10 Ser. & R. 213; 14 Id. 111; and as that appeared to have been done by Bear and Michael in partnership, Bear was improperly admitted to support a claim in which he was once a partner, and the suit was improperly brought in the name of the other partner alone. If the plaintiff had been claiming before the jury on the special contract only, then Bear would have been a competent witness.\nThe charge of the court was right so far as it went, but, with reference to the aspect in which the plaintiff presented his case, as on an implied contract, they ought to have affirmed the defendant\u2019s seeimd point. The verdict proves its importance; for there is no such evidence of extra work done by the plaintiff as can justify the verdict.\nJudgment reversed and a new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Stevens and Breneman, for plaintiff in error.",
+      "H. Mlmaher, for defendant, in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Schnader versus Schnader.\nA party who examines a witness on his voir dire when his deposition is taken, cannot, when the deposition is offered, resort to other testimony to show his inoompeteney; but the error is immaterial, where the witnesses called prove nothing more than the witness himself admitted.\nBooks of original entries are evidence of work done, on a quantum, meruit, but not where the labour was performed under a special contract.\nA contract is only implied in favour of those who performed the work; and where it is done by partners, assumpsit on a quantum meruit can only be sustained in their names, although the contract for the work was made by the party bringing the suit before the partnership commenced.\nWhere the partnership was rescinded after the work was done, and the one fully paid for his labour, he is still incompetent as a witness in an action on an implied assumpsit against the party for whom the work was done, by the other.\nError to the Common Pleas'of Lancaster county.\nThis was an action of assumpsit, in which Michael Schnader claimed to recover from William' Schnader on a quantum meruit, for the carpenter work of a house.\nIn 1852, Michael Schnader entered into a contract with William Schnader, to do for him the carpenter work of a house, which the latter was building, for the sum of $80, payable half in cash and the balance in lime. In 1853, after the work was finished, the parties met and attempted to settle; including the lime, the plaintiff had received on the work the sum of $79.90, but claimed allowance for extra work. The defendant offered him 10 cents, the balance of the contract price, and $3.50 for extra work, which the plaintiff declined receiving. The defendant afterwards tendered $5 more, making in all $8.60.\nAfter Michael Schnader made the contract with the defendant, he took Emanuel Bear in with him, and they did the work together. About the time it was finished, Bear went out, and Michael Schnader paid him for his work by the day. Bear\u2019s deposition was taken, and before being sworn and examined in chief, he was at the instance of the defendant sworn upon his voir dire, as to his interest.\nOn the trial, the plaintiff offered this deposition, and the defendant called witnesses to prove that Bear had been a partner in the work, and the deposition was rejected. The plaintiff offered his book of original entries made \u00ed>j himself of the work done, and upon his examination stated: \u201c This is my day book; I made the entries right down. I put the charges down every Saturday night; did not put it down every day; had it not put down every day; kept it in my head.\u201d The book was objected to, but admitted by the court, and an exception taken by defendant.\nAfter the defendant had proved the special contract, and what had occurred at the attempted settlement, the plaintiff again offered the deposition of Emanuel Bear, to contradict the witnesses of defendant, and it was admitted under objection by defendant\u2019s counsel.\nThe principal matter of controversy was, whether there was a special contract at a specified price, and whether there had been extra work done by the direction and request of the defendant. Which matters the court below (Long, P. J.) referred to the jury.\nThe defendant requested the court to charge the jury: \u2014 \u201c 1. If the jury believe that Michael Sehnader and Emanuel Bear were partners in doing this work, the plaintiff cannot recover.\n\u201c 2. If, during the progress of the work, and up to the time of its cpmpletion, Michael Schnader and Emanuel Bear were partners in the job, this suit cannot be sustained, even if afterwards they dissolved and Bear sold his interest to Sehnader.\u201d\nAnswers to defendant\u2019s points: \u2014 \u25a0\u201c 1. If the jury believe that Michael Schnader and Emanuel Bear were partners at the time the contract was made, and the contract was made with the plaintiff, Michael Schnader, as one of these partners, the plaintiff cannot recover in this suit.\n\u201c 2. If the contract was made with Michael Schnader individually, before he entered into partnership with Emanuel Bear, if such partnership should have been proven to your satisfaction, and such partnership was dissolved, and Bear sold his interest before this suit was brought, then this suit can be maintained. But if such partnership existed at the time the contract was made, this suit cannot be supported. These are facts for your decision.\u201d\nThe jury found for the plaintiff, \u00a1\u00a730.\nThe errors assigned were the admission of the plaintiff\u2019s book, and the deposition of Bear, and the answer to defendant\u2019s 2d point.\nStevens and Breneman, for plaintiff in error.\nIt is well settled the entries must be made at or about the time when the goods were sold, or the work done: Forsythe v. Norcross, 5 Watts 432; 1 Green, on Ev. 117, and notes; Kessler v. McConaghy, 1 R. 435.\nAs to Bear\u2019s deposition, the party alleging the interest must elect either to show it by the witness\u2019s own testimony, or aliunde, and so the witness having been shown incompetent, cannot purge himself by his own testimony: Vincent v. Huff, 4 Ser. & R. 301; Gordon v. Bowers, 4 Harris 230; Anderson v. Young, 9 Harris 443; McCaskey v. Groff, 11 Harris 325.\nThe evidence shows that the plaintiff and Bear were partners, and the suit could not be sustained: Wilson v. Wallace, 8 Ser. & R. 53.\nNor could he be a witness to support a claim, in which he had had an interest, even if he sold out that interest: Post v. Avery, 5 W. & Ser. 509; Patterson v. Reed, 7 W. & Ser. 144.\nH. Mlmaher, for defendant, in error,\non the book entries referred to Curren v. Crawford, 4 Ser. & R. 3; Ingraham v. Bockius, 9 Ser. & R. 285; Heartley v. Brooks, 6 Wh. 189; McCoy v. Lightner, 2 Watts 347."
+  },
+  "file_name": "0384-01",
+  "first_page_order": 384,
+  "last_page_order": 387
+}

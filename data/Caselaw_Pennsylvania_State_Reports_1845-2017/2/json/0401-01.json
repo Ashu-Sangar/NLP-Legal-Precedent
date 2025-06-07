@@ -1,0 +1,62 @@
+{
+  "id": 951117,
+  "name": "Dailey v. Straus",
+  "name_abbreviation": "Dailey v. Straus",
+  "decision_date": "1845-05-02",
+  "docket_number": "",
+  "first_page": "401",
+  "last_page": "401",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 401"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 159,
+    "char_count": 1707,
+    "ocr_confidence": 0.546,
+    "sha256": "9868d995e94f904db9a2516079ae22f662e174bb67040920221fb59235ec771c",
+    "simhash": "1:073dbd4d827b733b",
+    "word_count": 308
+  },
+  "last_updated": "2023-07-14T15:58:43.702579+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dailey v. Straus."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014 There is no imaginable reason why the revival of a judgment should keep it alive for execution during the space of five years to come, if the original rendition of it were not to have the like effect. The judgment on a scire facias, like the one it is employed to revive, is quod recuperet; and the same presumption of payment from time follows the one as the other. Why, then, should the legislature be thought to have made a difference ? The word revived is inadvertently used for the word alive; and hence the difficulty and the argument. But the case is too clearly within the intent of the act to admit of a doubt; and the execution, therefore, oughtnot to have been set aside.\nOrder of the court below reversed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Hughes, for plaintiff in error.",
+      "Cumming and Lesser, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Dailey v. Straus.\nExecution may be issued after the year and a day has elapsed, on original as well as on revived judgments, since the act of 1845, section 4.\nError to the Common Pleas of Schuylkill county.\nJipril 28. \u2014 Dailey, having recovered a judgment before a justice, filed a transcript in October term, 1842. In September term, 1845, he issued a fi. fa., which the court, on motion, set aside.\nHughes, for plaintiff in error.\n\u2014 The only question is the construction of the 4th section, act 1845, p. 538. The meaning of this is, that there must have been a judgment within five years before execution be issued. The court considered it confined to-judgments on sci. fa. to revive.\nCumming and Lesser, contra.\n\u2014 The intent was merely to dispense with a sci. fa., where the judgment is more than five years old, and has thus been revived. There will be no mode of trying the fact of payment, but at the discretion of the court, unless a sci. fa. must first issue.\nMay 2."
+  },
+  "file_name": "0401-01",
+  "first_page_order": 401,
+  "last_page_order": 401
+}

@@ -1,0 +1,131 @@
+{
+  "id": 949909,
+  "name": "Nourse v. Lloyd",
+  "name_abbreviation": "Nourse v. Lloyd",
+  "decision_date": "1845-07",
+  "docket_number": "",
+  "first_page": "229",
+  "last_page": "233",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 229"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Mass. 205",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Johns. Rep. 84",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Johns. Rep. 222",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass. 133",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Mass. 382",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dall. 347",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Serg. & Rawle, 154",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8878024
+      ],
+      "pin_cites": [
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/12/0154-01"
+      ]
+    },
+    {
+      "cite": "2 Serg. & Rawle, 87",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 559,
+    "char_count": 12413,
+    "ocr_confidence": 0.525,
+    "pagerank": {
+      "raw": 7.478656034944e-08,
+      "percentile": 0.4455379444902
+    },
+    "sha256": "9269ab6988923f0225f8ae3305e7b4eacdf220acf8c44d6efbf5fca6fe6ce7cf",
+    "simhash": "1:8e5e254c5e82d8fd",
+    "word_count": 2238
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nourse v. Lloyd."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThis was a question, not of construction, but of fact. There was no ambiguity on the face of the deed; and it was for the jury to say, which of the two branches of the run, claimed on the one side or the other, to be tire true boundary, more peculiarly agreed with the written description, which called for a stone bridge ' over Lodge\u2019s run, at the distance of twelve perches from a particular tree; \u201c thence down along the said run on the southwardly side thereof, to the place of beginning; the said described run to be the boundary.\u201d What, then, was Lodge\u2019s run in the contemplation of the parties ? The stump of the corner tree was found, as well as a stone bridge, standing at the proper distance from it, not however across the main branch, which was usually spoken of as Lodge\u2019s run, but across a gut or inconsiderable branch; while it was proved that there had been a wooden bridge across the main branch at the date of the deed. It is plain from this, that the ambiguity was a latent one; and it was the province of the jury to determine, on the whole, whether the main or the inferior branch better answered the description. The case is not to be distinguished, in principle, from Richardson v. Stewart, 2 Serg. & Rawle, 87, in which the subject was described as a tract of land \u201c between Sandham\u2019s claim and the widow Ramsey, containing three hundred and ninety-three acres.\u201d The grantor had two tracts; the one numbered sixteen, and containing the specified quantity: the other numbered seventeen, and lying more decisively between the widow Ramsey and Sandham\u2019s claim, but containing four hundred and eighty-one acres. There was, besides, an undertaking to keep the land clear of Sandham\u2019s claim, which interfered comparatively little with number seventeen; or to restore a portion of the purchase money. In delivering the opinion of the court, Chief Justice Tilghman said, that as it was uncertain on the face of the writing which tract was meant, the court was right in calling in the aid of the jury. He certainly did not mean to say that there was any ambiguity in the terms of the description ; but only that it was not sufficiently specific to clear up the ambiguity arising aliunde. On the same principle, the devise of a house on Third street was explained by parol evidence in Allen v. Lyons, 2 Wash. C. C. R. 475, to be a devise of a house on Fourth street. The principle is recognised also in those decisions on original title, in which it is said that the descriptiveness of a warrant is to be judged of by the court: the correspondency of the tract to the description, by the jury. It was in effect applied to the case before us, and without apparent error.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Greenough, for plaintiff in error.",
+      "Hegins and Jordan, contr\u00e1,"
+    ],
+    "corrections": "",
+    "head_matter": "Nourse v. Lloyd.\nIn Error.\nWhere there is no patent ambiguity in the description of a boundary, it is the province of the jury to determine how far it is answered by the monuments on the ground, an\u00e1 to judge between discrepancies in the calls.\nHence it was held, that the description in a grant, calling for the mouth of Lodg\u00e9\u2019s run as the place of beginning, thence by several courses and distances \u201cto a stone bridge over the run, it being in the main road at twelve perches north-east of a certain corner mentioned in a deed, &c., thence down along the said run on the southwardly side thereof to \u00dc19 place of beginning, the said' described run to be the boundary,\u201d was proper to be applied by the jury, and not the court, to evidence, that there was at the date of the deed a wooden bridge, and not a stone one, over the main branch, which was usually called Lodge\u2019s run; and that there was a stone bridge over a gut or small branch of it, at the specified distance from the particular corner tree.\nError to the Common Pleas of Northumberland county.\nThis was an action of ejectment brought by J. C. B. Nourse, the plaintiff below, against John A. Lloyd, the defendant below, for a tract of land in Point township, Northumberland county, containing ten acres, in which a verdict and judgment were rendered for the defendant.\nOn the trial below, it was admitted that Sarah H. Lloyd, the wife of Wm. A. Lloyd, was seised of the land in question, and died without issue by said Lloyd, in August, 1821, leaving the plaintiff, a child by her former husband, her heir at law. The defendant gave in evidence a deed from Wm. A. Lloyd and Sarah H., his wife, dated 16th of March, 1820, to John Cowden, for the following described properly ; \u201c Beginning at a marked line standing on the bank of the Susquehannah river, at the mouth of Lodge\u2019s run, on the.south side thereof, thence north 54\u00b0, east 141 ps., to a black oak, thence north 69\u00b0 east 50 ps., to a former post, now a chestnut, the corner of lands of the late Col. Cook, now in the occupancy of John Cook, Esq., thence along the line of said Cook\u2019s land, north 40\u00b0, west 145 ps., to a white oak, (formerly a heap of stones,) thence south 64\u00b0, west 154 ps., to a stone bridge over the run, it being in the main road, and 12 ps. northeast of a certain corner mentioned in a deed from Richard Peters, Esq., to Reuben Haines, thence down along the said run on the southwardly side thereof, and the several courses and distances thereof, to the mouth of the run, the place of beginning,' the said described run to be the boundary between the said tract and land of the said Sarah H. Lloyd, except as may be necessary for the log-way and saw-mill now erected on said run, and also any ground, &c., recorded overflown, &c.,\u201d following it up by various conveyances which finally (January 25, 1830) vested this property in himself. He also gave in evidence, for the purpose of identifying the pine-tree corner mentioned in the deed from Lloyd and wife to Cowden, a deed from Richard Peters to Reuben Plaines, dated December IT, 1TT3.\n' It was proved that Lodge\u2019s run had a small branch falling into it from the west, and that both the run and this branch crossed the main road, the northern boundary of plaintiff\u2019s and defendant\u2019s land, where, at the time of the execution of the deed from Lloyd and wife to Cowden, two bridges stood, a wooden one over the main stream, and a stone one over the branch. This stone bridge stood twelve perches east of the pine-tree corner referred to in the deed from Peters to Haines, and the distance along the road from the eastern corner of Lloyd\u2019s laird to the stone bridge corresponded with the courses and distances given in the deed from Lloyd and wife to Cow-den, whilst from the same point to the main stream was but one hundred and twelve perches. The line crossed this stream five perches below the wooden bridge, but struck tire branch in the centre of the stone bridge. It was also proved that the main stream was the only one known by the name of Lodge\u2019s run, and that the branch was nameless and very small.\nThe court were requested by the plaintiff\u2019s counsel to charge upon the following points:\n1st. That but one run is referred to and described in the deed from Lloyd and wife to Cowden, and that is Lodge\u2019s run; and that the words \u201c Lodge\u2019s run,\u201d \u201c a stone bridge over the run,\u201d \u201c thence down along the said run,\u201d \u201c the said described run to be the boundary,\u201d all mean one and the same run, and that the said Lodge\u2019s run is made by said deed the boundary between the land intended to be conveyed by said deed, and the remaining part of the farm of said Sarah H. Lloyd, except certain privileges for log-way, saw-mill dam, &c., therein particularly specified.\n2d. That that part of the deed containing the following words, to wit: \u201c south 64\u00b0, west 154 perches, to a stone bridge over the run, it being in the main road and twelve perches north-east of a certain pine corner, mentioned in a deed from Richard Peters to Reuben Haines,\u201d does not control the other clear points of description and malee the small trifling stream south of Lodge\u2019s run to be the boundary, but, notwithstanding these words, the main creek or run, called Lodge\u2019s run, from the mouth to the back line, where the road crosses, is the true boundary between the parties, with the exception stated in the first point.\n3d. If the jury believe that Mrs. Sarah H. Lloyd understood, at the time of the execution of the deed, that Lodge\u2019s run was the boundary, with the addition of certain privileges therein mentioned, and under that belief executed the deed, and was entirely ignorant that Mr. Lloyd intended to include land south of said run, or that certain expressions in the deed would include said land, the said deed is inoperative as to said land south of Lodge\u2019s run, and plaintiff in that case would be entitled to recover.\nTo which points the court (Lewis, President) answered as follows:\n\u201c 1st point. \u2014 If we had nothing before us except the words in the deed, the construction here requested would be given to that instrument, But if the jury are satisfied ,that there was no stone bridge across Lodge\u2019s run, or the main branch or main body of it, in or near the linp south 64\u00b0, west 154 ps.; that this branch or main body of the run was reached at the termination of 165J ps.; that there was a stone bridge at that point across the ran last mentioned; that this stone bridge was ten or twelve rods from the pine corner mentioned in the deed from Richard Peters, and that the stone bridge called for in the deed from Lloyd and wife to Cowden, was the stone bridge across the small stream that empties into Lodge\u2019s run \u2014 then that stone bridge is the corner, and that small branch the boundary, until it empties into Lodge\u2019s run, and then Lodge\u2019s run is the boundary from that point to the place of beginning. The jury will decide upon the facts. There being no stone bridge at the time across the large stream, and the stone bridge across the small run being found by the jury to correspond in its location with that part of the description in the deed which is set forth in the plaintiff\u2019s second point, these points of description will control the other points, fix. the meaning of the words \u00abthe run\u2019 as referring to the run over which is erected the bridge, and make that small stream, as far down as its intersection with the large one, the boundary. This answer is also given to the second point, and the instruction there requested refused.\n\u201c 3d point.' \u2014 There is no evidence before the jury tending to show what Mrs. Lloyd \u2018 understood at the time of the execution of the deed,\u2019 further than is to be gathered from the description in the deed, as applied to the monuments on the land- She is to be considered as understanding it according to its legal effect. The instruction requested in the third point is therefore refused.\u201d\nTo which answers of the court to the points submitted, the counsel of the plaintiff excepted, and assigned the same for error in this court.\nGreenough, for plaintiff in error.\nThe question is, which of the two descriptions in the deed shall prevail. Mrs. Lloyd was owner-of a tract of three hundred or four hundred acres. Lloyd obtained from his wife a conveyance for this property on Lodge run. The deed should be construed according to its plain obvious meaning, and such construction would exclude the land in question. The run mentioned in the deed is one and the same run. Lodge run has been known since 1773. Mrs. Lloyd knew it as such from childhood, and made it part of the description of boundary in conveyance to her husband. The intent of the party ought to govern, and should have been left to the jury. In the construction of a deed, all parts must agree: and cited 1 Shep. Touch. 86; 12 Serg. & Rawle, 154, 164; 4 Dall. 347; 2 Mass. 382; 6 Mass. 133.\nHegins and Jordan, contr\u00e1,\ncontended that the intent of the party was to convey the land in dispute; that Lloyd\u2019s object in the purchase, was to secure water for his mill. The intention of the parties should govern. 7 Johns. Rep. 222; 8 Johns. Rep. 84, 86.\nIn construing deeds, effect should be given to every part, if practicable. 23 Law Lib. 82; Burton on Real Estate, 178; 6 Cowen, 717; 4 Mass. 205. If plaintiff\u2019s construction prevailed, three material parts of description in the deed must be abandoned. 1st, The stone bridge across the run in the main road. 2d, The pine comer, ten acres twelve perches south-west of the stone bridge. 3d, The distance from white-oak corner of Col. Cook to Lodge run is but one hundred and twelve perches, falling short of the distance called for in the deed, thirty-two perches."
+  },
+  "file_name": "0229-01",
+  "first_page_order": 231,
+  "last_page_order": 235
+}

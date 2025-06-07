@@ -1,0 +1,91 @@
+{
+  "id": 483156,
+  "name": "Steinman versus Ewing",
+  "name_abbreviation": "Steinman v. Ewing",
+  "decision_date": "1862-05-22",
+  "docket_number": "",
+  "first_page": "63",
+  "last_page": "67",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "43 Pa. 63"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wright 146",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Wright 326",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Whart. 309",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833424
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/3/0309-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 10752,
+    "ocr_confidence": 0.44,
+    "pagerank": {
+      "raw": 7.688136658543559e-08,
+      "percentile": 0.45318761827427007
+    },
+    "sha256": "074b529dbbd2387f685a80d028954252e5e4dbb9c48f288ba70000dba5998280",
+    "simhash": "1:d67da3b6a15884c1",
+    "word_count": 1915
+  },
+  "last_updated": "2024-02-27T20:32:47.191475+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steinman versus Ewing."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nRead, J.\nThe bond of a married woman is absolutely void, and so also is any judgment entered upon it, whether by warrant of attorney or otherwise: Dorrance v. Scott, 3 Whart. 309; Glyde v. Keister, 8 Casey 85; Keiper v. Helfricker, 6 Wright 326; Caldwell v. Walters, 6 Harris 82. By the case stated, it appears that this foreign attachment is founded upon a bond executed alone by Malvina R. Ewing during her coverture, which was accompanied by a mortgage of certain separate estate of the said feme covert, executed at the same time by the said Malvina R. Ewing and James Black, her trustee, and that under proceedings on this mortgage the mortgaged premises were sold, and the money realized by the sale did not pay the claim by the sum of $779, which sum, with interest, it is sought to recover in this attachment. In order to show a consideration for this bond, so as to bring the debt contracted within the exceptions of the Act of 1848, it was alleged and admitted by the case stated that Mrs. Ewing had purchased property in Baltimore county, Maryland, to which she had removed from Lancaster county, with the proceeds of lands sold and mortgaged by her in the latter county, and a part of the purchase-money was obtained from Gyger & Co. upon a pote, in place of which note the bond and mortgage above mentioned were executed as above stated, and delivered to Gyger & Co., and by them were assigned to the plaintiff in this suit, the money having been borrowed for and applied to the purchase of lands in Maryland. Now it is clear that this was not a debt contracted before marriage, nor for necessaries for the support and maintenance of her family during coverture, nor was it a liability incurred in the management of her estate, nor even for improvements to- her separate estate, nor- is it within the exceptional cases of Patterson v. Robinson, 1 Casey 81, and Ramborger v. Ingraham, 2 Wright 146.\nThe policy of the Act of 1848 was to secure the property of married women, and for that very purpose it expressly limited the objects for which debts could be contracted that would hind their separate estates, nor are we disposed to extend the list so as to induce them to enter into speculations in the purchase and sale of real estate. The debt in this case not being within any fair construction of the act, or covered by any of the decisions of this court, it is clear that the plaintiff cannot recover in this action, which makes it unnecessary to consider the other ground taken by the court below.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "A. Herr Smith and Andrew J. Steinman, for plaintiff in error.",
+      "James Blade and (Jeorge M. Kline, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Steinman versus Ewing.\nBond of Mamed Woman, with all proceedings thereon, absolutely void.\n1. The bond of a married woman is absolutely void, and so is any judgment on it, whether by warrant of attorney or otherwise.\n2. A married woman owning real estate in Pennsylvania, sold part of it, and with the proceeds of the land, and of a note given by her, bought property in Maryland and removed there: for this note there was substituted a bond and mortgage upon her remaining land, the proceeds of which on a sale did not discharge the mortgage, but left a deficiency for which the holder of the bond issued a foreign attachment against her. Held, that as the debt was not within any of the provisions of the Act of 1848, or covered by any of the decisions of the courts under that act, the action could not be maintained.\nError to the Common Pleas of Lancaster county.\nThis was a foreign attachment in debt, commenced March 30th 1860, by John F. Steinman against Malvina R. Ewing and Kirkpatrick Ewing, in which the. following case was stated for the opinion of the court:\u2014\n1. The sheriff made the following return to the writ in the above case: \u2014 \u201c I attached by virtue of the annexed writ of foreign attachment a note for $400, in the hands and possession of William Gibson, and summoned him as garnishee by reading and copy March 31st 1860, and Robert Jackson, N. E. I.\u201d\nAugust 27th 1860, on motion of A. Herr Smith, Esq., attorney for sheriff, and affidavit filed, the court allowed the sheriff to amend the return of the writ in accordance with the state of the facts in the case. \u201c And on Robert Jackson by leaving a copy with his daughter at his residence, he_being absent.\u201d It is admitted that said Robert Jackson received the copy of said writ from his daughter.\n2. Malvina R. Ewing, one of the defendants above named, was at the time of the issuing of the attachment a married woman, residing in Baltimore county, Maryland, having removed from Lancaster county in 1858 to property purchased by her with the proceeds of lands sold and mortgaged by her in Lancaster county; part of the purchase-money of said property in Maryland having been obtained from Gyger & Co. upon a note, in place of which note the bond and mortgage hereinafter mentioned was executed and delivered to said Gyger & Co., and by them was assigned to the plaintiff in this suit, the money having been borrowed for, and applied to, said purchase of lands in Maryland.\n3. That said Malvina R. Ewing, Kirkpatrick Ewing, her husband, defendants above named, and James Black, trustee of said Malvina R. Ewing, sold and conveyed to William Gibson, one of the garnishees in the above case, a house and about twelve acres of land, situate in Little Britain township, Lancaster county, being property held in trust \u201cfor the only use, benefit, and behoof of the said Malvina R. Ewing, wife of Kirkpatrick Ewing, her heirs and assigns for ever,\u201d as will appear by the deed of James C. Ewing and wife, dated the 27th day of February 1844, and recorded in the recorder\u2019s office of Lancaster county, in Record Book T, vol. 6, page 251, and received as part of the purchase-money of said lot a bond executed and delivered by said William Gibson, garnishee, William Gibson, Jr., and Allison Gibson, dated the 25th day of March, A. D. 1859, payable to the said Malvina R. Ewing, her executors, administrators, and assigns, in the sum of $400; $200 thereof with interest on the whole sum on the 25th day of March, A. D. 1860, and the remaining $200, with interest thereon, payable on the 25th day of March, a. d. 1861. The said deed of James C. Ewing and wife, and the said bond of William Gibson, is made part of this case stated.\n4. That said Malvina R. Ewing, for value, transferred and assigned the said bond of William Gibson et al. to William McCombs, of the city of Philadelphia, by writing on the back of said bond, as follows, to wit: \u2014 \u2022\nI, Malvina R. Ewing, of Baltimore county, Maryland, do hereby transfer to William McCombs, his heirs, administrators, and assigns, all my right, title, claim, and interest to the within bond for value received, May 18th 1859.\nMalvina R. Ewing.\nWitness present: Hannah Christy.\nAnd at said date delivered the said bond to said William McCombs, who still holds the same. That said McCombs, before the maturity of the first payment of said bond and before the issuing of this attachment, gave notice to said William Gibson and others that he the said McCombs was the holder of said bond.\n5. That said Malvina R. Ewing, Kirkpatrick Ewing, her\u2019husband, and James Black, trustee as aforesaid, sold and conveyed to Robert Jackson, the other garnishee in this ease, a house and one acre of ground, situate in the said township of Little Britain, being also \u201c the sole and separate estate\u201d of the said Malvina R. Ewing; and to secure part of the purchase-money thereof, the said Robert Jackson executed and delivered his bond with warrant of attorney for confession of judgment for the sum of $75, dated the 25th day of March 1859, and payable to the said James Black, trustee, on the 25th day of March 1860. That judgment was entered on said bond in the Court of Common Pleas of Lancaster county, to January Term 1859, No. 721.\n6. That said Malvina R. Ewing, for value, transferred the said bond to said William McCombs, by writing on the back as follows, to wit:\u2014\nI, Malvina R. Ewing, of Baltimore county, Maryland, do hereby transfer to William McCombs, his heirs, administrators, or assigns, all my right, title, claim, and interest to the within judgment bond, for value received, May 18th 1859.\nMalvina R. Ewing.\nWitness present: Hannah Christy.\nAnd delivered the said bond to the said McCombs, who still holds the same. That James Black, trustee aforesaid, assigned and transferred the judgment entered on said bond, by writing on the margin-of the docket of the Court of Common Pleas of Lancaster county, to said William McCombs, on the 2d day of July, a. D. 1860.\n7. That the bonds of the said William Gibson et al. and Robert Jackson were transferred to said McCombs by said Malvina R. Ewing, to secure the payment to him of $855, with interest thereon from the 18th day of May 1859.\n8. That John F. Steinman, the plaintiff in this case, claims to recover in this attachment suit a balance of $779, with interest from October 6th 1859, remaining unpaid on a bond secured by a mortgage, as hereinbefore mentioned, of other property of the said Malvina R. Ewing, held \u201c in trust that the rents, incomes, use, and occupancy of the premises shall be for the sole and separate use of the said Malvina R. Ewing,\u201d as will appear by the deed of Robert A. Evans, dated April 3d 1849, and recorded in the recorder\u2019s office of Lancaster county, in Record Book M, vol. 7, p. 198, and which deed is made part of this case stated. That said bond was executed alone by said Malvina R. Ewing during her coverture and at the same time, the said mortgage was executed during coverture by the said Malvina R. Ewing and James Black, her trustee, and judgment having been obtained thereon and the said mortgaged premises sold, the money realized from said sale did not pay said claim by the aforesaid sum of $779. The said bond and said mortgage recorded in the recorder\u2019s office of Lancaster county, in Mortgage Book 15, p. 133, is also made a part of this case stated.\n9. If upon the above state of facts the court shall be of the opinion that the plaintiff under the said attachment is entitled to the money due and to become due on the bonds of the said William Gibson and Robert Jackson, then judgment for the plaintiff for the amount due on said bonds, or so much thereof as the court shall be of opinion the plaintiff is entitled to.\nIf the court, however, shall be of the opinion that the plaintiff is not entitled to the whole or any part of said bonds, then judgment for the defendants and the attachment dissolved.\nThe court below (Hayes, P. J.) directed the entry of judgment for defendants on the case stated, which was assigned here for error.\nA. Herr Smith and Andrew J. Steinman, for plaintiff in error.\nJames Blade and (Jeorge M. Kline, for defendants.\nMay 22d 1862,"
+  },
+  "file_name": "0063-01",
+  "first_page_order": 63,
+  "last_page_order": 67
+}

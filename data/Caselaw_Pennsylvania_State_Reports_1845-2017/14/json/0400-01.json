@@ -1,0 +1,79 @@
+{
+  "id": 405971,
+  "name": "Bromley versus Hopewell",
+  "name_abbreviation": "Bromley v. Hopewell",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "400",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 400"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts 134",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844070
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0134-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 486,
+    "char_count": 10354,
+    "ocr_confidence": 0.405,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41001483098049346
+    },
+    "sha256": "83178b5301cce1fc8d2f2028890fca93f5438ca0d19b5aafa45ff78579f88f64",
+    "simhash": "1:9e2f2d2f6da198e7",
+    "word_count": 1833
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bromley versus Hopewell."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nBell, J.\n\u2014 As early as 1727, it was decided that, under the proper construction of 8 Anne c. 14, the immediate landlord of a defendant in an execution was alone entitled to claim a year\u2019s rent from the sheriff, before the removal of the goods. (Bennett\u2019s case.) This rule, then settled, has ever since been adhered to in England, and is now the law of that country, as is shown by the modern case of Thorsgood v. Richardson, 7 Bing. 420. In this particular, our act of 1772 is a transcript of the British statute, and the act of 1836 differs from it only in the additional proviso that the goods and chattels taken in execution must be such as are \u201c liable to the distress of the landlord.\u201d It is said, the language of this proviso is indicative of a legislative intent to confer the right to a year\u2019s rent upon any of the lessors who might have distrained the goods of the tenant, and is, thus, introductive of a principle different from that which obtains under the statute of Anne. But, for the reason given by the auditor, we agree with him that the object of this provision is to exempt from liability to satisfy rent such goods as are commonly exempted from distress, but which would, without the provision, be subject to the payment of rent when sold under an execution; and not to create a right, before then unknown to the law. We are to take it for granted the lawmakers were aware of the doctrine established by prior adjudications. If so, it is impossible to believe they contemplated a change so radical and important, without employing language better fitted to express it. The argument which favors an intended alteration proceeds upon the ground that the right to demand rent from the sheriff is, necessarily, a concomitant of the power of distress. But the decisions show that the one is not always dependent on the other. Though the right to demand does not, perhaps, exist independently of the power to distrain, the latter is not, of itself alone, sufficiently potent to give birth to the former. It would seem there must also be an agreement, express or implied, as the foundation of the landlord\u2019s privilege to come in under an execution. And there is reason in this, of which the case before us furnishes an illustration. Hopewell rented but part of the whole premises from Dougherty and Souder, and yet the Messrs. Wright claim to receive the whole amount of rent reserved to them for the whole proyerty^ by their demise to Dougherty and Souder. Again, the Wrights agreed to pay to G-ratz $1500 \u25a0per annum, while they leased to Dougherty and Souder for $1200. If the middle men are entitled to come in on the fund in the hands of the sheriff, so is the original lessor, and thus the tenant\u2019s goods would be liable to pay not only what his immediate landlord agreed to pay, but larger sums contracted for by preceding tenants. These considerations show the propriety of adhering to the contract of the parties as the foundation of the right, and this will confine it to the immediate landlord. That is the basis upon which it is authoritatively held the British legislature proceeded, and no sufficient reason has been suggested to induce the belief that our legislature intended differently. It is not enough to say the preceding lessors might have distrained on the same goods for the whole amount of the rent due to them respectively, and, therefore, there is no harshness in making those goods subject, in the hands of the sheriff, for the same amounts. The answer is, that although, to a certain extent, the statutory claim of the landlord was intended as a compensation for balking his remedy by distress, there is nothing in the statute to show it was intended to be commensurate with the multiplications of the remedy which might be created by successive demises. Without, however, further elaboration of the argument, it may be sufficient to repeat that the, right was restrained to the immediate landlord by the interpretation at Westminster, and there is nothing to show an intent to introduce a different rule in this country.\nThe view we have taken renders it unnecessary to consider the question whether the agreement between the Wrights and Dougherty and Souder was an assignment of the whole -term, or a sublease. In either case, they have no claim on the fund.\nDecree confirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Williams was counsel for plaintiff.",
+      "Henderson, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Bromley versus Hopewell.\nThe landlord who is entitled, under the 83d section of the act relating to executions, to rent not exceeding one year, out of the proceeds of sale of goods of a tenant sold by a sheriff under an execution, is the immediate landlord of the party whose goods have been sold.\nCertiorari to the District Court, Philadelphia, in relation to the distribution of certain money raised on an execution of Bromley against Hopewell. An auditor was appointed, who reported, that the plaintiff in the said case claims the balance due on his judgment, after deducting the sum of $175 paid him by the defendant at different times.\nThe other claim is by John and Joseph Wright, who hold the premises on which the defendant\u2019s goods were at the time of levy, by virtue of a lease to them from Simon Gratz, made Dec. 28d, 1836, for the term of four years, from Jan. 1st, 1837, at an annual rent of $1500, payable quarterly. By an indenture made March 6th, 1838, the said John and Joseph Wright let the said premises to Thomas D. Dougherty and Jacob W. Souder, \u201cfor the remainder of a lease granted by Simon Gratz to the said John Wright and Joseph Wright, having two years and nine months to run, from the 30th day of March present, (1838,) at the yearly rent of $1200, payable in equal quarterly payments of $300 each, on the 30th days of the months of March, June, September, and December,\u201d &c. &c.: and the said Dougherty and Souder further agree that they \u201c will yield up quiet possession of the said premises at the expiration of this lease; namely, on the 30th day of December, 1840,\u201d &c. There was an agreement in the lease, that Dougherty and Souder might rent any part or parts of said premises, except the store, during their term. By a memorandum made Sept. 15th, 1838, the Messrs. Wright agreed that Dougherty ,and Souder might underlease the store to J. C. Hopewell, or Shewell and Hopewell, \u201c the said Dougherty and Souder remaining, however, always liable for the rent of the whole premises, as fully as if no underlease had been made.\u201d\nThe said J. and J. Wright claim, as landlords of Dougherty and Souder, and Shewell and Hopewell, the rent of the whole of said premises, from June 80th, 1839, to the time of levy, amounting to $262.96, under the 83d section of the act of 1836, relating to executions.\nThe plaintiff contends, 1. That the. indenture between the Messrs. Wright, and Dougherty and Souder, operates as an assignment of their whole term, by force of the words \u201cfor the remainder of a lease granted by S. Gratz to the said J. and J. Wright,\u201d &c.; consequently, that the Messrs. Wright have no right to distrain for the rent reserved to them, and are therefore excluded from the benefit provided in the act.\n2. That Gratz alone has a claim as landlord under the act, and having waived it, there can be no claim for rent out of the proceeds of the execution by any party.\nEvidence was given to show that Gratz disclaimed looking to Shewell and Hopewell (the defendants) for the rent due to him for the premises, and considered the Messrs. Wright alone responsible for it.\n1. The first point is, whether the lease of the Messrs. Wright to Dougherty and Souder is a lease of only part of their interest, or an assignment of their whole term.\n2. The second question is, whether the Messrs. Wright are entitled, as the landlords mentioned in the act of 1836, relating to executions, to the amount of rent reserved to them in their lease to Dougherty and Souder, out of the proceeds of the execution against the goods of the defendant Hopewell, who was the under-lessee. The plaintiff contends that Gratz, the original landlord, alone has a claim under the act, and as he has waived his claim, it exists in no one. The claim on behalf of the Wrights is, that they are the landlords mentioned in the act, and that the goods on the premises, being liable to their distress, should satisfy the rent reserved to them in their lease. We find but one authority applicable to this point, viz. the case of Bennett, reported in Strange 787, who was ground landlord of a house, in which an under-lessee dwelt, against whom there was an execution; it was held that Bennett was not entitled to rent out of the proceeds of the execution, and that the statute of Ann. c. 14, under which he claimed, extended only to the immediate landlord of the party whose goods-are subject to an execution. This question was started in the case-of Ege v. Ege, 5 Watts 134, but was not decided, being immaterial to the case, which was disposed of on other grounds. The act of Assembly of 1772 was taken from the statute 8 Ann. c. 14; and there seems to be no reason why it should not bear the same construction as regards the present question. The 88d section of the act of 1836 contains the additional proviso, that the goods and chattels, &c., taken in execution, there mentioned, must be such as are \u201c liable to the distress of the landlord.\u201d The object of this provision, it is conceived, can only be to exempt from liability to satisfy rent, such goods as are commonly exempted from a distress, but which, without such provision, would go to pay rent when sold under an execution; otherwise, there seems to be no force in this provision, as all goods on the premises, except those particularly exempted by the common law, or otherwise, are liable to the distress of the landlord.\nThe undersigned is, therefore, of opinion, that the Messrs. Wright are not entitled to their rent out of the fund in court; and that it is to go to satisfy the plaintiff\u2019s judgment, after deducting costs and expenses.\nIt was assigned for error:\n1. The auditor has decided the Messrs. Wright have not the right to receive the rent due to them, out of the proceeds of the execution.\n2. Because he had decided, that by the true construction of the act of assembly, the Messrs. Wright are not the \u201clandlords,\u201d whose rent is to be paid by the sheriff.\nWilliams was counsel for plaintiff.\nHenderson, for defendant."
+  },
+  "file_name": "0400-01",
+  "first_page_order": 400,
+  "last_page_order": 403
+}

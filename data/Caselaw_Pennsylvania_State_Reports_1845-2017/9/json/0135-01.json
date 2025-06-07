@@ -1,0 +1,81 @@
+{
+  "id": 960630,
+  "name": "Grimes v. Percival",
+  "name_abbreviation": "Grimes v. Percival",
+  "decision_date": "1848-09-18",
+  "docket_number": "",
+  "first_page": "135",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 W. & S. 262",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 100",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. 370",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 203,
+    "char_count": 2471,
+    "ocr_confidence": 0.4,
+    "sha256": "d3da92006f731590cea8ae5cd9e8bbbd6c73a7f44735a1eeb4d8aa40071b1347",
+    "simhash": "1:3c2001901e528e82",
+    "word_count": 447
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Grimes v. Percival."
+    ],
+    "opinions": [
+      {
+        "text": "Per, Curiam.\nWhen a plaintiff in person gives notice of action to a justice of the peace, he must not endorse the name of his attorney on it; but why should he not sign it with his name? Though not requiring the form, such a notice ought to have the substance of a declaration; and it ought to be complete in itself without borrowing certainty from matter dehors. Thus a notice signed by the plaintiff, and endorsed, \u201c Henry Reed, Esq., living in Poplar Lane,\u201d was held to be an insufficient indication that he was the plaintiff\u2019s attorney; yet no one would doubt that his name was endorsed to satisfy the statute, which requires the name of the attorney to be endorsed. So dating a notice at a particular place, has been held an insufficient averment that the party resided there, though legal acts are almost invariably dated at the place of the party\u2019s residence. Here an unsigned notice was handed to the justice by the plaintiff in person; but what if it had been sent by a messenger ? The justice might have exacted the necessary information from him in respect to the identity of the writer ; and so he might have done, in respect to the information wanted in the cases taken from our own decisions. But there cannot be one rule for a notice served by the plaintiff, and another for a notice served by his agent. To avoid the uncertainty that would be incurred by departing from a plain and practical rule, it is necessary to say that the notice must contain the elements of the information required within itself. The want of the plaintiff\u2019s name as an act of authentication, therefore, is a defect that cannot be remedied.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per, Curiam."
+      }
+    ],
+    "attorneys": [
+      "Wylie for plaintiff in error,",
+      "Hampton, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Grimes v. Percival.\nA notice to a justice of the peace not signed by the party is insufficient, though delivered by the party in person, who was known to the justice.\nIn error from the District Court of Allegheny.\nDebt against a justice for the penalty under the marriage act. The plaintiff proved a delivery by himself of a notice of his intention to bring the action to the justice; and it appeared that the justice knew the plaintiff, and after receiving the paper, they had a conversation on the subject of the action.\nThe court rejected the notice as evidence because it was not signed by the party, and its sufficiency was the question.\nWylie for plaintiff in error,\ncited 2 S. & R. 440; 5 W. 370; 3 Ib. 445; 2 W. & S. 100; Greenl. Ev. \u00a7 96-7.\nHampton, contra.\n3 S. & R. 296; 7 W. & S. 262; 1 Barr, 403.\nSept. 18."
+  },
+  "file_name": "0135-01",
+  "first_page_order": 135,
+  "last_page_order": 136
+}

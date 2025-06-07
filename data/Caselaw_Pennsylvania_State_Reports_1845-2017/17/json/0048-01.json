@@ -1,0 +1,106 @@
+{
+  "id": 967638,
+  "name": "Barber versus Chandler",
+  "name_abbreviation": "Barber v. Chandler",
+  "decision_date": "1851-07-21",
+  "docket_number": "",
+  "first_page": "48",
+  "last_page": "50",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Pa. 48"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Bin. 29",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793657
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/5/0029-01"
+      ]
+    },
+    {
+      "cite": "9 Cranch 104",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        533610
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/13/0104-01"
+      ]
+    },
+    {
+      "cite": "1 Bin. 292",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787878
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/1/0292-01"
+      ]
+    },
+    {
+      "cite": "2 Dal. 229",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 349,
+    "char_count": 6427,
+    "ocr_confidence": 0.444,
+    "pagerank": {
+      "raw": 1.408706974915403e-07,
+      "percentile": 0.6465259171480654
+    },
+    "sha256": "c01b4d783d361d46594427f5fddef2e908deb024d051c8b4ce76685b52cd5055",
+    "simhash": "1:1ea3ff01b34227fb",
+    "word_count": 1169
+  },
+  "last_updated": "2024-02-27T16:05:10.368024+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barber versus Chandler."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nChambers, J.\nThere is presented in this case to the court for review, only the issue formed in the court below in a scire facias to revive a judgment of the plaintiff against the defendant in the same court, to which, with other pleas, was pleaded nul tiel record, on which judgment was entered for defendant, and which is now assigned for error. The judgment of the plaintiff against the defendant, as described in the scire facias from the same court\u2019s record, was exhibited. This judgment in the Court of Common Pleas was entered by transcript from the docket of Samuel Davidson, justice of the peace of Bradford county. Being filed in pursuance of the Act of Assembly, it was as a judgment, a lien on the real estate of the defendant, and by intendment of law, was, from the time of the entry, a judgment of the Court of Common Pleas for the purpose of obtaining satisfaction out of the real estate of defendant; if necessary. There being a judgment in conformity to the allegation in the writ, why was not the judgment in affirmance of it ? It is alleged that the judgment before the justice was void, because it was confessed by the agent of the defendant on the day before the summons was legally returnable. The summons was issued on the 10th, and was returnable on the 14th of May, on which last day the parties appeared ; note of defendant was given in evidence and judgment confessed by the agent of the defendant for the amount, and on the day following the transcript is filed as recited. By the Act of Assembly directing the institution of suit before a justice by summons, the same is to be returnable in not less than five days from the date; as the computation of the time, by the weight of authority, is to be made from an act done, viz. the issuing of the summons, the day of issuing as well as of return are to be counted: Rex v. Adderly, Doug. 464; Castle v. Burdet, 3 Term Rep. 623; Glassington v. Rawlins, 3 East 497; Burrall v. Du Blois, 2 Dal. 229 ; Lane v. Shreiner, 1 Bin. 292; Lord v. Graham, 4 W. C. C. R. 232; 9 Cranch 104 ; 2 Br. 18. A more liberal construction has been allowed in excluding the day in the case of an appeal from an award, Sims v. Hampton, 1 Ser. & R. 412; also in computing the time of an appeal from a decision of the Common Pleas, in Goswiler\u2019s Estate, 3 Penn. R. 200. The time required was given when the defendant appeared by agent who confessed the judgment. A party before a justice is allowed to appear by an agent. There is no form of law constituting such agency. The justice is the judge of the authority; and, after the judgment of the justice, it is to be taken prima facie that the agent had authority to represent the principal. If the notice given by the summons had been one day short of the time required by the law, it clearly might have been waived by the defendant, who was competent to appear at the justice\u2019s office and confess judgment, and we see no good reason why his constituted and accredited agent should not be allowed to do the same to avoid costs or further litigation. A justice may give judgment before the return day of his process, if the parties voluntarily appear and proceed to a hearing. Buckmyer v. Dubs, 5 Bin. 29. If the judgment before the justice was improperly obtained and was irregular and voidable, the defendant\u2019s remedy was to have had it reviewed directly by the justice, or by application to the court to set it aside. This is not to be done in a proceeding by scire facias, founded on it as a subsisting judgment, Avhich the record of the court proves it to be. The judgment of the court below on the issue of nul tiel record, is reversed, and on the same, judgment is entered for the plaintiff, and record remanded to the court below for further prosecution.",
+        "type": "majority",
+        "author": "Chambers, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Barber versus Chandler.\n1. In computing the five days allowed by law between the issuing and return of a summons in a suit before a justice of the peace, the day of issuing and also of return are to be counted.\n2. A party may appear by an agent to a suit before a justice of the peace. The justice is the judge of the authority of the agent; and on error, in the case of a scire facias on a transcript of the judgment, it will be considered, prima facie, that the agent had authority to represent the principal if allowed by the justice. If it be alleged that the judgment was improperly rendered on the confession of the agent before the return day of the summons, the remedy of the party aggrieved is to have the matter reviewed directly by the justice or by application to the coupt to set it aside; the error cannot be taken advantage of by the plea of nul tiel record on a scire facias issued from the Court of Common Pleas on the transcript of the judgment.\nError to the Common Pleas of Bradford county.\nThis was a proceeding in the Common Pleas of Bradford county by scire facias on a transcript from a justice of the peace. The suit before the justice was stated, inter alia, as follows;\u2014\nSummons issued to Elijah Wolcott, constable, 10th day of May, 1845. Subpoena issued for plaintiff. Summons returned served by copy the 10th day of May, 1845. May 14,1845, parties appear\u2014 defendant appeared by Nelson Coonrod. Plaintiff claims on a note given to him by defendant, for the sum of $13, dated August 24, 1842, payable one year after date. Plaintiff claims on said note $15.15. Defendant confessed judgment by said Coonrod, for the above sum of $15.15 with costs of suit.\nProceedings certified by Samuel Davidson, J. P.\nProceedings as follows took place in Court:\nTranscript from docket of Samuel Davidson, Esq., filed May 15, 1845.\nSci. fa. to revive judgment and continue lien, No. 52, September Term, 1845. Issued May 14,1850. Returned served August 20, 1850. Sept. 2, 1850, defendant pleads payment and certificate of discharge under the Bankrupt law. Dec. 9, 1850, affidavit of defence filed. Dec. 20, 1850, a jury was called. Defendant adds plea of nul tiel record; the plaintiff declares he is not ready to try. A juror withdrawn and cause continued. May 14, 1851, judgment entered in favor of defendant on the plea of nul tiel record. Whereupon judgment against plaintiff for costs. June 23, 1851, writ of error filed.\nIt was assigned for error that the judgment of the court was not in accordance with the Act of Assembly, relative to proceedings on transcripts from justices of the peace.\nJuly 21, 1851,"
+  },
+  "file_name": "0048-01",
+  "first_page_order": 48,
+  "last_page_order": 50
+}

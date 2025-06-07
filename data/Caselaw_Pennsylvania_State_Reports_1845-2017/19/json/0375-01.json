@@ -1,0 +1,109 @@
+{
+  "id": 970629,
+  "name": "Carson & McKnight versus Baillie",
+  "name_abbreviation": "Carson & McKnight v. Baillie",
+  "decision_date": "1852-10-11",
+  "docket_number": "",
+  "first_page": "375",
+  "last_page": "380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle 23",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822535
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0023-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 55",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850029
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0055-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 169",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle 28",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 580,
+    "char_count": 14395,
+    "ocr_confidence": 0.422,
+    "pagerank": {
+      "raw": 1.8108337618719616e-07,
+      "percentile": 0.7177582554040796
+    },
+    "sha256": "2fcb072015881b10d901a3221dd49778f1910c35fb1cac2658a765dd2829e054",
+    "simhash": "1:bafe0d2c884a95e7",
+    "word_count": 2556
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carson & McKnight versus Baillie."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLowrie, J.\nIt is not easy to describe this case in a few words, because of some uncommon features which it presents. We have an idea of its character when we learn that Baillie bought of Carson & McKnight 46 barrels of lard grease, and being disappointed in his expectations as to its quality, he sued Carson & McKnight for damages, for the deceit practised on him, and for not delivering the article bargained for.\nWe are not called upon to criticise the very peculiar and anomalous declaration filed in the cause, as it will not require much attention to the rules of pleading to cure its imperfections before another trial. Certainly the principal declaration claims ex delicto, and the count added on the trial ex contractu, and this misjoinder would have been a sufficient cause of reversal if the attention of the Court below had been properly called to it by a specific objection or by a demurrer.\nThe principal question is on the merits of the cause. There was evidence that the buyer examined the article called lard grease before he bought it; that an inspection of the whole lot was offered to him, and that after examining four or five barrels in the usual way, he declared himself satisfied, and received a bill of sale, in which the article was called lard grease. On the other hand, there was evidence that a large part of the article delivered was of a very inferior quality; some of it not being lard grease, but a mixture of grease and potash.\nOn such evidence, the learned judge charged the jury that their proper inquiry was, whether or not the \u00e1rtiele delivered was lard grease; and if not, then it did not correspond in specie with the article described in the bill of sale, and the plaintiff was entitled to recover. It will be observed that this instruction excludes all question of fraud, sets aside the evidence that the bargain was made on a view of the article, assumes that the bill of sale is the only evidence of the contract, and that the name lard grease given therein amounts to a warranty of the character of the article.\nOur decisions (Borrekins v. Bevan, 3 Rawle 28, Jennings v. Gratz, Ibid. 108, Fraley v. Bispham, 10 State Rep. 320) declare that on a sale of goods by sample, or by a description in a bill of parcels, there is an implied warranty that the article corresponds in kind with the sample in the one case, and with the bill of parcels in the other. But, notwithstanding some unguarded observations to be found in the books, it certainly was never intended to be decided, that in case of sale by sample, or on an inspection of the article itself, a warranty may be implied from the bill of parcels. This would be equivalent to declaring the bill to be the only evidence of the contract, a proposition that was never thought of; and all the cases on implied warranty show that no such decision was ever intended.\nWhen a sale is by sample, then the sample and not the name given in the bill of sale, is the standard by which the article is to be tested, because the purchase is made on the faith of the correspondence between the sample and the goods sold. Where goods are sold on inspection there is no standard but identity, and no warranty implied other than that the identical goods sold, and no others, shall be delivered. The name given to them in the bill is then immaterial, because faith was placed, not in the name, but in the quality and kind discovered on inspection. If there be fraudulent concealment or misrepresentation, the case is altered, and for this the party has his remedy on other principles.\nIn this case there was no pretence of a sale by sample, and there was no evidence tending to show a want of correspondence between a sample and the goods delivered. We do not see how it was possible for the plaintiff to recover on the ground that he did not get the very article that he bought, for there was no evidence to sustain such a position. We do not see how he could recover on the ground of deceit, for we discover no evidence of fraudulent concealment or misrepresentation. And he cannot recover on the footing of the name given in the bill of sale, while it appears evident that he bought on the faith of his own inspection, and not on faith in the name by which the article was called. It would be rather a hold presumption to suppose that a lard oil manufacturer would not know the article of lard grease, on inspection, better than a grocer or commission merchant, or that an article so various in its quality should be purchased by its name, when an inspection was had, or might have been.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Shinn, for plaintiffs in error.",
+      "Jones and McOandless, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Carson & McKnight versus Baillie.\n1. A sale was made of a number of barrels of lard grease, a part of which was inspected by the purchaser before his purchase, and, declining to examine more, he purchased. He received a bill of sale of the article, in which it was invoiced as \u201c lard grease.\u201d There was no evidence of false representations or any attempt at deceit, or that the defendant knew of any defect in the quality of the article, a portion of which, as it turned out, was of an inferior quality.\nIt was held, that it was error in the Court to instruct the jury that the proper inquiry was, whether the article delivered was lard grease, and, if not, it did not correspond in specie with the article described in the bill of sale, and that the plaintiff was entitled to recover.\n2. On a sale of goods by sample, or by a description in a bill of parcels, there is an implied warranty that the article corresponds in kind with the sample in the one case, and. with the bill of parcels in the other. Whore a sale is by sample, or on an inspection of the article, a warranty is not implied from the bill of parcels received, the sample, and not the name in the bill of sale, is the standard by which the article is to be tested. Where goods are sold on inspection, there is no standard but identity, and no warranty implied other than that the identical goods sold, and no others, shall be delivered. Their name in the bill of parcels is immaterial, as faith was placed not in the name, but in the quality and kind discovered on inspection. If there be fraudulent concealment or misrepresentation, the case is different.\nError to the District Court of Allegheny county.\nThis was an action on the case by John A. Baillie v. Carson & McKnight, for alleged deceit or breach of warranty, in the sale of forty-six barrels of lard grease. The facts were stated as follows:\nThe plaintiff below, who was a lard oil manufacturer, called at the counting-house of the defendants below, grocers and commission merchants, for the purpose of purchasing lard grease. The defendants sent their porter with the plaintiff to examine their stock. The porter showed samples \u00f3f five or six barrels, out of two lots differently marked, and offered to show the whole, but the plaintiff expressed himself satisfied with what he had seen, and purchased both lots, forty-six barrels in all. He sent a drayman to haul it, who delivered one dray load of three barrels at plaintiff\u2019s lard oil factory, where they remained two or three days, and were then returned by plaintiff to the warehouse of defendants, who refused to take them back; the plaintiff alleging that they were not according to sample; defendants averring that they were part of the lot of forty-six barrels which the plaintiff had examined and purchased.\nThe plaintiff then had them hauled away, and after a lapse of five or six days commenced hauling away the balance of the lot, and continued to send for them from day to day, for several weeks, until the whole forty-six barrels were removed to his factory.\nEvidence was given on the part of the plaintiff below, tending to prove that the forty-six barrels comprehended two distinct lots, differing materially in appearance and quality, samples of which were exhibited on the trial and examined by witnesses, a number - of whom, from inspection of the samples, testified that the inferior specimen was not, lard grease, but a compound having alkali or rosin in it.\nNo evidence whatever was given of a warranty of the article sold, except the bill of sale furnished by the defendants below to the plaintiff, in which it was invoiced by the name of \u201c lard grease.\u201d There was no proof of false representations, nor any attempt to show that the defendants below had any intention of deceiving the plaintiff, or that they knew of any defect in the quality of the article.\nIn the declaration it was alleged that the defendants falsely and fraudulently warranted, by sample, the article to be lard grease of a quality suitable for making No. 1 lard oil, and alleging- the article sold not to be lard grease of the best quality, but of a very inferior quality.\nOn the trial, a count was added, in which it was alleged that the defendants promised and agreed with the plaintiff to sell and deliver to him forty-six barrels of lard grease, but the defendants did not deliver lard grease according to their agreement, but some other material unfit for the plaintiff\u2019s use.\nOn the part of the defendants below points were submitted, which, with the answers of Forward, J., were as follows:\n1st. That unless they believe from the evidence that there was in the sale of the lard grease, either an express warranty, or a fraudulent misrepresentation by the defendants, the plaintiff cannot recover. Ans. If the article delivered corresponded in specie with the description in the bill of sale, the defendants are entitled to an affirmative answer to this point, otherwise not.\n2d. That defendants are not answerable for the quality of the article sold, if the plaintiff inspected and received it. Ans. This point is answered, in the affirmative; but is it true that the so-called \u201clard grease\u201d was inspected and received by plaintiff without objection?\n3d. That if the defendants sold the article by sample, without express warranty, they are not answerable for quality, unless the jury believe that it proved to be different in hind from the article sold; that all gradations in quality are at the hazard of the buyer. Ans. In a sale by sample, the vendor warrants the hind or species, and not the quality. This proposition is answered in the affirmative.\n4th. That unless the jury believe, from the evidence, that the defendants expressly warranted the grease lard sold to the plaintiff, to be suitable for making No. 1 lard oil, or fraudulently and falsely represented it suitable for that purpose, the fact that it proved unfit for such use does not make the defendants liable. Ans. This point is answered affirmatively, provided the article sold was the same in hind as that mentioned in bill of sale.\n5th. That to sustain the present action, it is necessary for the plaintiff to satisfy the jury that the defendants made false representations to the plaintiff, knowing them to be false. Ans. This point is answered affirmatively, if the jury believe that the article delivered was the same in kind as the article sold; if not the same in hind, proof of false representations, knowing them to be false, is not necessary. The proper inquiry for the jury is: 1st. Was the article sold \u201clard grease;\u201d if not, it. does not correspond in specie with the article described in the bill of sale. 2d. If the article delivered was not \u201clard grease,\u201d what damages have been sustained by plaintiff.\nTo these answers of the Court the defendants\u2019 counsel excepted.\nIt was assigned for error: 1. The Court erred in answering the first, second, fourth, and fifth points submitted by defendants\u2019 counsel.\n2. The Court erred in charging the jury that the proper inquiry was: \u201c1st. Was the article sold lard grease ? If not, it does not correspond in specie with the article described in the bill of sale; and if the article delivered was not lard grease, what damages have been sustained by'the plaintiff.\u201d\nShinn, for plaintiffs in error.\nThe narr. filed was for a tort\u2014 the count added was in assumpsit, and introduced a new cause of action. The plea was, Not guilty; and on that plea the trial proceeded and a general verdict was rendered. .\nThe gist of the plaintiff\u2019s complaint is, that the defendants deceived the plaintiff. Now there can be no deceit in the sale of a chattel without a scienter: 4 Harris 200, Staines v. Shore; 5 Barn. & Ad. 797; 27 E. C. L. 194; 2 Man. & G. 475; 40 E. C. L. 470. The proof of falsehood without fraud is not sufficient: 8 Taunt. 637; 4 E. C. L. 234; 2 Harris 142, Bokee v. Walker.\nThat the purchaser inspected the article and bought it for lard grease, without reference to the bill of sale afterwards furnished, were circumstances not adverted to by the Court.\nBut if this were an action on the contract, the doctrine of implied warranty was laid down too broadly by the Court. With regard to wares sold, the vendor is not bound to answer for defects unless he expressly warranted them to be sound and good, or there has been a fraudulent representation, an affirmation of a quality known to the vendor to be false: 7 Ser. & R. 482, Jackson v. Wetherill; 3 Rawle 169, Jennings v. Gratz; 10 Barr 324, Fraley v. Bispham; 9 Watts 55, McFarland v. Newland.\nJones and McOandless, for defendant.\nThe added count is good as a count in assumpsit. A misjoinder is not a ground of error. This however was an action on a warranty. Considered with respect to the added count alone, the charge of the Court was correct, for if the defendants professed to sell lard grease and delivered.what was not so, the plaintiff has sustained injury.\nA scienter is necessary in an action of deceit, but not in an action on a warranty.\nThe plaintiff below did not buy on inspection. He examined several barrels of grease which was good, and the article about which this suit was brought was not lard grease. The jury were satisfied that the plaintiff never saw the article till after its delivery.\n. But the cases cited on the part of the plaintiffs in error establish that only the quality of the thing sold, even after examination by the buyer, is at his risk, but not the specie: 10 Barr 324, Fraley v. Bispham; 3 Rawle 23. In this case there was an invoice in which the article was represented as lard grease, and the Court properly instructed the jury that their proper inquiry was, whether the article delivered was lard grease or not.\nOctober 11,"
+  },
+  "file_name": "0375-01",
+  "first_page_order": 377,
+  "last_page_order": 382
+}

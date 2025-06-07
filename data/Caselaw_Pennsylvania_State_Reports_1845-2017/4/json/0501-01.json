@@ -1,0 +1,114 @@
+{
+  "id": 401889,
+  "name": "Winrow v. Raymond",
+  "name_abbreviation": "Winrow v. Raymond",
+  "decision_date": "1846-02-15",
+  "docket_number": "",
+  "first_page": "501",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 501"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Yeates, 258",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6772954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0258-01"
+      ]
+    },
+    {
+      "cite": "11 Serg. & Rawle, 84",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1812791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/11/0084-01"
+      ]
+    },
+    {
+      "cite": "6 Whart. 66",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836989
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/6/0066-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates, 258",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6772954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/3/0258-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 192,
+    "char_count": 2577,
+    "ocr_confidence": 0.603,
+    "pagerank": {
+      "raw": 4.552609349284496e-07,
+      "percentile": 0.9245405813234672
+    },
+    "sha256": "0d9eba4881ffe5ee9690a25385241010a3480e766089216bb7831a7f97242f0b",
+    "simhash": "1:a931eeb2255d70ce",
+    "word_count": 474
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Winrow v. Raymond."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nThe practice in this state, commencing at an early period, is on motion to the\u2019 court, at the instance of the defendant, to set aside a sheriff\u2019s return when the writ is defectively served. Bujac, endorsee, v. Morgan, 3 Yeates, 258, is an instance of this kind; and see Kleckner v. The county of Lehigh, 6 Whart. 66, where the same course was pursued without objection. It may in some cases be necessary, for the security of the defendant, who cannot be brought into court except in the manner pointed out by law, &e. The practice is to enter an appearance de bene esse, and ask the judgment of the court as to the legality of the service. Blair v. Weaver, 11 Serg. & Rawle, 84. But this does not extend further than to set aside the sheriff\u2019s return. The writ remains good, and the plaintiff may either discontinue his suit, at his election, rule the sheriff to make a good return, and issue an alias, or sue the sheriff for a false or insufficient return. But the court will not set aside the writ on motion, for this may do great wrong to the plaintiff, who may in that event be barred by the act of limitations. It remains to inquire into the legality of the service. A writ of summons (see sec. 2, act of the 13th of June, 1836) is executed by reading the same in the hearing of the defendant, by giving him notice of its contents, or by a true and attested copy; or if the defendant cannot be conveniently found, by leaving a copy at his dwelling-house in the presence of one or more of the adult members of his family; or if the defendant resides in the family of another, with one of the adult members of the family with which he resides. The act which prescribes the rule, be it observed, nowhere provides for the service \u00f3f a summons, by leaving a copy of the writ at the counting-house of the defendant; the mode, as appears by the sheriff\u2019s return, this service was made. It' was therefore an illegal service, and .the sheriff\u2019s return must be set aside. Sheriff\u2019s return set aside.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "No one appeared for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Winrow v. Raymond.\nThe court will set aside the sheriff\u2019s return of service to a summons if defective.\nJan. 30. Griscom moved to set aside the sheriff\u2019s return of service of a summons, which was in the following form; \u201c Served, by leaving a true and attested copy of the within writ at the counting-house of defendant, with his agent or clerk.\u201d He said, the practice was .uniform in the District Court to interfere when the face of the return showed a defective service; and cited 2 Miles, 42, 164; 3 Yeates, 258; 6 Wharf: 66.\nNo one appeared for the plaintiff.\nFeb. 15."
+  },
+  "file_name": "0501-01",
+  "first_page_order": 501,
+  "last_page_order": 501
+}

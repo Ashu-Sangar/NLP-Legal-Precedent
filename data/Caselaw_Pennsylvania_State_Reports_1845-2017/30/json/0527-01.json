@@ -1,0 +1,270 @@
+{
+  "id": 415632,
+  "name": "Rick versus Kelly; The Same versus Fisher",
+  "name_abbreviation": "Rick v. Kelly",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "527",
+  "last_page": "531",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle 23",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822535
+      ],
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0023-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 433",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840055
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0433-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates 501",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Maine 440",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Johns. 240",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141001
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0240-01"
+      ]
+    },
+    {
+      "cite": "2 Bailey 385",
+      "category": "reporters:state",
+      "reporter": "Bailey",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass. 182",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000726
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0149-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. 455",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6775530
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/2/0455-01"
+      ]
+    },
+    {
+      "cite": "5 Conn. 71",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12121512
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/5/0071-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 33",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Verm. 145",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Yeates 543",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6775904
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0543-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 322",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Met. 547",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        2042525
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/42/0547-01"
+      ]
+    },
+    {
+      "cite": "6 Hill 341",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Wend. 102",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wheat. 333",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434771
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/23/0333-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. R. 32",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2036088
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/17/0026-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates 543",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6775904
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/3/0543-01"
+      ]
+    },
+    {
+      "cite": "6 Hill 341",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Wheat. 333",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/23/0333-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 686,
+    "char_count": 11079,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 2.376179322320238e-07,
+      "percentile": 0.7963489377179905
+    },
+    "sha256": "1de46971393a648345fd093490c642fad96f82b7c3ac36a58cce4df6b584d8d4",
+    "simhash": "1:50638024faefbc8f",
+    "word_count": 2001
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rick versus Kelly. The Same versus Fisher."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nPorter, J.\n\u2014 There was nothing to prevent the supposed endorsers from testifying as witnesses. They were not parties to the spurious instruments in-fact or law. Ho proceeding to recover the money could have hurt them, and no judgments in these actions could have increased or diminished their liability, for it had no existence. They had notseome within the artificial rule originated in the old case of Walton v. Shelley, which prevents a party from impeaching a note who has given it currency by the sanction of his name, for they were total strangers to the transaction. If, therefore, on the principle of Gulliford v. Skinner, 9 Barr 834, the holder of a note who has transferred it without endorsement does not fall under the ban of the rule, much more should one who has never held nor transferred it be competent, and still much more when the action is not on the endorsement, but on the fact of forgery and the consequent loss.\nIt is necessary only to open a book on contracts, to find that even in the sale of an ordinary chattel, where on failure of consideration the purchaser rescinds the contract and brings suit to recover his money, he must place the seller where he found him, by returning the thing purchased. Nothing need be said of the difference between affirming the contract by suing on the warranty, and disaffirming it by going for a recovery on the count for money had and received, for these declarations contain that count. But it is scarcely fair to treat a promissory note as a chattel; for while it may, for some purposes, be bought and sold like a horse or a bag of wheat, it differs much from the common-run of chattels. It is worthless except as it represents the ability of somebody to pay it, and this may exist to-day and be gone tomorrow, and be revived on the third day, and, throughout the process, its value may depend wholly on the promptness of the holder. The notes in this suit contained a genuine name. For aught that appears, timely application to that party might have saved the debt, for others thought proper to obtain judgments and sell his property. At some stage of the business, the plaintiffs obtained knowledge of the forgery, for they brought the actions and put the fact on record. Why not inform the defendant of his risk, and give him a chance of escape by a direct blow at the maker ? What justice could there be in permitting a holder to hold on until the very close of the period of limitation, and then to spring a suit on the seller, when the genuine parties are dead and their estates gone ? Observe how useless the notes were to the plaintiffs, for the endorsements were links in their chain of title, and, as these were false, recovery at their suit against the maker was impossible; but, to the defendant, possession was vital, for his right of action against the maker or some other vendor was perfect. To permit the plaintiffs to keep both verdict and note would be manifestly unjust. If not entitled to a tender before suit, the defendant has no right to its return afterwards; and to send him on a circuitous chase after it, while the genuine parties are daily growing weaker, is not to be thought of, unless some stubborn principle of law demands it. How is this ?\nOur Act of 5th April 1849 really accomplished little, for, long before that, it was tbe law that money paid for a forged instrument could be recovered back; just as a bar of brass sold for a bar of gold, which was the illustration put by Lord Campbell in Gompertz v. Bartlett, 2 Ellis & Blackburn 847; and our act for the most part was only declaratory of the law. In respect to counterfeit bank notes, it is everywhere conceded, that return must be made promptly. In Thomas v. Todd, 6 Hill 341, something less than two months was held too long. In Raymond v. Baar, 13 S. & R. 319, a delay of six months was pronounced gross negligence. In The Gloucester Bank v. The Salem Bank, 17 Mass. R. 32, a failure for fifteen days to examine a bundle of notes delivered to the plaintiffs\u2019 cashier for exchange, was held to defeat the action. True, bank notes are created for currency, and the holder, as he scrutinizes them less, ought to repossess them soon to be able to start them oh their way back. But this ground has not been found broad enough for giving them a peculiar place. In the case of a bill of exchange, the acceptor who pays and keeps his mouth shut for any time cannot recover. Why ? Not so much that he of all others ought to have known who was drawing on him, as that his delay lets the intervening parties off by preventing the holder from notifying them in time; and therefore in the leading case of Price v. Neal, 3 Burr. 1354, Lord Manseield complained justly that the acceptor finds out the forgery when \u201cthe forger comes to be hanged.\u201d By the later decisions, the law seems to be that if notice of the forgery be given to the holder on the very day on which a bill of exchange is paid, the acceptor may recover the money: 3 Barn. & Cress. 428; 9 Id. 902; 4 M. & Ry. 676. At some time, however, and in some way, there must be notice, and an offer to return before recovery of payment on any counterfeit instrument, note, bill, or bank note, paid or purchased: Coolidge v. Brigham, 1 Metcalf 547. In The Bank of the U. S. v. The Bank of Georgia, 10 Wheaton 333, Judge Stout\u2019s review of the authorities up to 1825 was very unsuccessful, if it can be doubted that the time both for the notice and return is a reasonable time.\nIn Pennsylvania, the law has been to some extent regulated by the decision made in 1803, in Ritchie v. Summers, 3 Yeates 543, and the subsequent decision of the Court of Errors and Appeals in the same case (ante 147-8), which I have seen in manuscript. When the Act of 1849 came to declare the law, nothing was said of the necessity of return or notice, but then nothing was said against it; and this part of the subject was left as it had been found. In the case of Roth v. Crissey (ante 145), decided at our last sitting in Philadelphia, the District Court of that city had put the case to the jury thus: \u2014 \u201c If this note were bought by plaintiffs of defendant, or sold for or on account of defendant, and it is not genuine, the plaintiffs can recover if they have pursued their remedy with due diligence. * * Have they tendered a return to the party from whom they got the note ?\u201d In this court, the necessity of a return was admitted by the counsel on both sides, and the judgment pronounced was founded on that assumption.\nOn these authorities, and for these reasons, I think the purchaser of such a note has no business whatever to sit in judgment on its value, but is bound to return it, whatever its value. In this we do not all agree, and therefore the judgment of the court is, that notice of the forgery within a reasonable time after its discovery, and an offer to return the note, are necessary to the maintenance of an action for the recovery of the money, unless the note be shown to possess no value. Both points have been discussed and decided, because, though raised with unequal distinctness, both will necessarily be involved in the next trial.\nJudgments reversed and a venire de novo awarded.\nStrong, J., took no part in these cases, having been concerned, as counsel, in other cases turning on the same facts.\nThompson, J., dissented.",
+        "type": "majority",
+        "author": "Porter, J."
+      }
+    ],
+    "attorneys": [
+      "Hagenman & Banks, for the plaintiff in error,",
+      "Davis and H. W. Smith, for defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Rick versus Kelly. The Same versus Fisher.\nIn an action to recover hack the money paid for a promissory note, with a forged endorsement, the supposed endorser is a competent witness to prove the forgery. ' t\nNotice of the forgery within a reasonable time after its discovery, and an \u25a0 offer to return the note, are necessary to the maintenance of an action for the recovery of the consideration paid, unless the note he shown to possess no value.\nThe Act of 5th April 1849, was only declaratory of the existing law.\nError to the Common Pleas of Berks county.\nThese were actions of assumpsit, the first by John H. Kelly against Charles Rick, on two promissory notes made by George Fox, and purporting to be endorsed by Abraham Herbein; and the second by Jeremiah Fisher against the same defendant, on a note made by George Fox, and purporting to be endorsed by Abraham Herbein and Jacob Rahn.\n. These notes tvere purchased by the plaintiff from the defendant, without his endorsement; and the endorsements of Herbein and Rahn having been forged, they brought these actions to recover back the consideration paid for the notes. Neither of the parties had any knowledge of the forgeries at the time of the sale of the notes.\nThe notes matured in March and April 1856, about which time the plaintiffs had notice from the alleged endorsers that their endorsements had been forged; but no notice thereof was given to the defendant, nor was there any offer shown to return the notes to him, previously to the bringing of these suits, which were commenced on the 27th May 1856.\nOn the trial, the alleged endorsers were offered as witnesses by the plaintiffs to prove the forgeries, and admitted, notwithstanding an objection by the defendant, to which he excepted.\nThe defendant offered to prove in Kelly\u2019s case, that the plaintiff had renewed one of the notes for five days; and also to prove the condition of Eox\u2019s property at the time the notes matured, and that others of his creditors had about that time secured their claims. The learned judge ruled out this testimony, and the defendant excepted.\nThe court below charged the jury that notice of the forgeries and a tender of the notes to the defendant were not necessary in order to maintain these actions. To which the defendant excepted; and verdicts and judgments having been rendered in favour of the plaintiffs, the defendant sued out these writs, and here assigned for error: 1. The admission of the alleged endorsers as witnesses. 2. The rejection of the evidence offered by the defendant. 3. The charge of the court.\nHagenman & Banks, for the plaintiff in error,\ncited Chitty on Bills 459, 464; Byles on Bills 383; Bank of U. S. v. Bank of Georgia, 10 Wheat. 333; Ontario Bank v. Lightbody, 13 Wend. 102 n.; Thomas v. Todd, 6 Hill 341; Raymond v. Baar, 13 S. & R. 319; Coolidge v. Brigham, 1 Met. 547-50; Conner v. Henderson, 15 Mass. 322; Ritchie v. Summers, 3 Yeates 543 (ante 147-8); Bank of St. Albans v. Farmers\u2019 and Mechanics\u2019 Bank, 10 Verm. 145; Gloucester Bank v. Salem Bank, 17 Mass. 33.\nDavis and H. W. Smith, for defendants in error,\ncited Price v. Neal, 3 Burr. 1354; 10 S. & R. 94; Eagle Bank of New Haven v. Smith, 5 Conn. 71; Markle v. Hatfield, 2 Johns. 455; Young v. Adams, 6 Mass. 182; Byles on Bills 125; Story on Prom. Notes, \u00a7 117, 118; Strange v. Ellison, 2 Bailey 385; Herrick v. Whitney, 15 Johns. 240; Chitty on Bills 261 n.; Gurney v. Womersly, 3 Am. L. R. 502; Baxter v. Duren, 29 Maine 440; Rieman v. Fisher, 4 Am. L. R. 433; Ritchie v. Summers, 3 Yeates 501; McCormick v. Trotter, 10 S. & R. 94; Turnpike Co. v. Commonwealth, 2 Watts 433; Borrekins v. Bevan, 3 Rawle 23, 44; Act 5th April 1849, Brightly\u2019s Purd. 674."
+  },
+  "file_name": "0527-01",
+  "first_page_order": 527,
+  "last_page_order": 531
+}

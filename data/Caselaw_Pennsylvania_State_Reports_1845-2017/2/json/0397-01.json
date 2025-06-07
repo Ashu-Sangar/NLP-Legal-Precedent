@@ -1,0 +1,127 @@
+{
+  "id": 951099,
+  "name": "Dubbs v. Finley",
+  "name_abbreviation": "Dubbs v. Finley",
+  "decision_date": "1845-04-30",
+  "docket_number": "",
+  "first_page": "397",
+  "last_page": "398",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 397"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts, 230",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841331
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0230-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 60",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841271
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0060-01"
+      ]
+    },
+    {
+      "cite": "6 Watts & Serg. 72",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480084
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0072-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 406",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840160
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0406-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 406",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840160
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0406-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 222,
+    "char_count": 3051,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 7.536429173278944e-08,
+      "percentile": 0.44760563260637976
+    },
+    "sha256": "6eeb412d33d1f7ac0884f008559cdd78c6fdab59eced37541b3d2d6fec8f5773",
+    "simhash": "1:7229457eb8e6e479",
+    "word_count": 543
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dubbs v. Finley."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 This case differs from United States v. Mertz, 2 Watts, 406, on which the court below ruled it. For here the grantee, when he took the property, did so expressly on his written assumption of the proportional part of the mortgage debt, and also stipulated by the same instrument, that it should be subject to such proportional part, amounting to the sum of $2040, which he assumed thereby and agreed to pay. This undertaking would make him liable for the amount in a proceeding against him by Hippie. Whether covenant would be the proper form of action, where it appears that he had not executed the deed, but was a party to it and held under the conveyance, it is unnecessary to decide; for if covenant would not lie, an action on the case would, and the agreement in writing would be sufficient evidence. In United States v. Mertz there was no agreement to pay the encumbrances.\nJudgment reversed, and venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Hughes, for plaintiff in error.",
+      "Lmser, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Dubbs v. Finley.\nConveyance in consideration of the assumption of a lien on the land, renders the grantee liable to pay it, and is a valuable consideration. But whether the remedy bo in covenant, or in another form of action, Queer e.\nError to the Common Pleas of Schuylkill county.\nApril 27, 28. \u2014 But one point was argued here, viz., whethe\u00bb the court were right in ruling a conveyance by Hippie, who was insolvent at the time, was fraudulent as to creditors. The conveyance was \u201c as well for and in consideration of the assumption of the proportional part of the mortgage debt hereinafter named, as for, &c.\u201d The mortgage covered other property, and the plaintiff in error, as the purchaser under the above deed, claimed the surplus of the proceeds of a sheriff\u2019s sale. On the trial of a feigned issue, the court instructed the jury, that as the other land was not discharged from this lien, Hippie being still liable for the whole, United States v. Mertz, 2 Watts, 406, ruled the case, and the conveyance was void as matter of law.\nHughes, for plaintiff in error.\n\u2014 The only question is, whether the conveyance is fraudulent under the 13 Eliz. In the case relied on by the court, as ruling this, there was no stipulation or agreement to discharge the remaining property of the debtor from that which was a lien on the land conveyed. If this be so here, undoubtedly it is fraudulent. But there is an express stipulation in this case to pay a proportionate part of the debt, which may be enforced, and the debtor and his property be discharged pro tanto, Johnston v. Harvey, 2 Penna; 82. In Patterson v. Stewart, 6 Watts & Serg. 72, there was a mere covenant to pay debts, and it was considered sufficient. In Campbell v. Shrum, 3 Watts, 60, a purchase, subject to a lien, which is estimated as part of the purchase money, amounts to a covenant or agreement to pay by the vendee.\nLmser, for defendants.\n\u2014 If the court were wrong, this court will direct them what is the proper instruction to give at the next trial, and referred to United States v. Mertz; McKee v. Gilchrist, 3 Watts, 230.\nApril 30."
+  },
+  "file_name": "0397-01",
+  "first_page_order": 397,
+  "last_page_order": 398
+}

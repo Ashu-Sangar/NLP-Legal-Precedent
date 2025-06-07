@@ -1,0 +1,127 @@
+{
+  "id": 411590,
+  "name": "Webb versus Dean",
+  "name_abbreviation": "Webb v. Dean",
+  "decision_date": "1853-01-06",
+  "docket_number": "",
+  "first_page": "29",
+  "last_page": "33",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 Pa. 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Whar. 259",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0259-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 218",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840163
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0218-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 209",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840095
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0209-01"
+      ]
+    },
+    {
+      "cite": "7 Paige Ch. 197",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 W. 442",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Watts 218",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840163
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0218-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 494,
+    "char_count": 10894,
+    "ocr_confidence": 0.44,
+    "pagerank": {
+      "raw": 1.2248487951373833e-07,
+      "percentile": 0.6043394807959847
+    },
+    "sha256": "61384e7d233184ad846f8b2fd76f440c6c12c328e0deac53ebbd8ac86e1fb86d",
+    "simhash": "1:11206db5a982c5a5",
+    "word_count": 1930
+  },
+  "last_updated": "2024-02-27T16:29:59.856508+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Webb versus Dean."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nWoodward, J.\n\u2014 On the 4th day of December, 1820, Zalegman Phillips, then the owner of the premises for which this suit was brought, being in embarrassed circumstances, voluntarily assigned all his estate to Henry Solomons and Bayse Newcomb, in trust to sell and convert the same into money, and to pay creditors of the said Z. Phillips. The assignment was recorded, but there is no evidence before us that the assignees undertook the execution of the trust, or that they were superseded, and others appointed in their stead. Mr. Newcomb, the only surviving assignee, swore on the trial, that he did not recollect that Phillips ever called on him in respect to the assignment; that he recollected hearing of it, but if he had been applied to, he would have refused to act under it; and that the assignment was never delivered to him: nor was there any evidence of its delivery to Henry Solomons.\nOn the 23d June, 1836, John Thompson, Jun., obtained a judgment in the District Court against Phillips, issued execution, and levied on and sold the premises, in September, 1836, to John Dean, under whom the defendants in error claim title.\nThough it be true, that an assignment of real estate for the benefit of creditors passes the legal title, which is not defeated by the assignees\u2019 refusal to act, but vests in those whom the Court appoint to execute the trust, yet a trust results by operation of law, which, as soon as the debts are satisfied, entitles the assignor to the possession of whatever of the estate remains unconverted. And in Pennsylvania, where every interest, equitable as well as legal, which a debtor has in lands, is bound by the lien of judgments against him, this interest is the subject of lien, of levy, and of sale.\nBut may the extinguishment of the debts which it was the object of the assignment to pay, be presumed from lapse of time and other circumstances ? This is the only question in this cause. The Court permitted the jury to make such presumption, and this is complained of as error.\nBetween the assignment and the sheriff\u2019s sale, there were near sixteen years. The estate, though assigned to be converted into money, had not been converted. One of the assignees refused to act, and no delivery of the deed to the other was shown. No creditor applied to the Court to appoint others; and, finally, no evidence of continuing indebtedness was shown.\nUnder these circumstances the plaintiff in error has no reason to complain that the Court submitted the question of payment to the jury. It was the least they could do. True, a legal presumption of payment does not arise short of twenty years; but it has been often held, that a less period, in connection with persuasive circumstances, may be submitted to the jury as ground of a presumption in fact. Ross v. Jenkin, 14 S. & R. 364; Power v. Holman, 2 Watts 218; Tilghman\u2019s Executors v. Fisher, 9 W. 442; Gouldhawk v. Duane, 2 W. C. C. R.; Clark v. Curran, (Pittsburgh, 1852.)\nThe Court might, however, have done more against the plaintiff in error. This suit was brought to July Term, 1850, and between the date of the assignment and the time of trial, more than twenty-nine years had elapsed. It was on the trial of the cause, not at the sheriff\u2019s sale, the presumption of payment attached. The question was then, in 1849, what is the just and necessary presumption ? and in view of the long interval, and of the circumstances in proof, the Court would have been quite justified in withdrawing the case from the jury, and ruling it against the plaintiff in error, as a conclusion of law. In giving him a chance for a verdict, the Court erred in his favour, and of coarse are not to be reversed at his instance.\nThe judgment is accordingly affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Bradford, for plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Webb versus Dean.\n1. A debtor, in December, 1820, executed a voluntary assignment of all Ms estate, real and' personal; the assignment was recorded, but the assignees never acted, nor were' others appointed in their stead; and there was no evidence of the delivery of the assignment to either of them.\nIn June, 1836, a judgment was obtained against the assignor, and the real estate in question was levied upon and sold in September of that year, and an action of ejectment was brought by the purchaser in 1841, which was tried in April, 1849. .\nIt was 1[eld, that, though an assignment of real estate for the benefit of creditors passes the legal title, which is not defeated by the refusal or neglect of the assignees to act, but vests in those whom the Court appoint to execute the trust, yet that a trust results to the debtor by operation of law, which entitles him to the possession of the property remaining unconverted.\n2. In Pennsylvania such an interest may be hound by the lien of a judgment against the assignor, and is the subject of levy and sale.\n3. In such a case, nearly sixteen years having elapsed from the assignment to the sheriff's sale, the real estate in question not having been converted by the trustee, and no evidence of continuing indebtedness of the assignor being shown, it was not error in the Court to submit to the jury the question of payment of the debts mentioned in the assignment.\n4. A legal presumption of payment does not arise short of twenty years; but a less period in connection with persuasive circumstances may be submitted to the jury as ground of presumption in fact.\n5. The presumption of payment attached not at the sheriff's sale, but at the trial in 1849, of an ejectment brought by the purchaser at the sheriff's sale; and, in view of the long interval (above twenty-eight years), and under the circumstances in proof in this case, the Court would have been justified in withdrawing the case from the jury and ruling it against the defendant as a conclusion of law.\nError to the District Court, Philadelphia.\nThis was an action of ejectment by John Dean v. Reuben Webb, to March T. 1841, for a piece of land in the county of Philadelphia. The plaintiff having died, William E. Dean and others, as his heirs, were substituted.\nThe property was claimed by the plaintiff by virtue of a sheriff\u2019s sale in 1836, as the property of Zalegman Phillips. On the 23d June, 1836, a judgment was obtained by John Thompson against Zalegman Phillips, on a cause of action which arose subsequent to the assignment, hereafter referred to; and under the same the premises were sold at sheriff\u2019s sale to John Dean, the sheriff\u2019s deed to him being dated 24th September, 1836.\nIt appeared by a voluntary assignment, dated 4th December, 1820, that Zalegman Phillips assigned all his estate, real and personal, of whatsoever nature and wheresoever (without any specification), to Henry Solomons and Bayse Newcomb, their heirs, &c., in trust to sell the same, &c., and pay, first, certain specified debts, and after satisfying the preferred claims, then to pay and distribute the surplus rateably amongst all his creditors. The assignment was recorded on 29th December, 1820.\nOn the trial Bayse Newcomb, one of the assignees, was examined, and testified that he did not recollect that Z. Phillips ever called on him in respect to the aforesaid assignment \u2014 that he recollected hearing of it, but that, if he had been applied to he would have refused to act under it; and that it was never actually delivered to him. That Solomons, the other assignee, he believed was dead.\nOn the trial J. A. Phillips was examined, and testified that the property in question had been in the possession of the mother of Z. Phillips, widow of Jonas Phillips deceased, the latter having died perhaps in 1803.\nIt was testified that the premises referred to had belonged to Jonas Phillips, who died in 1803. He left a widow and a number of children, of whom Z. Phillips was one. The widow died in 1831, having received the rents and profits of the property, part of which was in dispute, during her lifetime. It did not appear that Z. Phillips ever had possession of the property. It was supposed by the heirs that the widow was entitled to a life estate in the property under her husband\u2019s will, though in fact she had not, as it was acquired by her husband after the execution of his will.\nIt was contended on the part of the defendant, that the title of Z. Phillips to the premises passed hy his deed of assignment\u2014 that at the time of the levy and sale and sheriffs\u2019 deed, the said Z. Phillips had no estate or interest in the premises, which could be the subject of levy and sale, and that the plaintiffs wer'e not entitled to recover.\nThe court left the case to the jury, reserving the question, whether the jury might presume from the evidence in the cause, that the debts mentioned in the assignment had been paid; and if the jury might so presume, then, whether the sheriff\u2019s deed conveyed the estate of the said Z. Phillips to John Dean.\nApril 6,1849, verdict for plaintiffs for one undivided ninth part of the premises, subject to the opinion of the Court in banc.\nSubsequently the Court entered judgment for the plaintiff.\nIt was assigned for error, 1. That the Court efred in leaving the case to the jury, with liberty to presume the payment of the debts of the assignor. 2. In entering judgment for the plaintiffs.\nBradford, for plaintiff in error.\n\u2014 It was contended that by the assignment Z. Phillips conveyed his whole legal estate and interest in the premises, leaving in him no resulting use or interest therein of the character of real estate, but conferring on him only a contingent equitable chose in action, viz., the right of calling for an account from the assignees, &c.; that such contingent claim was not the subject of levy and sale, and that therefore John Dean, the purchaser, acquired no estate or interest in the premises, by the sale and deed.\nAlso, That though between the assignment, in December, 1820, \u2022and the levy, in June, 1836, more than fifteen years elapsed, yet that this was not a sufficient time to raise a presumption of the payment of the debts of the assignor. :That express and \u2019continuing trusts are not affected by the statute of limitations, and are never barred by presumptions of extinguishment arising from the lapse of time less than twenty years, without an assertion of claim. 2 Sch. & Lef. 637; 2 Atk. 522; 7 Paige Ch. 197 ; 1 J. C. R. 313; 2 Watts 209, Foulke v. Brown; 4 W. & Ser. 557, Bull v. Towson.\nThe presumption raised by the lapse of twenty years is a presumption of law, and not of fact: Font. Eq. 329; Best on Pre. 47; Law Lib. 186-189; 2 Watts 218, Power v. Holman. Also, 5 Taunton 170, 1 E. C. L. R. 53.\nThe assignment in question ivas not fraudulent as against Thompson, as his debt was contracted subsequent to the assignment. Comment was made on the cases of Ross v. Jenkins, 14 Ser. & R. 364; Power v. Holman, 2 Watts 218; Sailor v. Hertzog, 4 Whar. 259; Comm. v. Lelar, 1 Harris 22; and Lamb v. Fries, 2 Barr 83.\nJanuary 6, 1853,"
+  },
+  "file_name": "0029-01",
+  "first_page_order": 29,
+  "last_page_order": 33
+}

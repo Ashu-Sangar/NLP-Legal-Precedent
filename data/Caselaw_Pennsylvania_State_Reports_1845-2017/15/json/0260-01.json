@@ -1,0 +1,109 @@
+{
+  "id": 408694,
+  "name": "Salter versus Reed",
+  "name_abbreviation": "Salter v. Reed",
+  "decision_date": "1851-02-27",
+  "docket_number": "",
+  "first_page": "260",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts 288",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts 491",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838087
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0491-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 40",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0040-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 146",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0146-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 636,
+    "char_count": 13021,
+    "ocr_confidence": 0.438,
+    "pagerank": {
+      "raw": 2.87131333693376e-07,
+      "percentile": 0.842825778645782
+    },
+    "sha256": "0ab20234d43f8f8d7c49ca327feaf4bd38f9f35a2dd1757167b7880fa9922d8b",
+    "simhash": "1:12250c25bea422c3",
+    "word_count": 2310
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Salter versus Reed."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nCoulter, J.\nIt is by no means necessary to impinge upon the dictum of Chief Justice Gtbson, so much relied upon by the defendant in error, to wit, that \u201cjudicial sales extinguish liens, not estates.\u201d The estate of the ground landlord, who had never manifested it by suitable means, was not properly extinguished by the first judicial sale on a judgment for municipal charges, in this aspect of the case; but he was estopped from asserting it by his own negligence. Even on the ground taken by the counsel for defendant in error, to wit, that the recording acts were made only for the benefit of subsequent purchasers -and mortgagees, the purchaser in this case would be protected, for he purchased without the least notice of the existence of the estate in the ground landlord, or opportunity of notice or knowledge. Thus the ground landlord, by omitting to put his deed on record, and neglecting to give notice of his title at the public sale, permitted, and, in fact, invited the purchaser to give full value.\nThe principle runs through the whole system of our recording acts, that the object is to give public notice in whom the title resides; so that no one may be defrauded by deceptious appearance of title.. He that won\u2019t speak when justice and the law require him to speak, must thereafter be silent when prompted by his own interest merely. The recording laws, like all other public laws, are intended for the benefit and security of the people generally.\nBut I may add that the laws for the collection of municipal charges for the purpose of improving the property, would seem to contemplate and authorize a proceeding in rem against the property itself, and, as such, would bind and conclude all persons concerned: 5th sec. act of 23d Jan. 1849, and the previous statutes on the subject. The case pf Irwin v. Bank of the United States, by which it was ruled that a tax sale for unseated lands did not destroy or extinguish a ground-rent for taxes, does not impugn this view of the case. The reason there given by the court was that both estates were liable to taxation and were both known, and that it was only the estate and interest of the tenant in fee that was taxed and sold. All right. But here the whole interest is taxed for the municipal charge. And the interest of the ground landlord has never been made separately liable to such charges. The case, therefore, on which, so much reliance was placed below, does not seem applicable.\nThe other ground on which the defendant in error relies cannot be sustained. . When the administrator of the tenant in fee confessed judgment for arrears of ground-rent, which had been running for a long time previous to death of decedent, and which had been almost entirely extinguished by the judicial sale, he did that which only bound the estate of decedent and himself, but which did not bind the estate of the purchaser at sheriff\u2019s sale, which divested the estate of Parke before his death. At this sale, Salter gave notice of his title. I know not with what view the judgment was confessed and prosecuted, nor is it material. This, however, is certain, that the purchaser at the judicial sale is not affected by it, being no party and never having received notice as terre-tenant or otherwise. It lies at the bottom of all jurisprudence, that no man shall lose his property without a hearing or an opportunity of being heard: Mitchell v. Hamilton, 8 Barr 486, and case cited at bar.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by 0. Fallon and J. M. Bead, for Salter, plaintiff in error.",
+      "Townsend and Price, for Reed, the defendant, the purchaser at the second sale.\u2014The"
+    ],
+    "corrections": "",
+    "head_matter": "Salter versus Reed.\n1. The object of the recording acts is to give public notice in whom the title to real estate resides, so that no one may be defrauded by deceptious appearance of title.\n2. Where a person conveyed ground to another, subject to ground-rent, but neglected to put his deed on record, and the grantee took possession and retained it for more than twenty-three years, and in the mean time the ground was assessed for municipal charges, the claim for the same being filed against the grantee as owner or reputed owner, and was sold at sheriff's sale on the judgment for the same, without notice being given of any claim against it by the ground landlord; the latter is estopped from disputing the title of the purchaser.\n3. The acts for levying and collecting municipal charges in the county of Philadelphia seem to contemplate a proceeding in rem against the property itself; and proceedings under them bind all persons concerned. The whole estate in the ground is charged.\n4. After the ground is sold at sheriff\u2019s sale for such a charge, in the lifetime of the ground tenant and in his name, if the administrator of his estate confess judgment in favor of the ground landlord for arrears o\u00b0f ground-rent, extending back for several years before the sheriff\u2019s sale, and the property is sold on such judgment after notice at the sale by the first purchaser of his claim of title, the latter not being made a party to such judgment, and no notice of the proceedings given to .him, his title will not be affected by the second sale.\nError to the District Court, Philadelphia.\nThis was an action of ejectment, by Stacey B. Reed vs. H. A. Salter, to recover a lot of ground on the Erankford road and Brown street, in Kensington. Salter, the defendant, claimed title as follows:\u2014\nClayton Earl conveyed the ground in question to Charles B. Parke, by deed dated 15th July, 1822; reserving ground-rent of $56 yearly. This deed was not recorded till 8th July, 1848, more than a year after the decease of Parke, who died about 1st July, 1846, in possession of the property, and of which he had possession since 1822.\nOn 26th September, 1845, a claim was filed in the Common Pleas against the property in dispute, in the name of \u201cthe Commissioners and Inhabitants of the Kensington District of the Northern Liberties vs. Charles B. Parke, owner, or reputed owner,\u201d for $40, for laying down iron pipes on the 5th September, 1845. On the claim a sci. fa. issued on the 12th March, 1846, which was made known by the sheriff by posting a copy of the writ on the premises, and publishing in the manner directed by the act of Assembly. In this suit, judgment was entered for plaintiff, a levari facias issued, under which the property was sold by the sheriff, and bought by H. A. Salter, the defendant, on June 1, 1846, for $475; and, on 6th June, 1846, a deed was duly acknowledge! and made to Mm by the sheriff. The deed, as also the sheriff\u2019s docket, shewed the distribution made of the $475, the proceeds of sale, and that, the residue thereof, after paying taxes which had been assessed in the name of Charles B. Parke, and claims, was paid by the sheriff to Mr. Price, on account of arrears of ground-rent. There was, no evidence whatever that when Salter bought he had any notice or knowledge of the ground-rent. Defendant also read the petition of the owners of property to the Commissioners of Kensington for the laying down of the water-pipes on the street in question; and the record of the proceedings on said petition, directing the iron pipes to be laid down: among other signatures to the petition are those of Clayton Earl and Charles B. Parke.\nReed, the plaintiff, claimed under a sheriff\u2019s sale in 1847, under the following circumstances:\u2014\nAfter the sheriff\u2019s sale, viz. on 29th May, 1847, an amicable action of covenant was instituted between Rebecca Earl and Townsend, administrator of the estate of Charles B. Parke, deceased. On the same day, a nwrr. and copy of the deed from Earl to Charles B. Parke were filed, and judgment confessed for plaintiff for $722.50, being for more than twelve years\u2019 arrears of rent. On the same day a fi. fa. was issued, the property was condemned, and subsequently sold by the sheriff to Heed, the plaintiff, for $100. At the sheriff\u2019s sale, Salter, the defendant, immediately before it, read a notice, as follows:\u2014\n\u201cNotice is hereby given, that the property now about to be sold, as the property of Charles B. Parke, deceased, is the property of Heliacal A. Salter, and that the purchaser will acquire no title under the present proceedings and sale.\nH. A. Salter.\nJuly 5, 1847.\nPlaintiff, Reed, gave in evidence the deed to him from the sheriff, dated July 10, 1847, and closed. The judge below directed the jury to find for the plaintiff, reserving the question whether the sheriff\u2019s sale to Salter discharged the land of the ground-rent. The jury found accordingly. Afterwards, the District Court, in banc, after argument on the reserved point, directed judgment to be entered for the plaintiff.\nIt was assigned for error:\u20141. That the judge erred in directing the jury to find for the plaintiff. 2. That the court below erred in directing judgment to be entered for the plaintiff.\n. The 8th section of the act of March 19, 1829, provides, that \u201cThe Board of Commissioners of the District of Kensington, &c. shall have full power, &c. to contract with the corporation of-the city of Philadelphia, &c. for introducing the Schuylkill or other wholesome .water into the said incorporated district: and upon the application in writing of ,a majority of thg owners of real estate in any square, &c. of any street, &c. &c. to' introduce into such square, &c. of any such street, &c. the Schuylkill water, &c.; and all the real estate fronting on such squares, &c. of such street, &c., and such other estate as shall make use of the same, shall and may he taxed by the said commissioners for all the expenses that may be incurred for or in laying the said pipes, &c., in proportion to the respective parts of the said real estate, &c., and shall be liable and chargeable respectively with the same; which taxes and the expenses of collection shall be a lien on the said real estate respectively, and shall be paid in preference to any subsequent lien on the same, &c. &.c.: and provided also, that all persons applying for the use of the said water on any street, lanes, roads, and alleys, where mains shall not be laid down, shall pay to the said commissioners a sum in proportion to the front of their respective estates.\u201d\nThe act of 16th April, 1840, in sec. 9, Acts of Assembly 412, empowers the commissioners of the incorporated districts to file claims, &c. for pitching and paving streets and alleys, laying down iron pipes, &c. &c. Sec. 10 provides, that the commissioners \u201cshall, in filing their claims for debts contracted as aforesaid, and remaining due and unpaid, set forth in the same the name of the owner or reputed owner of the premises, against which their claims are filed, and, as nearly as may be, an accurate description of the real estate against which the same is filed,\u201d &c. &c.; and the commissioners are authorized \u201c to proceed to recover the amount thereof by writ of scire facias against the real estate upon which it is a lien, which said writ of scire facias shall be served and proceeded upon to judgment and execution, in the same manner as is now provided for by law for mechanics and material-men, in the act of Assembly of this commonwealth, passed the sixteenth day of June, Anno Domini one thousand eight hundred and thirty-six, entitled 1 An act relating to the lien of mechanics and others upon buildings.\u2019 \u201d\nOn the 11th of March, 1846, an act was passed which provided for the issuing of scire facias on claims for taxes, municipal charges, and assessments, &c.\nThe case was argued by 0. Fallon and J. M. Bead, for Salter, plaintiff in error.\nThey contended that the claim was filed against the whole estate, and that the whole estate in the land free from ground-rent was sold: 1 Harris 801: 2 Bin. 146; 2 Barr 96.\n. A purchaser at sheriff\u2019s sale is within the recording acts: 2 Bin. 40. Purchaser not affected by articles of agreement of which he had not notice: 5 Ser. f B. 257.\nThe defendant may avail himself of any defence he may have to the scire facias: 1 Watts 491.\nTownsend and Price, for Reed, the defendant, the purchaser at the second sale.\u2014The\nowner of the ground-rent did not petition for the water-pipes. 2. There was no ground-rent received from the sheriff that should have been credited to the judgment. 3. It was received for arrears, and not for the principal.\nAfter Salter, the plaintiff, got his deed in 1846, ground-rents accrued; they were a lien, and the effect of the second sale for the same was to vest in the purchaser a title from the date of the ground-rent deed, avoiding all subsequent conveyances: Brown v. Johnson, 4 Bawle 146 ; Bury v. Sieber, 5 Barr 434; 7 W. & Ser. 259.\nSalter was not a purchaser without notice. He took Parke\u2019s title, with notice of what appeared on the face of it: 1 Story\u2019s Bq. 399, 400; 2 Pa. Bep. 439; 2 Caine\u2019s Cas. in Bq. 326\u2014333; 2 Barr 32.\nHe took the title of the person in possession: 2 Bawle 347; 4 W. 8q Ser. 218-223. It is like a treasurer\u2019s sale for taxes: 1 W. <$\u2022 Ser. 175 ; 5 Watts 288; 8 W. \u2021 Ser. 454; 7 Barr 74. Yet a sale made for taxes will not divest a ground-rent: Irwin v. Bank IT. S. 1 Barr 349.\nFebruary 27, 1851,"
+  },
+  "file_name": "0260-01",
+  "first_page_order": 260,
+  "last_page_order": 264
+}

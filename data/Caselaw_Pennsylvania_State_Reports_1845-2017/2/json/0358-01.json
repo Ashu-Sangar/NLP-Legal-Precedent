@@ -1,0 +1,97 @@
+{
+  "id": 951325,
+  "name": "Trotter v. Shippen",
+  "name_abbreviation": "Trotter v. Shippen",
+  "decision_date": "1845-04-25",
+  "docket_number": "",
+  "first_page": "358",
+  "last_page": "362",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts, 440",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838089
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0440-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 320",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Serg. & Rawle, 385",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Serg. & Rawle, 386",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 634,
+    "char_count": 12868,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.8539549411095707e-07,
+      "percentile": 0.7239281131834328
+    },
+    "sha256": "4793591b4ad2f9a731a4ff5d9a1a842025c7ffa0099023430cd110df76c9318d",
+    "simhash": "1:874e8a0f3f06f00d",
+    "word_count": 2310
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Trotter v. Shippen."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\n\u2014 An executor differs from a mere trustee so far, that a purchaser from him is not bound to see to the application of the purchase money. Still, as was said in Petrie v. Clark, 11 Serg. & Rawle, 386, a person dealing with him will not be protected, if he collude with him in a misapplication of the assets. Was the transaction between the company, or the owners of the property, and Mr. Nixon, the executor, collusive in fact or in law ? The company was not a debtor to the fund, but the lessee of premises in which it was invested, on the security of a mortgage; the interest on wdiich, it had agreed with its lessors, the owners of the property, to keep down in payment of the rent; and the extent of its obligation, legal or moral, was to pay it into the hand authorized to receive it. It was responsible to its lessors, standing in the place of the mortgagor; not to those beneficially entitled under the mortgage, with whom it stood in no privity, and to whom it owed no duly. With this contest, therefore, it would have had no concern, had it not been substituted for the owners of the premises as a stockholder in the case stated; and the question is, whether payment of interest in coal, for the executor\u2019s private use, would have been good, if made by the owners themselves, instead of by the instrumentality of their lessee.\nHad the coal been delivered subsequently to the arrangement, there would not, according to Petrie v. Clark, have been a doubt of the validity of the transaction ; for payment in coal is certainly as good as payment in coin, being not more readily diverted from its proper destination to the receiver\u2019s private use. Part of it, however, had been antecedently supplied, and this is cthe only part of the case that will bear an argument. The private debt of the executor, for the price of it, was defalcated from the debt due to him in his official capacity; and thus he paid his own debt with the assets. The case then stands as it would have stood had the owners of the property defalcated from the interest due on the mortgage, a private debt due from Mr. Nixon directly to themselves, except that they would have been privy to the act.\nIs there a difference in this respect, between a pledge and a payment ? There certainly is a difference between a pledge for a previous debt, and a pledge for a present advancement. In the case of the former, the pawnee cannot be said to have received the pawn for value; for the giving of further security for a previous debt without further consideration, is gratuitous. But it was held in Petrie v. Clark, that payment of an antecedent debt with the assets would be a disposition of them for value, and conclusive on the rights of the legatees, unless the transaction were tainted with actual fraud. The question then is, what constitutes it? In Andrew v. Wrigley, 4 Bro. Ch. Rep. 125, the purchase of a term, parted with in payment of the executor\u2019s debt, was not disturbed, it would seem, only because there had been long possession under it. This is the strongest case for the plaintiff that has been produced; for Crane v. Drake, 2 Vern. 616, was a case of absolute collusion. But neither of them comes up to the present. The one which most resembles it, is Keane v. Robarts, 4 Mad. Ch. Rep. 357, in which Sir John Leach said, that the rule which subjects a pawnee or purchaser to the consequences of participation in a breach of trust, by receiving the assets in pledge for antecedent advancements, or in payment of the executor\u2019s owrn debt, admits of exceptions; and the retention of moneys to the amount of previous remittances to the executors by their agents, in anticipation of receipts from the assets, wras held, in that case, to be one of them. The agents were held not to be answerable for any misapplication of their remittances, because they were not privy to any intention to commit it. Now, what had this company to do with Mr. Nixon, or any preconceived intention on his part ? It was merely the instrument of the owners to hand over the rent due to them, in payment of the interest on their mortgage. But if it be considered no more than a stakeholder, the liability of the owners for its dealings will be the same. Sir William Grant said, in McLeod v. Drummond, that \u201c where the inquiry is, whether the parly taking the assets by means of such a pledge, (for an antecedent advancement,) is or is not guilty of a fraud, it is very material whether he is endeavouring to procure to himself payment of a debt already due, and which the executor has no means of paying with his own money, or is exercising a choice whether he will or will not lend his money on the pledge there offered him. Undoubtedly, suspicion of fraud must always arise, when a party having a debt due to him by the executor, takes, in satisfaction of that debt, the assets which he knows belong to the executor only in that character; but where a man is applied to for a loan of money, there is no motive for fraud.\u201d According to this learned and most excellent judge, the transaction is good wherever the motive for it is clear; of which the time of the advancement, even in the case of a pledge, is only evidence. Now what inducement had the owners of the property to pay the interest of the mortgage with Mr. Nixon\u2019s private debt ? As he was believed on all hands, by himself as well as by every one else, to be abundantly solvent, the company would have received prompt payment from him had it been demanded; and as it was itself good to the proprietors of the property for the rent, they could have had no self-preserving purpose to answer in getting it from Mr. Nixon, who owed them nothing. The arrangement was one of mere convenience, to avoid circuity ; and the case stood on it as if the proprietors had drawn in his favour on their lessee, with whom he consented to settle the amount in the adjustment of by-gone transactions.. How are they responsible for that ? Had they paid the interest with their own money, in the first instance, knowing that they would get it back the next instant from the company, as rent, the payment would have been unexceptionable, though they had believed that Mr. Nixon would pay it to their lessee, in discharge of his private debt, because being compellable to pay it in any event, they would have had nothing to do with the application of it; and why should the event of a circuitous transit of it make it otherwise ? To hold it to be collusive, would be to hold every one who pays to an executor responsible for the application of money which he could neither withhold nor control: a consequence not less repugnant to convenience than to justice. On the case stated, therefore, the plaintiff is not entitled to recover.\nJudgment for defendant.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Chester, for plaintiffs.",
+      "Williams, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Trotter v. Shippen.\nAn executor holding a mortgage received coal for his private use, from the tenant, who had agreed to keep down the interest as part of the rent; he promised to endorse the amount on the bond, and on accounts, crediting him with the amount of the interest, being rendered, examined them without objection, continually repeating the promise to make an entry on the bond. Held, there being- no collusion, both parties considering tire executor a solvent man, the mortgagors were entitled to this credit for interest on the mortgage.\nError to the District Court.\nA judgment having been obtained by Trotter, administrator of Asp-den, on a sci. fa. upon a mortgage, it was, on motion to set aside the assessment of damages, referred to an auditorio settle the amount due. The question was on the right to certain credits for coal furnished to Nixon, the former administrator of Aspden.\nNixon, in 1829, purchased a bond and mortgage for $5000, which, in 1833, he marked by endorsement, as being the property of Asp-den\u2019s estate. The property covered by the mortgage was owned by Chauncey et al. In 1835, they demised it to the Little Schuylkill Railroad & Coal Company, for a term, after which the tenant continued in possession. By a separate agreement with the owners, the tenant was to pay the interest on the mortgage, and deduct it from the rent. In the years 1834 to 1840, inclusive, the company furnished Nixon with coal, in small quantities, varying from one to twenty tons at one time. On the 24th August, 1835, there was due on this account, for the two preceding years, $168 50. The total amount for the seven years was $1149 50.\nOn the 25th August, 1835, Nixon endorsed a receipt on the bond for $766 67, received from the company, which, with other sums from third persons, was in full for interest to July 1, 1835. This payment was in cash, at Nixon\u2019s request, being about to have a settlement of the Aspden estate.\nIn December, 1836, the company furnished Nixon an account of the coal delivered in 1836, and the balance on former account, with a credit for the interest due on the mortgage in that year,- and a balance struck. In 1839, an account was furnished of the coal for 1834, to 1839, inclusive, with a credit for four years five months, &c., interest on the mortgage, and balance struck.\nIn 1838, Nixon was furnished by the company with a bill of the arrears of interest as they became due on the mortgage.\nIn the ledger of the company, in 1840, he was charged with his coal account,.......$1149 50\nAnd credited with five years\u2019 interest, &c., - 1633 33\nBalance due H. N., - - - - 483 83\nNixon was a stockholder of the company. When the accounts were rendered, he promised to call and settle them; he came to the office and examined the books, and said he would bring the bond and make an entry on it of settlement; nor did he ever make any demand for interest, from the time of the cash payment until his death, though the company was always ready to pay it. ' One of the owners of the land supposed the interest had been endorsed as paid, under this arrangement. After Nixon\u2019s death, his executors settled his accounts as administrator, charging themselves wdth this amount, as received by him.\nThe auditor further found, that at the time of these transactions, Nixon was believed, both by himself and them, to be perfectly solvent, but whether his estate will prove to be so, depends on the result of a claim now pending.\nThese facts were relied on, as showing a payment of the interest by the company, on account of the rent, in coal.\nThe court gave judgment for the plaintiffs; disallowing the claim of payment by the company.\nChester, for plaintiffs.\n\u2014 The case is a very simple one : can an executor pay his private debts out of the trust estate ? It is perfectly well settled he cannot, and the party receiving such money is participant in the fraud, and liable to pay it over again. Petrie v. Clark, 11 Serg. & Rawle, 385, Colt v. Lasnier, 9 Cow. 320; Marshall v. Hoff, 1 Watts, 440.\nWilliams, contra.\n\u2014 There can be no question, if there be collusion, all parties are liable, as for a devastavit. But if the debt be paid in chattels, and they are then misapplied, the party so paying is not liable. [Gibson, C. J. \u2014 They included an old debt of the executor at the time of the arrangement.] That was small, and (he arrangement was a special one for mere convenience, all parties supposing him perfectly solvent. An unexpected termination of a law-suit, alone rendered the estate of Nixon insolvent.\nThe mortgage debt did not belong originally to the estate, but was a purchase by the executor; the action on it, therefore, would have to be brought formerly in his own name, or that of his representatives, and this debt could have been set off, 1 Wms. Ex. 569 ; 1 Baker v. Tolcott, 1 Vern. 474; Catherwood v. Shambaugh, 1 B. & C. 150 ; all the cases referred to on the other side, or cited in text books, on this point, go on collusion. [Gibson, C. J. \u2014 What is collusion?] Something 'mala fide; something intended to injure the estate; a mere delivery of chattels in payment cannot amount to it, and there is nothing more here. In the cases cited, nothing was actually received by the executor at the time. [Gibson, C. J. \u2014 The difficulty is this: a purchaser is bound to see to the application of purchase money, but that does not apply in the case of executors; but if he is a trustee, and the dealing is out of the ordinary course, would he not be bound ?] The court will observe there is no pretence of any fraud in the parties ; tire case then comes to this : a perfectly solvent man owes a debt; his creditor owes him one as trustee; they exchange, or mutually extinguish them, merely for convenience, instead of the formality of exchanging checks, which would be perfectly good. It would seem, therefore, the only question is, whether the want of that formality is fatal, and this to a party to whom it was indifferent how the payment \u2022was made. Meed v. Orrery, 3 Atk. 235; Key v. Robberts, 4 Mad. 450; McLeod v. Drummond, 14 Ves. 352.\nApril 25."
+  },
+  "file_name": "0358-01",
+  "first_page_order": 358,
+  "last_page_order": 362
+}

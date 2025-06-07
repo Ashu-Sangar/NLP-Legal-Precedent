@@ -1,0 +1,157 @@
+{
+  "id": 413750,
+  "name": "Bennett's Appeal",
+  "name_abbreviation": "Bennett's Appeal",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "476",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Pa. 476"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle 334",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle 401",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822529
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0401-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 300",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838046
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0300-01"
+      ]
+    },
+    {
+      "cite": "5 Wh. 125",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0125-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch. 682",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1978811
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/4/0682-01"
+      ]
+    },
+    {
+      "cite": "16 Pick. 553",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2022225
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/33/0553-01"
+      ]
+    },
+    {
+      "cite": "16 Mass. 317",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/16/0263-01"
+      ]
+    },
+    {
+      "cite": "23 Pick. 488",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 469,
+    "char_count": 9979,
+    "ocr_confidence": 0.434,
+    "pagerank": {
+      "raw": 5.0011153170616546e-08,
+      "percentile": 0.31347522577571124
+    },
+    "sha256": "a8d56b312ebc5ab8986a0efa90e2b0ee702fcbbc9b050838da9dd3c662ea64d3",
+    "simhash": "1:169d069c04daa10d",
+    "word_count": 1789
+  },
+  "last_updated": "2024-02-27T20:47:09.354529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bennett\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, J.\nIt is true that the 17th section of the Act of 16th June, 1836, declares that \u201cfrom the time of the service of the scire facias\u201d the personal property of the defendant, in the hands of such person, \u201c shall be bound thereby.\u201d But the subsequent clause explains the sense in which the Legislature used the word \u201c bound.\u201d After the provision that the goods shall be liable to be taken in execution, \u201c in like manner as goods or effects in the hands of the garnishee in a foreign attachment,\u201d it is added, \u201c and if such person shall transfer such property to any other person after such service he shall be liable to pay the value to the complainant, out of his own proper goods and chattels.\u201d The intention seems to be that if the goods remain \"in the hands\u201d of the respondent in the bill at the time the plaintiff takes out execution, they shall he liable to be taken in execution in like manner as goods \u201cin the hands of the garnishee in foreign attachment.\u201d But if the respondent in the bill shall \u201c transfer the goods to a third person after the service of the scirefacias,\" he shall be \u201cliable to pay the value thereof to the complainant out of his own proper goods and chattels.\u201d As this is the remedy expressly provided by the statute in case of a transfer after service of the scire facias, the rule of construction requires that the remedy thus provided be pursued, and excludes a resort to any other, founded upon the bill.' If the goods have been fraudulently transferred by the debtor they are open to seizure at the suit of any creditor who thinks proper to incur the risk, and to assume the task of establishing the fraud. The plaintiff in the bill has an equal right with the other creditors to enter the lists. If he chooses to resort to his execution he may do so. The course is open to all, and the most vigilant is, in general, the most successful. But if the property is protected from seizure during the delay which may arise before the bill can be brought to a hearing and final decision, the Act of Assembly may produce the very evils which it was designed to remedy. A lien upon personal property,'without seizure, to continue for an indefinite period, or to abide the uncertain event of a lawsuit, would be productive of so much embarrassment in the transaction of business, and is so entirely at variance with our legislative policy, that we cannot suppose the Act of 1886 was intended to create it. The Act admits of a construction less inconvenient in its results, and more in accordance with the established policy of the state; and that construction is adopted.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Dropsie, for appellant.",
+      "Hirst and A. Thompson, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Bennett\u2019s Appeal.\nBy the 17th section of the Act of 16th June, 1836, relating to executions, it is provided that, from the time of the service of the scire facias consequent upon a bill for discovery of the estate of a judgment debtor, the personal property of the defendant in the judgment, in the hands of another person, shall be bound (hereby, and shall be liable to be taken in execution by the plaintiff in such judgment, \u201c in like manner as goods or effects in the hands of the garnishee in. a foreign attachment;\u201d and if such person shall transfer the same to any other person after such service, \u201c he shall be liable to pay the value thereof to the complainant out of his own proper goods and chattels.\u201d\nHeld, that the remedy thus provided is the exclusive one, and that if the goods have been fraudulently transferred they are liable to seizure by any creditor of the debtor, the complainant being included. They are not protected from seizure by the bill of discovery and proceedings thereon.\nThis was an appeal by Joseph M. Bennett from the decree of the District Court, Philadelphia, overruling exceptions on his part to the report of an auditor relative to the distribution of proceeds of sheriff\u2019s sale, on executions by Jo^n C. Hunter and others v. the firm of J. & W. L. Ward.\nW. L. Ward and J. P. Ward were in the watch and jewellery business, Chestnut street, Philadelphia. The stock of watches and jewellery were levied on under a judgment in favor of E. H. Ward et al., and a large portion of the said stock was purchased by Townsend Ward, who gave his bonds to the judgment creditors. The business was continued in the same place.\nJ. M. Bennett obtained judgment against J. & W. L. Ward, in the said District Court, to September Term, 1851, for $1127.30; on which a fi.fa. was issued to the same term, No. 758, and which was returned \"nulla bona.\u201d\nOn 8th November, 1851, bis bill, under the 9th and subsequent sections of the Act of 16th June, 1836, relating to executions, was filed, for a discovery of the estate of the said W. & J. P. Ward. It was directed against' them and E. H. Ward, Townsend Ward, and others; and was served on all of the parties previous to the 15th November, 1851, it being served on Townsend Ward on 13th November, 1851.\nOn 11th December, 1851, the said stock in the possession of Townsend Ward was levied on under several executions against W. & J. P. Ward, the sheriff having been indemnified; and after a delay of some months, caused by the application of Townsend Ward under the Interpleader Act, which was ineffectual as he did not give security for the forthcoming of the property, the property was sold by the sheriff and produced about $10,000, a part of which, viz., above $2000, was the fund in controversy. Subsequently, Townsend Ward relinquished all claim.\nThe following was the order of the executions against W. & J. P. Ward:\u2014\n1. Execution of Grerritt & Smith, issued 12th December, 1851, left at sheriff\u2019s office on the same day. 2. T. C. Howell and Hunter\u2019s executions, issued December 16, and delivered to sheriff on the same day. 3. J. C. Duhadaway\u2019s, issued and delivered on 17th December.\nBennett\u2019s execution, though delivered first to the sheriff, viz., on 8th November, was returned nulla bona, as befor\u00e9 stated.\nOn the bill of Bennett a scire facias was issued on 8th November, 1851, returnable on the first Monday of December. On 9th December, 1851, a rule on defendants was taken to answer. Answers were filed, and various other proceedings took place; but on 29th May, 1852, a rule to vacate the appointment of the master and examiner in the proceeding, was made absolute, and no further proceedings in the matter took place.\nAn auditor was appointed to report distribution of the fund in dispute. Before him counsel of J. M. Bennett contended that Bennett, by his bill and subsequent proceedings under the Act of 1836, had acquired a right in or lien upon the property, out of which the fund, for distribution arose; that this right was divested by the sheriff\u2019s sale, and that therefore he was entitled to payment in the first place out of the fund for distribution.\nThe auditor decided against such claim, and reported in favor of the executions in their order.\nExceptions on the part of Bennett, to the report as disallowing his claim, were filed; but they were overruled by the Court, and the report was confirmed.\nProm such decree Bennett appealed, and the exceptions were to the award in favor of the execution creditors and not to him.\nIn section 9 of the Act of 16th June, 1836, relating to executions, it is provided that \u201cIt shall be lawful for the plaintiff in any judgment for the recovery of'money obtained in any Court of this Commonwealth, to have a bill for the discovery of the real and personal estate of the defendant in such judgment.\u201d By the 10th section the bill may be filed against the defendant in the judgment, and against any person having possession of such real or personal estate, or who may owe, or be accountable for or may have knowledge of the same; the bill to be filed in the Court in which the judgment is, or in the county in which the person, of whom the discovery is sought, resides. In the- 14th section it is provided that, upon the filing of such bill, it shall be lawful for the Court, or any judge thereof in vacation, to award a scire facias.\nSection 17. Prom the time of the service of any such scire facias \u201c upon any person, other than the defendant in the judgment, the personal property of the defendant in the hands of such person shall be bound thereby, and shall he liable to be taken m execution at the instance of the plaintiff in such judgment, in like manner as goods or effects in the hands of the garnishee in a foreign attachment ; and if such person shall transfer such personal property to any other person, after such service, he shall be liable to pay the value thereof to the complainant, out of his own proper goods and chattels.\u201d\nDropsie, for appellant.\nIt was contended that Bennett, by his proceeding under the Act of 1836, was entitled to preference in the distribution of the fund in dispute. Reference was made to 23 Pick. 488; 16 Mass. 317-318; 16 Pick. 553-5; 17 Id. 289; 4 Johns. Ch. 682; Id. 687.\nHirst and A. Thompson, contr\u00e0.\nIt was contended, 1. That Bennett had no standing in Court. He did not prove before the auditor the facts he alleged in support of his claim; and he did not show a final disposition of his proceeding. The answers to his bill denied any fraudulent complicity between Townsend and W. & J. P. Ward, and it lay upon Bennett to establish it.\n2. The bill gave him no right to payment out of the fund. In foreign attachment actual execution is necessary before the fruits of the judgment can be realized against the garnishee: 17th sec. of Act of 13th June, 1836; 7 W. & Ser. 219. A seizure of the goods was necessary to continue the lien: 5 Wh. 125; 9 Barr 351; 1 Watts 300. If the property be within the power and control of the sheriff, possession should be taken within a reasonable time: 3 Rawle 401. The statute of 1836 was passed not only to protect purchasers, but to settle the claims of execution creditors. If a levy be made merely to secure a debt, and not to obtain satisfaction of it, it is void against third persons: 3 Rawle 334."
+  },
+  "file_name": "0476-01",
+  "first_page_order": 478,
+  "last_page_order": 481
+}

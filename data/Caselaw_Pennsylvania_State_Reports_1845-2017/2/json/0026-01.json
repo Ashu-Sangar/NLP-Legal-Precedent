@@ -1,0 +1,103 @@
+{
+  "id": 951107,
+  "name": "Knox v. Herod and Wilson",
+  "name_abbreviation": "Knox v. Herod",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "26",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Serg. & Rawle, 156",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts, 227",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates, 443",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812702
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0443-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 185",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 247,
+    "char_count": 3497,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7492326772719182
+    },
+    "sha256": "88dad8b738c7ec910e9faad6b4c9be8305cd24ec2f45e1d69deee42862e982f9",
+    "simhash": "1:7edc00bb5dd3f097",
+    "word_count": 628
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Knox v. Herod and Wilson."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\n\u2014 A purchaser at a judicial sale has a right to recover the interest the debtor has (whatever that may be) at the time of sale. If a naked possession only, he succeeds to that right. But was the court correct in assuming that the debtor had the exclusive possession of the premises, and 'for that reason alone ruling out the evidence ? The defendant offered to prove that he, and those under whom he claims, are tenants in common with the debtor. If so, his possession (as is settled by numerous authorities) is their possession. It is begging the question to say that the debtor wras in the exclusive possession of the whole tract. The evidence rejected by the court is pertinent to that issue, and unless rebutted by clear proof of an actual ouster, or that the debtor held under a lease, it is conclusive on that point. It would seem that the agent of the purchaser was aware that Gooding held but an undivided third of the tract in right of his wife, and that he held the patent as a trustee for the parties in interest. It is not my intention to intimate an opinion on the title, which can only be decided understandingly when the whole question is before us. The nature and extent of Gooding\u2019s possession may hereafter be a matter of inquiry, and can only be determined after hearing the whole case. The defendant does not contest the purchaser\u2019s title to an undivided third, nor his right of possession as a tenant in common. A purchaser at sheriff\u2019s sale can succeed to no greater right than the debtor. And it cannot be that merely because the debtor is in possession, the purchaser can turn not only him out but his co-tenant also. Can he turn him round to an action of ejectment to re-instate himself in possession ? This would be an entire perversion of a salutary and conservative principle of law. The defendant would have much right to complain, as this verdict and judgment may hereafter be .counted as one on the rubber. . It would be doing him an injury to no useful purpose, as the title can be as well tried in this action as in any other. It is proper to remark, that if it should appear, when the whole case is brought out, that the parties are tenants in common, and that there is no ouster, ejectment is not the proper remedy, but partition.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Henigken and DeforcL, for plaintiff in error.",
+      "Veech, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Knox v. Herod and Wilson.\nIn ejectment, under a sheriff\u2019s deed, it is error to exclude evidence of a tenancy in common between the debtor and one admitted to defend as landlord to the tenant, who came in under the debtor.\nThis ejectment was founded on a sale of Gooding\u2019s estate, to whom a patent was shown and former possession, the original defendant succeeding him. Herod, who was admitted to defend as landlord, offered to show that the patent was obtained for the use of Griffith\u2019s heirs, of whom Gooding\u2019s wife was one, with knowledge to the purchaser, plaintiff, and that he, Herod, had purchased the estate of eleven of the heirs. The court rejected the testimony, on objection, as irrelevant.\nHenigken and DeforcL, for plaintiff in error.\n\u2014 The possession of one tenant in common is the possession of all. 2 Cr. Dig. 551. Hence we in effect offered to show we were in by an independent title. Hart v. Gregg, 10 Watts, 185.\nVeech, contra.\n\u2014 The patent was an absolute conveyance to Gooding, and we were entitled to hold as he held, with or without title. Culbertson v. Martin, 2 Yeates, 443; Young v. Algeo, 3 Watts, 227; Clark v. Vankirk, 14 Serg. & Rawle, 156."
+  },
+  "file_name": "0026-01",
+  "first_page_order": 26,
+  "last_page_order": 28
+}

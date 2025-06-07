@@ -1,0 +1,121 @@
+{
+  "id": 975892,
+  "name": "Koch versus Melhorn",
+  "name_abbreviation": "Koch v. Melhorn",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "89",
+  "last_page": "92",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 89"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 361",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848490
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0361-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. 110",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132785
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0110-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 475",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140957
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0475-01"
+      ]
+    },
+    {
+      "cite": "3 Penn. Rep. 18",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Whart. 325",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0325-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 503,
+    "char_count": 10199,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 1.652484952304244e-07,
+      "percentile": 0.6929888576515465
+    },
+    "sha256": "a3ed782269abfff21ef70c05e7e1822a1a8b6ecf41d273997c1ff068d4b58adf",
+    "simhash": "1:6dd5d485aed0d6f6",
+    "word_count": 1837
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Koch versus Melhorn."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodward, J.\nThis was an action upon a parol guarantee of a sealed note which Koch held against the borough of Erie, and which he transferred to Melhorn on account of stone delivered in 1846. There was an apparent discrepancy between the testimony of Samuel Melhorn and Myron Sanford, as to the time when the plaintiff below got the note, and out of this there grew up at the trial an embarrassing question as to the consideration of the alleged guarantee; but the jury settled the difficulty by finding, as the testimony of the Melhorns abundantly authorized, that the contract of guarantee was made at the time of the transfer of the note, and upon the same consideration. The assignment written by Spencer must have been subsequently made, and there was nothing in its terms to exclude the parol evidence of the guarantee.\nGranting the guarantee to have been duly proved, it is insisted that the plaintiff was not entitled to recover without showing that recourse had been had to the makers of the note, and due diligence used to enforce payment from them.\nThe guarantee of Koch, as proved by Samuel Melhorn, was, that the note was \u201c just as good as if he would give him (the plaintiff) the money \u2014 that he would insure it as good as gold and silver.\u201d There was no condition expressed that Melhorn should sue the makers; and, under the circumstances of the case, none can be implied. This note and another were made by the borough of Erie to one Dewey, for a town clock, with a condition expressed that the said clock should perform to the satisfaction of the borough officers. Koch held both notes; and, having transferred one to Melhorn, brought suit on the other against the borough, when it was proved that the clock was worthless, and Koch was defeated. Now this evidence tended to show that the note transferred to Melhorn was also worthless, and incapable of being recovered; and, if the jury so believed, the contract of guarantee was broken as soon as made, and Melhorn was under no obligation to pursue the borough. To warrant that a debt is as good as gold and silver is to warrant that it is founded on a legal consideration \u2014 that the debtor is of competent ability,; and that the debt will be paid on demand. If the debtor be' insolvent (3 Harris 293), or, for any other reason, the debt cannot be recovered, an action against him is not necessary to fasten the guarantor. But there were other circumstances in proof, in this case, which, if believed by the jury, relieved Mel-horn from all necessity to sue the borough. After he had demanded payment of the note, and learned that the consideration had failed, he offered to return it to Koch, who begged him to wait till his suit against the borough on the other note was decided, when he (Melhorn) would be sure to get his money \u2014 assuring him that that suit would collect both notes, and added that he would \u201c gain the suit as sure as the sun shines.\u201d Like many other over confident litigants, Koch was disappointed by the event of his suit. His note proved to be worthless, and that, the test of his own proposing, established the worthlessness of the note he had guarantied to Melhorn. Under such circumstances, the Court were very clearly right in holding that Melhorn might recover in this action, without proving a resort to legal remedies against the borough.\nThese observations dispose of all the errors assigned upon the charge of the Court, that wore pressed in the argument, or are worthy of notice.\nThe bills of exception to evidence are groundless. Eull proof of the loss of the note having been made by Mr. Babbitt, into whose hands it was traced, the secondary evidence was properly admitted. \u2019\nThe record of the unsuccessful suit, on the note retained by Koch, was most pertinent evidence as establishing, in connexion with the parol evidence, the failure of consideration of both notes.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "-, for plaintiff in error. \u2014",
+      "Babbitt, for defendant in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Koch versus Melhorn.\nWhere a note is transferred \"by a debtor to a creditor in payment of a debt, with a guarantee that it is good as gold, and will be paid when due, and it proves worthless, the contract is broken as soon as made, and the creditor is under no obligation to pursue the note.\nTo warrant a debt as good as gold and silver, is to warrant that it is founded on a legal consideration, that the debtor is of competent ability, and that the -debt will be paid on demand.\nWhere a debtor had transferred a note to his creditor, which he guarantied to be good, payment of which was refused by the maker at maturity, and the creditor demanded payment of the guarantor, who asked him to wait the event of a suit then pending, and he would be sure to be paid, and he waited accordingly: Held, that the creditor could recover against the debtor on the guarantee without previous resort to the maker of the note.\nError, to the Common Pleas of Erie county.\nThis was an action of assumpsit. The declaration set forth that defendant, Koch, being indebted to Melhorn, the plaintiff, in $107, transferred to him a note or obligation of the borough of Erie, given to H. Dewey, for $100, payable in two years, with interest, on account of said indebtedness; and that Koch, the defendant, at such transfer undertook and promised to the plaintiff that said note was good, and that it would be paid when due; but plaintiff avers that said note was not good, and was not paid when due, and was wholly worthless at the time of the transfer.\nThere was some conflict in the testimony as to the fact whether the guarantee was made at the time, or after the transfer; and hence arose a question as to the consideration of the guarantee; but this was settled by the verdict.\nIt was proved on the trial, by J. Melhorn, that the parties had a settlement, and Koch was found indebted to Melhorn; and that, after the settlement, Koch proposed that Melhorn should take the note on the debt thus found due to him, assuring him that it was just as good as gold for the amount, and guarantying that it would be paid when due: that Melhorn, upon these assurances, took the note: that, when due, payment was demanded, and refused by the corporate authorities on the ground that the note had been given in part payment of a town clock, warranted to be good, but which proved worthless: that the plaintiff then went to Koch and informed him of the demand and refusal, produced the note, and said that defendant had insured the payment of it: that defendant replied, \u201c.Just wait till the suit I have brought against the borough of Erie, on another note for the same clock, is over, and then you will get your money; for I will gain that suit as sure as the sun shinesthat plaintiff did wait till that suit was tried, and decided against defendant, Koch; and he still refusing to take back the note and pay the amount, this suit was brought.\nPlaintiff offered to prove the warranty and utter worthlessness of the cloelc for which' the note was given, which was objected to by defendant, and rejected by the Court.\nPlaintiff also gave in evidence the record of a suit, Dewey, for the use of Koch, v. the Borough of Erie, on a note of the same tenor and date as the one in question, except payable in one year, which recites the note as stating that it was in part payment of a town clock. Verdict for defendant. Affirmed on error in this Court.\nThe defendant proved by J. C. Spencer that he was not present when Melhorn got the note, but that he came with it to Koch, and insisted upon an assignment of it (as he said, by direction of Mr. Ball, the town clerk); and, by direction of Koch, the witness wrote upon the note the words, \u201c I assign all my right and title to Mr. Melhorn,\u201d to which Melhorn assented.\nThere was also evidence of the loss of the note guarantied, which was supplied by parol; to which exception was taken.\nThe foregoing are the material facts presented in the case. Those bearing specially on the questions raised will be found stated in the opinion of the Court. The verdict was for the plaintiff below, and defendant below took this writ of error.\n-, for plaintiff in error. \u2014\nThe note was under the corporate seal of the borough of Erie, and therefore a specialty, and an endorsement in blank would not make the endorser liable: 5 Whart. 325, Erevall v. Fitch. If there was a guarantee by Koch, it was special, and cannot be treated as a blank endorsement. The maker must be pursued in the first place: 1 W. & Ser. 203; and this, with due diligence, even if there was a warranty: Johnson v. Chapman, 3 Penn. Rep. 18. If a guarantee, it w'a-s of secondary character, and conditional, and plaintiff\u2019s remedies against other parties must be exhausted before he can have recourse to defendant: Parker v. Culverson, 1 Wallace, Jr., Rep. 149; 7 W. & Ser. 429. Parol evidence cannot be given to prove other agreements than those reduced to writing, unless fraud or mistake be shown: Sennett v. Johnson, 9 Barr 335; Brown v. Nickle, 6 Barr 390; Heagy v. Umberger, 10 Ser. & R. 339.\nBabbitt, for defendant in error. \u2014\nThe transfer of the note of a third party is not payment, if the party has been induced to take it by misrepresentations of his debtor as to its goodness: Pierce v. Drake, 15 Johns. 475; 6 Johns. 110.\nIf Koch had a suit pending involving the validity of both notes, and requested plaintiff to await the result, and as inducement assured him that he would then be paid, the jury might infer a waiver: McClurg v. Fryer, 3 Harris 293.\nThe contract of Koch was more than a guarantee. It is an express insurance of'the obligation to be as good as gold or silver. Nothing short of payment in coin would satisfy this, and the moment payment was refused, defendant had a right to his action for the breach of contract.\nA sealed note, endorsed \u201c I hereby agree to be security for the within amount,\u201d imports liability as surety, and hot as guarantor: Marberger v. Pott, 4 Harris 9. But if no more than a guarantee, plaintiff would be excused from suing by showing that from any cause such suit would be of no avail, as insolvency of the principal: McDoal v. Yeomans, 8 Watts 361; McClurg v. Fryer, 3 Harris 293; for the law requires no man to do a vain thing. -"
+  },
+  "file_name": "0089-01",
+  "first_page_order": 89,
+  "last_page_order": 92
+}

@@ -1,0 +1,73 @@
+{
+  "id": 977366,
+  "name": "Frankstown Township Road",
+  "name_abbreviation": "Frankstown Township Road",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "472",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 472"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 A. L. R. 441",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 4290,
+    "ocr_confidence": 0.429,
+    "pagerank": {
+      "raw": 3.9623107566590393e-07,
+      "percentile": 0.9043216419181196
+    },
+    "sha256": "da58869196fa65b315e6303f989806f50fc2420edc14d8aa127a304629bc54da",
+    "simhash": "1:c414eeec1ea71013",
+    "word_count": 793
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frankstown Township Road."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nThe first section of the general road law of \u25a01836 gives the Courts of Quarter Sessions power to appoint road viewers, to view the ground and \u201c make report of their proceedings to the respective court at the next term.\u201d The third section says, \u201cthe viewers as aforesaid shall make report at the next term of the said court.\u201d In Stauffer\u2019s Appeal, 1 A. L. R. 441, we decided in 1853 that this act means what it says, and that if, for any sufficient reason, the report cannot be made at the next term, the proper course is to apply to the court to continue the order, and to make it returnable to the next succeeding term.\nIn this case, the viewers were appointed at the June Sessions of 1852, to report to the October Sessions, but no report was made. At December Sessions a continuance was entered and a new viewer appointed. The next term was March, 1853, at which there was no report, but an Act of Assembly having provided for a term in April, the report came in at the sessions of that month.\nAgainst such a practice there stands the Act of Assembly and the decision of this court, cited above. What is urged in favour of it ? Simply that the plaintiff in error did not except in the court below, and for this two cases are relied on (5 Harris 117, and 6 Harris 239), neither of which involved the present question. There are certain expressions in the opinions in those cases which are to be taken with a qualification. When it is said that all irregularities and errors to which exceptions are not taken in the Quarter Sessions will be considered as waived, the court must be understood as excepting such as appear on the face of the record.\nWe are a court of review, to hear and determine all and all manner of pleas, plaints, and causes which shall be brought or removed from any other court of this Commonwealth; to examine and correct all and all manner of error of the justices, magistrates, and courts of the Commonwealth, in their process, proceedings, judgments, and decrees; and when a citizen, by appropriate process, brings before us a record of an inferior court, and points out a clear error therein, it is difficult to imagine any excuse that will justify us in refusing to correct it. If we say he should have complained below, he may answer as this plaintiff in error did, that he had no notice of the proceeding until it was too late. But if he answer not at all, or if he say he chose to rely on his writ of error, which is a writ of right, I see not how he is to be denied the justice he demands.\nIt was error in the court to award a view returnable to any more distant term than the next term, or to confirm a report made in pursuance of an order abandoned or not followed up as the statute prescribes.\nThe decree of the Court of Quarter Sessions, and all the proceedings, are reversed and set aside, at the costs of the petitioners for the road.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Blair, for plaintiff in error.",
+      "Calvin, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Frankstown Township Road.\nIt was error in the court to award a view returnable to any more distant term than the next term; or to confirm a report made in pursuance of an order abandoned or not followed up as the statute prescribes.\nTo the rule, that all objections to proceedings in road cases not made in the court below, will be considered by this court as waived; such errors as appear on the face of the record must be considered as exceptions.\nCertiorari to the Quarter Sessions of Blair county.\nIn June, 1852, a petition was presented to the court, praying for the appointment of viewers, to lay out a road from a public school-house in Frankstown township, to the summit of Canoe .Mountain. On the 9th of December, 1852, the order issued; on the 21st of the same month the order was continued; and at April Sessions, 1853, the report was made, and the road ordered to be opened. On the 18th of February, 1854, the report was read a second time, and that part of the report laying out the new road confirmed, and that part vacating the old road not approved. The order to open issued March the 8th, 1854.\nThe errors assigned were\u2014\n1. The confirmation of the report of viewers, made and returned at the fourth term after the order to view, was irregular and void.\n2. The order to open was prematurely issued.\nBlair, for plaintiff in error.\nCalvin, contr\u00e1."
+  },
+  "file_name": "0472-01",
+  "first_page_order": 472,
+  "last_page_order": 473
+}

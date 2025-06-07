@@ -1,0 +1,66 @@
+{
+  "id": 401907,
+  "name": "Cothers v. Keever",
+  "name_abbreviation": "Cothers v. Keever",
+  "decision_date": "1846-10-05",
+  "docket_number": "",
+  "first_page": "168",
+  "last_page": "168",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 168"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 119,
+    "char_count": 1757,
+    "ocr_confidence": 0.586,
+    "pagerank": {
+      "raw": 1.4777309008885894e-07,
+      "percentile": 0.6604914031667484
+    },
+    "sha256": "c38a87b4ce2ec146a9d2b789fe0df098f457649a5e0c4a84fc5c604ec6813d0d",
+    "simhash": "1:cb466d334d7e71ab",
+    "word_count": 333
+  },
+  "last_updated": "2023-07-14T19:57:13.703465+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cothers v. Keever."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe court truly stated the measure of the damages to be the difference between the value of the horse in a sound state, and his value in the diseased state ; but the plaintiff in error proposed to substitute for it the difference between the value in a diseased state and the price he gave, and thus to retrieve the loss he suffered, not by the breach of the warranty, but by the terms of the bargain, taking the horse to be sound as he was warranted to be. It is impossible also to see what the value of the horse he gave in exchange had to do with the matter. If he made a bad bargain, assuming the horse he got to be sound, he is not to be reimbursed what he lost by his simplicity, as damages for a breach of the warranty. The defendant in error must make his warranty good or pay the difference; but he is not bound to surrender any advantage he fairly obtained by the bargain, and the court allowed him to retain no more. Judgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Sutton and Howe, for plaintiff in error.",
+      "Lathy, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Cothers v. Keever.\nThe difference of value between the article in a sound or unsound state is the measure of damages for a breach of a warranty, without regard to the price given.\nOct. 1. In an action of debt on a note, the defence was a breach of warranty of a horse sold by defendant in error to the plaintiff in error. It was proved that the horse was warranted sound excepting in one particular, and that he was in fact otherwise unsound.\nThe question was, the measure of damages, the court instructing the jury the value of the horse given in exchange was immaterial, as the measure of damages was the difference between the value of the horse sold with a warranty, if he had turned out to be as warranted, and his actual value.\nSutton and Howe, for plaintiff in error.\nLathy, contra.\nOct. 5."
+  },
+  "file_name": "0168-01",
+  "first_page_order": 168,
+  "last_page_order": 168
+}

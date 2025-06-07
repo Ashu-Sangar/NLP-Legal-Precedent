@@ -1,0 +1,188 @@
+{
+  "id": 998465,
+  "name": "Horstman versus Gerker",
+  "name_abbreviation": "Horstman v. Gerker",
+  "decision_date": "1865",
+  "docket_number": "",
+  "first_page": "282",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Pa. 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Jones 316",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 217",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477827
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0217-01"
+      ]
+    },
+    {
+      "cite": "4 Dall. 62",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Dall. 49",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Johns. Rep. 325",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Grant 281",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        229145
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/3/0281-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 225",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dall. 444",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12150153,
+        1408556
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0444-01",
+        "/us/1/0458-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 23",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12125056,
+        1408444
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0023-01",
+        "/us/1/0025-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 242",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Jones 316",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "pin_cites": [
+        {
+          "page": "419"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Dall. 23",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12125056,
+        1408444
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dall/1/0023-01",
+        "/us/1/0025-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 829,
+    "char_count": 20008,
+    "ocr_confidence": 0.489,
+    "pagerank": {
+      "raw": 4.664111027658766e-07,
+      "percentile": 0.9276961707033885
+    },
+    "sha256": "a86dcea717df533a0cec2db6a4bffbea55fd96594dcb0f6159f3432bf380090c",
+    "simhash": "1:b5ec0705f21bdcb9",
+    "word_count": 3641
+  },
+  "last_updated": "2024-02-27T21:13:48.159806+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Horstman versus Gerker."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\nIt has long been settled in Pennsylvania that a mortgage is but a security for the payment of money, or the performance of some act therein stipulated : Simpson v. Ammon, 1 Barr 175; Wentz v. Dehaven, 1 S. & R. 312; Schuylkill Co. v. Thoburn, 7 Id. 419; McCall v. Lennox, 9 Id. 304; Croft for use v. Webster, 1 Rawle 242, and is at most but a chose in action. Although it may be assigned so as to permit the assignee to sue in his own name, yet it is subject to the same equities and rules that govern in the assignment of other non-negoti-able instruments or claims. In the case in hand the plaintiff took the assignment from the assignor Persch, without a call on the mortgagor or giving him notice that he held the assignment, until after the mortgagor had taken up the notes and obligations for which Persch held it as collateral. The mortgage was framed to meet such a contingency, by being drawn payable in five years. It would thus allow a discharge any time within that period. The plaintiff endeavours to avoid the consequences of the want of notice to the mortgagor, by alleging that the payment by the defendant without the presence of the mortgage was at his risk, or would only be good if the instrument remained unassigned in the hands of the holder. The point is thus raised that between two innocent parties the loss must be upon the party paying under such circumstances. But this is not so. This point is most distinctly settled in Burg, Assignee of Buckley, v. Hartman, 4 S. & R. 175, in which Tilghman, C. J., says in the case of the assignment of a bond, \u201c The assignment operates as a new contract between the obligor and assignee, commencing upon notice of assignment. Any other construction would be extremely inconvenient, for the obligee would never be safe in paying the interest or part of the principal, unless the bond was produced and receipt endorsed. This would be throwing a great hardship on one who might live at a distance from the obligo^ and who has to send his money by a third person. Besides, there is a default in the assignee who neglects to give notice and therefore does not stand in equal equity with the obligor.\u201d Duncan, J., in a seriatim concurring opinion, fully agrees with the Chief Justice in this doctrine. See also Wardell v. Eden, 2 Johns. Ch. Cases 260, cited by both. Although Gibson, J., dissented, and continued on the bench long after his colleagues, the doctrine was never changed. This authority, in fact, covers every point raised in this case, and conclusively rules them against the plaintiff in error. It has been decided over and over again, beginning perhaps with Wheeler, Assignee, v. Hughes, 1 Dall. 23, that the only object of the Act of 1715, regulating assignment, of bills and specialties, was to enable the assignee to sue in his own name. The clause in the Act that the assignee may recover \u201cso much as shall appear to be due,\u201d was said in the cases last cited, to refer to what shall be due at the time of the trial. So that, if the obligor or mortgagor shall have without notice paid to the obligee or mortgagee, the authorities cited conclusively show that it shall avail him as payment against the assignee who has neither inquired of him about the state of his indebtedness, nor given him notice of the transfer. There is not the shadow of a reason to confine the doctrine to bonds and not to mortgages. It is a principle of sheer justice: and has been applied to assignments of judgments: Fisher v. Knox, 1 Harris. The defendant had satisfied the mortgage by paying and taking up the paper to which it was collateral. This he had a right to do. He did not become the debtor of the plaintiff by notice of the assignment before doing this, and of course not afterwards by force of the assignment alone. There is an implied covenant in the words of assignment unless controlled, that the assignor will not receive the money on the instrument assigned, but if he does he will pay it over to the assignee. Of course, this is the assignee\u2019s only security until he gives notice to the obligor : 4 S. & R. supra. If he has lost here for want of notice, the assignor is his only resort.\nWe see nothing to correct in this record, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "A. U\". Parsons and Samuel Robb, for plaintiff in error.",
+      "JUrety, with whom was Gr. W. Wharton, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Horstman versus Gerker.\nReciprocal rights and duties of holders and assignees of non-negotiahle * instruments.\n1. The assignee of a mortgage, though allowed to sue in his own name, takes it subject to all the equities in favour of the mortgagor, existing at the time of the assignment.\n2. Where a mortgage \u201c payable in five years\u201d was subsequently assigned as collateral security for the payment of certain promissory notes held by the assignee, who afterwards assigned it to another, of which last transfer no notice was given to the mortgagor, nor call made on him, nor record made for over two years nor interest demanded of him, until after the mortgagee had delivered up the notes for the security of which the first-assignment had been made; Held,\n(1) . That the mortgage was by its terms payable at any time within five years fixed for payment.\n(2) . That the mortgagor having, without notice of'the assignment, satisfied the mortgagee by taking up the notes to which it was collateral, it was a valid payment against the assignee, who had neither inquired of the mortgagor of the state of his indebtedness nor given him notice of the transfer.\nError to the District Court of Philadelphia.\nThis was a seire facias on a mortgage, brought by Frederick Horstman, assignee of John P. Persch, who was assignee of A. C. Miller, against Henry Gerker.\nThe mortgage was made by Henry Gerker, in favour of August C. Miller, on the 15th of June 1861, to secure the payment of the sum of $6000, in five years from date, and afterwards, at the request of Mr. Gerker, assigned by Miller to John P. Persch, as collateral security for the payment of certain -promissory notes made by H. Gerker, Son & Co., then held by said Persch. Henry Gerker had been many years in the business of manufacturing glue, curled hair, &c., and having accumulated a large property, and become advanced in years, formed a copartnership under the name of H. Gerker, Son & Co., in which he was the capitalist and pidncipal partner. The business resulted in profit until the financial difficulties of 1857, followed by those of 1860 and 1861, found them with large stocks of manufactured and unmanufactured goods on hand, purchased at high prices, without a market for their sale, except at ruinous prices, a large amount of real estate, expensive machinery, heavy expenses, no trade and but little money, debts to be carried forward loaded with accumulated and growing interest, the result of which was that in May 1861 their paper went to protest. H. Gerker, Son & Co. had borrowed .from August C. Miller large sums of money, and to secure him in part, Mr. Gerker gave to Mr. Miller several mortgages on his own separate real estate, in which the firm of H. Gerker, Son & Co. had no interest.\nAfter the failure of H. Gerker, Son & Co., it appeared that John P. Persch held a considerable amount of the promissory notes of H. Gerker, Son & Co., which he had bought or discounted, and he set' about to obtain such security as he could get. He induced Mr. Gerker to ascertain if Mr. Miller would not transfer some of his securities to him, provided he would give time. Mr. Miller consented, and Mr. Persch was allowed to select from mortgages made by Mr. Gerker to Mr. Miller, and the mortgages so selected (of which the mortgage sued on in this case was one) were transferred by Miller to Persch, on the 4th of September 1861, under a verbal agreement between Miller, Gerker, and Persch, that he, Persch, would hold said mortgages as collateral security for the payment of the promissory notes of H. Gerker, Son & Co., which he then held, and that on payment of the notes or part thereof, such amounts of the mortgages corresponding with the amounts paid would be transferred back by him, Mr. Persch, to Mr. Gerker. This agreement, made on the 4th of September 1861, was put in writing on the 25th of October 1861. On the 10th of March 1862, the notes held by Persch were paid by a sale to him and Miller of the firm\u2019s business, fixtures, &c., of the firm, and were given up to Mr. Gerker, and the bonds and mortgages held by Persch as collaterals demanded. Mr. Persch said: \u201c I have them all but one, that is in New York; I am going to New York, and on my return I will transfer them back and give them up to Mr. Gerker.\u201d\nIt appeared by the evidence that on the 7th of September 1861, three days after he obtained the collaterals, he assigned one of them, to wit, that now sued upon, to Mr. Horstman, the plaintiff in this case, who took it without-asking Mr. Gerker any questions, or giving him any notice, or in any way making Mr. Gerker a party to the assignment, nor did Mr. Gerker know of the assignment of the mortgage by Mr. Persch to Mr. Horstman, until a long time after it took place, and about two years after the notes were paid. The first notice Mr. Gerker had of the assignment of the mortgage by Mr. Persch to Mr. Horstman, was when this suit was brought. Mr. Horstman never, called on Mr. Gerker for any interest on the mortgage, nor did he put his assignment on record until two years and two months after it was made, viz., until the 7th of November 1863. There was no proof of the consideration between Mr. Persch and Mr. Horstman, but it was shown on the trial that Persch was largely indebted to Horstman.\nThe notes which had been paid and given up by Mr. Persch to Mr. Gerker, were produced at the trial in court by the defendant.\nAfter the testimony had closed on both sides, showing in substance the above case, the learned judge directed the jury to find for the defendant if they believed the evidence; which was the error assigned.\nA. U\". Parsons and Samuel Robb, for plaintiff in error.\nThS question is this, Whether the payment by the obligor of a morffgage to the assignee, more than four years before it is due, and the time of payment has arrived, it then being held by a second assignee bond fide for money paid therefor, is a valid payment, without the mortgagor requiring the production of the mortgage, and demanding satisfaction to be entered of record ?\nAs an answer t'o this proposition, we rely on the Act of Assembly of the 29th of May 1715, and contend that this act gives to the assignee all the rights which the original holder or obligee had at the time of the assignment; that is, the assignee was-entitled to all the money then due from the obligor, or which would become due when the day of payment arrived: Purdon\u2019s Dig. p. 93, pl. 1, 2, 3, 4, 5, 6, 7, and 8.\nThis act gives the same right of action which the obligee had when the assignment was made. In this case the obligor had no defence when the first assignment was executed to Persch. He had none when the second assignment was made to Horstman, the plaintiff. Then comes the proviso in said act: \u201c That it shall not be in the power of the assignors, after assignment made as aforesaid, to release any of the debts or sums of money really due by the said bonds, specialties, or notes.\u201d How would or could the mortgagor think of making a payment without the production of the bond and mortgage; when, if Persch had made an assignment, any payment made to him would be in violation of an express provision of an Act of Assembly. It will be in vain to search\u2019-for any ease showing that where a man has paid money on a mortgage, in direct violation of law, and before the money was due on the bond, the obligor has been protected in any such payment. In Wheeler v. Hughes, 1 Dall. 23, the money was due, and the court there say that notice is necessary. Cummins v. Lynn, 1 Dall. 444, is decided upon the ground that the assignment was not made according to the Act of Assembly, in the presence of two witnesses. Inglis v. Reede, 2 Dall., was the assignment of a legacy which is not within the Act of 1715, and all that is said in that case would not apply in the present. The chief justice says : \u201c There is no law that requires a first assignee to notify a subsequent one.\u201d In the case of Berry v. Hartman, 4 S. & R. 175, it was decided that where a bond was due, a payment made to the obligee, after the assignment had been made without notice to the obligor from the assignee, was a valid payment. But that case is distinguishable from the one before the court in various particulars.\n1st. That was a bond.; ours is a mortgage, and affects real estate; to release the land from the lien, satisfaction upon record is usually required.\n2d. The plaintiff is a second assignee.\n3d. The money was not due upon the mortgage for nearly five years from the time the payment was made, nor was there then any interest due.\nNor has it been ruled in any case that where a bond, single bill, or mortgage was not due for nearly five years, that a second assignee was required to give notice to the obligor; or that aman paying the money to an obligee or assignee without requiring the production of the mortgage and its satisfaction against a bond fide holder has been protected.\nThe Act of Assembly seems to have been intended to protect an assignee like the present plaintiff. The original holder had no right to demand the money when the assignment was made. The mortgagor had no right, power, or authority to require the mortgagee to accept the money until it was due. The plaintiff accepted an assignment, knowing the legal rights of the parties. That he could not demand the payment of the money for five years from the 15th July 1861, and the assignment was made to him in less than two months after the mortgage was executed. Was he then bound to give notice to the obligor ? We think not, because he could not demand the money, nor be compelled to receive it. Therefore the ruling of the court in Berry v. Hartman, 4 S. & R., is without application in the present cause, and we beg leave to submit whether the dissenting opinion by one of the learned, judges who heard that cause, is not what the law was intended when the Act of 1715 was passed. The case of Baldwin v. Billingsby, 2 Vernon 539, would seem to rule this. There a trustee parts with the possession of the bond, although given to him in trust, and subsequently he receives a payment from the obligor, and the court held the payment bad. See also Craft v. Webster, 4 Rawle 225; Mott v. Clark, 9 Barr 339; Taylor v. Gitt, 10 Id. 431; Davis v. Barr, 9 S. & R. 137; Pryor v. Wood, 7 Casey 142; Wetherell\u2019s Appeal, 3 Grant 281. Had Gerker demanded the production of the mortgage when he made the payment, he would have suffered no loss, for then he would have learned that the mortgage was held by the plaintiff. But independently of decided cases, it is submitted that the proviso in the Act of 1715 protects the plaintiff from any loss. The real meaning of the proviso is this, that an obligor should not pay the debt before it is due, so as to defraud an assignee for value, one who had in good faith paid his money; and besides this, the justice of the case is with the plaintiff.\nJUrety, with whom was Gr. W. Wharton, for defendant in error.\nThe true question is: Has the obligor a right to redeem securities not negotiable, held by another as collaterals, for the payment of a debt of the obligor, by the payment of the primary debt ? The defendant, as obligor, had the right, and could redeem the collaterals by the payment of his primary debt to his creditor; and it matters -not in whose hands the collaterals are. If the obligor has not had notice of the transferor assignment, the payment of the primary debt releases him and redeems the collaterals. Without notice of a change of status, it was the duty of the defendant to pay his debt to his creditor, and by such payment all the securities given to secure the payment are redeemed, become the property of the defendant, and, if created by him, cease to have any further existence.\nAs to the payment, four years before it was due : In this case the defendant retained the option to pay at any time within five years \u2014 by his covenant to pay in five years from the date of the bond and mortgage which means within five years, or at any time within five years, and not as plaintiff contends, after five years from date. It is a common thing for parties to bargain for and pay to secure an option as to the time of payment; hence the difference in form of the covenants.\nIn the present state of the currency the option as to time of payment is of much value.\nThe question therefore is, can a holder of sealed instruments of writing as collaterals, assign or transfer them to others and the assignees hold them and make them good, without inquiry of, or notice to, or making the obligor a party to the assignment ? We contend that it cannot be done, so as to preclude the obligor from showing payment.\nThe mortgage was not made at the time the notes were made, nor with any reference to the notes. The notes were issued by H. Gerker, Son & Co., in the current course of their business, and bought by Mr. Persch, and it was not until other paper of IP. Gerker, Son & Co. went to protest and Mr. Persch demanded other security, that he obtained an assignment of the mortgage as collateral security for the payment of the notes he held.\nThis assignment of the mortgage from Mr. Miller was under an agreement made at the time between Mr. Miller, Mr. Gerker, and Mr. Persch, that he, Mr. Persch, would hold the mortgages \u00e1s a collateral security for the payment of the notes then held by him, Persch, against H. Gerker, Son & Co.\nA few days after the assignment of Miller to Persch, the latter, in fraud of his agreement with Miller and Gerker, assigned the mortgage to Mr. Horstman, the plaintiff here.\nNo notice of the transfer by Mr. Persch to Mr. Horstman was ever given to Mr. Gerker, nor was any demand ever made for any interest; the assignment from Persch to Horstman, the plaintiff, was not recorded until after the lapse of two years and two .months from its date. The first intimation or knowledge Mr. Gerker had of the assignment from Persch to Horstman was when this suit was. brought, more than two years after the col-laterals had been redeemed by Mr. Gerker.\nIt is not averred or contended for that the debt, to secure which the mortgage was given, was ever assigned by Persch to Horstman.\nIn general, a mortgage is now viewed in a court of law in the same light as in a court of equity. The debt is the principal thing. The right of the mortgagee in the land is a mere incident, inseparable from the debt; and the interest of' the mortgagee passes in all cases with the debt, and it is not within the Statute of Frauds, because it is a mere incident to the^ebt, has no value independent of the debt, and cannot be separated from it: Southern v. Mendun, 5 N. Hamp. Rep. 432.\nA debtor is justified in making payment to the original party when the instrument is not assignable until he has notice of the assignment, and the assignee takes the mortgage subject to all equities between the original debtor and payee, more especially when the assignment is made to secure a pre-existing debt.\nAn assignment of a mortgage without assigning the debt passes nothing: Johnson ex dem. Curtis & Bronson, 19 Johns. Rep. 325; See also Powell on Mortgages, 153 n., Id. 906 n.; 2 Vern. 428, 692, 764; 1 Bacon 381, Bouv. ed. Assignment; Sugd. on V. & P. 314; Wheeler v. Hughes, 1 Dall. 23; 2 Dall. 49-50; 4 Dall. 62, Appendix xxi; Inglis v. Inglis, 2 Dall. 49; Ryall v. Rolles, 1 Ves. 367: Bury, Assignee of Buckley, v. Hartman, 4 S. & R. 174; Id. 183; Hodgdon v. Naglee, 5 W. & S. 217; Brindle et al. v. McIlvain, 9 S. & R. 74; Commonwealth v. Watmough, 2 Jones 316; Mathews v. Willuyn, 4 Ves. 126.\nThe case of Blair v. Mathiot, Leg. Int. September 23d 1864, cited by the plaintiff, was ruled on points that do not arise in this case."
+  },
+  "file_name": "0282-01",
+  "first_page_order": 284,
+  "last_page_order": 291
+}

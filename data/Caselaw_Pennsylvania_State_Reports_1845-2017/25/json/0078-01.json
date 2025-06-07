@@ -1,0 +1,103 @@
+{
+  "id": 975843,
+  "name": "Stephens versus Shriver",
+  "name_abbreviation": "Stephens v. Shriver",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "78",
+  "last_page": "80",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Pet. 276",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 337",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0337-01"
+      ]
+    },
+    {
+      "cite": "3 Whart. 110",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833430
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0109-01"
+      ]
+    },
+    {
+      "cite": "3 P. R. 388",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 278,
+    "char_count": 3905,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 8.431403558356252e-08,
+      "percentile": 0.4840046659090935
+    },
+    "sha256": "911756edafd213cb338418c73a09cdf4b710ddb3809635a6bf7001e9740b6e50",
+    "simhash": "1:7a61d03ddd75e748",
+    "word_count": 704
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephens versus Shriver."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J.\nIt is not at all necessary that partition fences should go to ruin because of the owners being in litigation about their lines; indeed, this could only add to their difficulties. If there he, in fact, a partition fence, the duty of contribution to maintain it exists, and neither party can excuse himself from this duty by alleging, whether sincerely or falsely, that the line is in dispute; and the law relating to fences contemplates no such mode of suspending the remedy which it provides. The jurisdiction of a justice of the peace to enforce contribution under the fence law is not ousted by raising a question of title to the land. If the lines need correction, let it be made; and then it is easy to set the fence right. It seems that the parties did correct this line before the repair was made.\nWe need not say what the law of the case would have been, had the plaintiff below been proceeding in the ordinary form of an action upon a contract; for this action commenced not thus, but according to the directions of the fence law.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Montgomery and Sayers, for plaintiff in error.",
+      "Downey and Wiley, for defendant in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Stephens versus Shriver.\nWhere there is in fact a partition fence, the duty of contribution to maintain it exists \u2014 and neither party can excuse himself from this duty by alleging that the line is in dispute.\nThe jurisdiction of a justice of the peace under the fence law to enforce\" contribution is not ousted by raising a question of title to the land.\nError to the Common Pleas of Gfreene county.\nThis was .an appeal from a justice of the peace. The plaintiff below claimed $10 awarded to him by fence- viewers, for work done in making a partition fence. The declaration was in assumpsit; the plea non assumpsit: verdict for plaintiff, $12.80.\nThe auditors who viewed the fence reported that it would' cost $10 to make a sufficient fence.\nThe plaintiff below built the fence, but removed it from the foundation on which it had stood many years, westward, about a rod, more or less, into the field of Stephens, the defendant below, and took from Stephens\u2019s field a rod of land in breadth and sixty rods in length, and a row of cherry-trees. The parties differed as to the line and corners. The defendant contended for the old line, and the plaintiff for the new one.' But it was insisted that as the title to land came in question, the justice had no jurisdiction.\nIt was in proof that, while the line was running and being staked out, the defendant below made no objection to it.\nMontgomery and Sayers, for plaintiff in error.\nThe proceeding originated under the fence law of 1842, and is to be conducted under the Act of 1810, giving jurisdiction to justices in all actions on contracts, excepting when the title to land may come in question, and under this statute it is not necessary to make affidavit to take the exception. By the words, if the title may come in question, this will oust the jurisdiction: 3 P. R. 388; 3 Whart. 110; 6 Harris 240; 6 Watts 337.\nWhere the party had stipulated not to raise the question of jurisdiction, still judgment was given in his favour for want of jurisdiction : Dudley v. Mayhew, 3 Comst. Rep. 9.\nAnd see 3 Caine's Rep. 129; 6 Pet. 276; McCord 79; 3 Blackford 48.\nThe removal of the fence by plaintiff caused the present difficulty. The meaning of the Act is to keep in repair partition fences as they stood, and not to allow one party for building a fence on his neighbour\u2019s ground without his consent.\nDowney and Wiley, for defendant in error. \u2014\nThe case arises under the Act of 11th March, 1842, for regulating and maintaining line fences. The Act of 1810 does not apply to it. Under the former the justice had jurisdiction; and if there were conflict between the two acts, the latter repeals the former. The question is, whether the fence was a line fence, and of this there was full testimony. See a former decision in this case, 8 Harris 138."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 78,
+  "last_page_order": 80
+}

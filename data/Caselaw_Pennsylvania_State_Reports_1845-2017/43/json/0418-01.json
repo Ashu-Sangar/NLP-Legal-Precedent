@@ -1,0 +1,79 @@
+{
+  "id": 483140,
+  "name": "Henry versus Milne et al.",
+  "name_abbreviation": "Henry v. Milne",
+  "decision_date": "1862-11-06",
+  "docket_number": "",
+  "first_page": "418",
+  "last_page": "421",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "43 Pa. 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wright 852",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wright 352",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 430,
+    "char_count": 9023,
+    "ocr_confidence": 0.437,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.3452622141290863
+    },
+    "sha256": "469423b8f647640c3a22615f75933d5be040734197fbf87bd95ee85aa46f583e",
+    "simhash": "1:cf938143ba37fe34",
+    "word_count": 1602
+  },
+  "last_updated": "2024-02-27T20:32:47.191475+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry versus Milne et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nRead, J.\nThis case was before this court at the last term for this district, and the opinion delivered by my brother Thompson, 4 Wright 352, disposed finally of two questions: First, that the property did not belong to Mrs. Whiting, but to her husband; and second, that the alleged sale to Nelson Henry was a fraud in law, and void as to creditors. In this decision the present plaintiff in error acquiesced, so far as regarded the goods levied upon in the store on the corner of Federal street and the South Common, in Allegheny City, and gave no evidence in relation to them at the last trial. The present case is confined to the stock of goods in the store formerly occupied by Jacob Burgraff, of which Henry claims to be the owner.\nThese goods formerly belonged to Jacob Burgraff, and were sold by the sheriff upon an execution against him, and were bought in by Hood, Bonbright & Co., and on the 23d February 1861, were sold by John A. Meehan for the said firm to Nathan Whiting, professing to act for Nelson Henry, and three days afterwards they were levied on by the sheriff as the property of Nathan Whiting, at the instance of his execution-creditors, the defendants in error.\nThe sale to Whiting was on credit at five, six, and seven months, for which he gave his three promissory notes, dated 23d February 1861, signed by himself as agent, and secured by a mortgage of the same date, executed by Nathan Whiting and Helena his wife on her separate estate.\nNelson Henry was a blacksmith by trade, and on the 20th October 1860 left Pittsburgh for Texas, intending to remain there. He was employed as a striker on board the steamboat Carr by the month. He remained in Texas, and it does not appear that he ever returned. His means were limited, and whatever they were they were invested and remained so. No authority of any kind was shown from Henry to Whiting to purchase these or any other goods for him. The purchase, therefore, was an unauthorized one, and conferred no title in them upon Henry, but the title vested in Whiting, who was personally liable to the vendors upon his promissory notes.\nNow if Whiting had no authority to purchase for Nelson Henry, still less had he authority to engage counsel for him to claim the property so purchased as his. It is clear, then, that the counsel were really the counsel of Whiting, and their acts and proceedings could in no manner be claimed as a ratification of his clearly unauthorized purchase, so far as the absent Nelson Henry was concerned. All the facts in this case show conclusively that these goods were purchased by Whiting for himself, and not for Nelson Henry, and that the title was vested in him when these executions were levied upon them. The very clear and lucid opinion of Judge Williams renders it unnecessary to say more.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "Marshall Brown and Hamilton \u00a7 Acheson, for plaintiff in error.",
+      "David Heed and J. P. Slagle, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Henry versus Milne et al.\nPrincipal and Agent, relation of, how established. \u2014 Appearance of Counsel for Principal at instance of alleged Agent, effect of.\n1. Where one as agent for another, who at the time was absent in a distant state, purchased a stock of goods on credit, giving therefor his own notes, signed as agent, secured by the mortgage of himself and wife on her separate estate, and no authority was shown to make the purchase nor any subsequent ratification on the part of the alleged principal, whose means, so far as known, wore limited and invested in .another way ; such purchase vested the title to the goods in the purchaser, which were liable to be taken in execution for his debts.\n2. The appearance by counsel for the alleged principal in a feigned issue to test the title to the goods which had been levied on as the individual property of the agent, in which issue the principal was made plaintiff, is not a ratification of the purchase: for if the purchase was without authority, the employment of counsel to defend the suit was also unauthorized, and their acts and proceedings were of no effect, except on behalf of the agent individually;\nError to tbe District Court of Allegheny county.\nThis was an issue unrler the Sheriff\u2019s Interpleader Act, in which Nelson Henry was plaintiff, and David Milne, David S. Brown & Co., Wain, Learning & Co. et al. were defendants, to determine whether certain goods levied on by virtue of sundry executions, at the suit of the defendants, against A. A. Mason & Co., of which firm Nathan Whiting was a member, were the property of Nelson Henry, the plaintiff.\nBy virtue of the executions in evidence, the sheriff, on the 26th of February 1861, levied on the stofck of goods in the store of Nathan Whiting, at the corner of South Common and Federal street, Allegheny City (a schedule of which was annexed to the writs), as the property of Nathan Whiting. At the same time, by virtue of the said executions, he also levied on the stock of goods in a store lately occupied by Jacob Burgraff, Federal street, Allegheny City, as the property of the said Nathan Whiting, a schedule or inventory of which is also appended to the writs.\nAfter the goods had been levied on by the sheriff, ho was notified that the goods levied on as the property of Nathan Whiting, did not belong to Nathan Whiting, but to Nelson Henry. The sheriff then took a rule on the plaintiff in the executions, the defendants in this issue, and on Nelson Henry, to show cause why they should not maintain or relinquish their respective claims to the goods levied on. Upon the hearing, this rule was made absolute; and a bond having been given on behalf of the claimant, the sheriff was directed to withdraw from the possession of the goods, and this issue was formed to try whether the goods levied on, including the stock of goods in both stores, were the property of Nelson Henry, the plaintiff in the issue.\nThe case was tried in the court below, and a verdict rendered for the plaintiff. On error, the judgment of the court below was reversed upon the ground that there had' been no change of possession, such as the law required as against creditors.\nThe material facts of the case will be found in the report of the case in 4 Wright 852, and need not be repeated here.\nOn the second trial the plaintiff, in view of the decision of this court, did not press his claim to the goods in the store of Nathan Whiting, on the corner of South Common and Federal street, in Allegheny City, but confined his testimony to the stock in the store lately occupied by Jacob Burgraff. The substance of the testimony will be found in the opinion of this court.\nUnder the instruction of the court below (Williams, P. J.) there was a verdict and judgment for defendant; whereupon the plaintiff sued out this writ, and assigned for error the following matters, viz.:\u2014\nThe court erred in charging the jury as follows, to wit: 1. \u201c It is clear, then, that he (plaintiff) did not become the owner of the goods by virtue of the purchase thereof by Whiting, whether the latter professed to act as his agent or not, inasmuch as the unauthorized act of Whiting could not vest in the plaintiff any title to the goods unless subsequently ratified.\u201d\n2. \u201c But if no direct evidence has been given tending to show a ratification by the plaintiff of the purchase by Whiting, may it not be inferred from the record and proceedings connected with this case? If when the goods were levied on by the sheriff, the plaintiff himself had notified the sheriff', or had caused notice to be given, that they were Ms goods, that would have been evidence of his ratification of the purchase by Whiting. But the plaintiff did not give the notice. He was then in Texas. The notice was given by Whiting, and the affidavit in answer to the plaintiff\u2019s rule was made by Whiting, and, so far as we know, the plaintiff may even now be ignorant of the pendency of this issue. If there was any act shown to have been done by the plaintiff himself, there would be ground for an inference that he had ratified the purchase made in his name .by Whiting. But so far it appears nothing whatever had been done by him either in reference to the purchase or to the proceedings connected with this case.\u201d\n3. \u201c The evidence 'wholly fails to show either a previous authority to make the purchase or a subsequent ratification thereof, and therefore the verdict of the jury must be for the defendants. The court declines to instruct the jury as requested in plaintiff\u2019s point, and affirms defendants\u2019 third point, and in accordance therewith instruct the jury to find for the defendants. \u201d\n4. The court erred in affirming defendant\u2019s third point, which was, \u201c That under all the evidence in the case, the plaintiff has failed to show title in the stock of goods levied upon as the Burgraff stock, and the verdict of the jury should be for the defendants.\u201d\n5. In withdrawing the case from the jury, and giving them peremptory instructions to find for the defendants.\nMarshall Brown and Hamilton \u00a7 Acheson, for plaintiff in error.\nDavid Heed and J. P. Slagle, for defendants.\nNovember 6th 1862,"
+  },
+  "file_name": "0418-01",
+  "first_page_order": 418,
+  "last_page_order": 421
+}

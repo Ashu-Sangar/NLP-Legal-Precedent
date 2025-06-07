@@ -1,0 +1,74 @@
+{
+  "id": 960658,
+  "name": "Custer v. Tompkins County Bank",
+  "name_abbreviation": "Custer v. Tompkins County Bank",
+  "decision_date": "1848-07-12",
+  "docket_number": "",
+  "first_page": "27",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 27"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 W. 397",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 101,
+    "char_count": 1252,
+    "ocr_confidence": 0.355,
+    "pagerank": {
+      "raw": 4.0714060153495217e-07,
+      "percentile": 0.9085245896575438
+    },
+    "sha256": "0405a35497391bc92fa711e76dddbfcfb1ea61b96d54e5f33efea91846613dee",
+    "simhash": "1:a541d45de1a3c0ca",
+    "word_count": 222
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Custer v. Tompkins County Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis cause is ruled by The Bank of Pittsburgh v. Whitehead. The rule laid down there, is, that notice to a corporator is not notice to the corporation, unless he were constituted an organ of communication between it and those who deal with it. The corporator, in this case, was not such an organ, and the evidence was properly rejected.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Collins, for plaintiff in error.",
+      "Notice to a director is notice to the bank, Bank v. Whitehead, 10 W. 397.",
+      "Maxwell, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Custer v. Tompkins County Bank.\nNotice to a director of a bank not being an organ of communication with the corporation, is not notice to the corporation, though he was present when the corporate act was done which is sought to be affected by the notice.\nIn error from the Common Pleas of-.\nJuly 12.\nDebt on a promissory note drawn by defendant and endorsed by Custer, Detriek and Reed. The defendant offered to show that the note was made to be discounted for a special purpose, and that before it was discounted, Reed had notice not to use the .note, and that no consideration had been given for it, and that when discounted by plaintiffs, Reed, who was a director of the bank (plaintiffs), was present.\nThe rejection of this evidence was assigned for error.\nCollins, for plaintiff in error.\nNotice to a director is notice to the bank, Bank v. Whitehead, 10 W. 397.\nMaxwell, cont\u00f3."
+  },
+  "file_name": "0027-01",
+  "first_page_order": 27,
+  "last_page_order": 28
+}

@@ -1,0 +1,66 @@
+{
+  "id": 9502955,
+  "name": "Murdock versus Steiner",
+  "name_abbreviation": "Murdock v. Steiner",
+  "decision_date": "1863-05-21",
+  "docket_number": "",
+  "first_page": "349",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 Pa. 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 196,
+    "char_count": 3006,
+    "ocr_confidence": 0.441,
+    "pagerank": {
+      "raw": 1.0612921317616189e-07,
+      "percentile": 0.5571720590659919
+    },
+    "sha256": "c1350fa4d781218742bc033906b110b1573e0dc13d4c2f64ccbbd640d846bd0e",
+    "simhash": "1:c32fb1f886b9e3b9",
+    "word_count": 512
+  },
+  "last_updated": "2023-07-14T20:21:54.857579+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Murdock versus Steiner."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby\nLowrie, C. J.\nThis is a case of foreign attachment in debt, and the plaintiffs below first filed a statement under the Act of 1806, and afterwards a declaration in assumpsit, and took judgment in default of an appearance. On account of this irregularity, and other matters supposed to be irregularities, and on an allegation that the suit was brought in violation of an agreement to give the defendants time, the defendants moved to set aside the judgment and dissolve the attachment; and this was done.\nThis was going too far. We agree that for these causes the judgment might be set aside. But irregularities in obtaining a judgment are no cause for dismissing the suit, but only for correcting proceedings upon it. And the agreement to give time was a matter to be pleaded and tried in the regular way, and npt on a motion to dismiss the suit.\nThe judgment, so far as it dissolves the attachment, is reversed, and a procedendo awarded.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Watts ParJeer (with whom was O. M. Maglaughlin) for plaintiffs in error.",
+      "Malcolm Penrose, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Murdock versus Steiner.\nCommon Pleas not warranted in dismissing suit for irregularities.\n1. Irregularities in obtaining a judgment are not a ground for dismissing the suit, but only for correcting the proceedings upon it.\n2. Hence, where in a case of foreign attachment in debt, the plaintiff having filed a statement under the Act of 1806, and afterwards a declaration in assumpsit, took judgment for default of appearance, and the court, on suggestion of these and other irregularities, set aside the judgment and dissolved the attachment, it was error.\n3. The fact that the suit was brought in violation of an agreement to give time, was not a reason for dismissing the action, but should have been regularly pleaded and tried.\nERROR to tbe Common Pleas of Cumberland county.\nThis was a foreign attachment in debt by Alexander Murdock, Charles W. McCoy, and Alexander F. Murdock, trading as Alexander F. Murdock & Co., against Steiner, Brother & Co.\nThe writ was issued and served upon the garnishees June 8th 1861. At the third term, January 23d 1862, judgment was entered against the defendant for $3933.30. On the 7th of February 1862, a sci. fa. was sued out against the garnishees, Messrs. Glass & Weil. On the 18th of March 1862, the counsel for defendants moved the court for a rule to show cause why the foreign attachment should not be dissolved, and the judgment thereon set aside, because,\n1. The declaration was not filed in proper time to authorize judgment under the Act of 1836.\n2. The declaration is in assumpsit, and no writ of inquiry issued.\n3. The action is debt under the Act of Assembly of 1806, which is inapplicable to foreign attachments.\n4. The proceeding is in violation of an agreement entered into between defendants and their creditors, including plaintiffs, to extend the time of payment.\nOn hearing, the rule was made absolute; which was the error assigned.\nWatts ParJeer (with whom was O. M. Maglaughlin) for plaintiffs in error.\nMalcolm Penrose, for defendants in error.\nMay 21st 1863,"
+  },
+  "file_name": "0349-01",
+  "first_page_order": 349,
+  "last_page_order": 350
+}

@@ -1,0 +1,63 @@
+{
+  "id": 960798,
+  "name": "Sparks v. Commonwealth",
+  "name_abbreviation": "Sparks v. Commonwealth",
+  "decision_date": "1848-09-11",
+  "docket_number": "",
+  "first_page": "354",
+  "last_page": "354",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 354"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 145,
+    "char_count": 1755,
+    "ocr_confidence": 0.409,
+    "pagerank": {
+      "raw": 1.6163238879780417e-07,
+      "percentile": 0.686494463576834
+    },
+    "sha256": "d9e36e7fb096a2fc8f2b73c8c5634e0797779989b5dd7a200b791d89104197e3",
+    "simhash": "1:f19560d493df01d8",
+    "word_count": 321
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sparks v. Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nIt is true, that the formal mode of finding an indictment is thus to endorse the bill; but it is not said by any writer to be the only one. On the contrary, it is said in 1 Chitty\u2019s Or. L. 324, that though the endorsement is, if found, \u201c a true bill,\u201d and if not found, \u201cnot a true bill,\u201d yet the better way, in the latter case, is to endorse \u201cnot found,\u201d and it would consequently be good to endorse it \u201cfound.\u201d But, to endorse it \u201ca bill,\u201d is in effect to endorse it so; for though an indictment is strictly called a bill.before it has been found, yet it is, in common parlance, often called so afterwards. In this instance, the omission of the word \u201c true\u201d may have been deemed immaterial, or it may have been accidental; but the court might have supplied it in either case, as \u201cmatter of form not touching matter of substance.\u201d The grand jury certainly intended to do something; as they did not intend to endorse the bill \u201c ignoramus,\u201d they intended to endorse it a true bill. The omission- was one of those clerical slips which, it is well settled by Ilawk B. 2. ch. 25, s. 97, and Ohitty\u2019s Cr. L. 297, 325, the court has power, by the previous assent of the grand jury, to amend.\nAllocatur refused.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sparks v. Commonwealth.\nIt is not error to sentence a defendant convicted on an indictment found \u201cA bill,\u201d omitting the 'word \u201c true.\u201d\nSelden moved the court to allow a writ of error to remove the record of an indictment for perjury, on which the defendant was convicted and sentenced, in the Quarter Sessions of Crawford county. The suggestion of error was, that the grand jury had endorsed the indictment \u201cA bill,\u201d ommitting the word \u201ctrue;\u201d which, he said, is asserted to be indispensable, by every writer on criminal law.\nSept. 11."
+  },
+  "file_name": "0354-01",
+  "first_page_order": 354,
+  "last_page_order": 354
+}

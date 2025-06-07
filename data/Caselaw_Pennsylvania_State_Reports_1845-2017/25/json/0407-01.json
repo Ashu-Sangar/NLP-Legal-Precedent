@@ -1,0 +1,149 @@
+{
+  "id": 975883,
+  "name": "Wood versus Anderson",
+  "name_abbreviation": "Wood v. Anderson",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "407",
+  "last_page": "409",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Munf. 76",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        2094040
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/15/0038-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 456",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841254
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "550"
+        },
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0456-01"
+      ]
+    },
+    {
+      "cite": "1 Penn. Rep. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Binn. 369",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 311",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Yeates 507",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6776043
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0507-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 337",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820635
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0337-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 368,
+    "char_count": 6599,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 3.113741327217235e-07,
+      "percentile": 0.8601706122634949
+    },
+    "sha256": "9e61a58eee3a76d7f01799088a1373e4346fb65d2d0272486784844251cd242a",
+    "simhash": "1:9f6146fc8374eca5",
+    "word_count": 1163
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wood versus Anderson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J. \u2014\nThis action was brought in January, 1845, and there was a general demurrer to the declaration; and in March, 1849, judgment was entered in favour of the defendant that the demurrer was sustained; and in August, 1852, the plaintiff, on motion, was permitted to file a new declaration and proceed with tbe cause. This seems to us to be irregular. The order sustaining the demurrer was in substance a judgment that the plaintiff take nothing and the defendant go without day and have his costs; and that is the meaning of our short entry. The ideo consideration est is regarded as if it were really enrolled. If the plaintiff had shown, at the time of the judgment, or. perhaps during the term, that he really had a good cause of action, the Court would, no doubt, have allowed an amendment on proper terms, instead of entering the judgment; but there was nothing of the sort. There was therefore no case pending in-1852, when the Court allowed the new declaration to be filed, and required the defendant to plead to it.\nThere is another objection. The first declaration was for a tortious exclusion of one partner by another from the possession of the partnership business and effects; and the second was for a breach of contract for the purchase by one partner of the interest of the other. These two counts are totally inconsistent in form and substance, and could not be joined in the same action ; and therefore, when the plaintiff is defeated on the one he cannot fall back upon the other by way of amendment.\nAgain: the two counts, being totally inconsistent, present totally distinct causes of action, and it was error to allow the plaintiff to amend by inserting a new cause of action after the right of the plaintiff had been apparently barred by the statute of limitations: 6 T. R. 544; 7 Id. 51.\nNone of these errors were waived by the defendant\u2019s putting in a plea, for he could not avoid this. He did endeavour before the trial to get the Court to retrace its steps, but failed.\nAll the proceedings after the judgment in favour of the defendant below on the demurrer are hereby reversed and set aside.",
+        "type": "majority",
+        "author": "Lowrie, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Stanton, for plaintiff in error. \u2014",
+      "Cochran, for defendant in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Wood versus Anderson.\nAn order of the Court sustaining a demurrer to a declaration, is in substance a.judgment that.the plaintiff take nothing, and the defendant go without day, and have his costs.\nAn amendment of the declaration, allowed several years after such order, is a nullity, as there was no case pending to which the amendment could apply.\nIn such cases, an amendment will be allowed at the time of judgment, or during the term, upon proper terms, if the plaintiff shows that he has a good cause of action.\nWhere the original declaration and the amended counts present both in form and substance totally different and distinct causes of action, it is error in the Court to allow the amendment; more especially is this the rule where the right of the plaintiff is apparently barred by the statute of limitations. \u25a0\nError to District Court of Allegheny county.\nThis was an action of trespass on the case, by John Anderson against James Wood, commenced bn the 16th January, 1845. Ohthe 7th March, 1845, the plaintiff filed his declaration in tort, complaining that he, being a partner in the Globe Cotton Fa'ctory, and having contributed $800 to the capital stock, was wrongfully excluded from the partnership arid business by Wood, his co-partner, with a loss of his capital stock and wages. This 'declaration being demurred to, an fimerided count was filed, to which the defendant also demurred. On the 10th March, 1849, the opinion of the Court was filed, which concluded thus: \u2014 \u201c For these reasons the demurrer is sustained, and judgment thereon in favour of the defendant.\u201d\nOn the 12th 'August, 1852, the plaintiff\u2019s counsel, by leave of the Court, filed an aruended declaration: in the two counts of which he declares upon a contract for the voluntary dissolution of the partnership, and alleges that by that contract Wood agreed to pay him his $800 of' capital and arrears of wages.\nThe defendant\u2019s counsel moved to strike out this declaration, on the grounds.:\u2014\n1. That the same was irregularly and improperly filed, and\nthat leave to file the same was improvidently and irregularly granted. . \u25a0 .\n2. That the cause of action set forth in said amend\u00e9d declaration, is another and different carise of action from that on which suit was brought, and for which the plaintiff, in his original and first amended declaration counted.\n3. That the cause of action in said amended declaration, filed on the 12th of August, 1852, is in assumpsit, on promises, whereas the action and original declaration sounds in tort.\nThis motion was overruled.\nThe defendant was ruled to plead, and, on the trial, a verdict was rendered for the plaintiff for $1304. To reverse which, the defendant sued out this writ of error.\nStanton, for plaintiff in error. \u2014\nAt common law no amendment was allowed after final judgment upon demurrer. Under the Act an amendment will be allowed, if asked for during the term. The plaintiff failing to ask it at that time, the judgment became final.\nThe amended declaration is for a different cause of action. The causes of action are not only different, but contradictory. The one sounded in tort, the other in contract. The Act of amendment allows only a modification, not a change of the cause of action: 6 Ser. & R. 294; 11 Id. 102; 8 Id. 287; 2 Rawle 337; 5 Barr 257.\nThe amendment was not made in time, as it takes from the defendant the right of pleading the statute of limitations: 4 Yeates 507.\nCochran, for defendant in error. \u2014\nAmendments at common law are discretionary with the Court, and not the subject of a writ of error.\nNo judgment was entered in this case. The opinion was filed sustaining the demurrer, but no judgment was actually entered upon it: 2 Watts 311.\nIn 6 Ser. & R. 511, we have an instance of an amendment after judgment \u2014 though not on demurrer, Id. 385; it was allowed even after error brought: 2 Ser. & R. 220. Amendments are not reducible to any certain rule: 7 T. R. 699; 1 Binn. 369.\nThe amendment in this case was allowed by the Court under its discretionary power at common law, and not under the Act of 1806. The later cases under the Act are more liberal in allowing amendments: 1 Penn. Rep. 65; 3 Watts 456; 4 Id. 258: 1 Wharf. 282; 1 W. & Ser. 554; 4 Id. 550; 4 Barr 242; 4 Harris 160; 5 Id. 518.\nDefendant cannot set up this objection now after plea pleaded, and a trial on the merits: 11 Ser. & R. 101; 1 Munf. 76; 4 Yeates 507; 13 Ser. & R. 253; 3 Barr 223."
+  },
+  "file_name": "0407-01",
+  "first_page_order": 407,
+  "last_page_order": 409
+}

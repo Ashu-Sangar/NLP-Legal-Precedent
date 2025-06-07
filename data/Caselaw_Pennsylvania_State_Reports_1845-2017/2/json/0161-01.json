@@ -1,0 +1,91 @@
+{
+  "id": 951062,
+  "name": "Merritt v. Smith",
+  "name_abbreviation": "Merritt v. Smith",
+  "decision_date": "1845-02-04",
+  "docket_number": "",
+  "first_page": "161",
+  "last_page": "162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts & Serg. 365",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481832
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0365-01"
+      ]
+    },
+    {
+      "cite": "7 Watts & Serg. 365",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481832
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/7/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 3927,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 9.141210829279633e-08,
+      "percentile": 0.5076400207116322
+    },
+    "sha256": "47d3fc9d7cfb5bdcdcf47a83496318bd627b835edd05f648da2ef985193487c5",
+    "simhash": "1:47cf4e31a4b28cfa",
+    "word_count": 694
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Merritt v. Smith."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\n\u2014 Among the conditions imposed on an appellant from the award of arbitrators, in the act of the 16th March, 1836, are, that he, his agent or attorney, shall pay all the costs that may have accrued in such suit or action; and that he shall, within twenty days after the award is filed, enter into a recognisance by himself, his agent, or attorney, in the nature of special bail, with one or more sufficient sureties, conditioned agreeably to the provisions which the act prescribes. So the law stood until the legislature, on the 12th July, 1842, passed the act abolishing imprisonment for debt. Imprisonment for debt being abolished, recognisances generally, in the nature of special bail, fell with it. It having ceased to be lawful to confine the body of any person in custody who was sued for the payment of debt, hence the Supreme Court, in Beers v. The West Branch Bank, 7 Watts & Serg. 365, held, that appeals from the award of arbitrators were 'to be entered without bail. It has been recently decided by the Supreme Court, that the act abolishing imprisonment for debt vacated all recognisances of special bail or appeals; that it was unlawful for special bail, since the passing of that act, to take their bailee in custody; nor was it necessary; they might, to a scire facias, plead that act in bar to the action. (This case is Kelly v. Henderson, 1 Penna. St. Rep. 495.) The legal operation of the act abolishing imprisonment for debt, having received a judicial construction in the case in 7 Watts & Serg. before referred to, the legislature, on the 20th March, 1845, passed the act entitled \u201c an act concerning bail and attachments.\u201d The section relating to bail, of this act, provides, \u201c that in lieu of the bail heretofore required by law, in the cases herein mentioned, the bail in cases of appeal from the judgments of aldermen and justices of the peace, and from the award of arbitrators, shall be bail absolute in double the probable amount of the costs accrued, and likely to accrue in such cases, with one or more sufficient sureties conditioned for the payment of all costs accrued, or that may be legally recovered, in such cases, against the appellant.\u201d There is not a single expression in this act repealing the provision in the act of 1836, making it obligatory on the appellant that, before his appeal is valid, he shall pay all the costs which have accrued in such suit or action; besides, appeals from the judgment of aldermen and justices were always allowed by law, without the payment of costs.\nThe whole argument, in support of the rule, is based on the words accrued, and likely to accrue in such cases. The obvious intention of this act is, that the recognisance which the law requires is to cover the costs which may accrue on the appeal, or may be legally recovered in such cases against the appellant. This construction will preserve the words of both acts, and will not repeal the salutary provision, for the payment of costs, in the act of 1836. The construction contended for would repeal that act by implication, which, we cannot suppose, the legislature ever intended.\nThe rale is discharged.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Wm. Hirst, for the rule.",
+      "Stroud, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Merritt v. Smith.\nCosts accrued are to be paid on appeal: the 2d art. of sect. 27, of the act of 1836, not being altered by the act of March 20,1845.\nJan. 17. \u2014 Rule to show cause why defendant should not appeal from award without payment of costs in this action, which was assumpsit.\nWm. Hirst, for the rule.\n\u2014 The bail was taken away by the act of 1842, p. 342, as was decided in 7 Watts & Serg. 365. Then the act of 1845, p. 188, was passed, requiring security to be given for past and future costs; this in effect repeals the act of 1836.\nStroud, contra.\n\u2014 The act of 1845 was intended for appeals from justices, and to give absolute security for future costs to a defendant; it does not interfere with the provision of the act of 1836, as to costs already accrued.\nFeb. 4."
+  },
+  "file_name": "0161-01",
+  "first_page_order": 161,
+  "last_page_order": 162
+}

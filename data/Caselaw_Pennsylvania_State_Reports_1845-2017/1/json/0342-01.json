@@ -1,0 +1,80 @@
+{
+  "id": 949912,
+  "name": "Mayor, Aldermen, and Citizens of Pittsburgh, v. Thomas O'Neill",
+  "name_abbreviation": "Mayor of Pittsburgh v. O'Neill",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "342",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Johns. 192",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128242
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/1/0192-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 230,
+    "char_count": 2980,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 1.764988540928043e-07,
+      "percentile": 0.7105792654320773
+    },
+    "sha256": "8f81ef770ba65e1f3975f22d120b350215e1055fd6d2c6c1692d11ff53a3129c",
+    "simhash": "1:5063120da30658be",
+    "word_count": 521
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mayor, Aldermen, and Citizens of Pittsburgh, v. Thomas O'Neill."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nAll trades have their usages; and when a contract is made with a man about the business of his craft, it is framed on the bas|s of its usage, which becomes part of it, except when its place is occupied by particular stipulations. Now the witness had been a paver for thirty years; and he was called, as an expert, to speak-of the method employed by pavers to ascertain the number of bricks laid in a job without reckoning them by tale. He was allowed to prove how many of an ordinary size went to the, square yard; and from that the whole number could be ascertained by measuring the sides of the pavement, just as the whole number of shot in a pile can be ascertained by the number contained in the sides of the base. As an expert, therefore, the witness was competent. But it is said that the paving of the top of the basin was to be done on the terms contained in tire written contract for paving the bottom and the sides. That contract, however, has no provision that would affect the general principle; and the evidence was consequently proper.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Smith, fox plaintiff in error,",
+      "Burke, contra.",
+      "Williams, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Mayor, Aldermen, and Citizens of Pittsburgh, v. Thomas O'Neill.\nIn Error.\nThe number of bricks laid in a pavement may be computed by allowing a given number to the square yard, according to the usage of the craft, proved by the testimony of a paver.\nError to the District Court of Alleghany county.\nThis was an action on the case in assumpsit, brought by Thomas O\u2019Neill, the defendant in error, who was the plaintiff below, against the Mayor, Aldermen, and Citizens of Pittsburgh, the defendants below, to recover $250, or thereabouts, for work and labour done, and materials furnished, agreeably to a contract between the parties for paving the top of the basin connected with the new waterworks of said city.\nThe only matter in dispute was in regard to the measurement and computation of the number of bricks furnished and laid in performance of said contract.\nPatrick Trainer was called by the plaintiff as a witness, and having been sworn, stated that he had been a brick paver for twenty-three years.\nPlaintiff\u2019s counsel asked witness \u201c to state what is the customary allowances, and his own observation as to the number of bricks in a square yard.\u201d\nTo this question defendants\u2019 counsel objected.\nThe court overruled the objection: whereupon defendants excepted, and a bill was accordingly sealed by the court.\nThe jury rendered a verdict for the plaintiff: whereupon the writ of error was taken by the defendants, who assigned the following error in this court:\nThe court erred in admitting the evidence of Patrick Trainer, as stated in the above bill of exceptions.\nSmith, fox plaintiff in error,\nargued that there was error in admitting the witness to testify to usage or custom; 2 Starkie, 455. That a written contract could not be varied by any evidence of a custom. To this position, he cited 1 Johns. 192; Chitty on Contracts, 25, 99; Greenl. Ev. 336.\nBurke, contra.\nWilliams, in reply."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 344,
+  "last_page_order": 346
+}

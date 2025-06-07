@@ -1,0 +1,79 @@
+{
+  "id": 959571,
+  "name": "Lantz v. Lutz",
+  "name_abbreviation": "Lantz v. Lutz",
+  "decision_date": "1848-06-26",
+  "docket_number": "",
+  "first_page": "405",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 W. &. S., 69",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        12168932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/9/0069-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 252,
+    "char_count": 4062,
+    "ocr_confidence": 0.412,
+    "pagerank": {
+      "raw": 2.495943458163391e-07,
+      "percentile": 0.8090158924323387
+    },
+    "sha256": "235f30eb384be3f228eea6d987b719eb1f3f70b1d8e8bdc097301d0e4c76fc5c",
+    "simhash": "1:8626870d73d2dfd0",
+    "word_count": 711
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lantz v. Lutz."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe act of 1819, which allows the attorney-general to enter a nolle prosequi on an indictment of fornication and bastardy, pursuant to an agreement of compromise between the prosecutrix and the defendant, seems to recognise a private right in her to compensation for the keeping of the child, to be enforced by the sentence. That this statute has modified the nature of the proceeding against him, was held in Maurer v. Mitchell, 9 W. &. S., 69, in which such an agreement was deemed to be legal and a ground of action. It may be taken for granted, therefore, as it was in the court below, that an escape of the putative father from a constable who had him in custody on a warrant issued on the information of the mother, is a private wrong which gives her an action against the officer ; and it is not contested that such an action might have been maintained in this instance, had it been brought in time. The defence is rested on the seventh section of the act of 1772, which limits the period of bringing certain actions against justices and constables, to six months from the time of the wrong. The design of that act, however, is to defend the officer against the consequences of involuntary trespasses, not against the consequences of wilful misconduct. It sometimes happens that a constable becomes a trespasser by executing the warrant of a justice who has misdirected it, or who has not jurisdiction of the subject-matter of it; and it is to make the justice exclusively answerable for his own defaults, that it is enacted in the sixth section of the same statute, that no action shall be brought against any constable for anything done in obedience to his warrant, before the plaintiff has demanded a sight of it, and before the demand has been neglected for the space of six days; that in the case of an action brought after compliance with such demand and without making the justice a party to it, the jury shall give their verdict for the defendant; and that if it be brought against the justice and the constable jointly, the jury shall, on proof of such warrant, find for the constable. But the protection does not stop there, even though the constable may have refused to submit his warrant to inspection for the space of six days. The seventh section, insecurely relied on here, provides \u201c that no action shall be brought against any justice of the peace for anything done in the execution of his office, or against any constable, or any other officer or person acting as aforesaid\u201d \u2014 that is, in obedience to his warrant as specified in the preceding section \u2014 \u201c unless commenced within six months after the act committed.\u201d The constable acted in this'instance not in obedience to his warrant, but in open contempt of it; and the section is inapplicable to him in its letter and its spirit.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "BibigTiaus, for plaintiff in error,",
+      "Weidman, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Lantz v. Lutz.\nAn action against a constable for an escape is not within the limitation of the act of 1772.\nAnd a prosecutrix for fornication and bastardy, committed with herself, may maintain the action for an escape of the defendant arrested under a warrant.\nIn error from the Common Pleas of Lebanon county.\nCase for an escape. The plaintiff was the mother of a bastard begotten by the defendant, against whom she made complaint to a justice for fornication and bastardy. The justice issued a warrant, and the defendant was arrested, but subsequently escaped from the constable. There was evidence that the defendant was able to pay the ordinary sentence of the court in such cases. The court (Eldred, P. J.) told the jury, that the plaintiff was entitled to recover the damages she had sustained, and that the act of 1772 did not apply to the case. The action was brought more than one year after the escape.\nBibigTiaus, for plaintiff in error,\nrelied on limitation in the act of 1772.\nWeidman, contr\u00e1.\nThe words of the act confine that limitation to actions for matters done in obedience to the warrant. Unless an escape was in obedience to the warrant, the case is excluded from the operation of the act.\nJune 26."
+  },
+  "file_name": "0405-01",
+  "first_page_order": 405,
+  "last_page_order": 407
+}

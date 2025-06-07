@@ -1,0 +1,157 @@
+{
+  "id": 954636,
+  "name": "Bieber v. Beck",
+  "name_abbreviation": "Bieber v. Beck",
+  "decision_date": "1847-07-12",
+  "docket_number": "",
+  "first_page": "198",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts & Serg. 433",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0433-01"
+      ]
+    },
+    {
+      "cite": "1 Watts & Serg. 139",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852511
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0139-01"
+      ]
+    },
+    {
+      "cite": "17 Serg. & Rawle, 282",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1818261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/17/0282-01"
+      ]
+    },
+    {
+      "cite": "5 Watts & Serg. 511",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0511-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 191",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846122
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0191-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 388",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846063
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0388-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 213",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0213-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 216",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 356,
+    "char_count": 6833,
+    "ocr_confidence": 0.38,
+    "pagerank": {
+      "raw": 1.056196244983461e-07,
+      "percentile": 0.555408635793052
+    },
+    "sha256": "7510ba7fa675773555e4c0658311ffa25cf039d59e70459c06d0d4d2df1f9b13",
+    "simhash": "1:013001e999fcb43b",
+    "word_count": 1212
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bieber v. Beck."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThere is nothing in the form of the docket entry before us which bears any resemblance to a recognisance of bail; and the plaintiff has not treated it as such. Instead of suing out a scire facias on it, he has sued and declared on it as a promise or stipulation in an action of debt, which might have been sustained had the jury found the parties to have been reciprocally bound. But this species of promise, as was shown in Clark v. Russell, 3 Watts, 216, is not conditional, but mutual, the consideration of it being executory, and consequently, to make it effective, both parties must be bound. In that case, it was held, that actual forbearance is not enough, unless it were forbearance in pursuance of a mutual agreement, the consideration of it being promise for promise. In this the jury have found no more than an offer to be bail for a stay of execution, and that execution did not issue within the period. But it follows not that the offer was accepted; without which there could be no contract. The execution, for aught that appears, may have been suffered to rest by the mere supineness of the plaintiff, without regard to any particular motive; and if he actually did nothing, or forbore nothing, in consideration of the offer, he ought not to derive any benefit from it. Besides, as nothing is to be taken by inference in a special verdict, it being the business of a jury to find facts, and not tbe evidence of them, the acceptance of the defendant\u2019s offer, if there was such a fact, ought to have been expressly found. It is to be regretted that a party should lose the benefit of his security by the incompetency of an .officer; but we cannot disregard the most settled and solemn forms of the law to protect him. There is nothing on the bills of exception to evidence.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Slenher and Linn, for plaintiff in error,",
+      "Miller, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Bieber v. Beck.\nIn a suit Brought by A. against B. and C., the defendants confessed a judgment on the docket, for the amount of the plaintiff\u2019s demand. On the same day on which judgment was confessed, and directly under the entry of the same, was the following docket entry: \u201cDefendants offer D. as bail for stay of execution for six monthswhich was signed by D. No execution was issued on the judgment for more than six months thereafter. On this docket entry, A. brought an action of debt against D., and declared on it as a promise or stipulation. Held, that as the iorm of the docket entry did not bear any resemblance to a recognisance of bail, the action might have been sustained, if the jury, in their special verdict, had found, that the parties were reciprocally bound thereby j but, that as the jury found no more than an offer to be bail for a stay of execution for six months, and that execution did not issue within that period, it did not follow that the offer was accepted by the plaintiff, without which there would be no contract, and, consequently, that the action could not be sustained.\nIn error to the Court of Common Pleas of Union county.\nJuly 9.. This was an action of debt, brought by John Bieber against Isaac L. Beck. The facts of the case, as found by the special verdict, are these:\nJohn Bieber, the plaintiff in the above-stated suit, brought an action against John Dreisbach and Thomas Dreisbach, to August Term, 1843. The defendants, by their attorney, confessed a judgment on the docket, for the sum of $155 67, the amount of the plaintiff\u2019s demand, on the 29th of August, 1843. On the same day on which the confession of judgment was entered, and directly under the entry of the same, was the following docket entry: \u201cAnd now, to wit, August 29, 1843, defendants offer Isaac L. Beck, as bail for stay of execution for six months.\u201d This entry was signed by Isaac L. Beck, in his own proper handwriting. No execution was issued until after the expiration of six months, the \u2022\u2019 legal stay of execution on the judgment. On the above-stated docket entry, John Bieber brought this action of debt against Isaac L. Beck. The declaration set forth the original judgment obtained by John Bieber against the Dreisbachs, and averred, that Isaac L. Beck became surety to the said John Bieber, for the payment of his said judgment, in order to obtain a stay of execution for the said Dreisbachs, for six months; and that, in consideration thereof, he, the said John Bieber, did delay issuing execution for the space of six months and upwards. The defendant pleaded nonassumpsit, nil debet, and payment, with leave, &c.\nOn the trial of the cause, the plaintiff offered to prove, that the defendant had said, .that he had purchased the property of Thomas Dreisbach, at the sheriff\u2019s sale thereof, to save himself, as he had gone bail for John and Thomas Dreisbach to John Bieber; that he would have to pay it; and that he would chisel him out of it, if he could. To this evidence, the defendant objected; and the court sustained the objection, and sealed a bill of exception. 3\nHe then offered to prove, that the defendant stated to Mr. Linn, the counsel of plaintiff, that he thought he would have to pay Bieber\u2019s judgment against the Dreisbachs, but that he, Mr. Linn, should not push him too hard. Objected to, and objection sustained by the court, who sealed plaintiff\u2019s second bill of exception. The court below, (Wilson, P. J.,) were of opinion, on the facts found by the special verdict, that the suit could not be sustained, and entered judgment for the defendant, The plaintiff thereupon sued out this writ of error, and assigned the following errors:\n1. The court erred in rejecting the evidence embraced by plaintiff\u2019s two bills of exception.\n2. In entering judgment for*defendant, on special verdict.\nSlenher and Linn, for plaintiff in error,\ncontended, that although the instrument was not a statutory recognisance, an action would lie on it at common law; and referred to the following cases to sustain his position: Clark v. Russell, 3 Watts, 213; Koons v. Seward, 6 Watts, 388; Ayres v. Sweigart, 6 Watts, 191; Cummings v. Klapp, 5 Watts & Serg. 511; Commonwealth v. Finney, 17 Serg. & Rawle, 282; Stroop v. Gross, 1 Watts & Serg. 139; 2 Ld. Raymond, 1459; 2 Strange, 745, 1137.\nMiller, contra,\nargued, that the court below were right in rejecting the evidence offered; that it was for the court to construe and declare the effect of the instrument declared on, as matter of law; for it could not be explained or altered by the introduction of parol evidence, and cited Withers v. Livezey, 1 Watts & Serg. 433.\nAs to the special verdict, he argued, that upon the facts found by the jury, the court was bound to enter judgment for defendant; that the instrument of writing signed by defendant was a mere offer on his part, and that not under seal, and no sum stated. It was certainly no recognisance, and not such an instrument that would sustain an action at common law.\nJuly 12."
+  },
+  "file_name": "0198-01",
+  "first_page_order": 198,
+  "last_page_order": 201
+}

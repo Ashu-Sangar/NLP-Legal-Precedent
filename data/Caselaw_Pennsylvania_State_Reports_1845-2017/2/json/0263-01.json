@@ -1,0 +1,97 @@
+{
+  "id": 951372,
+  "name": "Philadelphia Fire and Inland Navigation Company's Appeal",
+  "name_abbreviation": "Philadelphia Fire & Inland Navigation Company's Appeal",
+  "decision_date": "1845-03-10",
+  "docket_number": "",
+  "first_page": "263",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts & Serg. 43",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0043-01"
+      ]
+    },
+    {
+      "cite": "8 Serg. & Rawle, 379",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts & Serg. 351",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854588
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0351-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 194,
+    "char_count": 2366,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.7710994026850015e-07,
+      "percentile": 0.7121088912905733
+    },
+    "sha256": "c5d34a62b8e6853837e315e50ec4b9478867c742ad54b5568c2bd65f5609a688",
+    "simhash": "1:cc0b0cafa21ac453",
+    "word_count": 423
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Philadelphia Fire and Inland Navigation Company\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam. \u2014\nThe very point before us was ruled at tire last term at Pittsburgh, in Tiernan v. Dougherly, in which it was held, that the lien of a judgment may be revived as -well by a scire facias post annum et diem as by the writ directed in the act of 1798; and this, on the ground that it would produce a scene of general ruin to decide otherwise. Though the practice of the profession was for many years irregular in this respect, we dare not disturb it, and the point must be considered as at rest.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Per Curiam. \u2014"
+      }
+    ],
+    "attorneys": [
+      "A. Phillips, for appellants.",
+      "The court declined hearing St. G. Campbell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Philadelphia Fire and Inland Navigation Company\u2019s Appeal.\nA judgment on a scire facias post annum et diem revives tlie lien, as well as if entered on a writ directed by the act of 1798.\nAppeal from the District Court.\nMarch 6. \u2014 The Mechanics\u2019 and Tradesmen\u2019s Loan Company entered judgment on warrant of attorney, in November, 1837, on which a scire facias was issued, reciting the original judgment and that execution remained to be done, and commanding the sheriff to warn defendant to show cause why plaintiff ought not to have execution. On this, judgment was entered in March, 1842. . Appellants subsequently obtained a judgment, on which the property was sold, and the question was as to the lien of the Loan Company, which the court decided bound the property.\nA. Phillips, for appellants.\n\u2014 In Gash v. Petterman, 3 Watts & Serg. 351, it was held, the judgment was not revived. [Chief Justice. \u2014 No; only that he could not have judgment, as nothing was due at the suing out of the writ.] In Arrison v. The Commonwealth, a misrecital of the original judgment was held fatal. [Chief Justice.\u2022 \u2014 The judgment revived was not the same as that on which the writ issued.] In Pennock v. Hart, 8 Serg. & Rawle, 379, the right to a new judgment under this writ was denied. [Chief Justice. \u2014 That was the first time it was doubted, but the practice had been such as not to be changed. For twenty years after the act of 1798, no other writ was used in the western part of the state, and numerous titles would have been disturbed by such a decision.]\nThis court has held that where a new act of Assembly has reaffirmed a former one, the former practice must be amended to suit the direction of the legislature; Foreman v. Schricon, 8 Watts & Serg. 43. The same thing occurs here.\nThe court declined hearing St. G. Campbell, for appellee.\nMarch 10."
+  },
+  "file_name": "0263-01",
+  "first_page_order": 263,
+  "last_page_order": 264
+}

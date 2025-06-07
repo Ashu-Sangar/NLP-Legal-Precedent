@@ -1,0 +1,86 @@
+{
+  "id": 969120,
+  "name": "Brady versus Haines",
+  "name_abbreviation": "Brady v. Haines",
+  "decision_date": "1851-10-20",
+  "docket_number": "",
+  "first_page": "113",
+  "last_page": "115",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 113"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wharton 302",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830519
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0302-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 485",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 399,
+    "char_count": 7628,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 4.5828155114230504e-08,
+      "percentile": 0.2869107426726423
+    },
+    "sha256": "5843aacc0e4888783ccdcda35eeb9d10b05f6d7edc310ca43197e192fd0d1112",
+    "simhash": "1:adc87684b8dab0ec",
+    "word_count": 1372
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brady versus Haines."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nChambers, J.\nThe sale of the mare by Gaut to Brady was for the purpose of raising money to pay an execution in the hands of defendant as a constable, against Gaut. The sale was with the knowledge of Haines, for a valuable consideration, part of the price instantly paid by Brady and which was received by Haines, and the balance of the price credited Gaut by Brady, to whom Gaut was indebted. On the same day the mare is delivered to Brady and taken to his farm, where she is used for Brady in the work of the farm by his tenants, and in hauling to and from it. The mare was in the notorious and exclusive possession of Brady for a period exceeding five weeks from the sale, when she was loaned to Gaut by Brady for the special purpose of ploughing some brick clay. Gaut to keep her until Brady returned from Philadelphia, where he ivas absent three or four weeks; and on the day Brady returned, the mare was taken in execution by Haines.\nIt is a salutary rule of law that avoids for fraud the sale and transfer of chattels where the possession does not accompany that transfer. The delivery of possession is indispensable where practicable ; and if not actual or even colorable, it is a fraud which the Courts are authorized to pronounce as the judgment of the law. Such sales, unaccompanied with the delivery of possession to the vendee, are void against creditors of the vendor, though good as between the parties.\nIn this case the purchase appears to have been bond fide, for value, and on the day of sale, a substantial change of possession by delivery to the vendee, and the exclusive possession of the mare by the agents of the plaintiff in his employment, for a period of five weeks. Whilst this mare was on the farm of Brady, used for such purposes as his interests required, was she, not his property for every purpose ? Was there in that possession a legal presumption of fraud, of which a Court could take cognisance ? We think not. There was no legal fraud, then, presumable to avoid the sale. The possession delivered and taken was not pro forma, for an hour or a day, as a device to give color to the transaction and an appearance of reality that was deceptive. The mare was withdrawn entirely from the possession or supervision of the vendor, and was in the occupancy of Brady, the vendee, for the ordinary purposes for which it was adapted. The transfer of possession was not only actual, substantial, but continued. We cannot think that a loan of the mare by Brady to Graut, for a special purpose and limited time, made five weeks after the sale, would by its own mere operation render the sale invalid, and authorize a Court to pronounce it fraudulent in law.\nThe rule of law we are disposed to maintain as inflexible which makes it a fraud per se if the possession does not follow as well as accompany the transfer : Babb v. Clemson, 10 Ser. & R. 419; Young v. McClure, 2 W. & Ser. 150; Carpenter v. Mayer, 5 Watts 485. In Babb v. Clemson there was no delivery, and in Carpenter v. Mayer there was no delivery for the period of five weeks; and in Young v. McClure there was a change of possession for one hour only, and even during that hour the possession was not exclusive. It has been ruled in a later case not reported, that the vendee\u2019s possession must continue, for if the property is returned after a short interval, the transaction is colorahle and fraudulent. But the presumption of legal fraud is rebutted where there is in the vendee an exclusive notorious possession, with the use of the property in the ordinary way. If the fact of the property being found after a month or more in the hands of the vendor, is suspicious, and may raise a question of collusion, it is still susceptible of explanation under the circumstances, and may be consistent with a fair and bond fide sale of the property, all which, as evidence or not of actual fraud, were facts for the consideration of the jury.\nThe Court below, after assuming the facts somewhat too strongly against the plaintiff, in their charge to the jury said that the change of possession for the time stated, \u201c would not be such a continued one as the law requires, and upon the ground of legal fraud the defendant would be entitled to a verdict.\u201d\nIn the view taken of the facts in this case, and the law applicable to them by this Court, such possession did follow and accompany the transfer, as would rebut the presumption of legal fraud, and the Court erred in ruling the case against the plaintiff on the ground of legal fraud, instead of submitting the question of collusion and actual fraud to the jury for their consideration and decision under all the circumstances.\nThere being this misdirection by the Court below, the judgment is reversed, and a venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Chambers, J."
+      }
+    ],
+    "attorneys": [
+      "Burrell, for plaintiff in error,",
+      "Oowan, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Brady versus Haines.\nA defendant in an execution in the hands of a constable, sold a mare to the plaintiff, a part of the price was paid to the constable, who knew of the sale, in discharge of the execution, and the purchaser received possession of the mare. After retaining possession for more than five weeks, the purchaser lent the mare to the previous owner for a special purpose, and whilst in \u2019his possession it was levied on, on another execution against him, by the same constable. It was held, that the voluntary sale of the animal was not a legal fraud, but if actual fraud had been alleged that question should have been submitted to the jury.\nError to the Common Pleas of Westmoreland county.\nThis is an action of trespass by Hugh Y. Brady v. Benjamin Haines, a constable, for taking plaintiff\u2019s mare in execution, as' the property of one Samuel Graut. In the Court below, the case turned on the question of legal fraud. The plaintiff gave evidence to show that he bought the mare from G-aut, on the 2d Feb. 1850, with Haines\u2019s knowledge, who had then an execution against Gaut; that he paid Gaut $15 in cash, which Haines received, to satisfy that execution, and the residue of the price the plaintiff credited to Gaut on book account against him; that the mare went into Brady\u2019s possession at the sale, and so continued until about the middle of March, when he loaned her to Gaut to plough clay for brick-making, and allowed him to keep her until he, Brady, should return from Philadelphia. He returned on or about the 12th April, 1850, on which day or the day previous thereto, Haines levied on the mare on another execution against Gaut.\nKnox, J., charged the jury, that if the plaintiff, after having had possession of the mare for two or three weeks, permitted her to be returned to Gaut, the former owner, and to remain in his possession from that time until the levy, a period of nearly or quite two months, the change of possession would not be such a continued one as the law requires, and upon the ground of legal fraud the defendant would be entitled to a verdict.\nVerdict was rendered for the defendant.\nIt was assigned for error : 1. The Court erred in assuming the facts more strongly against the plaintiff than the evidence warranted. 2. The Court erred in charging the jury that upon the ground of legal fraud the defendant was entitled to their verdict.\nBurrell, for plaintiff in error,\nreferred to Law Library, vol. 33, note ; 1 Smith\u2019s Leading Cases, p. 42, 46, 50, 52; 2 Wharton 302, Streeper v. Eckert; 3 Barr 224, McVicker v. May.\nOowan, for defendant in error,\nreferred to 2 W. & Ser. 147, Young v. McClure; 10 Ser. C R. 201, Cunningham v. Neville; 2 Wharton 302, Streeper v. Eckert; 13 Ser. & R. 128, 131, Cameron v. Montgomery; 6 W. & Ser. 94, McBride v. McClelland.\nOct. 20,"
+  },
+  "file_name": "0113-01",
+  "first_page_order": 113,
+  "last_page_order": 115
+}

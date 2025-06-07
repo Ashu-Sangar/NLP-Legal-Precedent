@@ -1,0 +1,127 @@
+{
+  "id": 400630,
+  "name": "Heart v. Hummel",
+  "name_abbreviation": "Heart v. Hummel",
+  "decision_date": "1846-07-29",
+  "docket_number": "",
+  "first_page": "414",
+  "last_page": "415",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 414"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts, 350",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts, 249",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850926
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0249-01"
+      ]
+    },
+    {
+      "cite": "4 Watts & Serg. 290",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856496
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0290-01"
+      ]
+    },
+    {
+      "cite": "5 Serg. & Rawle, 404",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1804449
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/5/0404-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 544",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848457
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0544-01"
+      ]
+    },
+    {
+      "cite": "12 Serg. & Rawle, 82",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 290,
+    "char_count": 4040,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 8.235333359749225e-08,
+      "percentile": 0.4774336264392248
+    },
+    "sha256": "400a9ed05406d52449437cb7140f037d3b996bea0fcf40690dff481ec2d87ef9",
+    "simhash": "1:fc502a65a6219618",
+    "word_count": 743
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Heart v. Hummel."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe evidence consisted not merely of a' shop-book authenticated by the oath of the plaintiff, but of the testimony of a witness whose recollection, invigorated by the entries; enabled him to swear to the facts stated in them. Even ifhe could not, what would have prevented him from proving that he knew the facts to be accurately stated at the time, in order to introduce the entries as authenticated memoranda which may be independent evidence ? Our rule in regard to shop-books, differs from the English rule no further than to allow the oath of authentication to be made by the plaintiff instead of a clerk; and this only when the plaintiff was his own book-keeper, as appears in the leading case; and entries authenticated by the oath of a clerk who has forgotten the transaction, are no more nor less than authenticated memoranda, yet they are competent evidence. It is fallacious to suppose that the law prefers memory to writing for the preservation of evidence; or that a memorandum which fails to move the memory of him who made it, cannot be introduced as independent proof, preceded by ins oath, of its accuracy when it was written. The contrary was decided in Doe v. Perkins, 3 Term Rep. 749, and Tanner v. Taylor, there cited; where it was held, that if the witness cannot eventually swear- from his own knowledge, the memorandum itself must be produced. Accordant, is State v. Rawle, 2 Nott & McCord, 331, in which it was determined that a memorandum proved by a witness who can swear to no more than that it was accurately made by him at the time to perpetuate the memory of; the fact, is competent evidence in both civil and criminal cases. Nor is Smith v. Lane, 12 Serg. & Rawle, 82, inconsistent with it. In that case, the bookkeeper had not sworn to all the entries; and Chief Justice Tilghman said, that if the book had been corroborated by his oath, he would not say that they might not have been evidence. Perhaps the book was properly rejected for that reason; but I am far from giving up the principle on which I insisted. In every aspect, the entries were properly received in the case before us.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for plaintiff in error.",
+      "Slenker, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Heart v. Hummel.\nA witness may state the number of days on which men were employed, from a book kept by himself, in which he knows he correctly entered the days they were at work, about the time at which the work was done.\nA witness may swear to a memorandum which he knew to be true when he made if Per Gibson, G. J.\nError, from the Common Pleas of Union county.\nJuly 29. Assumpsit for work done. Plaintiff called a witness to prove the number of days his men had been employed. Witness stated he worked for plaintiff as his apprentice, while he was doing the work for defendant; that he kept an account of the work done by plaintiff and his hands; entries were made in the book on the last day of each week that they were engaged in the matter; if only one day in the week, at the end of that day; that he was present every day; that he had counted but one, and on that day was twice at the house, and saw the men engaged in the work.\nPlaintiff then offered the book containing the entries; defendant objecting, the court said the witness might give from the book the number of days, if he knew it by looking at the list. The witness then stated the number of the days.\nThis was the question here.\nMiller, for plaintiff in error.\nThe book offered and received in evidence, was not such a book of original entries as is recognised by law. Walter v. Bollman, 8 Watts, 544; Rogers et al. v. Old, 5 Serg. & Rawle, 404; Wright v: Sharpe, 1 Brown R. 344; Nicholl v. Baldwin, 4 Watts & Serg. 290, 10 Watts, 249,\nSlenker, contr\u00e0.\nThe work was not performed by the job. The plaintiff resorted to the very best mode of proving the work done, the hands by whom it was performed, and the number of days each worked, viz.: a book kept by a disinterested witness, who swears that he made the entries at the end of each week, and that the book is correct. McCoy v. Lightner, 2 Watts, 350.\nJuly 29."
+  },
+  "file_name": "0414-01",
+  "first_page_order": 412,
+  "last_page_order": 413
+}

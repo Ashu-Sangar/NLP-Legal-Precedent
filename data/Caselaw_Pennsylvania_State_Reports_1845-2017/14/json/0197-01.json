@@ -1,0 +1,115 @@
+{
+  "id": 405902,
+  "name": "Lyon versus Daniels & Williams",
+  "name_abbreviation": "Lyon v. Daniels & Williams",
+  "decision_date": "1850-09",
+  "docket_number": "",
+  "first_page": "197",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Mass. 154",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2073049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/14/0135-01"
+      ]
+    },
+    {
+      "cite": "6 Pick. 117",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2011544
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/23/0117-01"
+      ]
+    },
+    {
+      "cite": "13 Johns. Rep. 334",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates 133",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812721
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0133-01"
+      ]
+    },
+    {
+      "cite": "4 Bin. 34",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 176,
+    "char_count": 2666,
+    "ocr_confidence": 0.386,
+    "pagerank": {
+      "raw": 1.2872082074048408e-07,
+      "percentile": 0.6189405251039732
+    },
+    "sha256": "bf126939d788cf66a62a9c0fdd07b94b32bc6370d26c80ba535b2aba068057c6",
+    "simhash": "1:c8646ad79edfab3a",
+    "word_count": 480
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lyon versus Daniels & Williams."
+    ],
+    "opinions": [
+      {
+        "text": "Per curiam.\n\u2014 There was evidence that John and Jacob B. Lyon were partners; and it was for the judge to decide it; but he had no power to direct a non-suit. The plaintiff had a right to go to the jury, if for no other purpose, to have the benefit, on error, of his bills of exceptions to evidence, which he could not have had, if he had submitted to a non-suit. He may perhaps make a better case on another trial.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Per curiam."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Lathy, for plaintiff in error. \u2014",
+      "MoCalmont, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Lyon versus Daniels & Williams.\n1. The court is to judge of evidence offered to prove the incompetency of a person offered as a witness, who is objected to as being a partner with the plaintiff.\n2. The court have no right to direct a 'non-suit.\nError to the Common Pleas of Clarion county.\nThis was an action of assumpsit on book account, brought by John Lyon vs. Daniels & Williams, partners. The narr. contained the common counts, and defendants plead the general issue, and payment, &c.\nPlaintiff called Jacob B. Lyon. He was objected to by defendants\u2019 counsel, who proposed to prove that he was a partner with John Lyon, in the contract in question \u2014 and that he ought to be joined as a plaintiff, &c.\nTo this offer of evidence, plaintiff\u2019s counsel objected, and the court overruled the objection.\nEvidence was accordingly given as to Jacob B. Lyon being a partner; and the court, being of opinion that the evidence proved to the court that Jacob B. Lyon was a partner with John Lyon in the contracts in question, rejected the evidence of Jacob B. Lyon.\nTo this opinion, plaintiff\u2019s counsel excepted.\nThere being no evidence, the court ordered a non-suit to be entered, and discharged the jury. After the jury had left the box, the plaintiff\u2019s counsel objected to the order of the court, directing a non-suit, and requested that the verdict of the jury he taken. The court refused to recall the jury \u2014 and the plaintiff\u2019s counsel again except to the opinion of the court.\nIt was inter alia, assigned for error:\nThe court erred in receiving the testimony offered by the defendants, to prove the witness, Jacob B. Lyon, to be a partner with the plaintiff. The case being at issue on the merits, the testimony should have been submitted to the jury.\nThe court erred in excluding Jacob B. Lyon as a witness. His testimony should have been received, and its credibility left with the jury.\nThe court erred in directing a non-suit to be entered against the consent of the plaintiff.\nThe case was argued by Lathy, for plaintiff in error. \u2014\nAs to\u00ab the last error, reference was made to 4 Bin. 34; 1 Ser. & R. 360; 2 Yeates 133; 13 Johns. Rep. 334; 6 Pick. 117; 14 Mass. 154.\nMoCalmont, for defendant in error."
+  },
+  "file_name": "0197-01",
+  "first_page_order": 197,
+  "last_page_order": 198
+}

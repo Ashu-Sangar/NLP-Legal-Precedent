@@ -1,0 +1,163 @@
+{
+  "id": 985027,
+  "name": "Hanna's Appeal",
+  "name_abbreviation": "Hanna's Appeal",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "53",
+  "last_page": "57",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Jones, 326",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682468
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/47/0326-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 171",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Johns. 241",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2136019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0243-01"
+      ]
+    },
+    {
+      "cite": "1 P. R. 112",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 W. & S. 104",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 258",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 R. 389",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 378",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 185",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840180
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0185-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 185",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820587
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0185-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 72",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 639,
+    "char_count": 13477,
+    "ocr_confidence": 0.499,
+    "pagerank": {
+      "raw": 3.3209345953310295e-07,
+      "percentile": 0.8730012830863885
+    },
+    "sha256": "6c7bef327a3123855df228d2a59e21cbb19659cc38eb625f8ac2665888e8323f",
+    "simhash": "1:27e1e00e09a234db",
+    "word_count": 2345
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hanna\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nThe personal estate is the primary fund for the payment of legacies. It is not relieved from liability in the first instance by a direction in the will making the legacies a charge on the real estate, unless that intention be indicated by the testator. When assets are received by the executor, sufficient to cover the expenses of administration, satisfy debts, and pay legacies, the real estate is discharged from further liability. The executor is a trustee for the legatees, and it is their duty to see that he makes a proper application of the funds collected by him for their benefit. If the assets are wasted, or misapplied, the loss falls on the legatees. The real estate charged is liable on a deficiency of assets; but not for the misapplication, waste, or insolvency of the executor.\nA devise to A. and his heirs, upon condition that he pay to the executors such sum as shall be necessary to pay certain legacies, and authorizing the executors, on default of payment, to sell the whole, or such part of the land as may be necessary to pay the legacies, is neither an estate upon condition nor a conditional limitation. There is no direction that on default of payment of the legacies the estate shall vest either in the heirs of the decedent or in his executors. The estate which, by force of the statute, accompanies a power to executors to sell, is vested for the purposes of remedy only, and not for the purpose of affecting the rights of the parties entitled. We must not subvert the manifest intention of the testator by adhering to technical forms of expression, and giving them an effect never thought of by him.\nIn the will before us it is plain that the fee simple of the lands devised vested in the devisees, and that the legacies were merely liens. When legacies are free from contingencies, and their value may be ascertained, a judicial sale of the land of the devisee discharges their liens. The sale is a conversion of the land into money, and the money is substituted in place of the land for the purpose of satisfying all who have claims upon it. If insufficient to pay them, it is because the land was not of sufficient value. If the money should be misapplied by the sheriff, it is not the fault of his vendee. The purchaser does all that the law requires when he pays the purchase-money to the proper officer of the law. After this is done, the parties having claims upon the fund must look after it. The land cannot be sold a second time to pay the same legacies.\nApplying these principles to the case in hand, we are bound to affirm the decree of the Orphans\u2019 Court.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Forward and Graither, for appellant.",
+      "Baer and Fdie, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Hanna\u2019s Appeal.\nThe personal estate is the primary fund for the payment of legacies; and it is not relieved from liability, in the first instance, where the legacy is made a charge upon the real estate, unless such be indicated in the will as the intention of the testator.\nThe receipt, by the executor, of assets sufficient to pay the legacies, discharges the real estate from further liability therefor.\nWhere such assets are wasted or misapplied by the executor, the loss falls upon the legatee, and he cannot resort to the real estate upon which the legacy was charged.\nA devise to A. and his heirs, upon condition that he pay to the executors such sum as shall be necessary to pay certain legacies, and in default thereof, that the executors sell a part or the whole of the land for that purpose, creates neither an estate upon condition, nor a conditional limitation, there being no devise over in case of such default.\nSuch a devise vests the fee simple of the lands in the devisee; and the legacy is but a lien, which is discharged by a sheriff's sale of the land, as the property of the devisee.\nAppeal from the Orphans\u2019 Court of Somerset county.\nOn the 27th day of January 1837, Robert McClintock made his last will and testament, in which, after making certain specific bequests of personal property to certain of his children named, for the purpose of equalizing them, the will proceeded:\u2014\n\u201c I give and bequeath to my daughter Sally, intermarried with Laughlin McNeill, the sum of eight hundred dollars. Also, I give and bequeath to my daughter Polly, intermarried with James Silbaugh, the sum of eight hundred dollars. Also, I give and bequeath to my daughter Betsy, intermarried to Jonas Marker, the sum of seven hundred dollars. Also, I give and bequeath to my daughter Abigail, intermarried with Darick Burd, the sum of seven hundred dollars ; the last four legacies to be paid as soon as funds can be raised by the executors, and can be conveniently spared for that purpose. I also give and bequeath to my daughter Ellen the sum of eight hundred dollars, to be paid her by my executors when she arrives at the age of twenty-one years. I also give and bequeath to my daughter Margaret the sum of eight hundred dollars, to be paid her by my executors when she arrives at the age of twenty-one years. I also give and bequeath to my grandson William Jackson McClintock, son of my daughter Abigail, one hundred dollars, to be paid him on his arrival at the age of twenty-one years, by my executors. I also give and bequeath to my granddaughter Joanna Hinebaugh, daughter of my daughter Betsy, now intermarried with Jonas Marker, the sum of one hundred dollars, to be paid her by my executors on her arriving at the age of twenty-one years.\u201d\nHis real estate lie devised to his sons, as follows:\u2014\n\u201cAnd as to my sons, John, William, Alexander, and Mitchell, it is my will that they shall have equal shares, the one with the other, after paying the legacies aforesaid; and for this purpose I make the following valuation and disposition of the residue of my real estate, to wit: \u2014 I devise unto my son John and his heirs for ever, the plantation and tract of land on which said John now resides, in Addison township, called the Green Place; together with a tract purchased by me from Frederick Augustine, adjoining said Green tract; together with another tract of thirty-three acres and twenty-four perches, adjoining the Green tracts also, and purchased by me from Laughlin McNeill, all in Addison township; and also two tracts of land in Turkeyfoot township, across the river and opposite to said tracts before mentioned, on which Jacob Marker and Susan Nichalo now live, conveyed to me by Abraham Morrison, Esq.; all of which tracts I value at fifteen hundred dollars; upon condition that they pay to my executors, within four years after my decease, such sum as, from the valuation of said tracts of land, with due regard to proportion, it shall be necessary to raise out of said tracts in order to pay the legacies heretofore directed to be paid by my executors; and if he fail to pay such sum on demand, I hereby direct my executors to make sale of so much of said lands as may be necessary to raise the just proportion of said fund, and make a sufficient conveyance for the same to the purchaser. I also give and devise to my son William McOlintock, the farm on which he now lives in Turkeyfoot township, called the Hartzell Tract, in fee simple; and also the tract adjoining that called the Mowry Tract, in fee simple; valued at eight hundred dollars; upon condition that he pay to my executors, within four years from my decease, such sum as, from the valuation aforesaid, shall be justly due, and necessary to be raised out of said lands to create the fund for the payment of the legacies aforesaid, otherwise my executors shall sell and convey such part as shall be necessary to raise said fund. I also give and devise unto my son Alexander, the Home Place on which I now reside, at the decease or marriage of my wife Rachel, in fee simple; and also the tract adjoining said place, purchased from James Campbell at her death in fee simple; upon condition that he pay to my executors within four years after the decease or marriage of my said wife, such sum as from the valuation, which is fifteen hundred dollars, shall be justly due and necessary to be raised out of said tract to pay due proportion of the legacies aforesaid. I also give and devise to my son Mitchell, the tract of land on which my brother William Mc-Clintock, lately lived in Addison township, purchased by me of Charles Ogle and Samuel G. Bailey in fee simple; on condition that he pay to my executors within- four years after my death, such sum as from the valuation of said land \u2014 which is also fifteen hundred dollars \u2014 shall be proportionably due and necessary to be raised out of said land to pay the legacies aforesaid.\u201d\nHe appointed Rachel McClintock executrix; his son Alexander, Bernard Connelly, .Jr., and Henry L. Holbrook, executors of this will, and died about the 1st March following. The will was proved on the 28th of the same month, and letters testamentary issued to the persons named as executrix and executors; except Bernard Connelly, who renounced.\nOn the 1st of November 1841, the executors filed an account, showing a balance in their hands of $1792.15, which was. duly confirmed. At the January court 1842, Henry L. Holbrook, on his own petition, representing that there was no money or property belonging to the estate of the testator in his hands, was discharged. The other executors were shortly after dismissed by the court, at the instance of one of the legatees, upon the allegation that they were wasting and mismanaging the estate, and letters of administration, with the will annexed, were issued to John Hanna, Esq.\nThe devisees entered into possession of the several tracts of-land devised to them, and during the years 1841, 1842, and 1843, judgments were recovered against them respectively. Upon which their lands were severally seized and sold by the sheriff, and realized the sum of $2844.46, besides costs.\nThe money was brought into court for distribution, and was. claimed by the creditors and legatees of Robert McClintock, deceased. Of the amount, $484.77 were applied to debts and expenses of the estate of testator, and the balance of $2359.68 was distributed among the legatees as follows:\u2014\nSally McClintock, intermarried with Laughlin McNeill, $428.20\nPolly McClintock, intermarried with James Silbaugh, 387.20\nBetsy McClintock, intermarried with Jonas Marker, 259.67\nAbigail McClintock, intermarried with Derick Burd, 374.67 Ellen McClintock, intermarried with Perry Mitchell, 428.20 Margaret McClintock 428.20\nWilliam J. McClintock 53.54f\nTotal, $2359.68|-\nThe balance of the legacies remained unpaid, and the amount in the hands of the executors, on the account filed in 1841, was wasted by them, and no part of it was applied to the debts and legacies.\nOn the 2d February 1857, John Hanna, administrator with the will annexed of Robert McClintock, deceased, presented his petition to the Orphans\u2019 Court of Somerset county, setting forth the bequests and devises of the will, the non-payment of the legacies, and praying for an order to sell the lands for the payment of the same. The court thereupon granted a citation on all parties interested to appear and answer.\nOn the 24th February 1857, the answers respectively of Daniel Weyand, Henry Glotfeltz, and Henry Younkin, parties claiming under the sheriff\u2019s vendees, were filed, denying the liability of the lands in their hands to be sold for the payment of the said legacies, and alleging that they had been discharged therefrom by the sheriff\u2019s sales, under which they claim; and that the legatees having severally received their proportion of the proceeds of the sheriff\u2019s sales, were thereby estopped from resorting to the same lands again for any balance that might remain unpaid.\nThe court appointed an auditor, who reported the facts as substantially herein set forth. The court thereupon dismissed the petition. And from this decree, Hanna, the administrator with the will annexed, appealed.\nForward and Graither, for appellant.\nThat the devise to the sons created in them an estate upon condition: Co. Litt. 201. The words which are most apt to create such an estate are here used. It is perhaps more properly described as one of conditional limitation: 2 Black. Com. 155-6; 6 Cro. Eliz. 205; Greenl. Cruise Dig. tit. 16, ch. 2. \u00a7 30; Fearne on Cont. Rem. 407. A direction to executors to sell lands breaks the descent, and vests the estate in the executors: Silverthorn v. McKinster, 2 Jones 72; Allison v. Wilson, 13 S & R. 332; Miller v. Meech, 8 Barr 447; Morrow v. Brenizer, 2 Rawle 185; Allison v. Kurtz, 2 Watts 185.\nThe judgments against the devisees were entered after the estate had vested in the expcutors, by a failure to pay the legacies. The purchasers can be in no better situation than the devisees whose title they purchased. A judicial sale divests liens, not estates: Callin v. Robinson, 2 Watts 378.\nBaer and Fdie, for appellees.\n1. That the legacies were charged on land: Ripple v. Ripple, 1 R. 389; Hoover v. Hoover, 5 Barr 351; Sheaffer\u2019s Appeal, 8 Barr 38; Wright\u2019s Appeal, 2 Jones 258. 2. That a judicial sale discharged the legacies: Randolph\u2019s Appeal, 5 Barr 245; Tower\u2019s Appropriation, 9 W. & S. 104; Barnet v. Washebaugh, 16 S. & R. 410; McLanahan v. Wyant, 1 P. R. 112. 3. That the administrators and heirs are estopped by receipt of purchase-money: Co. Litt. 146 ; 10 Johns. 241; Adlum v. Yard, 1 Rawle 171; Crowell v. Meconkey, 5 Barr 176; Furness v. Ewing, 2 Barr 479; Smith v. Warden, 7 Harris 430; 7 Barr 518; 2 Jones, 326; 2 Harris 384; 5 Ibid. 348 ; 6 Ibid. 346."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 53,
+  "last_page_order": 57
+}

@@ -1,0 +1,383 @@
+{
+  "id": 998420,
+  "name": "Allen and Wife versus Henderson",
+  "name_abbreviation": "Allen v. Henderson",
+  "decision_date": "1865-05-15",
+  "docket_number": "",
+  "first_page": "333",
+  "last_page": "346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Pa. 333"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Johns. 281",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6065002
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0223-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 97",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 197",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle 489",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822541
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0489-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 284",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481837
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "388"
+        },
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0284-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 59",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822516
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0059-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 23",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wh. 445",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830447
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0445-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 9",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "case_ids": [
+        626208
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wright/1/0009-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 160",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Pick. 104",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2020340
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/32/0104-01"
+      ]
+    },
+    {
+      "cite": "5 Wright 243",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dall. 47",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408467,
+        12126603,
+        1408414,
+        12126459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0045-01",
+        "/dall/1/0047-02",
+        "/us/1/0045-02",
+        "/dall/1/0047-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 447",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0447-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 437",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856500
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0437-01"
+      ]
+    },
+    {
+      "cite": "4 Wright 29",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 18",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0018-01"
+      ]
+    },
+    {
+      "cite": "7 Wright 94",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Grant 60",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        225881
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/1/0060-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 400",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812627
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0400-01"
+      ]
+    },
+    {
+      "cite": "2 Wright 166",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wh. 139",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829013
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0139-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 31",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Binn. 476",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0476-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 10",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "case_ids": [
+        625946
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wright/1/0010-01"
+      ]
+    },
+    {
+      "cite": "2 Grant 345",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        227670
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/2/0345-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 38",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483406
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0038-01"
+      ]
+    },
+    {
+      "cite": "8 Wright 434",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1219,
+    "char_count": 34720,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 2.819292346515648e-07,
+      "percentile": 0.8382183671712135
+    },
+    "sha256": "8363dbfb1ec60198e50ad75547b74e9fdf7d5cb6e1431a4b0e55df3c5ec1b024",
+    "simhash": "1:b170acd244aca6f7",
+    "word_count": 6180
+  },
+  "last_updated": "2024-02-27T21:13:48.159806+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen and Wife versus Henderson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, C. J.\nThe testator, after distributing his estate among his several children, in trust for their respective heirs, appointed two general trustees of his will, 'but devised to them no interest and assigned no duties. Though he appointed thus no less than six trustees, it will probably be found that he created not a single valid trust. The second clause of his will, devising the Filbert street house and the Sixteenth street house to his daughter Elizabeth, is the only part of the instrument to engage our attention at present. These properties he devised to his daughter, Elizabeth J. Curtis, now Mrs. Allen, \u201c in trust for her heirs until they are twenty-one years old; until which time she is to have the income arising therefrom for her support and the support and education of her heirs, and should she die leaving no heirs of her body, then said properties to revert to her brothers or their heirs.\u201d By heirs, and heirs of her body, he doubtless meant to designate her children if she should have any (she being then, and at the time of his death, unmarried), the income t\u00f3 be applied to her and their support until they should arrive at twenty-one years of age. But when they should arrive at twenty-one, what was to become of the estate? Was it to vest in her or in them ? Was the income still to be shared between them, or was it to belong exclusively to her, or to them ? On these points the will is silent. In the event of her death leaving no heirs of her body, the properties were to go over, but if she left heirs of her body, the necessary implication is that they would take as heirs by succession from her, and not as devisees directly from the testator. It follows, therefore, that the word heirs in this clause must be considered a word of limitation and not a word of purchase. And the failure of heirs contemplated in the devise over, was an indefinite failure \u2014 a failure at any time after her death, and not merely a failure at the time of her death.\nIt was then, in substance, a devise in trust for the issue of her body, with a devise over, limited upon an indefinite failure of issue, and that would create an estate tail in her if any interest whatever vested in her.\nAnd notwithstanding the trust that is expressed, can it be doubted that an interest was intended to vest in her ? The trust was an impossible one. She could not be trustee for her heirs. Nam nemo est hceres viventis. She was unmarried at the death of the testator, and though married since, she is childless still, so that if heirs means children, she is not yet anything more than a contingent trustee. Rut she has a present vested interest in the income of the estate. That word income would be sufficient to pass the estate, and though her right to share in the income seems to be limited to the time when her heirs should attain twenty-one, yet there is nothing to divest it even upon the happening of that event. It is not given to the children at twenty-one, nor taken away from their mother.\nIn view of this condition of affairs, we hold that the trust fails, and that an estate in fee tail vested in Mrs. Allen, -which our Act of 1855 converted into a fee simple; and therefore that the judgment should be affirmed.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "J. B. Townsend, for plaintiffs in error.",
+      "George L. Crawford, for defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Allen and Wife versus Henderson.\nu Heirs\u201d in a devise, when a word of limitation and not of purchase.\u2014 Creation of estates tail by will.\u2014 Grant of income, when sufficient to pass whole estate devised.\nA testator devised to his daughter, then and at the time of his death unmarried, certain real estate, \u201c in trust for her heirs until they are twenty-one years old, until which time she is to have the income arising therefrom for her support and the support and education of her heirs, and should she die leaving no heirs of her body, then said properties to revert to her brothers or their heirs.\u201d Held,\n1. That the word \u201c heirs\u201d must be considered a word of limitation and not of purchase; and the failure of heirs contemplated in the devise over, an indefinite failure:\n2. That the devise in trust for the issue of her body, with a devise over limited upon an indefinite failure of issue, created an estate tail, if any interest vested in her:\n3. That the grant of the income did pass the estate; and therefore\n4. That the trust failed and the devisee took an estate in fee tail, which, by the Act of 27th April 1855, became enlarged into a fee simple.\nCertified from the Court at Nisi Prius.\nThis was an amicable action, between George N. Allen and Elizabeth J. his wife (in right and to the use of said Elizabeth), plaintiffs, and Henry Henderson, defendant, in which the following case was stated for the opinion of the court:\u2014\nBenjamin T. Curtis, deceased, late of the city of Philadelphia, being seised in fee simple, in his lifetime, of the house and lot No. 1615 Filbert street, in the city of Philadelphia, hereinafter described, made his last will and testament in the words following, viz.:\u2014\n\u201c 1st. Dwelling-house and lot, No. 1330 Arch street.\n\u201cThis property I give to my wife, Sarah Z. Curtis, during her life, and while she remains unmarried, and at her death, or in the event of her marriage, then the above property to revert to and vest in my daughter, Elizabeth J. Curtis, in trust for her heirs. The income from said property to be used for her support, and the education and support of her heirs. I also give to my said wife for her support, one thousand dollars a year during her life, and so long as she remains single, said sum of one thousand dollars to be taken from the income of such of my estate as is not otherwise appropriated.\n\u201cBenj. T. Curtis.\n\u201c2d. Dwelling-house and lot, No. 1615 Filbert street, \u201c \u201c \u201c No. North 16th street, near Filbert Aiiueib.\n\u201cThe above two properties I give to my daughter, Elizabeth J. Curtis, in trust for her heirs until they are twenty-one years old \u2014 until which time she is to have the income arising therefrom for her support, and the sup-Port an(^ education of her'heirs, and should she die leaving no heirs of her body, then said properties to revert to her brothers, or their heirs.\n\u201cBenj. T. Curtis.\n\u201c 3d. Store, dwelling-house, and shop and lot, No. 835 Market street.\n\u201c The above property I give to my oldest son, Edmund A. Curtis, in trust for his heirs, he to 'have the income arising therefrom until his heirs are twenty-one years gaid income to be used for the support and education of his heirs and himself.\n\u201cBenj. T. Curtis.\n\u201c 4th. Store, dwelling-house, and lot, No. 921 Market street.\n\u201c The above property I give to my second son, Lamson Scovill Curtis, in trust for his heirs \u2014 he to have the income arising from said property for his support, and the SUpp0rt and education of his heirs until they are twenty-pne years old.\n\u201cBenj. T. Curtis.\n\u201c 5th. Dwelling-house, slaughter-house, &c., and lot of ground, 50 x 96 on Twenty-seventh or Minor street, near Parrish. Lot on Spring Garden street, between Twenty-fourth and Twenty-fifth streets, 64 X 180 feet to Centre street; ground-rent adjoining the last above-named property by Cornelius Kennedy of $128 per year. Ground-rent by Nathan Dodge, on Tioga street, Kenderton, $132 per year. Mortgage, John Ward on house in Filbert street. Ground-rent and mortgage, Stephen Burcus.\n\u201c The above properties I give to my third son, Thomas J. Curtis, in trust for his heirs, he to have the income arising from said properties for his support, and the support and education of heirs until they are twenty-one years old.\n\u201cBenj. T. Curtis.\nU ^th. Mortgage by D. W. Prescott on store and lot on South Water street. Mortgage by George Cubbler on dwelling-house, Poplar street. Nineteen shares North America. Thirty-seven city bonds.\n\u201cThe above property I give to my fourth son, William De Forrest Curtis, in trust for his heirs, he to have the income arising therefrom for his support, and the support of and education of his heirs.\n\u201cBenj. T. Curtis.\n\u201c It is my will that the balance of my estate, other than is hereinbefore disposed of, shall be invested in bonds of the city of Philadelphia, or of the state of Pennsylvania, and the income arising therefrom, or so much as is necessary, shall be used for the support and education of my wife and children and their immediate descendants, and I do hereby appoint James C. Hand and Coates Walton trustees to this my will.\n\u201c Witness my hand this third day of August, eighteen hundred and fifty-eight, August 3d 1858.\n\u201cBenj. T. Curtis.\u201d\n[Across the foregoing clause these words were written by the testator, but without any signature: \u2014 ]\n\u201c Such portion of my estate as is not hereinbefore disposed of, I wish divided among my children equally, each receiving their portion as they arrive at the age of twenty-one years.\u201d\n\u201c The law of Pennsylvania, I believe, says there shall be one or two witnesses to a will. I do not, however, see the necessity of witnesses in this case, it is easy to prove my handwriting and signature, and also the soundness of my mind at this present writing, all of which I do not at present wish to make public.\n\u201cB. T. Curtis.\u201d\nBenjamin T. Curtis thereafter, viz., December 4th, A. D. 1859, died, leaving surviving him, inter alios, his daughter, the said Elizabeth J. Curtis, plaintiff above named, who thereafter, viz., November 6th, A. D. 1860, was intermarried with the plaintiff, George N. Allen.\nThereafter, viz., November 30th, A. D. 1864, the said George N. Allen and Elizabeth J. his wife, and Henry Henderson executed the following agreement, viz.:\u2014\n\u201c Memorandum. \u2014 That it is agreed between George N. Allen and Elizabeth J. his wife, of the one part, and Henry Henderson, of the other part, that the said George N. Allen and Elizabeth J. his wife shall, on or before the 14th day of December next, well and sufficiently grant, convey, and assure unto the said Henry Henderson, his heirs and assigns, in fee simple, clear of all encumbrances, all that certain three-story brick messuage or tenement and lot or piece of ground situate on the north side of Filbert street, at the distance of one hundred and eighty-three feet westward from the west side of Sixteenth street, in the city of Philadelphia, containing in front or breadth on the said Filbert street fifteen feet, and in length or depth northward one hundred and twenty-seven feet to Cuthbert, late Ann street, being No. 1615 Filbert street; in consideration whereof the said Henry Henderson doth hereby agree to pay to the said Elizabeth J. Allen the sum of five thousand five hundred dollars on delivery of a conveyance of the said premises to the said Henry Henderson, in fee simple, clear of all encumbrances as above stipulated.\n\u201c In witness whereof the said parties hereto have hereunto set their hands and seals this 30th day of November, A. D. 1864.\n\u201c George N. Allen, [l. s.]\n\u201c Elizabeth J. Allen, [l. s.]\n\u201c Henry Henderson, [l. s.]\nSealed and delivered in presence of\n[The words \u201c Cuthbert, late\u201d being first interlined on line twelfth.]\n\u201c Theodore M. Allen,\n\u201c Chas. E. Allen.\u201d\nAnd thereafter, viz., December 14th, A. d. 1864, the said George N. Allen and Elizabeth J. his wife duly tendered to the said Henry Henderson a deed purporting to convey to him, in fee simple, the said premises, No. 1615 Filbert street, duly executed and acknowledged by them, the said George N. Allen and Elizabeth J. his wife, and thereupon the said Henry Henderson refused to pay the said sum of $5500 as aforesaid.\nIf the court be of opinion that the said Elizabeth J. Allen became, upon the death of the said Benjamin T. Curtis, under his said will, seised in fee simple of the said premises, No. 1615 Filbert street, then judgment to be entered for the plaintiffs for the sum of $5500; but if not, then judgment to be entered for the defendant, the posts to follow the judgment, and either party reserving the right to sue out a writ of error therein.\u201d\nGeorge N. Allen, L. S.]\nElizabeth J. Allen, [l. s.]\nHenry Henderson, [l. s.]\nThe case was argued before Agnew, J., who decided that the will gave to Elizabeth an estate for life, with remainder over on failure of heirs of her body, which by the rules of interpretation vested in her a fee tail, and by the Act of April 27th 1855, was enlarged into an estate in fee simple; and accordingly gave judgment in favour of plaintiffs for $5500, with costs; which was the error assigned.\nJ. B. Townsend, for plaintiffs in error.\nThere is no express gift to Elizabeth J. Curtis by the terms of the will for any greater estate than an estate for life. If a fee tail arises under the rules of construction it is by implication from the limitation over, \u201c if she should die leaving no heirs of her body.\u201d\nThe limitation in the 1st section of the clause is to her \u201c in trust for her heirs until they are twenty-one years old\u201d \u2014 until which time she is to have the income arising therefrom for her support, and the support and education of her heirs. It is not a gift of the beneficial ownership even for life, but only until her heirs (which should be read children) shall be twenty-one years of age. After this period shall have arrived, i. e. her children attaining twenty-one years of age, they are sole beneficial owners under the trust imposed upon her.\nThe class of cases in which the word heirs is to be construed children are reviewed in Smith on Executory Interests, \u00a7\u00a7 383 to 387, and a case very like this in the form of language used as to the cestui que trust is quoted Doe d. Haller v. Iron Monger, 3 East 583. Where the testator uses the word heir or heirs in such manner as to evince a manifest intent to designate a person or individuals who ostensibly stand in that situation that they are the heirs apparent or presumptive, it is construed a limitation or remainder to that particular person or persons: Smith on Executory Interests, \u00a7 388, and the cases there cited; Burchett v. Durdant, 2 Vent. 311; James v. Richardson, 1 Bro. Parl. Ca. 493; Lang v. Beaumont, 1 P. W. 229; Broking v. White, 2 B. W. Rep. 1010; Fearne 210, 212.\nThe rule in Shelley\u2019s Case will not apply where there are any words which refer not merely to the mode of succession but to the objects of succession, and clearly and unequivocally indicating them as individuals other than those who are to take simply as heirs, general or special, of the ancestors: Smith on Exec. Interests, \u00a7 479.\nThe implication that the word heirs in this will means children is irresistible \u2014 nemo est hares viventis \u2014 and yet the daughter Elizabeth (then unmarried and still without children) is made trustee for her heirs, which she could not be, according to the legal definition of the word heirs, for she can have no heirs until she be dead. The second clause gives her some beneficial interest, for it says she is to have \u201c the income arising therefrom for her support, and the support and education of her heirs,\u201d implying clearly a joint beneficial interest at the same time in herself and a class of persons whom the testator designates as \u201cher heirs.\u201d Now, if the children are to be considered as the particular class of individuals designed and intended by the word heirs, as used in the preceding clauses of this devise, the subsequent limitation over if Elizabeth should die without leaving heirs of her body,if even it be held to create a fee tail by implication, would not defeat the executory devise to the children if such words or gift to a person having no children would create that limitation.\nThe estates thus created would be a life estate in Elizabeth, for the use of herself and her children; contingent remainder (she having no children at the making of the will or now) to her children, if any she has, in fee; failing children, or issue to survive her, then to her brothers in fee. But the contingent remainder to the children is not defeated by her conveyance, because if they come in being, they take as special donees under the devises of the will, and defeat the subsequent fee tail limited to her.\nThe cases in which a fee tail is created by implication by reason of a limitation over, upon the devisee dying without issue or without heirs of his or her body, are qualified by a class of cases which establish as firmly that the implication will be rebutted by any expressions in the will which show clearly that the words \u201cissue,\u201d \u201cheirs,\u201d or \u201c heirs of the body,\u201d are used to designate a particular class of persons who are to become the source or base of a new inheritable stock: Fearne on Remainders 188, 189 ; Smith on Executory Interests 479 ; Findlay v. Biddle, 3 Binn. 160; Guthrie\u2019s Appeal, 1 Wright 9; Powell v. Board of Missions (Carson\u2019s Will), 13 Id. 46.\nThe intention of the testator, when manifest and not overborne by the settled law of construction, is to be sought out, and if capable of being carried into effect is obligatory. It is plain that he contemplated the coming into existence of a class of persons not in esse at the making of his will whom he styles his daughter\u2019s \u201c heirs;\u201d a class for whom his daughter is to hold in trust until they shall attain twenty-one years of age, and until that time the daughter and this class, called \u201cheirs,\u201d are together and jointly to have the usufruct of the property. Now, whatever may be the effect of the subsequent words, or whatever estate, by implication or otherwise, the daughter may take under the subsequent words \u201c and should she die leaving no heirs of her body;\u201d still it is an estate (however vested now before she has issue) which is liable to be displaced, so far as there may be persons come into being who will answer to the description of the class to be jointly benefited with her during her life.\nIf the true construction of the word \u201cheirs\u201d be to read it children, then it will not need a citation of authorities to show that it is a limitation in a will which will be effective, and the estate will open and let them in as they may come into being: Gest v. Way, 2 Wh. 445; Chamber v. Wilson, 2 Id. 495; De Haas v. Bunn, 2 Barr 337.\nGeorge L. Crawford, for defendants in error,\nsubmitted that Mrs. Allen became seised of the property in question at her father\u2019s death, under his will, in fee tail by construction, and in fee simple by operation of the Act of April 27th 1855, \u00a7 1, P. L. 368, upon her estate in tail.\nThat the will was to be construed in view of the following general rules of construction, viz.: That the law favours an absolute rather than a defeasible estate, Smith\u2019s Appeal, 11 Harris 9; Manderson v. Lukens, Id. 31; Rewalt v. Ulrich, Id. 388; a fee simple before all other estates, Act April 8th 1833, \u00a7 9, P. L. 249; an estate tail, because readily .barred, Vaughan v. Dickes, 8 Harris 509; and especially since Act of 1855, making it a fee simple \u2014 a remainder before an executory devise: Smith\u2019s Appeal, 11 Harris 9; Manderson v. Lukens, Id. 31; Criley v. Chamberlain, 6 Casey 161; a vested in preference to a contingent remainder, Graham\u2019s Appeal, 5 Barr 503; Smith\u2019s Appeal, 11 Harris 9; Manderson v. Lukens, Id. 31; Chew\u2019s Appeal, 1 Wright 23; and a primary to the sacrifice of a secondary intent, Smith\u2019s Appeal, 11 Harris 9; Rewalt v. Ulrich, Id. 388 ; that the first taker is the primary object of the testator\u2019s bounty, and preferred to issue not in being, the secondary object of his bounty, Paxton v. Lefferts, 3 Rawle 59; Smith\u2019s Appeal, 11 Harris 9; that the law favours the absolute vesting of an estate at the earliest moment, and making it available to the primary object of the testator\u2019s bounty, Rewalt v. Ulrich, 11 Harris 388; with the right of alienation, and subject to the rights of creditors, Steacy v. Rice, 3 Casey 75; Vaughan v. Dickes, 8 Harris 509; a distribution as nearly conformed to 'the general rules of inheritance as possible, Lipman\u2019s Appeal, 6 Casey 180; Smith\u2019s Appeal, 11 Harris 9; Rewalt v. Ulrich, Id. 388; and equality of distribution among heirs, Baeder v. Dietrich, 7 W. & S. 284; Malone v. Dobbins, 11 Harris 296; Rewalt v. Ulrich, Id. 388; that the English rule construing a devise in favour of the heir operates here, Estate of Mary Biddle, 4 Casey 59 ; Hitchcock v. Hitchcock, 11 Id. 393; with more force because all the heirs take, Walker v. Walker, 4 Casey 40; McIntyre v. Ramsey, 11 Harris 320; that a residuary devise is presumed to refer to other property not mentioned in the will, and not to supply words of limitation to previous clauses, Hansell v. Hubbell, 12 Harris 244; and that legal words are to be taken in their legal meaning, Clark v. Baker, 3 S. & R. 481; Criley v. Chamberlain, 6 Casey 161.\nI. The gift of the estate to the first taker, Mrs. Allen, is for life.\nThe latter clause, respecting the income, is the first in natural order, and provides, \u201cuntil\u201d her heirs are twenty-one years old, \u201c she is to have the income arising therefrom for her support, and the support and education of her heirs.\u201d\n1. If the limitation of her estate in the income is restricted by the superadded purpose for which it is partially given ; still she takes an estate for life by implication, by reason of the uncertainty of her ever having heirs, or if she have, of their attaining their majority: 2 Black. Com. 121.\n2. The designation of time applies to that partial purpose only, the words \u201cuntil which time\u201d being transposed from their natural place after the words \u201c the support and education of her heirs,\u201d \u2014 and that partial purpose is not an essential part of the limitation, but merely expressive of one of the motives of the testator in giving her the income, tor enable her to support and educate her heirs during minority, while he had also in view \u201c her support,\u201d which would be as or more necessary after her heirs became of age, than before, and an intention to disinherit her in her old age not being presumed \u2014 in which case the gift is essentially for life. A comparison of this with the other clauses of the will (especially the sixth) where there is a variation of phraseology more expressive of this idea, with manifestly the same testamentary intention, corroborates this view.\n3. A less interest would leave part of the estate undisposed of.\nII. The gift of the \u201cincome,\u201d by implication for life, is equivalent to a limitation of the \u201cfreehold\u201d for life \u2014 \u201cprofits,\u201d Coke Lit. 4b; \u201cproceeds,\u201d Carlysle v. Cannon, 3 Rawle 489; \u201cprofits,\u201d \u201cuse,\u201d- \u201cmaintenance and support of,\u201d McCullough\u2019s Appeal, 2 Jones 197; \u201crents and profits,\u201d \u201cdividends and income,\u201d Van Rensselear v. Dunkin\u2019s Executors, 12 Harris 252.\nIII. This life estate is legal \u2014 the. superadded partial purpose, \u201cfor the support and education of her heirs,\u201d does not create a trust for unborn descendants.\nIV. The gift of the remainder is to her heirs in tail, in that character, by limitation and not purchase.\nThe words \u201c until they are twenty-one years old,\u201d in the limitation to her heirs, especially by comparison with the other clauses of the will, particularly the sixth, where they are omitted, but with a manifestly similar testamentary intention, does not limit the estate of the \u201cheirs,\u201d but applies to the \u201ctrust.\u201d\n1. The clause, \u201c the above two properties,\u201d passes the inheritance \u2014 the word \u201cproperty,\u201d meaning the testator\u2019s \u201cinterest\u201d in the land, as well as the land and carrying the fee: Morrison v. Semple, 6 Binn. 97; Stoever v. Stoever, 9 S. & R. 434; Foster v. Stewart, 6 Harris 23; 2 Jarman on Wills 190, and cases cited; Jackson v. Hansel, 17 Johns. 281.\n2. The same words are used in the will in gifts to other children of realty and personalty blended, with a manifest intent to convey the same interest, and the blending of personalty in 'the devise, operates to carry the inheritance in realty, whenever the words are sufficient to pass an absolute title to the personalty: Morrison v. Semple, 6 Binn. 97; Steele v. Thompson, 14 S. & R. 101; Weidman v. Maisch, 4 Harris 511.\n3. It is given to her \u201cheirs,\u201d which are the technical specific words for a fee simple estate, as a word of limitation, as \u201c heirs of the body\u201d are for an estate tail. The use of the words \u201cheirs of her body,\u201d in the devise over of the very property, defines the word \u201cheirs\u201d to be \u201cheirs of her body:\u201d Seely v. Seely, 8 Wright 434; Curtis v. Longstreth, Id. 297, &c.\nThose words are presumed to be used in their legal sense, and in the intent to make them words of purchase, must be so unequivocal and plain that no one can.misunderstand it: Elliott v. Pearsoll, 8 W. & S. 38; Campbell v. Jamison, 8 Barr 498; George v. Morgan, 4 Harris 95; Bender v. Flurie, 2 Grant 345; Guthrie\u2019s Appeal, 1 Wright 10; Cresswell\u2019s Appeal, 5 Id. 288.\nThey are used in reference to the inheritance, and to construe them as descriptive of children would destroy the effect of the word \u201cproperty\u201d as passing the inheritance.\nAs Mrs. Allen had no children at the time of the making of the will or of its taking effect, to construe them words of purchase, as referable to a class \u2014 future children, would postpone the vesting of the estate and make the remainder contingent.\nSuch a construction would give her children only an estate for their lives, there being no limitation to their heirs of the inheritance: Clayton v. Clayton, 3 Binn. 476; would leave part of the estate, the fee, undisposed of; and would tie up the estate, in remainder after the life estate, for the successive lives of unborn children, and suspend the power of alienation, which would be void as within-the rule against perpetuities.\nIt would exclude her grandchildren by her children dying before her, which the testator could not have intended.\nThe testator used the words in contradistinction to children, and to include children and their descendants, from his use of the words \u201c children\u201d and \u201c descendants\u201d in the last clause of the will.\nHe intended the donees of the remainder to take in the \u201c character\u201d of heirs of the body of the first taker, and not as designated persons, as she was unmarried, and therefore without children, at the date of the will.\nConstruing the gift to Mrs. Allen as liable to open to let in a contingent remainder to unborn children, leaves her an inducement not to have children.\nAccording to the late case of Carson\u2019s Will, 13 Wright, undkr similar limitations it required both words of distribution and of superadded limitation to reduce even the word \u201cissue\u201d to a word of purchase, neither of which occur in 'the present devise.\nV. The remainder is a legal estate. The limitation \u201cin trust for her heirs,\u201d being expressly executed by the Statute of Uses, and by law in Pennsylvania, there being no special trust to keep it alive: Kay v. Scates, 1 Wright 31, &c.\nVI. By the operation of the rule in Shelley\u2019s Case, a fee tail is executed in Mrs. Allen.\n1. This, as a rule of law, not of construction, is a settled rule of property in Pennsylvania, frustrating the clearest intent of the testator against the operation of the rule, or that the first taker shall have only an estate for life: George v. Morgan, 4 Harris 95; Bender v. Fleurie, 2 Grant 345; Steacy v. Rice, 3 Casey 75; Allen v. Markle, 12 Id. 117; Guthrie\u2019s Appeal, 1 Wright 10. Public convenience prohibits the frequent wish of testators to keep their estates to their posterity for ever: Caskey v. Brewer, 17 S. & R. 44; and the law frustrates such intention, \u25a0being wiser than any one man, Vaughan v. Dickes, 8 Harris 509 ; and will not treat as a life estate what is essentially one of inheritance, or permit one to take in the character of heir unless he takes in also the quality of heir, restrictions upon alienation not comporting with the interest of the state: Steacy v. Rice, 3 Casey 75; that modern reason supplying the obsolete feudal reasons which originated the rule.\n2. The rule operates whether the first taker takes the freehold by implication only, and it may determine in his lifetime: Merrill v. Ramsey, 1 Keb. 188, T. Raym. 126; where a limitation to A. during widowhood, and after her death to the heirs of her body, was construed an absolute estate tail in her. See Curtis v. Price, 12 Ves, 89; Fearne C. R. 31, 33, 40; Perkins 337; 2 Jarman, on Wills 245.\nWhatever the character of the estate given directly to Mrs. Allen and her heirs, she has an estate tail by implication, by force of the devise over \u201c should she die leaving no heirs of her body.\u201d\nWhere a prior limitation passes a fee, or only a life estate, or is indefinite, a devise over to another on an indefinite failure of issue of the first taker, gives him an estate tail by implication; and in devises of realty the words \u201c die leaving no heirs of her body\u201d import an indefinite failure of issue: Smith\u2019s Real and Pers. Prop. 116-117; \u201cwithout lawful issue,\u201d \u201cwithout leaving lawful issue,\u201d Clark v. Baker, 3 S. & R. 483; Sharpe v. Thompson, 1 Wh. 139; Criley v. Chamberlain, 6 Casey 161; Rauch v. Cresswell, Id. 158; Wagner v. Story, 2 Wright 166; \u201cwithout issue,\u201d Haines v. Witmer, 2 Yeates 400; Caskey v. Brewer, 17 S. & R. 441; Lapsley v. Lapsley, 9 Barr 130; Hansell v. Hubbell, 12 Harris 244 ; Potts\u2019s Appeal, 6 Casey 168; Doyle v. Mullady, 9 Id. 264; \u201cwithout a legal heir,\u201d Bradon v. Cannon, 1 Grant 60; 12 Harris 173; \u201cin default of issue,\u201d Barnet v. Deitrick, 7 Wright 94; \u201c die without a lawful issue,\u201d Heffner v. Kneppner, 6 Watts 18; \u201cfor want of lawful issue,\u201d Paxson v. Lefferts, 3 Rawle 59 ; \u201cin default of any issue of his or her body,\u201d Kay v. Scates, 1 Wright 31; \u201c die and not leave any issue,\u201d Pierce v. Hakes, 11 Harris 231; \u201cdie and leave no lawful issue,\u201d Haldeman v. Haldeman, 4 Wright 29; \u201c death without heirs of body,\u201d Irwin v. Dunwoody, 17 S. & R. 61; Shoemaker v. Huffnagle, 4 W. & S. 437; or any other words of a similar import, Eichelberger v. Barnitz, 9 Watts 447; Vaughan v. Dickes, 8 Harris 509; and a devise over to survivors will not imply a definite failure of issue, Potts\u2019s Appeal, 6 Casey 168 ; Doyle v. Mullady, 9 Id. 264; Bradon v. Cannon, 1 Grant 60; 12 Harris 173.\nThe manifest intention of the testator was to divide his property, in specie, in approximately equal portions, among his children for life, for the support of him or herself and issue, without power of alienation; and that on his or her decease, it should descend to his or her issue indefinitely. He was inops consilii, as is evident from the phraseology of the will and its concluding declaration. The peculiar form of the disposition to Mrs. Allen, giving her portion first to her heirs, and to -her in trust until her heirs are twenty-one years old, for them, and to her only the income for her support and the support and education of her heirs during minority, and a devise over on failure of issue, manifests only an intent to restrict her power of disposition over her portion, that she should have a life estate and her issue take by purchase.\nThe words \u201cuntil they are twenty-one years old\u201d is not a limitation of the estate of the heirs, but applies to the testator\u2019s idea of the \u201ctrust,\u201d and the words \u201cuntil which time\u201d are inverted from their natural place, at the end of the words \u201c the support and education of her heirs,\u201d just as the whole limitation of her portion is inverted from its natural order, which has occasioned the inversion of these words. A comparison of this limitation with the limitations to' the other children, especially that to William, corroborates this view. But that intent to restrict her power of alienation, and give her a life estate, and her issue a fee by purchase, is not more clear than the testator\u2019s intent that her portion should descend to all the heirs of her body, and should not go over except on an indefinite failure of her issue, as well as that she should enjoy it for her life.\nIn this view, Mrs. Allen takes an estate tail by implication; perhaps, strictly speaking, directly under the rule in Shelley\u2019s Case, in view of its modern reasons.\nThe primary or paramount intent, in cases falling within the rule, is, that the ancestor should have the enjoyment of the estate for his life, and subject thereto, that the estate should descend to all the heirs general or special of the ancestor, and to none but those who are heirs of the ancestor. The secondary or minor intent is, to accomplish the primary or paramount, in a particular mode; in such a mode (as the grantor or devisor imagines) as to secure that primary or paramount intent from being defeated by the act of the ancestor; in other words, the secondary or minor intent is that the ancestor should have a life estate only, and that the heirs should take by purchase : Smith\u2019s Real and Pers. Prop. 111. This doctrine of primary intent sacrificing the secondary intent, originally descriptive of the operation of the rule in Shelley\u2019s Case, is used as a mode of expressing the application of that rule, or its principle, to that class of eases in which estates tail are raised by implication, from limitations other than those directly within the rule (2 Jarm. on Wills 400 407), which extends to cases even where no gift is made to the first taker, but the testator intends all his issue should take, as far as the rules of descent will permit, and yet they cannot take by purchase, by reason of the rule against perpetuities (Smith\u2019s Real and Pers. Prop. 115, 116), or otherwise.\nWhere the intent is that the first taker shall have an estate for life, though that only, and that all the heirs of his body should take in succession, and the estate should not go over except on an indefinite failure of issue, that can only be effected\u2019 consistently with the rules of law, by giving the first taker an estate tail, which carries out the primary intent, viz.: that the first taker shall have the enjoyment of the estate for life, and subject thereto, that it shall descend to the heirs of his body, and supervenes the secondary intent to effect the primary in a particular way, by giving the first taker a life estate only, and his issue an estate by purchase: James\u2019s Claim, 1 Dall. 47; Clark v. Baker, 3 S. & R. 475; Carter v. McMichael, 10 Id. 429; Caskey v. Brewer, 17 Id. 441; Paxson v. Lefferts, 3 Rawle 59, and foregoing cases affirming the rule in Shelley\u2019s Case in Pennsylvania.\nThe devise to the heirs is immediate, and not by way of remainder, and Mrs. Allen was unmarried, and therefore without children at the time of the making of the will and of its taking effect, so that if the word \u201cheirs\u201d means \u201cchildren,\u201d she takes an estate tail thereby: Wild\u2019s Case, 6 Co. 16 b ; Powell on Dev. 496, 503; Bradon v. Cannon, 1 Grant 60; 12 Harris 173; Cole v. Vonbonhorst, 5 Wright 243; Seale v. Barter, 2 Bos. & P. 485; Davie v. Stevens, Doug. 321; Nightingale v. Burrell, 15 Pick. 104; and by the Act of April 27th 1855, \u00a7 1, P. L. 368, estates tail by devise are taken and construed as estates in fee simple.\nMay 15th 1865,"
+  },
+  "file_name": "0333-01",
+  "first_page_order": 335,
+  "last_page_order": 348
+}

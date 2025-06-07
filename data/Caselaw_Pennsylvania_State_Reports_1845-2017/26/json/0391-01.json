@@ -1,0 +1,91 @@
+{
+  "id": 977312,
+  "name": "McMurtrie versus Frazer",
+  "name_abbreviation": "McMurtrie v. Frazer",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "391",
+  "last_page": "392",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 391"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall. 379",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408482,
+        12148109,
+        12148182,
+        1408374,
+        1408344,
+        12148246
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0397-01",
+        "/dall/1/0379-01",
+        "/dall/1/0379-02",
+        "/us/1/0396-03",
+        "/us/1/0396-02",
+        "/dall/1/0379-03"
+      ]
+    },
+    {
+      "cite": "7 Watts 186",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 277,
+    "char_count": 4967,
+    "ocr_confidence": 0.45,
+    "sha256": "a19456fd89396aaab6cd1be66b3228313f3f538c2dfb9e0c9e4e579af43ca9b7",
+    "simhash": "1:a0e684a72c74fde8",
+    "word_count": 876
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McMurtrie versus Frazer."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nThe proceedings in this case were singularly regular down to the 3d December, 1855, when the defendant paid the first half-year\u2019s rent to the sheriff of Huntingdon county. Was that a good payment ? It was in time, for it was within thirty days after the instalment became due; but was it paid to the proper party ? The inquisition, which resulted in the extension of the real estate, had been held by the sheriff of Huntingdon county under a testatum fieri facias from Lancaster county, and the writ and his proceedings thereon had been returned into the Common Pleas of the latter county. The Act of Assembly imposed no duty upon him in respect to the collection of the semi-annual instalments. The 3d section of the Act of 13th October, 1840 (Brightly\u2019s Purdon, 339), says, they shall be payable to* the plaintiff.\nThe 4th section provides for the case where some other creditor of the defendant, than the plaintiff in the execution, intervenes and claims the money arising from such half-yearly instalments, and the court makes a decree awarding it to one of the conflicting claimants. In this ease the payment is to be made to the party entitled to receive the same under such decree, or to his agent or attorney, or to the sheriff of the proper county, where such person, his agent or attorney, reside out of the county. In proceedings on a testatum writ, who the sheriff of the proper county is \u2014 whether of the county from whence the writ issues, or of the county to which it is directed \u2014 might admit of some debate, but is a question of no importance in this case, for these proceedings were not under that section at all, but under the 3d already referred to. There was no conflict among lien creditors here \u2014 no decree, and no payment in pursuance of any action or order of the court. With this payment, therefore, the sheriff of neither county had anything to do. The defendant was at the mercy of the plaintiff when he failed to make the payment where the act enjoined it to be made.\nNor did the plaintiff take his venditioni exponas prematurely. The money was due to him on the 4th of November, 1855, and on the 5th of December the defendant had failed \u201c to make payment for a period of thirty days,\u201d and the plaintiff was entitled to his writ.\nThe decree of the court in dismissing the rule to show cause, is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Stewart, for plaintiff in error,",
+      "Kline and Liehey, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "McMurtrie versus Frazer.\nWhere lands have been extended and retained by the defendant, under the provisions of the Act of 12th October, 1840, the semi-annual payments must be made to the plaintiff in the writ, whether he, his agent or attorney, reside in the county or not.\nA payment to the sheriff of the proper county^ is only effectual, where under the provisions of the 4th section, the funds arising from the semi-annual payments have been awarded to some other than the plaintiff in the execution, and such person, his agent or attorney, does not reside in the county.\nQuaere, In case of a testatum writ, whether the payment should be made to the sheriff of the county where the lands lie, or where the writ issues from ?\nError to the Common Pleas of Lancaster county.\nReah Frazer, Esq., obtained in the Common Pleas of Lancaster \"county, on the 29th January, 1855, a judgment on verdict against B. E. McMurtrie for $435.18. On this judgment a testatum fi. fa. was issued to Huntingdon county, and levied on the real estate of the defendant, and inquisition held, and the property extended at the yearly rental of $90. Notice having been given by the plaintiff of his election to permit the defendant to retain the premises at the valuation, he, on the 4th day of May, by writing filed, agreed to retain the same at the rental fixed by the inquest. A return of these several proceedings was made to the Common Pleas of Lancaster county. On the 3d of December, 1855, the defendant paid to Joshua Greenland, Esq., sheriff of Huntingdon county, $45.22, the first semi-annual payment of the rental. The plaintiff resided in Lancaster county, and had no agent or attorney in Huntingdon county. On the 5th December, 1855, the plaintiff issued a venditioni to sell the premises. A motion was made to set aside this writ, and a rule granted for that purpose, which the Common Pleas of Lancaster county afterwards discharged. The defendant thereupon sued out the writ of error.\nThe only question raised was, whether the payment to the sheriff of Huntingdon county, the plaintiff not residing there, and having no agent or attorney in that county to receive the payments, was available to prevent the issuing of a vend. exp. and a sale of the premises.\nStewart, for plaintiff in error,\nrelied on the cases of Commonwealth v. Beale, 7 Watts 186, and Weaver v. Lawrence, 1 Dall. 379.\nKline and Liehey, for defendant in error,\nrelied on the 3d section of the Act of 13th October, 1840, which they contended, in eases like the present, required the payment to be made to the plaintiff."
+  },
+  "file_name": "0391-01",
+  "first_page_order": 391,
+  "last_page_order": 392
+}

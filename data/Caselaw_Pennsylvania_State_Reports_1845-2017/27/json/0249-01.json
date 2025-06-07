@@ -1,0 +1,169 @@
+{
+  "id": 979508,
+  "name": "Pierce versus Struthers",
+  "name_abbreviation": "Pierce v. Struthers",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "249",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Wheat. 598",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421287
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/22/0598-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. 413",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070870
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/18/0420-01"
+      ]
+    },
+    {
+      "cite": "2 Smith 223",
+      "category": "reporters:state",
+      "reporter": "Smith & H.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Wend. 491",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Mass. 483",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1999600
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/7/0405-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 587",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/5/0587-01"
+      ]
+    },
+    {
+      "cite": "24 Wend. 358",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Johns. 294",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128219
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/1/0294-01"
+      ]
+    },
+    {
+      "cite": "14 Johns. 117",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Whart. 415",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Binn. 543",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 629,
+    "char_count": 13357,
+    "ocr_confidence": 0.435,
+    "pagerank": {
+      "raw": 6.113725938952548e-08,
+      "percentile": 0.380968156830765
+    },
+    "sha256": "c9dfb0c100d6baeb19def800c4d2b995ffe89f63466d213f8c3332f775f7888a",
+    "simhash": "1:daab02c9b0cebdb8",
+    "word_count": 2429
+  },
+  "last_updated": "2024-02-27T17:46:01.700656+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pierce versus Struthers."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nWe do not venture to declare how far the difference between bills of exchange and promissory notes affects the question relative to the place where payment must be demanded, but certainly they are distinguished in some degree on this point. In relation to foreign bills, the date and address are of very positive value iu the question of presentment; for it is the difference between them that furnishes the test whether a bill is foreign or domestic, and that governs the damages, exchange, and interest upon them. A bill of exchange dated at Pittsburgh, and addressed to a citizen of Pittsburgh at Cincinnati, is a foreign bill, and the duty is to pay abroad, and not at home; and this, because of the nature of the contract, and not of the exceptions or qualifications of the rule of due diligence. Almost all the exchanges between distant points in or out of the state, are made through bankers and brokers, and when they draw upon a person in a given place, it is understood that payment is to be made there, whether it be so expressed or not. It is in fact very rarely expressed, and it Avould seem to be very unreasonable to say that the omission to express it, may have the effect of imposing upon the holder the duty of going elsewhere to demand it.\nThe counsel refer us to two English cases that are quite parallel with the present one, where a demand of payment at the house where the drawee was addressed, was held sufficient to found a notice of dishonour to the other parties: 4 B. & Ad. 624; 1 Man. & Gr. 83. In one case the house was shut up, and in the other the acceptor had removed to another residence, and in neither case was any effort made to find him elsewhere. Our own case of Lightner v. Will, 2 W. & Ser. 140, may seem inconsistent with these, though on a promissory note; but it is distinguished by the fact that the maker lived but three miles from the place of the date, and the holder knew it.\nThe principle of the English cases is followed by sanctioning notice of dishonour, sent to the place where the bill is dated: 3 Mees. & W. 166; Ry. & Moo. 249. These again would seem inconsistent with other decisions: 5 Binn. 543; 6 Whart. 415; 14 Johns. 117, if we should leave out the fact that the holders in these cases knew that the date did not truly indicate the residence.\nThe law presumes the residence of the drawer from the date: 4 Ser. & R. 481, 2 Caines\u2019 R. 127; 1 Johns. 294; 13 Id. 433; 20 Id. 168, and therefore prima facie notice according to the date is sufficient, and the general bearing of the cases inclines to the rule that, if the residence be shown to be elsewhere in the same state, then due diligence to ascertain it must be shown, and that notice was sent accordingly: 24 Wend. 358; unless the removal took place after the drawing of the bill: 5 Wend. 587; 3 Id. 408.\nBut there is a very substantial difference between the time when a demand of payment must be made, and that when notice of dishonour must be given; the former must be on the day of maturity, and the latter at such time afterwards as is demanded for due inquiry for the residence of the other parties. And yet even in this latter case, and with this indulgence given, strict accuracy is not required; for notice sent according to information received on reasonable inquiry is sufficient.\nIt is the duty of a debtor to go to his creditor, or to the place specially appointed, and pay his debt, and the law presumes that he will do so, and up to the time appointed for payment, the creditor has a right to presume so. Certainly this requires some modification when we speak of negotiable instruments; for they may be in unknown hands. But still the holder would naturally expect that payment would be provided at the place indicated by the address of a bill, unless he had some notice of a change of residence.\nThe law usually presumes the continuance of such facts as residence, until a change is shown; and it does not seem reasonable to require a different presumption by the holders of negotiable paper.\nThe ordinary mode of addressing a bill of exchange, is to the drawee at his residence or place of business, and therefore an endorsee of such paper is entitled to presume that is the fact, unless warned to the contrary. Therefore, in the natural course of such transactions, the holder would be expected to carry or send a bill of exchange, so as to have it at the place of address at its maturity, so that demand may be made there. It is not until the time of demand that he is expected to look for the acceptor, and then, certainly, it is too late to go from New York to Albany to make the demand, unless due diligence after maturity be allowed in making it. Under such views, this indulgence seems to have been allowed in some cases, for making the demand: 7 Mass. 483 ; 1 New Hamp. 140; 3 Wend. 491, citing 2 Smith 223; but we think that the circumstances which excuse it at the maturity, dispense with it entirely. It cannot be answered that the holder is presumed to know the residence of the parties when he takes it, or before it matures, for this is not the custom, and it has no judicial sanction. All the cases show that proper efforts, made after dishonour, to learn the address of drawers and endorsers, and give them notice, is sufficient, and yet the instrument is negotiated on faith in them as well as in the acceptor.\nTo say that the holder is charged Avith knowledge of the residence, especially of the acceptor, does not aid the argument, for it begs the question under discussion. And it is unfounded in reason and in fact; for ordinarily, when people buy bills of exchange on a distant place, all their reliance is on the drawer, and they know nothing about the drawee, and are not expected to, until the bill is to be presented for payment. The holder is charged only with due diligence in presenting or attempting to present the bill. It is not so much a demand, as due diligence to make one, that is required. If the maker when the note falls due cannot be found: 2 Caines\u2019 R. 126; if he has absconded: Ld. Hardw. 743; if his house or office is shut up: 1 Pick. 413; if he has left the state: 9 Wheat. 598, demand is excused.\nThe holder may have taken it simply on the credit of the endorser, and it does not seem like good faith to throw upon him the natural consequences of a deceptive address. The rule of due diligence does not require of him to look after the acceptor until the proper time for demanding payment, or to follow them to some other part of.the state, distant'from that to which the bill is addressed, . \u2022\nWe think that where a bill of exchange is addressed to a drawee at a particular house, and the same is accepted generally by him, the address indicates the place where it is to be presented for payment, and a presentment there is sufficient as against the drawer and endorsers; unless, perhaps, when the holder knows the true residence or place of business of the acceptor in time to present it there, or may so learn it when seeking to make the presentment.\nIt does not seem to be contended here, and we think it ought not to be, that the endorsers prior to the plaintiff are competent to prove anything tending to show that one who appears to be a bona fide holder .for value is not so: 16 State R. 128.\nJudgment reversed and a new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Curtis, for plaintiff in error.",
+      "Church and Brown, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Pierce versus Struthers.\nPayment of a bill of exchange is to be made at the place to which it is addressed. And demand at such place is sufficient to found a notice of dishonour to the other parties, unless, perhaps, when the holder knows tlia true place of business of the acceptor, in time to present it there.\nNotice of dishonour sent to the place of date is sufficient, unless the holder knows that the date does not truly indicate the residence.\nThe rule seems to be, that if the residence be shown to be elsewhere in the same state, due diligence to ascertain it must be proved, and that notice was sent accordingly, unless the removal took place after the drawing of the bill.\nPayment must be demanded on the day of maturity; notice of dishonour must be given at such time afterwards as is required for due inquiry for the residence of the other parties.\nA bill of exchange, in the absence of anything to indicate a different place, will be presumed to be addressed to the drawee at his residence or place of business.\nError to the Common Pleas of Warren county.\nThis was an action of assumpsit against the defendant, Struthers, on his endorsement upon a draft or bill of exchange, of which the following is a copy: \u2014 \u25a0\n\u201cNew York, February 23, 1854.\n\u201c $5000. Four months after date pay to the order of Tilden & Co. five thousand dollars, value received, and charge to the account of Edward Hazen.\n\u201c To Jas. T. Foster, Esq.\n\u201c 78 Beaver street, New York.\u201d\nWhich was accepted by Foster and endorsed by \u201cTilden & Co.,\n\u201cThos. Struthers,\n\u201cW. A. Irvine.\u201d\nAfter proof of the handwriting of all the parties down to the defendant inclusive, the plaintiff gave in evidence that the notary public on the 26th June, 1854, \u201c demanded payment at the place of business of James T. Foster at No. 78 Beaver street, New York, as designated on said draft, and protested the same for non-payment the sam\u00e9 day.\u201d On the morning of the 27th June he deposited notices of protest in the post office, addressed to the respective endorsers at their places of residence.\n\u25a0 The defendant offered in evidence a deposition of one of the firm of Tilden & Co., to whose order the draft was made payable, which was objected to by plaintiff, the objection overruled, and an exception sealed.\nThe defendant further offered William A. Irvine, another endorser, to prove inter alia that the draft was made by Hazen, Foster, Tilden & Co., for the purpose of taking up other protested paper given for the purchase of land; after objection by plaintiff, the witness was admitted, and an exception' taken.\nIt appeared that Foster resided in the city of Albany when the bill was drawn and at its maturity, but when in New York did business at his room at the Irving House, and ivas occasionally at No. 78 Beaver street \u2014 the office of the North Carolina Copper Company, in which he was a stockholder.\nThe court was requested, inter alia, to charge the jury:\u2014\n2. That if they believe that James T. Foster never lived or had a place of business at No. 78 Beaver street, then the notary was not further bound to inquire after him.\n3. That if the acceptor in his acceptance designated this place of business, he was bound to provide funds for payment at that place, and in default, a demand at that place and protest in due form, makes the endorsers liable.\nThe court (Galbraith, P. J.), upon these points, charged the jury as follows:\u2014\n\u201c To the 2d and 3d points, it is answered that we cannot charge in accordance with them; we cannot say to the jury as requested in the 2d point, there being no evidence that James T. Foster ever lived or had a place of business at No. 78 Beaver street: on the contrary, the uncontradicted evidence being that he never did reside there, and equally clear from the evidence that he never had a place of business there, and the whole evidence showing that both his domicile and place of business was elsewhere; that his residence was either at Albany or Greenbush, and that he had some sort of office or business place while in New York, at the Irving House in that city; and there' being no evidence that he had either removed from the state or absconded. The notary, or the plaintiff, or some one for him was bound, in order to make the endorsers liable, to go further in efforts to make a demand upon the acceptor, and so to show' by evidence that he had made inquiry after him, or account satisfactorily for not so doing.\n\u201c The third point raises the question whether the mere note at the bottom of the bill, put there by the drawer of the bill, not, as we think, as designating the place of payment, but as the room where the acceptor might at that time be found, to signify his acceptance. The acceptor writes his name as acceptor without designating any place of payment. This, we think, is no designation of the place of payment, and is certainly no evidence o'f either residence or place of business at that place, particularly in opposition to the uncontradicted affirmative evidence, that that was neither his place of residence or business. It is true the notary, Leslie Irvine, calls it his place of business, but in his cross-examination explains it very clearly, showing that he so called it merely from the number at the foot of the bill. These two points are therefore determined in the negative, and this determines in effect the cause with defendant. We do not say .that the number at the foot of the bill would be of no importance under any or all circumstances. When diligent and faithful search had been made for the acceptor without success, it might be, as a last resort, proper to make search for the acceptor there, and finding no information in relation to him, make demand of any one he might find there; but that is not this case.\u201d\nThe jury found for defendant.\nThe errors assigned were the admission of the endorsers as witnesses, and the answers to the 3d and 4th points, as above.\nCurtis, for plaintiff in error.\nChurch and Brown, for defendant in error."
+  },
+  "file_name": "0249-01",
+  "first_page_order": 249,
+  "last_page_order": 254
+}

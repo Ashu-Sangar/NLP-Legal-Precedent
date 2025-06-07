@@ -1,0 +1,132 @@
+{
+  "id": 959574,
+  "name": "Ege v. Barnitz",
+  "name_abbreviation": "Ege v. Barnitz",
+  "decision_date": "1848-06-12",
+  "docket_number": "",
+  "first_page": "304",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. & S. 203",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852660
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0203-01"
+      ]
+    },
+    {
+      "cite": "3 P. R. 18",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "case_ids": [
+        11257993
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pr/3/0018-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 258",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848449
+      ],
+      "pin_cites": [
+        {
+          "page": "361, 363"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0258-01"
+      ]
+    },
+    {
+      "cite": "5 Wheat. 285",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 94",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Wheat. 277",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1442083
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/18/0277-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 794,
+    "char_count": 22613,
+    "ocr_confidence": 0.395,
+    "pagerank": {
+      "raw": 1.0216281725023473e-07,
+      "percentile": 0.5453939592617175
+    },
+    "sha256": "59b559c61ce238ba908390a1c670582892594c98e09c47b6eaa95260c289b9a0",
+    "simhash": "1:ad15a285d8a1b7cb",
+    "word_count": 4172
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ege v. Barnitz."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe court below cast this case mainly on the single point that, by the writing of Ege, dated the 24th December, 1839, addressed to Barnitz, tbe duty or obligation resting on Barnitz to use due diligence in prosecuting to recovery the bond assigned by Ege to Barnitz, was waived; and that thereby tbe stipulation of guaranty became absolute for tbe payment of the money. The writing requested Barnitz not to bring suit, adding, \u201cAs it is not my desire to have an action brought on the bond.\u201d The use of due diligence by the guarantee, is for the benefit of the guarantor; and he may waive it, as he may waive or give up any other obligation or duty which the law implies for his advantage. And if he does so, it is more reasonable that he should bear any loss that accrues in consequence of his own act, than that it should fall upon the party who merely obeyed his directions^; On the same principle that a surety is not discharged when the obligee gives time to the principal at the request of the surety, on the bond. It is true that some two or more years afterwards, Ege notified Barnitz to proceed on the bond, but at that time the obligor had left the state. But the duty on the part of Barnitz to use due diligence had been waived, and by that waiver it was gone, and could not be required of Barnitz when its performance was impracticable so as to charge him with the loss. ;\nBut it is contended that Ege had an assignment of the interest of his brother, who was the obligor in the assigned bond in the estate of their father, as collateral security for the payment of this bond and two others \u2014 which assignment was delivered to Barnitz 6th May, 1841. The bond was given the 22d May, 1838, and the assignment was made the 13th of June, 1838, so that it formed no part of the original contract, and there is no evidence whatever that it was known to Barnitz at the time the bond was assigned to him, or that it entered into the contract \u2014 being a mere indemnity between the brothers, and liable to be revoked or annulled at their pleasure. After the assignment of the bond to Barnitz, that assignment did not carry this security with it; and its delivery to Barnitz did not authorize him to proceed for its recovery. But the interest of the obligor in his father\u2019s estate was uncertain both in amount and the time of payment; the executors of the elder Ege being trustees to manage the estate, with power to sell upon certain contingencies. And it was only the share of the proceeds of \u201cthe sale to which the obligor was entitled. It has no similarity to a mortgage, which is carried by an assignment of the bond, the payment of which it secures. There the assignee may proceed on the mortgage and collect his debt. The only effectual way in which Barnitz could have made this fund available, was by proceeding on the bond, obtaining judgment, and issuing an attachment in execution, if, peradventure, that means would have been available. But this he was prevented from doing at the request of Ege, the guarantor. It is admitted that the obligor in the bond was altogether insolvent in 1842, the time when the guarantor requested Barnitz to bring suit, with the exception of this fund, and the obligor had left the state before that time. The fund is still in futuro, so that Ege will lose nothing by the indulgence which he requested Barnitz to give the obligor.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Watts, Graullagher, and Gfraham, for plaintiff in error.",
+      "Biddle and Heed, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Ege v. Barnitz.\nWhere tlie obligee in a bond assigned and guaranteed its payment, and after it became due and payable, requested the holder in writing, \u201cnot to put the said bond in suit at that time, as lie did not desire to have an action brought on the said bond:\u201d it was held, in an action on the guaranty, that the duty or obligation resting on the holder by virtue of the guaranty, to use due diligence in prosecuting the said bond to recovery, was waived, and that the stipulation of guaranty became thereby absolute.\nThe duty or obligation of the holder of a bond under a guaranty for its payment, if waived after the bond becomes due, by the written request of the guarantor not to sue, cannot be renewed or revived by a subsequent notice to sue, so as to throw the loss upon the guarantee; especially, when the obligor in such bond had become insolvent and left the state before the notice to sue was given.\nThe holder of a bond under an assignment with guaranty, who at the written request of the guarantor forbore to bring suit against the obligor in said bond who became insolvent and left the state, is not bound, before bringing suit on the guaranty, to resort to a collateral security, unless it be embraced in, and made part of the original contract.\nIn error from the Court of Common. Pleas of Cumberland county.\nJune 7. Jacob Barnitz, the defendant in error, brought case in assumpsit against A. G. Ege, the plaintiff in error, on the guaranty of a bond.\nIt appeared from the evidence, as disclosed by the paper-hoolc, that C. N. Ege and A. G. Ege were, with others, children and legatees under the will of Michael Ege, deceased, which was proved on the 5th of March, 1827. The testator, by his will, appointed his executors trustees to superintend, manage, and cany on his estate, called the \u201c Carlisle Iron Works,\u201d with all the lands, mills, and buildings appurtenant thereto, until his son, Andrew C. Ege, attained the age of twenty-one years; or, in case he died within age, then at the period when he would have attained full age. PIo then directed that all the money, stock, and personal property on hand at the time of his death, should be employed for the purpose of carrying on his works as aforesaid.\nHe then, after giving the clear yearly income of Ms estate to his wife, in designated portions, for the maintenance and support of herself, and the support and education of each of his children, until the money arising from the sale of his estate should be distributed amongst Ms children, directed as follows: \u2014 \u201cAs soon as my said son, Andrew Galbraith Ege, shall attain the age of twenty-one years, or, in case of his death witMn age, then at the period when he would have been of full age, I authorize and empower my executors, or the survivor or survivors of them, to sell, convey, and dispose of my whole estate not before devised by me; provided the moneys arising from the sale thereof would yield an interest equal to or greater than the income derived from the estate in the hands of my executors; but in case the moneys so arising would not yield such interest, I direct my executors, or such of them as shall survive, to carry on the business of the works as usual, till such time as the whole estate can be disposed of on terms which will produce a sum the interest whereof will be equal to the income of the estate in the hands of my executors; or until my youngest son, Edward, shall attain full age;\u201d when his estate rvas to be sold, and the proceeds thereof to be distributed in equal shares, to and amongst his widow and six children. It appeared that A. Gr. Ege was of age on the 6th of January, 1834, and Edward Ege, on the 25th of July, 1842. The estate has not yet been sold.\nOn the 29th of November, 1836, A. G. Ege and wife, by deed, assigned and transferred all his interest in his deceased father\u2019s estate to his brother, C. N. Ege, his heirs and assigns, &c. On the 22d of May, 1838, O. N. Ege gave A. G. Ege three bonds; one of \u25a0which for $2,000, payable on the 1st of April, 1839, was assigned by A. Gr\u25a0 Bge, the defendant, to Jacob Barnitz, the plaintiff, on the 13th of June, 1838, and the payment of it then guarantied, as appeared by the following endorsement on the bond: \u201cFor value received, I assign the within bond to Mr. Jacob Barnitz, and guaranty the payment of the same. A. Gr. Bge.\u201d On the 2d of June, 1838, A. G. Ege took from O. N. Ege an assignment of all his interest under the will of his deceased father\u2019s estate, to secure the payment of the three bonds given by the latter to the former, as above referred to. This assignment, which was not delivered to Barnitz until 6th of May, 1841, was duly acknowledged and recorded on the 7th of June, 1838. On the margin of the record of this assignment, was the following entry, made at the request of the parties, by the recorder, on the 13th June, 1838: \u201c One of the bonds for $2,000, assigned to Jacob Barnitz, 13th .June, 1838.\u201d On the 29th of December, 1839, after this assigned bond became due and payable, A. G. Ege, the assignor and guarantor thereof, addressed a written request, of which the following is a copy, to Jacob Barnitz, the holder:\u2014\n\u201cWhereas, I assigned to Jacob Barnitz, on the 13th June, 1838, a bond from my brother, Charles N. Ege, to me, conditioned to pay the sum of $2,000 on the 1st of April, 1889, and guarantied the payment 'of the same to the said Jacob Barnitz; now I hereby request the said Jacob Barnitz not to put the said bond in suit at this time against my said brother, as it is my desire not to have an action brought on the said bond. Witness my hand, 29th December, 1839.\u201d\nC. N. Ege left the state in 1840, destitute of property. In 1841 A. G. Ege notified Barnitz to sue out the bond against his brother, C. N. Ege, and stated that if he did not proceed to collect the same, he would not consider himself any longer accountable for it under his guaranty. In the course of the trial, certain proceedings in the Orphans\u2019 Court, at the instance of the Carlisle Bank against Mary Ege, executrix of Michael Ege, deceased, to compel her to state and file an account, were permitted to be read to the jury, under objection by the defendant, to show that proceedings were instituted in the Orphans\u2019 Court by a creditor of C. N. Ege, and the action of the court upon them: and this, for the purpose of showing that any attempt to make the money in that way by Barnitz would have been fruitless. The \u201c Carlisle Iron Works\u201d were estimated by several witnesses, at the trial in the court below, to be worth from $90,000 to $100,000. A mass of evidence was given on the trial, and several bills of exception to the admission and rejection of evidence taken, which it is unnecessary to notice here.\nThe questions here were, as to the effect of the written request of A. G. Ege, addressed to Jacob Barnitz, not to sue; and whether, under all the facts in evidence, Jacob Barnitz, before suing on the guaranty, was bound to resort to the collateral security, and to pursue the executrix of Michael Ege\u2019s estate, compel a settlement of it, and thus to make all that was available out of the same for C. N. Ege, and to appropriate it to the payment of the bond assigned and guarantied to him by A. G. Ege.\nThe plaintiff requested the court to instruct the jury as follows:\n1st. That the condition of the contract of guaranty is, that the person to whom the bond is assigned and guarantied, shall pursue the debtor on the instrument assigned to insolvency.\n2d. This may be done either by proceeding on the bond to the insolvency of the debtor, or by showing that if suit had been instituted on it, nothing could have been recovered in such suit by reason of such insolvency.\n3d. That Jacob Barnitz, to whom the guaranty was given, was not bound, before suing A. G. Ege, to resort to a collateral security of the nature of the one given in evidence, which was not embraced in the written contract of guaranty, but retained by Ege, who, at the time of the assignment to Barnitz, had an interest in this security of more than double that of Barnitz, and which was not delivered to the latter till 6th May, 1841, after Ege had assigned his remaining interest to General Miller and to Samuel Alexander, more especially so, when the same is of doubtful efficacy, and the means of making it effectual are neither clear nor certain.\n4th. On the principles and for the reasons in the foregoing points, Jacob Barnitz was not bound to proceed against the estate of Michael Ege, deceased, on the assignment that was made by Charles N. to A. G. Ege, of the interest of the former in said estate; and his omission to do so, is no defence to this action, s i\n5th. That by the written request of A. G. Ege to Jacob Barnitz, of the 24th December, 1839, \u201c not to put the bond in suit at that time against C. N. Ege,\u201d as it was the desire of the said A. G. Ege not to have an action brought on that bond, as stated in said paper; the said A. G. Ege was fixed for the amount; Jacob Barnitz\u2019s right of action became perfect, and he was not bound to pursue C. N. Ege, or any one else, before resorting to A. G. Ege, the defendant.\n6th. That by said written request, the implied condition of the guaranty was taken away, and left an unconditional agreement on the part of the said A. G. Ege to pay the amount of the bond to Jacob Barnitz; and it would have required a new contract between Ege and Barnitz to impose an obligation on the latter to bring suit against C. N. Ege, after the date of said request.\nDefendant\u2019s Points. \u2014 The court is respectfully requested to charge the jury on the following points:\u2014\n1st. If the jury believe that, at the date of the assignment and guaranty of the bond, which is the subject-matter of this action, there existed an assignment of all the right and interest of Charles N. Ege in the estate of Michael Ege, deceased, to secure its payment, it enured, pro tanto, to the use of Jacob Barnitz, the guarantee, which he recognised and accepted as such by the memorandum thereof, made at his instance upon the record of said assignment; and by receiving the assignment itself from the defendant, on the 6th of May, 1841, he was bound to pursue this security for the payment of his debt, before he could maintain any action upon the guaranty against the present defendant.\n2d. If this assignment does afford a security for the payment of the said bond of Charles N. Ege, or any part of it, the plaintiff cannot recover in this action.\n3d. If the plaintiffs have shown, by their own testimony, that five-sevenths of the estate of Michael Ege, deceased, is now worth $40,000, and that the whole debts and liabilities amount only to $19,000, the residue of $21,000 belongs to and is divisible equally among the five legatees named in the will, excluding the shares of Peter and Edward: then there will be two of the said fifths, to wit, $8,400, applicable to the bond and assignment of Jacob Barnitz, under the evidence in this case.\n4th. That from the evidence given by the plaintiffs, to wit, the will of M. Ege, deceased, the assignment of Charles N. Ege\u2019s interest in the estate, and that five-sevenths of the estate is of the value of $40,000 only, and the debts and liabilities of the estate are $19,000, and that Jacob Barnitz, the plaintiff, has instituted no proceeding to recover his money out of the estate, he cannot recover in this action.\n5th. If the jury believe that in the year 1841, the defendant called upon the plaintiff and notified him distinctly that he must proceed to collect the debt due from Charles N. Ege, and that if he did not, he would consider himself no longer liable as his guarantee, and repeated to him this notice in February, 1842, and that Jacob Barnitz disregarded the notice and neglected or refused to prosecute the claim, he cannot now recover against the present defendant on his guaranty, if the jury believe that Charles N. Ege then had and now has an interest under the will of his father, which is recoverable.\nThe court (Hepburn, P. J.) answered the plaintiff\u2019s points in the affirmative, and the defendant\u2019s in the negative; which answers of the court below, upon the removal of the record to this court, by writ of error, at the instance of the defendant, were assigned for error.\nWatts, Graullagher, and Gfraham, for plaintiff in error.\nThe plaintiff in error having assigned the bond and guarantied the payment of it, he at the same time held a transfer or assignment of the obligor of the bond, of all his interest in his father\u2019s estate, as collateral security for the payment of that bond; we say, first, that the mere assignment of the bond was an equitable assignment of all the collateral securities for its payment, and, again, that the fact of the guarantor and guarantee having gone into the recorder\u2019s office, and marked upon the record of the deed which secured the bond, that it had been assigned to the defendant in error, was an actual transfer in equity of that collateral security: 2 Story\u2019s Eq. 379, sec. 1044; 4 Sim. 607; 1 Mad. Bep. 53; 5 Wheat. 277; 5 Peters, 598; and the same principle would apply to the assignment of part of the debt: 4 Bro. Oh. B. 64. And the law is so settled in Pennsylvania: 4 Penn. S. Bep. 251; 4 W. & S. 94; 9 S. & B. 304. The defendant in error was, therefore, bound to pursue all the remedies in his power to collect Ms money from the debtor, before he can resort to an action on his warranty: 6 Barr, 41; 1W. & S. 204. If it appears, therefore, as it indisputably does, by the evidence, that the obligor in the bond had estate sufficient to pay the debt growing out of his father\u2019s estate, which was secured by the assignment of it, he was bound to pursue it, and collect his debt. It is not a sufficient answer to this to say, that there was difficulty in the pursuit; be it so, but such difficulty he was bound by the contract of guaranty to encounter ; for the law is, that he must pursue the obligor to insolvency, and his estate so far as to show that it cannot be reached. Why was the collateral security transferred to him, but to enable him to collect Ms debt ? and he might, for that purpose, at the same time pursue the obligor and the collateral security. The court below, by their instruction on this subject, took the whole case from the jury, and decided the cause.\nOn the other point in the cause, we contend that a sensible construction is to be given to the act of the party. At one time, he requests the holder of the bond not to bring suit at that time. Can it be that this so changes the relation between the guarantor and guarantee, as to place the former entirely in the power of the latter, that he could never thereafter insist upon suit being brought ? Certainly, this would not be a sensible construction of the act of the guarantor, but he might at any time thereafter request and require suit to be brought: such reqmsition was made, and the court say it amounted to nothing; in this there was erroi*.\nBiddle and Heed, contra.\nThe contract for the transfer of the bond, including the guaranty, is distinct and different from the contract for the collateral security, if any such were made. The assignment of the bond by A. G. Ege to Jacob Ba'rnitz, was on the 13th of June, 1838. The assignment of C. N. Ege of Ms interest in his father\u2019s estate, was not handed over to A. G. Ege until 6th May, 1841. On the margin of the record of the assignment on the .docket was entered, that J( one of the bonds for $2,000, assigned to Jacob Barnitz, 13th June, 1838.\u201d But this was no transfer of the security. The assignment of Charles N. Ege\u2019s interest in his father\u2019s estate, was for securing the payment of the three bonds given by him to A. Gr. Ege, which fell due at different periods. At the date of the assignment of the bond in question, A. Gr. Ege held C. N. Ege\u2019s assignment referred to, as security to himself for the other two bonds. The right to the security furnished by this paper, remained in A. Gr. Ege. No right to the interest of C. N. Ege in his father\u2019s estate was vested in Barnitz by the transfer of the bond, because no such right passed by the transfer of a part only of the fund as the security. This point is fully decided in Mandeville v. Welsh, 5 Wheat. 285. The object of the second transfer is obvious. Barnitz held the guaranty of A. Gr. Ege. This second agreement was in the nature of a collateral security, that A. Gr. Ege would make good his guaranty. Barnitz then held three securities, viz : the bond on C. N. Ege, the direct guaranty for its payment by A. G!. Ege, and the transfer of a portion of the interest of C. N. Ege in his father\u2019s estate, when it should become due; and this was not given him by C. N. Ege, but by A. Gr. Ege. C. N. Ege became insolvent and left the state, when the guaranty of A. Gr. Ege became absolute; and Barnitz having two securities from him, viz: his guaranty and the assignment of C. N. Ege\u2019s interest, he had a right to resort to either, or both, until he obtained satisfaction: 2 Dali. 115. The assignment of the bond did not carry with it C. N. Ege\u2019s interest, &e.: Mohler\u2019s Appeal, 5 Barr, 418. A person having two securities, one primary and the other collateral, not bound to pursue both. That could not have been done in this case, because, under the will of M. Ege, deceased, C. N. Ege had no present interest in the estate. It was devised to be sold, and when sold he was to have a portion of the proceeds of sale. But it is not yet sold, and whether he will ever have any interest after the sale, is uncertain, or unknown. Barnitz had neither the right nor power to proceed on the alleged transfer of C. N. Ege\u2019s interest. A. G-. Ege still continued the owner of it, and held the evidence of it, at all events, as trustee for the holders of the three bonds respectively referred to in it. Barnitz\u2019s interest in it did not go beyond the right to receive his fro rata portion, if the money had been collected: 13 S. & R. 311. It had no quality of negotiability : Leas v. James, 10 S. &\u25a0 R. 307. If a creditor for goods sold take a chose in action as collateral security, he may sue on his original account, and is not bound to resort to his collateral security. This is not the law when the second security was taken by agreement, in substitution or place of tbe first, but was collateral or secondary: Lyon v. Huntingdon Bank, 12 S. & R. 61. After tbe bond fell due, on tbe 24th December, 1889, tbe guaranty of A. G. Ege to Barnitz became absolute and unconditional by Ege\u2019s request in writing, that bis brother should not be sued. This created a new relation between tbe parties by contract, and this was never \u2022 changed. Tbe request to sue C. N. Ege after be had become insolvent and left the state, was of no avail. Request is as defective in form, as in substance: 3 Barr, 264, 404; 15 S. & R. 30; 8 Watts, 258, 361, 363. The only implied obligation upon Barnitz, under his guaranty, was to pursue C. N. Ege to insolvency: 16 S. & R. 82; Johnson v. Chapman, 3 P. R. 18; 1 W. & S. 203. The implied condition is only coextensive with the guaranty; it applies to nothing else. It does not cover distinct and different contracts 40 Law Lib. 73.\nJune 12."
+  },
+  "file_name": "0304-01",
+  "first_page_order": 304,
+  "last_page_order": 312
+}

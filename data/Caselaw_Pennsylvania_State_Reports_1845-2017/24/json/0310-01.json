@@ -1,0 +1,85 @@
+{
+  "id": 9504491,
+  "name": "Hummel versus Brown",
+  "name_abbreviation": "Hummel v. Brown",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "310",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 212",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "266"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 282",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 486,
+    "char_count": 9663,
+    "ocr_confidence": 0.408,
+    "pagerank": {
+      "raw": 4.3472038283472225e-07,
+      "percentile": 0.9182212939827766
+    },
+    "sha256": "988ca03dd454e5b61af6a047ec43b9d463fe6622a2c8bda5517c3b40d736069f",
+    "simhash": "1:5f77a4b248ebf63c",
+    "word_count": 1725
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hummel versus Brown."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodwabd, J.\nCan mere readiness to pay a debt excuse from payment of interest ? Certainly not, and this was all that was offered in defendant\u2019s first bill. A legal tender will stop interest, and if the creditor be not at hand, a bond fide effort to find him for purposes of tender and payment, ought, I should think, to be submitted to the jury as a material fact bearing on continued liability for interest; but possession of the means with disposition to pay, which is all that readiness can import, is not, alone, a fact to be submitted to the jury. The offer was properly rejected as irrelevant, therefore, even if the medium of proof had been competent. But we think it was not. The admissions and confessions of one of two administrators, made in prejudice of the estate and of those in inheritance, have often been ruled inadmissible, and the Court was right in rejecting them here.\n2d. The second bill is no better. What the family of George Hinkle said about his having been in this county was competent on no principle whatever. It was not pedigree \u2014 it was not the proof of death \u2014 but the offer of a fact tending to impeach the title of the plaintiffs to administration. The letters of administration were founded on the presumption of death from long absence unaccounted for; and without pleading in abatement, or contesting their validity in any form on record, the defendant offered to prove by hearsay a faot that tended directly to their impeachment. It is a general rule that a defendant who means to question the character in which a plaintiff sues should plead in abatement. The general issue admits the character claimed on record by the plaintiff. And here again the medium of proof was in fault. The sayings of George Hinkle\u2019s family might mean, and probably did mean, the declarations of living persons, brothers and sisters, who, for aught that appears, would have been competent witnesses to the fact alleged. Neither the fact nor the mode of proving it was competent.\n3. As to the charge. There are cases in which liability for interest is a question for the jury upon all the circumstances in proof: 16 Ser. <f* R. 266; 2 W. \u00a7\u2022 Ser. 371; but this is not one of them. Here the debtor enjoyed undisturbed possession of the land purchased, no doubts pertained to his title, he made no inquiries for his creditor, and he was under a positive engagement to pay interest. The recognisance and bond entered into by John Hinkle, the electing heir, stipulated for the payment of the two instalments for which this suit was brought, with interest; and it is part of the statement of the plaintiff in error, that John Hinkle afterwards sold this real estate to Hummel, \u201cwho, by writing endorsed on the same, agreed to pay the bond.\u201d This was as much an express undertaking to pay the interest as if he had been the original obligor, and brings the case within the principle ruled in Schaeffer\u2019s Case, 9 Ser. R. 268. In such cases, where the terms of the obligation comprehend interest, it is inaccurate to say that interest is added by way of damages; for it is a substantive part of the debt, as much as the principal is, and is subject to the same remedies: Bank v. Chester, 1 Jones 282. The absence of the creditor, it is conceded, was no defence against the action of the administrators as to the principal sum; how, then, can it be as to the interest ? They have no better title to the principal than to the interest; the defendant is no more bound for the one than the other. Both are in the bond his intestate agreed to pay; both were liens on the land he purchased and enjoyed. Where the purchaser has been harassed in his possession, or rendered insecure in his title, or prevented from paying by the wrongful act of his vendor, he has some ground to claim exemption from interest, as damages against the vendor; but where he has enjoyed, without let or hindrance, the property purchased, and done nothing to look up a lien creditor or his representative, to tender payment of a debt which, by express agreement, is to bear interest, it is no hardship to hold him to the payment of all that is nominated in the bond.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodwabd, J."
+      }
+    ],
+    "attorneys": [
+      "Ihrie, for plaintiff in error.",
+      "Gtreen, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hummel versus Brown.\n1. Mere readiness to pay a debt will not excuse from the payment of interest.\n2. Where the defendant occupied the land which was the consideration of the bond which he had expressly agreed to pay, the same being also secured by recognisance, no dispute existing as to the possession or title, and no inquiry made by him as to the absent obligee or his representative, he was liable for the interest as well as the principal of the bond.\n3. Where interest is comprehended within the terms of a contract, it is not added by way of damages, but is a substantive part of the debt.\n4. Where administration was granted not on proof of death, but on the ground of the long absence of the party unheard of, declarations of brothers and sisters of the obligee that he had been seen in the county in which the debt was contracted and administration granted on his estate and suit brought, were not admissible in evidence on the part of the debtor, the defendant in the suit. Matters impeaching the right to administration should be plead in abatement; and as declarations of living persons, who may have been competent witnesses, they were mere hearsay.\nERROR to tbe Common Pleas of Northampton Qounty.\nAction of debt by John Brown and John Hinkle, administrators, &c., of George Hinkle, deceased, v. Solomon Hummel, administrator, &c., of Christian Hummel, deceased.\nMichael Hinkle, seised of real estate, died intestate in 1836. An inquest was held, and the proceedings confirmed in the Orphans\u2019 Court of Northampton county. John Hinkle, eldest son, accepted purpart No. 1 at the valuation, and gave his bonds, with recognisance, to secure the respective shares of the widow and heirs, and, among others, gave a bond to George Hinkle, one of the heirs, for $1936.09, conditioned for the payment of $968.04, which bond was deposited in the Orphans\u2019 Court, he being absent at the time. John Hinkle afterwards, viz., September 10th, 1836, sold this real estate to the defendant, who, by writing endorsed upon the same, agreed to pay this bond. George Hinkle left this county before his father\u2019s death, and at the time of the trial it was not known whether he was living or dead. On 18th July, 1848, letters of administration upon his estate were granted to the plaintiffs, on a presumption of his death, and during all the time Hummel, the defendant, was of ability to pay the debt. The widow of Michael Hummel was living, and this suit was brought to recover the two first instalments due on said bond, with interest. The defendant did not dispute payment of the principal of the bond; and the only question was whether under the circumstances of the case he was bound to pay interest; and if so, from what time.\nA witness testified that, seventeen years before, he lived near the Hinkle farm. That George was not at home when his father died, and the witness did not know that he had ever since been in the county.\nOn the part of the defendant, three bills of exceptions were taken; the two first of which were taken upon the rejection of evidence offered on his part, viz., an offer to prove that John Brown, one of the defendants, admitted that Christian Hummel was always ready to pay this debt.\n2d. Offered to prove what \u201c the family of George Hinkle said about his having been in the county.\u201d\nThe Court charged that the plaintiffs were entitled to recover interest from the time mentioned in the bond.\nVerdict for the' amount of the penalty of the bond, and damages assessed at $1282.14.\nError was assigned, 1st and 2d, to the rejection of evidence in the bills of exception; and 4th, to the charge as to interest.\nIhrie, for plaintiff in error.\nAs to the interest, it was alleged that the defendant being always ready to pay the principal, should not be obliged to pay interest, at furthest, only from the time the suit was brought, when a legal demand of payment was first made, inasmuch as Hinkle, the obligee, was absent, and bad not informed the debtor where he could be found. Interest is allowed by way of damages for the detention of the debt: 2 W. Ser. 372; 6 Watts 212 ; 5 B. \u2021 Al. 204.\nThe admissions of an administrator, party to a suit, are admissible in evidence by the opposite party: 5 Pickering 391; 4 Qonn. 544.\nGtreen, for defendants in error.\nIf the admission in question were before administration, the person making it was not then a party to the claim: 8 W. Ser. 376; and if made after administration, twelve years\u2019 interest was then payable.\nBut a mere readiness to pay will not relieve the debtor from interest, except in the case of an executor with respect to a legacy, or bond given for the performance of a will. 9 Ser. JR. 266, and cases there cited; and if the executor has used the money he is liable for interest. The occupation of the land is equivalent to the use of the money, and interest is chargeable: 9 Ser. JR. 263-268, 16 Id. 266; 2 W. Ser. 371; 6 Watts 212. In this case the title to the land was not in doubt.\nThe declarations of the family were irrelevant, for if G-eorge Hinkle had been in the county, it would not relieve the debtor from the interest; and besides they were hearsay. The presumption of life was settled by the grant of administration, and no defence was made on that ground and no question of pedigree was involved, in which case the declarations of deceased members of the family may be admitted: 1 Gfreenleaf Pv. 103-4; but this was not the species of evidence offered."
+  },
+  "file_name": "0310-01",
+  "first_page_order": 308,
+  "last_page_order": 312
+}

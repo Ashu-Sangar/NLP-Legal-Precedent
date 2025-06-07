@@ -1,0 +1,122 @@
+{
+  "id": 959508,
+  "name": "In re Liberty Alley",
+  "name_abbreviation": "In re Liberty Alley",
+  "decision_date": "1848-05",
+  "docket_number": "",
+  "first_page": "381",
+  "last_page": "383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 381"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Yeates, 312",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812585
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0312-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 269",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 200",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483378
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0200-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 382",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850013
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0382-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 200",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478820
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0200-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 248,
+    "char_count": 3468,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 2.1008596815164831e-07,
+      "percentile": 0.7617689293854584
+    },
+    "sha256": "1204e07e8b9ae457d3f39d52f893f9b8e8a9153cd83c91e22e5a24a30dd5a278",
+    "simhash": "1:9a21e8c4c784975b",
+    "word_count": 632
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Liberty Alley."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nOrder of the Quarter Sessions affirmed, for the reasons given by the President of the court below.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Soffman, for plaintiff in error.",
+      "Barclay, contrA"
+    ],
+    "corrections": "",
+    "head_matter": "In re Liberty Alley.\nThe Court of Quarter Sessions having no powers over roads but those which it derives from statute, cannot, under the general road-law, entertain a petition for a jury to view and lay out or widen an alley into a street. Nor under a local law, conferring upon the court power to grant views for opening or extending any street, lane, or alley, can such a petition be entertained.\nThis was a certiorari to the Quarter Sessions of Berks county.\nThe proceedings had in the court below are stated in the opinion of that court, which was delivered by Jones, P. J., in these words: \u2014 \u25a0\n\u201c On the 5th August, 1845, a petition was presented to the Court of Quarter Sessions of this county, setting forth \u2018 that public convenience seemed to require that Liberty Alley, from Third Street to Front Street, in Leading, be widened into a fifty feet street, and praying the court to appoint proper persons to view and lay out, or widen, the said alley, agreeably to the act,\u2019 &c._ Upon this petition a jury of viewers was appointed, who, on the 3d of November, 1845, reported that \u2018 they had viewed and laid out the said Liberty Alley as and for a public street of the width of fifty feet; the widening, or additional thirty feet required, to be taken from the north side of said alley.\u2019 This report was confirmed nisi, and within the proper time exceptions were filed.\n\u201c All the exceptions to these proceedings are in our opinion well taken. In the Church Road Case, 5 W. & S. 200, we are told that the Quarter Sessions has no powers but what it gets from the statute, and that with regard to public roads these are to lay out, or vacate, and to alter or change an established route by laying out or vacating in whole or in part. And in that case, the prayer for a view \u2018 to widen, straighten, a.nd fix the limits\u2019 of a road which had been laid out and used for more than a century, was held to be one which the court had no warrant to grant. Under the general road-law, then, it is obvious that this court had no authority to grant this view. Nor had it any authority for that purpose under the act of 1825 and 1826, secs. 2, 3, 4, Pamph. Laws, 115, for extending the time of holding the Quarter Sessions of Berks and Bucks, and for the better regulation of the borough of Reading. By that act, sec. 2, this court may grant views for opening or extending any street, lane, or alley, in the borough of Reading, neither of which powers, as we apprehend, will cover the prayer and object of this petition.\n\u201cLet the proceedings be quashed.\u201d\nThe error assigned in this court was, that \u201c the court erred in quashing the proceedings for want of jurisdiction.\u201d\nSoffman, for plaintiff in error.\nThe petition here was framed under the act of 1826, sec. 2, Pamph. Laws, 115, and whether it can be sustained depends upon the construction of that act: Borough of Reading v. Green, 9 Watts, 382; Church Road Case, 5 W. & S. 200.\nBarclay, contrA\nThe general road-law, by the act incorporating Reading, does not apply to that municipality, and in the road-laws of 1836, passed since that act of incorporation, there is a provision, sec. 81, saving local laws then in force. This case depends, then, upon the act of 1826, under which the court has no authority to widen an alley: In re Milford, 4 Barr, 313; 8 W. & S. 200; 1 Cow. 269; Young v. Martin, 2 Yeates, 312."
+  },
+  "file_name": "0381-01",
+  "first_page_order": 381,
+  "last_page_order": 383
+}

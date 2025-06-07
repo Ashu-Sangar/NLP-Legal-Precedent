@@ -1,0 +1,121 @@
+{
+  "id": 979645,
+  "name": "Louden versus Blythe",
+  "name_abbreviation": "Louden v. Blythe",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "22",
+  "last_page": "26",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 22"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 93",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846103
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0093-01"
+      ]
+    },
+    {
+      "cite": "2 Overt. 176",
+      "category": "reporters:state",
+      "reporter": "Overt.",
+      "case_ids": [
+        12127107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/2/0176-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 309",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 386",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Whar. 469",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Binn. 470",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0470-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 539,
+    "char_count": 11157,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 3.5045372308465186e-07,
+      "percentile": 0.8829657636410463
+    },
+    "sha256": "b0fa7d589ea0b20153970f4982f969b7dbaaabf87cc3d85f787c1cc55d0537d1",
+    "simhash": "1:7b63eeae8271ecf3",
+    "word_count": 1993
+  },
+  "last_updated": "2024-02-27T17:46:01.700656+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Louden versus Blythe."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nBlack, J.\nThe land in dispute was the separate estate of a' married woman. Her husband is now dead, and this ejectment against her is brought on a mortgage, purporting to have been executed and acknowledged jointly by herself and her husband while he was living. She alleges that the mortgage is void as against her, because she executed it under the influence of imposition and coercion.\nA married woman may convey or mortgage her land by joining with her husband in a deed for that purpose. But to make such a deed valid, it is necessary to show by legal evidence that no fraud was practised upon her, but that she executed it with a full knowledge of its meaning, purpose, and intent. It must also be shown that her will was perfectly free, and that her mind accorded with the act. If he uses his influence and power in such manner as to control her unduly, or so as to make her act under his will and not her own,' the deed is void. I do not say that it will be vitiated by the mere fact that she yields to his persuasions, even When she 'does so against her better judgment. But there must be no imprisonment of her mind, and no unfair advantage taken of her weakness. She must act voluntarily and not by compulsion, moral or physical. These facts are to be proved in one way only \u2014 that is by the certificate of a judge or justice that he examined her, not in the presence of her husband, but separately\u2014 that he made the contents of the deed fully known to her \u2014 that she declared her execution of it to be voluntary and free from every sort of coercion. Such a certificate is conclusive in favour of a grantee who has accepted the deed in perfect good faith, and paid his money without knowing qr having any reason to suspect that it is untrue. But if it be in point of fact false, and if the grantee knew it to be false, or if knowledge can be brought home to him of any circumstance which would put an honest and prudent man upon inquiry, then it may be contradicted by parol evidence. When the certificate of the acknowledgment is overthrown by proof that the examination of the woman was made in the presence of the husband, that she was under the influence of fraud or coercion, or that she was not properly informed of the nature of the transaction, it goes for nothing of course.\nThe charge of the court below embodied these principles. Whosoever will compare' that charge with the opinion of Judge. Gibson, in Schroeder v. Decker (9 Barr 14), and that of Judge Chambers in Louden v. Blythe (4 Harris 582), will see that the learned judge of the Common Pleas followed the highest authority. The last-named case arose on this same mortgage between the same parties, and was another ejectment for the same land. The evidence was somewhat stronger against the mortgage on the former trial than it appears to have been on the last; but there was no such difference in the facts as to require the solution of any new legal questions. The jury found that the examination was not separate; that Mrs. Blythe\u2019s execution of the mortgage was not voluntary, and that Louden knew it. We are of opinion that these facts were found on evidence which justified the verdict. We think also that none of the exceptions to evidence have been sustained.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Black, J."
+      }
+    ],
+    "attorneys": [
+      "McConaghy and M. and W. McLean, for plaintiff in error.",
+      "McCleary, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Louden versus Blythe.\nTo make the deed or mortgage of a married woman, of her land valid, it is necessary to show by legal evidence that no fraud was practised upon her, but that she executed it with a full knowledge of its contents, and that her will was perfectly free and that her mind accorded with the act.\nIf her husband uses his influence and power over her in such manner as to control her unduly and so as to make her act under Ms will and not her own, the deed is void.\nTo make her execution valid, there must be no imprisonment of her mind, nor advantage taken of her weakness, and she must act voluntarily and not by compulsion either physical or moral.\nThose facts can only be proved by the certificate of the magistrate, that he examined her separate and apart from her husband, that he made the contents of the deed fully known to her, and that she declared her execution of it to be voluntary and free from any sort of coercion.\nSuch a certificate is conclusive in favour of one who accepted it in good faith, and paid his money without knowing or having any reason to suspect that it is untrue.\nBut if the certificate be false in fact, and the grantee knew it, or knew of circumstances which would put an honest and prudent man upon inquiry, then it may be contradicted by parol evidence.\nWhen the certificate is overthrown by evidence that the examination was in the presence of the husband, that the wife was not properly informed as to the nature of the transaction, or that she was under the influence of fraud or coercion, it goes for nothing.\nThe declarations of the wife, not made in the presence of the grantee, while the deed was being prepared, of her unwillingness to execute it, are admissible in evidence as part of the res gestee.\nThe cases of Sehroeder v. Becker, 9 Barr 14, and Louden v. Blythe, 4 Harris 532, affirmed.\nError to the Common Pleas of Adams county.\nThis was an action of ejectment by Samuel Louden against Sarah Amanda Blythe and Others, to recover the possession of two lots of ground with the appurtenances in Fairfield, Adams county. Ezra Blythe and John McCleary were partners in the mercantile business, and being in failing circumstances, Samuel Louden became their surety to various parties. The defendant, who was the wife of Ezra Blythe, was the owner in fee of the premises in dispute, and the mortgage upon which this ejectment is brought was given on the 27th February, 1843, among others, to secure the plaintiff for the engagements which he had entered into for the firm. The defence set up was that she had not executed it voluntarily, but through fraud and coercion.\nThe certificate of acknowledgment to the mortgage is in the usual form, and purports a separate examination, and recites her declaration of free and voluntary consent.\nThe evidence in the case was not substantially different from that on the former action, and may be found in the report of the case in 4 Harris 532.\nOn the trial in the court below, the defendant proposed to give in evidence the declarations of Mrs. Blythe to the witness, while the mortgage in controversy was being written, and whilst the parties were in the house, respecting her willingness to execute it: and what her intentions were, and to describe her situation and appearance at the time. This was objected to by the plaintiff, but admitted by the court under exception.\nThe defendant also offered to prove that the mortgage in question was prepared and executed in consequence of the importunity of Louden, the plaintiff, as security for money owing to him by the firm of Louden & McCleary. This was likewise objected to by the plaintiff, but admitted by the court.\nThe plaintiff presented the following points:\n1. Unless the jury believe fraud or imposition was used to procure the acknowledgment to the mortgage, the certificate of the justice is conclusive, and the plaintiff is entitled to recover.\n2. Unless there is sufficient' evidence in the case to satisfy the jury that there was force or fraud used in the procurement of the acknowledgment of defendant, and that the force or fraud so used was known to Samuel Louden, before he parted with his money upon the faith of the mortgage, he cannot be affected thereby, and plaintiff is entitled to recover.\n3. The certificate of a justice is of such high import that it should, under no circumstances, be set aside, unless on the clearest and most conclusive proof of fraud or imposition.\nThe court below (Fisher,, P. J.) answered these points as follows :\u2014\n\u201c Point 1. This proposition is correct.\n\u201c Point 2. This proposition is correct.\n\u201c Point 3. The certificate of a justice, that a deed was duly acknowledged, is of so high a character, that it cannot be set aside upon anything less than clear and satisfactory evidence of fraud. But it has not the conclusive effect that an examination before commissioners to levy a fine, has at common law. If the jury are well satisfied from the evidence that it was fraudulently obtained, and the plaintiff was cognisant of it, the acknowledgment is worthless, and the mortgage is no better than if it had no certificate attached to it, and cannot avail the plaintiff. Any aeknowledgment of a married woman taken by a justice without her free will and accord, is fraudulent, and is obtained by \u2018fraud and imposition.\u2019 \u201d\nThe jury found for the defendant.\nThe errors assigned were to the charge of the court and the admission of the evidence above stated.\nMcConaghy and M. and W. McLean, for plaintiff in error.\nTitles to land will be rendered insecure if anything short of force, collusion, and conspiracy be permitted to invalidate the certificate of the officer taking the acknowledgment. It is a judicial act, and is entitled to all the credit of such. He is not the agent of the parties, but the instrument of the law. If defective, it cannot be supplied by parol: Watson and Wife v. Bailey, 1 Binn. 470; Jourdan v. Jourdan, 9 Ser. & R. 274; Jamison v. Jamison, 3 Whar. 469. There can be no true distinction between these cases and where, as here, the certificate, regular on its face, is attempted to be invalidated, because it does not contain the truth. The grantee relies upon the certificate alone, and that should only be set aside for fraud or imposition in which he was a participant.\nThe case of Schroeder v. Decker, 9 Barr 14, so much relied on, is different and distinct in all its features from this case. There there was a palpable fraud perpetrated upon the wife of the grantor, in which the grantee participated. The high character of the parties in this case repels the idea of fraud or combination for any such purpose.\nMcCleary, for defendant in error.\nIn a former ejectment on this same mortgage, this court held that parol evidence was admissible to prove that the wife had not made the declaration certified to by the magistrate: Louden v. Blythe, 4 Harris 532. The testimony objected to was admissible. Where it tends in the slightest degree, to sustain the hypothesis of the party offering it, or to support a material averment, it is admissible: Miller v. Stem, 2 Jones 386; Stevenson v. Stewart, 1 Jones 309; Bartlett v. Kingan, 7 Harris 341; Lindsley v. Malone, 11 Harris 24.\nThe declarations of the wife, objecting to the acknowledgment, made immediately before or at the time, are evidence as part of the res gestee: Louden v. Blythe, 4 Harris 532; 1 Green. Ev. \u00a7 108; 2 Hill\u2019s N. Y. Rep. 248-257; Blair v. Coffman, 2 Overt. 176. Great latitude is allowed in questions of fraud: Reinhard v. Keenbartz, 6 Watts 93; Kaufman v. Swar, 5 Barr 230.\nEven though Louden were in the situation of a purchaser without notice, it would not avail him in this case. Where the equities are equal, the condition of the party in possession is best: Plow. 296; 2 Fonb. Fq. b. 2; ch. 6, \u00a7 2, note h, and b. 1, ch. 4, \u00a7 25, note."
+  },
+  "file_name": "0022-01",
+  "first_page_order": 22,
+  "last_page_order": 26
+}

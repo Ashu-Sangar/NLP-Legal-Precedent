@@ -1,0 +1,93 @@
+{
+  "id": 974019,
+  "name": "Insurance Company versus Johnson",
+  "name_abbreviation": "Insurance Co. v. Johnson",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "72",
+  "last_page": "76",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 309",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846902
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0309-01"
+      ]
+    },
+    {
+      "cite": "23 Wendell 18",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025491
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0018-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 509,
+    "char_count": 11251,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 5.910668342403735e-07,
+      "percentile": 0.9529507318766461
+    },
+    "sha256": "7716d7c5b9f311dc4e218417d66176d4b5da8742519f57c6e523748e0cf0b78e",
+    "simhash": "1:c87bd4dc0c2893e2",
+    "word_count": 1985
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Woodward, J., dissented."
+    ],
+    "parties": [
+      "Insurance Company versus Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J.\nThis is an action on a contract to insure, and the question whether or not there was any insurance depends very much upon the authority of the company\u2019s agent, through whom the business was transacted. He was appointed \u201c agent and surveyor\u201d of the company, and \u201cauthorized to take applications for insurance, and receive the cash percentage to be paid thereon.\u201d Now, it does not seem easy to make it.plainer, that this is not an authority to bind the company by effecting insurances. He was to survey property proposed to be insured, as we infer from the name of his office, and to receive applications or proposals for insurance, and of course to transmit them to the company; but no word indicates that he could bind the company by accepting a proposition, or making a contract of insurance for them. lie might spring the game, not seize it.\nIt is argued that it has often been declared that taking a man\u2019s application, fixing the terms, and receiving the premium, are sufficient evidence of an insurance; and so they are, when it thereby appears that the contract is complete, and nothing is wanting but the issuing of the policy. But when, as here, it is plain that the application and payment of the premium amount only to a proposal for insurance, we cannot make a contract out of it.\nWhen we turn to the certificate of the agent taken by the plaintiffs below, this point becomes, if possible, more clear. It certifies that the plaintiffs had \u201cmade application for insurance,\u201d and had \u201c paid cash premium $25 \u2014 if not approved by the directors, money to be returned.\u201d It seems impossible to read this as a contract of insurance \u2014 it is a proposal to the directors, that is to become a contract when they accept it. The proposal, and the premium advanced with it, go together. If the proposal be withdrawn, or rejected, the premium must be returned. At any time before acceptance of the proposal, the plaintiffs could have withdrawn it, and demanded payment of the premium. They were never bound as by contract, and of course the defendants were not.\nBut it is said that the loss did not take place for near six months after the application, and that during all that time the defendants neglected to refund the money, and to notify the plaintiffs that their proposal was rejected. And this is thought to be such negligence on the part of the defendants below as justifies and requires the inference that they had approved or accepted the proposal, and here is the root of the error of the Court below.\nA principal is bound by the authorized acts of his agent, whether notified of them or not, and therefore the defendants are chargeable with having received this proposal; but that does not help the plaintiffs, for receiving it is .not an acceptance of it. A principal is also bound by the unauthorized acts of his agent, if, on being notified, he does not disavow them; but neither does this help the plaintiffs, for the agent made no contract to insure, and even if he did, no notice of such contract is proved.\nWhat is the true effect of the delay ? It cannot of itself make a contract. A proposal cannot become a contract by delay in rejecting or answering it. A delay in paying $25 cannot make a man liable for $2500. A neglect or delay that has properly a tendency to mislead another, and which is incompatible with honesty, may be charged as a ground of liability; as where one knows that another is acting as his agent in a particular matter without or beyond his authority, and does not promptly disavow his acts. But in this case the plaintiffs had in their own hands the power of correcting the delay; for undue delay in accepting a proposal may be and ought to be treated as a rejection of it, and the proposer may refuse to be bound by a tardy acceptance. A proposal not answered remains a proposal for a reasonable time, and is then regarded as withdrawn. Both parties are interested in its acceptance, and both are expected to attend to it with reasonable diligence.\nThe exceptions to evidence are not sustained.\nJudgment reversed and a new trial awarded.\nWoodward, J., dissented.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Little, for plaintiff in error.",
+      "W. S. Jessup and W. Jessup, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Insurance Company versus Johnson.\n1. A person was appointed agent and surveyor of a fire insurance company and was authorized \u201c to take applications for insurance\u201d and \u201c receive the cash percentage to be paid thereon;\u201d and in his certificate to the parties applying for insurance it was stated that they have made application to the Company for insurance and paid a cash premium; but adding, \u201cif not approved by the directors, money to be refunded.\u201d Held, that this was not an authority to make a contract of insurance; and if the application were forwarded to the Company, there was no evidence that it had been acceded to by it.\n2. An acceptance of the proposition for insurance was not to be presumed merely from the lapse of near six months without a reply to the proposition for insurance.\n3. The rates of hazard and the instructions to their agents or the by-laws of tbe Company, were not evidence on the part of the Company, it not appearing that the adverse parties had been informed of their terms.\n4. Evidence is admissible of the testimony of a witness before arbitrators in the same case, he being at a distance out of the state, being unmarried and having never had a permanent residence in the state.\nError to the Common Pleas of Susquehanna county.\nThis was an action on the case by S. N. Chittenden & Gr. Johnson v. The New York Union Mutual Insurance Company, to recover for an alleged insurance on two wooden buildings in Carbondale, Which were burned on 25th March, 1852. The defendants were incorporated in New York, and had their office in Johnstown.\nOn 16th Sept. 1851, S. S. Wickham received a certificate of his appointment as agent of the company; it being certified that1 he had been appointed agent and surveyor of the said company, and that he is \u201c authorized to take applications for insurance in said company, and receive the cash percentage to he paid thereon.\u201d\nOn part of the plaintiffs was produced, as eyidence of a contract, a paper to the following effect;\u2014\n\u201c This; certifies that Johnson k Chittenden, of Carbondale, have made application to the New York Union Mutual Insurance Company for insurance upon property specified in said application, to the amount of $ , and has given therefor premium note $ , and paid cash premium $25.00. If not approved by the directors, money to be refunded.\u201d\nSigned, S. S. Wickham, Agent.\nOctober 9, 1851.\nAs part payment of the $25 premium, Wickham took a note for $9, which Johnson held against him; and the residue was paid in money. This was done at Waymart, about six miles from Oarbondale.\nOn the part of the plaintiffs it was testified that Wickham, the agent, was a single man, was out of the state, in which he had never had a permanent residence, and had gone to the city of Washington temporarily, or \u201cfor an office,\u201d where he then was. It was testified, under exception, that he had testified before arbi-. trators in this case, that he had mailed this application within a day or two of the time it was made, and that it was directed to the secretary of the company.\nOn the part of the company, evidence was given tending to show that the letter had not been mailed, and the secretary of the company testified that he had not received it.\nThe rates of hazard by the company were shown.\nOn the part of the company it was also offered to prove the printed instructions to agents, with evidence tending to show that one of them had been sent to Wickham. These were objected to, and were rejected.\nThe by-laws of the company were also offered, and were rejected.\nOn the paft of the plaintiffs was then read an advertisement, put up in Carbondale, by a former agent of the company, to the effect, inte/ alia, that the company will hold itself responsible for \u201c all surveys, and other official acts of its authorized agents.\u201d * * * \u201c The insurance will take effect on all approvable applications the day they are taken, unless a different day is ordered by the applicant.\u201d\nThe case was tried before Wilmot, J., and verdict was rendered for plaintiffs for $2652.08.\nIt was, inter alia, assigned for error, \u2014 1. That the Court erred in admitting evidence as to the testimony of Wickham before the arbitrators. 2. In rejecting the \u201cinstructions to agents,\u201d a copy of which, it was alleged, accompanied the certificate of appointment. 3. In rejecting the proof as to the by-laws. 4. It vras alleged that the Court erred in charging that there is nothing in the evidence showing that the plaintiffs knew or had the means of knowing anything as to the limitations and restrictions imposed upon the agent by the company, or its secretary. * * * The receipt for the premium showed that it was liable to be rejected by the directors, but whether it would be or not the plaintiffs had no means of knowledge.\nIn charging that Wickham was not to be regarded \u201cas a medium through whom the parties undertook to negotiate, and to make propositions for a contract, but as an agent of the company acting for it and in its stead.\u201d In charging that the law presumed the assent of the company, from its failure to give notice, within a reasonable time, of its dissent and refusal to become bound in the proposed contract. \u201cWith the fidelity of the agent or the hazards of transmission through the mail, the plaintiffs had nothing whatever to do;\u201d and if, through the infidelity or negligence of the agent, the application was never laid before the directors, it should not affect the rights of the plaintiffs;. and that if the evidence on the part of the plaintiffs was believed, they were entitled to recover.\nLittle, for plaintiff in error.\nIt was contended that the absence from the state, which will render the former testimony of a witness admissible, must have the character of permanence. It was contended that the instructions and by-laws should have been admitted, in order to show that the insurance of the property in question was unauthorized. That the agent had not power to bind the company in this matter, reference was made to 4 Barr 185. The law will not imply the assent of a principal to what he does not know. Rut if the insurance was declined, the company would be liable only to refund. The agent had only authority to receive proposals and transmit them to the office of the company. In the case of Lightbody, in 23 Wendell 18, the agent was appointed for \u201c effecting insurances,\u201d and he gave an unconditional receipt for the premium. Case in 4 Cowen 645, referred to. The case of Hamilton v. L. M. Ins. Co., 5 Barr 339, not in point.\nW. S. Jessup and W. Jessup, for defendants in error.\nWick-ham, the agent, had no family, and never had a permanent residence in this state, and was at the time in Washington City. The admission of such testimony is much a matter of discretion with the Court: 7 Watts 309; 3 W. & Ser. 293; 8 Ser. & R. 387; 10 Barr 418. There was no evidence that the \u201c instructions to agents,\u201d or the 'by-laws\" were known to the plaintiffs. The company cannot set up in defence the mala fides of their agent in failing to transmit the application. The case of Hamilton in 5 Barr 339, is in point."
+  },
+  "file_name": "0072-01",
+  "first_page_order": 72,
+  "last_page_order": 76
+}

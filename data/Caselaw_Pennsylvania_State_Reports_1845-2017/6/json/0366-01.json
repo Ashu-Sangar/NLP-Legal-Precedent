@@ -1,0 +1,91 @@
+{
+  "id": 954553,
+  "name": "McClenkan v. McMillan",
+  "name_abbreviation": "McClenkan v. McMillan",
+  "decision_date": "1847-09-13",
+  "docket_number": "",
+  "first_page": "366",
+  "last_page": "368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 366"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Serg. & Rawle, 125",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Serg. & Rawle, 393",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Port. 321",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        8497944
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/port/4/0321-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 286,
+    "char_count": 4041,
+    "ocr_confidence": 0.394,
+    "pagerank": {
+      "raw": 3.414007949658691e-07,
+      "percentile": 0.8782622075649971
+    },
+    "sha256": "53bae58ce57e67b38c7b7aed5abb11782d63bbcaac0a7116884211f38d551ea8",
+    "simhash": "1:6815ce34bb48c900",
+    "word_count": 708
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McClenkan v. McMillan."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe declarations of one party made in the presence and hearing of the other, and to him; especially when, as in the case under consideration, they, compose part of the res gestee, have always been received in evidence; not because they are the declarations or assertions of the party who made them, and in whose favour they operate, but because the silence of the opponent gives rise to a fair presumption that he admits them to be true. The common sense of the multitude is embraced in the almost proverbial expression that silence gives consent; and the law does not differ from the understanding of the common mind. Thus it was ruled that in a conversation between two parties some time after making a verbal contract, one of them stated one of the terms of the contract, and the other did not dissent; and it was held to be sufficient proof as to the point asserted, to authorize a new trial, when the jury rendered a verdict contrary to the point asserted; 1 Com. Rep. 111. Elementary writers may speculate as to the value or importance of the evidence furnished by the silence of a party, as in 1 Greenleaf\u2019s Evidence, 201. But, after all, its weight must be left to the jury, whose judgment and discretion under all the circumstances must determine its value and importance. The point of fact to be decided in the case in hand was, whether McMillan, at the time- he delivered the first parcel of flour, did inform McClenkan that he would deliver the balance of the four hundred barrels contracted for. Mitchell testifies, that when McMillan tendered the balance of the flour, he asserted that on the Friday previous, when he delivered the first parcel, he gave notice that he would deliver the balance, to which McClenkan did not dissent or reply. The court below told the jury that this conversation afforded evidence that McClenkan had been notified. And so doubtless it did to some extent. The court do not say that it was conclusive evidence of that fact, but rather would seem to indicate the contrary ; for they add, \u201c you will compare Mitchell\u2019s testimony, with McGrahan\u2019s, and give them both their proper consideration.\u201d The court instruct the jury that the cause is one purely of fact, and altogether for their consideration. The plaintiff in error contends that the court ought to have told the jury that the evidence of his silence was of little weight. But, if they had done so, it would have been error. Its value and weight belonged to the jury: 2 Munford, 230; and was properly left to the jury. ' The court cannot determine and pronounce the weight of evidence, but only its tendency and admissibility: 4 Port. 321.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Wills and Donnelly, for plaintiff in error.",
+      "McMahon, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "McClenkan v. McMillan.\nThe silence of one party, when the other asserts a fact, is evidence of the truth of the assertion to go to the jury.\nIn error from the District Court of Allegheny county.\nSept. 9. Assumpsit for not receiving goods agreed to be purchased. By a written agreement, McClenkan was to take from one to four hundred barrels of flour, McMillan giving notice on delivery of the last parcel whether he would deliver the residue.\nA witness said, on Friday McMillan delivered one hundred and thirty barrels; on the Wednesday following he called to say the rest were ready. McClenkan said, \u201cI told you on Monday I would not take them:\u201d McMillan replied, \u00ab'I told you on Friday I would have them here this week.\u201d\nThe court left this to the jury as evidence that notice had been given at the delivery of the first parcel, pursuant to the contract.\nWills and Donnelly, for plaintiff in error.\nIt cannot be that a man is bound to deny every assertion which is made at every interview. The defendant had previously denied receiving the flour; and can his subsequent refusal to treat be construed an admission of all that may be said? 1 Greenleaf\u2019s Evidence, sects. 199, 200, 201; 2 Poth. Obl. Appx. 211, 212, 281; Moore v. Smith, 14 Serg. & Rawle, 393; Boyd v. Grant, 13 Serg. & Rawle, 125.\nMcMahon, contra,\ncited 1 Greenleaf\u2019s Evidence, sects. 197, 301.\nSept. 13."
+  },
+  "file_name": "0366-01",
+  "first_page_order": 366,
+  "last_page_order": 368
+}

@@ -1,0 +1,66 @@
+{
+  "id": 960792,
+  "name": "McKeon v. King",
+  "name_abbreviation": "McKeon v. King",
+  "decision_date": "1848-09-23",
+  "docket_number": "",
+  "first_page": "213",
+  "last_page": "214",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 175,
+    "char_count": 2155,
+    "ocr_confidence": 0.392,
+    "pagerank": {
+      "raw": 1.3061430802636296e-07,
+      "percentile": 0.623253131746291
+    },
+    "sha256": "1d6a5646010956295fd1b13c899124b85f0bb4c0406886d6bfa2c0d095c1f769",
+    "simhash": "1:2249b791a519f94c",
+    "word_count": 371
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McKeon v. King."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe statute expressly gives jurisdiction of a case like the present; and policy requires that the proceedings be not too nicely scanned as to form. The plaint and inquisition before us wouldj however, stand the test of a severe scrutiny even as to that. True, it is not detailed in the inquisition, which is the material part of it, that the complainant had demised the premises for years to a person from whom the complainant derives title, that rent was in arrear, and that there was not sufficient unprivileged property on the premises to answer a distress for it: but the plaint contains explicit averments of these several facts, and they are generally found in the inquisition, to be \u201cin all particulars just and true.\u201d They might have been found directly and specially; but surely enough was found by a tribunal of laymen, without the tautology of repeating them. As to the fact that the lease was not made directly by the complainant, it is entirely clear that an assignee is entitled to the remedy. The exceptions to evidence were out of place; for there is no such thing at common law, and the statute extends no further than to courts of record.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Mellon, for plaintiff in error.",
+      "Dunlop, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "McKeon v. King.\nWhere the petition of a landlord to recover possession of the demised property under the act of 1830 sets out the facts necessary to give the magistrates jurisdiction, and their inquest recites that they found these facts to be true, it is sufficient, though the facts found are not otherwise stated in the inquest.\nA sheriff\u2019s vendee of the landlord\u2019s title is within the act.\nA bill of exceptions cannot be taken in such proceedings.\nIn error from the Common Pleas of Allegheny.\nThe plaintiff was the sheriff\u2019s vendee of the title of defendant\u2019s landlord. The petition presented by him to two justices, set out the demise to defendant, the sale to plaintiff, that the rent was in arrear, &c. The inquests recited this petition, and found \u201cthat the particulars of the complaint were just and true.\u201d Objections were taken to certain witnesses, and the proceedings were affirmed by the court.\nMellon, for plaintiff in error.\nDunlop, cont\u00f3.\nSept. 23."
+  },
+  "file_name": "0213-01",
+  "first_page_order": 213,
+  "last_page_order": 214
+}

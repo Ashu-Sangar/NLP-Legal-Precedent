@@ -1,0 +1,113 @@
+{
+  "id": 9503361,
+  "name": "Strock versus Little",
+  "name_abbreviation": "Strock v. Little",
+  "decision_date": "1863-07-01",
+  "docket_number": "",
+  "first_page": "416",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 Pa. 416"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Wright 228",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 288",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 238",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 14",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856520
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0014-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 202",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 202",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 415,
+    "char_count": 7653,
+    "ocr_confidence": 0.437,
+    "pagerank": {
+      "raw": 1.3878755458775662e-07,
+      "percentile": 0.6418092328935008
+    },
+    "sha256": "f372f34688baeae20d809d9eb1c5fa33edb49558560bd2b5ca8078c283423b09",
+    "simhash": "1:916359a995acb7ff",
+    "word_count": 1347
+  },
+  "last_updated": "2024-02-27T21:46:48.873207+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Read, J., dissented."
+    ],
+    "parties": [
+      "Strock versus Little."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby\nWoodward, J.\nThe only question upon this record is whether foreign attachment will.lie in account render. And why will it not ? Under the custom of London, all attachments are grounded upon actions of debt or detinue ; but under our statutes, which, being remedial, are to be liberally construed, foreign attachments may issue in all actions sounding in contract where the plaintiff can swear to the amount claimed, or the court, upon a rule to show cause of action, can get at the sum in controversy with sufficient accuracy to fix tbe amount of bail which the defendant is to give to dissolve the attachments. This, I take it, is the rule which is deducible from our Acts of Assembly and from the ruling in Fisher v. Consequa, reported in Sergeant on Attachments,-p. 44.\nJt will not lie in actions sounding in tort, for it was never designed as a remedy in such cases: Porter v. Hildebrand, 2 Harris 131. Nor in actions ex contractu for unliquidated damages, for in such a case the court will have no standard by which to fix the amount of defendant\u2019s bail; but wherever, in actions ex contractu, the cause of action can be shown with such approximate precision as will enable the court to prescribe the amount of bail to the defendant, the writ may go. \"When Judge Gibson said, in McCullough v. Grishobber, 4 W. & S. 202, that foreign attachments can be legally sued out only for a debt presently demandable, he was contrasting it with a domestic attachment, which was what he was dealing with in that case. But if the saying be taken for what it was not intended, a definition of the law of foreign attachments, what, it may be asked, is account render but an action for a debt presently demandable ? A very cumbersome and ill-favoured action it is, to be sure, but nevertheless it arises strictly ex contractu, is for a debt due, and although it may result as assumpsit may, in a balance in favour of the defendant, yet it is a case in which the cause of action may be shown and the bail of defendant may be fixed.\nTherefore, we hold it may be commenced by foreign attachment.\nThe judgment is affirmed.\nRead, J., dissented.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "S. L. Russell, for plaintiff in error,",
+      "John Cessna, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Strock versus Little.\nForeign attachment will lie in account render.\n1. A writ of foreign attachment may issue in all actions sounding in contract, where the plaintiff can swear to the amount claimed, or the amount in controversy can he defined with sufficient accuracy to enable the court to fix the hail to he given by the defendant in order to dissolve the attachment.\n2. Hence foreign attachment will lie in account render.\nERROR to the Common Pleas of Bedford county.\n\u25a0 This was a foreign attachment in account render, brought October 22d 1860, by Peter J. Little against Jacob Strock.\nOn the 14th of February 1861, the defendant moved the court for a rule to show cause why the service of the writ should not be set aside upon the ground that a writ of foreign attachment cannot b.e sued out in account render.\nOn hearing, the court below discharged the rule, entered judgment quod computet, and appointed auditors to state an account, who, on the 20th of November 1862, made their report, certifying a balance due from defendant of $1012.88; on which judgment was entered.\nThe error assigned was the action of the court below discharging the rule to set aside the service of the writ.\nS. L. Russell, for plaintiff in error,\nargued, that the court below ought to have made the rule to set aside the service of the writ absolute: McCullough v. Grishobber, 4 W. & S. 202. \u201c A foreign attachment can be legally sued out only for a debt presently demandable.\u201d What debt has the plaintiff against the defendant? The institution of the action of account render shows conclusively that he has no debt which is \u201cpresently de-mandable.\u201d The object of that writ is to ascertain whether the defendant owes the plaintiff anything. \u201c The action must be for things uncertain:\u201d 2 T. & H. Pr. 130. The exigency of the writ demands an account, and the account might result in a balance against the plaintiff. So far from the plaintiff having a debt against the defendant presently demandable, he has not even a claim upon which he can maintain an action of assumpsit. \u201cIn order to enable one partner, in general, to maintain an action of assumpsit against his copartner, it is indispensably necessary that there should first be a settlement made of their partnership transactionsKillam v. Preston, 4 W. & S. 14.\nForeign attachment is limited, in respect to the cause of action, to debts contracted or owing by the defendant, which is only extended to actions ex contractu. The Act of 1836 makes no change in this respect: Piscataqua Bank v. Tumley, 1 Miles 312; Porter v. Hildebrand, 2 Harris 131. The form of action may be debt, indebitatus assumpsit, or on the case, but the cause of action must arise from a contract. There is no contract, no promise, express or implied, on the part of one partner to pay to his copartner until the balance is ascertained. See Baum v. Agnew, 6 W. & S. 238.\nJohn Cessna, for defendant in error.\nThe ease cited by plaintiff from 4 W. & S. 14 was assumpsit. We admit that such action can only be sustained after settlement: 9 Casey 409. In this same case, as well as in many others, it is held that account render is an action ex contractu. It requires privity, and cannot be sustained for a tort. In all the cases, the turning point in the decision seems to be whether the action is ex contractu or ex delicto. In Porter v. Hildebrand, 2 Harris 131, Chief Justice Lowrie, then in the court below, sustained the writ of foreign attachment. True, the case was reversed, but solely upon the ground that the declaration was based upon a tort; but it was plainly intimated that had the plaintiff waived the tort, and declared upon the implied contract, his suit would have been sustained. In Brown v. Agnew, 6 W. & S. 288, nothing is decided except that account render will not lie for debt paid after dissolution. The remedy in such cases is in assumpsit for contribution. The plaintiff in error relies very much upon 4 W. & S. 202. Should this court sustain his view of that case, they must hold that an action of foreign attachment can only be sustained for a judgment or claim wholly undisputed. Any defendant could defeat it by a captious objection to any part of the plaintiff\u2019s claim. In all such cases the debt would not be \u201cpresently demandable\u201d in the view of plaintiff in error. In that case, Judge Gribson was showing the difference between a domestic and a foreign attachment. In the former, proceedings might be commenced to prevent a debtor from absconding, although the notes or claims were not due. It was wholly in this sense that the term \u201cpresently demandable\u201d\u2018was used by the court.\nDebts of contract are presently demandable unless payable in the future. That is always certain which may be made certain. In 5 Pennsylvania Law Journal, Judge Sharswood decided the same principle, and held that foreign attachment would lie to recover a general average.\nIt has always been held that foreign attachment will lie in cases of contract. It lies for the recovery of damages for breach of contract such as may be reduced to certainty by any definite standard; not, however, for speculative damages. Such was the unanimous opinion of this court as delivered in 1860, by Justice Thompson, and reported in the case of Carland and Bierne v. Cunningham, 1 Wright 228. This case covers the whole ground, and the case now before the court must be affirmed, or that in 1 Wright, along with many others to the same effect, must be reversed.\nJuly 1st 1863,"
+  },
+  "file_name": "0416-01",
+  "first_page_order": 416,
+  "last_page_order": 419
+}

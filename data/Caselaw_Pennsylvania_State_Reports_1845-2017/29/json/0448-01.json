@@ -1,0 +1,166 @@
+{
+  "id": 982932,
+  "name": "McIntyre versus Kennedy, Childs & Co.",
+  "name_abbreviation": "McIntyre v. Kennedy, Childs & Co.",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "448",
+  "last_page": "456",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 John. Rep. 303",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Wend. 605",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2150332
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/20/0605-01"
+      ]
+    },
+    {
+      "cite": "7 Hill 130",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Johns. Rep. 409",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 John. 68",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131485
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/5/0068-01"
+      ]
+    },
+    {
+      "cite": "6 Mass. 321",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/6/0263-01"
+      ]
+    },
+    {
+      "cite": "5 Mass. R. 299",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002149
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/5/0230-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch 264",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 W. & S. 276",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854584
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0276-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 280",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 W. & S. 95",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 977,
+    "char_count": 23774,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 4.3743322712248427e-07,
+      "percentile": 0.9190852439659609
+    },
+    "sha256": "33c557344bc2a9d960e1ce80178418b794457c8e42dad43608e8c2d47c380e4f",
+    "simhash": "1:80bd00899e5ddb24",
+    "word_count": 4299
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Lewis, C. J., dissented.",
+      "Lowrie, J., being related to one of the parties, did not sit on the argument."
+    ],
+    "parties": [
+      "McIntyre versus Kennedy, Childs & Co."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nA creditor applies to his debtor for part payment of the debt, and receives from him his own check and the cheek of a third party, the latter of which, on presentment in due time, is refused payment: is this satisfaction pro tanto, as between the debtor and creditor ? Or, in other words, which of them is to sustain the loss of the worthless cheek ?\nWe suppose that among business men this question would be of easy solution; that a check given by a debtor, whether his own or another\u2019s, for a pre-existing debt, would be regarded as conditional payment \u2014 as payment if paid \u2014 and that, if with reasonable diligence on the part of the holder it proved worthless in his hands, the debtor would be obliged to receive it back and pay the amount of it to his creditor. The rights and liabilities of the parties would of course be controlled by any express agreement between them, but where there is none \u2014 where it is a simple payment and receipt of a check, supposed by both parties to be good, the debt is not satisfied until the check is paid. The holder assumes the duty of presenting the check and demanding payment within a reasonable time, and if he neglects to do so, and the banker fails after the time it ought to have been presented, the loss is to be borne by the holder, not by reason of the receipt of the check, but of his negligence which has occasioned the loss. He may not charge against his debtor the consequences of his own neglect, and this on the same principle of natural justice which forbids the debtor to take advantage of his wrong in issuing a worthless check to a bona fide creditor. These principles are of every day\u2019s application among business men; 'but the case before us questions them, and compels us to look into the authorities to see if they have not the obligatory force of law.\nThe argument on the part of the defendants in error resolves itself into the assumption that checks are of the same quality as bank-notes, and then applies the principle of Bayard v. Shunk, 1 W. & S. 95, wherein it was held that a payment by a sheriff in current bank notes discharges the debt, although, in consequence of the previous failure of the bank, of which both parties were ignorant, the notes were of no value at the time of payment.\nBut neither the assumption nor the application can be sustained. Checks resemble bills of exchange rather than bank notes: Chitty on Bills 17; 7 T. R. 430; 3 Johnson\u2019s C. 5; and fall within that class of securities which Chief Justice Gibson in this very case of Bayard and Shunk so broadly distinguished from the common currency of the country. Like bills of exchange, they are open letters of request for the payment of money to a particular person or his order or to bearer. They are drawn against a supposed deposit. They are not payment, but an order on the depositary to make payment for the drawer. When payable to bearer they pass by mere delivery, like bank notes, but so do promissory notes and bills of exchange. The grand distinction between all these securities and bank notes is that by the conventional rules of business they do not enter at all into the currency of -the country, a very large part of which is made up of bank notes. These are lent by the banks as cash, they are paid away as cash, and the language of Lord Manseield, in Miller v. Race, 1 Burr. 452, was not too strong when he said, \u201c they are not goods, nor securities, nor documents for debts; but are treated as money, as cash, in the ordinary course and transaction of business by the general consent of mankind, which gives them the credit and currency of money to all intents and purposes; they are as much money as guineas themselves are, or any other coin that is used in common payments as money or cash.\u201d It was on the ground of this distinction that Bayard v. Shunk was ruled. The parties dealt in the common currency of the country, each of whom had the same opportunity to know its character, and both of whom were ignorant of its worthlessness, and therefore they were held to what they had done. But that case, so far from being pressed into the service of the defendants, is an authority against them. \u201c If the securities,\u201d says the Chief Justice, in speaking of bills and notes\u2014 among which, I submit, it is giving checks all the dignity that is their due to rank them \u2014 \u201c if the securities are transferred for a debt contracted at the time, the presumption is they are received in satisfaction of it; but if for a precedent debt, it is that they are received as collateral security for it, and in either case it may be rebutted by direct or circumstantial evidence.\u201d This was not, strictly speaking, an obiter dictum, for it was necessary to the bringing out, in bold relief, the distinction on which the case was ruled, but it is entitled, for a better reason, to be considered an authority; because it expresses the very mind of the law, as I now proce'ed to show.\nIn Weakly v. Bell, 9 Watts 280, Judge Kennedy tells us the general rule seems to be, that if one indebted to another by simple contract, give his creditor a promissory note, drawn by himself, for the same amount without any new consideration, the new note shall not be deemed a satisfaction of the original debt, unless so intended and accepted by the creditor: Hart v. Ballor, 15 S. & R. 162; Roberts v. Gallaher, 2 Wash. C. C. R. 191. \u201c And most clearly all the authorities go to show,\u201d added his Honour, \u201cthat, at law, accepting of a security of equal degree, either from the debtor himself, with or without a surety, or from a stranger alone, at the instance of the debtor, is no extinguishment of the first debt; as where a second bond is given to the obligee; for one bond cannot detetermine the duty of another.\u201d This was said in a case where the attempt was to make the note of a third party delivered by a debtor to his creditor payment of his own note; and the doctrine announced is decisive of the present case, unless it can be shown, which it cannot, that bankers\u2019 checks are a superior security to simple contract debts and promissory notes.\nBut even a higher security for a debt, given by different parties, or for a different sum will, in the absence of proof of the intention of the parties, be presumed to have been accepted as collateral security, and not in satisfaction of the debt: Jones v. Johnson, 3 W. & S. 276; Eby v. Eby\u2019s Assignees, 5 Barr 440: so that it would not help the argument if checks could be treated as higher security than bills and notes.\nIn Tyson v. Pollock, 1 Pa. R. 376, two firms, Tyson & Co. and Byrne & Co., joined in a written agreement to purchase of W. & J. Pollock a quantity of wheat, for which they were to pay in the paper of certain specified banks. As the wheat was delivered the two purchasing firms divided it between them; but instead of paying in bank notes, each firm gave the creditor bills on Baltimore for their respective shares of the wheat. The bills of Tyson & Co. were paid, but those of Byrne & Co. were protested, and this was an action against Tyson & Co. on the original contract to recover for the wheat had by Byrne & Co. The plaintiffs recovered, and in affirming the judgment Chief Justice Gibson said: \u2014 \u201cIn relation to the partnership, each of the partner firms may be treated as a stranger capable of dealing with it in the character of debtor or creditor; and as by the contract of sale, the wheat was to be paid for in the notes of particular banks, the subsequent acceptance of bills drawn by the partner firms, was payment in the bills of a stranger of a precedent debt. On no other hypothesis could there be the shadow of a defence; for as one simple contract will not merge in another, it has invariably been held that the debtor\u2019s own bill or note for the price of goods sold will not extinguish the original liability: Ld. Raymond 1430 ; 2 Strange 1218 ; Willes 406. It merely operates as an extension of credit, a,nd prevents a recurrence to the original contract of sale before the bill or note has come to maturity: 1 Esp. 3. We have then payment of a precedent debt in the bills of a third person which has been universally held since Clark v. Munden, 1 Salk. 124, not to be absolute satisfaction, although it is otherwise where such payment has been in pursuance of the original bargain. I feel no disposition to review the authorities, but I may safely affirm that no cas.e can be found in which any other doctrine was ever held. In Sheely v. Mandeville, 6 Cranch 264, the acceptance of a bill was barely held to be a sufficient consideration for an agreement to discharge the precedent debt.\u201d\nThe strong confidence of the venerable chief justice, fully justified by the general current of the authorities, was too strongly expressed in saying, that no case can be found inconsistent with the doctrine which has always prevailed in this court.\nThere are some Connecticut and Massachusetts cases which favour the doctrine, that a note or bill of exchange is payment of a precedent debt: Anderson v. Henshaw, 2 Day\u2019s R. 272; Thatcher v. Dinsmore, 5 Mass. R. 299. In Ellis v. Wild, 6 Mass. 321, the doctrine was carried to the extent of holding that forged notes were payment of goods sold. And possibly a stray case may be picked up elsewhere to stand as an exception to Judge Gibson\u2019s remark, but tbe general tenor of the authorities in England and the United States is exactly that which he stated it to be.\nChief Justice Holt stated the law in these few words in Ward v. Evans, 2 Ld. Raymond 930: \u201c Taking a note for goods sold is payment, because it was part of the original contract; but paper is no payment where there is a precedent debt. For when such a note is given in payment (that is for a precedent debt), it is always intended to be taken under this condition, to be payment if the money be paid thereon in convenient time.\u201d See also Puckford v. Maxwell, 6 Term R. 52.\nTaking a bill of exchange or promissory note either of the debtor or a third person for a pre-existing debt, is no payment: Toby v. Barber, 5 John. 68; Herring v. Sawyer, 3 Johns. Cases 71. But where, on the sale of goods, the bill or note of a third person is received by the seller, it is payment: Whitbeck v. Van Ness, 11 Johns. Rep. 409. It is settled, said the Supreme Court of New York, in Hays v. Stone, 7 Hill 130, that the acceptance of the bill or note of a third person does not cancel a previous debt, unless it is agreed to be received in absolute payment and satisfaction. Subsequent events may charge the creditor with the amount of the bill or note, as where he neglects to make demand and give notice by which the security of some of the parties is lost, but the mere acceptance of a bill has never been deemed to be a payment of a previous debt.\nIn the note\u201d of Hare & Wallace to the case of Cumber v. Ware, 1 Smith\u2019s Leading Cases, 5th Am. edit., p. 451, the result of the authorities on the point before us is stated thus: The note or bill of a third person may be given by a debtor, and received by the creditor as collateral security \u2014 as conditional payment, that is, to be a satisfaction if and when paid \u2014 or as an absolute and immediate satisfaction and discharge, and to be wholly at the risk of the creditor. Which of these three it will be depends entirely upon the intention of the parties, to be derived from all the circumstances of the case. The mere acceptance by the creditor of a negotiable note of a third person makes it but collateral security. If the note be taken as payment, that is ordinarily and prima facie but conditional payment. But the note will operate as an immediate and absolute satisfaction and discharge of the debt, if such be the intention and understanding of the parties, and such intention is to be implied where the notes of a third person are accepted in payment at the time the purchase is made, for it is to be understood as an exchange or barter, but where they are given for a pre-existing debt the presumption is the other way, and nothing short of an actual agreement, or some evidence from which a positive inference of discharge can be made, or proof of fraud, will suffice.\nThis is so clear and satisfactory a summary of the authorities, both English and American, that I do not think it necessary to go through them. I will add only a few others relating especially to checks.\nMr. Byles, in his work on Bills, at p. 17, says: If a creditor, in payment of any other debt than a bill or note, take a check, and the banker fail, or the check be dishonoured, the creditor\u2019s remedies remain entire.\nIt is to be observed, that he lays down the rule in general terms, without taking a distinction between checks drawn by the debtor, or by a third party, and only paid out by the debtor. One of the cases he cites, Everett v. Collins, 2 Campb. 515, would have justified such a distinction, for Lord Ellenborough does expressly put his judgment on the ground that the check was drawn by the agent of the debtor, but that was a case in which money was offered to the creditor, and he insisted on taking a check. Still the debtor was held liable on failure of the bank to pay the check, because it was regarded as the debtor\u2019s own check. The other cases cited make no account of such a distinction, and as Everett v. Collins was only a nisi prius judgment, the learned author of the work on Bills did well to take no notice of it. If, however, the fullest effect were given to Lord Ellbnborough\u2019S distinction, it would merely prove that a creditor, who insisted on taking the check of a third party instead of money, would be without recourse.\nIn another elementary book of great excellence, Addison on Contracts, p. 552, a new edition of which, edited by Edward Ingersoll, Esq., of the Philadelphia bar, has just appeared, the same rule is laid down in regard to bankers\u2019 checks, and without noticing a distinction between those drawn by the debtor and those of third persons issued by him. If the check is presented in due time, and refused payment, the loss will fall on the drawer, is this author\u2019s mode of stating the rule.\nIt was said by Tilghman, C. J., in Patten v. Ash, 7 S. & R. 116, that a naked check, payable to one or bearer, is not evidence, per se, of payment to the person whose name is inserted. It is necessary to prove that he received the money. The same thing, in effect, was said by Chief Justice Nelson, in The People v. Baker, 20 Wend. 605. In The People v. Howell, 4 John. Rep. 303, the language of Chief Justice Kent, in respect to a check, was, \u2014 \u201c If there was a pre-existent debt, for which it was given in payment, the debt would still exist against the debtor, if the check was not good. Unless a check be paid, it is no payment.\u201d\nWhere a check on a bank is given, in the ordinary course of business, it is not to be presumed to be received in absolute payment of a debt, even if the drawer have funds in the bank, but as the means whereby the holder may procure the money. The holder becomes the agent of the drawer to collect the money; and if guilty of no negligence in presenting the check for payment, whereby an actual injury is sustained by the drawer, he will not be answerable, if from any peculiar circumstances attending the bank the check be not paid, but in a suit against the drawer for the consideration of the check, the holder may treat it as a nullity, and resort to his original cause of action: Cromwell & Wing v. Lovett, 1 Sail\u2019s N. Y. Rep. 56, afterward affirmed in Supreme Court.\nSuch is the voice of authority in regard to the character of checks as an instrument of payment. Distinctions are not taken between payments in the debtor\u2019s checks or those of a third person, because no ground exists in reason for such a distinction. When this plaintiff applied to the defendants for $200 of what they owed him, and they gave him their own check for $132.94, and that of E. Fronefield & Brother for $67.06, had they paid him one of these sums any more than the other ? If their own check had not been paid, it is admitted he would have recourse to them \u2014 their check was not then, per se, payment. But they were well known to him, and he had confidence in them, as is shown, by leaving his money in their hands. It does not appear that he knew Fronefield & Brother, or had any reason to confide in them. Did he, indeed, take their check as higher security than that of his chosen debtors ? Are we to hold that the check of the defendants was not payment, but that of Fronefield & Brother was ? On what principle ? No words were spoken, or agreement made to create a difference. Both were mere cheeks \u2014 of exactly the same grade and quality in law. If we are to make implications from the circumstances of the parties, the reasonable presumption would be, that the plaintiff received the check of the defendants with more faith and confidence \u2014 with stronger assurance that it would be paid, than the check of a party unknown to him. It is more reasonable to infer that he meant to be their insurer, rather than the insurer of the other drawers. If a distinction were to be made at all between these instruments of payment, it ought to be in favour of the one which is admitted not to have been payment, and against the one that is claimed to have been payment.\nBut there is no ground for such a distinction. None surely in reason, as applied to this transaction \u2014 none in authority, as I have abundantly shown. The plaintiff received both checks on the same footing \u2014 as payment, if or when paid. With proper diligence, without the slightest imputed negligence, one of them proved uncollectable. And now, on a question of payment between debtor and creditor, that check can no more be considered payment than if it had been drawn on the same bankers by the defendants themselves. They are not liable, as drawers or endorsers, for they kept their name off of it, but they are liable on the original debt; for to the extent of this worthless paper, issued by them, it remains unpaid.\nThere is no principle in our jurisprudence better settled or more benign than that, as between the original parties to a contract, equity will relieve against a failure of consideration. If the defendants had not had full value from the plaintiff, they would have claimed relief. The most solemn contracts, even bonds and mortgages, do not exclude inquiry into the consideration. How is this acceptance of two checks to be elevated so high -as to be above inquiry and relief ? Is it indeed so, that the law will relieve against failure of consideration in all contracts, except only when a creditor receives from his debtor a check of a third party ? A rule so absurd and so unprincipled could have no other effect than to impair that confidence which is the very life of commercial transactions, and to compel debtors to make their payments in the constitutional currency.\nBut it is said the case stated makes the checks payment, and that we must take the fact as if found in a special verdict. In the narrative of the transaction, the case stated speaks of the checks being paid to the plaintiff, but there is not a word in it which implies that he acknowledged them as satisfaction of his debt, or even gave a receipt for them, or qualified the mere tradition of them by any express or peculiar terms. Had there been anything of this sort \u2014 a receipt in full, if you please \u2014 the authorities cited show it would have been only conditional payment; and other numerous authorities, which it were a shame to array in an opinion, prove that all manner of receipts, even those upon deeds of conveyance, are open to explanation, and may be proved not to have been actual and Iona fide payments.\nBut of receipt, acknowledgment, or agreement there was none \u2014the mere acceptance of the checks was the only payment the special verdict finds. Payment \u2014 hut payment in checks. This is what the case stated makes it. And this not by way of barter, but payment in checks of a pre-existent debt, and this was conditional payment \u2014 payment when the checks were paid, or else the law means not what it says.\nThe judgment is reversed and judgment is entered here on the case stated for plaintiff for $71.86 and costs. March 9, 1857.\nLewis, C. J., dissented.\nLowrie, J., being related to one of the parties, did not sit on the argument.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Large, for plaintiff in error.",
+      "J. A. Lowrie, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "McIntyre versus Kennedy, Childs & Co.\nWhere the cheek of a third party is received by a creditor from his debtor, upon a pre-existing debt, the presumption is that it was received as a conditional payment, and as satisfaction of the debt, if and when paid.\nNothing short of an actual agreement or evidence -from which a positive inference can be made, will make such a transaction a discharge of the original cause of action.\nError to the Common Pleas of Allegheny county.\n.This was an action of assumpsit by John McIntyre against Kennedy, Childs & Co., in which the parties agreed upon the following case stated in the nature of a special verdict.\nKennedy, Childs & Co., the defendants above named, owed John McIntyre, plaintiff above named, a sum of money amounting to something more than two hundred dollars ($200).\nOn the second day of January, A. D. 1855, the plaintiff went to the counting-house of the defendants, and asked for two hundred dollars of what they owed him. Mr. Strong, one of the defendants, paid him the amount with two cheeks; one of them drawn by Kennedy, Childs & Co. on H. Childs & Co. for one hundred and thirty-two dollars and ninety-four cents ($132.94), payable to the plaintiff or bearer; and the other described as follows, to wit:\nPittsburgh, January 2d, 1855.\nNo. 148. Hoon & Sargent, Bankers, pay to Kennedy, Childs & Co., or bearer, sixty-seven 6-100 dollars.\n$67.06 E. Eroweneield & Bro.\nThese checks were paid to the plaintiff between the hours of four and six o\u2019clock, on the second day of January, 1855. On the same evening (January 2d, 1855), the plaintiff paid the above-mentioned checks to John Dean, in full of a debt due by the said plaintiff to the said John Dean, for money loaned; and on the next morning (January 8d, 1855), Mr. Dean deposited the said checks in the Farmers\u2019 Deposit Bank of Pittsburgh, and received credit therefor on his bank book.\nOn the same morning (January 3d, 1855), the Farmers\u2019 Deposit Bank sent a clerk to the office of Hoon & Sargent, with the second of the above-mentioned checks, in order to present it, and draw the money; but when he arrived at the office he found it closed, and learned that Hoon & Sargent had stopped payment about 11 o\u2019clock that morning (January 3d, 1855).\nThe Farmers\u2019 Deposit Bank then returned the said second check before mentioned to Dean, Dean returned it to the plaintiff, who now wishes to recover sixty-seven T\u00a7-0- dollars (|67.06), the amount which the said check calls for from Kennedy, Childs & Co., defendants.\nIf, on this statement of facts, the court shall be of opinion that the defendants are liable to the plaintiff for the amount of the said check, then judgment for the plaintiff for sixty-seven dollars and six cents, ($67.06), with interest from the third day of January, 1855. If, on the contrary, they shall be of opinion that the defendants are not liable to the plaintiff for the amount of the said check, then judgment for the said defendants.\nThe costs to follow the judgment, and either party reserving the right to sue out a writ of error thereon.\nApril 26, 1856, the court on this case stated enters judgment for defendants, and against the plaintiff.\nThe plaintiff thereupon purchased this writ, and assigned that the court erred in entering judgment on the case stated in favour of the defendant.\nLarge, for plaintiff in error.\nJ. A. Lowrie, for defendant in error."
+  },
+  "file_name": "0448-01",
+  "first_page_order": 448,
+  "last_page_order": 456
+}

@@ -1,0 +1,97 @@
+{
+  "id": 975774,
+  "name": "James A. Anderson versus Hamilton Township",
+  "name_abbreviation": "Anderson v. Hamilton Township",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "75",
+  "last_page": "76",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 75"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 290",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846869
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0290-01"
+      ]
+    },
+    {
+      "cite": "11 Mass. 34",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/11/0038-01"
+      ]
+    },
+    {
+      "cite": "2 R. 158",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 292,
+    "char_count": 4008,
+    "ocr_confidence": 0.442,
+    "pagerank": {
+      "raw": 2.2041429131650342e-07,
+      "percentile": 0.7755000388053512
+    },
+    "sha256": "621e6e9a6ed9fcbd1349d474223bf72d5dc339213501bdac8a7c6470dc128113",
+    "simhash": "1:bb141c2e1d440172",
+    "word_count": 703
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James A. Anderson versus Hamilton Township."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nNeither of the assignments of error is sustained.\nThe suit was rightly brought in the name of the township, although the agreement was with the road commissioners, who were individually named. The commissioners did not contract for themselves, but for the township, whose officers they were; and the proper party to the action was the corporation.\nThe work which the defendant proposed to set off against the claim of the township, was done without authority from the commissioners, or either of them, and could not therefore be charged against the township.\nA voluntary act, although beneficial to another, performed without request, affords no legal cause of action for compensation. That the work was necessary to be done, can make no difference. The road commissioners were the proper persons to determine the necessity for the repairs, and to direct the manner in which they should be made. It will not do to permit the unauthorized expenditure of labour or money -to be recovered from the township.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Johnson and Brown, for plaintiff in error. \u2014",
+      "Wetmore, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "James A. Anderson versus Hamilton Township.\nWhere a suit was brought in the name of H. township upon a bond given to the road commissioners of the township, who were individually named in the bond, to secure funds advanced by the township; Held, that the suit was well brought.\nWork done by a private citizen on a public road without authority or request of the authorities, although beneficial, affords no legal cause of action for compensation. That the work was necessary does not alter the case.\nError to the Common Pleas of McKean county.\nThis suit was originally brought by Hamilton township against the defendant, before a justice of the peace, for the recovery of a bond or contract signed by defendant (and a surety not named), dated 25th June, 1850. The defendant had contracted to make about 200 rods of a new road for plaintiffs, at 72 cents per rod. No money was to be paid until the job was completed. The road commissioners, however, agreed to advance to the defendant $40 of funds they had on hand, and required him to give the above bond with surety, which was conditioned for making the road according to the contract: in that event the $40 to be deducted from the amount to be paid him, otherwise to remain in full force and virtue. Defendant did some $50 worth of work on the road, and then finding it more expensive than he expected, abandoned and never completed it. And this suit was brought to recover the $40 thus advanced.\nThe bond was made payable to Libby, McManus, and Stanton, Hoad Commissioners of Hamilton township. And when offered in evidence, the defendant objected to its being read in this suit, brought in the name of Hamilton township as above stated, which was overruled, and the bond was read.\nThe defendant then offered, by way of set-off (under his plea of set-off), to prove that he had done necessary work on one of the public roads of the township at a time when extraordinary floods bad rendered it entirely impassible, for which the township had never paid him, although it had adopted and used the repairs so made by him, which evidence was rejected.' Yerdict for the plaintiff for the whole bond and interest.\nJohnson and Brown, for plaintiff in error. \u2014\nAn action on a deed.' can only be in the names of the parties to it: 6 Barr 292; Green-leaf v. Yeates, 2 R. 158. In actions at common law the parties must be legally and not merely equitably entitled to the cause of action: 5 Barr 520; 1 Chitty\u2019s Plead. 4.\n2. Acquiescence in the work done, or the party availing himself of the benefit of the service, will render him liable on quantum meruit: 2 Stark. Ev. 940. So if he know of it and tacitly assent to work done: James v. Bixby, 11 Mass. 34. The work was done upon an emergency. The road was impassable and dangerous, and prompt action was required: see Overseers v. Bunn, 12 Ser. & R. 292; Overseers of Milton v. Williamsport, 9 Barr 46; 7 Watts 290.\nWetmore, for defendant."
+  },
+  "file_name": "0075-01",
+  "first_page_order": 75,
+  "last_page_order": 76
+}

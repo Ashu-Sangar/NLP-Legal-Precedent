@@ -1,0 +1,85 @@
+{
+  "id": 963789,
+  "name": "Fullerton v. Shauffer",
+  "name_abbreviation": "Fullerton v. Shauffer",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "220",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 433",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts, 438",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 436",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 195,
+    "char_count": 2657,
+    "ocr_confidence": 0.4,
+    "pagerank": {
+      "raw": 8.839655446713736e-08,
+      "percentile": 0.4981556839800313
+    },
+    "sha256": "c51af6c130402e0f53769b0a0557a749d1f4f5ba1ca1e1cda079503263c5f1b1",
+    "simhash": "1:86835344f6546723",
+    "word_count": 491
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fullerton v. Shauffer."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nBy the 119th section of the Act of the 16th June, 1836, relative to executions, the purchaser is declared to be the landlord after the sheriff acknowledges and delivers his deed, and he has the like remedy to recover any rents accruing out of the premises; and the 120th section provides that after notice to the tenant, he has a right to recover any rent accruing subsequently to the acknowledgment of the deed: Dunl. 831-2. Was there any rent accruing from the defendant to his landlord subsequent to the sale ? [His Honour here stated the case.] It is ruled in the case of the Bank v. Ege, 7 Watts, 436, that a purchaser of real estate at the sheriff\u2019s sale in the middle of a term is not entitled to the rent payable by the tenant, if by the terms of the lease the same was payable in advance at the beginning of the year.\nThis rules the case before us. Here the rent was to be appropriated when the lease was entered into and executed. The consideration was valued, there was no money or grain to be given to the landlord by the tenant, and it was on this condition that the field was farmed. No rent accrued to Shauffer subsequent to the acknowledgment of the sheriff\u2019s deed, and it was properly ruled that the plaintiffs were not entitled to recover.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Patterson and Veech, for plaintiffs in error.",
+      "Howell and Oliphant, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Fullerton v. Shauffer.\nWhere by the terms of a lease the tenant is to retain the rent, and apply it to the payment of a debt for which he has become security for the lessor-, a purchaser at sheriffs\u2019s sale of the lessor\u2019s estate, in the middle of the year, is not entitled to the rent.\nIn error from the Common Pleas of Fayette.\nIn April, 1841, Henry Shauffer demised certain real estate \u201c for the season\u201d to the defendant. In the lease it was.recited that defendant had become bail for the lessor in a certain obligation, and it was declared that the rent (which was payable in corn, &c.) should be by the lessor retained and applied to the payment of that debt, so far as it would extend.\nIn August, the plaintiffs became the purchasers at sheriff\u2019s sale of the lessor\u2019s estate, and a deed was delivered September 8th.\nThey afterwards brought suit for the lessor\u2019s share of the crop.\nThe Court instructed the jury that under the lease the lessee had the right to retain it.\nPatterson and Veech, for plaintiffs in error.\nThe rent was payable at the end of the year: 4 Barr, 146; and by the Act of 1886, \u00a7 19, the purchaser succeeds to the lessor\u2019s interest, and all payments in advance are void as to him.\nHowell and Oliphant, contr\u00e0.\nThis right is subject always to the contract of the parties, if made at the time of the lease: 9 Watts, 438; 5 W. & S. 433."
+  },
+  "file_name": "0220-01",
+  "first_page_order": 220,
+  "last_page_order": 221
+}

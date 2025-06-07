@@ -1,0 +1,104 @@
+{
+  "id": 949901,
+  "name": "Robert McEntire, Plaintiff in error, who was Plaintiff below, v. James and Anthony Henderson",
+  "name_abbreviation": "McEntire v. Henderson",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "402",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 402"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts, 266",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846148
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0266-01"
+      ]
+    },
+    {
+      "cite": "12 Serg. & Rawle. 405",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8879104
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/12/0405-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 406",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848507
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0406-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 212,
+    "char_count": 2734,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 2.1527022107227097e-07,
+      "percentile": 0.7686807223123819
+    },
+    "sha256": "fa8535714d6d2f084e8d22f9309f6666894b6317fb0f0ce76d15a15eb328a08e",
+    "simhash": "1:9d1ce70fde8f548e",
+    "word_count": 467
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert McEntire, Plaintiff in error, who was Plaintiff below, v. James and Anthony Henderson."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nIt is evident that the body of the deposition had been prepared by the witness before he was examined in the presence of the justice, if he can be said to have been examined at all; for not only was it in the bandwriting of the witness, but the caption, written by the justice on a separate slip of paper, was fastened to it. It is trae, perhaps, that the justice may employ the witness to write down his own testimony; but then it ought to appear that he had actually done so, the testimony being orally delivered in the justice\u2019s presence: for after a party has perfected a witness in his story, by leading questions in bis chamber, which he would not be allowed to put in a egular examination before the justice, an opportunity to cross-examine would be of little use. Precautionary regulations on this head ought not to be thought burdensome; for they are absolutely necessary to preserve the purity of one of the principal sources of justice, which looseness of practice has frequently corrupted. But Carmalt v. Post is to the very point, and the deposition was properly ruled out.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Derickson, for plaintiff in error,",
+      "Farrelly, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Robert McEntire, Plaintiff in error, who was Plaintiff below, v. James and Anthony Henderson.\nIn Error.\nA deposition \u25a0written by the witness previously to his examination before the justice, the caption in the justice\u2019s handwriting being prefixed to it, is incompetent evidence.'\n\u25a0 Error to the District Court of Crawford county.\nThe plaintiff brought his action in assumpsit, to recover from the defendants a certain amount of money, arising out of a canal contract, on the Erie Extension, which he had transferred to them. On the trial of the cause, in the court below, the plaintiff offered in evidence the deposition of J. Hoffinan Casida, to prove the terms of the contract between them, taken on die 30th of November, 1842, before W. Carpenter, a justice of the peace in Mercer county. To the admission of the deposition in evidence, the\u25a0 defendants objected; and called William P. Shattuck, who testified, that he was acquainted with Casida and his handwriting; that the deposing part of the deposition was in the handwriting of the deponent, Casida, and that the caption and other parts of the same were in the handwriting of the justice, and attached by wafers. Whereupon, the court excluded the deposition, and at the instance of the counsel of the plaintiff sealed a bill of exception. This ruling of the court constitutes the only point in controversy, and is assigned for error in this court.\nDerickson, for plaintiff in error,\ncited Carmalt v. Post, 8 Watts, 406.\nFarrelly, contra,\nrelied upon Summers v. McKim, 12 Serg. & Rawle. 405; Armstrong v. Burrows, 6 Watts, 266; Carmalt v. Post, 8 Watts, 406."
+  },
+  "file_name": "0402-01",
+  "first_page_order": 404,
+  "last_page_order": 405
+}

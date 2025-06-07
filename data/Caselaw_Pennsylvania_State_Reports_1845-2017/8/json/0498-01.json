@@ -1,0 +1,92 @@
+{
+  "id": 959565,
+  "name": "Campbell v. Jamison",
+  "name_abbreviation": "Campbell v. Jamison",
+  "decision_date": "1848-05",
+  "docket_number": "",
+  "first_page": "498",
+  "last_page": "500",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 498"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Wash. C. C. Rep. 481",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "case_ids": [
+        6662519
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/17/1072-01"
+      ]
+    },
+    {
+      "cite": "2 Whart. 103",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/2/0103-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 307,
+    "char_count": 4419,
+    "ocr_confidence": 0.39,
+    "pagerank": {
+      "raw": 2.1339524497729375e-07,
+      "percentile": 0.7662077982152627
+    },
+    "sha256": "18b06ae408d80830c27333dd09ee979cf5d1d7596104eb3d0b2240fa72fde874",
+    "simhash": "1:d6a6cb52d5762776",
+    "word_count": 806
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Campbell v. Jamison."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThat a will may be republished by parol was distinctly decided in the case of Jones v. Hartly, 2 Whart. 103. The same point was ruled in 3 Wash. C. C. Rep. 481.\nThere is nothing in the act of 1833 to interdict such republication by parol; but it must have the same legal operation at the time of such republication, as when it was made. If, by a change of circumstances, the act of republication makes a difference in the disposition of the estate, it becomes so far void; because then it would in effect be allowing a disposition of the estate by parol. The words here, as used in the will, were clearly intended as words of limitation according to their common acceptation; and nothing in the will authorizes the conclusion that the testator intended to use them as words of purchase when applied to the heirs of Rachel Fulton. He says, to be sure, that at the end of seven years, during which time William Burris was to have the land, that he should give it up to Rachel Fulton or her heirs or assigns. But that provision obviously contemplated that Rachel should survive him, and might then die or sell after the estate had vested in her, and that in such event, if the seven years had not expired, the estate should be delivered up by Burris to her heirs or assigns; a mere supererogatory provision, but one which is perfectly consistent with the legal interpretation of the will. The other interpretation would imply that she might sell during the life of the testator, before the will was consummated: a thing which we cannot suppose was within the intent of the testator, as every man is presumed to know that he may alter or revoke his will at any time before his death. It has been held that a republication is a new devise: Pringle v. McPherson, 2 Brevard, 279. Of course it is the devise as it stands in the will, and if the word \u201cheirs\u201d is a word of limitation in this will, of which we have no doubt, the devise is to a person not in esse, and therefore void. But the point of this case was ruled in Dor, &c., v. Kelt, 4 T. Rep. 601. A. devised to B., and the heirs of her body after default of such issue then over. B. died in the lifetime of A., and then A. by codicil confirmed his will. It was held that the heir of B. took nothing, though it appeared that A. knew of the death of B. and the birth of her son before he made the codicil. Making a codicil is a republication,, so that the cases are throughout analogous.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Woodward, P. J., gave judgment for defendants.",
+      "Sale, and Ourtin, for plaintiffs in error.",
+      "Burnside and McManus, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Campbell v. Jamison.\nDevise to A. and her heirs \u2014 the word \u201cheirs\u201d is always construed a word of limitation, unless the contrary intent appears on the face of the will. And a parol republieation after the death of A. with knowledge of that fact, does not alter the legal operation of the instrument, and the devise fails for want of a devisee capable of taking.\nIn error from the Common Pleas of Centre county.\nSpecial verdict in ejectment. In 1827 David Fulton made his will, whereby he devised \u201c unto my beloved wife Rachel Fulton, her heirs and assigns, all that messuage or tenement and tract of land, situate, lying and being in Spring township, and county aforesaid, with all my real estate whatsoever, to have and to hold to her the said Rachel Fulton, her heirs and assigns, for ever; And lastly, as to all the personal estate, goods and chattels of what kind and value soever, \u2014 I give and bequeath the same to my said beloved wife Rachel Fulton, her heirs and assigns, for ever \u2014 reserving for William Burris, my nephew, the use and income of the grist-mill for seven years, free of rent, as a full compensation for his assisting in building the said mill. And I further reserve to William Burris, the new field that he cleared, to have it for-years, in full for clearing the said field, and at the end of seven years the said William Burris to give up full possession of the above reserved gristmill and field to my wife, Rachel Fulton, or her heirs and assigns, with reasonable wear and tear excepted. My just debts to be paid by my wife Rachel Fulton.\u201d\nRachel Fulton died in 1838, leaving collateral heirs, the plain- \u2022 tiffs in this action. After her death, testator, by parol declarations in the presence of two witnesses, republished his will, and died in 1841. The defendants were collateral heirs of the testator.\nWoodward, P. J., gave judgment for defendants.\nSale, and Ourtin, for plaintiffs in error.\nBurnside and McManus, cont\u00f3."
+  },
+  "file_name": "0498-01",
+  "first_page_order": 498,
+  "last_page_order": 500
+}

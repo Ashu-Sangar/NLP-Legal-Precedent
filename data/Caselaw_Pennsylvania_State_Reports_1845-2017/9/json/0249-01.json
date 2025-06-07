@@ -1,0 +1,91 @@
+{
+  "id": 960660,
+  "name": "Keenan v. Gibson",
+  "name_abbreviation": "Keenan v. Gibson",
+  "decision_date": "1848-10-16",
+  "docket_number": "",
+  "first_page": "249",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 W. 217",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 W. & S. 168",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 W. & S. 13",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        12168761
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/9/0013-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 402,
+    "char_count": 6124,
+    "ocr_confidence": 0.386,
+    "pagerank": {
+      "raw": 8.344616496033885e-08,
+      "percentile": 0.4810313265367981
+    },
+    "sha256": "bccf3dc1946695a3ba85829714a675cdaf47ab6c87c75736a5f5880e76bce4b0",
+    "simhash": "1:43f498653c7c62dd",
+    "word_count": 1062
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keenan v. Gibson."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nThis case is not to be distinguished from Benner v. Phillips, 9 W. & S. 13, save in some immaterial particulars. In both instances the debtor died before the act of February, 1834, and the lien of his debts on Ms real estate was consequently continued, under the act of 1797, for seven years. In both cases, too, suit was brought within that period, and judgment recovered against the personal representatives of the deceased. In the first of them, the question directly arose, whether there was any limitation of the lien of this judgment as against heirs or devisees, holding the land left by the decedent ? Under the authority of Murphy\u2019s Appeal, 8 W. & S. 168, since recognised in Atherton v. Atherton, 2 Barr, 112, it was conceded to be unnecessary to make the tenants of the realty parties to the original action. But by analogy to the 24th section of the act of 1834, it was expressly ruled, that to continue the lien of the judgment it was essentially necessary the owners of the land should be brought upon the record by scire facias, within five years after the original recovery. It is not worth while to repeat the reasoning upon which that decision proceeds. It is sufficient, for present purposes, to say that it is in accordance with previous legislation and judicial interpretation, and must be taken as furnishing the rule of action in similar eases. But it is said the present differs from that case, in the fact that here the original suit was brought before the enactment of 1834, and therefore before any legal necessity existed for bringing in the term tenants. Were objection to the first action made on this score, that fact would be a sufficient answer to it. But, as matters stand, it is difficult to perceive why this should work a difference of result, since the first scire facias was sued out nearly four years after the statute went into operation, and certainly the same reasons existed for making the devisees parties to it, as were found potent enough to influence the determination in Benner v. Phillips. These were based on considerations of policy so stringent as to induce the court to borrow a provision from a section relating to a kindred subject, in order to restrain the mischief of unlimited lien by judgment \u2014 a mischief abhorrent to our system. Here the owners of the land were not called on till after the lapse of fifteen years from the death of the testator, and about nine and a half years after the rendition of the first judgment. These are periods of unreasonable duration, according to the authorities. Long before the running of so much time, the devisees were entitled to know whether the creditor intended to look to their lands for payment; and the neglect to assert such an intent within the reasonable time fixed, destroyed the lien. Were it even admitted, upon the rule settled in Duncan v. Clark, 7 W. 217, and the other like cases cited for the plaintiff in error, that the recovery of the -first judgment prolonged the lien for twelve years after the death of the testator, or up to 1840, for every purpose of notice to the devisees, it would help this plaintiff nothing, for he gave no notice to them till after that period had passed.\nIt is further urged that as the first proceeding, in this instance, was instituted prior to the act of 1834, the case is not within the operation of the statute, by virtue of its 70th section. The language of that section is: \u201c This act shall take effect from and after the 1st day of October next, and all such acts of Assembly as are hereby altered o'r supplied, shall be and are hereby repealed, except so far as may be necessary to finish proceedings commenced, or to settle the estates of persons who may have died before that time.\u201d But it is obvious the latter clause of this provision relates altogether to pending proceedings for the settlement of estates of deceased persons commenced under prior enactments, and which could not be brought to a close without reference to the then existing laws. Admitting the repealing clause and its exception to have reference to suits at law brought by creditors, the suit instituted here against the executors was finished by the recovery of a judgment, long before the latter statute went into effect. There was nothing to continue of the first proceeding, and if there had been it was not necessary to conduct it under the old enactments. The process subsequently issued was the commencement of a new proceeding, that fell directly within the provision of the new law. The supposititious case put by the counsel of the plaintiff in error, of a first judgment recovered, ten, fifteen, or twenty years before the act of 1834, and several intervening revivals of it, by scire facias, before that time, would certainly present an exception to the literal application of the rule in Benner v. Phillips, for the plain reason that it would be impossible. But even there, I take it, that to render efficacious the lien against the land, the first scire facias issued after the act took effect, must be directed against the terre tenants as well as against the executors.\nThis adherence to the practice sanctioned by the cases referred to, may operate harshly in the case on hand. But it is better so, than that we should have no settled rule on the subject.\nThe judgment rendered against the terre tenants is reversed, and procedendo awarded.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Foster, for plaintiff in error.",
+      "Gowan, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Keenan v. Gibson.\nWhore judgment was recovered against executors prior to the act of 1834, and revived by sci. fa. against the executors only, after that act, and within five years, the lands of devisees are discharged from the lien.\nIn error from the Common Pleas .of Westmoreland.\nCase stated. West, having devised his lands, died on the 1st June, 1828. In 1833, Keenan obtained a judgment against his executors. In 1838, this was revived against the executors by seire facias. In 1843, a scire facias to revive issued against his executors and devisees. Whether the lands devised were liable, was the question. The court thought they were, and gave judgment accordingly.\nFoster, for plaintiff in error.\nGowan, cont\u00f3.\nOct. 16."
+  },
+  "file_name": "0249-01",
+  "first_page_order": 249,
+  "last_page_order": 252
+}

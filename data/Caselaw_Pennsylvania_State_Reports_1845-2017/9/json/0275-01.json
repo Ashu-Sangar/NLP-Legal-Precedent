@@ -1,0 +1,59 @@
+{
+  "id": 960695,
+  "name": "Ankrim v. Sturges",
+  "name_abbreviation": "Ankrim v. Sturges",
+  "decision_date": "1848",
+  "docket_number": "",
+  "first_page": "275",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 151,
+    "char_count": 1864,
+    "ocr_confidence": 0.386,
+    "sha256": "6ec3373ed3934c69e8664c27d967d7072d8371206b668cd3d5e22fcaf721831c",
+    "simhash": "1:ef14e715d6b379b9",
+    "word_count": 321
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ankrim v. Sturges."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nRules of court are adopted to facilitate the administration of justice. This court pa.ys great respect to the construction courts give to their own rules: 5 Barr, 278. Yet there are cases and constructions given to rules by courts in the hurry of jury trials which operate unjustly, and require the supervision of this court. The rule in question provides that \u201c depositions (other than those taken on ^commissions) shall be filed within a reasonable time, or the party at whose instance they are taken may retain them, provided he gives, within a reasonable time, to the adverse party or his attorney, a true copy of the rule, notice, and deposition.\u201d In this case the depositions of aged men had been taken on cross-examination, and the cause came on for trial before they were filed, and the court rejected the depositions; and the court, in the exercise of their discretion, permitted a juror to be withdrawn and the cause continued. The depositions shortly after were duly filed, and more than a year after, the cause again came on for trial, when the depositions were offered in evidence and rejected by the court, because they were not filed in a reasonable time. We cannot concur in this construction of the rule. We think the depositions ought to have been received. As one of the depositions fully proves the ancient deed, it is not necessary to determine whether it was error to reject it without proof.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ankrim v. Sturges.\nWhere a rule of court provides that depositions shall not be read unless filed within a reasonable time, and depositions were taken and the cause continued because they were not filed, and the depositions were then filed, they may be read on the trial of the cause.\nIn error from the Common Pleas of Greene.\nThe facts sufficiently appear in the opinion of this court."
+  },
+  "file_name": "0275-01",
+  "first_page_order": 275,
+  "last_page_order": 275
+}

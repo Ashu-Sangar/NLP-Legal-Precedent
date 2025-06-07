@@ -1,0 +1,110 @@
+{
+  "id": 970695,
+  "name": "Riddle's Estate",
+  "name_abbreviation": "Riddle's Estate",
+  "decision_date": "1852",
+  "docket_number": "",
+  "first_page": "431",
+  "last_page": "434",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 431"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wharton 370",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836950
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0370-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 86",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846068
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0086-01"
+      ]
+    },
+    {
+      "cite": "13 Pet. 13",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Wharton 370",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/6/0370-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 550,
+    "char_count": 10039,
+    "ocr_confidence": 0.449,
+    "pagerank": {
+      "raw": 6.80360647340469e-07,
+      "percentile": 0.9638662331278773
+    },
+    "sha256": "72e390513d2f953367397e8e335c909b503ca8f7f180d92ba87d724604b9d78a",
+    "simhash": "1:12819b0dd037c689",
+    "word_count": 1786
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Riddle\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, J.\nA bill of review, according to the first of the ordinances of Lord Chancellor Bacon respecting bills of that hind, can be brought only in two cases. The first is for error in law, appearing in the body of the decree, without further examination of matters of fact; and the second is for new matter which hath arisen after the decree. A bill of review may also, by special leave, be allowed for new proof that has come to light after the decree, which could not possibly have been used at the time when it passed. It is said that this rule has never been departed from: Barb. Eq. Prac. 90; Coop. Eq. Pl. 89; Story\u2019s Eq. Pl. \u00a7 404; 13 Pet. 13. Even if an absolute decree be made against an infant, it seems to be necessary that his infancy should appear upon the face of the decree. In this country the bill, answer, and pleadings, are regarded as forming part of the decree, and in that respect the course here differs from the English practice: 13 Pet. 13. The Act of 13th Oct. 1840, which fixes a limitation to petitions of review, directs the Court to \u201cgive such relief as equity and justice may require.\u201d This may be understood as adopting the principles of equity which had heretofore governed Courts of Chancery, in applications of this kind. It was certainly not the intention of the Legislature to keep litigation on foot for a longer period than necessary for the purposes of justice; or to nullify the solemn decisions of the Courts, at the mere will and pleasure of any party who chose to demand a rehearing, within five years, upon the same questions of fact which had been fully heard and decided on the first trial. To allow this to a party who cannot allege that any error in laio appears on the face of the decree, or that he has discovered any new evidence, or that any new matter has arisen, would be contrary to the maxim that \u201c no one shall be twice vexed for the same cause,\u201d and would not be administering \u201cjustice\u201d or \u201cequity.\u201d\nBut, waiving this objection, we perceive no error in the decree below. Questions of advancement depend upon the intention of the parent; and of this the declarations of the parent at the time, or the admissions of the child, at the time, or afterwards, would seem to be evidence: 6 Wharton 370. As a general rule, money expended in the education of a child, is not presumed to be an advancement. The presumption is, that the parent makes these expenditures in the discharge of his parental duties, and that all his children are treated with equality in this respect. But this presumption may be repelled by evidence. The tastes, talents-, and constitution of one child may be of such a nature as to induce the parent to believe that the expenditure of a large portion of his inheritance, by anticipation, to advance him in the art or profession for which he evinces peculiar tastes and qualifications, might greatly promote his interest and happiness; while the same advantage might be secured to the other children, having dissimilar inclinations and abilities, by giving to them, in some other form, their equal share of the estate. If a parent disposes of his estate in this way, and from motives of this character, who shall gainsay the justice or propriety of his decision ? The law does not condemn it. On the contrary, a judicious advancement of each child, in pursuits which accord with its taste and oapacity, may be the best means of promoting its own happiness, as well as its usefulness to society. The intention of the parent, in making the advancements in the case before us, has been twice submitted to auditors; and, on each occasion, the decision was against the petitioner\u2019s views. These reports having been confirmed by the Court below, we feel no more inclination to set them aside than we should to disregard two decisions of a jury on a question of fact. There was evidence from which they might safely draw the conclusions stated in their rejoorts. And although we might not have drawn the same conclusions, we could not, for that cause, set aside a single decision of auditors. To justify this, the mistake must be plain, and manifestly against the evidence. But a second report the same way, places the question of fact upon grounds too substantial to be overthrown by anything existing in the ease before us. The deeree of the Court below dismissing the petition of review, at the eosts of the petitioner, is affirmed.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Alden, for the appellant.",
+      "Woods, for the executors."
+    ],
+    "corrections": "",
+    "head_matter": "Riddle\u2019s Estate.\n1. A bill of review may be allowed for error in law appearing in the body of the decree: or for new matter which hath arisen after the decree. It may also be allowed by special leave for new proof which has come to light after the decree, which could not possibly be used at the time when the decree was made. It should not be granted upon the same questions of fact which had been before fully heard and decided.\n2. Questions of advancement depend on the intention of the parent.\n3. As a general rule, money expended in the education of a child is not presumed to be an advancement; the presumption is that the parent makes the expenditure in the discharge of his parental duties, but this presumption may be repelled by evidence.\n4. To justify this Court in setting aside a report of auditors as to matters of fact, the error complained of should be manifestly against the evidence. But a' second report to the same effect gives to the proceeding much additional weight.\n5. As to the construction of the provision in the 1st section of the Act of 13th October, 1840, requiring the Orphans\u2019 Court, in matters of review, to grant such relief as equity and justice may require, See the opinion in this case.\nAppeal from the decree of the Orphans\u2019 Court of Allegheny county.\nThe account of the executors of the will of John Riddle, Sr., deceased, was filed in October, 1848. Exceptions were filed to it in October, 1848, at the instance of heirs and legal representatives of John Riddle, Jr., a son of the deceased. Auditors were appointed, and in their report the amount of certain moneys was charged as advancements made to John Riddle, Jr., the same being for moneys advanced for his education, &c. It appeared that the latter did not object to the charges for his education, believing it to have been the intention of his father to charge him with them, though it appears that he supposed thfem to be not legally chargeable against him. Exceptions to the report, as it related to the charge of advancements, were filed at the instance of heirs and legal representatives of John Riddle, Jr., but the report of the auditors was confirmed on 16th Feb. 1850. Afterwards, a son of John Riddle, Jr., petitioned the Orphans\u2019 Court for a review.\nAuditors were again appointed, and their report, in which the same moneys were charged as advancements, was confirmed, and decree was made accordingly. From such decree this appeal was taken.\nJohn Riddle, the testator, kept an account of the expenditures by him for the hoarding, clothing, and tuition of his son John, previous to his coming of full age. The amount exceeded $700; the auditors charged as an -advancement $784.51, and this was confirmed by the Orphans\u2019 Court.\nIn the will of John Riddle, he directed the residue of his real estate, not devised or excepted, to be sold, and the money to form a fund, and that his five sons were to have \u201cshare and share alike; that is, receive each an equal share, taking in such distribution into consideration any advancements^ may have made to any of my said sons.\u201d\nThe question was, whether the expenses of education were an advancement, with the amount of which John Riddle, the son, was liable to be charged.\nIn the opinion of the Court, confirming the report of auditors, it was observed, that entries in a book made, or caused to be made, by a father of advancements to his children, are competent evi- \u2022 dence, although the child charged had no knowledge of the entry: Hengst\u2019s Estate, 6 Watts 86.\nQuestions of advancement depend upon the intention of the parent; and of this the declarations of the parent at the time, or the admissions of the child' at the time, or afterwards, would seem to be evidence: Daniel King\u2019s Estate, 6 Wharton 370.\nAlden, for the appellant.\nHe contended that education was the payment of a debt by the parent; an imperative duty; but that advancement was a gift: Bac. Ab. title \u201c Executors,\u201d also, \u201cAdvancement.\u201d \u201cSuch advancement as will exclude a child, unless he brings it into botch pot, must be given directly to the child; and therefore money given to bind a child out as an apprentice, or laid out in his education, either at school or at the university, or on his travels, is no advancement.\u201d\nAdvancement has been defined by a modern writer to mean, \u201c that which is given by a parent to his child or presumptive heir, bj anticipation of what he might inherit:\" 1 vol. Bouvier, tit. \u201cAdvancement;\u201d 2 Fonbl. Eq. 121; 1 Supp. to Ves. Jr. 84; Id. 57; 1 Vernon 88, 108, 216; 5 Ves. 421; 3 Bac. Abr. 76; 4 Kent Com. 173.\nWebster defines the word \u201cadvancement\u201d to mean, \u201ca provision made by a parent for a child, by gift of property, during his, the parent\u2019s life, to which the child would be entitled, as heir, after his parent\u2019s death.\u201d\nThe above definitions appear to be in accordance with the various enactments of the Legislature on the subject, from time to time. The Act of 1705 authorizes the Orphans\u2019 Court to value the property given in advancement. It did not contemplate \u201c education\u201d as an advancement, and the subject of valuation. The Act of 19th of April, 1794, provides that the advancement by lands or personal estate, is to be taken into consideration, so as to make the estates of all the children equal. He referred to the 16th section of the Act of 1833, providing that if the advancement be less than the share of the child in the estate, then there shall be allotted to him only so much of the estate as shall make the estate of all the children equal, as near as can he estimated.\nWoods, for the executors."
+  },
+  "file_name": "0431-01",
+  "first_page_order": 433,
+  "last_page_order": 436
+}

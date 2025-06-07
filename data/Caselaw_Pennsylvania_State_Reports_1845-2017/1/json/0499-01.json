@@ -1,0 +1,115 @@
+{
+  "id": 949891,
+  "name": "Washburn v. Russel",
+  "name_abbreviation": "Washburn v. Russel",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "499",
+  "last_page": "500",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts & Serg., 467",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856305
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0467-01"
+      ]
+    },
+    {
+      "cite": "6 Wh. 187",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836969
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0187-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 141",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841274
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0141-01"
+      ]
+    },
+    {
+      "cite": "3 Serg. & Rawle, 541",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1800249
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/3/0541-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 233,
+    "char_count": 3319,
+    "ocr_confidence": 0.584,
+    "pagerank": {
+      "raw": 1.3346956663205334e-07,
+      "percentile": 0.6298813174049915
+    },
+    "sha256": "23e861c9d04ad0ca2505a2ab2571a072203ec20bfb9a253180d166653e0f65ea",
+    "simhash": "1:73266b49177a6446",
+    "word_count": 591
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Washburn v. Russel."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, C. J.\nThe act of 1836 requires the registry of a mechanic\u2019s lien to contain a specification of \u201c the locality of the building; and the size and number of the stories of the same, or such other matter of description as shall be sufficient to identify the same.\u201d Hence it is evident that the building must be described with at least convenient certainty, as regards both its locality and its structure. A saw-mill seldom, perhaps never, consists of more than one story, and it was therefore unnecessary to do more in the way of description by structure, than to advert to another circumstance as a substitute for the number of stories, by stating that the mill was a double one. But was the locality sufficiently described by stating that the mill was \u201c situate on the waters of Clarion river,\u201d and \u201con the east side of said river?\u201d Had the waters not been mentioned, the mill would have appeared to be simply on the east side of the river, and the case would have been more nearly assimilated to Harker v. Conrad, and Springer v. Keyser; yet it is difficult to say that the description would have been certain enough even then, though there had been no other double saw-mill to which it could have been applied. The office of the description is to give notice to purchasers, and perhaps creditors, who are surely not expected to explore the course of a river in order to discover whether the particular property were intended. But this description is, in its actual form, much more vague. The waters of a river embrace a wide scope of territory \u2014 in this instance, the whole of the county \u2014 and the description is not more precise than it would have been had it contained no reference to the river, or its tributaries. Would it be enough to state that the building is in a particular county ? Yet, in effect, no more was done in this instance. It strikes us at a glance that such is not the description required by the statute. There are other points raised by the assignment of errors; but a decision of them becomes unnecessary.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "McClure, for plaintiff in error.",
+      "Pearson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Washburn v. Russel.\nA registered claim of a mechanic\u2019s lien, which described the property as a double sawmill in Clarion county, situate on the waters of the Clarion river, and on the east side of the said river: Held to be too vague.\nError to the Common Pleas of Clarion county.\nThis was a sci. fa., on a mechanic\u2019s lien, on which the only question here was the sufficiency of the description. The lien was filed against a tract of land in Clarion county, on the waters of the Clarion river, with one double saw-mill thereon situate on the east side of said river. The dimensions were then given, and also a dwelling-house. Said tract, &c., being bounded by (the boundaries were left blank,) containing-\u25a0 acres.\nThe court charged this was sufficient.\nMcClure, for plaintiff in error.\nThis is too indefinite; it would embrace the whole county, and there is no evidence it is the only mill in tire county. 3 Serg. & Rawle, 541; 3 Watts, 141; Act, 1836, 6th April, 1841. (1840, p. 430.)\nPearson, contra.\nThe description of the house and land is mere surplusage, 6 Wh. 187; 4 Watts & Serg., 467; and it is now confined to the mill alone; as to that the general description identifies it, and that is all that is necessary."
+  },
+  "file_name": "0499-01",
+  "first_page_order": 501,
+  "last_page_order": 502
+}

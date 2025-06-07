@@ -1,0 +1,139 @@
+{
+  "id": 969073,
+  "name": "Kieffer versus Ehler",
+  "name_abbreviation": "Kieffer v. Ehler",
+  "decision_date": "1852-05-27",
+  "docket_number": "",
+  "first_page": "388",
+  "last_page": "392",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 388"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Hill 666",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Dallas 211",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Pick. 132",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2038897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/37/0132-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. 32",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007278
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/2/0037-01"
+      ]
+    },
+    {
+      "cite": "11 Verm. 309",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        610440
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/11/0309-01"
+      ]
+    },
+    {
+      "cite": "3 Conn. 27",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753973
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/3/0027-01"
+      ]
+    },
+    {
+      "cite": "7 Mass. 439",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Dallas 47",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 522,
+    "char_count": 9384,
+    "ocr_confidence": 0.441,
+    "pagerank": {
+      "raw": 5.90401240970917e-07,
+      "percentile": 0.9528428105267913
+    },
+    "sha256": "71520f0b988cbf1e31e747b2d4aa89162a4fec55ebf4151fdef18cdb8cfa1bab",
+    "simhash": "1:3bf3c2f964e0ea5f",
+    "word_count": 1636
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kieffer versus Ehler."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLowrje, J.\nCare is to be taken that laws of general, shall not be regarded as of universal application; and this caution is required in relation to the law for attaching debts in execution, and declaring that \u201c all debts\u201d so attached shall remain in the hands of the garnishees to answer the debt. In Acts of Assembly, as well as in common parlance, the word \u201call\u201d is a general, rather than a universal term, and is to be understood in one sense or the other, according to the demands of sound reason. \u2019 It is certainly broad enough to include debts due by bills of exchange and promissory notes; and there is nothing in their nature that excludes them from its operation. But they have a legal quality that renders the hold of an attachment upon them very uncertain.\nUnlike all other property, they carry their whole evidence of title on their face; and the law assures the right of him who obtains them for valuable consideration,, by regular endorsement, and without actual notice of any adverse claim, or of such suspicious circumstances as should lead to inquiry. To hold that an attachment prevents a subsequent bond fide endorsee for value from acquiring a good title, would be almost a destruction of one of the essential characteristics of negotiable paper. It would be a great injury to persons in embarrassed circumstances holding such paper; for no one could buy it from them with any confidence in the title. Moreover, it would present the strange result, that the more hands such paper had passed through, and the more endorsers there were on it, the less it would be worth in the money market: for it would be subject to the more risks of attachment. Under such views it has always been held, that an attachment is unavailable against a bond fide holder for value of negotiable paper, who obtains .it after attachment, before maturity, and without notice : Ludlow v. Bingham, 4 Dallas 47; Maine Insurance Co. v.Weeks, 7 Mass. 439; Enos v. Tuttle, 3 Conn. 27; Huff v. Miller, 7 Yerger 42; Hinsdill v. Stafford, 11 Verm. 309; Little v. Hale, Id. 482; Eunson v. Healy, 2 Mass. 32; Grant v. Shaw, 16 Id. 344; Cushman v. Haynes, 20 Pick. 132.\nThe doctrine of implied notice by lis pendens is totally inapplicable to such cases, and is everywhere weakened in its operation, even when it is admitted to exist. In a ease .of bankruptcy, notice may be implied; because that refers to the general circumstances of a previous holder, into which a purchaser .is expected to inquire, and not to a special fact, like an attachment, which may have its origin in any magistrate\u2019s office in any county in the state.\nCertainly the negotiation of such paper by a defendant after he has had notice of the attachment, is a fraud upon the law; and we think that the Court from which the attachment issues has power to prevent this, by requiring the instrument to be placed in such custody as will prevent it from being misapplied; taking care that it shall be demanded at maturity, and that proper notice be given to endorsers, if necessary; and that the money, if paid, shall stand in place of the note or bill to abide the event.\nJudgment reversed, and judgment for defendant below.",
+        "type": "majority",
+        "author": "Lowrje, J."
+      }
+    ],
+    "attorneys": [
+      "Ford, with whom was Lightner, for the garnishee, and the Savings Institution.",
+      "Franklin, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Kieffer versus Ehler.\n1. A promissory note not due is liable to attachment under the Act of 16th Jane, 1836, relative to executions.\n2. An attachment execution is unavailable against a bond fide holder for value of a negotiable note, where the note was obtained after the attachment was served on the maker of the note as garnishee and after its return, before the maturity of the note, and without actual notice of the attachment. The doctrine of implied notice by lis pendens, is not applicable to such a case.\n3. The negotiation of such a note by the payee, after notice of the attachment, is a fraud upon the law, and the Court from which the attachment issues may require the instrument to be placed in such custody as will prevent its improper transfer, taking care that payment of it be demanded at maturity, and, if necessary, proper notice given to endorsers, the money, if paid, to be in the place of the note, to abide the event of the proceeding.\nError, to the Common Pleas of Lancaster county.\nThis was a proceeding by attachment execution by John Ehler v. John Lenher, the defendant in the judgment, and Christian Kieffer, garnishee.\nThe facts of this case were as follows: John Ehlef; the plaintiff below, obtained a judgment against John Lenher, the defendant, No. 206, to January term, 1851, in the Common Pleas of Lancaster'county, for a real debt of $1036.89, payable forthwith, which was entered February 28, 1851.\nOn the 6th of March, 1851, Christian Kieffer (the garnishee), gave his note to the said Lenher, for the sum of $273.66, payable in three months, and of which the following is a copy:\n\u201c$273.66\nLancaster, March 6, 1851.\n\u201c Twelve months after date, I promise to pay to the order of Jno. Lenher at the Lancaster Savings Institution, Two Hundred and Seventy-three dollars without defalcation, for value received, without interest. C. Kierrer.\u201d\n' On the 29th of March, 1851, an attachment was issued by Ehler, the plaintiff below, against the said Lenher, defendant, and C. Kieffer, garnishee, to April Term, 1851, No. 127, in satisfaction of the judgment above stated; to which the sheriff made return, that on March 29,1851, he attached the goods, &c., moneys, rights, and credits of the defendant in the hands of Christian Kieffei1, and summoned him as garnishee; and informed him of the proceedings by reading.the writ to him and by giving him a copy.\nOn the 1st May, 1851, the note in question was discounted by the Lancaster Savings Institution, a corporation, for a valuable consideration and without notice.\nOn the 17th January, 1852, the plaintiff had interrogatories filed, to which Kieffer, inter alia, replied, that on or about the 6th day of March, 1851, garnishee purchased the stock and materials lying in and about a foundry, and gave therefor to John Lenher one note for $273.66, dated March 6,1851, payable 12 months after date. Also one note to James Whitehill for $136.82, payable 12 months after date. These notes, as garnishee believes and has been informed, have all passed into the hands of third parties.; but the amounts of the same are as yet unpaid. On inquiry, he learns, that the note for $273.66, given to John Lenher, was discounted at the Lancaster Savings Institution between the first and tenth days of May, 1851. Garnishee, though a director of said institution, was not at the meeting of the board when the same was discounted.\nGarnishee further adds, that he does not know at what time any of th\u00e9 other notes passed into the hands of third parties.\nThe 37th section of the Act of 16th June, 1836, in relation to attachment executions, provides that, \u201c From and after the service of such writ, all stock belonging to the defendant in the corporation upon which service shall be so made, and ali debts and all deposits of money, and all other effects belonging or due to the defendant, by*the person or corporation upon which service shall be so made, shall remain attached in the hands of such corporation or person, in the manner heretofore practised and allowed in the case of foreign attachment.\u201d\nOn the facts, the plaintiff asked that judgment may be entered against the garnishee. The application was resisted on behalf of the Savings Institution, to whom the note was passed by Lenher after it was attached, and before it was payable, and which claimed it from Kieffer, the drawer and garnishee, upon the ground that the Act of 16th June, 1836, authorizing debts to be attached, did not apply to negotiable notes, passed into the hands of third persons for value, without notice and before they are due; and also that the note in question, not being due, was not liable to attachment!\nLong, J., was of opinion that though the law relating to commercial paper protects an innocent holder without notice, yet in this case there was legal notice to the Savings Institution of the attachment: 1 Story\u2019s Eq. sec. 405-6; 2 Vern. 162; 14 Ser. & R. 138, Opinion of Duncan, J. He decided that though the note was not due when attached, yet that it was liable to the attachment : 2 Dallas 211, Walker v. Gibbs.\nJudgment was entered against the garnishee, to which error was assigned.\nFord, with whom was Lightner, for the garnishee, and the Savings Institution.\nIt was contended that as the note passed to the Savings Institution for a valuable consideration, without actual notice of the attachment, Kieffer was bound to pay it to the institution: 2 Story\u2019s Eq. sec. 405; 8 Con. 669, Powell v. Waters ; 2 Hill 666, Vanwyck v. Pine; 7 W. & Ser. 376, Beebe v. West Branch Bank. That the proceedings in Court wrere not notice to the institution. If the principle of legal notice was applicable, the return of the sheriff should have been specific; the note should have been described in the return.\nFranklin, for defendant in error.\nThat a note not due was liable to attachment, he referred to 1 Barr 263; 3 Id. 109. Also, that the proceedings in Court were legal notice to the institution: 2 Peere Wms. 483 ; 2 Vern. 162; 1 John\u2019s Chan. 566 ; 14 Ser. & R. 118. The negotiation of the note after attachment was void, and passed no title to it to the institution: 2 Esp. 611, Pinkerton v. Adams.\nMay 27,"
+  },
+  "file_name": "0388-01",
+  "first_page_order": 388,
+  "last_page_order": 392
+}

@@ -1,0 +1,63 @@
+{
+  "id": 960616,
+  "name": "Wagner v. Wagner",
+  "name_abbreviation": "Wagner v. Wagner",
+  "decision_date": "1848-09-18",
+  "docket_number": "",
+  "first_page": "214",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 192,
+    "char_count": 2874,
+    "ocr_confidence": 0.393,
+    "pagerank": {
+      "raw": 9.604138281386765e-08,
+      "percentile": 0.526547879818476
+    },
+    "sha256": "8eb14fd20949e7fc7d8bd1fca161f174c132c9ac248314e09d340c0c3e28e39d",
+    "simhash": "1:8575eb861d427c14",
+    "word_count": 507
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wagner v. Wagner."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe pleadings in the cause are neither technical nor formal. The plea puis darrein continuance lacks something of what has been considered necessary. It was pleaded, before issue was joined and before continuance, and ought to have prayed judgment as to the further maintenance of the suit by the plaintiff. The single fact is alleged, that he has paid the claim of the plaintiff, since the suit was commenced. The plaintiff admits that the defendant has paid the claim since the suit was brought, and asks judgment for costs. The court below give judgment for the defendant on the ground that the reply of the plaintiff amounts to a demurrer, and that, having settled without providing for the payment of costs, he cannot recover them. We are not over-technical in this state, as to pleadings; and I do not know what course the court below should have prescribed to the plaintiff, when this plea puis darrein continuance was put in before there was a continuance or issue joined. It seems to me that nothing was more natural than that the plaintiff\u2019s attorneys should adopt the very course which they did; that is, admit the fact to be as alleged by defendant, which they could not deny, and ask judgment for costs.\nThe plea of defendant was an admission that the action was well brought, and that the plaintiff was entitled to costs up to the time of the payment of the money. Why should the plaintiff demur to what he knew was just and true? His reply has no feature of demurrer, but is simply an admission of the statement of defendant as true, which entitled him to costs; and he asks for costs. What better form could an issue have been thrown into, to determine who was entitled to costs ? The notion that a party who receives a debt and gives an acquittance for it, when suit is pending, thereby gives up his right to costs, is new to me in practice, and I believe to every member of this court. Nothing is more common in practice than to pay the amount of debt, and after-wards pay the costs. The very instance under consideration shows the prevalence of the practice. It is often convenient to receive money at some distance from the public offices, or when perhaps the attorneys are absent from home. Founded on the practice in this state, we think the plaintiff was entitled to costs, and that the judgment of the court below was erroneous.\nJudgment reversed, and judgment rendered for the plaintiff for costs.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wagner v. Wagner.\nWhere defendant pays the debt after suit brought, the plaintiff is entitled to judgment for costs.\nIn error from the District Court of Allegheny.\nAfter suit brought, the defendant filed a plea, that since the issuing of the writ, he had paid the claim on which suit was brought. The plaintiff filed a paper admitting the truth of the plea, and praying judgment for costs.\nThe court gave judgment for defendant.\nSept. 18."
+  },
+  "file_name": "0214-01",
+  "first_page_order": 214,
+  "last_page_order": 215
+}

@@ -1,0 +1,122 @@
+{
+  "id": 998547,
+  "name": "Schnitzel's Appeal",
+  "name_abbreviation": "Schnitzel's Appeal",
+  "decision_date": "1865-01-13",
+  "docket_number": "",
+  "first_page": "23",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Pa. 23"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. & S. 155",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852575
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0155-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 451",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850014
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0451-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 128",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0128-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 342",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 155",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0155-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 703,
+    "char_count": 17924,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 2.0883028914087446e-07,
+      "percentile": 0.7600010656991971
+    },
+    "sha256": "9f3ae8eb87d695ca9268f1c1b21d72fe84a0751cda3d941e9924353cde59d054",
+    "simhash": "1:4fb639b44837fe7d",
+    "word_count": 3132
+  },
+  "last_updated": "2024-02-27T21:13:48.159806+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schnitzel's Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, C. J.\nThe auditor states and decides the question so well as to make it unnecessary for us to do more tha-n allude to the distinction taken by appellant\u2019s counsel between this case and the authorities relied on by the auditor, especially the case of Potts v. Nathans, 1 W. & S. 155. The judgments against the principal and surety in that case were several, here it was joint. Berg and Mast were bound by the same judgment, and it is argued that Schnitzel became bail for them jointly, and therefore that Mast, by paying the judgment, acquired no right of subrogation as against Schnitzel \u2014 but only performed the condition which Schnitzel undertook that he should perform.\nIf the facts justified this position there would be considerable force in it, but the record of the original judgment showed that Berg was the principal debtor, and Mast the surety, and the auditor reports that Schnitzel became bail at Berg\u2019s instance, and without any communication whatever with Mast \u2014 that Mast was urging Berg to pay the debt, when Berg informed him he could get a stay of execution for a year by giving bail \u2014 that Mast did not like it, and again insisted upon Berg\u2019s paying the debt \u2014 but that Berg solicited Schnitzel to become surety for him \u2014that they had several interviews about the matter, and that Berg gave Schnitzel indemnity in the form of a judgment-note for $1200, and assigned him certain shares of stock \u2014 and that in these interviews Mast took no part, and it did not appear that he was acquainted with Schnitzel.\nNow, notwithstanding the record shows a joint judgment against Berg and Mast, and a general entry of bail by Schnitzel for stay of execution, it is impossible to shut our eyes upon the fact that Schnitzel interposed at the instance and for the benefit of Berg solely, and that his act was prejudicial to Mast, and not for his benefit.\nIt is the case, then, of a prior surety who h^s paid the debt of the principal seeking satisfaction out of a subsequent surety, who, by his interposition, got time for the principal debtor to the prejudice of the prior surety. All the equitable considerations discussed in the cases apply here, and the circumstance that Schnitzel was indemnified, to some extent at least, increases the equity of Mast\u2019s demand upon him.\nIt is argued [hat the record could not be contradicted by an inquiry into the manner in which Schnitzel became bail. The record does not show that Schnitzel bound himself for both defendants \u2014 it only shows the note of his obligation. The fair inference would be, perhaps, that he was bound for both, though as the record showed Mast to be only a surety, it would be no unreasonable construction that Schnitzel bound himself for the debt, and therefore only for the debtor. But to explain a doubtful implication from a record, and to reduce it to a matter of fact, is not to contradict the record. Whatever might be the meaning of the record, by itself, there is no doubt about its meaning in view of the facts found by the auditor, and as little doubt that the well-settled rule of law should be applied.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "Richard P. White, for appellant.",
+      "Thomas J. Clayton, for Mast, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Schnitzel's Appeal.\nPrincipal and surety. \u2014 Subrogation of surety in original obligation,(o rights of judgment-creditor, against surety for stay of execution.\nIf after judgment entered jointly against two, one of whom is named on the record as surety, a third person intervene, solely on request of the principal, and become bail for stay of execution, taking indemnity from him therefor ; and on the expiration of the stay the surety be compelled to pay the judgment, he is entitled to subrogation thereto, and may recover therein against the bail.\nAppeal from the District Court of Philadelphia.\nThis was an appeal, by Katrina Schnitzel, from the decree of the court below confirming the report of the auditor appointed to distribute the proceeds of the sheriff\u2019s sale of the real estate of Christian Schnitzel, deceased.\nThe fund in court for distribution was $5020.42, part of which was distributed to unquestioned liens, without objection.\nThe only contest before the auditor was on the part of John Mast on account of a judgment in favour of Bernhard Gessler, president of The Gustav Adolph Building and Saving Fund Association, entered in the Supreme Court to January Term 1863, No. 63, against Gottlieb Berg and John Mast (\u201cthe said John Mast as surety\u201d).\nOn this lien the auditor reported as follows :\u2014\nThe next lien is a judgment in the Supreme Court for $1358.30, obtained March 9th 1836, by Bernhard Gessler, president of the Gustav Adolph Building and Saving Fund Association.\nThis claim was most strenuously contested, and in compliance with request of counsel the auditpr reports the facts connected with it in the fullest detail.\nOn April 17th 1860, Gottlieb Berg and John Mast (the said John Mast as surety), executed to Bernhard Gessler, president of the Gustav Adolph Building and Saving Fund Association a bond and warrant in the sum of $4000, conditioned for the faithful performance on the part of the said Berg of all the duties of treasurer of said association (a copy of which bond was annexed, marked \u201c G.\u201d), upon which judgment was entered April 19th, in the Supreme Court to July Term 1860, No. 12.\nOn May 29th 1861, a fieri facias was issued on this judgment for $2455.38, with interest from April 1st 1861.\nOn May 31st, the affidavit of Mast having been filed, the court granted a rule to show cause why the above fieri facias should not be set aside, the judgment opened, and the defendant let into a defence; proceedings to stay in the mean time: and on June 22d the amount as endorsed on the writ was reduced by a credit of $1256.90, and the rule was discharged.\nBerg having been almost daily importuned by Mast to pay the said judgment, and being unable to pay, was advised by his counsel that, under the Act of May 21st 1861, he was entitled to a stay of execution for one year. He informed Mast of this, and of his intention to get the necessary security, and avail himself of the benefit of the act. \u25a0 Mast did not like it, and insisted upon Berg\u2019s paying the judgment, which the latter protested he could not then do, but he expected to be able, within the year, \u201cto help himself.\u201d Berg thereupon solicited Christian Schnitzel to become surety for him; they had several interviews about the matter. He told Schnitzel that he \u201c wanted to keep the society out for a year;\u201d that he \u201cthought in that time he could help himself, and pay the money,\u201d and that Mast was his surety.\nSchnitzel wanted counter security, and on July 25th 1861, upon Berg\u2019s promising to indemnify him, he'justified as bail. In fulfilment of his promise, Berg subsequently gave him a judgment-note for $1200, and assigned to him thirty-eight shares of the stock of the Jefferson Building Association, No. 6, said to be worth about $25 a share, Berg\u2019s title to which was after-wards disputed.\nIn the above-mentioned interviews Mast took no part. It did not appear that he was even acquainted with Schnitzel, or that they had ever met. Assured by Berg that it was not in his power to pay, Mast did not object to his obtaining security for stay of execution, and after the security had been entered he seemed to be satisfied with what Berg had done.\nOn May 24th 1862, an alias fieri facias was issued, and Berg\u2019s real estate was levied on and condemned.\nOn June 14th a venditioni exponas was issued.\nOn June 27th the affidavit of Sarah Berg, that Berg was in the army, having been filed, a rule was granted to show cause why the said fieri facias inquisition and venditioni exponas should not be set aside, which was, on December 6th, made absolute.\nIn the mean time, to wit, on November 1st 1862, a scire facias sur recognisance was issued to January Term' 1863, No. 63, at the suit of \u201cBernhard Gessler, president of the'Gnstav Adolph Building and Saving,Fund Association, against Christian Schnitzel, surety for stay of execution of Gottlieb Berg.\u201d\nOn November 22d an affidavit of defence was filed, and on February 11th 1863 the case was tried and a verdict rendered in favour -of' the plaintiff for $1358.30, upon which, on March 9th, judgment was entered.\nOn March 23d a fieri facias was issued on this judgment, certain premises belonging to Schnitzel wrere levied on and condemned, and subsequently, under'a venditioni exponas issued May 9th, were sold by the sheriff.\nAs this judgment was not reached by the proceeds of sale, on June 27th a phtries fieri facias was issued on the judgment July Term 1860, No. 12, against Berg and Mast.\nOn July 2d the affidavit of Mast (Berg being with the army) having been filed, a rule was granted to show cause why this execution should not be set aside; all proceedings to stay until the further order of the court, which was, on October 2d, discharged.\nIn the mean time, to wit, July 10th, an alias venditioni exponas was issued on the judgment of January Term 1863, No. 63, against Schnitzel, under which certain other premises belonging to him were sold by the sheriff; the money paid into court, and an auditor appointed to distribute it.\nOn October 6th a second pluries fien facias was issued on the judgment July Term 1860, No. 12, against Berg and Mast, under which a levy was made upon the property of the latter.\nOn October 15th the affidavit of Mast having been filed, a rule was granted to show cause why all proceedings should not be stayed \u201c until the report of the auditor in the case against Schnitzel shall be confirmed absolutely,\u201d which was subsequently discharged.\nOn October 17th Mast paid to the association the judgment against Berg and himself, when it was assigned and marked to his use, and he now claims to be subrogated to the rights of the association against Schnitzel.\n\u25a0 This, then, is the case of a surety in an original obligation, who, having paid a judgment against his principal and himself, who claimed to be subrogated to the rights of the judgment-creditor, against one who, at the instance of the principal, became surety for stay of execution on that judgment.\nIt would appear to be settled that judgment against principal and surety does not extinguish the relation between them: Commonwealth v. Miller\u2019s Administrators, 8 S. & R. 452; Manufacturers\u2019 and Mechanics\u2019 Bank v. Bank of Pennsylvania, 7 W. & S. 342; Mortland v. Himes, 8 Barr 158; that when the judgment is paid by the surety, it is not discharged, but may be used by him to recover the money he has thus paid: Fleming v. Beaver, 2 Rawle 128; Erb\u2019s Appeal, 2 Penna. R. 298; Croft v. Moore, 9 Watts 451; Lathrop\u2019s Appeal, 1 Barr 517; and when a surety intervenes for the purpose of obtaining time for the principal, a prior surety will have the same rights against him as against the .principal \u2014 that such prior surety stands in the place of the creditor, and such latter surety stands in the place of the debtor, and can be relieved only by payment of the debt: Theobald on Principal and Surety, \u00a7 271; Burns v. Huntingdon Bank, 1 Penna. R. 395; Pott v. Nathans, 1 W. & S. 155; Cornwell\u2019s Appeal, 7 Id. 308; McCormick\u2019s Administrators v. Irwin, 11 Casey 116.\nIn Lathrop\u2019s Case, 1 Barr 517, Mr. Justice Kennedy, after reviewing the authorities, says: \u201c From the foregoing cases it would appear that we have adopted the general rule that a surety, by paying the debt of his principal, becomes entitled to be subrogated to all the rights of the creditor, so as to have the benefit of all the securities which the creditor had for the payment of the debt, without any exception,' as well those which became extinct, at law at least, by the act of the surety\u2019s paying the debt, as all collateral securities which the creditor held for the payment of it, which have not been considered as directly extinguished by the surety\u2019s paying the debt.\u201d'\nIn Pott v. Nathans, 1 W. & S. 155, Mr. Justice Sergeant, considering the equities between a surety in an original obligation and a surety for stay of execution, says: \u201c Such latter surety stipulating at the instance of the principal to pay the debt, suffers no absolute injustice in being obliged to do so, since he is compelled to perform no more than he undertook, and has no \u2022right to complain that he is not allowed to use, as a payment by himself, the money which proceeds from another person whom his principal was previously bound to save harmless.\u201d\nIn McCormick\u2019s Administrators v. Irwin, 11 Casey 115, where it was held that a defendant who had paid under a decree money which should have been paid by his co-defendant, was entitled to .reoover against the surety of the latter on a bond given to stay .proceedings in the case, Mr. Justice Strong says: \u201c To the creditor both (defendants) may have been equally liable, but' if, as between themselves, there is a superior obligation resting on one to pay the debt, the other, after paying it, may use the creditor\u2019s security to obtain reimbursement. * * * The latter is allowed to take the place of the creditor, and m\u00a7ke use of all the creditor\u2019s securities, as if they were his own.\u201d\nThese principles rvould appear to be decisive of the question in the present case, and to establish the claim of Mast (the surety in the original bond) to be subrogated to the rights of the association (the judgment-creditor) against Schnitzel (the surety for stay of execution).\nIt was earnestly argued, however, that in the above-cited cases the, surety held responsible was surety exclusively of the principal in a separate instrument, or in separate proceedings against the principal alone, and not, as in this case, a surety of record on a judgment against both principal and surety, and that as Mast did not object when informed by Berg of his intention to offer security for stay of execution, he must be considered as having been equally benefited, and therefore it would be inequitable to impose the burden of payment upon Schnitzel.\nIt is not perceived what difference it could make whether principal and surety be sued separately or jointly; and, provided that the surety for stay become such at the instance and for the benefit of the principal, whether he he surety in proceedings against the principal alone or in proceedings against, both. In either case the judgment against the surety in the original obligation would be a judgment against him only as surety as to every one but the creditor and those standing in the place of the creditor, and the surety for the stay of execution, at the instance and for the benefit of the principal, would be surety for the principal, and bound to respond to the creditor and those standing in the place of the creditor. If so, and if payment of the judgment by the prior .surety would entitle him to stand in the place of the creditor, then he would have the right to call upon the surety for stay of execution to reimburse him what he had thus paid, unless it should be made to appear that he had either waived or forfeited this right.\nIt is true that Mast did not object when informed by Berg of his intention to offer security for stay of execution, but this was after every effort on his part to induce or persuade Berg to pay the judgment had failed. There was no evidence that Mast was benefited by the stay, and it is n'ot to he presumed that a surety is benefited by an act which, while it extends the limits of his obligation, protects his principal against pursuit. It was expressly denied by Berg that Mast had urged or encouraged him to obtain security, or had anything to do, directly or indirectly, with the arrangements with Schnitzel. Mast wanted the judgment paid, and was constantly complaining that Berg had not paid it, and importuning him to pay it; and he ceased complaining and importuning only when further complaints and importunities were rendered useless by Berg\u2019s claiming the benefit of the stay law. And as the Act of May 21st 1861 entitled Berg to a stay of execdtion, with or without the consent of his surety, it is not perceived why Mast should be held to have either waived or forfeited his rights as surety because he did not persist in objecting to what he could not prevent.\nOn the other hand, it was in proof that Schnitzel became surety for stay of execution at the instance and for the benefit of Berg alone. His purpose was to help Berg to obtain time, within which Berg expected to be able \u201cto help himself,\u201d and save his property. He did not recognise Mast in the transaction. He received from Berg counter security* deemed by him to be sufficient, and undertook to pay, if Berg did -not, and payment of the judgment by Mast, \u201c whom his principal was previously bound to save harmless,\u201d did not relieve him from, and was not a performance of, his undertaking.\nThe claim of John Mast, under judgment for $1358.30, in favour of Bernhard Gessler, President of the Gustav Adolph Building and Saving Fund Association, with interest, $39.16 (costs having been paid by the sheriff), is accordingly allowed.\nTo this report Katrina Schnitzel, administratrix, excepted as' follows\n1. To the finding of the auditor, in contradiction to the record, that Schnitzel went security for stay of execution for Berg only in the case of Gessler v. Berg (S. C. July 1860, No. 12), and to the admission of testimony to contradict the record.\n2. To the finding of the auditor that Mast, a defendant in the original judgment, is entitled to subrogation under the judgment (Gessler et al. v. Schnitzel), as against his own surety for stay of execution.\n3. To so much of the auditor\u2019s report as finds the judgment (Gessler et al. v. Schnitzel), a lien upon the fund, and to the award of any part of the fund to John Mast.\nOn argument, the exceptions were dismissed, and the report of .the auditor was confirmed, which was the error assigned by the appellant.\nRichard P. White, for appellant.\nThomas J. Clayton, for Mast, appellee.\nJanuary 13th 1865,"
+  },
+  "file_name": "0023-01",
+  "first_page_order": 23,
+  "last_page_order": 29
+}

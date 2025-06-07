@@ -1,0 +1,122 @@
+{
+  "id": 959542,
+  "name": "Piper v. Martin",
+  "name_abbreviation": "Piper v. Martin",
+  "decision_date": "1848-06-05",
+  "docket_number": "",
+  "first_page": "206",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Watts, 9",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850959
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0009-01"
+      ]
+    },
+    {
+      "cite": "6 W. 400",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Cranch, 117",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        6759562,
+        12121499
+      ],
+      "pin_cites": [
+        {
+          "page": "131"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dc/1/0117-01",
+        "/us/5/0117-01"
+      ]
+    },
+    {
+      "cite": "1 W. 515",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle, 401",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822529
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0401-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 629,
+    "char_count": 17264,
+    "ocr_confidence": 0.382,
+    "pagerank": {
+      "raw": 9.39422373068844e-08,
+      "percentile": 0.5154978147374615
+    },
+    "sha256": "65a1770e5064e69b150b03faf52b5cfb95a55daf1566cee4928212149912273b",
+    "simhash": "1:e6cb3de1a607e8cb",
+    "word_count": 3071
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Piper v. Martin."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nThis was an action by Paul Martin, who was the sheriff of Cumberland county, against James Piper, to recover the price of certain stills purchased by the defendant at a sale on an execution issued on a judgment by the said James Piper against William Noacre. James Piper, the plaintiff in the execution, himself became the purchaser, and as such was unquestionably answerable for the amount of his bid to the sheriff for the use of the creditors. The money it is to be presumed was not paid, because the plaintiff, held the first execution, and was therefore entitled to a credit on his execution for the amount of his purchase. It seems, however, that after the sale there being some controversy among the execution creditors, it was agreed that the money arising from the sale should be considered in court for the purpose of appropriation. To this agreement the defendant was a party, and on a case stated the court decreed the money to the other execution creditors, the judgment and execution of Piper, on an issue directed for that purpose, being declared fraudulent and void. But although the execution was afterwards set aside, yet the purchaser was fixed for the amount of his bid, on the principle of caveat emptor, and because he agreed to consider the money in court for distribution, although he knew it was unpaid. By the sale as between him and the defendant in the execution, he became entitled to the still, for it is in full proof that the sale was with the assent of William Noacre, who agreed it should be taken and sold as personal property. Now whether, in contemplation of law, it was attached to the realty or not, as a fixture, is immaterial, as the parties agreed to consider it personal property. This dispenses with the \u25a0 necessity of determining whether it was personal or real. There is no person who has any interest in this but Grove, who had a judgment against Peter Noacre, the former owner of the land. But Grove is no party to this proceeding, nor is he complaining, nor can his rights be affected; for the still continues attached to the freehold, as before. But it may be doubtful whether Grove would have any right to object, inasmuch as the still was affixed for purposes of trade, after the sale of Peter to William Noacre. It may, I say, be doubtful whether the owner would not have a right to remove it without the assent of Grove or any other person. But, be this as it may, by the agreement already referred to, it must be taken as personal property, and, as such, passed by the sale to the purchaser. Then, why should not the defendant be answerable for the amount of his bid ? Why should the sheriff be compelled to pay it, as has been already done, out of his own pocket ? This suit is only for the purpose of recovering the money to reimburse the sheriff, or to enable him to comply with the decree ordering the money to be paid to the other creditors. It is said, however, the suit cannot be sustained, because the money belongs to the assignees, in bankruptcy, of William Noacre. But not so. They were parties to the decree; their rights have been already adjudged. But, whether it be so or not, is immaterial, as the sheriff is the proper person to recover the money for the purposes of appropriation. Nor clo we see any reason in the exception, that it was a voluntary payment by the sheriff; for, if paid (which, as has been before said, is of no sort of consequence), it was a payment under a decree of the court,\u2019 in a case stated, to which the defendant himself was a party. We see no valid objection to the charge; for, if erroneous at all, the error is in favour of the defendant, who is plaintiff in error. This fifth error has been in substance disposed of in the preceding remark, and does not require particular notice.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Seed, for plaintiff in error.",
+      "Watts, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Piper v. Martin.\nUnder an execution issued on the only judgment then in existence against a defendant, the sheriff levied upon, amongst other property, two stills erected in the usual way in the distillery of the defendant, which, with the consent and at the request of the plaintiff and defendant in the said execution, the sheriff offered for sale as personal property, and sold the same to the plaintiff in the said execution. After this sale, four other judgments were obtained against the same defendant, on which executions were issued, and placed in the hands of the sheriff, who neither levied nor returned them. Upon a controversy arising between the purchaser, who was the first, and the subsequent judgment and execution creditors, as to the validity of the first judgment, and in relation to the money raised by the sale of the defendant\u2019s property under the execution issued thereon, an agreement was entered into by and between them, that the money should be considered in court for the purpose of appropriation, and a case was stated to which they were each a party. On the case stated, the court decreed the money to be paid to the subsequent execution creditors, the judgment and execution of the first creditor having been declared fraudulent and void, upon the trial of an issue directed to determine that question. No appeal from the said decree of the court, although provided for in the case stated, was taken: Meld, that the purchaser of the stills, who was the plaintiff in the first judgment and execution, was fixed, under the principle of caveat emptor, for the amount of his bid, and bound to the sheriff for its payment, although his execution was subsequently set aside; that the agreement of the plaintiff and defendant in the execution, no other person then having the right to object, that the stills should be sold as personal property, dispensed with the necessity of determining whether they were real or personal property, and that they passed by the sale to the purchaser as personal property.\nIn error from the Court of Common Pleas of Cumberland county.\nMay 29. Paul Martin, the defendant in error, was plaintiff below, and brought this action in debt against John Piper and James S. Dunlop, administrators of James Piper, deceased, to recover the price of certain property levied upon and sold by him, as sheriff of Cumberland county, to James Piper, the defendants\u2019 intestate. a\nIt appeared that the plaintiff, by virtue of judicial process, issued on a judgment of James Piper, the defendants\u2019 intestate, against one William Noacre, levied upon certain property of the defendant in the judgment and execution, amongst which were two stills, erected on the said defendant\u2019s distillery; and of the property so levied upon he sold the following articles to the plaintiff in the said judgment: 26 mash hogsheads, 2 stills and fixtures, and 2 yeast vessels, for $210.22. The amount of the sales of all the property levied upon was $119.20. This suit was brought to recover the purchase-money of the articles sold to the said James Piper. The only controversy at the trial below was as to the levy and sale of the two stills, which the defendants contended the sheriff had no authority or power to levy upon and sell, as they were fixtures and attached to the realty. The deputy-sheriff testified, that the stills were set up in the usual way in the still-house at the time of the levy and sale; that on the day of the sale he expressed his doubts as to their right and power to sell the stills as personal property; that James Piper and William Noacre, the plaintiff and defendant in the writ of execution, then and there agreed that they should be sold and that they were accordingly sold, and purchased by James Piper, the said plaintiff; and that the stills were in use at the time of the levy. All the other facts and proceedings in the case will fully and clearly appear from the following case stated, in the nature of a special verdict on the appropriation of the money raised as above stated, and which was read in evidence at the trial of this case:\u2014\n\u201cIn the matter of the appropriation of the proceeds of the sale of the personal property of William Noaere. The parties being all in court, agree that the money raised by the sale of the personal property of William Noacre shall be considered in court, for the purpose of appropriation; and that the question be decided and the appropriation made upon the following facts, reserving to all the parties the right to appeal without oath or bail. On the 22d day of January, 1842, William Noacre confessed judgment to James Piper for $2,609.94, which was entered of record and a fieri facias issued thereon on the same day, which was levied on the defendant\u2019s personal property, and the property sold on the 1th day of February, 1842. Afterwards, viz: 24th February, 1842, C. Mellinger, for the use of himself and others, obtained a judgment against William Noacre for $545.01, upon which execution issued the same day, and was placed in the hands of the sheriff on the 25th February, 1842. Peter Ottisom, Robert Smith, and Isaac Moquart, severally, obtained judgments against William Noacre, which were entered and executions issued and placed in the hands of the sheriff, amounting altogether to $588. When these executions were placed in the hands of the sheriff by the respective plaintiffs, he was notified not to pay the proceeds of the sale in his hands to James Piper, and he did not. On the first day of the then next term, April, 1842, at the instance of the said C. Mellinger and all the other execution creditors subsequent to James Piper, the court granted a rule on the said James Piper to show cause why his judgment should not be opened and execution set aside. Previously to May 23d, 1842, depositions were taken to establish the fact that the judgment of the said James Piper and execution were fraudulent, having been given to hinder and delay creditors; and on that day, the court made the rule to \u00a9how cause absolute, and directed an issue to try that fact: in which all the other execution creditors of William Noacre were defendants and the said James Piper was plaintiff. The issue came on to be tried on the 14th August, 1844, when a verdict was rendered for the defendants, upon which judgment was entered pro ut said issue, No. 212, April Term, 1842. On the 19th August, 1842, William Noaere presented his petition to the District Court of the United States, for the benefit of the Bankrupt Law, and on the 20th September, 1842, he was decreed by the said court to be a bankrupt: and subsequently, on the 10th day of March, 1843, obtained his final discharge and certificate. It was also admitted, that on the trial of the issue referred to, No. 212, April Term, 1842, William Noacre, a witness called by the creditors, testified, that the actual amount due and owing by him to James Piper, when the said judgment was confessed, was one thousand dollars.\u201d\nOn the 29th of April, 1846, the court, upon argument of the case stated, ordered the money to be paid to C. Mellinger, and to the subsequent execution creditors, in the order in which their executions were issued to and received by the sheriff.\nThe court (Hepburn, P. J.) charged the jury that if they were \u201csatisfied, from the testimony in the cause, that these stills were put upon the property during the time that it was occupied by William Noacre; that Piper\u2019s execution issued against him, and that both he and Piper directed the sheriff to sell them; that they were sold, and that Piper, the plaintiff in the execution, became the purchaser: the sheriff, having paid the money on another execution under a decree of the court, is entitled to his money, and consequently to your verdict in this action, the stills being the only matter in dispute.\u201d\nThe charge was excepted to by the defendant. The jury found a verdict of \u00a1\u00a7213.24 for plaintiff.\nErrors assigned: 1. The court assumed the fact, and so submitted it to the jury, that Paul Martin, the sheriff, had paid the money under the decree of the court, to another execution creditor, when there was no evidence to that effect before the court or jury.\n2. If Paul Martin did so pay the money, and there was any evidence of the fact, then the legal presumption from the whole evidence is, that it was paid to him by James Piper, and it should have been submitted to the jury under the plea of payment, to determine the fact.\n3. A voluntary payment by the sheriff of an execution in his hands for collection, to the plaintiff, constitutes no cause of action in his favour against the defendant; so a voluntary payment by-the sheriff in this case, would constitute no cause of action in his, favour against James Piper.\n4. So far as the stills are concerned, they were part of the real estate, and bound by the lien of Abraham Grove\u2019s judgment, and the sheriff had no power or authority to sell them either with or without the consent of William Noacre and James Piper. The writ for this purpose was a nullity, and such an agreement as was alleged would have worked a fraud against Abraham Grove, and as this action is -ea: contractu, the sheriff could not recover. The court, therefore, erred in their instruction to the jury.\nSeed, for plaintiff in error.\nThe sheriff pretended to levy upon the three stills while they were in actual use, substantially erected, and forming part of the freehold; and, upon such levy, to sell them. Though done by consent, the sale was void: 17 S. & R. 413, 415. To constitute a levy, there must he at least a control over the property in the sheriff, and the power of delivering them to the purchaser: 3 Rawle, 401; 7 Law Lib. 124; 1W. & S. 116, 390. Here he had neither. He might as well have levied upon a chimney in the house, or upon the roof, or a particular room. His execution, for such purpose, was a nullity. The authority was not merely erroneous, but was entirely wanting. It could not be supplied by consent. The sheriff, quoad hoe, was a trespasser: 8 Law Lib. 92; 46 Law Lib. 199; 51 Law Lib. 59, 80, 99; 1 W. 515. A trespasser cannot recover for his trespass. He sues on a contract. There was no contract, so far as regards the levy and sale of the stills.\nThe sale was made on James Piper\u2019s execution. There was none other in the sheriff\u2019s hands. This execution was set aside by the court. The right to the money, if it had been paid, would have reverted to Noacre (if there had been nothing else in the way); consequently, there is no right of action in the sheriff: 1 Cranch, 117,131. So far as regards the stills, they were not and could not be removed. They remained in possession of Noaere) who was entitled to them: Tarbox v. Hays, 6 W. 400; 5 Co. Rep. 90.\nRut Noacre, in the mean time, applied for the benefit of the bankrupt law, made an assignment, and procured his certificate. By the decree of bankruptcy, the property passed to the assignee by mere operation of law; from the time of such decree, every species of right passed, whether to the property or to the money \u2014which is inconsistent with the right of the sheriff to recover: 7 Law Lib. 134 \u2014 5, 187; sec. 3 of Bankrupt Law. The right of the assignee in bankruptcy was not affected by the decree of distribution, in the Court of Common Pleas. He was no party to it; and such decree only binds parties and privies: Cash\u2019s Appeal, 1 Barr, 167. This was not a distribution .under the act of Assembly, binding every one; for no notice was given, without which the court had no jurisdiction beyond the parties in court: Act of 16th June, 1836; Dunl. Dig. 734.\nThere was error also in the court assuming the fact, and submitting the case to the jury in that aspect, that Paul Martin had paid the money on another execution, under a decree of the court, when there was no proof of any such fact alleged or proved.\nWatts, for defendant in error.\nConceding the principles of law, stated by the gentleman on the other side, and the facts on which they are predicated, there is no available ground to reverse this judgment. The action is by a sheriff to recover the price of goods sold to the defendant: and the defence is two-fold. 1st. That the goods were not the subject of sale, because they were fixtures \u2014 part of the realty. The answers to this objection are conclusive, that the record shows that the goods were sold at the request of both the plaintiff and defendant in the execution, and there was no third person to gainsay their wish ; and, again, that a sheriff\u2019s sale implies no warranty, and the purchaser must pay without regard to the title he acquires: Freeman v. Caldwell, 10 Watts, 9. The second position of the defendant is, that the court, without evidence, instructed the jury that the plaintiff had paid the money to the creditor, and, therefore, was entitled to recover it. It can be of no consequence whether the sheriff paid the money or not to the creditor, or what creditor was entitled to it. The sheriff sold the property ; is, therefore, liable to some creditor or other; and is, therefore, entitled to recover it, whether he has paid it or not. The record exhibits the fact, that the whole amount of the sheriff\u2019s sale was appropriated by the court, from which there was no appeal: the correctness of the appropriation canpot now be questioned, nor otherwise than by appeal. Clearly, then, the sheriff may recover to enable him to pay, if he has not done so already.\nJune 5."
+  },
+  "file_name": "0206-01",
+  "first_page_order": 206,
+  "last_page_order": 213
+}

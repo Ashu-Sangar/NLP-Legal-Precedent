@@ -1,0 +1,85 @@
+{
+  "id": 988432,
+  "name": "Cornpropst's Appeal",
+  "name_abbreviation": "Cornpropst's Appeal",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "537",
+  "last_page": "538",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Pa. 537"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 157",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Watts 34",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842764
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0034-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 263,
+    "char_count": 4231,
+    "ocr_confidence": 0.468,
+    "pagerank": {
+      "raw": 2.135662494891674e-07,
+      "percentile": 0.7663944886362101
+    },
+    "sha256": "bb9c77a4a0e60f2bb534ebb43d78ae0ec1a4798671ee2374e86f8500c2d2045c",
+    "simhash": "1:4bcb18a5c0730713",
+    "word_count": 713
+  },
+  "last_updated": "2024-02-27T20:46:52.756636+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cornpropst\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\nIt is not controverted that Mr. Stewart, to whom the register granted letters of administration, is a fit man for the trust, or that he has given the required security. But the Register\u2019s Court was asked to revoke the letters, and grant others to Henry Cornpropst, on the ground that Stewart is neither of kin to the intestate, nor a creditor. Undoubtedly, where, as in this case, there are no relatives to whom administration can be granted, creditors are to be preferred to strangers. The Act of Assembly gives to certain classes priority of right over others to letters of administration. But it recognises the rule which was in force previously to its passage, that there might be personal incompetency in individuals belonging to a preferred class. In such cases, the register is at liberty to pass by the incompetent individual, and grant letters to others who would not have been entitled to them, but for that incompetency. The act does not define the grounds of disqualification. They are to be sought for in the decisions of the English Ordinary, and in the practice of this state, before the passage of the Act 15th of March 1832. There is no doubt that insolvency is one. Those interested in the estate are entitled to the security of an administrator\u2019s personal liability, as well as to that of his bail. If letters may be granted to an insolvent person, they have but the single security of the sureties in the administration bond. Besides, likelihood to prove insolvent is a ground for removal under the 22d section of the Act of Assembly of the 29th of March 1832. Certainly, the register may not appoint one whom it would be the duty of the Orphans\u2019 Court to remove, unless he should give other and further security than the register may require. In Ellmaker\u2019s Estate, 4 Watts 34, and in Bieber\u2019s Appeal, 1 Jones 157, those who were otherwise entitled to administer, were rejected on account of the inexpediency of committing the trust to them. In the latter case, a brother of the intestate was ruled to be incompetent, because he was in possession of part of the decedent\u2019s estate, and claimed that the mother, who was the heir, had given it to him. But, insolvency has always been held an insuperable objection to the grant of letters of administration. Henry Cornpropst, therefore, though a creditor, was incompetent, and there was no cause for revoking the letters issued to Stewart.\nThe decree of the Register\u2019s Court is affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "W. P. Orbison and T. P. Campbell, for the appellant,",
+      "J. Sewell Stewart, the appellee, in proprid persond."
+    ],
+    "corrections": "",
+    "head_matter": "Cornpropst\u2019s Appeal.\nInsolvency renders a person, otherwise entitled, incompetent to receive a grant of letters of administration. Those interested in the estate are entitled to the security of an administrator\u2019s personal liability, as well as to that of his bail.\nAppear from the Register\u2019s Court of Huntingdon county.\nThis was an appeal by Henry Cornpropst from the decree of the Register\u2019s Court, affirming the decision of the Register, who had granted letters of administration upon the estate of Christopher Lawless, deceased, to J. Sewell Stewart.\nChristopher Lawless died at Huntingdon, in January 1859, without relatives within the county, and letters of administration upon his estate were granted by the register of wills to J. Sewell Stewart, neither a relative nor a creditor, who gave bond in $2500. The appellant, Henry Cornpropst, who was a creditor of the decedent, to the amount of $50, for boarding and attendance in his sickness, and who has also paid the funeral expenses, to the extent of $23.87, applied to the register to revoke the letters granted to Stewart, claiming the prior right to administer as a creditor of the decedent. It was shown that the appellant was insolvent.\nThe register refused to revoke the letters of administration, and the court below, on appeal, affirmed his decision; whereupon, this appeal was taken.\nW. P. Orbison and T. P. Campbell, for the appellant,\ncited Act of 1832, Brightly\u2019s Purd. 191; Neave\u2019s Estate, 9 S. & R. 186; Hood on Executors 58; McClellan\u2019s Appeal, 4 Harris 110.\nJ. Sewell Stewart, the appellee, in proprid persond.\n\u2014 The appellant is insolvent; and the court did not consider him a fit person upon whom to cast the responsibility of the administration."
+  },
+  "file_name": "0537-01",
+  "first_page_order": 537,
+  "last_page_order": 538
+}

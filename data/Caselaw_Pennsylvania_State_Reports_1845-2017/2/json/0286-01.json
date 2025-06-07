@@ -1,0 +1,66 @@
+{
+  "id": 951114,
+  "name": "Aycinena v. Peries",
+  "name_abbreviation": "Aycinena v. Peries",
+  "decision_date": "1845-12",
+  "docket_number": "",
+  "first_page": "286",
+  "last_page": "286",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 286"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts & Serg. 244",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 806,
+    "ocr_confidence": 0.447,
+    "sha256": "1d3d6d088e0ea42a0d1703250908feb2ef299efd8ebf73ab25c60fb23c1913ba",
+    "simhash": "1:ac3d7c36ed260934",
+    "word_count": 146
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aycinena v. Peries."
+    ],
+    "opinions": [
+      {
+        "text": "The motion was allowed and the entry ordered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Aycinena v. Peries.\nThe court will enter judgment specially, so as to make it appear that it does not bind defendant\u2019s property, but only such as is held in trust; to reach which was the object of the suit being in the nature of a bill in equity. The case is fully reported in 6 Watts & Serg. 244-,\nWm. B. Heed moved for an entry on the record, in conformity to the instructions given to the jury on the trial, that the judgment is not against defendant generally, but only for the purpose of levying on and attaching certain stocks and securities in a schedule appended to the verdict in this case, and that said judgment is no lien on defendant\u2019s property.\nHe stated that defendant\u2019s credit was injured by the judgment appearing to be against him generally."
+  },
+  "file_name": "0286-01",
+  "first_page_order": 286,
+  "last_page_order": 286
+}

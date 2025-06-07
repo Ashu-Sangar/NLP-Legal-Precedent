@@ -1,0 +1,79 @@
+{
+  "id": 975810,
+  "name": "Fullerton versus Campbell",
+  "name_abbreviation": "Fullerton v. Campbell",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "345",
+  "last_page": "346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Wheat. 680",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/22/0680-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3575,
+    "ocr_confidence": 0.437,
+    "pagerank": {
+      "raw": 9.721201614348622e-08,
+      "percentile": 0.5302992568292592
+    },
+    "sha256": "b9a9afa5455d0e5fdaede6bc0e11f47062f697c143cbd495153c1c617e22551f",
+    "simhash": "1:c6e084b5f61ff6f8",
+    "word_count": 623
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fullerton versus Campbell."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, C. J.\nWhen Fullerton became the bail for Milligan\u2019s appeal, Hugh Campbell alone was the plaintiff. The result shows that he ought to have joined in the action the names of Philip Templeton and A. Colwell, and that the award in favour of Campbell alone was unjust, or at least illegal. The omission to join the proper parties may have deprived the defendant of a fair hearing in questions of payments to the parties not named, or set-offs against the real plaintiffs, and may also have deprived the defendant of the security to which he was entitled in case of a judgment in his favour. These considerations may have influenced Fullerton in becoming security for the appeal. He became bail on an appeal against the unjust claim of Hugh Campbell. His engagement is not to be extended to liabilities for his principal in a suit brought by Hugh Campbell, Philip Templeton, and A. Col-well. The Court had. the power to permit the amendment, if it appeared to them that a, mistake or omissjon had been made. But -the mistake in this ease was that of the plaintiffs, and they have no right to visit the consequences of it upon the bail, who, for all that appears, never would have become bound as bail on appeal if the recovery before the arbitrators had been in favour of the proper parties. The judgment should have been for the defendant on the plea of nul tiel record..\nJudgment reversed and judgment for the plaintiffs in error on the plea of nul tiel record, with costs.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Smith and Fullerton, for plaintiff in error. \u2014",
+      "Golden and Fulton, contrh. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Fullerton versus Campbell.\nWhere additional plaintiffs were added, after an appeal by defendant from \u25a0 an award of arbitrators, and a scire facias was sued out on the recognisance reciting a suit, in the names of the plaintiffs, including those added after the appeal, it was held fatal to a recovery on the plea of nul tiel record.\nError to the Common Pleas of Armstrong county.\nThis was a scire facias upon recognisance of bail. Hugh Campbell brought an action of trespass, vi et armis, against James Milligan, and the case being referred under the compulsory arbitration law, an award was made in favour of the plaintiff. On the 14th of May, 1853, the defendant appealed from this award, and Fullerton, the defendant in this action, became his bail on the appeal. A plea in abatement was filed, and at the trial the Court permitted the plaintiff to add the names of Philip Templeton and A. Colwell, as plaintiffs, and a verdict and judgment were rendered for the plaintiffs. This scire facias was sued out in the names of Campbell, Templeton, and Colwell, to recover from Fullerton, the bail, the costs that accrued subsequent to the appeal.\nThe defendant, among other things, interposed the plea of nul tiel record. This was overruled, and, under the charge of the Court, the jury rendered a verdict for the plaintiffs for $53.05, the amount of the costs.\nSmith and Fullerton, for plaintiff in error. \u2014\nThere is no such record as that recited in the scire facias. The defendant was bound \"to Campbell. alone, and the plaintiffs could not, by the amendment, vary his responsibility: 6 Rob. La. R. 47; 9 Wheat. 680 ; 4 Barr 348; 5 Id. 316; 7 Harris 119.\nGolden and Fulton, contrh. \u2014\nThe amendment made was properly allowed: Act 4th May, 1852; Purd. Dig. 38. The defendant assumed his responsibility subject to every legal change or amendment which might be made in the cause: Act 20th March, 1845; Purd. Dig. 48. Bail under this statute assumes a more extensive responsibility than an ordinary surety. Nor is the engagement subject to the same equities."
+  },
+  "file_name": "0345-01",
+  "first_page_order": 345,
+  "last_page_order": 346
+}

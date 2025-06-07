@@ -1,0 +1,116 @@
+{
+  "id": 9503115,
+  "name": "Commonwealth versus Leech",
+  "name_abbreviation": "Commonwealth v. Leech",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "55",
+  "last_page": "57",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 55"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Hill 324",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Pick. 492",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2048081
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/38/0492-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 351",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850924
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0351-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates 395",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Watts 351",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850924
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0351-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 355,
+    "char_count": 6062,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 1.1139452053088902e-07,
+      "percentile": 0.5713864012921217
+    },
+    "sha256": "f1d7f04ec319c415eef36eea842dd29fe06eb90704dc5c638084adfe95a00866",
+    "simhash": "1:992b84c6e13d279d",
+    "word_count": 1079
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth versus Leech."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodward, J.\nIf it be conceded that the Act of 1854, repealing the repealing Act of 1852, revived the original Act of 1850, it cannot be maintained with any plausibility that the proceedings commenced under the Act of 1850, but put to death by the Act of 1852, were restored to life by the Act of 1854, there being no words in the latter Act indicative of legislative intention to reanimate these proceedings. They were out of the course of the common law \u2014 were special \u2014 and depended for their vitality on the provisions of the Act of 1850. The assessment of damages became a lien by virtue of no other law, and when that was repealed did the lien survive ? Had any private rights vested under that lien, there might be some difficulty about the question; but the lien was to compensate damages for the extension of Hancock Street, and if no extension, then no damages, and, of course, property owners had no vested interest in a lien created for their indemnity. This was very successfully demonstrated in Hampton v. The Commonwealth, 7 Harris 333. There being no vested rights to guard, the principles asserted in 4 Yeates 395 and 10 Watts 351, are decisive of the question. The proceedings commenced were repealed with the law on which they stood; the attempt to prosecute them subsequently was effete; and the repeal of the repealing law left them as it found them, dead and buried.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Bigham and Leslie, for plaintiffs in error.",
+      "Shaler and Stanton, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth versus Leech.\nProceedings commenced under an Act which is repealed before their completion, are not revived by a repeal of the repealing Act, there being no terms in the last Act ratifying, confirming or reviving the proceedings under the original Act and no private interest having vested under the proceedings.\nERROR to the Court of Common Pleas of Allegheny county.\nThis was a scire facias in the name of the Commonwealth for the use of John Irwin and Joseph Tomlinson v. Malcolm Leech. A case was stated to the effect as follows :\u2014\nOn 6th April, 1850, an Act was passed [Acts of 1850, p. 388) authorizing the Court of Common Pleas of Allegheny county, on petition for that purpose, to appoint viewers to ascertain the damages likely to accrue to the owners of property, over which it was proposed to extend Hancock street, in the city of Pittsburgh, and (inter alia) to assess the amount of said damages on lots in the vicinity of said street benefited by said extension.\nA petition was presented to the Court, under the said Act, and viewers appointed, whose report was filed in December, 1850, stating, among other things, that in their opinion the defendant\u2019s lot was benefited to the amount of $680. The report was approved by the Court, and judgment entered thereon, pursuant to the provisions of the Act.\nThe Act provided that if said assessments were not paid within six months after the confirmation of said report, process in the nature of a sci. fa. on mortgage, might be issued from said Court to enforce payment. The scire facias in this case was issued in favor of the plaintiffs, they being the owners of the property taken by said street, and was served on the defendant.\nOn the 26th day of February, 1852, an Act was passed, as follows:\u2014\nSection 6th. \u201cThat the 7th, 8th, 9th, and 10th sections of an Act, &c., and to extend Hancock street, in the city of Pittsburgh, &c., be, and the same is hereby repealed so far as Hancock street is concerned.\u201d (Acts of 1852, page 16.)\nOn the 5th of May, 1854, another Act was passed, repealing said section, as follows:\u2014\nSect. 3d. \u201c That the 6th section of an Act entitled an Act, &c,, approved the 26th February, 1852, be and the same is hereby repealed.\u201d This Act did not in terms revive or ratify the proceedings under the Act of 1850. [Acts of 1854, p. 572.)\nIf the Court were of opinion that the plaintiffs were entitled to recover, judgment to be entered in their favor; otherwise, for the defendant.\nThe Court, in their opinion, referred to Dwarris on Statutes 677, for tbe position, that when an Act of Parliament is repealed it must be considered, except as to transactions passed and closed, as if it bad never existed. Reference was also made to 5 Barr 205; 7 Id. 172; 9 Law Lib. 675; 10 Watts 351; 21 Pick. 492; 7 W. $ Ser. 236; 1 Hill 324; and to tbe case of Hampton v. Tbe Commonwealth, 7 Harris 329, a case relating to this same street.\nJudgment was entered for tbe defendant, wbicb was assigned for error.\nBigham and Leslie, for plaintiffs in error.\nIt is an admitted rule of common law, that tbe repeal of a repealing statute revives tbe original. \u201c The revival, however, arises, not from an implication of intention, but from a removal of the pressure wbicb kept the original statute down.\u201d When an act is revived, it is revived in that form, and with that effect which it bad at tbe moment when it expired: 7 Branch 380. Tbe case of Hampton v. Tbe Commonwealth, 7 Harris, does not necessarily rule this case. In that case tbe plaintiffs were endeavoring to enforce payment of one of tbe liens while tbe original Act was repealed. But it was alleged that tbe repealing Act being repealed, tbe Court had now the power to order the street to be opened.\nShaler and Stanton, for defendant in error.\nIn the case of Hampton v. The Commonwealth, 7 Harris, it was held that the repeal of the Act of, 1850, before the street was opened, put an end to the opening of the street, and rendered void all the proceedings under it. By the Act of 1840, referred to in the ease of the Philadelphia Hall, 5 Barr 210, the proceedings under the original Act were \u201c ratified and confirmed as fully and effectually in all respects as if they bad never been repealed.\u201d' Proceedings under an Act of Assembly cannot be completed after tbe repeal of the Act but according to tbe provisions of tbe new Act: Fenolon\u2019s Petition, 7 Barr 178. Proceedings commenced under tbe provisions of a statute are arrested by tbe repeal of tbe statute: every act done towards their completion after tbe repeal is void: North Canal Street Road, 10 Watts 351."
+  },
+  "file_name": "0055-01",
+  "first_page_order": 53,
+  "last_page_order": 55
+}

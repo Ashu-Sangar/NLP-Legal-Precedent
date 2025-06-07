@@ -1,0 +1,66 @@
+{
+  "id": 992197,
+  "name": "Park versus Matthews",
+  "name_abbreviation": "Park v. Matthews",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "28",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 28"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 95,
+    "char_count": 974,
+    "ocr_confidence": 0.442,
+    "pagerank": {
+      "raw": 4.491800921849288e-07,
+      "percentile": 0.9226526334160795
+    },
+    "sha256": "0652631490671086dcca643ff5ec38d8a51a814a5c4480de47b1342a0b6f70b0",
+    "simhash": "1:f9c115a5aa9d1823",
+    "word_count": 175
+  },
+  "last_updated": "2023-07-14T20:59:55.101486+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Park versus Matthews."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nBlack, C. J.\nTestatrix bequeathed $5000 to her brother, to be received and held by trustees, and the interest or proceeds to be annually paid over to the legatee for his use and benefit. The legatee\u2019s creditor attached the interest.\nWe hold that it was attachable, because it was his, in law and equity. If the trustees had withheld it from him, he could have sued for and recovered it. Wherever a party has a right of action, his creditors may attach the debt, unless it be for wages.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "McCandless, for the plaintiff in error.",
+      "McConnell, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Park versus Matthews.\nThe interest or proceeds of a fund in the hands of trustees is liable to attachment.\nWhenever a party has a right of action, his creditors may attach it, unless it be for wages.\nError to the District Court of Allegheny county. The facts are stated in the opinion of the court.\nMcCandless, for the plaintiff in error.\nMcConnell, for the defendant in error.\nThis case was decided on the 15th December 1853."
+  },
+  "file_name": "0028-01",
+  "first_page_order": 28,
+  "last_page_order": 28
+}

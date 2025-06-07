@@ -1,0 +1,147 @@
+{
+  "id": 951328,
+  "name": "Kirk v. Ewing",
+  "name_abbreviation": "Kirk v. Ewing",
+  "decision_date": "1846-05-18",
+  "docket_number": "",
+  "first_page": "453",
+  "last_page": "455",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 453"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts, 69",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844033
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0069-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 43",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846898
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0043-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 319",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Johns. 95",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135851
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0095-01"
+      ]
+    },
+    {
+      "cite": "10 Pick. 57",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2014250
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/27/0057-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 451",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Wend. 119",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Watts & Serg. 333",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478683
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0333-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 406,
+    "char_count": 6657,
+    "ocr_confidence": 0.57,
+    "pagerank": {
+      "raw": 5.487481659120741e-08,
+      "percentile": 0.34370806946659826
+    },
+    "sha256": "db18c1b22cb46d29777cb711b0511b68fe063350616632714ac7c63ac0ba0af0",
+    "simhash": "1:d1e6012c5f4c6739",
+    "word_count": 1181
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kirk v. Ewing."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\n\u2014 There is no rule better established, than that a party to the record cannot be examined as a witness, and this not on the ground of interest, but from considerations of policy, 5 Watts & Serg. 333; Given v. Albert, 3 Wend. 119; 4 Wend. 451; 10 Pick. 57; Wolf v Fink, 1 Barr, 439. The defendants joined in the plea of not guilty, but at the trial, two of them, disclaiming all title to the property, were permitted to withdraw their plea; but without more they do not cease to be parties to the suit. They may still be liable to the plaintiff for costs, and also for mesne profits, which can only be ascertained by trial, or by judgment by default. It appears by the return of the sheriff, the defendants who disclaimed were in possession at the time -suit was commenced, and as such were prima facie liable, if the title to the property was in the plaintiff. It is true that if the plaintiff includes persons in a suit, against whom no evidence is offered, they may be witnesses, but that cannot be alleged here. Besides, if wanted as witnesses, the jury should have passed on their case before they were examined. The circumstance of being a co-defendant is an exclusion, although a verdict in his favour would remove the objection of incompetency. We are therefore of opinion there was error in receiving the testimony of James C. Ewing.\nIn the other bills, we perceive no error, nor is there any in the charge; nor do they involve any principle which requires particular notice. Whether the levy on the property, as the property of the husband, is constructive notice to the wife, we do not undertake to determine, as that point does not seem to have been brought to the attention of the court below.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Ellmaker and Franklin, for plaintiff in error.",
+      "Stevens, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Kirk v. Ewing.\nOne of two defendants in ejectment, on whom the writ had been served, and who had pleaded, cannot by disclaimer (his plea having been permitted to be withdrawn) make himself a competent witness for his co-doibndant; ibr he may still be liable for costs and mesne profits.\nError to the Common Pleas of Lancaster county.\nMay 14. \u2014 But one point of any importance was raised in this case. Tn 1840, Miley conveyed the land, for which this ejectment was brought, to the wife of K. Ewing. In 1843, K. Ewing conveyed his life-estate in the property, which had been purchased with his wife\u2019s money, to J. Ewing, -who, in 1844, 24th February, conveyed it to Brown, in trust for the separate use of M. Ewing, the wife of K. Ewing. On the 5th of August, 1843, plaintiff recovered a judgment against K. Ewing, levied on the estate, and became the purchaser in August, 1844. On this title he instituted ejectment against K. Ewing, J. Ewing, and Hamilton, which was returned \u201c served,\u201d in November, 1844. A plea of not guilty was entered by all the defendants.. K. and J. Ewing, in December, 1844, disclaimed all title, having' obtained leave to withdraw their plea, and Hamilton pleaded to issue. Hamilton was the tenant of Brown, the trustee, from April, 1844, previous to which the land was occupied by one who leased from K. Ewing.\nOn the trial of this ejectment, J. C. Ewing was called as a \u25a0witness by defendant, objected to, and admitted by the court. There was a motion for judgment for want of plea by K. and J. Ewing, after the disclaimer. The verdict was for defendant. Judgment for costs up to time of disclaimer was then entered against K. and J. Ewing. Whether J. Ewing was a competent witness was the question.\nEllmaker and Franklin, for plaintiff in error.\n\u2014 Court erred in admitting James 0. Ewing as a witness. Party ought not to be admitted in any case. 2 Tidd\u2019s Pract. 802, 803 ; People v. Bill, 10 Johns. 95; Stein v. Bowman, 13 Peters, 219. In Wakely v. Hart, 6 Binn. 319, defendant under rule to plead, incompetent. Stub v. Leis, 7 Watts, 43, one of several defendants in ejectment, by disclaiming and abandoning premises, does not become competent witness for co-defendant. His liability for mesne profits continues. Bratton v. Mitchell, 5 Watts, 69, court should compel defendant, who disclaims, to plead instanter the general issue. 3 Starkie\u2019s Evid., Defendant in ejectment, who has suffered judgment to go by default, is competent witness for other defendants, p. 1061-1064. 2 Starkie\u2019s Evidence, 767, to the same effect. But these, it will be recollected, are under the English practice in ejectment, which entirely differs from ours. Wolf v. Fincks, 1 Barr, Rep. 435, per Rogers, J., p. 440, rule excluding party does not depend on his interest in event of suit.\nJ. C. Ewing was not in the position of a party against whom no evidence was given. It was shown that he was acting as agent of the trustee of Mrs. Ewing. Nor is it by any means clear that he was disinterested. How can we recover mesne profits from J. C. Ewing on present state of this record ? Judgment is only against him for costs. It is important that the line should be strictly drawn by court on competency of witnesses. Nothing was gained by the plaintiff in making James C. Ewing a defendant. It has frequently been decided that, in actions of tort, where there are several defendants, and' no evidence against one of them, judgment in favour of such defendant will be entered on application, for the purpose of giving the other defendants the benefit of his testimony.\nStevens, for defendant in error.\n\u2014 It has been urged that as James C. Ewing was one of the parties (defendants) on the record, he was not a competent witness. James C. Ewing was not a party to the issue, although a party on the record. Hamilton was the only person residing on the property when the writ was served. And, although the summons was also served upon James C. Ewing and Kirkpatrick Ewing, the other defendants, they entered a disclaimer of all title to the property, a short time after service of the writ upon them, and at the trial the jury were sworn between the plaintiff and John Hamilton, who had pleaded not guilty. The technical ground, therefore, of Ewing\u2019s being a party on the record, was not sufficient to reject him as witness. Wakely v. Hart et al., 6 Binn. 319 ; Stub v. Leis, 7 Watts, 43; Worrall v. James, Baker et al., 7 Bing. 395.\nIf the doctrine contended for should, for the first time, be extended to actions of tort, the plaintiff could easily prevent any one from being a witness against him, by making him a party defendant.\nA purchase by a married woman from her husband, through the medium of trustees, for her separate use and appointment, may be sustained against creditors, if bona fide, though the husband is indebted at the time. Lady Arundell v. Phipps, 10 Ves. 139.\nMay 18."
+  },
+  "file_name": "0453-01",
+  "first_page_order": 453,
+  "last_page_order": 455
+}

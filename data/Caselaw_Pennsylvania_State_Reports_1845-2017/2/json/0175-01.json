@@ -1,0 +1,127 @@
+{
+  "id": 951445,
+  "name": "Southern Loan Co. v. Morris",
+  "name_abbreviation": "Southern Loan Co. v. Morris",
+  "decision_date": "1845-02-06",
+  "docket_number": "",
+  "first_page": "175",
+  "last_page": "177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts & Serg. 184",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0184-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 294",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0294-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 110",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0110-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 151",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/4/0151-01"
+      ]
+    },
+    {
+      "cite": "10 Serg. & Rawle, 94",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1811117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/10/0094-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 387,
+    "char_count": 6047,
+    "ocr_confidence": 0.546,
+    "pagerank": {
+      "raw": 6.677184728618428e-08,
+      "percentile": 0.40631094708610427
+    },
+    "sha256": "d141601d7223bf1f6d4d27a48f25cd0f4d2b2084128c3942852874b45c16c695",
+    "simhash": "1:3d6f4e2770d0a3fe",
+    "word_count": 1009
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Southern Loan Co. v. Morris."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 The object of the act of the 31st March, 1836, obviously was, to establish a company to lend money on pledges, at the legal rale of interest, and thereby save the community from the extortions and frauds of pawnbrokers. With this view, the seventh section of this act makes it lawful for the company to loan money in any sum or sums, from one dollar upwards, on pledges of goods or chattels and other securities, to be deposited with the company as security therefor, and to charge all reasonable expenses incident to the same, at an interest not exceeding six per cent, per annum. Other sections provide for the redemption of the pledges, and for the sale of such as are not redeemed; and the second section declares, they shall not, directly or indirectly, deal or trade in buying or selling any goods, wares, or merchandise whatever, except by receiving and disposing of the same, in the manner referred to.\nThe legislature, also, aware of the tendency of companies erected for other purposes, to pervert the privileges granted to them, by embarking in banking speculations, and issuing their paper for circulation, and witnessing the enormous frauds, abuses, and public mischief that attended these practices, determined to guard against them by express restrictions and prohibitions. Accordingly, in the seventh section, there pre two provisoes. The first declares, that nothing in the act contained shall be construed to authorize the said company to discount notes. The second enacts that this corporation shall issue no notes or Mils of credit, or promissory notes in the nature of bank notes, or exercise any banking privileges whatever. These prohibitions appear on the face of the charier, and constitute fundamental articles. But vain are legislative enactments, if disregarded by those who are intrusted to execute them. These plain directions have been unceremoniously set aside, by the issue of instruments, which, in their ostensible character and effect, are as plain promissory notes as it is possible to make them: being promises, in consideration of money received, for the payment of money, payable to order, at a certain time, and then negotiated and put .in circulation as negotiable notes. There is nothing in either of them that purports to be a certificate of deposit of goods, &c., but they are promises to pay money, in consideration of money received. And even if they were legitimate certificates of deposit, such as the company are authorized by their charter to issue, they would not be negotiable instruments, so as to make the endorser liable on his endorsement. These notes, in their original concoction and transfer* being in open violation of powers and prohibitions contained in the act of Assembly, of which all concerned in these instruments were bound to take notice, we are of opinion that this action cannot be maintained, and that the charge to the jury was correct.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Brewster, for plaintiff.",
+      "Clarkson, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Southern Loan Co. v. Morris.\n1. An endorser is not liable on a promissory note of a corporation which it could not lawfully issue.\n2. Even though the instrument purported to be a certificate of deposit, which it was lawful to issue: for the properties of promissory notes, which are forbidden, cannot be given to lawful instruments.\nError, to the Nisi Prius.\nJan. 26. \u2014 This action was on the endorsement of certain instruments in the following words:\u2014\n\u201c The Philadelphia Loan Company promises to pay R. Morris or order, $1000, three months after date : being a deposit made by him with the Company, bearing interest at the rate of \u2014 per cent, per annum, payable at the office of the Company.\n\u201c T. Moore, Cashier, Geo. S. Sohote, President.\u201d\nEndorsed by defendant.\nAt Nisi Prius, Sergeant, J., ruled, that the notes were not negotiable instruments. That the company had no right to issue such notes, and defendant was not liable as endorser.\nThe charter of the company will be found in Pamph. Law, 1835-6, pp. 275, 479. The clause which was relied on by counsel, as giving the privilege of loaning on securities, was the seventh section, by which it was \u00ab provided, nothing contained in this act shall be construed to authorize said company to discount notes; and provided this corporation shall issue no notes, or bills of credit, or promissory notes, in the nature of bank notes, or exercise any banking privileges whatever.\u201d The sixteenth section authorized \u201c a certificate of deposit to be given to the depositor, stating the rate of interest, and the period for which such a deposit is made.\u201d\nBrewster, for plaintiff.\n\u2014 This is a negotiable instrument; McCormick v. Trotter, 10 Serg. & Rawle, 94. It was lawfully issued: for the sixteenth section authorizes such an instrument, and if it becomes in effect a note, it is the fault of the charter. The seventh section cannot annul the subsequent section. But that section must be confined to what are strictly banking privileges, which are issues on the credit of the institution. The distinction between this case and Patterson v. Poindexter is, that there was but an implied promise, and that, on contingency; there was uncertainty in the amount, from the agreement for interest, and hence it was not commercial; but none of these are in this case.\nBut even if it is void, the endorser is liable as a new drawer.\nClarkson, for defendant.\n\u2014 It is a settled rule, that courts will not entertain a suit, founded on a transaction prohibited by statute. Seidenberger v. Charles, 4 Serg. & Rawle, 151; Mitchell v. Smith, 1 Binn. 110 ; Smith v. Smith, 6 Watts, 294; Ebertson v. Waler, 1 Watts & Serg. 184. This is clearly forbidden by the charter, it being a promissory note, and such as is called a post-note by the banks, well known in the commercial community. Certainly the sixteenth section does not affect this prohibition. What is a certificate? \u2014 an authoritative declaration merely; surely it cannot be, that an authority to give the evidence of receipt of money is to repeal such an important prohibition as that of issuing a currency.\nFeb. 6."
+  },
+  "file_name": "0175-01",
+  "first_page_order": 175,
+  "last_page_order": 177
+}

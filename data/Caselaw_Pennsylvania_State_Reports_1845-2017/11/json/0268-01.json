@@ -1,0 +1,85 @@
+{
+  "id": 404662,
+  "name": "John Moatz v. Platt Knox",
+  "name_abbreviation": "Moatz v. Knox",
+  "decision_date": "1849-07",
+  "docket_number": "",
+  "first_page": "268",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Pa. 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts, 26",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 361",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854641
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0361-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 304,
+    "char_count": 4714,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7486148806358981
+    },
+    "sha256": "1caf52b69dd222b381959d45d3f244f8a33a67fc9e156e22c6ace1381b540609",
+    "simhash": "1:72ea57adc4e278e9",
+    "word_count": 842
+  },
+  "last_updated": "2024-02-27T20:36:37.361247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Moatz v. Platt Knox."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of this court was delivered by\nCoulter, J.\nThis would appear to be a feigned issue, directed by the Court of Common Pleas of Union county, for the purpose of enabling them to distribute moneys in court, produced by the sale of property of Nathan Mitchill on a mortgage to Platt.\nWhether this mortgage and an assignment on it were fraudulent or not, was the question to be tried.\nPerhaps in these feigned issues, it would be best to have the matter or question to be tried distinctly stated in the order of court, rather than adopting the common-law forms,' in no manner of affinity with the question to be settled.\nIn this case the action was thrown into the form of assumpsit, and the plea was payment with leave and notice of special matter.\nThe exception below to part of the evidence was that it was not covered by the notice of special matter. The notice given was, \u201c that the mortgage was in due form of law assigned to defendant for a fair and full consideration by Platt Knox.\u201d\nThe evidence was by Grarret Yan Kuren, that he loaned to Platt Knox, on the 1st February, 1846, as the agent of Louisa Livingston, the sum of $2,600, for which he took a note, signed by Platt Knox and his brother Andrew, as security. That the note was paid to him by A. P. Knox. This was done at his house in the town of Rhinebeck. The sole object of notice is to give the adverse party an opportunity of testing the accuracy of the facts sworn to, by inquiries made at the place and about the time when they transpired. But nothing of that kind was done here. The notice was that the party would prove that the mortgage was legally assigned for a fair and full consideration; all that was in the mortgage and assignment, and the notice of special, matter, gave the opposite party no notice of facts beyond what was formally asserted in the documents.\nBut the proof introduced new elements, new actors, and new scenes.\nIf the plaintiff had known, that Mr. Yan Kuren was alleged to have furnished the money, and that he lived in Rhinebeck, he might have gone to him and made inquiries of himself and other persons in that town. He could have ascertained who Yan Kuren was, and what was his character and ability, &c., &c.\nThe notice of special matter, it has often been said in our books, ought to be as, or more particular than an action on the special case, and there is reason that it should be so; the object mostly is, to establish fraud, or remove the imputation of it; and the main facts, places, &c., ought to be specified, to give the opposite party an opportunity of examination and scrutiny.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Woods and Jordan, for plaintiff in error.",
+      "Casey and Miller, contra."
+    ],
+    "corrections": "",
+    "head_matter": "John Moatz v. Platt Knox.\nNotit\u00ede of special matter should specify the main facts relied on, so as to give the opposite party an opportunity of examination and scrutiny; and if it does not so specify, it is error to admit evidence of those facts under the notice.\nError to the Common Pleas of Union.\nJuly 26. One Nathan Mitchill executed a mortgage to Platt Knox, to secure the payment of $2,626. On the 11th January,-1848, Platt Knox assigned the mortgage to his brother, A. P. Knox. On the 12th January, 1848, foreign attachments at the suit of Moatz & Harper, and of John Moatz, were served upon Mitchill, as garnishee of Platt Knox. A scire facias had been sued out upon the mortgage to December 7, 1847, on which judgment was obtained on 15th February, 1848. The mortgaged premises having been sold upon this proceeding, and the proceeds of sale brought into court, the attaching creditors claimed the money, so made, upon their attachment, and A. P. Knox upon his assignment.\nIn the foreign attachments the court directed issues to try the right of the plaintiffs to this money, the allegation being that the assignment to A. P. Knox was fraudulent; the plaintiffs in such issues, being the plaintiffs in the attachments, to declare for money had and received, and the defendants, being Platt Knox and the garnishees, to plead any plea applicable to the cases, giving the plaintiffs notice of the matter intended to be given in evidence.\nTo the declaration for money had, &c., defendants pleaded payment, with leave, &c., and gave the notice of special matter, contained in the opinion of this court. This notice was followed up by the evidence of Grarret Yan Kuren, which was objected to as not being embraced in the notice, but was admitted under exception.\nThe verdict was for the defendants.\nThe admission of the evidence'of Yan Kuren was assigned for error.\nWoods and Jordan, for plaintiff in error.\nUnder the rule of court this evidence, was not admissible: Hall v. Fenn, 3 W. & S. 361; Beltzhoover v. Blackstock, 3 Watts, 26.\nCasey and Miller, contra."
+  },
+  "file_name": "0268-01",
+  "first_page_order": 268,
+  "last_page_order": 270
+}

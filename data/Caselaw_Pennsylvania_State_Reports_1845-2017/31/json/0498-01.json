@@ -1,0 +1,117 @@
+{
+  "id": 985085,
+  "name": "McCracken versus Clarke",
+  "name_abbreviation": "McCracken v. Clarke",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "498",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 498"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 424",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0424-01"
+      ]
+    },
+    {
+      "cite": "4 Whart. 347",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835026
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/4/0347-01"
+      ]
+    },
+    {
+      "cite": "1 Penn. Rep. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        949868
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/1/0364-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 173",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408411,
+        12139420
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/1/0178-01",
+        "/dall/1/0173-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 474,
+    "char_count": 8793,
+    "ocr_confidence": 0.44,
+    "pagerank": {
+      "raw": 1.2272247509554845e-07,
+      "percentile": 0.6048258025854018
+    },
+    "sha256": "7b98e52d790d463371cfa7fc85aa5d8a8222117f316c7af1273560ba701aaa1f",
+    "simhash": "1:182f25889b40e9cf",
+    "word_count": 1539
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McCracken versus Clarke."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nChurch, J.\nThe only question presented by the record is the validity of the award.\nThe action was ejectment. It had been pending over two years; was at issue, and on the trial list. The parties then by an agreement, entitled in the cause and the court, submit \u201c all matters in variance in this suit,\u201d to referees named; and stipulate that their award shall be \u201c final and conclusive on each party;\u201d and shall \u201cbe filed in'the case and judgment entered thereon by the prothonotary of said court.\u201d\nThe referees made and filed their award in these words: \u201c That the land in dispute be equally divided by a line through the centre, giving each party one-half of the land in dispute; and each party to have their own fences ; and each party to pay their own witnesses; each to pay the one-half of the costs of arbitration, and each oue-half of the expenses incurred in court.\u201d Exceptions were filed by defendant, and the court set aside the award.\nThe language \u201cfinal and conclusive,\u201d used in a submission in a pending cause, is subject to the implied condition that the award be made according to it. Certainty and finality are two essential requisites to constitute a good award: Grier et. al. v. Grier, 1 Dall. 173; Johnson v. Brackbill, 1 Penn. Rep. 364. And if the submission requires or even authorizes judgment to be entered on the award, the latter must be so definite and of such character, that it can be enforced by execution. Referees are restrained when not expressly empowered by the submission from doing what a jury, may not do: Coleman v. Lukens, 4 Whart. 347. No other award comes up to the submission; none is authorized by it. Here there is neither certainty nor finality. It cannot be enforced by execution. True, the land is by the award to be equally divided between the parties, and hence it may be a substantial finding for plaintiff pro tanto.\nThe dividing line is to be through the centre; but where is it to begin, and what direction run ? Which half is for plaintiff, and which for defendant ? Is it to be divided into squares or triangles ? How can the sheriff deliver possession of the land ? How of the fences distinct from the land ? And how is the ownership of the fences to be determined ? The action was to recover the land, and necessarily the fences upon it. The submission was the method adopted to try the right, and determine and define its extent and locality. The award has failed to effect this object. It is not therefore within the submission. And hence, according to the legal principles already stated, the court below committed no error in setting aside this award.\nIt is urged, however, in behalf of plaintiff, that the learned judge of the Common Pleas erred in the reasons given by him for the judgment entered. This does not distinctly appear of record. And if it did so, that could not avail plaintiff. The reasons given by the Common Pleas for its judgments are only arguments. They are never, in cases like this, proper subjects of review here, provided the conclusion or sum total be right. But this record discloses only the naked judgment thus: \u201c The court set aside the award upon the exceptions filed;\u201d while the opinion of the court is expressly limited to the first of the five exceptions; not because the award is set aside upon it, but the learned judge says, because it may be supposed contrary to adjudicated authority; hence he files the opinion merely in explanation of the specified rule of court. The second and fifth exceptions are sufficient to set aside the award.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Church, J."
+      }
+    ],
+    "attorneys": [
+      "McGuffin, for the plaintiff in error,",
+      "Taylor, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "McCracken versus Clarke.\nAn agreement, in the submission of a pending cause to arbitration, that the award shall be \u201cfinal and conclusive/'\u2019 is subject to the implied condition that the award be made according to the submission.\nCertainty and finality are two essential requisites to constitute a good award.\nIf the submission require, or even authorize, judgment to be entered on the award, the latter must be so definite, and of such a character, that it can be enforced by execution.\nReferees are restrained, when not expressly empowered by the submission, from doing what a jury may not do.\nThis court does not revise the reasons given by the Common Pleas for setting aside an award; it is enough, that the court below came to a right conclusion.\nError to the Common Pleas of Lawrence county. \u00ab\nThis was an ejectment by Alexander J. McCracken against George Clarke, Jr., for eight acres of land in North Slippery Rock township, Lawrence county. The parties entered into the following submission, which was filed of record:\u2014\nAndrew J. McCracken'] In the Common Pleas of Lawrence v. )-county, No. 37 Feb\u2019y Term, 1854. George Clarke. j Ejectment.\nAnd now, to wit, 15th of April 1856, we the undersigned parties agree to submit all matters in variance in this suit to the following named men, Henry Jordan, McClain Thorn, Robert Bentley, Archibald McMillen, and John M. Emory, as arbitrators, wffio shall have power to go upon- the ground, examine the matter in dispute, all the deeds and drafts of the plaintiff and of the defendant, with all the papers connected with the case and on file, with the depositions, also the witnesses of each side, and an award, to make and. file in said case; which award is to be final and conclusive on each party. To meet on 11th of September, at 11 o\u2019clock, on the premises in dispute, and to adjourn to any other place they may see fit.\nThe award to be filed in the case, and judgment entered thereon by the Prothonotary of said Court.\nWitness our hands,\nAlex. J. McCracken,\nGeorge Clarke, Jr.\nOn the 12th September 1856, the referees filed the following award:\u2014\nIn pursuance of the above rule of reference, the undersigned, arbitrators, met upon the premises in dispute, on the 11th day of September 1856, and, after having been respectively sworn according to law, we did proceed to hear the parties, their proofs and allegations concerning the matter in dispute, and do report our award, as follows, viz. \u2014 That the land in dispute be equally divided by a line through the centre, giving each party one-half of the land in dispute; and each party to have their own fences; and each party to pay their own witnesses; each to pay the one-half of the costs of arbitration; and each one-half the expenses incurred in court.\nIn witness whereof, we have hereunto set our hands and seals, the day and year above mentioned.\nHenry Jordan, L. S.\nMcClain Thorn, L. S.\nRobert Bentley, L. S.\nL. S. A. McMillen,\nL. S. J. M. Emory.\nTo this award, the following exceptions were filed by the defendant:\u2014\n1. The submission doth not expressly state under which Act the submission is.made, nor that it shall be made a rule of court, agreeably to the 16th rule of court.\n2. That the award of arbitrators is not authorized by the terms of submission.\n8. That said submission doth not authorize the same to be made a rule of court, and that the same was not made a rule of court.\n4. That the provisions of the several Acts' of Assembly, in relation to amicable references, have not been complied with, but have, all and singular, been disregarded.\n5. That by reason of divers irregularities and illegalities, prothonotary cannot enter any judgment according to law, and especially so by reason of the terms, nature and character of the award itself.\nThe following is a copy of the rule of court referred to in the 1st exception:\u2014\n\u201c Rule 16. For the purpose of preventing the difficulty of knowing under what law the parties to a submission are proceeding, owing to the loose manner in which the submission is often drawn up, every submission intended to be made a rule of court, under the second section of the Act of 21st March 1806, or the sixth section of the Act of 16th June 1886, shall expressly state under which Act the submission is made; and that it shall be a rule of this court; otherwise the award shall not be received by the prothonotary, or become a judgment, or be approved; and if improvidently entered, the omission to state either or both requisites, shall be a sufficient ground of exceptions to set the proceedings aside.\u201d\nThe court below (Asnew, P. J.) sustained the exceptions, and set aside the award; and the learned judge filed an opinion, setting, forth why it was that the first exception was sustained, under their rule of court, in apparent opposition to adjudged cases.\nThe plaintiff thereupon sued out this writ, and here assigned for error, that the court below erred in setting aside the award.\nMcGuffin, for the plaintiff in error,\ncited McAdams\u2019 Administrators v. Stilwell, 1 Harris 90; Ford v. Keen, Id. 179; Buckman v. Davis, 4 Casey 211; Gallup v. Reynolds, 8 Watts 424; Miller\u2019s Appeal, 6 Casey 489-90.\nTaylor, for the defendant in error."
+  },
+  "file_name": "0498-01",
+  "first_page_order": 498,
+  "last_page_order": 501
+}

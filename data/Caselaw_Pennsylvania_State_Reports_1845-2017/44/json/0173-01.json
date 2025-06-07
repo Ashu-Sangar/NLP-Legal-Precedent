@@ -1,0 +1,76 @@
+{
+  "id": 484215,
+  "name": "Lovett et al. versus Burkhardt",
+  "name_abbreviation": "Lovett v. Burkhardt",
+  "decision_date": "1863-01-26",
+  "docket_number": "",
+  "first_page": "173",
+  "last_page": "175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts 287",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841224
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0287-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 268,
+    "char_count": 4993,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 1.365076619730204e-07,
+      "percentile": 0.6370950584377699
+    },
+    "sha256": "6cba2dce3ad937028418ea40e92f4bf6eeb83fb1f9b47fd2ceb721660ed84d5c",
+    "simhash": "1:3964cf8eca22408e",
+    "word_count": 881
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lovett et al. versus Burkhardt."
+    ],
+    "opinions": [
+      {
+        "text": "All the material facts of this case, and the. questions discussed on the here, will be found in the opinion of this court, which was delivered, by\nStrong, J.\nThis was an action of replevin, brought to recover a canal-boat. The action was commenced to September Term 1858, the declaration was filed on the 27th of June 1860, and on the 19th of November next following the defendants pleaded non cepit, property, and a special plea, averring that before the suit was brought one of the defendants had brought am action for replevin for the same boat against the plaintiff in this suit, under the writ in which the sheriff had replevied the property. This special plea the court on motion struct off or quashed, and on the trial refused to permit the defendants in this case to give in evidence the record, of the first action of replevin, consisting of the writ and the sheriff\u2019s return. To this action of the court exception was taken, and hence the first three assignments of error.\nThe pendency of a former action between the same parties for the same cause is pleadable only in abatement, for it does not affect the merits of the controversy. The special plea, however, was not in form a plea in abatement, and if it had been it would have been too late. It intended to aver something more than the pendency of a former action for the same cause. The defendants, now plaintiffs in error, contend that by the delivery to the plaintiff in the first action of replevin, the property in the canal-boat became his, even though it was not before, and that the defendant in that action could only look to the plaintiff\u2019s bond given to the sheriff. The position cannot be maintained. Title is sometimes acquired by judgment, but it is certainly a mistake to suppose that it is either acquired or evidenced by mere delivery under a writ of replevin. Had the plaintiff in the first action recovered a judgment against the defendant, his title would have been established. Had judgment been recovered against him, it would have been equally established that the ownership was not in him, and the defendant would have had judgment pro retorno habendo: Easton v. Worthington, 5 S. & R. 132; Huston v. Wilson, 3 Watts 287; Moore v. Shenk, 3 Barr 13. It is true, it has been said in one case, that if a defendant retain the property, and give a property bond, he becomes the owner as against the plaintiff, whatever his title may have been before, but his case is unlike that of a plaintiff to whom the property has been replevied. A verdict against a defendant retaining the goods is for their value, and there is no judgment against him piro retorno habendo. A verdict against the plaintiff to whom the goods have been delivered, cannot be for their value; Hill v. Worthington, supra; and the defendant is entitled to his writ of retorno Jiabendo even when the plaintiff becomes nonsuit. The special plea, therefore, tendered no more than an impertinent issue, and the court was right in refusing to try any such issue, and in striking off the plea as frivolous, without compelling the plaintiff to resort to a demurrer. It is well settled that a plea merely frivolous or impertinent, may be disregarded or stricken off on motion. Nor is it possible that the defendants sustained any injury in consequence of the action of the court. If the delivery of the canal-boat to the plaintiff in the first replevin was evidence of his ownership of the boat, the evidence was admissible under the plea of property, which the defendants in this case interposed, and this without the aid of their special plea. Striking off the special plea, therefore, deprived them of no advantage. But in fact the mere delivery to the plaintiff in a writ of replevin of the goods for which the writ is sued out, as we have said, does not tend to prove that the plaintiff owns them. Consequently the fact of such delivery is not admissible in evidence under any plea in bar in a subsequent replevin. The record of the suit in the District Court was then properly rejected, and without it the plaintiff was clearly entitled to recover, if the evidence before the jury was believed.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lovett et al. versus Burkhardt.\nDelivery of Goods to Plaintiff in Replevin, no proof of Property in him.\\\n1. The mere delivery to the plaintiff in a writ of replevin of the goods for which the writ is sued out, does not tend to prove property in him.\n2. Hence where in an action of replevin brought against two, for a boat, the defendants pleaded specially that one of them had before brought replevin against the same plaintiff for the same boat, and that the sheriff had replevied it, the record of the-first action, consisting of the writ and the sheriff\u2019s return, was not admissible in evidence on the trial of the second; and the special plea of the defendants was properly struck off on motion, by the court below, as tendering an impertinent issue.\nError to the Common Pleas of Schuylkill county.\nJanuary 26th 1863,"
+  },
+  "file_name": "0173-01",
+  "first_page_order": 173,
+  "last_page_order": 175
+}

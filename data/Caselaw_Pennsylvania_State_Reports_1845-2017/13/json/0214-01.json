@@ -1,0 +1,80 @@
+{
+  "id": 964943,
+  "name": "M'Michael and Maish versus Caroline A. Mason",
+  "name_abbreviation": "M'Michael v. Mason",
+  "decision_date": "1850-03",
+  "docket_number": "",
+  "first_page": "214",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Pa. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 W. & S 323",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480162
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0323-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 296,
+    "char_count": 4489,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 1.261210326416186e-07,
+      "percentile": 0.6124934310842061
+    },
+    "sha256": "8068089231089662664aa7c9eb552a43828941ba32e7517879f29a93948d6f5d",
+    "simhash": "1:0f070492c26480c3",
+    "word_count": 795
+  },
+  "last_updated": "2024-02-27T17:48:08.325420+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M\u2019Michael and Maish versus Caroline A. Mason."
+    ],
+    "opinions": [
+      {
+        "text": "Per curiam.\nWe think the evidence was properly rejected.\u2014 The sheriff, being a trespasser from the beginning, could gain no right from his wrong \u2014 not even a right to pay the plaintiffs debt, without request. A sheriff who has legally levied an execution on property bound by a lien, has a right to discharge it, in order to get possession; for his writ gives him every implied power which may be necessary to the execution of it. But, as it gives him no authority to seize the property of a stranger, it gives him no power to disburthen it, express or implied. In this case it was not the duty of the sheriff to meddle with the plaintiff\u2019s property, and it stands as if the levy, which was utterly void, made no part of it. We have, then, the naked case of voluntary payment of a debt out \"of the proceeds of a debtor\u2019s property wrongfully converted; but not at the debtor\u2019s special instance and request. Every one has a right to adjust his own liabilities ; and no one has a right to make another his debtor, by intrusion into his affairs.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per curiam."
+      }
+    ],
+    "attorneys": [
+      "St. Greorge T. Campbell, for plaintiffs in error, contended:",
+      "Raybold, with whom was Gfillou, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "M\u2019Michael and Maish versus Caroline A. Mason.\nA sheriff, (defendant,) who has wrongfullylevied upon and sold the goods of the plaintiff, will not be permitted to give in evidence, in mitigation of damages, that he has voluntarily applied part of the proceeds of the sale to the payment of a debt of the plaintiff; as he had no right to make any appropriation of the funds thus illegally obtained.\nError, to the District Court of the city and county of Philadelphia.\nAction, trespass vi et armis, &c., agaist Morton McMichael, sheriff, and James Maish, for seizing and selling certain bags of coffee, as the property of Robert A. Mason, which belonged to Caroline A. Mason, the plaintiff below.\nOn the trial, May 9th, 1848, the defendants (below) offered in evidence, in mitigation of damages, a bill for the freight of the coffee levied on, paid by the sheriff out of the proceeds of sale, alleging that he was entitled to credit therefor, as the freight was a lien on the coffee when levied on, and he was obliged to pay it.\nPlaintiff\u2019s counsel objected, and insisted that the property was plaintiff\u2019s, and that the defendant had no right to make any appropriation whatever of it; and cited Dallam vs. Fitler, 6 W. & S 323.\nJudge Eindlay, before whom the case was tried, sustained the objection, and rejected the evidence to which defendant\u2019s counsel excepted, and assigned this ruling as error.\nSt. Greorge T. Campbell, for plaintiffs in error, contended:\n1. That this was admissible in mitigation of damages. The freight was a lien \u2014 the plaintiff below had no right to possession without its payment, and the payment was in her relief.\n2. That it cannot be likened to the case of Dallam vs. Fitler, 6 W. & S. 323. There payment of rent was decided not to be evidence in mitigation of damages, because there the act of the party in levying the execution, made the rent a lien under the act of assembly, and he could not avail himself of the consequences of his own wrong. Here,.the freight was a lien before the levy\u2014 not by the act of the party, and the payment or tender of it, was a condition precedent to obtaining possession.\nRaybold, with whom was Gfillou, for defendants in error.\nThe decision of the court below was correct. The case of Dallam vs. Fitler is conclusive on the question, for, to allow the sheriff to constitute himself the proper judge of the amount of freight which might be due \u2014 to decide without consulting the consignee, plaintiff below, that the freight had not been paid in advance \u2014 to take upon himself to pay this claim, perhaps a second time \u2014 to determine that the consignor had not hound himself to pay the freight and been accepted for it without recourse to the consignee \u2014 in short, to allow the sheriff to seize and sell a party\u2019s goods without color of right, (as the jury have settled this sale to have been,) and then to decide what appropriation of the proceeds ought to be deemed beneficial to that party, would be establishing a most dan* gerous tribunal.\nSlightly changing the words, but adhering rigidly to the spirit of Dallam vs. Fitler, in the three concluding lines of that opinion, we submit that \u201c non constat that these goods would ever have been detained by the captain for the freight, and unless they were \u2014unless he chose to enforce his right of detainer until payment of the freight, there tvas no lien, no claim which justified the payment by the defendant below."
+  },
+  "file_name": "0214-01",
+  "first_page_order": 216,
+  "last_page_order": 217
+}

@@ -1,0 +1,79 @@
+{
+  "id": 422158,
+  "name": "In the Matter of the Opening of Wharton Street",
+  "name_abbreviation": "In re the Opening of Wharton Street",
+  "decision_date": "1865-01-30",
+  "docket_number": "",
+  "first_page": "487",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 487"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts 400",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838030
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0400-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 4146,
+    "ocr_confidence": 0.499,
+    "pagerank": {
+      "raw": 1.548389231441151e-07,
+      "percentile": 0.6741989590898929
+    },
+    "sha256": "865988a1ffc136d2eb77e7ec45137fad7b134ca884d19ab4a63db32f6815127d",
+    "simhash": "1:7811ccedf353103f",
+    "word_count": 731
+  },
+  "last_updated": "2024-02-27T22:05:40.639131+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Opening of Wharton Street."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, C. J.\n\u2014 This was a proceeding under the Road Lacv of 1836 (Purdon), to assess the damages claimed by James Magee, by reason of the opening of Wharton street through his land. The first jury awarded no damages, but the court set aside their report, and appointed new viewers, who awarded him $2000. The City excepted to the last report on the ground that the damages were excessive, but the court confirmed the report on condition that the petitioner remit $500, which he did the same day, and the assessment became absolute at $1500.\nThe single error alleged is, that the court had power only to confirm or set aside the report as it was made, and that a conditional confirmation in terms was void.\nIn committing road cases to the Quarter Sessions, which is a court of record, of constitutional origin, and of common law powers, the legislature manifestly intended that a judicial discretion should be exercised in such cases. Accordingly it was held in Buckwalter\u2019s Case, 3 S. & R. 236, and again in Bach-man\u2019s Case, 1 Watts 400, that though a review is matter of right, it; as well as the view, is only intended to inform the conscience of the court, and either report may be adopted at the discretion of the court. All that was decided in the Herr\u2019s Millroad Case, 14 S. & R. 204, was, that the courses and distances returned by the viewers could not be altered by the court, which is a limitation of the discretionaryvpower of the court, but not a denial of the existence of such a power.\nThe case in hand was an assessment of damages. The city appealed to the discretion of the court, and whilst we agree that the court could not, of its own mere will, confirm the report for less money than was awarded, we hold that the court could permit the party to remit part of his damages, and confirm the report for the balance. It was like a motion for a new trial in a suit for damages. The court has no intrinsic power, in such ' cases, to alter the verdict \u2014 their proper duty is to enter judgment upon it, or to set it aside \u2014 but the universal practice is to allow the plaintiff to remit part of his damages, and to take a judgment for the residue. The discretion legally vested in the \u25a0court is properly exercised in this manner. It expedites justice and saves litigation. If a mere registry of the report of viewers had been intended, it would have been made most naturally in the recorder\u2019s office, and no approval of the Quarter Sessions would have been required, but when a court of record was required to approve, a judicial discretion was implied, and a partial remittitur was a legitimate mode of influencing that discretion.\nIt appears, from the record, that the court indicated the condition of approval before the petitioner offered to remit part of his damages, but this is an immaterial circumstance, since the remittitur was made on the same day of the conditional approval, and the final and absolute confirmation followed immediately thereafter. It was, substantially, the reduction of the damages to the legal standard, by the voluntary act of the party entitled to receive them, and then a confirmation by the court, which was according to precedent and law.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "D. W. Sellers and F. C. Brewster, for appellant.",
+      "Arthur W. Burton and Samuel Hood, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of the Opening of Wharton Street.\nPower of Quarter Sessions over award of street viewers. \u2014 Landowner may remit part of his damages, and report he confirmed for balance.\nIn a proceeding under the General Road Law for the assessment of damages f\u00f3r the opening of a street, the Court of Quarter Sessions may permit the landowner in whose favour the viewers have awarded, to remit a part of his damages, and may confirm the report for the balance of the award.\nAppeal from the Quarter Sessions of Philadelphia.\nThis was an appeal by the City of Philadelphia, from the decree of the Court of Quarter Sessions, in the matter of the proceedings to open Wharton street, from Eleventh to Thirteenth street.\nThe whole case will be found in the opinion of this court.\nD. W. Sellers and F. C. Brewster, for appellant.\nArthur W. Burton and Samuel Hood, for appellees.\nJanuary 30th 1865,"
+  },
+  "file_name": "0487-01",
+  "first_page_order": 487,
+  "last_page_order": 488
+}

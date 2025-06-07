@@ -1,0 +1,145 @@
+{
+  "id": 422300,
+  "name": "The City of Philadelphia versus Reeves and Cabot",
+  "name_abbreviation": "City of Philadelphia v. Reeves & Cabot",
+  "decision_date": "1865-01-25",
+  "docket_number": "",
+  "first_page": "472",
+  "last_page": "477",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 472"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 W. & S. 4",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 415",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 51",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842719
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0051-01"
+      ]
+    },
+    {
+      "cite": "21 Pick. 195",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2047993
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/38/0195-01"
+      ]
+    },
+    {
+      "cite": "3 Whart. 411",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 48",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 45",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 193",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846825
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0193-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 138",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788973
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/2/0138-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 646,
+    "char_count": 12438,
+    "ocr_confidence": 0.486,
+    "pagerank": {
+      "raw": 3.7133247007577603e-07,
+      "percentile": 0.8934976517935987
+    },
+    "sha256": "6ad656ea3ee85e70f429db7a545ce690a32407670e4a4b1b2db3b93230742b18",
+    "simhash": "1:fbd589b4ce4d6dc9",
+    "word_count": 2183
+  },
+  "last_updated": "2024-02-27T22:05:40.639131+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The City of Philadelphia versus Reeves and Cabot."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nStrong, J.\n\u2014 That the covenant for the payment of rent, upon which this suit was brought, imposed upon the defendants only an obligation jointly with Port Ihrie, their principal, is too clear for doubt. It is a general presumption of law, when two or more persons undertake an obligation, that they undertake jointly. Words of severance are necessary to overcome this primary presumption. In all written contracts, therefore, whether the liability incurred is joint or several, or joint and several, is to be determined by looking at the words of the instruments, and at them alone. The subject-matter of the contract, and the interests of the parties assuming a liability, have nothing to do with the question. It may be otherwise with respect to the rights of the covenantees, where there are more than one. There are not wanting cases in which it has been held that when the interests of the covenantees are several, they may sue severally, though the terms of the covenant upon which they sue are strictly joint. Even this, however, has been doubted. But, however it may be with the rights of covenantees, it is a settled rule that whether the liability of covenantors is joint, or several, or both, depends exclusively upon the words of the covenant. And the language of severalty or joinder is the test. The covenant is always joint, unless declared to be otherwise: Enys v. Donnithorne, 2 Burrows 1190; Philips v. Bonsall, 2 Binn. 138. It is true, that in the covenant to pa.y rent, contained in the lease to Port Ihrie, the two defendants are described as sureties, but they and the lessee undertook to pay the rent as one party. Their being described as sureties cannot be regarded as a declaration of intent to undertake severally. Nor does the covenant contain any words of several liability for rent. The defendants assumed no other obligation than that they and the lessee would pay. The case is indubitably within the general rule that a covenant by two or more is joint as to them, if not expressly declared several, or joint and several. The plea in abatement was therefore correctly sustained, and the judgment on the demurrer was right.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "David W. Sellers and F. Carroll Brewster, for plaintiff in error,",
+      "E. Spencer Miller, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "The City of Philadelphia versus Reeves and Cabot.\nCovenant by two or more, is joint, unless otherwise declared.\n1. A covenant fry two or more is joint as to them, if not declared to he several, or joint and several.\n2. Therefore, when a lessor and his sureties covenanted to pay rent, the covenant is joint, and an action cannot he maintained against the sureties alone, for rent which accrued under the lease.\nEukok. to the District Court of Philadelphia.\nThis was an action of covenant, by the City of Philadelphia against Samuel J. Reeves and Joseph Cabot, as sureties of Fort Ihrie. After a declaration in the usual form, on a covenant dated May 9th 1859, between the plaintiff and defendants, for the use of a wharf or landing at the foot of Callowhill street, on the river Delaware; the defendants craved oyer of the instrument on which suit was brought.\nThe plaintiffs thereupon placed on record a copy of the following instrument:\u2014\n\u201c Memorandum. The City of Philadelphia demise to Fort Ihrie the wharf or landing at the foot of Callowhill street, on the river Delaware, and the pier and wharf next south thereof, being the same premises heretofore called and known as the Callowhill Street Ferry and Landing, for the term of three years from April 25th 1859, at the annual rent of twenty-three hundred dollars, payable quarterly : the first payment to be made on the 25th day of July 1859; and if the rent shall remain unpaid on any day on which the same ought to be paid, then the lessors may enter on the premises and proceed, by distress and sale of the goods there found, to levy the rent and all costs. The lessee and his sureties, Joseph Cabot and Samuel J. Reeves, covenant with the lessors to pay the rent punctually as above provided for, and the lessee covenants during the term to keep, and at the end thereof peaceably to deliver up the premises, in good order and repair, reasonable wear and tear and damage by accidental fire excepted, and not assign this lease or underlet the premises, or any part thereof.\n\u201c And if the lessee shall in any particular violate any one of his said covenants, then the lessors may cause a notice to be left on the premises of their intention to determine this lease, and at the expiration of ten days from the time of so leaving such notice, this lease shall absolutely determine ; and upon the expiration or other determination of this lease, any attorney may immediately thereafter, as attorney for the lessee, sign an agreement for entering, in any competent court, an amicable action and judgment in ejectment (without any stay of execution) against the lessee, and all persons claiming under him, for the recovering by the lessors of possession of the hereby demised premises, for which this shall be a sufficient warrant; and the lessee hereby releases to the lessors all errors and defects whatsoever in entering such action or judgment, or in any proceeding thereon, or concerning the same. No such determination of this lease, nor taking or recovering possession of the premises, shall deprive the lessors of any action against the lessee or his sureties for the rent, or against the lessee for damages. All rights and liabilities herein given to or imposed upon either of the parties hereto shall extend to the heirs, executors, administrators, successors, and assigns of such party.\n\u201c In witness whereof the lessee and his sureties have hereunto set their hands and seals, and the corporate seal of the lessors has been hereunto affixed by the mayor of the city of Philadelphia, this 9th day of May, A. D. 1859, the said lease having been awarded prior to the election of the said lessee as a member of common council.\n\u201cFort Ihrie. [seal.]\n\u201c(Signed) \u201cSamuel J. Reeves, [seal.]\n\u201cJoseph Cabot. [seal.]\n\u201c Sealed and delivered in\nthe presence of E. B. McDowell.\n[seal.] \u201c Alexander Henry,\n\u201cMayor of Philadelphia.\u201d\nThis instrument being read and heard, the defendants by their attorney prayed judgment of the said writ and declaration,. because the supposed covenant in the said declaration mentioned, if any such were made, was jointly made with Fort Ihrie, who sealed and delivered also the said deed, who is still living, to wit, &c., and not by the said Samuel J. Reeves and Joseph Cabot alone, wherefore, inasmuch as the said Fort Ihrie is not named in the said writ and declaration together with the said Samuel J. Reeves and Joseph Cabot, they, the said Samuel J. Reeves and Joseph Cabot, prayed judgment of the writ and declaration, and tha-t the same may be quashed, &c.\nTo this the plaintiff demurred, and stated the following cause of demurrer, viz., \u201c that the instrument of which there has been oyer, shows on the face thereof that the said defendants are bound as sureties for the said Fort Ihrie, and that by-reason of the subject-matter the said covenant is not jointly with said Fort Ihrie,\u201d &c.\nThe court below entered judgment for the defendants on the demurrer, which was the error assigned.\nDavid W. Sellers and F. Carroll Brewster, for plaintiff in error,\nargued that the instrument sued upon created distinctive liabilities on the part of the makers. The liability of Fort Ihrie is that of the principal, and is primary, the liability of the defendants that of sureties, and is secondary. The words of the writing indicate the distinctiveness of the liability: \u201cNo such determination of this lease * * * shall deprive the lessor of any action against the lessee or his sureties for the rent. * *\u201d It was submitted that the lessor on such a writing, may sue all, or may sever according to the legal effect, and it was denied that he must sue all. See Kinsley v. Shoenberger, 7 Watts 193; Riddle et al v. Stevens, 2 S. & R. 537; Kleckner v. Klapp, 2 W. & S. 45.\nTo oblige a suit against principal and surety, is to enforce a compulsory liability not contemplated by the contract of indemnification. In equity every obligation of suretyship is an undertaking for the performance of the principal, and is introduced solely to secure the fidelity and punctuality of the latter : Law v. East India Company, 4 Vesey 831-2. And in this state, where the ultimate equitable relations of parties are frequently administered by law remedies, no injustice can arise to principal or sureties by severance or joinder, at the option of the plaintiff. This view obtains in Ohio, where, in Bank v. Hoge et al., 6 Hammond 17, the Supreme Court of that state held that joint promissors could show that the real relation of a bond was that of principal and surety, and that although the former was held for the debt, the latter, because of unapproved indulgence to the principal, was discharged, and that these relations could be observed at law without the aid of equity. See also Miller v. Reed, 3 Grant\u2019s Cases 53.\nIn what aspect is it injurious to allow a severance of the remedy as of the liability inter partes ? If surety is sued separately, he can defend on any ground which his principal could, and on grounds which hold his principal and discharge him, and he can do no more if sued jointly. See Clippinger v. Creps, 5 Watts 48, and Moreland v. Homes, 8 Barr 265, in which case, although there was a joint judgment for the protection of the surety, a several execution was allowed. See also Gordon v. McCarty, 3 Whart. 411; Morrison v. Hartman, 1 Harris 55 ; Harris v. Brooks, 21 Pick. 195; Loan Company v. Elliot et al., 3 Harris 224.\nE. Spencer Miller, for defendants in error.\n\u2014 If this suretyship is joint and not several, there can be no doubt that the plea is good. Joint contractors must be sued jointly.\nThere is not a word in the lease from which the argument can he made that it is several.\nIn certain cases it has been held that the words \u201c every of them\u201d and \u201ceach\u201d are \u201cwords of severance;\u201d but in Wood v. Hummell, 4 Watts 51, the court say: \u201cPerhaps an unreasonable effect has been given to trifling words of severance in cases like the present;\u201d and in Greiner\u2019s Estate, 2 Watts 415, in spite of the words \u201cevery of them,\u201d the court held the bond joint only.\nBut whatever conflict between the cases there may be in regard to the words which take the instrument out of the general rule, there is no doubt of the general rule, that a contract made by two is joint, unless special words make it several.\nIn the case of Kinsley v. Shoenberger, cited by plaintiff in error, the instrument w\u2019hich was signed by two was held to be several, because it began, \u201cI do hereby,\u201d &c.\nIn Riddle v. Stevens, 2 S. & R. 537, the plea in abatement came too late. But there the question arose upon a subscription paper, on which each signer put opposite his name what he subscribed, and the court held that that sum was all he was liable for.\nIn Kleckner v. Klapp, 2 W. & S. 4, the court say: \u201c Whether the promise was joint or several has not been argued, and we do not at present decide it.\u201d\nIf this is a joint obligation, the court, to sustain the suit, must decide what they have not yet decided, that they intend hereafter to disregard the common law' rule as to suing jointly on a joint contract, and put an end to all pleas in abatement for nonjoinder.\nIs it contended that in this case a distinct suit might have been brought against each of the two sureties ? No one can examine the cases in this state without remarking that when the court have strained construction, and striven to make a bond several, it has been to work out some equity. What equity is there in endeavouring to make a surety liable, and let the principal go free ? See Hengst\u2019s Appeal, 12 Harris 420; The Loan Co. v. Elliott, 3 Id. 227.\nIt is hard to see how, to permit the obligee to sue each of several joint obligors separately, avoids multiplicity of action. It seems to us that such a course manifestly encourages a number of suits. If Ihrie had been sued with his sureties, and judgment had been recovered against all, and one of the sureties had paid it, the judgment could have been marked to his use as a means of obtaining reimbursement from Ihrie, or contribution from his co-surety: Yard v. Patton, 1 Harris 287. Of this summary remedy the surety is deprived by severing him in the suit. He must resort to a new suit for reimbursement.\nJanuary 25th 1865,"
+  },
+  "file_name": "0472-01",
+  "first_page_order": 472,
+  "last_page_order": 477
+}

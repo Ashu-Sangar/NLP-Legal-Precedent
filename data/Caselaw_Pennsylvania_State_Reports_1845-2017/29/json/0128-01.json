@@ -1,0 +1,66 @@
+{
+  "id": 982936,
+  "name": "Masser versus Bowen",
+  "name_abbreviation": "Masser v. Bowen",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "128",
+  "last_page": "129",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 179,
+    "char_count": 2451,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 6.164829553930357e-07,
+      "percentile": 0.9564963053830552
+    },
+    "sha256": "af7c1bbc5127c447ad18f744d416d637cafa3c65a5c90ec4fa0af7ad3be2977f",
+    "simhash": "1:ea67108c915c0ed1",
+    "word_count": 441
+  },
+  "last_updated": "2023-07-14T17:05:09.789589+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Masser versus Bowen."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nThe plaintiff below having shown that the defendant was indebted to him, we must presume that a payment made to him by the defendant, after such debt accrued, was made on account of the debt. If it was really made on some other account, we must have some evidence of this before we can change the presumption.\nA check by the defendant to the plaintiff\u2019s order, endorsed by him and paid, is evidence that the amount of it was paid to the plaintiff on account of such debt as we know to have existed, and it cannot be excluded because the court may think it belongs to a different transaction. If the plaintiff gives evidence that it was given on another account, the jury must decide how the fact is. We think the check ought to have gone to the jury.\nJudgment reversed and a new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "JDonnel, for plaintiff in error.",
+      "FacTcer and Rockafeller, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Masser versus Bowen.\nA check drawn by one person in favour of another, and paid to the latter, is presumed to have been received on account of a debt shown to have existed at the time.\nThe party alleging that it was not so received, must produce such proof of the account upon which it was made as will change the presumption.\nError to the Common Pleas of NortJmmlerland county.\nJohn Bowen brought an action of assumpsit against Jacob B. Masser. On the trial of this cause the plaintiff gave in evidence various indebtedness by the defendant on note, book account, &c., and closed. The defendant then offered in evidence a check drawn by himself in favour of the plaintiff, endorsed by and paid to him for $150. This was offered as evidence of a payment on the indebtedness to the plaintiff. It was objected to by the plaintiff, rejected by the court, and a bill of exceptions sealed at the instance of defendant\u2019s counsel.\nThere was a verdict for the plaintiff for $310, and judgment entered thereon.\nThe defendant then purchased this writ, and the rejection of the check was the only error assigned.\nJDonnel, for plaintiff in error.\nThe production of a check drawn by defendant to the order of plaintiff, and endorsed by him, is evidence of payment: Chitty on Bills, *369; Egg v. Bardett, 3 Esp. Rep. 196; Aubert v. Walsh, 4 Taunton 293. Cancelled, checks are prima facie evidence of payment of a debt: Fletcher v. Manning, 12 M. & W. 571. The presumption is, it (the check) is given in payment of a debt: Flemming\u2019s Executors v. McClain, 1 Harris 178.\nFacTcer and Rockafeller, for defendant in error."
+  },
+  "file_name": "0128-01",
+  "first_page_order": 128,
+  "last_page_order": 129
+}

@@ -1,0 +1,81 @@
+{
+  "id": 420663,
+  "name": "Werstler et al. versus Custer et al.",
+  "name_abbreviation": "Werstler v. Custer",
+  "decision_date": "1864-04-02",
+  "docket_number": "",
+  "first_page": "502",
+  "last_page": "503",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 Pa. 502"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Johns. 158",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Mass. 594",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 316,
+    "char_count": 4481,
+    "ocr_confidence": 0.421,
+    "pagerank": {
+      "raw": 1.5387560648652436e-07,
+      "percentile": 0.6725007905866327
+    },
+    "sha256": "be3a6615df34c7e1433098cda32577514b6736ed181471dba789be124519b108",
+    "simhash": "1:5ab90a6ba931ff97",
+    "word_count": 782
+  },
+  "last_updated": "2024-02-27T20:44:21.245247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Agnew, J., was at Nisi Prius."
+    ],
+    "parties": [
+      "Werstler et al. versus Custer et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, April 2d 1864, by\nWoodward, J.\nIn an issue of devisavit vel non, the party who seeks to establish the will is bound to take the initiative, but when he has proved the due execution of the paper by the subscribing witnesses, and given it in evidence, he has made out a prim\u00e9 facie case. Upon this evidence the law presumes the sanity of the testator, and the party impeaching the will must go into evidence to repel the presumption, before evidence in support of it becomes necessary.\nBoth reason and authority sanction this rule. The legal pr\u00e9sumption is always in favour of sanity, especially after attestation by subscribing witnesses, for, as was said by Parsons, C. J., in Buckminster v. Perry, 4 Mass. 594, it is the duty of subscribing witnesses to be satisfied of the testator\u2019s sanity before they subscribe the instrument. No honest man will subscribe as a witness to a will, or any other instrument executed by an insane man, an imbecile, an idiot, or a person manifestly incompetent for any reason to perform, with legal effect, the act in question. A duty attaches to the witness to satisfy himself of the competency of the party before he lends his name to attest the act. Like the magistrate who takes acknowledgment of a deed, he is to be reasonably assured of the facts he undertakes to verify, else he makes himself instrumental in a fraud upon the public. And therefore the legal presumption, always favourable to competency, is greatly strengthened by the fact of attestation by witnesses. If authorities are needed for the rule that sanity is to be presumed until the contrary appears, I refer to Swinburne, 3d ed., 45; Lovelass on Wills 15; White v. Wilson, 13 Ves. Jr. 89; Jackson v. Van Dusen, 5 Johns. 158; Grabill v. Barr, 5 Barr 441; Barber v. McFerran, 2 Casey 214.\nThe Act of Congress does not in terms require a stamp to be placed on a will, but if it does by legal construction and effect, it is the duty of the register to do it at the expense of the executor, before he issues it in connection with his letters testamentary. It would be monstrous to require testators, often in articulo mortis, to execute the Stamp Act, under penalty of forfeiting their right to make wills.\nWe consider both objections to the will in question to be groundless,\nAnd therefore the ruling of the court is affirmed.\nAgnew, J., was at Nisi Prius.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Oorson and Mulvany, for plaintiffs in error.",
+      "Smyser and Boyer, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Werstler et al. versus Custer et al.\nSanity of testator presumed.\u2014 Onus of disproving it rests on party assailing the will.\u2014 United States revenue stamp, when to he affixed to will.\n1. In an issue of devisavit vel non, the party alleging the validity of the will is not hound to prove that the testator was of sound mind when he executed it: but upon proof of its due execution by the subscribing witnesses, the law presumes sanity, and the party impeaching the will must go into evidence to repel that presumption, before evidence in support of it is necessary.\n2. A will is not invalid because no United States revenue stamp is placed upon it when executed: if required at all by the Act of Congress, the register should affix the stamp, before he issues it in connection with letters testamentary.\nError to the Common Pleas of Montgomery county.\nThis was an issue to try the validity of a paper purporting to he the last will and testament of Jacob Werstler, deceased, in which Henry Werstler and Nathan Werstler were plaintiffs, and William Ouster and Lydia his wife, George Shirley and Rebecca his wife, Samuel Missimer and Susanna his wife, Jacob Koch and Sarah his wife, and Jacob Werstler and John Werstler were defendants.\nOn the trial the paper was exhibited to the subscribing witnesses, who severally testified, under oath, that they saw the testator sign it, and heard him declare it to be his last will and testament.\nThe will, dated April 11th 1863, was then offered in evidence, to which defendants objected, on the ground that the plaintiffs should first have proved that the testator was of sound mind and memory, and because the instrument was not stamped as required by the Act of Congress.\nThe court below overruled both these objections, and admitted the will in evidence, and instructed the jury, that if they believed the testimony, their verdict should be for the plaintiffs; which was the error assigned, after verdict and judgment in accordance with this instruction.\nOorson and Mulvany, for plaintiffs in error.\nSmyser and Boyer, for defendants in error."
+  },
+  "file_name": "0502-01",
+  "first_page_order": 502,
+  "last_page_order": 503
+}

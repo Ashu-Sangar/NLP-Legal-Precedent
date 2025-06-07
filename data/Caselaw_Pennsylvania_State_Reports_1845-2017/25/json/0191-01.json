@@ -1,0 +1,97 @@
+{
+  "id": 975785,
+  "name": "Gibson's Appeal",
+  "name_abbreviation": "Gibson's Appeal",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "191",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 167",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0167-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 19",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850003
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0019-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 362,
+    "char_count": 6308,
+    "ocr_confidence": 0.411,
+    "pagerank": {
+      "raw": 2.8673351917643943e-07,
+      "percentile": 0.8425413991317641
+    },
+    "sha256": "d57538abac2474b4fa8484b98d28fa84aacd1db85da46edcc9b824d00dda4862",
+    "simhash": "1:62c2c630f54cf00b",
+    "word_count": 1135
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gibson\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, J.\nTestator devised lands to his sons, and as to his daughter Mary, ordered that she should, \u201c in' case of need, be supported in a comfortable manner of the proceeds of my land.\u201d This is a proceeding in the Orphans\u2019 Court, commenced by Mary against the present owner of part of the land, who claims under one of the devisees, to compel him to give her that share of her comfortable maintenance which is chargeable upon the land owned by him.\nWe have no doubt that the land is charged with this burden\u2014 directly charged; and we are equally clear that the Orphans\u2019 Court not only has jurisdiction, but exclusive jurisdiction of the subject. Indeed the answer does not deny that it is a charge. The ground of defence which the respondent has taken on the record is, that the complainant does not need a maintenance out of this land, having other means of support. This was a question of fact, to try which an issue might have been ordered. But none was demanded. The matter was left to the Court, and being determined by the Court, it is as binding on us as if it had been found in the same way by a jury. We may add, however, that the construction given to the will, the adjudication upon the evidence, and the shape of the decree, have our entire approbation.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Black, J."
+      }
+    ],
+    "attorneys": [
+      "J. N. Purviance, for appellant.",
+      "Grraham, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Gibson\u2019s Appeal.\n\"Where a testator devised lands to his sons, and as to his daughter M. ordered, that she should, \u201c in case of need, be supported in a comfortable manner of the proceeds of my land,\u201d it was Held, that the maintenance of M. was a tharge upon the land devised to the sons, and that'the Orphans\u2019 Court had exclusive jurisdiction to fix the amount, and enforce the payment of the sum required for that purpose.\nIf the decision of disputed facts be referred to the determination of the Orphans\u2019 Court, without asking for an issue, to try them, their finding of such facts is as binding on appeal, as the verdict of a jury.\nThis was an appeal by Thomas Gibson from the decree of the Orphans\u2019 Court of Butler county ordering him to pay the sum of $30.78 presently, and the like sum annually, to Mary Denny, towards her maintenance.\nThomas Denny, the father of Mary, died in 1841, having previously made his last will and testament, in which he devised to his sons John and Thomas respectively 74 acres of land, and to his son James 40 acres. And as to his daughter Mary, ordered that she should, \u201c in case of need, be supported in a comfortable manner of the proceeds of my (his) land, so long as she shall live.\u201d The devisees entered upon and took possession of the land severally devised to them, in pursuance of the said devise. The interest of John was sold at sheriff\u2019s sale, and became vested in Thomas Gibson, the appellant, who was in possession of the same.\nIn June, 1854, the petition of Mary Denny was presented to the Orphans\u2019 Court, setting forth the devise and the charge in her favour upon the land, that Gibson was the owner of a part of the land charged with her maintenance, and also alleging her need of the support ordered by her father\u2019s will. And prayed for a decree that respondent pay to her his proportionate share of such sum as the Court might deem proper and reasonable for her comfortable maintenance.\nThe answer of the respondent admitted that the lands devised were charged with the comfortable maintenance of the said Mary during her life only in case of need, and alleged that she was not in such circumstances as to require a resort to this charge upon the land.\nThe case was heard upon depositions of witnesses taken by the complainant and respondent respectively.\nHis Honour the President of the Court, after stating the case, and tho facts presented hy the evidence, delivered the opinion and made the following decree:\u2014\n\u201c From the whole evidence, we are convinced that the petitioner has made out a case of need, not absolute pauperism or want, as Mr. Gibson seemed to think when he refused to acknowledge any liability to Mary, but that need of support in a \u2018comfortable manner\u2019 which the testator contemplated. This being the case, the portion of the land devised to John Denny has become liable in the hands of his assignee, and must be subjected to the burthen of the charge upon it: Craven v. Blakeney, 9 Watts 19.\n\"Thomas Gibson, Esq., the respondent, became the owner of John Denny\u2019s 74 acres, as the assignee of the purchaser at sheriff\u2019s sale. By privity of estate he is therefore personally liable to the payment of the charge upon it. This, we think, is abundantly shown in the following cases: Mohler\u2019s Appeal, 8 Barr 26 ; Shaffer\u2019s Appeal, Ibid. 44; Horner v. Horner, 5 Barr 351; Lobaug's Case, 6 Watts 167.\n\" As the legal title still remains in Gibson, who will be liable to Wilson on his contract to convey, and as the land itself will be liable to the decree also, we conceive no personal liability should be visited upon the latter.\n\u201c According to the evidence, it would require $2 a week, or $104 per annum, to support Mary. This is charged on the testator\u2019s whole land, 250 acres. The proportion which 74 acres gives of this is $30.78, leaving the other portions to bear their own burden.\n\u201c And now, to wit, March 26,1855, the Court order and decree, that Thomas Gibson, the respondent, pay to Mary Denny, the petitioner, until otherwise ordered by the Court, or until his estate in the premises cease, or if his estate in a part cease then in proportion to the remainder, the sum of $30.78 forthwith, with the cost of this proceeding, and a like sum of $30.78 yearly and every year hereafter, during the life of the said Mary Denny; and in default of such payment, that the premises (that is to say, the tract of 74 acres devised to John Denny by his father Thomas Denny, and now owned by the said Thomas Gibson), be sold at public sale at such time and place, on such terms and by such person as the Court shall hereafter on application specially decree, for the payment of the said annual sum and costs.\u201d\nIn this Court the following exceptions were filed:\u2014\n1. The Orphans\u2019 Court has no jurisdiction.\n2. The decree is not in accordance with the spirit and meaning of the testator.\n3. The amount to be paid per annum is more than is justified by the testimony.\nJ. N. Purviance, for appellant.\nGrraham, for appellee."
+  },
+  "file_name": "0191-01",
+  "first_page_order": 191,
+  "last_page_order": 193
+}

@@ -1,0 +1,145 @@
+{
+  "id": 985094,
+  "name": "Rupp et al. versus Orr",
+  "name_abbreviation": "Rupp v. Orr",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "517",
+  "last_page": "519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 517"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall. 424",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408520,
+        1408536,
+        12149457,
+        12149509
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0439-01",
+        "/us/1/0438-01",
+        "/dall/1/0424-01",
+        "/dall/1/0424-02"
+      ]
+    },
+    {
+      "cite": "6 W & S. 97",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0097-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 534",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846061
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0534-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 408",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819380
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0408-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 372",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852663
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0372-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 323",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840089
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0323-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 343,
+    "char_count": 4614,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 7.886412028086541e-08,
+      "percentile": 0.4603065661357091
+    },
+    "sha256": "4b163dc83edd9c0d787476ef68fcc4a253e32fff662474c7b57d4de830822498",
+    "simhash": "1:497d8ba91e705e58",
+    "word_count": 838
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rupp et al. versus Orr."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nEimn if Rupp could not properly be treated as a trustee ex maleficio, for violating his contract to hold the tax title for the benefit of himself and Orr; still, we could not reverse this judgment, because of the court having submitted the question to the jury in that form. Taking the alleged facts as proved, say the court, Rupp must admit Orr\u2019s title; and whether the law so declares because of the contract, or because of fraud in attempting to evade the contract, makes no difference; the result is the same.\nWe do not regard Orr as holding by a parol title. Each party has a written title. If we treat Rupp as alone having the tax-title, then he admits its insufficiency, and gets Orr to perfect it for the common benefit by buying in the supposed better title. After that, he cannot dispute Orr\u2019s title thus obtained and used. If he had merely encouraged Orr to buy it, without giving notice of his own claim, Orr would have taken a good title against him. But this is a stronger case, for Orr\u2019s purchase is made on the faith of a contract with Rupp, that he shall have a good title thereby, and Rupp is plainly estopped from setting up his tax-title against it now.\nThis view of the case is an answer to all the assignments of error. If the parties are truly disposed to deal fairly with each other, and quiet all further litigation, they will immediately settle their accounts of the purchase, and make conveyance to each other of undivided halves of the land.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Phelps and Cowan, for the plaintiffs in error,",
+      "Golden and Fulton, for the defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Rupp et al. versus Orr.\nIf one of two parties, each having a written title to a tract of land, purchase a supposed better title, under an agreement to divide the premises, the other is estopped from denying the right of the one who so purchased, on the faith of their contract, to a moiety of the land.\nIf the court below rightly instruct the jury on the result of the evidence, this court will not reverse, because of a wrong reason being given for arriving at such conclusion.\nError to the Common Pleas of Armstrong county.\nThis was an ejectment by Robert Orr against Francis J. Rupp and others, for the undivided moiety of a tract of 300 acres, in Wayne township.\nThe tract in question was sold as unseated land, and purchased by the county commissioners in 1824. In 1829, the commissioners of Armstrong county sold the tract to Jacob Rupp, the ancestor of the defendants; this purchase was made by Rupp, under an agreement between himself and Robert Orr, the plaintiff, that Rupp should purchase the land; that Orr should get a patent for it; that each of them should pay one-half of the expenses; and that the land should be divided between them.\nThe county commissioners conveyed to Jacob Rupp on the 16th September 1831; and by his will, dated the 2d January 1846, he directed it to be sold, and the proceeds divided among his children.\nOn the 8th February 1836, Orr, the plaintiff, bought the title of the warrantees, and, on the 14th December 1840, procured a patent for the land in question.\nOn the trial, the defendants\u2019 counsel requested the court to charge: 1. That the plaintiff was too late in seeking to enforce his contract, if there was one. 2. That the plaintiff, not having tendered to the defendant a conveyance for a moiety of the land, and one-half of the expenses, he could not recover. 3. That the plaintiff\u2019s case was within the statute of frauds. 4. That this was not such a trust as could be proved by parol.\nThe court below negatived these points, and instructed the jury, that Rupp might be held to his agreement as a trustee, ex maleficio, and that, if the contract was proved, and continued to be recognised by the parties down to the time that Orr took out his patent, the plaintiff would he entitled to recover.\nTo this charge the defendants excepted; and a verdict and judgment having been rendered for the plaintiff for one-half of the tract, the defendants sued out this writ, and here assigned such charge for error.\nPhelps and Cowan, for the plaintiffs in error,\ncited Kisler v. Kisler, 2 Watts 323; Robertson v. Robertson, 9 Id. 32; Haines v. O\u2019Conner, 10 Id. 320; Fox v. Heffner, 1 W. & S. 372; Jackman v. Ringland, 4 Id. 149; Sample v. Coulson, 9 Id. 66; Geiger v. Miller, 12 Harris 109.\nGolden and Fulton, for the defendant in error,\ncited Peebles v. Reading, 8 S. & R. 484; Brown v. Dysinger, 1 Rawle 408; Sheriff v. Neal, 6 Watts 534; Miller v. Pearce, 6 W & S. 97; McKelvey v. Truby, 4 Id. 323; Hultz v. Wright, 16 S. & R. 346; Thompson v. White, 1 Dall. 424; Morey v. Herrick, 6 Harris 123; Church v. Church, 1 Casey 281."
+  },
+  "file_name": "0517-01",
+  "first_page_order": 517,
+  "last_page_order": 519
+}

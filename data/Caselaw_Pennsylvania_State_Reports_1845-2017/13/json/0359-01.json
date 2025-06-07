@@ -1,0 +1,270 @@
+{
+  "id": 964988,
+  "name": "Jackson et al. versus Summerville",
+  "name_abbreviation": "Jackson v. Summerville",
+  "decision_date": "1850-05",
+  "docket_number": "",
+  "first_page": "359",
+  "last_page": "371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Pa. 359"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts 359",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842707
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0359-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 66",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840142
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0066-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 31",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0031-01"
+      ]
+    },
+    {
+      "cite": "4 Howard 504",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "pin_cites": [
+        {
+          "page": "561"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle 396",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 36",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 138",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 R. 171",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 280",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848486
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0280-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 517",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0517-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Rep. 322",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 125",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle 163",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819204
+      ],
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0163-01"
+      ]
+    },
+    {
+      "cite": "12 Peters 198",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 R. 288",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 280",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Ohio Rep. 257",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        589584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/11/0221-01"
+      ]
+    },
+    {
+      "cite": "9 Cranch 143",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Binn. 299",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wheat. 123",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1444848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/15/0123-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 36",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Watts 66",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0066-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 138",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1159,
+    "char_count": 32966,
+    "ocr_confidence": 0.378,
+    "pagerank": {
+      "raw": 4.79906909934146e-07,
+      "percentile": 0.931255644634108
+    },
+    "sha256": "1efd1dab5407359daa63600e734b39d0c9ba88200b7393f12b45c8c2d87fab5e",
+    "simhash": "1:093da4b1533cb8c0",
+    "word_count": 5816
+  },
+  "last_updated": "2024-02-27T17:48:08.325420+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson et al. versus Summerville."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nCoulter, J.\nThe admission of evidence to impeach the deed from Summerville and wife, to Jackson, for fraud, was right. The character of the evidence was not objected to, and was unobjectionable. It is the object or purpose of the testimony which is made the ground of objection, and the test of its admissibility.\nPositive or actual fraud vitiates all contracts into which it enters, and renders them null and void. Differing essentially, in this particular, from contracts which, on account of their evil example, and their opposition to the law and its policy, have legal frauds imputed to them, without presence of actual guilt or covin. These last are merely voidable, and may be affirmed. But those which are void for actual fraud, cannot be affirmed by the party defrauded. Essentially a legal nonenity, even legal proceedings and judgments founded upon them must give way before the claim of the injured victim. In this case, the decree of partition had been made by the court; after which, Jackson, the defendant, purchased the title of Summerville and wife, one of the parties to the partition, and appeared in court, with his deed, and claimed to represent the Summervilles, and, as their representative, elected to take the land at the appraisement, which was awarded to him by the court, and the partition ordered to be firm and stable forever.\nThe children of Summerville and wife seek to recover the portion or purpart of the land their parents conveyed, because the deed from them was procured by actual fraud and deceit. The evidence offered and admitted conduced to prove the most startling and appalling fraud, by which extreme old age and imbecility were overcome by concerted falsehood and contrivance on the part of men of weight and character, in one of whom the deceived parties had unbounded confidence, and by means of which falsehood they were induced to make a deed for their purpart, for less than half its value. The evidence tended to prove, not only a fraud upon the Summervilles, but upon the court; and its admission was only a just vindication of the dignity and purity of the judicial tribunals, and the public justice of the country. If the deed from Summerville had been forged, what just man will say that a decree procured by it ought not to give way to the violated rights of the party defrauded ? And what is the difference, in the eye of elevated morals, between a deed forged, and one procured by falsehood and covin ? In the eye of the law, there is a difference. One is punished as a crime, and in the other, the party is only deprived of his ill-gotten gains. The principle that the judgments and decrees of courts, procured by actual fraud, are null to the extent of the fraud, as against the party defrauded, is as old as the times of Lord Coke, and is familar in our own jurisprudence : Mitchell vs. Kintzer, 5 Barr, 216, and the cases there cited, in the opinion of the court.\nI admit the position which the able counsel for plaintiff in error so earnestly labored to establish; that is, that the judgment of a1 court of competent jurisdiction, upon the point in issue, cannot be overturned in a collateral proceeding; because there must be an end to judicial proceeding; and judgment is the fruit of the law.\nBut there never was a judgment or decree upon the question, whether the deed from Summerville to Jackson was obtained by fraud. That decree was rendered upon the faith of the fact, that the Summervilles were legally and honestly represented by Jackson. But if the deed were fraudulent and void, the title never passed out of the Summervilles, but still resides in their legal representatives. Whilst, therefore, the decree is good as against the interest honestly represented before the court, it is void as against the interests not representeffall; that is, not represented in the eye of the law. As to that interest, the law takes it up now, just where the fraud and covin found it, and wrests it from the spoiler. As to that interest, the decree of the court was, as it were, coram non judice. Where parties have been heard, or due notice has been given, the judgment or decree of a court, upon the point in issue, cannot be overturned, in a collateral proceeding, upon an allegation of mistake or error. That is the law. But where fraud has been used by the party, and enters into the procurement of the decree, the law holds up the mirror of truth, and it fades away.\nThere was no error in admitting the declarations of Garber, in the absence of Jackson. Even in actions of conspiracy, the evidence of the declarations of either party is received after the concert of action and design has been proved; which was fully done; but as Garber was one of the operators, and held an interest in the purchase, the evidence was clearly admissible.\nThe third, fourth, fifth, sixth, seventh and eighth bills of exceptions are of no account. They raise objection to drops of evidence which are the mere drippings of the bucket, such as must fall out in every case, of no intrinsic importance in the case, yet germain to the matter, and which may obliterate some spots on the cause. The defendant has not specified the ground of objection, as he ought to have done, and I perceive none.\nThe first error assigned to the charge of the court below, as to the conclusiveness of the decree of the court, awarding the land to Jackson, has been sufficiently commented upon in answer to the first bill of exceptions to evidence.\nIt is clear that the plaintiffs below were not estopped or hindered from pursuing the land, by the circumstances of old Mrs. Summerville having received payment of the note given by Jackson, in a new note given by Garber. There had been some spark of evidence, that before that time \u2014 at all events, before the payment of Garber\u2019s note to her representatives, the fraud had exploded, and became known to the Summervilles. But the taking the new note, and afterwards receiving the amount, was not such a new contract, for sufficient consideration, as, in the eye of the law, would make a new arrangement, by which the old contract would be virtually re-enacted. It was a mere continuation of the old arrangement, without any additional consideration, substituting her particular friend, Garber, in place of Jackson, not so well known to her. But the reception of the money by the legal representatives of Mrs. Summerville, operated no estoppel, either in equity or law. They had a right to receive that money, and the law so adjudged it, as \u00e1 just punishment for covin and fraud. A fraudulent vendee gains no title to land by the sale, whilst at the same time, the vendor gains a good title to the purchase money. The policy of the law, as a punishment to the fraudulent vendee, gives to the vendor a title to the money, which is not repugnant to, but consistent with his title to the land: Gilbert vs. Hoffman, 2 Watts, 66; Smull vs. Jones, 1 W. & S. 138. But it is sufficient on this head to say, that no lapse of time, nor any act of confirmation by the party defrauded, even with a full knowledge of the facts, can restore and make vital a contract dead on account of actual fraud. A new contract, for additional consideration, may be made; but the old is forever gone. Once a cheat, the thing so remains: Duncan vs. M\u2019Cullough, 4 S. & R. 485; Chamberlain vs. McLurg, 3 W. & S. 36; Coke Littleton, 2146. But the defendant below will be no loser by the dissolution of the contract. He has received out of that, which has forever escaped reclamation by the Summervilles, far more than he ever paid, together with Garber.\nThe instruction of the court to the jury, upon the subject of fraud, was fair, full and according to law. They were strongly impressed and urged by the court to be careful and circumspect. They were told that fraud was not to be presumed, but must be clearly made out to their satisfaction. Fraud, undoubtedly, may be inferred from facts proved, clearly leading to that conclusion. But the fraud here did not rest on inference: there was distinctly proved the suggestio falsi, for the purpose of misleading \u2014 the positive acts of circumvention, &c. But the question of actual fraud was fairly submitted to the jury, and they have found it. It is now above and beyond our reach in that respect.\nThere is no error in the instruction as to the verdict. There was some evidence of a deed having been made, by Jackson, to A. P. Wilson and Dr. Schoenberger, a few days before this suit was commenced; but whether delivered or not does not appear; nor is there any evidence that any of the consideration money was paid. It was therefore entitled to no weight, one way or the other, in the cause. A deed to which nothing but legal fraud is imputed, will not protect a purchaser, without notice, unless the money is actually paid; otherwise, he is a mere volunteer: Bolton vs. Johns, 5 Barr, 145. Much more would the purchaser lack protection, when the fraud was actual and flagrant, unless he had actually paid the purchase money. The whole force of the beneficent principles of equity might easily be frustrated by contrivances, unless the law was so held. On the whole, we see no error in this record.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Miles, for plaintiffs in error.",
+      "S.Blair, for defendants in error.",
+      "Stevens, on the same side."
+    ],
+    "corrections": "",
+    "head_matter": "Jackson et al. versus Summerville.\nActual fraud vitiates all contracts into which it enters, and renders them null and void, and suck cannot be affirmed by the party defrauded. A deed obtained by actual fraud, is void as to tke party defrauded and is incapable of confirmation.\n, Though a judgment of a court of competent jurisdiction cannot be overturned in a collateral proceeding, upon an allegation of mistake or error; yet wkere actual fraud kas been used by a party in procuring a deed, and the deed is used as a means of obtaining a judgment in partition as to the land, part of which was conveyed by tke deed, tke decree is void to tke extent of tke fraud, as to tke party defrauded, though it may be valid, with respect to other interests, not involved in tke fraud.\nWhere two or more persons are parties to a fraudulent act, the declarations of each in relation to it, in the absence of the other, are admissible.\nWkere a vendor or her representatives, after the fraud has become known, receives tke considerationmoneyagreedtobe paid, by afraudulent vendee, but wkere no new contract for additional consideration' has been made, respecting the subject matter of tke contract, it is not suck an act as will virtually re-enact tke fraudulent contract, and estop the heirs or representatives of the party defrauded from disaffirming the contract.\nFraud is not to be presumed, it must be clearly proved; or it may be inferred from facts, clearly proved, leading to that conclusion.\nA deed to which merely legal fraud is imputed,, will not protect a purchaser without notice, unless he has paid his purchase money; so much more would such a purchaser be without protection, where the fraud was actual, and where he has not paid Ms purchase money.\nError to the Common Pleas of Blair county.\nThis was an action of ejectment brought by William Summer-ville, James Summerville and others vs. Thomas Jackson and others, for about 167 acres of land in and around Gaysport, in Blair county.\nPlea not guilty. \u2014 Before jury sworn plaintiffs by written disclaimer filed \u201c disclaim title to any lot or lots in the borough of Gaysport, excepting such as are in the ownership of Thomas Jackson or David R. Porter, or their tenant, M. Criswell.\u201d\nThe plaintiffs claimed as heirs of Ruth Summerville.\nDefendants claimed under a deed from James Summerville and Ruth his wife, to Thomas Jackson, one of the defendants, dated April 13th, 1830, and a judgment or decree in an action of partition, for a reference to which and various facts testified to in the case, see the following portions of the charge of his Honor, Judge Taylor.\nThe plaintiffs counsel were allowed on the trial to prove certain declarations of Garber, made in the absence of Jackson, which admission was excepted to on part of defendants.\nA variety of evidence was given in the case.\nAmongst other matters, it appeared that Jackson conyeyed an undivided third part of the land to Christian Garber, whose executor under the powers vested in him by the will of his testator, sold the interest which Garber had to Wilson and Shoenberger, at a public sale, to whom a deed was made bearing date the 1st day of January, 1848. The heirs of Mrs. Summerville, gave no notice of their claim to the land at this sale.\nHis Honor, Judge Taylor, charged the jury, inter alia.\nWilliam Holliday, in and by his last will and testament, dated 11th July, 1796, and proven 30th September, following, devised one-half of the tract of land on which he lived \u2014 a tract in the name of Thomas Vanbuskirk, and now in possession of the defendants, and in controversy here \u2014 to his daughter Ruth; and the \u25a0other half to his daughter Mary. Ruth was married to James Summerville, both of whom are deceased; and the plaintiffs are shewn to be six of the seven of the heirs, and as such, claim their proportion of her undivided interest in the land.\nThe defendants, in answer to this prima facia case of the plaintiffs, produce a deed of James Summerville, and Ruth his wife, dated 13th April, 1830, to Thomas Jackson, for Ruth\u2019s interest and estate in the land in question. And this, of course, if this were the whole case, would be a complete defence ; as it is a conveyance, by the ancestor of the plaintiffs, of the very estate which they here claim as her heirs. It is also shown, as a further part of the defendants\u2019 case, that Mary Holliday, the sister of Ruth, and to whom the other half of the land on which he lived and died was devised by their father, married Adam Galbraith, and died, leaving six children, her heirs; that, on a judgment against Joseph Galbraith, one of these heirs, his interest and estate in his mother\u2019s undivided half of the land, was sold by the sheriff the 30th day of August, 1830, to Thomas Jackson, and the sheriff\u2019s deed acknowledged, 13th January, 1831; and that, subsequently, in an action of partition in the court of Common Pleas, of Huntingdon county, which had been commenced to No. 16, April Term, 1827, by John M\u2019Cahan, who represented three of the Galbraith heirs, against James Summerville and Ruth his wife, and the other Galbraith heirs, and in which judgment was confessed on the 17th November, 1827, Thomas Jackson, by his attorney, in right of James Summerville and Ruth his wife, and others, appeared in court on the 15th day of January, 1831, and accepted the property, (all the parties, on notice, having refused or failed to appear,) at the valuation; and the whole tract of land was decreed to him, his heirs and assigns, on his paying into court on the first Monday of March following, (and which the record shows he did do) one-half of the appraised value of the land, and one-half of the costs.\nThe possession, therefore, of the defendants, is not merely of\u2019 the undivided interest of Ruth Summerville, but of the entire tract, devised by then\u2019 father, William Holliday, to Ruth and Mary, as tenants in common; and the title under which they seek to protect themselves, does not rest solely upon the deed of Summerville and wife to Jackson, but also, upon the decree of the court in the action of partition ; and a possession under both for nearly seventeen years.\nThe title thus shown would prevail against the plaintiffs in this action, and entitle the defendants to a verdict and judgment, unless it has been successfully impeached and overthrown by the plaintiffs, and they have thus removed the insuperable barrier which it would otherwise interpose to their recovery. And this brings us to the consideration of the real points in controversy.\nIt is alleged on the part of the plaintiffs that the deed of Summerville and wife to Jackson, was obtained by means of actual fraud, and is, and from its date, has been void; that the decree of the court, adjudging the land to Jackson, in the action of partition, was based upon that deed, and is also void, as to the plaintiffs, or so far as interferes with, or affects their rights; and that neither the one or the other is a bar to their recovery in this aetion, as heirs of Ruth Summerville. On the other hand, while the alleged fraud is denied by the defendants, it is contended that the judgment and decree in the action of partition, cannot here, in this action, be inquired into, or set aside; but are conclusive upon the rights of all the parties to that action, and their privies. Now, if the defendants are correct in this position, there is an end to the controversy; for, if the decree is conclusive, it furnishes them an impenetrable shield, and a certain protection.\n1. The first inquiry, therefore is, can the plaintiffs collaterally in this action impeach the decree of the court in the action of partition ? or is it to be taken as conclusive against them ?\nThis is a question of law to be decided by the court. * \u2021 * * 5K * \u2021 \u2021 $\nUpon the most anxious and careful consideration of the subject, we are therefore of opinion that the law is with the plaintiffs; by which, however, we would be understood to say, or we mean nothing more, than that they are not estopped or concluded by the decree, from going into the inquiry proposed.\nAnother point is raised by the defendants which, if ruled in their favor, would be fatal to the plaintiffs\u2019 action; and that is, that the plaintiffs by receiving\u2019 the money which was the original consideration of the deed to Jackson, at the time, in the manner and under the circumstances disclosed in the evidence, are estopped or precluded now from impeaching the conveyance.\nWe state the facts as they appear in the defendants\u2019 evidence. The deed bears date 13th April, 1830, and acknowledges in the usual form, the payment of the consideration money, \u2014 $850. $100 was really paid at the time, and Mr. Jackson\u2019s note taken for the balanc\u00e9. This, as David Summerville testifies, was held until the 19th October, 1837, and on that day exchanged for Mr. Garber\u2019s note. After Mrs. Summerville\u2019s death, her administrator returned this note as a part of the assets belonging to her estate, in the inventory filed 30th March, 1841; and in his administration account, passed 1st January 1846, he charges himself with the money received upon it, taking credit for sundry small, usual disbursements, and for various sums paid to the different heirs. He received the last of the money from Mr. Garber\u2019s executor, the 21st of January, 1847; and proves that he paid to the various heirs of his mother their respective shares of the balance in his hands as her administrator, \u201cas nearly as he could guess.\u201d It is also proven by Lazarus Lowry, that on the 7th or 8th March, 1832, George Elliott said to Mrs. Summerville, \u2014 \u201cMrs. Summer-ville, Dr. M\u2019Clelland, [who it appears was her relative] says you can get clear of that bargain,\u201d referring to the contract with Jackson; to which she replied, \u201c why should I wish to get rid of it \u2014 they gave me all I asked,\u201d &c. It is also shown that after this, on the 18th October, 1839, she drew an order on Mr. Garber for $90, and upon which that sum was paid; and also shewn, by the testimony of Robert Campbell, that in the fall of 1839, he was solicited by James Summerville one of the plaintiffs, on behalf of his mother, to undertake the management of a suit against Thomas Jackson, for the recovery of this land. And these facts, it is argued, in view especially of the time which has elapsed, and the improvements made on the property, work an equitable estoppel, and bar recovery in this action.\nThe ground, however, we answer, on which the plaintiffs rely, and upon which alone they can recover, if they recover at all, is that of actual, positive fraud, \u2014 fraud in deed, and not legal or constructive fraud \u2014 in the procurement of the conveyance. In such case it will not be pretended it was incumbent on the plaintiffs to refund, or tender the original consideration money, before bringing their suit; and if they were not bound to refund or tender, could the retaining and using of it work an estoppel ? The contract for the land was complete, when the deed receipted was executed and delivered. The money due upon the note, first of Jackson and afterwards of Garber, was in our view, as if it had been in the hands of some other person on loan, or had remained unused in Mrs. Summerville\u2019s possession until her death, and afterwards passed, as a part of her estate, to her heirs. Knowledge, on the part of the defendants, if the money had actually come into her hands at the date of the deed, that she retained and used it without complaint until her death, would have afforded them as strong evidence and assurance of acquiescence even, as the knowledge that it remained in their own hands. But, if the contract was of the character alleged, it was not the subject of after confirmation by the mere acquiescence, or by acts merely amounting to the acquiescence of the party; and the money in question was the original, and the receipt and use of it as here shown not a new, or in our view, in any sense except one purely fictitious, operating as a new consideration. And, whatever weight the evidence on this point should have on the minds of the jury, as tending to illustrate the character of the original transaction, we are of opinion that it does not estop the plaintiff, and shut out proof of actual, positive fraud.\n3. The next question, which is one for the jury to determine under the direction of the court, and which now becomes, here, the general turning question in the cause is, \u2014 have the plaintiffs shown such clear and satisfactory evidence of actual fraud, as should render the deed of Summerville and wife, and the decree of the court based upon that deed, void, and entitle the plaintiffs to recover ? The evidence relied upon to make out or establish this fraud, embraces or relates to three particulars; and the jury will be assisted in calling to recollection and considering it, as it relates to the allegations.\n' First. That Jackson and Garber, by fraudulent means, prevented others from becoming purchasers.\nSecond. That they possessed and concealed knowledge in relation to the location or termination of the Pennsylvania canal, and the prospective value of the property from that cause.\nThird. That Jackson, Garber, and Porter, in view of the prospective val\u00fae of the property, combined and confederated together to procure it; and that they induced Summerville and wife to sell and convey to them her interest at less than its real value by the representation that it was subject to a heavy incumbrance, which they, at the same time knew did not exist.\n[The court here referred briefly, upon this point, to the different and conflicting statements and opinions of the witnesses; to the valuation put \u00fapon the whole tract by the inquest in the action of partition, and to the peculiarity in finding that it was so valued \u201c as unincumbered land,\u201d in Connexion with the evidence tending to show that it was within the knowledge of the inquest that about 60 acres of the land was adversely held by William Holliday, and an island of about 7 acres by Peter Hewit \u2014 that there was something said by or before them about a lien or incumbrance, &c.]\nIf, upon a candid and careful examination of the whole evidence bearing upon this point, you should be of opinion that the consideration of the deed to Jackson was less than the fair value at that time of the interest purchased, your next inquiry will be, was this result attained, procured, or brought about, by the misrepresentations alleged ? And this involves a two-fold inquiry: First, were the alleged misrepresentations, as to the lien of Peters\u2019 heirs, actually made by Jackson, or Jackson and Garber, or either of them, (for there is no evidence that Mr. Porter had any part in the making of the bargain) to Summerville and wife when the contract was made, and the deed executed and delivered ? And, secondly, were the vendors or grantors misled and deceived by these inisrepresentations, so alleged to have been made, and thereby induced to part with their title ? If such misrepresentations were made, and Summerville and wife were so misled and deceived, and induced to part with their title for less than its value, it was such fraud as would render the contract and the deed, void. On the other hand, if the alleged misrepresentations were not made, \u2014 or, though made, if they did not mislead, deceive, and injure, \u2014 this conclusion would not follow.\nDid then, Jackson and Garber, or either of them, make the alleged misrepresentations? Did they, or either of them, at the making of the contract, state or represent to the Summerville\u00bb, the vendors, that the property was subject to a lien of $1600 to Peters\u2019 heirs ? and did they, at the same time, know that it was not true, and that no such lien was held or claimed.\nUpon the whole we submit the case to you thus:\nIf you are satisfied from the evidence, that Jackson, or Jackson and Garber, or Jackson, Garber and Porter, who were all interested in the purchase, in order to get the land in view of its prospective value, by procuring the undivided interest of Ruth Summerville, did, by artifice, misrepresentation, falsehood, or any other means, contrary to the plain rules of common honesty, mislead and deceive her and her husband, and induce them to part with her title for less than its value, or for less than they would otherwise have taken, and to their injury, then the plaintiffs have established such a case of actual fraud, as renders void the contract and the deed, and entitles them to recover; and your verdict should be in their favor.\nIf, on the other hand, you are not so satisfied from the evidence, that they were thus misled and deceived by these parties, or some of them, and so induced by them, or some of them, to part with ' her title for an inadequate price, or to her injury \u2014 even though you should believe misrepresentations were made at the time \u2014 the defendants would be entitled to your verdict.\nIf you find for the plaintiffs, your verdict will be for the undivided 6-7 of that portion of the land described in the writ, and in the possession of the defendants, Thomas Jackson and Michael Criswell, or their tenants, or the tenants of either of them, at the commencement of this suit.\nIf you find for the defendants, your verdict will be a general verdict for the defendants.\nOctober, 1849. The jury found for plaintiffs the undivided three-sevenths of the tract of land, embraced in the writ, excepting, &c.\nTo the charge and opinion of the court, the counsel of the defendants accepted.\nOn the part of the plaintiffs in error were assigned the following, with other errors:\n1. The court erred by admitting the evidence stated in the first bill of exceptions.\n2. The court erred by admitting the evidence stated in the second bill of exceptions.\nIn the charge:\n1. The court erred by instructing the jury that the plaintiffs were not concluded by the decree of the court of Common Pleas of Huntingdon county, in the action of partition.\n2. The court erred by instructing the jury that the plaintiffs were not estopped by the acts of acquiescence, and the collection and receipt of the balance of the purchase money, by Ruth Summerville and themselves, after they had full knowledge of the ground on which they have been permitted to recover the land, for which they received the purchase money.\n8. The court erred in their instruction of the jury upon the question of the alleged fraud.\n4. The court erred by instructing the jury to find \u201cthe undivided 6-7ths of that portion of the land described in the writ, and in the possession of the defendants, Thomas Jackson and Michael Criswell, or their tenants, or the tenants of either of them, at the commencement of the suit,\u201d embracing the undivided one-third, sold as Christian Garber\u2019s interest, to A. P. Wilson and Dr. Peter Shoenberger, innocent purchasers, without notice of the alleged fraud.\nThe case was argued by Miles, for plaintiffs in error.\nIt was contended on their part that from the relations of the parties, at the time of the sale by Summerville and wife to Jackson, that no such fraud was made out by the evidence as would invalidate the contract between them, especially after the lapse of eighteen years from the date of the transaction.\nThat the vendor is bound to represent truly the condition of his title, but the vendee is not bound to disclose his knowledge of facts which may increase the value of the property, for the purchase of which he is treating. Where the means of knowledge are equally accessible to both parties, each must judge for himself; 5 Barr 469, 70 ; 2 Wheat. 123 ; Story on Contr. sec. 181; 5 Barr 409. He contended that Garber had disclosed all the knowledge he obtained in relation to the Peters\u2019 claim; and that the evidence did not prove that the vendors were misled.\nHe contended that the effect of the decree, in the action of partition, was to conclude the plaintiffs, in a two fold way.\n1. By working a change in the condition of the property, which was the subject of the decree, so fas as the former relations of the parties were concerned, turning it from land into money, and substituting the valuation money for the land.\n2. By the application of the principle of legal estoppel, by reason of the relation which Buth Summerville sustained to the decree, as well as by the operative effect of the judgment in rem ; 2 Smith\u2019s Lead. Cases 490, 504 ; 30 Law Lib. 105, 440 ; 1 Binn. 299 ; 11 S. & R. 497; 14 S. & R. 186; 9 Cranch 143-4 ; 2 Pet. Dig. 534; 2 U. S. Dig. 230, 232; 11 Ohio Rep. 257; 5 Condensed Rep. 22, 25; Hopkins vs. Lee, 4 Watts 280; 4 R. 288.\nThat the acquiescence of Mrs. Summerville and her children, for so long a period, after a knowledge of the defect, now alleged in Jackson\u2019s title, and of the acts done by them, in collecting and receiving the balance of the purchase money, was to conclude and estop them upon equitable principles; Story upon Contr., sec. 167, 168 ; 9 S. & R. 162-3; 12 Peters 198; 1 Baldwin 337; 1 Rawle 163, 171; 2 Barr 479 ; 7 W. & S. 125 ; 11 S. & R.426, 8: 2 Pa. Rep. 322; 2 Smith\u2019s Lead. Cases 437.\nIf the title under the deed recorded, and the decree, was merely a voidable title, was it not confirmed in Jackson, beyond the reach of the plaintiffs; 3 W. & S. 517 ; 8 Watts 280; 1 R. 171.\n3. What was the effect of the sale and conveyance, by William Dorris, surviving executor of Christian Garber, dec\u2019d., to Gen. A. P. Wilson and Dr. Peter Shoenberger ?\nThey were innocent purchasers, without notice, and upon principles already discussed in illustrating the application of the principle of equitable estoppel to the facts in evidence, they ought to have been protected from a recovery by the plaintiffs. But the court instructed the jury to find for the whole, in case they found for the plaintiffs at all. Jackson\u2019s declarations, that he had bought from Wilson and Shoenberger, were no evidence of the fact. The judgment then ought to be reversed on this last ground, if on no other.\nAs to the bills of exception to evidence.\n1st bill. This depends upon the conelusiveness of the decree of the court, in the action of partition. If the decree was conclusive the evidence ought not to have been admitted.\nS.Blair, for defendants in error.\nConstructive fraud may be confirmed, but actual fraud is not susceptible of confirmation; 1 W. & S. 138; 7 Barr 53; 4 S. & R. 485.\nThe record does not show that Mrs. Summerville knew that Jackson had obtained his title by fraud. When she was told that she could get clear of her contract, she was not told how it could be done.\n- Election obtains only when the rights are inconsistent. Election does not exist when the party is not informed of his rights. There was no new contract, or any new consideration when the money was paid; 8 W. & S. 36; do. 193; 17 S. & R. 16, 25; 3 Rawle 396.\nAs to the time a party has to question and correct a fraud; 4 Howard 504, 561; 9 Barr 14.\nStevens, on the same side.\nA contract actually fraudulent is incapable of confirmation, though a new contract may be made respecting it; 8 W. & S. 31; 4 S. & R. 486.\nThere is no case of actual fraud where a party asking equity, is required to do equity. The party having no title, has no equity to ask ; 2 Watts 66.\nAs to the deeds to Shoenberger and Wilson. \u2014 They refuse to take defence, and there was no proof that they had paid anything; 4 Watts 359.\nAs to the record in partition. \u2014 A record may be good for part, and bad for another part, as in the ease of husband taking at the valuation land in which his wife is interested; 6 S. & R. 267; 8 do. 167.\nThere may be cases where a person is not bound to disclose; but he must not misrepresent.\nThe deed to Patrick Smith was given in evidence to shew the price paid for the lot."
+  },
+  "file_name": "0359-01",
+  "first_page_order": 361,
+  "last_page_order": 373
+}

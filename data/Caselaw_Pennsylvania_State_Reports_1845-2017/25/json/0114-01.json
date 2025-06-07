@@ -1,0 +1,85 @@
+{
+  "id": 975832,
+  "name": "Evans versus Myers",
+  "name_abbreviation": "Evans v. Myers",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "114",
+  "last_page": "116",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle 103",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 402",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842740
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0402-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 433,
+    "char_count": 6725,
+    "ocr_confidence": 0.413,
+    "pagerank": {
+      "raw": 4.3884283761668064e-07,
+      "percentile": 0.9195271616221641
+    },
+    "sha256": "4d317a6d08e3f6d85558d8d50c4e906c84a5dc9db38e1ab40bf5a7f5e60c4d1a",
+    "simhash": "1:3664846705d314bb",
+    "word_count": 1178
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Evans versus Myers."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, C. J.\nThis was an action for the breach of a covenant to deliver 40 tons of pig-metal. If \u201c twenty hundred pounds make a ton,\u201d the defendant had delivered before suit brought, the quantity required by his covenant. But the plaintiff claimed 2268 pounds to the ton, and the Court, on proof of a custom' \u201c among those dealing in metal throughout the iron region up the' Allegheny river, where the contract was'made, and where the metal was to be delivered,\u201d permitted the jury to find that the contract was for the number of pounds claimed by the plaintiff\n\u201cDivers weights and divers measures\u201d were found to be \u201can' abomination\u201d in the days of Solomon: Prov. xx, 10. \u201c One greater to buy and another less to sell\u201d was an evil resulting so naturally from the absence of a statute regulation on the subject, that it was one of the provisions of Magna Charta that there should be but \u201c one weight and one measure throughout the realm of England:\u201d 8 Evans British Statutes 306. The pertinacity with which the statutes on this subject were disregarded in England, produced repeated prohibitions and regulations from the reign of Henry III. to that of George III., with a view to guard the people against defective and uncertain weights and measures. The example of evasion in England is an abomination to us. Like all other evil customs it ought to be abolished. It is \u201cmorehonoured in the breach than in the observance.\u201d Considering the' commercial spirit of the age; it is of great importance to guard against fraudulent practices, and to furnish a standard of weight and measure which shall be uniform throughout the state, and which shall be binding upon all men within our jurisdiction. If every section of the country may have its own weights and measures, to be established by its own customs, strangers woul'd be entrapped into liabilities which they never intended to incur; and no one could know with precision the extent of his obligations.' Such customs would frequently depend upon the' opinions of wit-' nesses and juries drawn from sections of country inhabited chiefly by the parties who had an interest in establishing them in a particular way. Uncertainty would produce constant litigation, and the substance of industrious and enterprising men would be wasted in unprofitable controversies, instead of being employed for the advancement of their own interest and the general welfare of the country.\nThe Act.of 15th April, 1834, expressly directs that \u201ctwenty hundreds make one ton.\u201d The contract in question was made since the enactment of that law, and must be intended to have been agreed to with reference to it. The Act of Assembly entered into the contract and formed an essential part of it. The contract was in writing, and it was the duty of the Court to give it a construction. Acustommay.be abolished by an Act of Assembly, and .it was the purpose of the Act to produce that result in this case. The sound policy which dictated it cannot be doubted. It is a statute which ought to be enforced, and the local customs up the Allegheny river are certainly insufficient to repeal it: Noble v. Darell, et al., 3 T. R. 271; St. Cross v. Howard, 6 T. R. 338; Paull v. Lewis, 4 Watts 402. It was an error to admit the evidence of custom to control the statute, and to permit the jury on such evidence to find the contract to be different from its legal import. It was also an error to sustain the action of the jury by rendering judgment for the plaintiff below on the point reserved.\nJudgment reversed, and judgment for the plaintiff in error non obstante veredicto, with the costs of suit.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "A. B. McCalmont, for plaintiff in error. \u2014",
+      "McCandless, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Evans versus Myers.\nWhere a contract was made for a given number of tons of iron, since the Act of 15th April, 1854, which declares that \u201c 2000 pounds shall make one ton,\u201d the contract must be taken to have been made in reference to it, and it \u25a0was error to admit evidence of a local custom to control the statute.\nError to the District Court of Allegheny county.\nThis was an action on an agreement under seal, in which \u201c Edmund Evans of Clay Furnace, agrees to weigh off and deliver, on the bank of tha Allegheny river at said furnace to the order of Myers & Hunter 40 tons of pig metal, at $20 per ton.\nThe breach alleged was, that the defendant had not delivered the said 40 tons, and had delivered but 344 tons. And defendant then offered to prove by J., \u201cthat the universal custom with dealers in all pig metal is to buy and sell by the gross ton of 2268 pounds, and that defendant has always sold according to that weight and usage.\u201d\nThe defendant objected to the offer, because the agreement and the Act of Assembly ar\u00e9 the legal evidence of the contract between the parties, and cannot be altered, changed, or modified by parol evidence, or by any evidence of usage or custom; and because no evidence could be received which contradicts the Act of Assembly of 1834. The Court overruled the objection, admitted the evidence, reserving the question whether \u201cif the offer should be fully made out by proof it would be sufficient to entitle the plaintiff to recover.\u201d The evidence adduced was, that for 24 years, the custom both at Pittsburgh and up the Allegheny river was universal to give 2268 pounds sand mould metal to the ton. The Court instructed the jury that if they believed the evidence of the custom, and that the contract was made in view of it, they might find for the plaintiff, subject to the question reserved; to which defendant excepted. The Court subsequently entered judgment in favour of the plaintiff on the point reserved, to which defendant excepted.\nThe 17th section of the Act of 15th April, 1834, makes the ton to consist of twenty hundred, Avoirdupois weight.\nThe only question in the case was whether the custom alleged should overrule the provision of the act, where the contract was silent in this respect,\nA. B. McCalmont, for plaintiff in error. \u2014\nThe terms of the contract were to be understood as the statute defined them, and evidence of usage was inadmissible: 3 T. R. 271; Hocken v. Cooke, 4 T. R. 314; 6 T. R. 338.\nIn Pennsylvania contracts are construed with, as little reference to local usages as possible: Gordon v. Little, 8 Ser. & R. 533; Snowden v. Warder, 3 Rawle 103. See also 7 Harris 243, Coxe v. Heishley, and the auhorities cited therein; and Wetherill v. Neilson, 8 Harris 448. These cases show that particular customs cannot be given in evidence to change the common law. And the reason is stronger that such evidence will not be admitted to vary the construction put upon particular terms by statute. These usages have always been regarded as inconvenient: 1 Term Rep. 466.\nMcCandless, for defendant in error."
+  },
+  "file_name": "0114-01",
+  "first_page_order": 114,
+  "last_page_order": 116
+}

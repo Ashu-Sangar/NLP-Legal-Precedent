@@ -1,0 +1,73 @@
+{
+  "id": 960707,
+  "name": "Lackey v. Mercer County",
+  "name_abbreviation": "Lackey v. Mercer County",
+  "decision_date": "1848-10-11",
+  "docket_number": "",
+  "first_page": "318",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 318"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts, 328",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 285,
+    "char_count": 4151,
+    "ocr_confidence": 0.361,
+    "pagerank": {
+      "raw": 2.0031195577798795e-07,
+      "percentile": 0.7432120559924537
+    },
+    "sha256": "5118a97fce92c5384fca78d7c10b45956bb367bae09c7dcd6ba7729bdbca7519",
+    "simhash": "1:9bf434705484a9bc",
+    "word_count": 715
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lackey v. Mercer County."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThis action is brought to recover back, not the purchase-money paid for the tax-title, for the maxim caveat emptor would have barred it, but taxes subsequently assessed on the tract in the plaintiff\u2019s name; assessed, however, in the lifetime and during the ownership of a revolutionary officer, to whom the state had granted it, and consequently paid on a void assessment. A single fact in the cause turns the scale against the plaintiff \u2014 the payment was voluntary. The cases agree that a party who has paid an unfounded demand without constraint, cannot recover it back: it was his folly to part with his money, and he must submit to lose it. But the difficulty is, to say what degree of constraint entitles a party to his action. In Colwell v. Peden, 3 Watts, 328, where the subject was considered on principle and authority, it was. ruled that an action cannot he maintained to recover back money paid under an impending distress not attended with oppression or an abuse of the remedy, but made in good faith for rent erroneously supposed to be in arrear, the tenant\u2019s remedy having been trespass or replevin. That ease goes beyond the present. There the property had been actually seized; here there was neither distress nor any coercive measure whatever. The taxes were assessed and the plaintiff paid them, so far as we can perceive in the record, without objection, when the collector called on him, and without warning to the county that the money would be reclaimed. There could not be a more bald case of voluntary payment. His course was to appeal from the assessor to the county commissioners, and, if they would not exonerate him, stand a distress and sale, for which he would infallibly have recovered by action of trespass. True, he may not have known that the assessment was void; but he knew that the tract was donation land granted to an officer or soldier of the revolution, and exempted from assessment while he survived, and was the owner of it. It was his business, therefore, if it was the business of any one, to ascertain that the original grantee had transferred it, or was dead; for it rested on him to show the matter which made his case an exception from the general rule, and if he did not, he was chargeable with negligence. And the county may retain the money received in consequence of his supineness, with a clear conscience. Without having a taxable estate in the land, he had gained in it a species of property in common with the owner by the improvements put upon it, which the law recognised and protected. In this instance, the officer, who subsequently sold the tract to the plaintiff for $200, recovered it by ejectment, but charged with $1,330 for what are called, in some parts of the state, \"the betterments,\u201d which were prevented from bearing their usual share of the burthen only by the exemption of the officer\u2019s estate, of which they had become a part. The plaintiff\u2019s part of the property, therefore, was exempted for no merit of his own; and as he contributed to the public treasury no more than what was in conscience his proper share, his contribution is irrecoverable. Independent of that, however, a sufficient answer to his action is the fact that he made it without compulsion.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Stephenson, for plaintiff in error.",
+      "Maxwell, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Lackey v. Mercer County.\nA. purchased a donation, tract at a tax-sale, which was void, because the owner whose land was exempted from taxation was living. While he held the title he paid taxes, and afterwards he was ousted by the owner. He cannot recover back the taxes paid by him, for there was no compulsion used.\nIn error from the Common Pleas of Mercer.\nCase stated. In 1822, defendants sold to plaintiff, for taxes, a donation tract, the donee of which, a revolutionary officer, was then living. The plaintiff entered and made improvements, and the land was subsequently recovered by the donee, subject to the value of the improvements. Whilst plaintiff was in possession, taxes were assessed and paid to defendants, and the question was, whether he could recover them back. The court gave judgment for defendants.\nStephenson, for plaintiff in error.\nMaxwell, contr\u00e1.\nOct. 11."
+  },
+  "file_name": "0318-01",
+  "first_page_order": 318,
+  "last_page_order": 319
+}

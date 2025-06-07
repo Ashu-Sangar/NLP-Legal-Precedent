@@ -1,0 +1,133 @@
+{
+  "id": 951175,
+  "name": "Rentzheimer v. Bush",
+  "name_abbreviation": "Rentzheimer v. Bush",
+  "decision_date": "1845-12-26",
+  "docket_number": "",
+  "first_page": "88",
+  "last_page": "89",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts & Serg. 570",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856252
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0570-01"
+      ]
+    },
+    {
+      "cite": "5 Watts & Serg. 103",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478922
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0103-01"
+      ]
+    },
+    {
+      "cite": "2 Whart. 97",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts, 275",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843935
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0275-01"
+      ]
+    },
+    {
+      "cite": "5 Whart. 366",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0366-01"
+      ]
+    },
+    {
+      "cite": "5 Wharton, 369",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wharton, 96",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 248,
+    "char_count": 3436,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 1.7157064749663123e-07,
+      "percentile": 0.703076318349062
+    },
+    "sha256": "6cc253f47bf724278e74a1a0591d80b5a6e70b21674a7bc9d9095045e5995a31",
+    "simhash": "1:8fa5172a2bc5f87c",
+    "word_count": 599
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rentzheimer v. Bush."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\n\u2014 Evidence of set-off cannot be received, unless notice is given of the matter intended to be defalked. This is a rule not peculiar to the county of Northampton, but has been adopted, with some variation, in every judicial district in the state. It is admitted that no notice was given, but it is contended that it is unnecessary, because the same evidence, offered at the trial, was given before the arbitrators, which is, as is said, equivalent to notice. But in Beyer v. Fenstermacher and another, 2 Wharton, 96, it is declared by the court, that notice of set-off and other special matter must be given, although the evidence offered to establish such matter has been given on a former trial before arbitrators. The rule is recognised in Sullivan v. Johns, 5 Wharton, 369, and is made the basis on which the decision is rested. It was there contended, that an affidavit of defence was equivalent to notice, but the court say, this will not justify a court in dispensing with the positive requirements of a rule of court, intended to guard against surprise. That the defendant, having omitted to give notice, the plaintiff had a right to suppose, that all intention of insisting on a set-off had been abandoned. It is better to have no rule, than to depart from it on slight or frivolous pretexts, or to suit the emergence of a particular case. When the interest of the party is in danger of being sacrificed, the court can prevent injustice by withdrawing a juror. And this is a power wisely vested in the court, and, in my opinion, should be liberally, but judiciously, exercised. It is said, that the decision of the Common Pleas is in accordance with the practice in that county, but on the other hand this is denied. It therefore can furnish no rule for us. And even, if the practice be as stated, the sooner it is abolished the belter. It is very desirable that there should be, (as far as practicable,) a uniformity of practice, in the several judicial districts.\nAs this view reverses the case, and the cause must go down for another trial, it woiild be useless to express an opinion on other points, which may not, and in all probability will not, occur again. Indeed, the case is so defectively stated, that there would be danger of doing injustice to the parties, by noticing the several points in detail.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "W. Porter and J. M. Porter, for plaintiff. \u2014",
+      "Reeder, for defendant. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Rentzheimer v. Bush.\nProof of items of set-off, before arbitrators, no waiver of the necessity of special notico under the rules of court.\nError to the Common Pleas of Northampton county.\nDec. 17. \u2014 This was an action of assumpsit. The question was as to the defence; the plea was payment with leave. Plaintiff objected to evidence of set-off, for want of notice under the rule of court requiring it, \u201c where there has been mutual dealings and defendant intends to defalk.\u201d Defendant proved the items of the account were read and taken down by plaintiff before the arbitrators.\nW. Porter and J. M. Porter, for plaintiff. \u2014\nWant of notice. Sullivan v. Johns, 5 Whart. 366; 5 Watts, 275; Beyer v. Fenstermacher, 2 Whart. 97; 5 Watts & Serg. 103; 4 Watts & Serg. 570.\nReeder, for defendant. \u2014\nThe judges must construe their own rules, and it is not error.\nA point was made that the judgment should have been without costs, less having been recovered than arbitrators awarded. [Rogers, J. \u2014 . We would enter the right judgment; not reverse for that.]\nDec. 26."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 88,
+  "last_page_order": 89
+}

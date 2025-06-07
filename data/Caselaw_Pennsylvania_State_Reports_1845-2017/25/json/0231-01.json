@@ -1,0 +1,66 @@
+{
+  "id": 975742,
+  "name": "Gibson versus Cummings",
+  "name_abbreviation": "Gibson v. Cummings",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "231",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 115,
+    "char_count": 1404,
+    "ocr_confidence": 0.401,
+    "pagerank": {
+      "raw": 1.1940366107981016e-07,
+      "percentile": 0.5920287244545918
+    },
+    "sha256": "1fc127c8b29ff42493b597cdbdab414d92a92610428c53a04205f622feebf695",
+    "simhash": "1:a96344a7cb1ce0f9",
+    "word_count": 261
+  },
+  "last_updated": "2023-07-14T18:53:06.435062+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gibson versus Cummings."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J. \u2014\nLast year the plaintiff brought this case up on a writ of error, and the judgment was affirmed, and the record remitted. After that the costs were taxed, and now we have a writ of error to,the taxation. This is claiming a right to two writs of error to the same judgment, or two suits for the same cause of action; and, if this can be, why may we not have another ? A case cannot be thus split up. A party must not sue even in error prematurely, if he, wants his whole case reviewed. He ought to see that the costs are taxed before error brought, if he fears that the taxation may need correction here.\nJudgment affirmed with costs.",
+        "type": "majority",
+        "author": "Lowrie, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Pwing, for plaintiff in error.",
+      "Kaine, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Gibson versus Cummings.\nWhere a party sues out a writ of error, and the judgment is affirmed, and the record is remitted to the Court below, where the costs are taxed, he cannot maintain another writ of error to such taxation.\nA party can have but one writ of error to the same judgment.\nError to the Common Pleas of Fayette county.\nThe plaintiff in error brought an action of assumpsit against the defendant, upon a parol contract, for the sale of a house and lot. The defendant denied the contract, and also set up the statute of frauds and perjuries. Upon the first trial of the cause, the plaintiff, by leave of the Court, filed an additional count,\nPwing, for plaintiff in error.\nKaine, for defendant in error."
+  },
+  "file_name": "0231-01",
+  "first_page_order": 231,
+  "last_page_order": 232
+}

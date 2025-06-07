@@ -1,0 +1,84 @@
+{
+  "id": 408705,
+  "name": "Burton versus Ehrlich",
+  "name_abbreviation": "Burton v. Ehrlich",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "236",
+  "last_page": "237",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Whar. 67",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877346
+      ],
+      "pin_cites": [
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0067-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 239,
+    "char_count": 3175,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 1.831009741148259e-07,
+      "percentile": 0.7207402825415691
+    },
+    "sha256": "f9a0b310749dc8cf835f970771ba86c27e3706d4908bfa6daebd71e1ed18b22d",
+    "simhash": "1:0b56ab5f1dc081fd",
+    "word_count": 588
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Burton versus Ehrlich."
+    ],
+    "opinions": [
+      {
+        "text": "Per curiam.\nThis case is not within the letter of the act of 1814, but it is within its spirit. The plaintiff in error might have had the juror\u2019s name struck from the panel upon motion; but he chose to let it remain and take his chance of the verdict, and that was a waiver of objection.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per curiam."
+      }
+    ],
+    "attorneys": [
+      "The ease was argued by Gruillou, for plaintiff in error.",
+      "Pemak, with whom was K. M. Phillips, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Burton versus Ehrlich.\nWhen a person is called as a juror whose name is not in the venire, and a party suffers him to remain on the jury without objection, and takes his chance of a verdict, it is a waiver of the objection.\nError to the District Court, Philadelphia.\nThis was a suit by Ehrlich against Burton. The venire for September term was issued to the sheriff, and he returned 48 names of jurors, drawn from the wheel, stating as to each whether he was summoned or not found. Among these names is\n\u201cNo. 39\u2014Fred. Piper, Currier, 28 New Market St. N. E. I.\u201d\nAt the trial, a person not on the venire, named Charles Piper, was empannelled on the jury, and a verdict was rendered for plaintiff for $300. On the second day after the trial, the defendant made affidavit that he was in New York before and at the time of the trial, and unable to attend it: that the fact that Charles Piper having been upon the jury was wholly unknown to him until after the rendering of the verdict: that jurors duly summoned were in attendance, and that no tales had been prayed.\nThe printed jury list furnished to counsel, under the rule of court, contained the name of Prederick Piper.\nThis substitution of Charles Piper for Frederick Piper, who had been returned N. E. I., was assigned in the court below as a r\u00e9ason in arrest of judgment, and also a rdason for new trial. The new trial was refused; the motion in arrest of judgment dismissed; and judgment for plaintiff ordered on the verdict.\nThe same was assigned for error.\nThe ease was argued by Gruillou, for plaintiff in error.\nHe cited 1 Karris 200; 2 Pa. Pep. 417, and several sections of the act of 14th April, 1834, relative to jurors.\nPemak, with whom was K. M. Phillips, for defendant.\nIf there was a mistake, it was cured by the verdict, and is within the provisions of the act of 21st February, 1814, Purdon 259, which provides that, \u201cNo verdict hereafter given in any court, civil or criminal, in this commonwealth, shall be set aside, nor shall any judgment in any court be arrested or reversed, nor sentence stayed, for any defect or error in the precept issued for any court, or in the venire issued for summoning and returning of jurors, or for any defect or error in drawing, summoning, or returning any juror or panel of jurors, but a trial or an agreement to try on the merits, or pleading guilty, or the general issue in any case, shall be a waiver of all errors and defects in or relative and appertaining to the said precept, venire, drawing, summoning, and returning of jurors.\u201d This act has been held to apply to criminal cases, as well as civil: Dyott v. Commonwealth, 5 Whar. 67, 78. But is it certain that the fact is as stated by the plaintiff in error, and may not the mistake as well be in the registry of the name as at the time of trial ? A clerical error of no importance, and clearly amendable."
+  },
+  "file_name": "0236-01",
+  "first_page_order": 236,
+  "last_page_order": 237
+}

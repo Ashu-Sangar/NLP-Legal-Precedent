@@ -1,0 +1,144 @@
+{
+  "id": 996260,
+  "name": "Keen versus Coleman",
+  "name_abbreviation": "Keen v. Coleman",
+  "decision_date": "1861-05-06",
+  "docket_number": "",
+  "first_page": "299",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 Pa. 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Grant 114",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        225910
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/1/0114-01"
+      ]
+    },
+    {
+      "cite": "5 Barb. 364",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778824
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/5/0364-01"
+      ]
+    },
+    {
+      "cite": "3 Hill 215",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "case_ids": [
+        2510667
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/21/0215-01"
+      ]
+    },
+    {
+      "cite": "8 Wend. 480",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147334
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0480-01"
+      ]
+    },
+    {
+      "cite": "7 C. B. 999",
+      "category": "reporters:specialty",
+      "reporter": "C.B.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 9",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846135
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/6/0009-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 351",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822490
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/3/0351-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 437,
+    "char_count": 8168,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 7.226577257459836e-07,
+      "percentile": 0.967789241766605
+    },
+    "sha256": "f2fea30c33b6c86db89d125277db6337b0862fb7632fda1fbb12ce6358594103",
+    "simhash": "1:fa624fec4f1308da",
+    "word_count": 1450
+  },
+  "last_updated": "2024-02-27T22:43:51.432409+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keen versus Coleman."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Lowrie, C. J.\nThe defendant was a married woman when she gave this judgment-bond, and the court below decided that it is not made good by the fact that she represented herself to be single at the time she gave it, and thereby obtained the consideration for which it was given.\nShe may be liable to an action for the deceit practised by her; but she had no legal power to execute this bond, and by it she can not be legally bound. As in the case of infancy, it is not a question of privilege, but of legal incapacity to contract, that stands in the way of the plaintiff\u2019s recovery on this bond. The wrong done can not make the contract good by way of estoppel, and the wrong itself will not always furnish a cause of action: 12 S. & R. 403; 11 Id. 305; 3 Rawle 351; 6 Watts 9. In England, the court refuses to set aside such' a judgment as this in a summary way, where the woman had represented herself as single, though it is conceded that it would be set aside on writ of error: Clancy on Married Women 81. The mode pursued here is a substitute for a writ of error, or audita querela. We do not see how there can be an estoppel involved in the very act to which the incapacity relates, that can take away that incapacity. If a legal incapacity can be removed by a fraudulent representation of capacity, then the legal incapacity would have only a moral bond or force, which is absurd.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "by Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Wm. L. Hirst, H. 0. Brewster, and Lucas Hirst, for plaintiff in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Keen versus Coleman.\nIncapacity of Married Woman. \u2014 Power of, to Remove it by her own Acts. \u2014 .Liability of for Misrepresentation.\n1. A married woman has no legal power to execute a judgment-bond: nor is it made good by the fact that she represented, at the time she gave the judgment, that she was single, thereby obtaining the consideration for which it was given : nor is she estopped by her representations from setting up her coverture, in defence against recovery upon the bond.\n2. Legal incapacity cannot be removed by fraudulent representations, nor can there be an estoppel involved in the act to which the incapacity relates, that can take away that incapacity. '\nError to the District Court of Philadelphia.\nMary Ann Coleman is a resident of Philadelphia, and has been living there as a widow for several years. A few days prior to the 5th of February 1858, the plaintiff, holding promissory notes to the amount of $2300 against George Moore, who was at that time solvent, threatened to bring an action against him on said notes, when Mary Ann Coleman, representing herself as a widow lady, induced the plaintiff to take her bond and mortgage for the sum of $2100 for said notes. The plaintiff agreed to the proposition, and directed his attorney, Lucas Hirst, Esq., to prepare the bond, warrant of attorney, and mortgage, placing the notes in his hands to be delivered on the execution of the papers. On the 5th of February 1858, Mary Ann Coleman called at the office of the plaintiff\u2019s attorney, and said she was prepared to execute the papers for said notes. Before defendant executed said papers, plaintiff\u2019s counsel said to her: \u201c Are you a widow lady ? for if you are not, you cannot execute these papers.\u201d To which she replied: \u201clama, widow lady; and my name is Mary Ann Coleman.\u201d Upon this representation made by her, plaintiff accepted the said bond and mortgage, executed by Mary Ann Coleman as a widow, and delivered to her said promissory notes to the amount of $2300. She then went before an alderman, and acknowledged the mortgage and bond as Mary Ann Coleman, widow, and delivered the same to plaintiff\u2019s counsel for plaintiff. On the 28th of January 1860, she applied for a rule to strike off the judgment, on the ground that she was a married Avoman, which the court refused, but directed an issue to try whether she was a married woman or not, at the time of the execution of said bond, in which issue James S. Keen was named as plaintiff, and Mary Ann Coleman as defendant.\nOn the trial, the defendant\u2019s counsel having offered to prove, by the Rev. Anthony Attwood, the marriage of defendant on the 1st day of .February 1858, five days before the execution of the bond. The plaintiff\u2019s counsel objected, and submitted the following point: \u2014 The defendant, having executed the said bond under false rej>resentation that she was still a widow, this fraud altered the whole case; she was estopped thereby, and was bound by said bond.\nThe court below refused so to charge, but instructed the jury as folloAvs:\u2014\n\u201c A married woman cannot bind herself by her bond, nor can she make it binding by calling herself a widow; and this will be so even when the declaration that her husband is dead, or that she is unmarried, is made fraudulently, with the design of misleading the plaintiff, whom it actually deceives, and who would not have entered into the contract but for the deceit. For although a married woman is answerable for a fraud practised to induce another to contract with her, yet the proper remedy is an action of tort for the fraud, and not of debt or assumpsit on the contract. If, therefore, you believe that the defendant was married when she signed the bond, on which point the evidence of the clergyman is exceedingly strong, you ought to find in her favour.\u201d\nUnder these instructions, there was a verdict and judgment for defendant, whereupon the plaintiff sued out this writ, averring here, 1. That the learned judge who tried the cause, erred in the following ruling: \u201c The defendant\u2019s attorney called the Rev. Anthony Attwood as a witness on her behalf, and offered to prove the marriage of the defendant on the 1st day of February 1858, five days before the execution of the bond; whereupon the plaintiff\u2019s counsel then and there objected to the admission of said testimony, because the defendant having executed the said bond o.n a false representation that she was still a Avidow, that this fraud altered the whole case, and that she was estopped thereby, and was bound by said bond,\u201d but the learned judge overruled said objections, and admitted the said testimony .\nMay 6th 1861,\n2. The learned judge erred in the following charge: \u2014 \u201c A married woman cannot bind herself by her bond, nor can she make it binding by calling herself a widow; and this will be so even when the declaration that her husband is dead, or that she is unmarried, is made fraudulently, with the design of misleading a plaintiff, whom it actually deceives, and who would not have entered into the contract but for the deceit.\u201d\n3. The learned judge erred in the following charge: \u2014 \u201c If, therefore, you believe that the defendant was married when she 'signed the bond, on which point the evidence of the clergyman is exceedingly strong, you ought to find in her favour.\u201d\nWm. L. Hirst, H. 0. Brewster, and Lucas Hirst, for plaintiff in error,\nargued that, as this was the first case of its character that had come up for adjudication, it must be decided on general principles, and as the rulings have been in the English courts. That, under these decisions, a married woman is answerable for her torts as if she were sole; and that force and fraud have always been classed together, because, in both cases, the consent of the injured party to the wrongful act is wanting: Bac. Abr., \u201c Baron and Feme,\u201d G.; 2 Kent\u2019s Com. 149. That in actions against husband and wife, for the false representation of the wife, it was for the jury to say whether her statement was false and fraudulent: Wild v. Harris, 7 C. B. 999. A distinction must be taken between a bare false affirmation and a false affirmation where a fact is joined with it. Here a direct fraud was perpetrated, and a large amount of property obtained by it, under circumstances which rendered it impossible for plaintiff to detect. For such a fraud she is personally responsible: Thorwald v. Hayfrist, Dickens\u2019s Rep. 410; Vaughn v. Vanderstigen, Eng. Leg. Int., April 27th 1860.\nTo an action on this bond, she cannot set up her fraud as a defence, but is estopped in law and equity: 8 Wend. 480; 3 Hill 215; 5 Barb. 364; Cranch v. Sutton, 1 Grant 114; Pendleton v. Ritchie, 8 Casey 58. See also 1 Harris 380; 10 Barr 531; 5 Carr. & Payne 484."
+  },
+  "file_name": "0299-01",
+  "first_page_order": 299,
+  "last_page_order": 302
+}

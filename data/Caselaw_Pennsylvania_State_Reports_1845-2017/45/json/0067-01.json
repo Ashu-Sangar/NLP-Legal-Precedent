@@ -1,0 +1,108 @@
+{
+  "id": 9502224,
+  "name": "Tutton versus Addams",
+  "name_abbreviation": "Tutton v. Addams",
+  "decision_date": "1863-05-06",
+  "docket_number": "",
+  "first_page": "67",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 Pa. 67"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall. 339",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408480,
+        12146516
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/1/0355-01",
+        "/dall/1/0339-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 317",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/3/0317-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 340",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12146585,
+        1408586
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dall/1/0340-01",
+        "/us/1/0357-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 544,
+    "char_count": 10934,
+    "ocr_confidence": 0.456,
+    "pagerank": {
+      "raw": 9.840784967856807e-08,
+      "percentile": 0.5338247519449976
+    },
+    "sha256": "285ffb24b9cffa98aafcad5914904d8a873b0d41856711081890acfb9aebe0c1",
+    "simhash": "1:9f6bd62d7e078cbb",
+    "word_count": 1901
+  },
+  "last_updated": "2024-02-27T21:46:48.873207+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "STRONG, J., did not sit, having been of counsel in the cause."
+    ],
+    "parties": [
+      "Tutton versus Addams."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby\nWoodward, J.\nThe action was account render. After pleading in bar, the defendant, now plaintiff in error, withdrew his pleas, and confessed judgment quod computet; whereupon the court appointed an auditor to take the account, but refused, on motion, to instruct the auditor to examine the defendant as a witness on his own behalf. This is the first error assigned.\nThe statute 4 Anne, c. 16, \u00a7 27, which is in force in Pennsylvania, gave what the common law has denied, an action of account render against the executors and administrators of guardians, bailiff's, and receivers, and also to joint tenants and tenants in common, \u201cas bailiffs,\u201d their executors and administrators, and it empowered auditors in actions of account between any of these parties to administer oaths to the parties, and to examine them touching the matters in question.\nNeither partners nor receivers are mentioned in the statute. Tutton was sued as a \u201ccopartner\u201d and \u201creceiver.\u201d Partners are indeed joint tenants, without the jus accrescendi, which is the great characteristic of joint tenancy, but they seldom stand in the relation of bailiffs to each other. These parties certainly did not. The law makes a distinction between bailiffs and receivers both as to compensation and as to the extent of their liability: 1 Bac. Abr. 48; Irvine v. Hamlin, 10 S. & R. 221; but this distinction does not apply to partners: James v. Browne, 1 Dall. 340. The reason is, I take it, not because they are both bailiffs and receivers, but because they are neither bailiffs nor receivers to each other. As copartners, they were entitled to their action of account render at common law: Griffith v. Willing, 3 Binn. 317; Irvine v. Hamlin, 10 S. & R. 221. They needed no assistance in this regard from the statute of Anne, and hence we infer they were not intended to be included. If not .included for purposes of action, certainly not for purposes of evidence. The parties entitled, under the statute, to be examined in their own cases, are the parties to whom the statute gives the right of action. But it conferred no right to account render upon partners, because they possessed it before. These partners, therefore, are not made witnesses for themselves by the statute. This conclusion derives strength from the 18th section of our Act of Assembly of 13th October 1840, Purd. 28, which provides that after judgment quod computet, the court may either impannel a jury to settle the accounts of the parties, or \u201c appoint auditors, and proceed according to the usages and practice of the common law.\u201d It is not pretended that at common law, parties in an action of account render were any more competent to testify for themselves at any stage of the proceedings than they were in any other action.\nIf these reasons be not sufficient to justify the court in refusing to apply the statute to this case, then it must be observed that the statute is only directory, not mandatory. It empowers, but does not command auditors to receive the testimony of parties. With us, auditors are said to be the mere clerks of the court, and have no power to decide any matter of fact or law: 2 T. & H. Pr. 155 in note. As a rule to the court, then, the statute is not imperative, and we will presume they exercised discreetly the freedom of judgment it left them.\nThe next error relates to the effect of the decree in equity. Addams had filed a bill in equity, which was dismissed on the 22d May 1857, at his costs, three months after institution of this suit, and the defendant insisted that that decree was a bar to this suit. He should have thought of this before he confessed judgment quod computet, and have pleaded the equity suit in bar of this action, or at least have stood upon such pleas as he had placed on the record, and given the equity suit in evidence under them. After voluntarily confessing judgment, it was too late for him to avail himself of this defence for any purpose.\nNor can he object that the auditor included in the account matters which arose subsequently to the institution of this ac-t\u00edon; for in 2 Burr. 1086, Lord Mansfield referred to it as an old rule, that in account after judgment of quod eomputet, \u201c all articles of account, though incurred since the writ, shall be included, and the whole brought down to the time when the auditors make an end of their account.\u201d See also Newbold v. Sims, 2 S. & R. 321, where Chief Justice Tilghman quoted with approbation the remarks of Chief Justice McKean, in James v. Browne, 1 Dall. 339, that when parties come before auditors, the account should be taken according to the truth of the matter. The ruling in Sweigert v. Lowmarter, 14 S. & R. 202, does not touch the question before us, because it was not upon the action of the auditors, but upon the trial of issues before a jury. The issues, as certified by the auditors in that ease, were unintelligible, and therefore the court governed themselves by the pleadings on the record, as they stood before the judgment of quod com-putet, and would not suffer the plaintiff to amend his narr. after that judgment, so as to bring in a cause of action prior to that originally declared upon. Accepting that case for all it decides, it would be greatly misapplied if permitted to rule this one.\nThe errors assigned for striking off exceptions, and for not referring the case back to the auditor, were not pressed in the argument, and do not merit discussion.\nThe judgment is affirmed.\nSTRONG, J., did not sit, having been of counsel in the cause.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "F. P. Bewees and F. W. Hughes, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Tutton versus Addams.\nAccount render. \u2014 Party incompetent as witness. \u2014 Dismissal of Mil in equity filed by plaintiffs no bar to action after quod computet. \u2014 Account of auditor, what to be included in.\n1. In account render after judgment of quod computet confessed by the defendant, lie is not a competent witness in his own behalf before the auditor appointed to ascertain the amount due and make report.\n2. Where a bill filed by plaintiff had been dismissed at his costs, before the institution of the action of account, the defendant cannot, after his confession of judgment therein, set up the decree in equity as a bar to the action.\n3. It is the duty of the auditor to include all matters of account between the parties arising subsequently to the institution of the action, down to the time of filing his report.\nERROR to the Common Pleas of Schuylkill county.\nThis was an action of account render by Isaac Addams against Alexander P. Tutton, in which judgment quod computet was entered by consent, and William L. Whitney, Esq., appointed auditor to ascertain the amount due, and make report accordingly.\nBefore the auditor, the defendant was offered as a witness, and his competency being objected to by the plaintiff, the auditor asked instructions from the court, who decided that he was incompetent as a witness in his own behalf.\nThe parties, by articles of agreement dated April 10th 1855, had entered into partnership for the purpose of manufacturing lumber, upon a tract of land in Union township, Schuylkill county, belonging to Addams, which was to continue five years. On the 19th of April 1856, Addams filed a bill of equity in the Court of Common Pleas of Schuylkill county, of No. 3, June Term 1856, against Tutton, in which he complained of neglect and mismanagement, alleged misconduct and incompetency on the part of Tutton, and prayed that an account be taken, a receiver appointed, and a decree of dissolution of copartnership be made by the court; an answer and a replication were filed, depositions were taken, and after argument the 22d of May 1857, the bill was dismissed at the costs of the complainant.\nOn the 16th February 1857, the present action of account render was brought, in which, on the 14th November 1860, judgment was entered as above stated. It was contended before the auditor, on behalf of the defendant, that the institution of the proceedings in equity above mentioned, and the dismissal of the complainant\u2019s bill upon its merits, was a bar to the action of account render, or if not a complete bar, then that only matters arising subsequent to the dismissal of the bill in equity could be taken into account in the present action; and further, that no matters arising subsequent to the institution of the action of account render could be taken into account by the auditor.\nThe plaintiff insisted that such a plea could not be urged before the auditor, after the entry of the judgment of quod computet by confession, and after an issue of law at the request of the defendant was certified by the auditor to the court, who overruled the objections of the defendant, and decided the issue in favour of the plaintiff, and to which no exception was taken by defendant. The whole partnership transactions were inquired into by the auditor, and no exception was taken to the testimony offered and admitted by him. On the 22d of March 1862, the auditor\u2019s report was filed, in which a balance against the defendant was found of $1931.10. This report was confirmed on the same day by the court, and judgment was entered accordingly, without prejudice, however, to the right of the defendant to file exceptions, provided he had such right at the time of the entry of the judgment. On the 25th March 1862, exceptions were filed by the defendant to the report of the auditor. On the 5th of April, 3d of November, and 15th of November 1862, additional exceptions were filed, those of the last two dates being subject to a rule taken by plaintiff on October 20th 1862, to show cause why the exceptions of defendant should not be stricken off for reasons appearing on the face of the record. On the 13th of November 1862, a rule was granted, on behalf of defendant, to show cause why the report and account of the auditor should not be remitted to the auditor, for the purpose of correcting errors committed by him in taking into consideration the evidence of claims subsequent to the 16th of February 1857, and other matters not within the period specified in the declaration of the plaintiff. On the 29th of November 1862, the rule taken by the plaintiff was made absolute, and that taken by defendant was discharged.\nThe following specifications of error were filed for the defendant below, who was plaintiff in error:\u2014\n1. The court erred in deciding that the defendant was not a competent witness before the auditor.\n2. The court erred in overruling the objections of the defendant, and deciding the issue of law, certified by the auditor, in favour of the plaintiff.\n3. The court erred in striking off the exceptions to the report of the auditor, filed by defendant.\n4. The court erred in refusing to remit the report and account to the auditor, for the purpose of correcting the errors apparent therein.\nFranklin B. Qowen and Benjamin W. Gumming, for plaintiff in error.\nF. P. Bewees and F. W. Hughes, for defendant.\nMay 6th 1863,"
+  },
+  "file_name": "0067-01",
+  "first_page_order": 67,
+  "last_page_order": 71
+}

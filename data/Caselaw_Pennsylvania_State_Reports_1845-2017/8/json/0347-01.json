@@ -1,0 +1,85 @@
+{
+  "id": 959525,
+  "name": "Neff v. Miller",
+  "name_abbreviation": "Neff v. Miller",
+  "decision_date": "1848-05",
+  "docket_number": "",
+  "first_page": "347",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 W. & S. 327",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/8/0327-01"
+      ]
+    },
+    {
+      "cite": "5 W. 229",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 524,
+    "char_count": 12673,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 3.5731580927943873e-07,
+      "percentile": 0.886385654144315
+    },
+    "sha256": "1dfd113d949ff2900dc8bf12e9432abd8f639ad88c10db9802ffe2a00d0b5c82",
+    "simhash": "1:cd83b5c4c6a2f5e9",
+    "word_count": 2282
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neff v. Miller."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\n(after stating the case as given above.) \u2014 Under this state of facts, the question is, whether the owners of Jane Smith\u2019s judgment are entitled to be subrogated as they claim to be. This question is not affected by the fact that, they were defendants in the judgment, for it is part of the ease that they were merely sureties, to whom equity accords all the securities and means of payment within the power of the creditor.\nIt will be perceived that this is not the ordinary case of a lien creditor, with power of recourse to two funds belonging to his debtor, in satisfaction of his lien, and another lien creditor of the same debtor, having only one of these funds to which he can resort for the payment of his debt. In such a case, a chancellor will, of course, interfere by compelling the first creditor to look to the fund against which the other has no remedy, or, if the first creditor has already satisfied his debt from the fund to which the second creditor can alone apply, equity will substitute the latter to the place of the former, so as to permit him to avail himself of the unappropriated fund.\nBut the peculiarity of the question before us is, that one creditor, having a joint and several encumbrance against the estates of two distinct debtors, claimed and received the amount of that encumbrance from the separate estate of one of the debtors, and thus defeated the claim of a lien creditor of the latter. It is then the case of two funds belonging to different debtors, and not an instance of a double fund belonging to a common debtor. Under such circumstances, a court of equity will not, in general, 'compel the joint creditor to resort to one of his debtors for payment, so as to leave the estate of the other debtor for the payment of his separate and several d\u00e9bt, for, as between the two debtors, this might be inequitable; and the equity subsisting between them ought not to be sacrificed merely to promote the interest of the separate creditor. Nor will chancery, for the same reason, substitute the several to the place of the joint creditor, who has compelled payment from the estate of the debtor of the former. But where the joint debt ought to be paid by one of the debtors, a court of equity will so marshal the securities as. to compel the joint creditors to have recourse to that debtor, so as to leave the estate of the other open to the claims of his individual creditors; or, if the joint creditor has already appropriated the latter fund, it will permit the several creditor to come in pro tanto, by way of subrogation upon the fund which ought to have paid the joint debt: 1 Story Eq. sec. 642-3; Per Ld. Eldon, Ex parte Kendall, 17 Ves. 520; Sterling v. Brightbill, 5 W. 229. Thus, if A. have a judgment which is a lien on the lands of B. and C., and D. own a younger judgment which is a lien on the land of C. only, and the joint judgment be levied on and paid out of the estate of C., to the exclusion of the younger judgment, D. will not be subrogated to the rights of A., to enable him to obtain from the estate of B. payment of his several judgment; for B. was not the debtor of D., and for aught that appears, .0. may be indebted to B. to the full amount of A.\u2019s judgment. But if B. and O. were partners, and gave the first judgment on the partnership account; and on a settlement of accounts between them, it appeared that B. was indebted to C. to the amount of the joint judgment, the judgment creditor of C. would be substituted as against the estate of B., pro tanto: Dorr v. Shaw, 4 Johns. C. Rep. 17. It would be the same if the judgment was recovered by A. for B.\u2019s proper debt, C. being merely surety; for in both these cases, B. ought to have paid the judgment, and C.\u2019s estate being taken for it, to the exclusion of C.\u2019s judgment creditors, he ought, on equitable principles, to be permitted to receive, out of B.\u2019s estate, so much as he had lost by the application of C.\u2019s estate to the payment of B.\u2019s proper debt. Nor can the subsequent judgment creditors of B. complain of this. They acquired their securities with a full knowledge of, and subordinate to the prior joint judgment, and have no legal or equitable right to demand that a mere surety shall discharge it for their benefit.\nThe principles that have been brought to view are of easy application in this instance, and, indeed, the illustration which has been offered exactly embraces the case. Here is a surety, whose money has been applied in payment of the debt of his principal, to the exclusion of his own proper creditors. That he would be entitled to come in, by -way of substitution, upon the estate of the principal, is every-day equity; and I think it equally clear, that his creditor, who has suffered by the appropriation of a fund which otherwise would have been available for the discharge of his claim, may well ask to stand upon this equity, to the extent of the deprivation to which he has been subjected.\nThese equitable principles are recognised in Ebenhardt\u2019s Appeal, 8 W. & S. 327; and I know but of one case which at first blush would seem to militate against this doctrine. It is the Harrisburg Bank v. Garman, in this court: 3 Barr, 300. But this was decided upon the particular fact, that the debtor had assigned his right of substitution to a judgment creditor other than him who claimed to be subrogated. This feature does not exist in the present case, and it is therefore not necessary, critically, to examine how far such a fact ought to be permitted to over-ride the equity of the creditor, or to call in question that determination.\nDid the case stop here, the Messrs. Neff would be entitled to be Subrogated to the original rights of the holders of the Gwin judgment to the amount which would have been properly applicable in payment of Smith\u2019s judgment, had not Gwin\u2019s judgment interfered. But Miller claims that Isaac Neff is indebted to him in a certain amount, which, being deducted from the amount of Gwin\u2019s judgment, leaves due to Neff but the sum of $1648.84. If so, this limits to that amount, at furthest, the equitable right of John and Jacob Neff, as the holders of the Smith judgment, for, as we have seen, this equity is only co-extensive with the sum in which Miller stands indebted to Isaac Neff in transactions and proceedings which have had place between them. If, at the time of the appropriation of Neff\u2019s estate to the payment of Gwin\u2019s judgment, Neff was indebted to Miller in the full amount, there would be nothing upon which the right of subrogation could attach. So the operation of this right is curtailed in proportion as Neff stands indebted to Miller, for it is only beyond this he has suffered injury by the neglect of Miller to satisfy the joint judgment, and the separate creditor has no further equity.\nIt is further alleged- that John Neff has received of the estate of Isaac Neff, through a certain Jane Henry, to whom Isaac conveyed a tract of land, and as the purchaser at sheriff\u2019s sale of this tract sold under Mrs. Smith\u2019s judgment, a sufficient amount of money to pay and satisfy the judgment, but which he has misapplied. If so, he ought not to be subrogated to the original rights of the owner of Gwin\u2019s judgment, for, as already shown, this equity rests in a loss sustained, without default in him who asks to be subrogated. When he has the means of payment in his own hands, and refuses or neglects to make the due application of it, he cannot be suffered to come in on the other estate by way of subrogation, for this would be to defeat either the equitable right of the defendant\u2019s surety, the proceeds of whose property have gone to pay the elder judgment, or his subsequent lien creditors, whose equities spring successively in action as prior equities are satisfied. If, however, there be none such, and the misappropriation be made with the assent of the defendant\u2019s surety, it will not stand in tie way of subrogation, unless, indeed, the parties intended a fraud upon the rights of the general creditors of the defendant\u2019s surety, by defeating their efforts to obtain a legal hold upon the debt due from the principal in the elder judgment to his co-defendant\u2019s surety, who has paid the encumbrance.\nUpon this point of the case, we can do nothing more than to indicate these general principles for the future guidance of the controversy, as the record does not furnish us sufficient information to enable us to decide it understandingly. But as the cause will be remitted to the Common Pleas for further proceedings, an opportunity will be offered for a full investigation of this branch of it. It is proper to say, that all persons having an interest in the dispute, including the judgment creditors of Miller, ought to be brought in, byway of notice, for they are entitled to be heard if they desire it. It will be observed, we have not sought to adjudicate the question made as to the service of the several attachments issued against Isaac Neff. As the attaching creditors are not before us, to do so would be improper.\nThe order of the court, discharging the rule to show cause why John and Jacob Neff should not be subrogated to the rights of Patrick Gwin\u2019s executors to the use of Rosanna Wilcox, in the judgment recovered against David Miller, Stephen Miller, and Isaac Neff, in the Common Pleas of Huntingdon county, to August 9th, 1839, No. 168, is reversed; and it is ordered that the record be remitted to the said Court of Common Pleas for further proceedings.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "\u2022 Miles, for appellant.",
+      "McAllister and Orbison, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Neff v. Miller.\n\"Where the proceeds of a sheriff\u2019s sale of the land of a surety have been applied to the payment of the judgment against the principal, the judgment creditors of the surety have an equity to be subrogated as against the principal to the debt thus created and to the lien of the first judgment, and have priority of claim in the order of their respective judgments to the extent that they were deprived of the proceeds of the surety\u2019s lands by reason of the prior judgment due by the principal.\nSuch equity is limited to the balance of the general accounts when stated between the principal and surety.\nAnd it will be destroyed by a receipt of money belonging to the surety which might have been applied to the satisfaction of their lien. The liens oh the surety\u2019s lands at the time of the sale to pay the principal\u2019s debt, being satisfied, the debt due by the principal to the surety is a common debt, and subsequent judgment creditors have no right of subrogation.\nFrom the Common Pleas of Huntingdon county.\nThis was an application by John and Jaeob Neff, to be subrogated to a judgment recovered by Gwin against Miller.\nThe facts were these: In 1839, Gwin obtained a judgment against David Miller and Isaac Neff, the latter being a surety for Miller. In 1848, Isaac Neff\u2019s land was sold by the sheriff. Jane Smith at that time held a judgment against'Isaac Neff \u2014 \u2019John and Jacob Neff \u2014 the two latter being sureties for Isaac.\nThey resisted the claim of Gwin to the proceeds of Isaac Neff\u2019s land, on the ground that he ivas but a surety, and there ivas land of Miller out of which satisfaction could be had. But the court decreed against them? and accordingly Gwin\u2019s judgment was paid; and, in consequence of that, the judgment of Jane Smith was not reached by the fund. Jane Smith having been paid the amount of her judgment, assigned it to John and Jacob Neff; and they j claimed to be subrogated as against Miller to the rights of Gwin\u2019s judgment \u2014 to the extent that that judgment had excluded Jane Smith from the proceeds of Isaac Neff\u2019s land.\nMiller admitted the claim on him by Isaac Neff on these transactions, but claimed to deduct a debt due from Neff to him on another account.\nThe claim to be subrogated was resisted by subsequent judgment creditors of Isaac Neff, Avho had attached the debt thus due by Miller to Neff, on the day that the sheriff\u2019s sale of Neff\u2019s property was made, out of which Miller\u2019s debt had been paid.\nIt was further alleged that John and Jacob Neff had received out of certain land sold by Isaac Neff to one Henry, and which had been sold by the sheriff, sufficient to indemnify them from all liability to Jane Smith; in other Avords, that theyAvere not entitled to use that judgment as against Isaac Neff. The facts as to this point could not be exactly ascertained from the record: the court below being of opinion that Jane Smith, and those claiming under her judgment against Neff, had no equity as against Miller, superior to the other judgment creditors of Neff, and that their attachments bound the fund. On this ground the rule for subrogation was discharged.\n\u2022 Miles, for appellant.\nMcAllister and Orbison, contra."
+  },
+  "file_name": "0347-01",
+  "first_page_order": 347,
+  "last_page_order": 352
+}

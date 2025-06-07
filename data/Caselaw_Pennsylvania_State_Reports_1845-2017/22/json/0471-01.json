@@ -1,0 +1,91 @@
+{
+  "id": 413710,
+  "name": "Agnew versus Johnson",
+  "name_abbreviation": "Agnew v. Johnson",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "471",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Pa. 471"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Johnson 128",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Hen. & Mun. 432",
+      "category": "reporters:state",
+      "reporter": "Hen. & M.",
+      "case_ids": [
+        6727185
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/14/0939-03"
+      ]
+    },
+    {
+      "cite": "2 Jones 232",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 543,
+    "char_count": 13424,
+    "ocr_confidence": 0.446,
+    "pagerank": {
+      "raw": 1.730770237544562e-07,
+      "percentile": 0.7053552156901811
+    },
+    "sha256": "b826c9721cd44b68b52d4d84f553b07b91069d42619d874966449d2fee567add",
+    "simhash": "1:0d334eb90c3cf3d8",
+    "word_count": 2366
+  },
+  "last_updated": "2024-02-27T20:47:09.354529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Agnew versus Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered hy\nWoodward, J.\nAll the material questions in this case were decided when it was here before. That Johnson was not a purchaser of the stereotype plates for value and without notice\u2014that his title could not rise higher than the rights of Sorin & Ball\u2014and that as against them the plaintiff had, under the several articles of agreement, an interest as part owner unconditionally, and the right to the remaining interest in the plates on performing the conditions specified in the agreements, were points very expressly ruled in the opinion of Mr. Justice Lewis. It would seem to follow necessarily from these principles that the plaintiff had the same right to recover the plates or their value from the defendant, Johnson, as he would have had from Sorin & Ball; yet the Court below held, that Agnew, though he had performed his conditions, could recover for only half of the plates. The error consisted in supposing that Sorin & Ball had any transferable interest in the plates. Though they had paid half their cost, and were entitled to the possession of the plates for the purpose of publishing the pictorial histories mentioned in the contracts, they had not the jus disponendi as against Agnew. And this,'not because they had pledged their moiety to Agnew as security for arrears of copyright money, but because they held them as tenants in common with him for the sole purpose of publishing works, the copyright of which was in another. The agreement of 19th February, 1842, established the relation of author and publisher between Goodrich and Agnew, and Sorin & Ball came in under the subsequent agreements to share with Agnew the benefits and advantages of the original contract, and of course all their rights were subservient to it. By that, the copyright in the books was retained by Goodrich, and the plates were prepared in view of that fact. They could be used only under the contracts. Their whole value, beyond the mere price of the metal, consisted in their connection with the copyright, and this connection was established by the contracts in evidence. Sorin & Ball had no vendible interest in the plates; their rights were limited to a use of them for the purposes set out in the contracts. When, therefore, they undertook to transfer them to Johnson, whether by way of sale or pledge, they so misused the joint property, and so incapacitated themselves for applying it to the purpose for which it was designed, and in connection with which it had acquired its value, that A.gnew might on tender of his notes recover its value. An event had then happened which rendered them \u201c unable to carry on their part of their engagement;\u201d and as in case of the death of either of them or of a dissolution of their firm, Agnew had, according to the agreements, \u201cthe right to claim the plates and take the same as his own property\u201d upon refunding their money with ten per cent, by satisfactory notes at sixty and ninety days and four months, for equal portions thereof. If the tender of the notes were proved to the satisfaction of the jury, they should have been instructed that the plaintiff was entitled to recover the full value of the plates with interest.\nAs to notice. If Johnson stood as a purchaser for value, instead of a mere pledgee, the general rule that a purchaser of personal property takes no better title than his vendor, would apply to him, for this property was not within any of the exceptions to that rule which were very well stated by Mr. Justice Bell in McMahon v. Sloan, 2 Jones 232.\nBut a party having only such a qualified property in goods as Sorin & Ball had in these stereotype plates, cannot pledge them any more than a factor can pledge the goods of his principal for his own debt, and that this may not be done is established by a train of d\u00e9cisions: Patterson v. Tash, 2 Strange 1178; D\u2019Aubigny v. Duval, 5 D. & E. 604; Skinner v. Dodge, 4 Hen. & Mun. 432; Kennedy v. Strong, 14 Johnson 128; Van Amrige v. Peabody et al., 1 Mason 440; Lousatt v. Lippencot, 6 Ser. & R. 386. The pledge in such cases is wholly void, and the property is not divested from the owner, because it is made in violation of the conditions on which he has the possession, the very ground on which this transfer was void. Mere possession of personal property which is not used for purposes of trade, though indicative of title is not title, and the person to whom the possession is transferred must take the hazard of a demand by the proper owner.\nIt is not necessary to advert to the evidence of notice, or to pass upon its conelusiveriess, because we think the defendant acquired no rights whatever by the transfer from Sorin & Ball.\nThere was no error in the instruction as to the measure of damages.\nThese observations dispose of all the assignments of error except the first, and we find no bill of exceptions to sustain that.\nThe judgment is reversed and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Miller and Jones, for plaintiff in error.",
+      "Waln, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Agnew versus Johnson.\n1. Mere possession of personal property which is not used for purposes of trade, though indicative of title is not title; and the person to whom the possession is transferred must take the hazard of a demand by the proper owner.\n2. A party, under an agreement with the author, having the exclusive right to publish certain books, the copyright to which was in the author, and which books he was to have stereotyped, sold to others the one-half of his interest, the latter to pay one-half of the cost of the plates, and to publish at their own expense; with the further provision that the latter should not have the right to dispose of their interest in the looks without the consent of their vendor; and in case of the death of either of the vendees or on their dissolution, the former was to have the right to claim the plates upon giving satisfactory notes for the amount paid by the purchasers, with interest.\nIt was Held, that the first owner, on tendering satisfactory notes, had the same right to recover the plates from one to whom the first purchaser had pledged them for advances as he would have had against his own vendees.\n3. The parties who paid for half of the plates under their contract, had not the right of disposing of them as against their vendor, because they had but a qualified property in them, holding them as tenants in common with him for the mere purpose of publication in subservience to the original contract with the author of the books.\n4. Having by the pledge to a stranger to the said contract incapacitated themselves from applying the plates to the purposes to which they were designed, the first seller had the right, on tendering proper notes, to recover the value of the plates in an action of trover against him who had them in pledge, whether the latter had or had not notice of the terms on which the plates were held.\n5. There being no special count or averment in the declaration as to loss sustained by the plaintiff in consequence of the interruption of his business, or for the cost and trouble of obtaining new plates, damages were not recoverable therefor; the measure of damages was the value- of the property converted, with interest from the time of the conversion.\nError to the District Court, Philadelphia.\nThis was an action of trover by Samuel Agnew v. Lawrence Johnson, for the conversion of four sets of stereotype plates of Goodrich\u2019s Pictorial Histories of the United States, England, France, and Greece. The plea was non cul.\nThe case was tried before, and was reviewed in this Court. See report in 5 Harris 373, &c.\nThe case was, briefly, as follows:\u2014\nAgnew, by an agreement with Goodrich, dated February 19, 1842, purchased the exclusive right of publishing the histories above mentioned, which Goodrich was to prepare. Agnew was to have them stereotyped, and pay to Goodrich a per centage on the sales. Agnew afterwards entered into an agreement, dated July 23, 1844, with Sorin & Ball, booksellers, by which he'sold them one-half of his interest in the stereotype plates, and in the contract for publishing the histories, subject to the performance of the engagements on the part of Agnew under his contract with Goodrich, each party to perform one-half thereof. Sorin & Ball were to pay to Agnew the one-half of the cost of the plates; to publish the histories at their own expense, and sell at their own risk; the profits to be equally divided.\nIt was further agreed that Sorin & Ball should not have the right 'to dispose of their interest in the said, books, without the written consent of Agnew; and in case of the death of either of the said firm or of their dissolution, Agnew was to have the right to claim the plates upon refunding the amount paid by Sorin & Ball, with ten per cent, interest; payment to be made by satisfactory notes at sixty and ninety days, &e.\nBy a further agreement between them, dated October 12, 1846, it was provided that the said plates were to be pledged to Agnew as security that Sorin & Ball would pay Goodrich; and, in case Sorin & Ball should be unable to perform their part of their engagement with Agnew, and whereby he should be entitled to purchase the plates, the price thereof was to be pledged for any arrears that may be owing by them.for the copyright money.\nSorin & Ball paid half of the price of the plates, and published the histories.\nOn the part of the plaintiff in error it was stated that Sorin & Ball failed in the fall of 1847, and soon after ceased to do- business as a firm.\nOn 3d August, 1848, Agnew demanded of Sorin &. Bali the stereotype plates; at the same time exhibiting his own notes with ten per cent. interest, which were to be held by him in pledge, according to the agreement.\nThis action was at length brought.\nJohnson, the defendant, claimed the plates under an alleged pledge by Sorin & Ball for money lent to them.\nOn the part of the plaintiff in error it was said that there was proof that the defendant knew of Agnew\u2019s agreement with Sorin & Ball.\nOn the part of the defendant in error it was stated, inter alia, that the plates were pledged by Sorin & Ball to Johnson for moneys advanced by him to them to carry on their business, of which these histories formed a considerable part; and that these advances were made before the agreement in October, 1846, as above referred to. That a portion of the moneys advanced by Johnson, Sorin & Ball paid to Agnew.\nIt was denied that Sorin testified that Agnew\u2019s notes were satisfactory, and the contrary was intimated. It was also said that the agreement of July, 1844, did not prohibit a transfer of the plates, but of .the boohs. That a copyright existed for the books, but the plates were necessarily parted with to printers to print from.\nThe Court referred to the jury the question, whether Agnew did what was necessary to retake the plates, and whether the proper time for that had arrived. That the agreement of July 23, 1844, provided for the retaking in case of the death of either member of the firm, or of their dissolution. The supplementary agreement of October 12, 1846, appeared to allow such a retaking, in case of any event happening by which said Sorin & Ball should be unable to carry out their part of their engagement.\nHe charged that \u201c Sorin & Ball had a right to transfer to the extent of their interest, notwithstanding the prohibition in the contract with Agnew of 1844, to any person not having notice of the nature of their interest.\u201d Whether Johnson had such notice he referred to the jury, and also the time when Johnson\u2019s interest commenced, charging that if Johnson\u2019s interest arose prior to the supplementary agreement of October 12, 1846, the tender by Agnew was not good. If his rights arose after that agreement, it was good.\nHe further observed that if the jury found against the plaintiff on any of the said points, then, without reference to his contract with Sorin & Ball, Agnew could recover for one-half of the plates; but not for the other half, which Sorin & Ball transferred to Johnson, which half, if not redeemed under the terms of the contract, Johnson could hold as against Agnew. That for the half retained by Agnew, he could recover if Johnson held the plates under a claim for the whole. But if Johnson claimed but the half under the transfer of Sorin & Ball, Agnew\u2019s half not being sever-able, he could not recover for it.\nHe further charged that the plaintiff could not recover for interruption in his business, and the cost and trouble of obtaining new plates, in the absence of any special count or averment in the declaration; and that the measure of damages was the value of the property converted, with interest from the time of the conversion.\nVerdict was rendered for the plaintiff for $800, which, it was stated, was given as one-half of the value of the plates.\nIt was assigned for error : 1. The Court' erred in allowing an investigation of the accounts between the plaintiff and Sorin & Ball. 2. In charging that Sorin & Ball had a right to transfer to Johnson. The 3d related to the charge as to the question of notice. 4. Related to the portion of the charge respecting the time when Johnson\u2019s claim originated. The 5th and 6th related to the portion of the plates for which the plaintiff could recover, if at all, and the condition on which the right of recovery depended. The 7th referred to the charge as to the measure of damages.\nMiller and Jones, for plaintiff in error.\nWaln, for defendant in error."
+  },
+  "file_name": "0471-01",
+  "first_page_order": 473,
+  "last_page_order": 477
+}

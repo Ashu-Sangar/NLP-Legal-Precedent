@@ -1,0 +1,79 @@
+{
+  "id": 959490,
+  "name": "Miller et al. v. The Commonwealth",
+  "name_abbreviation": "Miller v. Commonwealth",
+  "decision_date": "1848-06-26",
+  "docket_number": "",
+  "first_page": "444",
+  "last_page": "445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 444"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Met. 129",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pick. 484",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 137,
+    "char_count": 1541,
+    "ocr_confidence": 0.374,
+    "pagerank": {
+      "raw": 5.80115026001381e-08,
+      "percentile": 0.36148111337765254
+    },
+    "sha256": "9d328dffa59c6ca2246203e3605e4a6b8da1354bf728aef183b0b6173bbcc1bb",
+    "simhash": "1:091ca6b16ac1cd89",
+    "word_count": 281
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miller et al. v. The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nAfter a careful examination of this case, and the error assigned, we are all of opinion that the charge of the court was correct, and affirm the judgment, for the reasons given by the president judge.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Miller and Alrichs, for plaintiff in error,",
+      "Briggs, contra;."
+    ],
+    "corrections": "",
+    "head_matter": "Miller et al. v. The Commonwealth.\nThe surety for a public officer is liable for moneys collected by him for the commonwealth on the clay of the date of the bond, in the absence of evidence that they were received prior to the execution of the bond and his acting under it; though he had previously been acting in the same capacity under another bond.\nIn error from the Common Pleas of Dauphin county.\nThe evidence was simply this : That in July, 1839, Myers had been appointed collector of tolls for the commonwealth, and given bond. That on the 17th February, 1840, he had given the bond on which this action was brought, with Miller as surety, conditioned to account for and pay over all moneys received as tolls, &c.\nOn the day of the date of the bond he received \u00a7384 from tolls. The court instructed the jury that in the absence of all evidence of the hour of the day when the bond was executed, and Myers entered on the duties pursuant to it, the defendants were liable for the amount received on that day.\nMiller and Alrichs, for plaintiff in error,\ncontended, that the burden of proof lay on the plaintiff; the presumption being that the moneys were received while the former bond was in force; 2 Barr, 497; 1 Cowp. 720; 4 Shep. 181; 1 Pick. 484; 1 Met. 129; 9W. & S. 114.\nBriggs, contra;.\nJune 26."
+  },
+  "file_name": "0444-01",
+  "first_page_order": 444,
+  "last_page_order": 445
+}

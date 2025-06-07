@@ -1,0 +1,100 @@
+{
+  "id": 982702,
+  "name": "Coover's Appeal",
+  "name_abbreviation": "Coover's Appeal",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "9",
+  "last_page": "15",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 215",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848463
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0215-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 251",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850949
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0251-01"
+      ]
+    },
+    {
+      "cite": "1 Penn. Rep. 205",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pa. Rep. 205",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 651,
+    "char_count": 17010,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 2.372446081061653e-07,
+      "percentile": 0.795494640807244
+    },
+    "sha256": "f1b36439073c276e2537d272d750516437c06ea34188383e832e451f087d1ebb",
+    "simhash": "1:b62fbcedaa17f5fb",
+    "word_count": 2937
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Coover\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nIf one of several partners sell his interest in the personal property belonging to the firm, nothing passes but his interest in the surplus, after payment of the partnership debts. Partnership creditors, who have no lien on the personal estate of the firm, have no means of enforcing their claim to a preference in the distribution of it. Their equity, whatever it may be, is to be worked out through the equities of the partners themselves, each of whom has a right, while he exercises dominion over the property, to insist on its application to partnership claims, before it be appropriated to the individual debts of the several partners. But this right may be waived, and it is waived when each partner disposes of all his interst in the property. Sales on separate executions, against the several partners, have the same effect as sales by the individual partners themselves: Doner v. Stouffer, 1 Pa. Rep. 205; Baker\u2019s Appeal, 9 Harris 16. But when the joint creditors acquire a lien on the joint assets, either by assignment or by levy, no subsequent disposition of the property by the several partners, or by their separate execution-creditors, can defeat such lieu. It differs from a lien against a single member of the firm in this important particular, that .the former is a lien on the chattels themselves, while the latter is a lien on the surplus only, after payment of partnership debts. The lien of the partnership creditors is in time, if acquired before the sale. The moment the equity of the partnership creditors is thus secured their rights become paramount, and no arrangement of the order of sale can give the separate creditors a preference over them. It follows, that the agreement respecting the time and manner of selling, on the executions in the sheriff\u2019s hands, did not change the rights of the parties. The partnership creditors were entitled to the proceeds. As the sum raised was not sufficient to pay them, there was, of course, nothing left for the separate creditors. The opinion of the learned president of the Common Pleas contains a correct statement of the law of this case.\nDecree of distribution affirmed at the costs of the appellants.\nRex, Silvis & Co.\u2019s Appeal.\nHenry L. King\u2019s Appeal.\nMary Dare\u2019s Appeal.\nLewis, C. J. \u2014 The decree of distribution affirmed in Coover\u2019s Appeal, for the reasons assigned in the opinion just delivered, disposes of these cases.\nDecree of distribution affirmed at the costs of the appellants.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Coover\u2019s Appeal.\nThe claim of partnership creditors to a preference in the distribution of the assets of a firm must be worked out through the equities of the partners themselves; each of whom, so long as he exercises dominion over the property, has a right to insist on its application to partnership liabilities, before it be appropriated to the individual debts of the partners.\nThis right is waived when- each partner sells all his interest in the property, and the same effect is produced when the several interests of the- partners are sold on executions against them respectively.\nIf, while the interests of the partners continue, executions are issued1 against the individual partners for their separate debts, and also against the firm for partnership debts, and by agreement of the execution-creditors the goods of the firm are all sold at the same time, the firm creditors are entitled to the proceeds, although the individual executions were prior in date.\nAppears from the Common Pleas of YotTc county.\nOn the 1st day of October, 1855, Emanuel Lomman and George-\"VV. Machlin entered into articles of copartnership in the mercantile business, having equal interests. On the 23d July, 1856, Rex, Silvis & Co. issued an execution against Lomman for an individual debt of $3220.75, with interest from 1st April, 1856; and, on the same day, by virtue thereof, he levied the interest of Emanuel Lomman in the partnership. On the 26th July, Henry L. King issued an execution against George W. Machlin, the other partner; on the 28th of the same month, Machlin\u2019s interest in the partnership concern was levied under this fieri facias. An execution of Mary Dare against Machlin was issued and levied at the same time as that of King. On the same day that these last two executions issued, but at a subsequent hour, Jacob Coover caused an execution to be issued against Machlin on a judgment confessed that day for $2948.85. On the same day an execution on a judgment, in favour of Jacob Coover against the firm for $2000, was issued and placed in the sheriff\u2019s hands simultaneously, with the one in his favour against Machlin. Under this writ, the sheriff, on the 28th July, 1856, levied on the personal property of the firm. On that same day the sheriff advertised the property for sale on the 5th August, on the writ against the firm, and the interests of the respective partners on the writs against them individually. On the 30th of July, 1856, Dennis Cannon, Jacob Mumma, and Eithian, Jones & Co. respectively obtained judgments, and issued executions against the firm of Lomman & Machlin in the order of time in which the parties are stated above. These executions were also levied on the partnership property.\nThe sale did not take place on the 5th of August as advertised by the sheriff; and, on the 11th of that month, the counsel of the respective plaintiffs in the executions entered into the following agreement:\u2014\n\u201c Whereas, there are doubts as to the proper manner of executing the above executions; and, whereas, the largest amount can be realized by selling said property clear of doubt in regard to the title bought by the purchaser: \u2014 Now it is agreed by and between the several plaintiffs and defendants in said executions, that, if the sheriff shall at one sale sell all the interests of the defendants in the same, both their interests and the joint partnership interest, no objection shall be made to a sale thus'made, and that the right of no plaintiff shall be affected by such sale; and it is further agreed that the money made on such sale shall be paid into court, and shall be distributed in the same manner as if the sale had been made according to law (if such sale be not made according to law), the rights of the respective parties remaining unaffected by the manner of sale, and the sheriff\u2019s return.\u201d\nOn the 13th of August, 1856, Stevens, Hollinsbead & Co. issued a fi.fa. against the firm for $522.93, and one against Lomman individually for $1088.32, with a credit endorsed of $700. The property was sold by the sheriff on the 18th August, and returned on each execution that he had sold the personal property levied on that and the other writs respectively \u2014 designating them by their numbers and terms. Under the agreement, the net proceeds, amounting to $4423.30, were paid into court. And the court appointed John Gibson, Esq., an auditor to make distribution, who reported the following:\u2014\nBalance for distribution, deducting expenses of auditor, ........ $4370 30\nTo Jacob Coover, Sr.,\nOn fi. fa. to August Term, 1856, are awarded\u2014 debt and interest, ...... 2008 00,\nTo Dennis Cannon, On fi. fa., No. 39, August Term, 1856, are\nawarded \u2014 debt and interest, 352 06\nTo Jacob Mumma,\nOn fi. fa., No. 40, August Term, 1856, are awarded \u2014 debt and interest, 903 60\nTo Fithian, Jones & Co.,\nOn fi. fa., No. 41,'August Term, 1856, is awarded the balance of this fund, . . . . 1106 64\n$4370 30\nExceptions were filed to this report, but the court below, after argument (Fisher, P. J.), delivered the following opinion, confirmed the report, and decreed distribution accordingly.\n\u201cIt is a well settled principle of the law of partnership that the joint effects belong to the firm. The corpus of the partnership property is joint, and the individual interest is that which remains after satisfying all the joint debts. It therefore follows that a sale of the interest of one partner, either by transfer or execution, passes only the separate interest of that partner, subject to the debts of the firm. The reason that it is so is not in consequence of any right inherent in the creditors, or any equity in them that demands preference, but because it is a part of the contract between the partners. It is one of the incidents of the relation existing between them, established for the purpose of preventing the joint capital from being withdrawn without the consent of all the partners. And so exclusively is that equity in the partners and not in the creditors, that one partner can sell to the other, so as to make his share separate property, Ex parte Peake, 1 Maddock Ch. Rep. 197; and although the reverse was held in Anderson v. Maltby, 4 Brown's C. C. 423, all subsequent cases reject its authority and assert that it was decided on the ground that the arrangement between the partners was fraudulent. But where the transaction is fair and honest, and is an actual transfer of the effects, its validity is not now a controverted question: Ex parte Raffin, 6 Ves. Jr. 191; Ex parte Williams, 11 Ves. Jr. 3. Where there is a disposition of the interest of all the separate partners, whether by sale, voluntary assignment, or execution, the equity which requires that the joint debts should be paid out of the joint effects is destroyed; and the joint creditors can claim no preference for the debts, but must rely upon the individual responsibility of each of the partners: Doner v. Stouffer, 1 Penn. Rep. 205; Baker\u2019s Appeal, 9 Harris 16.\n\u201c These principles being established, it follows that in every partnership there is first to be considered their joint interest as a firm; and, secondly, the interest of each partner as an individual.\n\u201c In this case it is contended that as the individual interest of Lomman was first levied upon, and subsequently that of Machlin, that there was nothing left to levy upon by the third execution, and this would be so if the sale had been effected, and the property changed before the third execution was issued, for then we would have a case similar to those of Doner v. Stouffer, Baker\u2019s Appeal, and to Kelley\u2019s Appeal, 4 Harris 62: for in each of those cases the partnership creditors had no execution, and the funds sought to be charged had passed from the hands of the original partners who contracted the debts. But this is not so in the case we are considering; for after the writs of execution had been issued against the individual members of the firm, an execution was issued against the firm itself; and from that moment the execution against Lomman bound his individual interest subject to the equity of his partner; that against Machlin his individual interest subject to the lien on the execution of the partnership creditor; and that against the firm the corpus or the partnership effects as such; not for the benefit of the creditors, but to effectuate the equity which is essential to the partnership relation. I admit, if the first two executions only existed, that by sales upon them the whole title would pass; but before that was effected, the third execution came in, and attached itself to the joint interest so firmly that the sale of both the individual interests could not free them from the lien thus created, unless the partnership creditor could claim the money in \u00a1reference second execution-creditor. If he could not, then the individual creditors could defeat the equity of the separate partners, and substitute the fund pledged at the commencement of the partnership to pay partnership debts into a fund to pay separate debts. Nor does it appear to me to be an answer to this objection, to say if there were only executions against individual partners, the firm debts would get nothing; for where the firm debts have no lien it cannot be otherwise, as we have already shown. But where the lien for partnership debts attached previously to the change of title, through that lien the right of the partnership to have the firm debts first paid is preserved; or, as has been said, \u2018through their equity is the payment of the firm debts worked out.\u2019 But to this it will doubtless be objected that the lien of the individual creditors attached first, and that the first fi. fa. created a lien on all Lomman\u2019s interest, subject to the equity of his partners; that the second created a lien on all Machlin\u2019s equity, together with his remaining interest; and that nothing remained to levy upon for the partnership creditor.\n\u201c But it must be remembered that a levy does not change the title, nor vest the property in the first execution-creditor. It is true goods are bound from the delivery of the fi. fa. to the sheriff, yet the property of the defendant in them is not altered by the delivery of the writ, until execution and sale by the sheriff. Sewell on Sheriff 259; Watson on Sheriff 175; Duncan v. McComber, 10 Watts 251. And in Lytle v. McHaffey, Mr. Justice Kennedy remarked, \u201c it has never been said, much less adjudged, that the officer, the creditor, or anybody else, becomes vested by means of the seizure aione with the absolute property in the goods:\u201d 8 Watts 215. The title then not being changed, the third execution having the superior lien was entitled to be first paid, and it was the duty of the sheriff to have sold on that first. If this be so, all the proceeds of the sale being required to pay the firm debts, nothing remains to be appropriated to the two previous executions in favour of the individual creditors, nor anything to sell on their executions; and although in general it is the duty of the sheriff to sell on the first execution, yet where he has an execution that binds the superior interest, and to which all other interests are subordinate, he ought to sell upon it, because he thus sells the whole title; and in cases of partnership, in this way only can the equities of the several members of the firm be preserved.\n\u201c The whole interest being thus disposed of on the superior lien, the firm debts should be first paid, and the surplus, if any, would then go to satisfy the individual creditors, according to the proportionate interest of their several debtors, and it seems to me that no other way could be adopted; for, if a sale was made on the fi. fa. against Lomman, his interest would be sold subject to one partner\u2019s equity and the lien of the execution of the firm debt, and the other interest would be sold subject to the firm execution, and that to avoid this confusion and uncertainty as to what was selling, the proper way would he at once to sell on the execution against the firm the whole partnership property, and then distribute the proceeds according to the respective rights of the claimants. The policy of the law certainly is that titles procured through sheriffs\u2019 sales should be free from doubt and uncertainty, that every purchaser should know, if possible, what he is buying, and that everything sold at sheriff\u2019s sale should be so sold, that it would bring a full price; and in no other way could these objects be effected in cases like the present than by selling the whole interest of the joint firm at one operation. In Cooper\u2019s Appeal, where executions were issued first against separate partners and afterwards against the firm, the sheriff sold the whole stock, and the proceeds were finally distributed in the manner we have indicated they should here be. In that case Mr. Justice Lowrie remarked \u2018a sale so made would be irregular if it was not a necessary result of the circumstances,\u2019 for the sheriff \u2018 to execute his writs so as to join distinct parties and interests in the question of distribution.\u2019 But that learned jurist certainly saw that it must be \u2018the necessary result of the circumstances\u2019 of all such cases that a sale must be so made, and that justice could be done in no other way, and only refrained from saying so, as the case did not require him to do so, because the execution of the firm creditor, though last in order of time, was allowed a preference in the court below without objection.\n\u201c Had the sheriff sold the property as a whole without the agreement of the parties, then Cooper\u2019s Appeal and Kelly\u2019s Appeal would have been applicable, and the money would have been distributed according to the equities of the different interests concerned. But as the plaintiffs in the several executions in this case have agreed that the rights of the respective claimants as they were at the time of sale, should not be affected by the manner of making the sale, but that the proceeds should be treated in the distribution, as if it had been properly conducted, it became necessary to consider the manner in which the sale ought to have been made, and I have come to the conclusion that independent of the agreement of the parties, it was rightly done. I therefore affirm the report of the auditor, and direct that the money in court be paid out according to the distribution reported by him.\u201d\nFrom this decree Jacob Coover, Rex, Silvis & Co., Henry L. King, and Mary Dare, respectively appealed."
+  },
+  "file_name": "0009-01",
+  "first_page_order": 9,
+  "last_page_order": 15
+}

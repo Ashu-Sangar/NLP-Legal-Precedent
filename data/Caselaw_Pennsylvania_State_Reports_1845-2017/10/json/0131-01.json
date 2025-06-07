@@ -1,0 +1,121 @@
+{
+  "id": 962752,
+  "name": "Bleight v. The Manufacturers' and Mechanics' Bank",
+  "name_abbreviation": "Bleight v. Manufacturers' & Mechanics' Bank",
+  "decision_date": "1848-03-26",
+  "docket_number": "",
+  "first_page": "131",
+  "last_page": "133",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Rand. 120",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "case_ids": [
+        6714442
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/23/0249-01"
+      ]
+    },
+    {
+      "cite": "1 Hoff. 203",
+      "category": "reporters:state",
+      "reporter": "Hoff. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 R. 185",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hoff. 213",
+      "category": "reporters:state",
+      "reporter": "Hoff. Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Bin. 546",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/1/0546-01"
+      ]
+    },
+    {
+      "cite": "2 Rand. 120",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "case_ids": [
+        6714442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/23/0249-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 334,
+    "char_count": 5427,
+    "ocr_confidence": 0.39,
+    "pagerank": {
+      "raw": 2.43038292989513e-07,
+      "percentile": 0.8019618132176818
+    },
+    "sha256": "6b5fc01f9c7e5331d16c201dc7f3c4e0904e5175dd3f3f0a3697ed530a0ec45c",
+    "simhash": "1:8181f55f73b602bd",
+    "word_count": 985
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bleight v. The Manufacturers\u2019 and Mechanics\u2019 Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nIt is by no means clear that the deed of trust was intended for any other purpose than to secure the payment of the annuity of Elizabeth Dunlap, under the will of her late husband. If granted for this special purpose, on the death of the annuitant the power to sell ceases; for the cause of sale ceasing, the authority to sell must cease likewise: Smith v. Folwell, 1 Bin. 546. But be this as it may, was there a conversion of the real estate into personalty? In order to change real into personal estate, it is essential that the direction to convert be positive and explicit; that the will, if it be by will, or the deed, if it be by contract, decisively fix upon the land the quality of money: Symons v. Rutter, 2 Vern. 227; Walker v. Denne, 2 Ves. Jr. 170, 185. But this characteristic nowhere appears. The deed is not imperative that the land shall be sold. It contains nothing more than a power to sell, leaving it discretionary with the trustee whether he will sell or not. Indeed, it is doubtful whether he had authority to sell, except in the contingency it was necessary to pay the annuity. To establish a conversion, a will or deed must direct a sale absolutely, or out and out for all purposes, irrespective of contingencies and independent of all discretion: 1 Hoff. 213. To the same purport is the case of Evans v. Kingsberry, 2 Rand. 120. The latter case was a power to sell, which was ruled not to effect a conversion, because it was not provided the lands should be converted out and out, at all events into money. The constant rule in this, as in all other cases, is, that the intention must govern; and, as we perceive no positive and explicit intention to change the quality of the estate, we are of opinion it continues real estate, and, as such, subject to writ of partition. That the legal estate is outstanding is nothing, and partition may be made notwithstanding, as is ruled in Willing v. Brown, 7 S. & R. 467.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Bleight, for plaintiff in error.",
+      "O. Thompson, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Bleight v. The Manufacturers\u2019 and Mechanics\u2019 Bank.\nTo effect a conversion by a conveyance with power to sell, the exercise of the power must be directed and not discretionary.\nHence, a conveyance made to trustees to pay an annuity out of the rents and profits; or to sell, and, if sold in the lifetime of the annuitant, to place the proceeds at interest, and out of that to pay the annuity, and, at the decease of the annuitant, the principal and any surplus interest arising from the sale of the premises, if not sold before, to be divided among the grantors: does not work a conversion of the estate of the grantors into personalty.\nIn error from the District Court of Philadelphia.\nMarch 9. Sarah Forrest and others being seised of lands by devise, -subject to an annuity, conveyed the premises now in question to Fisher and Fox, in trust to let the premises and receive the rents, and, after paying taxes, with the residue to pay a certain part of the annuity above mentioned; or to sell and dispose of the premises, and to convey to the purchasers in fee-simple; \u201cand, if sold during the lifetime of the annuitant, then to place out and continue at interest the nett proceeds of the sale; and the interest arising thereon, when and as received, or so much thereof as shall be necessary, to pay the same to the said annuitant, on account of her annuity, and the principal, on her decease, and any surplus interest on the amount of the sale of the said premises, if not sold before, shall be divided into six parts,\u201d and one part paid to each of the grantors, their respective executors, or administrators.\nThe annuitant died in 1836. In 1833, one of the grantors mortgaged her share of the premises, conveyed by the above-recited deed, subject to the provisions therein contained; and, subsequently, conveyed her interest therein to Norris, who mortgaged it to the bank, plaintiff below. In 1838, a sheriff\u2019s sale was made under this mortgage, and the property purchased by the bank, who sued out this writ of partition.\nThe court gave judgment for the demandant.\nBleight, for plaintiff in error.\nThe conveyance worked a conversion, by reason of the direction to sell, and the right of-the grantors was confined to the proceeds of the land, and was not the subject of a mortgage, \u00f3r, at least, not of a sheriff\u2019s sale: 2 R. 185; 4 Ib. 242. The deed is badly worded; but that a sale is imperative, is seen from the fact that a sale, either before or after the death of the annuitant, is directed, for no division is directed but of the proceeds. They are to he divided after her death, if not sold before, which plainly implies the land shall be sold before or after.\nO. Thompson, cont\u00f3.\nThere is no express direction to sell; but a mere power to raise sufficient to pay the annuity. After that ceased, there was, at most, a mere authority by implication; and; as it has not been exercised, there is nothing to debar the plaintiffs from having their purpart set out to them. It is settled that, to work a conversion by a power t.o sell, it must be a positive direction: Leigh and Dalz on Conv. 15; 2 Vern. 227; 2 Ves. Jr. 170, 185: that is, it must be in the nature of a trust. A discretionary power never works a conversion until it is Exercised: Wright v. Trustees, 1 Hoff. 203-19; 2 Rand. 120. The language of the deed can only refer to a sale during the life of the annuitant; \u201csurplus interest\u201d could not exist after the annuity had ceased.\nMarch 26."
+  },
+  "file_name": "0131-01",
+  "first_page_order": 131,
+  "last_page_order": 133
+}

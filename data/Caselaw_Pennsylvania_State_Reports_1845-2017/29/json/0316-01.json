@@ -1,0 +1,157 @@
+{
+  "id": 982952,
+  "name": "Davis et al. versus Selden",
+  "name_abbreviation": "Davis v. Selden",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "316",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 316"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Binn. 40",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0040-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 385",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848498
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0385-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 301",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 84",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 488",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480244
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0488-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 401",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts 54",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838036
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0054-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 474",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 529",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478152
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0529-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 383",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 463,
+    "char_count": 7429,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03445027103896791
+    },
+    "sha256": "b3a1d3437df551a20bdcea1209ff0d54defe71c8eb732407ea7a39331416ab52",
+    "simhash": "1:772c1cbe44d20824",
+    "word_count": 1336
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Davis et al. versus Selden."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nWe agree with the Common Pleas that there was no evidence that the plaintiff below had either actual or constructive notice of the conveyance from David Mead to the Commonwealth.\nIt is true the deed was recorded in the office of the secretary of the Commonwealth, but there is nothing in the recording acts which gives to such a record validity against a subsequent bona fide purchaser for a valuable consideration. The occupancy of the arsenal lot was not notice of the grant of the 100 foot street, and there does not appear to have been such an open or continued use of the ground in controversy, by the public as a street, as to put a purchaser upon inquiry as to the existence of the grant.\nWe are by no means certain that actual notice would have affected the plaintiff\u2019s title, based as it was, upon a mortgage anterior to the conveyance from Mead to the Commonwealth; but as the want of notice is itself conclusive against the plaintiff in error, it is unnecessary to determine the effect of notice, had it existed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "J. W. Farrdly, for plaintiffs in error.",
+      "Church, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Davis et al. versus Selden.\nM. conveyed a lot to the Commonwealth for an arsenal, in which there was a dedication of a street to the public, which conveyance was recorded in the office of the secretary of the Commonwealth \u2014 Held, not to be notice to a subsequent bona fide purchaser for a valuable consideration.\nThe office of the secretary of the Commonwealth is not an office for the recording of conveyances of real estate.\nThe plaintiff below derives title from a mortgage anterior to the date of the deed from M. to the Commonwealth. Query, Would she have been affected by actual notice ?\nError to the Court of Common Pleas of Orawford county.\nThe plaintiff in error was defendant below.\nTrespass quare clausum fregit. Plea, Not guilty, and liberum tenementum. Yerdict for plaintiff.\nDavid Mead being the owner of about 60 acres of land adjoining the town of Meadville, executed a deed to the Commonwealth on the 26th July, 1816, of the ground upon which the state arsenal was afterwards erected. This deed was not put on record in the county, but was recorded in the office of the secretary of the Commonwealth; it contained a grant or covenant to open and keep open a street from the northern boundary of the town plot, 100 feet wide, to the arsenal ground, forming an extension or continuation of Main street as laid out on the town plot.\nShortly after the execution of this deed, an arsenal 100 feet in width, filling up the street at its termination there, was erected by the state. This arsenal has been used and occupied for the purposes intended from that time to the present. At the date of the deed, the ground which the street granted would cover, was unenclosed, but there was a fence near the western side, the whole length, and on the eastern side there was a fence near to it, which ran in the direction of the street, about half way towards the arsenal, thus leaving unenclosed more ground than was included in the street. The street remained open and unenclosed for many years. As late as 1838 or \u201939 the fence on the east side was on or nearly on the line of the street.\nThe Susquehanna and Waterford Turnpike, which was made in 1820, occupied a part of the street, next the town boundary, but left it to the west, before reaching the arsenal ground. Jared Shattuck and wife took possession of the 60 acres under the administrators of David Mead in 1817 or \u201918, and continued to occupy it during his lifetime. In 1827 a deed of the said 60 acres was made to Mrs. Shattuck, wife of Jared Shattuck, and during this period and prior to 1839, purchasers under her, had erected buildings on the line of the street as granted by David Mead, between the town plot and the arsenal.\nAt the date of the deed to Mrs. Shattuck, the ground over which the street passed was an open common on which people passed and repassed. Encroachments were made on the street by putting the fence over the line along the east side, and in 1846 notice was served on plaintiff to remove the fence \u2014 a controversy arose respecting the right to the street, which led to the trespass complained of. Under direction of the borough authorities the defendants entered and removed the fence for the purpose of bringing the question to a legal decision. Plaintiff claims title to the street under a sheriff\u2019s sale of the 60 acres as the property of David Mead. On the 2d October, 1804, David Mead, as surety of Thomas Wilson, gave a mortgage on his real estate, including the 60 acres, to secure payment of bonds of Thomas Wilson and himself to James Smith, Greorge Thompson, and James Boggs, dated 27th August 1804, one for $4000 and another for $13,000. Judgment was entered on the bonds of $13,000 to August Term, 1804, against Thomas Wilson and David Mead.\nTo revive the judgment a sci. fa. was issued to June Term, 1808, but no proceedings were had until after the decease of David Mead, who died in 1816, shortly after the execution of the deed to the Commonwealth. On the 1st October, 1819, the plaintiff in the scire facias and the administrators of David Mead made an agreement of compromise by which the administrators of David Mead were to confess judgment and remove all obstacles to the collection of the debt. Plaintiff was to sell the real estate and to release to the widow and children of David Mead personal property to the amount of $2000, and two tracts of land. In pursuance of the agreement, the administrators confessed a judgment, October, 1819, against the estate of David Mead, leaving out Thomas Wilson the surviving judgment-debtor. On this judgment the 60 acres were sold in 1820 to plaintiff, who by deed conveyed same to John J. Smith, 14th January, 1826.\nJohn J. Smith conveyed to James Carmault, who executed a deed on the 12th March, 1827, to John Reynolds and Stephen Barlow in trust for Mrs. Shattuck. In the agreement of compromise and in the amicable scire facias, no allusion or reference was made to the mortgage of 1804, but plaintiff claimed the right to tack the judgment to it, so as to give them a lien prior to the deed of David Mead to the Commonwealth.\nVarious questions were raised on the trial of the ease, but, under the charge of the court (Derrickson, J.), it turned on the question of notice to Mrs. Shattuck, under whom the plaintiffs claimed, of the existence of the street. The judge charged that there was no evidence of actual or constructive notice of the existence of the street.\nJ. W. Farrdly, for plaintiffs in error.\nThis case turned mainly on the question of notice: 4 Kent. 179; Knouff v. Thompson, 4 Harris 364; Woods v. Farmer, 7 Watts 383; McCollouch v. Cowher, 5 W. & S. 529; Boggs v. Varnes, 6 W. & S. 474; Young v. Simonton, 2 Penna. Rep. 441; Hood v. Fahnestock, 1 Barr 470; 2 Ves. 437; Commonwealth v. Baldwin, 1 Watts 54; McKeehan v. Commonwealth, 3 Barr 153.\nChurch, for defendant in error.\nUnangst v. Cramer, 8 W. & S. 401; Miles v. Stevens, 3 Barr 21; Hulings v. Guthrie, 4 Barr 123; Gilchrist v. Rogers, 6 W. & S. 488; Urket v. Coryell, 5 W. & S. 84; Miller v. Cresson, 5 W. & S. 301; Switland v. Holgate, 8 Watts 385; McCall v. Lenox, 9 S. & R. 302; Bank v. Chester, 1 Jon. 282; Coulter v. Philips, 8 Harris 156; Shryock v. Jones, 10 Harris 306; Hartz v. Wood, 8 Barr 471; Clark v. Stanley, 10 Barr 472; Hiester v. Fortner, 2 Binn. 40; Martin v. Jackson, 3 Casey 509."
+  },
+  "file_name": "0316-01",
+  "first_page_order": 316,
+  "last_page_order": 318
+}

@@ -1,0 +1,63 @@
+{
+  "id": 994100,
+  "name": "Beneficial Association of Brotherly Unity",
+  "name_abbreviation": "Beneficial Ass'n of Brotherly Unity",
+  "decision_date": "1861-03-11",
+  "docket_number": "",
+  "first_page": "299",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 163,
+    "char_count": 1897,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 6.650181858521536e-08,
+      "percentile": 0.4053450606579766
+    },
+    "sha256": "09c3444a66f6afbf9dbaad112bb1318a57c0aca33127b728c0884d2809d2f500",
+    "simhash": "1:49b097c017442a6b",
+    "word_count": 332
+  },
+  "last_updated": "2023-07-14T21:27:31.076625+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beneficial Association of Brotherly Unity."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Lowrie, C. J.\n\u2014 By these artioles of association, a member may be expelled for \u201c any criminal act or any other offence against the law;\u201d' and if the members really mean this, they show a very commendable regard for public order. But we rather regard it as the loose expression of their scrivener. Do they really mean that if a member should happen to swear a little, or enjoy some Fourth of July too freely, or leave his horse and wagon in the street without an attendant, or not clean off his pavement as .the law requires, he shall be liable to expulsion ? We are sure they do not mean all the little offences of omission and commission which the law provides against: for many of them are totally irrelevant to the purposes of their association. But they have taken this way of defining offences that may lead to expulsion, and the definition is so very general that it puts the rights of all, not under the protection of a constitution, but under the mere will of a majority. If they had provided that only those who are without sin among them, should be allowed to vote for the expulsion of a member, this might have been an important limitation of the expulsive power. A constitution that puts all power over rights into the hands of the majority, is really no constitution at all. It is leaving to force the free exercise of its power, unrestrained by rules of reason. Many members whose sickness may become expensive, might' easily be disposed of under this rule.\nApproval refused.",
+        "type": "majority",
+        "author": "by Lowrie, C. J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Beneficial Association of Brotherly Unity.\nCharter of Incorporation refused.\nThe Supreme Court will not approve a charter of incorporation for a beneficial, society which*gives a majority of the association power to expel any member \u201c guilty of any offence against the law.\u20191 The expression is too general for the purposes of such an association.\nMarch 11th 1861,"
+  },
+  "file_name": "0299-01",
+  "first_page_order": 299,
+  "last_page_order": 300
+}

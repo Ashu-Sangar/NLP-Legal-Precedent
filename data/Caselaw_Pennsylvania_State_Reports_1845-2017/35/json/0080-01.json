@@ -1,0 +1,59 @@
+{
+  "id": 990501,
+  "name": "The United Daughters of Cornish",
+  "name_abbreviation": "United Daughters of Cornish",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "80",
+  "last_page": "80",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 80"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 109,
+    "char_count": 1255,
+    "ocr_confidence": 0.4,
+    "sha256": "20a1fb724eb29c901dee7936daaa6fb1d106bc35e731dac273943a06ffdbe546",
+    "simhash": "1:4060c0c2e8414197",
+    "word_count": 207
+  },
+  "last_updated": "2023-07-14T16:02:38.618048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The United Daughters of Cornish."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe provision in this charter, that-the corporation shall not be dissolved while nine members remain, appears to be inconsistent with another provision requiring that it shall have a president, vice-president, secretary, and twelve managers, and a board of trustees. Besides this, such a provision is not authorized by law, and only twelve persons have as yet associated.\nThe words, \u201c and a board of trustees,\u201d are interlined, and it is not at all proper that so important an alteration or correction should be made by interlineation. Moreover, the number of trustees is not specified.\nThe provision relative to amendments of the charter, seems to imply that they may be made without the approval of the court, and this is contrary to law.\nEor these reasons we must withhold our approval of this constitution until the proper changes are made, and the document resigned.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The United Daughters of Cornish.\nA provision in the charter of a beneficial society, that the corporation shall not be dissolved while nine members remain, is not authorized by law; and a charter containing such a clause will not be approved.\nThis was an application for a charter of incorporation, under the provisions of the Act of 8th April 1833: Brightly\u2019s Purd. 165."
+  },
+  "file_name": "0080-01",
+  "first_page_order": 80,
+  "last_page_order": 80
+}

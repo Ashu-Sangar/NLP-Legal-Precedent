@@ -1,0 +1,92 @@
+{
+  "id": 951075,
+  "name": "Offerman v. Starr",
+  "name_abbreviation": "Offerman v. Starr",
+  "decision_date": "1845-05-02",
+  "docket_number": "",
+  "first_page": "394",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 394"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts & Serg. 106",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Metc. 353",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts, 362",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846152
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0362-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 445,
+    "char_count": 6774,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 3.930979070816589e-07,
+      "percentile": 0.9030227244908873
+    },
+    "sha256": "feb74dea91eef3cbd15e097ca75d21cf7d9712a2d7fefd1e98b4e7d516e808de",
+    "simhash": "1:ab30ee3b4ca98950",
+    "word_count": 1252
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Offerman v. Starr."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\n\u2014 The principal question was fully discussed and well decided in Earle v. Hall, 2 Metcalf, R. 353, and nothing is contested here except its application to the matter in hand. It is conceded that if the defendant\u2019s agreement with Hill is a lease, the maxim of respondeat superior is inapplicable to it; but it is contended that the thing granted is not the mine, but a license to work it. The words are : \u201c The said party, of the first part, for and in consideration of the rents and covenants hereinafter mentioned, to be paid and performed on the part of the said party of the second part, hath demised, leased, and let, unto the said party of the second part, the right to mine and take away coal from the Salem Vein, &c.,\u201d and a distinction is attempted between a grant of license to work a mine, and a grant of the mine itself; which, however, if a distinction at all, is a very thin one. A right to use a mine necessarily implies a right to possess it; and a grant of the use and possession, in consideration of something .to be rendered, is exactly what constitutes a lease of the thing to be possessed. But what would have been the difference had it been a license in terms ? Respondeat superior is inapplicable to an owner of land, for acts of negligence in a business not conducted by him and for his account. What had these defendants to do with the direction of the business or the coal when it was mined ? Lewis covenanted to sink the slope, erect the engine, to take out a certain number of tons each year, according to the most approved method of mining, and carry it to the landing; and to pay a certain sum per ton for it. So far the defendants had nothing to do with the business, but to receive their rent. But they reserved a right to visit and examine the manner in which the business should be carried on in the mine; and to resume the possession should the tenant refuse to furnish statements of the amount taken out, or pay the rent. These clauses do not constitute a reservation of the possession or a right to interfere with the direction of the business. The right of visit was to enable them to see whether the tenant was performing his engagements, in order to found process against him if he were breaking them; and the right to resume the possession was to put an end to the business altogether. The lease was analogous in all respects to the lease of a farm with \u00e1 clause of re-entry for bad farming, or non-payment of rent. On no principle, then, could the acts of Lewis be imputed to his lessors.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Parry, for plaintiff in error.",
+      "L\u00e6ser and Qreenough, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Offerman v. Starr.\n1. Lessor of a coal mine not liable for injuries to a house on the surface, occasioned by the working of the mine by his tenant.\n2. The owner of a mine demised the right to mine at a rent payable on each ton of coal taken out, reserving the right to view and examine the mine, and to re-enter on nonpayment, neglect, &e.; he is a landlord, and is not liable for an injury resulting from the prosecution of the work by the tenant.\nApril 27. \u2014 This ivas an action on the case against Offerman, Biddle and Patterson, for negligently working their mine, and thus injuring the house of plaintiff. The title-deeds were not in the bill of exceptions, but the declaration averred a possession of a coal mine in the land on which plaintiff\u2019s house stands. The only question raised in the case was, whether defendants were liable for the injury. In 1837, before the damage was done, the defendants demised to one Lewis, for a term of fourteen years, the right to mine and take coal within certain limits particularly described; in consideration of which the tenant covenanted to sink a shaft, erect a rail-way, steam engine, &c., for which an allowance was to be made out of the first rent falling due. He also covenanted to mine in a proper manner, and to prop and secure the mines sufficiently. Rent was to be paid at so much per ton taken away, and the lessors reserved the right by themselves or their agents to examine said mines at any time they might think proper; and on refusal to furnish statements of the coal taken away, or to pay rentsj or permitting water to remain in the mines, or neglect or abandonment, &c., the lessors reserved a right of re-entry. It appeared that plaintiff\u2019s house was cracked, and the jury, on the evidence, found it was occasioned by the working of the mine below by the tenant. Whether the defendants, notwithstanding the demise, were liable, was the question which was decided affirmatively by the court below.\nParry, for plaintiff in error.\n\u2014 The court seemed to think, as was contended below, this was not a lease; but any words which are sufficient to show an agreement will constitute alease, Watson v. O\u2019Hern, 6 Watts, 362; and here possession passed to the lessee, and he was in possession, and caused the injury. It is immaterial whether a lease be in fee or for years, or how the rent is paid; the landlord in all cases is equally liable, Wood\u2019s Inst. b. 2, c. 3, 266; Jac. Dic. tit. Lease. The tenant would have to bring trespass for any injury, 3 T. R. 767 ; Holt\u2019s N. P. Cases, 543, where the cases are collected; Paine v. Rogers, 2 H. Bl. 349; Lesley v. Pounds, 6 Taunt.; and of course he is liable for any injury done by himself, which the landlord cannot prevent ; same cases, and 6 T. R. 411; Littlesdale v. Lonsdale, 1 Bos. & Pull. 404; Lafter v. Pointer, 5 Barn. & Cress. 547; Quarman v. Barnet, 6 Mees. & Welsby, 499; 2 Man. & Ry. 1; 2 Miles, 309; 15 E. 386 ; 2 New Rep. 446 ; 4 Maule & Selw. 101; 2 Stark. Rep. 438 ; 1 Per. & Dav. 103; 8 Adol. & Ellis, 835; Earl v. Hall, 2 Metc. 353, where all the cases are cited and commented on, and the principle settled that the owner of real estate is not liable, unless the business is under his orders and direction. There is no right reserved but such as is common in every lease, to enter and view, Prowd v. Hollis, 1 Barn. & Cress. 8; 3 Watts & Serg. 106.\nL\u00e6ser and Qreenough, for defendants.\n\u2014 The question is whether this is a lease or not, and we contend it is not, but a mere grant of a right to work, reserving an interest in the profits; the right of entry shows this. It is of vast importance in the mining districts if irresponsible men are to be alone liable for injuries to property. But even if a lease, if it was for an unlawful purpose, or if the injury resulted from the prosecution of the intent of the lease, or if a probable consequence of the business, the owner of the land is responsible, 5 Barn. & Cress. 547 ; Stone v. Cartwright, 6 T. R. 411; 4 Burr. 2108 ; Leslie v. Pounds, 4 Taunt. 649; Paine v. Rogers, 2 H. Bl. 350; Bush v. Steinman, 1 Bos. & Pull. 404; King v. Peddle, 1 Adol. & Ellis; Earle v. Hall, 2 Metc. 353.\nThe court declined hearing Williams in reply.\nMay 2."
+  },
+  "file_name": "0394-01",
+  "first_page_order": 394,
+  "last_page_order": 397
+}

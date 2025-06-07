@@ -1,0 +1,87 @@
+{
+  "id": 996364,
+  "name": "Coulter versus Selby",
+  "name_abbreviation": "Coulter v. Selby",
+  "decision_date": "1861-07-24",
+  "docket_number": "",
+  "first_page": "358",
+  "last_page": "361",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 Pa. 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts 424",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842755,
+        1842699
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0424-01",
+        "/watts/4/0424-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 9590,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 7.700853539507957e-08,
+      "percentile": 0.4535420790941866
+    },
+    "sha256": "e2f9a6d2489fd432c7fc36ad858e9754628f6621f3302a37d2e9f2d8f7cabfc8",
+    "simhash": "1:b822ca2e940fdbbd",
+    "word_count": 1723
+  },
+  "last_updated": "2024-02-27T22:43:51.432409+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Coulter versus Selby."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nThompson, J.\nThe error assigned is to the refusal of the court to allow the widow and heirs to amend and plead to this sci. fa. quare ex. wow, that they took nothing by descent from their intestate. The plea, beside being a novelty, was of no use to them. The object of the sei. fa. was not an action to establish a debt, but simply to authorize execution on an existing judgment, if cause to the contrary were not shown by the heirs or terre-tenants. Satisfaction was not to bo had of them personally, because they might not be able to show cause why execution should not issue. It'is true, judgment quod recuperet is in form the judgment in such case; but the sei. fa. itself shows where the debt is, and the object of the writ. It does not, like a summons, demand a debt, but simply calls on them to show any legal cause why the sum found due against their ancestor shall not be paid out of his estate.\nPreviously to the statute of Westm. 2, 13 Ed. 1, if execution were not issued within a year and a day after judgment, the plaintiff was obliged to resort to an action of debt on his judgment. This was owing to a presumption of payment or satisfaction within that time. It was a troublesome remedy, and to amend it the statute cited was passed (2 Sand. R. part 2, p. 5, n. 1) authorizing a soi. fa. in personal actions. When the defendant in the action happened to die before execution, and it became necessary to revive the judgment, the heir was required to be served; for he was held to be chargeable as terre-tenant, and not as heir, and an action of debt did not lie against him on a judgment or recognisance, as it did on the bond of his ancestor, but a soi. fa. only to have execution of the ancestor\u2019s lands in his hands: 3 Rep. 12; Sir W. Harbst\u2019s Case, Dyer 271, a. pl. 25; Sir W. Jones 87, 88; Boyer v. Hivott (S. C.) Butler 317, Palm. 419, Poph. 152; 2 Sand. R. part 1, n. 27.\nThe Act of 1798 was but an embodiment of the practice under the English statute. The widow and heirs are regarded in the light of terre-tenants, for the law of descent casts the title upon them, and if they cannot show any reason, such as payment, satisfaction, release, or something sufficient to prevent execution, they will be concluded by the judgment, and that will, if in form, be that the land of the ancestor, bound by the judgment, be taken in execution for the debt recovered against him. It created no personal liability as against the heirs, any more than a recovery does against any other terre-tenant; and no one pretends that in such case it extends beyond the lands of the debtor in his possession or claim. So, like a terre-tenant, the heirs are concluded by the judgment, if, after being warned, they fail to set up any defence they might have against the award of execution or recovery on the soi. fa. They cannot, I apprehend, after-wards contest the right in ejectment: Drum v. Kelly, 10 Casey 417.\nThis very question was discussed and settled, however, in Coyle et al. v. Reynolds et at, 7 S. & R. 328. There it was held that a judgment against the heir and a terre-tenant on a sci. fa., on a judgment against the ancestor, without specifying what land it was to affect, binds only the lands of the ancestor in their hands, and cannot be enforced against them personally. There the plea was payment; the other plea of the terre-tenant, that lie was a purchaser for a valuable consideration, was a nullity; for that would not protect him if the lands were bound by the judgment when he purchased. This case, as well as the principle referred to, sufficiently determines the question that the plea offered, the rejection of which is the alleged error in the case, was of no practical value whatever, and its rejection did the plaintiffs in error no harm, and can do none. The practice is well settled to this effect, and for the sake of mere symmetry in proceedings, we will not hold that any greater precision in cases of this kind is now necessary than formerly. It might lead to injurious doubts about the effect of former proceedings in like cases.\nIn the outset, I spoke of the plea as something of a novelty; perhaps it might have turned out, had it been received and traversed by the other party, a costly one. On the death of the ancestor, his estate not devised certainly descended to his heirs. That it may have been encumbered, and for that reason of no value to them, makes no difference. To them the title goes. They are the legal successors to it, and so it stands until divested; so that the issue would have been against the defendants, if taken on their plea. Thus, instead of a judgment, that execution should go to charge the estate as in ordinary eases, the judgment would probably in strictness have boon against them personally. But it is not necessary to decide definitely what effect the plea might have had if received. Suffice it, the plaintiff in error was not injured by the refusal, and the\nJudgment is affirmed.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "Wm. Henry Rawle and George M. Wharton, for plaintiff in error.",
+      "There was no printed argument for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Coulter versus Selby.\nLiability of Heirs for Debt of Ancestor.\nOn the trial of a scire facias guare ex. non, to revive a judgment, against the widow and heirs of a decedent, the court refused to allow the defendants to amend and plead \u201c That they took nothing by descent.\u201d Held, that such refusal was not error : for the judgment against the heirs would bind only the lands of their ancestor, in their hands, and could not be enforced against them personally.\nError to the District Court of Philadelphia.\nOn the 17th of October 1832, judgment was obtained by James Selby against John Coulter for $5624.88. This judgment was from time to time revived, the last entry being on the 28th of May 1856, for $18,487.89. On the 22d of September 1859, the death of John Coulter was suggested, and the substitution of Ashton, as his administrator, made upon the record. John Coulter died on or about the 16th day of December 1857.\nA scire facias to revive judgment, et quare executionem non, was then issued to September Term 1859, No. 901, as follows \u2014 James Selby v. Samuel K. Ashton, administrator, &c., with notice to Ann Coulter, Paschall H. Coulter, Stephen R. Coulter, Levi Coulter, Day Coulter, and John B. Champion and Nancy his wife, late Coultet, the said Ann, Paschall H., Stephen R., Levi, and Day Coulter, and Nancy Champion, being the widow and heirs at law of the said John Coulter, deceased.\nTo this writ, the sheriff returned \u201cnihil,\u201d as to Levi and Day Coulter, and \u201cmade known,\u201d as to the other defendants.\nThe defendants, who had been served with process, pleaded nul tiel record, and payment; and on the trial, on the 23d of November 1860, asked leave to file the following plea:\u2014\nAnd for a further plea in this behalf, the defendants, Ann Coulter, Paschall H. Coulter, Stephen Coulter, and John B. Champion and Nancy his wife (who, together with Levi Coulter and Day Coulter, as to whom the sheriff returned \u201c nihil habent,\u201d are named in the said writ as the widow and heirs at law of John Coulter, deceased), by leave of the court obtained, say that the said plaintiff ought not to have and maintain his aforesaid action thereof against the said defendants, because they say that they, the said defendants, have taken and hold nothing by descent from the said John Coulter, deceased, as his heirs and legal representatives, and this they are ready to verify.\nJuly 24th 1861,\nThe court refused leave to file this plea, and the jury found a verdict for the, plaintiff for $>23,467.30.\nJudgment having been entered on the verdict, the defendant sued out this writ, and assigned for error here the refusal of the court below to allow said plea to be filed.\nWm. Henry Rawle and George M. Wharton, for plaintiff in error.\nThe point presented by this record is, whether in an action to revive a judgment against the heirs of a deceased defendant, they can be permitted to show that, as heirs or devisees, they take and hold nothing by descent from their ancestor.\nThe Act of February 28th 1834, \u00a7 25, provides that judgments which are a lien at the death of the defendant, shall continue to bind the real estate of deceased during the term of five years from his death, although not revived by sci. fa. or otherwise, and shall rank according to priority at the time of such death, and, after the expiration of such term, shall not continue a lien on the rep.l estate of the decedent as against a bond fide purchaser, mortgagee, or other judgment-creditor of such decedent, unless revived by sci. fa. or otherwise, according to the laws regulating the revival of judgments. The \u201claws\u201d here referred to are those of April 4th 1798, sections 2, 3, which must not be confounded with those which refer to judgments obtained since the death of debtor. It relates exclusively to judgments inter vivos \u2014 those recovered against a debtor in his lifetime: Fetterman v. Murphy, 4 Watts 424; Konigmacher v. Brown, 2 Harris 273; Aurand\u2019s Appeal, 10 Casey 151.\nWhen the defendant is thus dead, the service must be made on the heirs in the legal sense \u2014 persons taking by descent, and being thus made parties as heirs, they should be permitted to show that, as such heirs, they have nothing by descent from their ancestor. Else it might be said that, by being brought into-court by writ, by their appearance, and by permitting the judgment to be revived against them as heirs, they shall not be permitted hereafter to show that they are not heirs \u2014 that they take nothing by descent: Drum v. Kelly, 10 Casey 417; Colburn v. Trimpey, 12 Id. 463.\nThere was no printed argument for defendant in error."
+  },
+  "file_name": "0358-01",
+  "first_page_order": 358,
+  "last_page_order": 361
+}

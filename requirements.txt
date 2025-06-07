@@ -1,0 +1,13 @@
+# === Core libraries ===
+numpy<2                  # faiss + torch wheels are still built against NumPy 1.x
+torch==2.2.*             # CPU-only wheel on macOS; replace with +cuXXX on Linux+CUDA
+tqdm>=4.66               # progress bars
+
+# === Retrieval stack ===
+transformers>=4.39
+sentencepiece            # some tokenizers need it
+faiss-cpu==1.7.4         # GPU users: faiss-gpu==1.7.4.post2 (needs matching CUDA)
+
+# === IR / evaluation helpers ===
+pytrec_eval==0.5         # nDCG, MAP, bpref, R-prec, etc.  (C extension; wheels exist)
+pyserini==0.21.0         # optional — only for BM25 baseline runs

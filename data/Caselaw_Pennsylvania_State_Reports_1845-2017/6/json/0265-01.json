@@ -1,0 +1,91 @@
+{
+  "id": 954544,
+  "name": "Curtis v. Slosson",
+  "name_abbreviation": "Curtis v. Slosson",
+  "decision_date": "1847-07-27",
+  "docket_number": "",
+  "first_page": "265",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Johns. 152",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0152-01"
+      ]
+    },
+    {
+      "cite": "9 Johns. 392",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372372
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0392-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 276,
+    "char_count": 3682,
+    "ocr_confidence": 0.393,
+    "pagerank": {
+      "raw": 9.145855252602772e-08,
+      "percentile": 0.5080917845017219
+    },
+    "sha256": "000a8b06a3115eb2d07ea38ad44d090bd4cb57c047a27e23648784c18c87b649",
+    "simhash": "1:43828ef5f03740bf",
+    "word_count": 630
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Curtis v. Slosson."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nBy a practice peculiar to our courts, a judgment entered on a bond and warrant may be opened, as it is inaccurately said, to let in matters of defence which existed at the time of the rendition; 'never to let- in matters \"subsequent to it. The latter are determinable in a trial on a scire facias quare executio non, or in a summary way, where the facts are not disputed, or the parties' do not demand a trial by jury. A converse principle is, that on the trial' of a scire facias, -the defendant- shall not be suffered to go behind tire judgment. \u2019 If these two plain and often repeated principles were kept in view,-we should be spared the mortification of much confused and purblind litigation. The first of them disposes of. the point under consideration. The judgment was /entered in 1840, and opened in 1842, to let the defendant into proof of certain specific facts sworn to in his affidavit of defence. He filed his; petition in 1843'; was discharged as a bankrupt. in 1844; and obtained his certificate in 1845. All these matters wrere \u00a1posterior to the signing of-the judgment, and could not be set up at the trial of .the defence in 1845, not only, for that reason, but because they were ho part of the issues, the proceeding not being- de novo. The judgment, nevertheless, was discharged by the defendant\u2019s bankruptcy, the effect of which was not waived by the retraction of his plea, because he was not at liberty to plead any fact that was not stated in his affidavit, and because he could not have sustained it by proof, as his certificate would have shown it to be subsequent to the judgment. As the writ of \u00e1udita querela is not in use with us, what could he do ? Certainly, no more than wait till he should be molested by having his subsequently acquired property seized in execution. That event soon occurred; and as the eonclusiveness of the certificate of bankruptcy superseded the necessity of a trial by jury, the court very properly relieved him summarily, by quashing the execution.\nOrder to quash affirmed;",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Hahes, for plaintiff in error,",
+      "Butler, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Curtis v. Slosson.\nOn the petition of a defendant, alleging performance of conditions of a judgment confessed, and an issue directed, lie is precluded from setting up matters of defence subsequent to the judgment. And where he has obtained a discharge in bankruptcy, subsequently to the trial of the issue, an execution may be summarily set aside as to his personal property.\nIn error from the Common Pleas of Luzerne county.\n- July 17. In 1840, judgment was confessed by Slosson, on a bond conditioned to submit to reference, and give security to pay the award. -\nIn 1840, on affidavit 'of compliance, with conditions, tho defendant was let into a defence. The plaintiff having declared on the bond, the defendant, in .1844, filed a plea of bankruptcy, \u2022puis darrein continuance. On thp trial, in April, 1845, the plea was'-withdrawn, and verdict and judgment entered for plaintiffs.\nExecution having issued, the defendant moved to set it aside. It was admitted, the judgment in 'the present case -was collateral to another in Susquehanna county.\nIn May, 1845,-the defendant had received his certificate in bankruptcy. In the proceedings in that; court, which were commenced in 1848, the present plaintiffs had been returned as creditors oii their judgment in Susquehanna \u2022 county, and notice to them had been given. . . \u2018\nThereupon the- court set aside the execution as to the personal property of the defendant.- \u25a0 '\nHahes, for plaintiff in error,\ncited 9 Johns. 392; 15 Johns. 152 ; 3 Barr, 298, 433; 2 Barr, 16.\nButler, contra,\ncited Cullen\u2019s Bankrupt Law, 105 ; 11 Ves. 649; Cowper, 25, 138; Eden\u2019s Bankrupt Law, 413.\nJuly, 27.'"
+  },
+  "file_name": "0265-01",
+  "first_page_order": 265,
+  "last_page_order": 267
+}

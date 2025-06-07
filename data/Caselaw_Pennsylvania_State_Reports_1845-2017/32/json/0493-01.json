@@ -1,0 +1,78 @@
+{
+  "id": 986827,
+  "name": "Seltzer versus Coleman",
+  "name_abbreviation": "Seltzer v. Coleman",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "493",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 Pa. 493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 W. & S. 257",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856271
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0257-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 305,
+    "char_count": 4831,
+    "ocr_confidence": 0.465,
+    "pagerank": {
+      "raw": 3.285373544792292e-07,
+      "percentile": 0.8710029040303122
+    },
+    "sha256": "8ba871ce8bfb3e327cae65337c75cd5754a07e72cfac9345db8aef534c344e27",
+    "simhash": "1:08e645b5b90ca283",
+    "word_count": 879
+  },
+  "last_updated": "2024-02-27T20:05:07.474243+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Seltzer versus Coleman."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRead, J. \u2014\nThe law on this subject is correctly laid down by Judge Story, in his Commentaries on the law of promissory notes, sec. 437: \u201c A negotiable promissory note,\u201d says Judge Story, \u201c will, by our law, operate as an extinguishment of a prior existing debt, if it is so intended between the parties. The only questio'n is, as to the proof of such an intention. In general, as we have already seen, by the law of England, and of most of the states of America, the receipt of a promissory note of the debtor, for a debt, is, in the absence of all other proof, treated as a conditional payment only of the debt; that is to say, if, or when, the note is paid. But if the note is intentionally received as absolute payment, the original debt becomes thereby extinguishedsee Ohitty on Bills, 10th ed. 1859, p. 119; Smith\u2019s Mercantile Law, 6th ed. 1859, p. 542.\nIt is, therefore, a question of intention; which is a question of fact for the jury, upon the evidence.\nThe affidavit of defence in this case, was filed in a scire facias on a mechanic\u2019s claim, which it alleged had been fully paid and satisfied, as would appear by the statement and receipt signed by the plaintiff, which is given at length in the paper-book. The mechanic\u2019s claim was filed on the 2d August 1858, and the statement and receipt is a bill dated 11th February 1858, made out by the plaintiff in the usual form, in which the defendant is made debtor to the plaintiff,\n\u201c Feb. 6. To marble work, as per contract of house, corner of 10th and Fitz-\nwater streets, . . . . $700 00\nTo bill rendered for extras, . . 120 50\n$820 50\nBy cash, ..... 200 00\n$620 50\nInterest for three months on note, 9 00\n$629 50\nOr. by note dated January 25th, 609 00\n$20 50\u201d\nat the foot of which bill is the following receipt:\u2014\n\u201cReceived May 1st 1858, from 0. A. Seltzer, twenty dollars and fifty cents, the above balance due me on this bill, in full of all demands up to this date.\n\u201c $20.50. John T. Coleman.\u201d\nIt does not appear by the bill, whose note it was, nor when it was payable; and no verbal explanation of counsel, in a court of error, can add to or take from the paper, which is to be read according to its own words alone. It is, therefore, not the simple receipt of a promissory note for a precedent debt, hut it is accompanied by language tending to show that it was taken in satisfaction and discharge; and if that was the intention of the parties, then the lien was extinguished.\nWe are not without direct authority in this state. In Jones v. Shawhan, 4 W. & S. 257, it was decided, that a receipt given for a note \u201c in full of the bill,\u201d was evidence to rebut the presumption that it was not payment or satisfaction, and should be left to the jury. This case has remained undisputed up to this time, and it would be impossible for one, not a lawyer, to distinguish it from the present one.\nThis receipt \u201cin full of all demands up to this date,\u201d would clearly convey the idea to a purchaser of the property, that the mechanic\u2019s lien was satisfied, or extinguished, or given up; and if so, then the case should have been submitted to a jury.\nJudgment reversed, and procedendo awarded.",
+        "type": "majority",
+        "author": "Read, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Briggs, for the plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Seltzer versus Coleman.\nThe receipt of a negotiable promissory note operates as an extinguishment of a prior existing debt, if so intended between the parties; and this is a question of fact for the jury upon the evidence.\nError to the District Court of Philadelphia.\nThis was a scire facias on a mechanic\u2019s claim for $600, by John T. Coleman against Christian A. Seltzer, to which the defendant put in the following affidavit of defence :\u2014\n\u201c Christian A. Seltzer, the defendant, being duly sworn according to law, doth depose and say, that he has a just and lawful defence to the above action, of this nature, to wit:\u2014\n\u201c That the claim, upon which the above action is brought, has been fully paid and satisfied, as will appear by the following statement and receipt, signed by the said plaintiff:\u2014\n\u2018 Philadelphia, Feb. 11th 1858.\n\u2018Mr. C. A. Seltzer,\nTo John T. Coleman, Dr.\n\u2018 Feb. 6. To marble wort, as per contract of house, corner of 10th and Fitzwater\nstreets, . . . . . $700 00\nTo bill rendered for extras, . . 120 50\n$820 50\nBy cash, $200, ..... 200 00\n$620 50\nInterest for three months on note, 9 00\n$629 50\nOr. by note dated January 25th, 609 00\n$20 50\n\u2018 Received May 1st 1858, from C. A. Seltzer, twenty dollars and fifty cents, the above balance due me on this bill, in full of all demands up to this date.\n\u2018 $20.50. John T. Coleman.\u2019\n\u25a0 \u201c C. A. Seltzer.\n\u201c Sworn and subscribed to before me, 1 this 22d day of September, A. D. 1858. j\n\u201c Charles D. Freeman, Alderman.\u201d\nThe court below gave judgment for the plaintiff for want of a sufficient affidavit of defence; which was here assigned for error.\nBriggs, for the plaintiff in error."
+  },
+  "file_name": "0493-01",
+  "first_page_order": 493,
+  "last_page_order": 495
+}

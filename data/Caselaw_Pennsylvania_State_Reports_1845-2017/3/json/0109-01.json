@@ -1,0 +1,145 @@
+{
+  "id": 400658,
+  "name": "Ege v. P. & R. Koontz",
+  "name_abbreviation": "Ege v. Koontz",
+  "decision_date": "1846-06-11",
+  "docket_number": "",
+  "first_page": "109",
+  "last_page": "114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Pick. 46",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2056604
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/24/0048-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 380",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Wend. 174",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2150295
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/20/0174-01"
+      ]
+    },
+    {
+      "cite": "8 Watts & Serg. 53",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0053-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 414",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840144
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0414-01"
+      ]
+    },
+    {
+      "cite": "1 Wend. 360",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts & Serg. 486",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle, 118",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820568
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/2/0118-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 649,
+    "char_count": 15200,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 4.0612295830603546e-07,
+      "percentile": 0.9081450308492889
+    },
+    "sha256": "619875d0b508370779857ef5b32a9c8279eea692ee376d1181011225510f992a",
+    "simhash": "1:3f468b34530dd7e7",
+    "word_count": 2712
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ege v. P. & R. Koontz."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\nThe general principle, that a person who voluntarily pays money to another claiming it as a debt, may recover it back again where it turns out to have been paid by mistake, is recognised by our law, as the decided cases fully establish, only where the mistake is owing to misconception, error, or ignorance of fact. Where the party alleges merely a mistake of the law, the maxim applies ignorantia juris neminem excusat. One person is not allowed gratuitously to alter the position of another, and affect his rights and liabilities, by voluntarily assuming to understand his own legal duty, and paying a claim on the footing of such assumption, and then drawing it into question upon the allegation of a mistake of his duty. It would not only encourage negligence and rashness, but might in many instances have an injurious operation on the rights of others, if permitted. If these considerations operate in respect to individuals, they apply with still more force to transactions in which the party is acting in a legal character. Thus, it has been held, that from the confusion, inconvenience, and general uncertainty that would prevail, an administrator who has voluntarily paid money within the year to a creditor of the intestate for a just debt, cannot recover it back on account of deficiency of assets after-wards appearing. Carson v. McFarland, 2 Rawle, 118. So in the case before us, when the plaintiffs paid this money to the defendant, they stood in the situation of stakeholders. An attachment had been previously laid on the debt due by them to Snodgrass, the legal effect of which was to restrain them from paying over the money to either claimant, until the attachment was disposed of, and then only according to the result of that proceeding. The rights of the Carlisle Bank, the attaching creditor, and Snodgrass or his assignee, Ege, were virtually sub judice, and were regularly to be settled by that proceeding. As the assignee claimed the money, he might, and perhaps would have become a party to the issue, and for this purpose it was the duty of the garnishees to notify him of the attachment, and to wait its determination. Instead of doing so, they go out of their way, and whilst it is pending, pay over the money to the assignee. This was calculated to turn the assignee aside from any intervention in the attachment. In addition to this, it appears, that the assignee filed his account in the District Court of the United States, to which he was cited by the plaintiffs, charging himself with this money; and that no notice of the attachment was given to him by the garnishees till August, 1844, nearly two years after he had received the money. Under these circumstances, it appears to us there were such laches on the part of the garnishees as would go far to deprive them of the right to recover back the money by suit, even had it been paid under mistake of fact. But there is no pretence of this. The subsequent promise, if there was a consideration, seems to amount to no more than a consent to return the money, if, under the circumstances, he was justifiable in so doing, which leaves the matter very much where it stood before.\nJudgment reversed, and judgment for defendant below.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Gaullagher and Biddle, for plaintiff in error.",
+      "Reed and Watts, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Ege v. P. & R. Koontz.\nOne, who voluntarily pays money by mistake to another who claims it as a debt, may recover it back, only where the payment was made in a mistake arising from misconception, error or ignorance of fact, and ,not where he alleges a mistake of the law merely.\nOne person will not be allowed gratuitously to alter the position of another and affect his rights and liabilities, by voluntarily assuming to understat'd his own legal, duties, and after paying a claim on the .footing of such assumption, to draw it into question upon the allegation of a mistake of his duty.\nThe legal effect of an attachment laid upon a debt is, to restrain the garnishee from paying over the money, either to his individual creditor or to the attaching creditor, until the attachment is disposed of, and* then only according to the result of that proceeding.\nWhere, after the service of the attachment, the individual creditor of the garnishees filed his petition, and was subsequently declared a bankrupt; it became the duty of the garnishees to notify the assignee of such bankrupt of the attachment, to enable, him, if he claimed the money, to become a party to it, and then wait its determination.\nBut where the garnishees paid over the money to such assignee while the proceedings on the attachment were pending, and gave no notice of the attachment to the assignee until after he had filed his account in the United States Court, charging himself with the money, a period of nearly .two years from the time he received the same; it was held, that under the circumstances such a case of laches on the part of the garnishees was-presented, as would go far to deprive them of the right to recover back the money, even had it been paid under a mistake of fact.\nA subsequent promise by the assignee to pay the money back, if there were a consideration for it, amounted to no more th\u00e1n a consent to return the same, if under the circumstances he would be justifiable in doing so.\nError to the Common Pleas of Cumberland county.\nJune.5. P. & R. Koontz, the defendants in error, who Were plaintiffs below, brought debt to recover back money paid voluntarily by them, but, as it was alleged through mistake of legal duty, to, Peter F. Ege, the defendant, who claimed it as a debt due to his assignor in bankruptcy.\nBy consent, the facts given in evidence' on the trial were considered as found by the jury, subject to the bills of exceptions taken on both sides to-the admission and rejection of evidence ; and the court to enter judgment for either party as if found by the jury, with, liberty to either party to sue out a writ of error.\nIt appeared from the opinion of the court, (Hepburn, President,) that the facts in evidence were these:\nOn the 29th of October, 1841, P. & R. Koontz gave their note at twelve months, to Willi\u00e1m Snodgrass, for $660, upon which $200 were paid on the 19th of April, 1842. On the 12th of May, 1842, a and attachment issued from the Common Pleas \u00f3f this county, at the suit of the Carlisle Bank against William Snodgrass; and the plaintiffs in this action, with R. Snodgrass, jun., were, on the 14th of May, 1842, summoned as garnishees. Subsequent proceedings were had in court on this attachment, which resulted in a judgment against the Koontzes for the amount still due by them on this note, which was collected by an execution issued the 21st October, 1844. Previously to the payment of the money on the execution, but after the service of the attachment, to wit, the 30th May, 1842, William Snodgrass filed his petition for the benefit of the bankrupt law, and wras declared a bankrupt the 11th of July, 1842; and on the 25th of July, 1842, Peter F. Ege was appointed his assignee. Between the 29th of October and the 2d of November, 1842, R, Koontz paid Mr. Ege the balance due upon this note, and lifted it from his possession. Discovering his error shortly afterwards, he called upon Mr. Ege, and told him perhaps he had made a mistake in paying him the money, to which Mr. Ege replied, that if it were wrongfully paid to him, he would pay it back, if he were justifiable under the circumstances in doing so. The money was not returned to the Koontzes, and this action has been brought to enforce it.\nIt also appeared, that interrogatories under the proceeding by attachment were filed, and copies thereof served upon the garnishees on the 24th of August, 1844. On the 20th of August, 1844, the following notice was served upon Peter F. Ege as assignee of William Snodgrass, by the counsel of P. & R. Koontz:\n\u201c Interrogatories have been filed and served upon Philip Koontz and Robert Koontz, as garnishees under a proceeding by attachment, at the suit of the Carlisle Bank against William Snodgrass. The said Koontzes have answered, that they paid the money to you as the assignee in bankruptcy of said Snodgrass; and the attorney of the said bank will ask the court for a judgment against the said P. & R. Koontz, on the ground that the money was attached, and the right vested in the bank before the bankruptcy. In the event of a recovery of the money from the Messrs. Koontz, they will look to you to refund the money; and if you desire to contest the right of the bank, you can do so.\u201d\nEge did not appear to contest the right.\nThe defendant offered in evidence the petition of William Snodgrass for the benefit of the bankrupt law's, and schedule of his property, with proof that the only amount of the same that he could collect was the money in dispute; that the other notes, &c., mentioned in the schedule, being on insolvent persons, were not collectable. To be followed up with proof of the citation issued at the instance of the plaintiffs, and the account filed by the assignee in the United States Court, in pursuance of said citation. The petition and schedule, embracing the note of P. & R. Koontz, of the 29th of October, 1841, for $660, as aforesaid, were read without objection. The rest of the offer objected to, and rejected by the court. This was defendant\u2019s first bill of exception.\nThe defendant then offered his account filed in the District Court, which was objected to, and rejected by the court. This constituted defendant\u2019s second bill of exception.\nIt appeared that the money received from P. & R. Koontz was the only charge in the said account.\n\u2022 The court gave judgment for the plaintiffs, upon the facts in evidence.\nAgainst the right of the plaintiffs to recover, two legal grounds were assumed by the defendant in the court below.\n1. That the money was paid to Ege, after the attachment was served, and Ege was the agent of the creditors of Snodgrass. P. & R. Koontz had a knowledge of the facts, and if ignorant of the law, they paid the money tQ a man who may hold it in good conscience, and it cannot be recovered back.\n2. Any promise made by Ege at a subsequent period, without consideration, cannot entitle the plaintiffs to recover.\nThe defendant took this writ of error, and assigned the following errors here:\u2014\n1. The court erred in rejecting defendant\u2019s offer as per first bill of exceptions.\n2. They erred in rejecting defendant\u2019s offer as per second bill of exceptions.\n3. They erred in rendering judgment for plaintiffs, upon the facts in evidence considered as found by the jury, and embraced in opinion filed.\nGaullagher and Biddle, for plaintiff in error.\nIt is well settled in England and in this country, that a voluntary payment, made with a full knowledge of the facts, but an ignorance of the law or legal effect of the circumstances, cannot be recovered back. Chitty on Contracts, edition of 1844, p. 627; 2 East, 469 ; 5 Taunt. 143; 1 Barn. & Adol. 123; 6 Barn. & Ores. 671; 1 Esp. 84, 279; 4 Term Rep. 561, 564; 2 Esp. 546, 723 ; 2 Comyn on Contracts, 40 ; 6 Watts & Serg. 486 ; 7 Wa'tts & Serg. 457; 1 Wend. 360; 9 Cowen, 684. The cases show that the defendant may hold in conscience, unless he has been guilty o\u00ed fraud or misrepresentation.\nWhen a suit is brought for an unjust and unfounded demand, and not prosecuted to judgment, if paid by the defendant without fraud or misrepresentation on the part of the plaintiff, it is viewed as a voluntary payment, and may be retained by the party to whom it is paid. See cases in note to Chitty on Contracts,. 639 a. An administrator or executor, voluntarily paying a simple contract debt, cannot recover the same, should the estate prove insufficient to meet that class of claims. 2 Rawle, .120; 2 Watts, 414.\n\u25a0 As to the promise of .Ege, it would not bind him if positive. 7 Watts, .420; 1 Wha'rt. 66 ; 1 Comyn on Contracts, 18 ; 2 Pothier, 21; 7 Term Rep. 348, 350 : but it was a conditional promise, \u00abthat he would pay the money back if he was justifiable in doing so under the circumstances'.\u201d Whether he would be. justifiable, should be determined by the District Court of the United States, which has jurisdiction of Ege\u2019s account. It would be unfair to Ege to permit Koontz to .recover in a state court the money paid by him volun- , tarily, and leave Ege, who is innocent in the whole transaction, liable to the risk of being charged in the United States Court with the amount so recovered.\nReed and Watts, for defendants in error.\nThe copy of the account filed by the assignee in the United States Court, in pursuance of a citation, offered in evidence by the defendant below and objected to by the plaintiffs, w.as properly rejected by the court. It was not a settled account. It was a mere extract of a paper presented by the defendant to the court, dated in 1.844. It was no copy' of any record; it was irrelevant, and done after notice and after parties\u2019 rights were fixed.\nThere was no error' committed by the court, in rendering judgment for the plaintiffs upon the facts in evidence. The lien of the plaintiffs attached on the 14th of May, 1842. They cited Park & Johns. Dig. as to the mode of proceeding in levying upon, and taking in execution debts due, &c. Their lien, which had attached, was preserved by the bankrupt law. Bank. Act, p. 16, sec. 2. Jurisdiction having attached in the state courts must be carried out therein. The account offered could neither affect the question of lien, or of jurisdiction. Then, had Peter F. Ege, the defendant, any right either to recover or retain the money? The District Court of the United States had no jurisdiction until petition was presented on the 30th of May, 1843. Bank. Act, 39, 37, 51. This gave no jurisdiction to the court, no right to the creditors of Snodgrass, or to the defendant, Ege, to the fund in question. It was not assigned or transferred by the bankrupt law. The defendant below, Ege, never was the assignee of Snodgrass, as to this fund. The creditors never had any right to this fund. If the defendant could retain it, it would be for himself. This fund could not pass by the decree, nor by the petition; for both were after the service of our attachment, and after our lien had attached.\nBankrupt\u2019s property liable to distress by landlord, between the acts of his petition and his being declared a bankrupt: Babb v. Morgan, 8 Watts & Serg. 53. If liable to distress, then it is also liable to any other lien. 1 Barr, 426, 427. If Ege had no right to claim, he had no right to receive. If he could not recover, he could not retain. It was a mistake in fact, as to the time when Snodgrass presented his petition for the benefit of the bankrupt act. A man is presumed to know the law, but not the facts.\nHad the party a right in conscience to receive ? Trevor v. Wall, 1 Term Rep. 286, 287 ; Wait v. Ligget, 8 Cowen, 195; Wheadon v. Olds, 20 Wend. 174. To deprive a party of his action for money paid voluntarily beyond what is due, on the ground of knowing it was not due, it must appear that it was paid with a full knowledge it ought not to be paid. 5 Ham. 536 ; 17 Mass. 380 ; 7 Pick. 46 ; Chitty on Contracts, 628. The defendant, Ege, was bound by his promise to refund. There was a moral obligation coupled with his promise.\nJune 11."
+  },
+  "file_name": "0109-01",
+  "first_page_order": 107,
+  "last_page_order": 112
+}

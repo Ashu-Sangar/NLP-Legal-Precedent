@@ -1,0 +1,66 @@
+{
+  "id": 963723,
+  "name": "Clemens v. Gilbert",
+  "name_abbreviation": "Clemens v. Gilbert",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "255",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 113,
+    "char_count": 1323,
+    "ocr_confidence": 0.386,
+    "pagerank": {
+      "raw": 9.388666575106135e-08,
+      "percentile": 0.5153742554102575
+    },
+    "sha256": "39f39b1d4cb790bd702035fef946b5a7c6557b0cb9bd94a4eee71a18e7a11e9f",
+    "simhash": "1:827ddd66b78bb4dc",
+    "word_count": 229
+  },
+  "last_updated": "2023-07-14T20:53:58.856380+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clemens v. Gilbert."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe justice\u2019s docket contains no entry of an offer to confess judgment for a particular sum. The fact that such an offer was made appears in his certificate to authenticate the transcript sent up with the appeal; but it is no part of the transcript; and no better than the unofficial assertion of the justice, which would not be received even under the sanction of his oath.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Gow, for plaintiff in error,",
+      "Montgomery and Watson, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Clemens v. Gilbert.\nTinder the Act of 1838, a certificate in the transcript, that the defendant offered to confess judgment for a certain amount, is not evidence of the fact.\nIn error from the Common Pleas of Washington.\nA judgment was entered by a justice of the peace for $87.50, being the amount of the plaintiff\u2019s demand. In the certificate attached to the transcript it was stated\u2014\u201c Defendant offered, in presence of the plaintiff, to confess judgment for five dollars, before the rendering of this judgment.\u201d\nOn the appeal the plaintiff had a verdict for five dollars, and the defendant took a rule to show cause why plaintiff should not pay defendant\u2019s costs since the appeal; which the Court discharged.\nGow, for plaintiff in error,\ncited Act of 9th April, 1838.\nMontgomery and Watson, contr\u00e1.\nThe offer must appear on the docket, and not in the certificate, which is no evidence of the fact: 1 Barr, 38, 43."
+  },
+  "file_name": "0255-01",
+  "first_page_order": 255,
+  "last_page_order": 256
+}

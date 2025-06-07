@@ -1,0 +1,123 @@
+{
+  "id": 974043,
+  "name": "Lawson's Appeal",
+  "name_abbreviation": "Lawson's Appeal",
+  "decision_date": "1854-04-03",
+  "docket_number": "",
+  "first_page": "85",
+  "last_page": "88",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Humph. 392",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8543516
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/23/0392-01"
+      ]
+    },
+    {
+      "cite": "4 Whar. 523",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Whar. 370",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836950
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0370-01"
+      ]
+    },
+    {
+      "cite": "6 Wh. 373",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wh. 130",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835004
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/4/0130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 460,
+    "char_count": 8847,
+    "ocr_confidence": 0.416,
+    "pagerank": {
+      "raw": 1.2325289854413653e-07,
+      "percentile": 0.6060005815010836
+    },
+    "sha256": "bff63dd7d380a078211fc8aa09ad932d6420c4eb55c2198b30107b302493bb5d",
+    "simhash": "1:61ec4875fceeaa6b",
+    "word_count": 1614
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "^Lbwis, J., dissented."
+    ],
+    "parties": [
+      "Lawson\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nWoodward, J.\nThe first error assigned relates to the question of advancement. This is a question of intention; and, applying the principles settled in Levering v. Rittenhouse, 4 Wh. 130, King\u2019s Case, 6 Wh. 373, and Haverstock v. Sarbach, 1 W. & Ser. 392, to the facts in evidence before the auditor, we have no difficulty in affirming the judgment of the Orphans\u2019 Court that this was a gift and not an advancement. Mr. Snowden made no charge against his sons for the money and stock in trade with which he set them up, and they gave him no note or other memorandum to indicate that they owed him anything. He often spoke of it as a present or gift to his sons, and never as an advancement. He had made valuable presents to his married daughters; and it is reasonable to infer that what he gave to start his sons was intended in the same manner to be gifts. Nor is this inference excluded by the proportion of the gift to his whole estate. Twenty-five hundred dollars given to each of two sons is not an extravagant provision for a father worth twenty-five thousand dollars, and whose other three children were married daughters. Deducing his intention from what we have in evidence of the transaction, we think the sound conclusion is that he meant a gift rather than an advancement ; and the character impressed then must remain. That which was a gift at first cannot become advancement, no more than an advancement can become a gift.\n2. There is not the slightest ground for the second error. There was not only no lease or covenant to. pay rent for the wharf, but it was in proof that the sons were to have the use of it for the taxes; and of course the proposition to charge them with rent is without a fact to justify it.\n3. The 48th section of the Act of 29th March, 1832, relating to Orphans\u2019 Courts, forbids the payment of a wife\u2019s distributive share to her husband without the prescribed security; but where, as in this case, the payment was to the wife and her husband joined in the receipt, without objection on her part, she shall not be admitted to surcharge the estate with the very sum that has been once in good faith paid to her. The Act of 1882 was intended as a protection to married women, not as a snare and an instrument of fraud, as it would become if this exception were tolerated.\n\u25a0 The decree of the Orphans\u2019 Court is affirmed.\n^Lbwis, J., dissented.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Dropsie, for exceptant.",
+      "Ouyler, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Lawson\u2019s Appeal.\n1. Advancement is a question of intention; that which was a gift at first cannot subsequently become an advancement.\n2. Where a father having five children, and being worth about $25,000, quitting the lumber business gave to his two sons his remaining- stock and some other property and money, amounting in all to about $5000, and also the use of his lumber-yard, for which no lease was made or any covenant or agreement to pay rent; and. in speaking of the matter, he said \u201che had given this to the hoys \u2014that \u201c he had presented them with it,\u201d &c.; and in relation to the lumber-yard, he said that they were to pay the taxes on it as an equivalent for rent. He had also made presents to his three married daughters, that to the exceptant, on her marriage, amounting to about $1100: Held, that these provisions to the sons were^to be considered as advancements, and that they wei-e not bound to pay rent for the yard.\n3. Though the 48th section of the Act of 29th March, 1832, relating to Orphans\u2019 Courts, forbids the wife\u2019s distributive share of the proceeds of real estate to be paid to her husband without security, yet where the payment was made to the wife, and her husband joined with her in the receipt without objection on her part, it was Held that she was not entitled to charge the estate with the money so paid to her.\nAppear from tbe decree of the Orphans\u2019 Court, Philadelphia. This was an appeal by Rebecca S. Lawson, from the decree of distribution on the estate of Joseph S. Snowden, deceased. The moneys for distribution by the administrators consisted chiefly of proceeds of sale of real estate, sold under proceedings in partition.\nJoseph S. Snowden died intestate in the year 1849, leaving five heirs, and an estate real and personal. The questions presented by this ease, arose out of the distribution of his estate.\nOf his five children, two were sons. . He had been engaged in the lumber business; and in March, 184T, he retired from business and established his sons as his successors. He gave to them his remaining stock, of which no value or estimate was taken, some money, and some other articles, supposed to be in value, altogether, about $5000; also, the use of his lumber-yard or wharf. No inventory or statement of these articles, &c., was made. No charge against his sons was entered upon his books, and no memorandum or obligation was taken for them. He declared to various persons \u201c that he had given this to the boys\u201d \u2014 \u201cthat he had presented them with it\u201d \u2014 and to one of the witnesses he said: \u201cSee what it is to have a kind father, I have presented my boys with the business, &c.\u201d -\n_ He had made considerable gifts also to the daughters \u2014 the gift to exceptant on her marriage amounting to about $1100.\nThe effort was made to charge the provision to the sons as an advancement. \u2022 The estate, exclusive of the $5000 received by the two sons, amounted to above $20,000.\nIn the report of the auditor was stated a receipt, on April 16th, 1851, by John L. Lawson and Rebecca his wife, of $3500. Also a receipt of James E. Bell and Eliza his wife, a daughter of the intestate, of $2000; and the receipt of E. A. Welsh and wife, who was another daughter of the intestate, on 13th June, 1851, for $1500.\nThe auditor, in his report, remarked that it did not appear that the intestate was aware of the technical difference between a gift and an advancement.\nThe Orphans\u2019 Court decided that the provision to the sons was intended as an advancement; that no rent for the wharf had been required or intended by the father; that the' payments to the daughters, though married women, if made to themselves, were good under the Act of 1848, a married woman being regarded by that Act as a feme sole with respect to her separate estate; and that such payment would not be invalidated because the husband was present and sanctioned the payment to his wife, as it was alleged appeared to be the case in this instance.\nCredit was allowed for such payments.\nError was assigned to the decree that the provision to the sons was not an advancement. 2d. In not charging the sons with the rent of the wharf; and 3d. \u201c In charging the exceptant with the sum of $3500, paid to the exceptant and her husband;\u201d it being alleged that the same was paid in violation of sec. 48 of the Act of 29th March, 1832, relating to Orphans\u2019 Courts.\nDropsie, for exceptant.\nThe question of advancement is one of intention: 6 Whar. 370, King\u2019s Estate. Its relative value to the whole estate and the proportions of the children\u2019s shares, is to be considered. It wras given to set up the sons. The father\u2019s buying an office for the son, and a commission in the army, wore held to be advancements pro tanto: Note in 3 P. Wms. 318; 8 Ves. 51; 7 Jurist 665. Reference was made to 4 Whar. 523, Lentz v. Hertzog. Inconsiderable sums given to a child, or an allowance to a son at the university or in travelling, held not to be an advancement ; or sums given to a daughter, if not given as a marriage portion or in pursuance of a marriage agreement, 3 Atk. 526; or a gold watch or wedding clothes, Id. 526. It was admitted that in this case the father did not intend to charge these allowances as debts; but it was contended that because they were not debts, it did not follow that they were not advancements.\n2. It w'as contended that rent should be charged for the wharf and lumber-yard, they forming part of the means of establishing the sons in business: 4 Humph. 392.\n3. By the Act of 29th March, 1832, the mode is prescribed for the payment or security of money belonging to married women; but it w'as not pursued in this instance. The Court below declared the payment was good under the Act of 1848; but it was suggested that, under that Act, the money of the wife could not legally be paid to the husband without the written consent of the wife given before one of the Judges of the Common Pleas.\nOuyler, for appellees.\nIt was contended that it was apparent from the declarations of the father that he intended the provision to the sons as an advancement. As to the wharf, it was replied that the auditor states that it was proven that the sons were to pay \u201ctaxes, and no more.\u201d\n3. The 48th section of the Act of 29th March, 1832, provides that the money of the wife \u201c shall not be paid to her husband but it was said that the payment in question was to the wife herself, she joining in the receipt.\nApril 3, 1854,"
+  },
+  "file_name": "0085-01",
+  "first_page_order": 85,
+  "last_page_order": 88
+}

@@ -1,0 +1,135 @@
+{
+  "id": 9505197,
+  "name": "Flannery's Will",
+  "name_abbreviation": "Flannery's Will",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "502",
+  "last_page": "507",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 502"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Pick. 379",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hill 266",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johnson 144",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 486",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844013
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0486-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 168",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 153",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0153-01"
+      ]
+    },
+    {
+      "cite": "12 Peters 161",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Binn. 336",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787956
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/1/0336-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 660,
+    "char_count": 15048,
+    "ocr_confidence": 0.418,
+    "pagerank": {
+      "raw": 1.109430790008434e-07,
+      "percentile": 0.5703253355697572
+    },
+    "sha256": "542cd92e6385b919fcb131aa1d8c954f2fe950352201fc2ee84f5d036f12d1d3",
+    "simhash": "1:01eef8eed155a18b",
+    "word_count": 2731
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Flannery\u2019s Will."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowRiR, J.\nOur statute of wills of 1833 declares, that its provisions shall not apply to the disposition of personal estate by a testator whose domicil is out of the state. Such also was the rule at common law, and it involves its contrary; that wills of real estate must be executed and proved according to the law of the place where the land lies: 1 Binn. 336. It follows, therefore, plainly enough, that a will which includes all of a man\u2019s real estate is entitled to be proved and registered in this state, according to our statute of wills, and irrespective of the testator\u2019s last domicil, at the instance of any one who desires to have it recorded as evidence of title to land; and, thus far, this proceeding is very plainly right.\nBut the register granted letters testamentary on this will, and thereby took jurisdiction of the personal estate of the testator, and this raises another question; for the allegation is that the testator was merely on a visit to this state at the time of his death here, and that his domicil was in California. We shall assume that this allegation is true; for there is evidence from which it might have been found: then how ought the will to be proved here in order to justify the granting of letters testamentary ?\nOur statute of 1832, relating to registers and registers\u2019 courts, requires that so much of the estate as is actually in this state shall be administered by executors or administrators constituted and qualified according to our laws, s. 6. It also makes the probate of the will according to the law of the domicil, sufficient evidence here, upon which to issue letters testamentary, without producing the original will or examining the witnesses, s. 12: of course this is not needed where the original will is produced for probate.\nWhat then is the 'test of its validity ? According to a well established rule of international law, sanctioned by our laws above referred to, it must be proved to have been executed in accordance with the laws of California.\nIt does not appear on the record that the California statute of wills was read in evidence; but it is given in our paper-books, and was used on the argument before the Register\u2019s Court and here, and we shall consider it.\nIt declares that no will (excepting nuncupative wills) \u201c shall be valid unless it he in writing and signed by the testator or by. some person in his presence and by his express direction, and attested by two or more competent witnesses subscribing their names to the will in the presence of the testator.\u201d\nUnder this statute we think that the signing of a mark by the testator to his name written by another is a good execution of the will. We have no California decisions to this effect; but the decisions of other Courts on their statutes of wills, which were cited at the bar, are entirely convincing. Our statute of wills may be sufficiently different to have called for a different construction. But if it were not so, we can hardly be expected to charge our peculiarities upon other people, and especially since they have been disowned in our legislature.\nDecree affirmed at'the appellant\u2019s costs and record remitted.",
+        "type": "majority",
+        "author": "LowRiR, J."
+      }
+    ],
+    "attorneys": [
+      "Hughes, with whom was Wells, for appellant.",
+      "McKenty and Strong, for appellee.",
+      "Hughes, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Flannery\u2019s Will.\n1. By our statute of -wills of 1833, its provisions are not to apply to the disposition of personal estate by a testator whose domicil is out of the state.\n2. Wills of real estate must be executed and proved according to the law of the place where the land lies.\n3. A will containing a devise bf the rest and residue of the testator\u2019s real estate, wherever situate, may be proved and registered in this state.\n4. By our Act of 1832, relating to registers and registers\u2019 courts, so much of the personal estate of a decedent, whose domicil is not in Pennsylvania, as is actually in this state, shall be administered by executors or administrators constituted and qualified according to our laws; and. to authorize such proceeding the probate of the will according to the law of the domicil is sufficient. Therefore, where the original will, made in .this state, by one whose domicil at the time was in California, was offered for probate in Pennsylvania, it was necessary to show that it was executed according to the laws of California.\n5. In the California statute of wills of 1850, it is enacted that \u201cNo will\u201d (except nuncupative wills) \u201c shall be valid unless it be in writing, and signed by the testator, or by some person in his presence and by his express direction, and attested by two or more competent witnesses subscribing their names to the will in the presence of the testator.\u201d\nHeld, that the signing by the testator of a marh to his name, written by another, was a good execution of the will by one whose domicil was in California; his will being made in Pennsylvania, when ill, when on a visit, and where,-soon after, he died.\nAppeal from tbe decree of tbe Register\u2019s Court of Berks county, affirming the decision of the register admitting to probate an instrument of writing purporting to be tbe will of Dennis Flannery, deceased.\nTbe domicil of Dennis Flannery, the testator, at tbe time of making bis will, appeared to be in.San Francisco, California, where be owned valuable roal estate. During tbe latter part of 1853 be visited bis uncle, Henry Flannery, in Berks county, Pennsylvania, and there died in about a week afterwards, viz., on tbe 28th or 29th December, 1853. On the 26th December, 1853, at bis request a will was drawn, in which flOOO was devised to each of two step-brothers, and certain real estate in San Francisco was devised to bis uncle, and also tbe residue of bis real and personal estate. The uncle was appointed executor.\n' After tbe will was prepared, it was read to tbe testator by tbe person who drew it, wbo tben left tbe room. Soon after be returned to tbe room with another person. Tbe testator said tbe paper was bis will, and bis mark was tben made to it. As to tbe mark, one of tbe said persons said, \u201c I guided tbe pen while the deceased made the mark \u2014 be made tbe impression himself. I guided tbe pen \u2014 be held on tbe top of it \u2014 I bore on it to make tbe mark, and so made it. I wrote tbe name \u2014 I wrote it in tbe room \u2014 he did not request me to write it.\u201d The two persons referred to signed tbe will as witnesses in tbe presence of tbe testator. It did not appear that they were requested by him to do so. It was testified that tbe testator bad learned to write. He died within two or three days after the will was executed.\nTbe will was proved before tbe register of Berks county on tbe 7th January, 1854.\nOn 20th April, 1854, a petition was presented to tbe register, praying that a citation issue to show cause why tbe letters testamentary should not be revoked and the probate set aside. In tbe petition no specific objection to tbe will was alleged.\nAt a Register\u2019s Court held in August, 1854, JONES, President Judge, in bis opinion, observed that a witness called to authenticate an instrument of writing need not be acquainted with its contents: 6 Ser. R. 495; Harding v. Harding, 6 Harris 842; 2 Starhie on JEv. 918; 1 Ves. 11; 7 Bingh. 457; 6 Id. 310; 2 Haywood 284; 1 W. \u00a7\u2022 Ser. 399.\nHe further observed that, if there were lands in Pennsylvania, tbe will was entitled to probate, if executed according to tbe law of Pennsylvania; and that tbe inquiry as to the existence of such land did not arise at that stage of tbe proceeding. He held that tbe execution by a marie was sufficient: 12 Peters 161. A mark is a good attestation by a subscribing witness: 8 Ves. 504; 17 Id. 454; also 7 Halstead 70; 1 Louisiana 37-46; Id. 112; 2 Jurist 775; 1 Moo. M. 516. A number of tbe English cases were decided under tbe statute of frauds of 29 Charles 2, of tbe 5th section of which our Act of 1833 is nearly a copy. Tbe law, as stated in Asay v. Hoover, 5 Barr, has been changed by tbe Act of 1848. He further observed that in tbe petition for tbe citation there should have been some specific objection assigned to the will: 1 Parsons\u2019 JEq. Oases 153. A mere marked allegation, not supported by evidence or disproved, was not sufficient to entitle a complainant to an issue. As to the manner in which the mark was made, reference was made to tbe case of Mason v. Harrison, 5 Har. J. 480.\nNo issue was directed, but tbe decree of tbe register, in admitting the will to probate and granting letters testamentary thereon, was affirmed.\nIt was assigned for error: 1. Tbe Court erred in bolding that two witnesses were not necessary to prove all tbe material facts to support tbe will. 2. In bolding that tbe mark in this case was a sufficient signing under tbe California statute. 8. In holding that tbe will should be sustained under our Act of Assembly, because there was a clause of general devise of the residue of tbe testator\u2019s real estate, wherever situate. 4. In bolding that the marie was a sufficient signing by tbe testator, notwithstanding it appeared that he could write. 5. It was submitted whether the register had jurisdiction to admit the will to probate.\nIn the California statute, which was printed in one of the paper-books, it is provided that \u201c No will, except such nuncupative wills as are mentioned in this Act, shall be valid, unless it be in writing, and signed by the testator, or by some person in his presence, and by his express direction, and attested by two or more competent witnesses subscribing their names to the will in the presence of the testator:\u201d Qal. Statutes o/1850, p. 17T.\nHughes, with whom was Wells, for appellant.\nA will of personal property is to be executed according to the law of the testator\u2019s domicil at the time of his death. If void by that law, it is absolutely void: 1 Binney 336; Story\u2019s Oon. of Laws, \u00a7 465. As to real property the lex loci governs: Id. \u00a7 474.\nBy the California statute, as by -the Pennsylvania statute of 1833, the will when not signed by the testator, is to be signed \u201c by some person in his presence and by his express direction.\u201d The testator in this case had learned, to write, and to render his will valid the directions of the statute should have been pursued. In this case, the name of the testator to the will was not written by his express direction. It was further contended that a marie to the name of the testator was not a sufficient execution: 10 Watts 153; 8 W- Ser. 21, Cavett\u2019s Appeal; 5 Barr 21, Asay v. Hoover; Id. 441, Grabill v. Barr. The question is not whether the testator intended to execute the will properly, but whether it was legally executed: 3 Harris 480, Martindale v. Warner.\nThe California statute requires two witnesses. Attestation is defined to be the witnessing an instrument of writing at the request of the party making it, and subscribing it as a witness: Bouvier Law Bie. 139. The witnesses did not sign the will in question at the request of the testator.\n3. There was no pretence that the testator owned real estate in Pennsylvania.\nMcKenty and Strong, for appellee.\nIn the Court below there was no specification of exceptions, as there should have been, as the Supreme Court on appeal should be limited to a revision of the questions made in the Court below: 7 Harris 439; 2 Bin. 168; also Rule of Court of 1852.\nAs to tbe first assignment. Tbe Court below did not bold that two witnesses were not necessary to prove all tbe material facts to support tbe will. \u2018 Tbe execution of tbe will was proved by two witnesses. Proof of its having been read to the testator is not required by tbe statute. A knowledge by tbe testator of its contents is only necessary to be shown when tbe will is impeached on the ground of fraud. But as that is not a statutory provision, a knowledge of its contents may be shown by a single witness: 6 Ser. * B. 495; 6 Harris 340; 3 W. O. O. B. 585; 5 Watts 486 j 1 Ves. 6; 6 Bing. 310; 7 Id. 457; 2 Haywood 234.\n2. Whether the testator, who bad come to Berks county on a visit, and where be bad before resided, intended to return to California, was not certainly established. But tbe will was legally executed either by tbe law of Pennsylvania or of California. Since the Act of 1848, a will by a citizen of Pennsylvania made in this state, may be executed by a marie. Tbe decision in Asay v. Hoover, and other cases, differed from decisions made in England and in some of tbe states of the Union. A signature is defined to be \u201ca sign, stamp, or mark impressed:\u201d Webster; also 12 Peters 161. Tbe English statute requires that tbe will be signed by tbe testator. Tbe making a mark by tbe devisor to a will of real estate is a sufficient signing (under the statute of frauds of 29 Car. 2, e. 2), and it is not necessary to prove that he could not write his name at the time: 3 Hev. \u00bf> Per. 228. Also cited 8 Adol. Pilis 94, Baker v. Denning; 8 Vesey 185, 504. Also 5 Johnson 144; 1 Hill 266; 9 Louis. 512; 11 Id. 251. It has not.been questioned that a deed may be well executed by a mark, and this implies more deliberation than tbe execution of a will.\nBut though tbe Pennsylvania Act of 1833, and tbe California statute, require, where the testator does not sign bis name, that it be signed by some one in his presence, and by his express direction, it is not to be implied that a marie is not a signature. Tbe same provision exists in tbe British statute of 29 Charles 2d, cb. 3, \u00a7 5: Boberts\u2019 Pig. 305. Under that statute a marie has been held to be a signature: 8 Ad. Pilis 94. Tbe same expression is used in the South Carolina and Maryland statutes, and of other states. Tbe California statute does not expressly require that tbe testator shall sign with his name.\n. Tbe California statute requires attesting witnesses, but they are required by tbe British statute. A request by tbe testator to tbe witnesses to subscribe, is not necessary. It is sufficient if tbe witnesses saw tbe testator sign: 17 Pick. 379, Hall v. Hall; 1 Metcalf 352, Dewey v. Dewey. Attestation is defined to be sworn or supported by testimony or evidence.\nThat a signature effected by a testator by another person guiding tbe pen is sufficient, reference was made to 1 Harr. & J. 480; 4 Wash. a. a. B. 262; 3 Ad. \u00bf Ellis 658; IT Pide. 373; 1 Metcalf 352. Signature of testator was effected by another person guiding his hand with his consent, and he afterwards acknowledged it. Held to be, in point of law, the act of the testator: 3 Curt. Bed. Bep. 752.\nIn the 6th section of our Act of 15th March, 1832, it is enacted that in cases where the decedent has no residence at the time of his decease in this Commonwealth, letters testamentary, and of administration shall be granted by the register of the county \u201c where the principal part of the goods and estate of the decedent shall be.\u201d If the residence of the testator was in California, his personal property with him was in Berks county, and the register had jurisdiction.\nHughes, in reply.\nTo authorize an execution by a mark it should appear that the testator was unable to write: Cavett\u2019s Appeal, 8 W. $ Ser. 21.\n(The suggestion was made that the inability to write might arise from debility.)"
+  },
+  "file_name": "0502-01",
+  "first_page_order": 500,
+  "last_page_order": 505
+}

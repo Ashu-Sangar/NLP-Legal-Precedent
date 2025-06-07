@@ -1,0 +1,123 @@
+{
+  "id": 418008,
+  "name": "Aurand's Appeal",
+  "name_abbreviation": "Aurand's Appeal",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "151",
+  "last_page": "152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 Pa. 151"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wh. 395",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830577
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0395-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 158",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843973
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0158-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 124",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0124-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 465",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 424",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842755,
+        1842699
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0424-01",
+        "/watts/4/0424-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 261,
+    "char_count": 3862,
+    "ocr_confidence": 0.507,
+    "pagerank": {
+      "raw": 2.0984423506661045e-07,
+      "percentile": 0.7613503721645548
+    },
+    "sha256": "0290e87b5742430947ab6c4dadcbacceed150cf11b95476e88be95978fb04095",
+    "simhash": "1:91fbdc04169c9d03",
+    "word_count": 671
+  },
+  "last_updated": "2024-02-27T21:55:21.103467+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aurand\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nBy interpretation of the Statute of Westm. 2, a judgment binds the land had at the date of it, and without limitation of time. The creditor might have execution of it in-the hands of the debtor at any indefinite period while the judgment remained unpaid. Thus stood the law in Pennsylvania till the statute of 1798 restrained the lien of a judgment to a period of five years; but only in favour of purchasers from the debtor, and judgment-creditors in his lifetime: it left it without bound or limit against every one else. Such is the plain meaning of the act, and such the interpretation of it established by Fetterman v. Murphy, and Payne v. Craft. But a general creditor is neither a purchaser nor a judgment-creditor within the purview, even though he may have obtained a judgment against the personal representative. Such a judgment creates no lien, though when duly followed, it protects the lien acquired by the death against the heirs or their alienees, and preserves the right of participation in the general fund. But in relation to a judgment-creditor at the time of the death, a lien-creditor, by force of the intestate laws, stands exactly as the decedent stood himself, and can no more disencumber the land of a judgment antecedent to the death, than he, were he living, could do it. The result is, that the general creditors become lien-creditors at the death, but not judgment-creditors within the meaning of the act, whether they obtain judgments against the personal representatives or not; and their liens hold only against the heirs or their alienees, and against each other; not against judgment-creditors of the decedent, or purchasers from him. The decree therefore is reversed, so far as to admit the judgment of Abraham Aurand to priority of payment; and the report of the auditor is directed to be amended and confirmed accordingly.\nSo decreed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "G. F. Miller, for the appellant,",
+      "Slenker, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "Aurand\u2019s Appeal.\nThe lien of a judgment, though not revived by scire facias within five years, continues against the lands of the debtor, in the hands of his heirs or devisees, and is entitled to priority of payment over the general creditors of the debtor, who had not obtained judgments against him in his lifetime.\n- The Act of 4th April 1798, restrained the lien of a judgment to a period of five years, only in favour of purchasers from the debtor, and judgment-creditors in his lifetime; but left it without limit against every one else.\nAppeal from the Orphans\u2019 Court of Union county.\nThis was an appeal by Abraham Aurand from the decree of the court below, distributing the proceeds of the sale of the real estate of Samuel Aurand, deceased, in the hands of his administrator.\nOn the 21st April 1834, Abraham Aurand obtained a judgment in the Court of Common Pleas of Union county against Samuel Aurand, for $600, on which the defendant paid interest up to the time of his decease, but which was not revived by scire facias.\nSamuel Aurand died on the 19th August 1845, indebted to divers creditors, but with no other judgment against him. And in 1847, his administrator, under an order of the Orphans\u2019 Court, sold his real estate for the payment of debts. The lands sold were bound by the lien of the appellant\u2019s judgment at the time it was entered; and the proceeds thereof, amounting to $2012.75, were in the hands of the administrator for distribution.\nThe court below decreed, that the appellant\u2019s judgment was entitled to no priority over the other debts of the decedent, where'upon this appeal was taken.\nG. F. Miller, for the appellant,\ncited Act 4th April 1798, \u00a7 2, Purd. Dig. 660; Act 26th March 1827, \u00a7 1, Id. 661; Fetter-man v. Murphy, 4 Watts 424; Payne v. Craft, 7 W. & S. 465; Brobst v. Bright, 8 Watts 124; Wells v. Baird, 3 Barr 351.\nSlenker, for the appellees,\ncited Purd. Dig. 439; 5 Watts 158; 2 Wh. 395.\nThis case was decided on the 16th July 1849."
+  },
+  "file_name": "0151-01",
+  "first_page_order": 151,
+  "last_page_order": 152
+}

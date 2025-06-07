@@ -1,0 +1,86 @@
+{
+  "id": 408786,
+  "name": "Leeds versus Vail",
+  "name_abbreviation": "Leeds v. Vail",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "185",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Whar. 393",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Bin. 235",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793589
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0235-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 441,
+    "char_count": 8184,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 9.636122320932634e-08,
+      "percentile": 0.5276230390265996
+    },
+    "sha256": "d0eacdebdd5410d2b82eec78e63285fbfa1ae68f0f766cf575d2b5d3e81a72bc",
+    "simhash": "1:847bd152ee5c264c",
+    "word_count": 1507
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leeds versus Vail."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nBurnside, J.\nThe promissory note in question was drawn on the 30th day of May, 1839, by John Carr, to the order of John S. Warner, for $530, at 90 days, and purported to be endorsed by John S. Warner, Hiram Ellis, Hannah Va\u00fc, Ellen MeEwen, and Joseph Leeds, who added agent to his name. On the trial, Benjamin Leeds, the plaintiff, attempted to prove that the endorsement by Hannah Vail was by direction and with the authority of her husband. Upon a careful examination of the evidence, I am well satisfied that in this he utterly failed. No one witness speaks of this note. He proved that Mrs. Vail lived with her husband for the last twenty years; that her husband was a feeble old man, and that she had a trustee. She sometimes did business as big agent, under the \u00f1ame of Hannah Harris; that she made caps for sale, and did a small business in company with her daughter-in-law, whether as R. & H. Vail, or as Rebecca, the witness could not recollect. She had collected some notes through the bank, and endorsed th.em Hannah Harris. Why or wherefore she endorsed this note did not appear, or that her husband had any knowledge of her doing so. The court refused to permit the note to be read to the jury, and directed a nonsuit. The rejecting of the note in evidence and directing the nonsuit 'are the errors complained of and assigned. Our law is, that a negotiable note given or endorsed by a wife', in the hands of a bona fide holder, cannot be given in evidence in a suit against the husband, unless it be first shown that it was given with his approbation or under his authority: Reakert v. Sanford, 5 W. & Ser. 164; nor is it sufficient, in order to entitle a note made by the wife to be given in evidence in an action against the husband, to show that the wife was engaged in trade, and that she bought goods, which formed the consideration of the note, on credit, for the purpose of carrying on the business, with the knowledge of her husband, without any objection to her doing so on his part, or even that she did so with his approbation: 5 W. & Ser. 164. The question, then, I take to be settled, that before this note could legally be received in evidence against the husband, the law required that it must be first proved that Mrs. Hannah Vail made the endorsement by express authority of her husband, or at least it ought to have been proved and shown, by his implied authority.\nNothing of this ldnd was done; no such evidence was given. .The plaintiff utterly failed in his proof, and hence the note was properly rejected. As the District Court is constituted, the learned judge was clearly right in ordering a nonsuit.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Smith, for plaintiff in error.",
+      "JEmlen, with whom was Bouvier, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Leeds versus Vail.\nIn order to render a husband liable for a negotiable note endorsed by his wife, it must be shown that it was endorsed by his authority expressed or implied.\nError to the District Court of Philadelphia.\nThis was an action brought by Benjamin Leeds against Daniel Vail, to recover the amount of a promissory note, endorsed by his wife Hannah Vail to the plaintiff.\nThe note was as follows:\u2014\n$530. Philadelphia, May 30, 1839.\n\u2022Ninety days after date, I promise to pay to the order of John S. Warner, five hundred and thirty dollars, without defalcation, value received. John Carr.\nNo. 107 Spruce street.\nEndorsed, John S. Warner,\nHiram Ellis,\nHannah Vail,\nEllen McEwen,\nJoseph Leeds, Agent.\nTo prove the authority of the wife to endorse notes, plaintiff produced L. Elmes.\u2014Have known Mr. and Mrs. Vail twenty years and have borrowed money from her ; she discounted my and other notes for me, prior to 1889; the notes were generally endorsed Hannah Harris, her maiden name; some years ago, she was in the cap business ; a long time ago; I have had no business with her since 1837; her husband lived with her; I generally called upon her at her house to transact the business; I think I have seen her husband there; she kept a bank account at the Schuylkill Bank; the checks were generally signed Hannah Harris; I can\u2019t say she endorsed Hannah Yail; my transactions were frequent with her.\nPeter Marseilles.\u2014I have known Mrs. Yail since 1814 or 1815 ; I had business with her a good many years ago; I bought goods of her since her marriage; not since 1826 or 1827; I can\u2019t say if she has discounted notes prior to 1826 or 1827I think she has always lived with her husband; she lives with him now; I can\u2019t say she did in 1839 ; she made a few caps and sold them; I bought them of her; she did business at that time with her daughter-in-law ; I can\u2019t say whether as R. & H. Yail or as Rebecca Yail.\nJames N. Martin.\u2014Is teller in the Manufacturers & Mechanics\u2019 Bank ; has been there some 12 or 15 years; knows Mrs. Yail; she kept a bank account there in the name of Hannah Harris; she was in the habit of putting in notes for collection endorsed by Hannah Harris ; her account began in 1839 \u2019and lasted till 1841.\nDaniel B. Yail.\u2014I am son to the Yails; my father and mother have been living together; were living together in 1839; in 1839 my mother was in the habit of doing business through her trustee; she did business as agent of her trustee or as his attorney; I can\u2019t say if she had a power of attorney to that effect; I don\u2019t think she did endorse or discount notes in 1839; she has discounted and endorsed notes prior to 1839; can\u2019t say if she endorsed these notes in her own name or as agent of her trustee; I have done her banking business for her occasionally, but not at all times; I think I have deposited notes for her to be collected by the bank; I think endorsed by her as attorney for her trustee. She was in the habit of doing business for herself with my father\u2019s knowledge; I can\u2019t say if with his consent: I never heard him make any objection; he is an old man, at times feeble; he supports the house, and keeps it agoing. I can\u2019t recollect how my mother\u2019s account was kept in the Manufacturers & Mechanics\u2019 Bank; I did at that time see her bank-book, but cannot recollect. I do not know .that my father had a knowledge of her lending money, or discounting or endorsing notes.\nPlaintiff then proved the note, and offered it in evidence. This was objected to by defendant, because plaintiff had not shown that defendant had knowledge of bis wife being in the habit of endorsing notes. The offer of the note was over-ruled, and a nonsuit entered under the act of Assembly of March 11, 1836.\nIt was assigned for error:\n1. Because the judge over-ruled the offer of the promissory note \u2022 in evidence made by John Carr in favor of John S. Warner.\n2. Because the judge decided that there was .no evidence showing that Mrs. Vail had been in the habit of endorsing notes with the knowledge and assent of her husband.\n3. Because the judge did not leave to the jury the fact whether there was any evidence tending to show that Mrs. Vail had been in the habit of endorsing notes with the knowledge and assent of her husband.\n4. Because the judge erred in entering a nonsuit in the case.\nSmith, for plaintiff in error.\nThe husband\u2019s authority may be implied in those cases where he is acquainted with the course of dealing of his wife, and does not forbid it, or put others on their guard. It need not be shown that he knew of the particular transaction : 5 Bin. 235; 3 Whar. 393; Story on Agency, sec. 104; Gfreenleaf, sec. 65 ; 5 Barr 333.\nIf it be said that in this case the power to endorse was for collection only, it may be answered that the law knows no difference in endorsements in the hand of bona fide holders.\nJEmlen, with whom was Bouvier, for defendant.\nThat, to render the husband liable on the note, it must be given by his authority and approbation, and this must be shown. It does not appear that the wife received any consideration for endorsing the note, or that her husband authorized her to endorse it: 5 W. Ser. 164; 5 Bin. 235. That she never endorsed a note for the purpose of making herself liable, but merely for the purpose of collecting money due to her on account of the estate held in trust for her. When a credit is given to the wife alone, the husband is not responsible : 1 Mod. 138; 5 Tauh. 356 ; 7 Term Mep. 166 ; 3 B. & Or. 631."
+  },
+  "file_name": "0185-01",
+  "first_page_order": 185,
+  "last_page_order": 188
+}

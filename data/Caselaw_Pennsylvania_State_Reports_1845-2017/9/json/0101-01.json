@@ -1,0 +1,103 @@
+{
+  "id": 960743,
+  "name": "Wilson v. Young",
+  "name_abbreviation": "Wilson v. Young",
+  "decision_date": "1848-09-12",
+  "docket_number": "",
+  "first_page": "101",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 101"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Johns. 34",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132794
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0034-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 235",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Penn. Rep. 266",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Binn. 387",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793577
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/5/0387-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 288,
+    "char_count": 3487,
+    "ocr_confidence": 0.397,
+    "pagerank": {
+      "raw": 2.505495942989678e-07,
+      "percentile": 0.8099632449613858
+    },
+    "sha256": "28a509fa44fb97a8d4f885e2f0ef6193d368ade20ceb0132d27837e6c2f3121d",
+    "simhash": "1:5a15fc666292e801",
+    "word_count": 610
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wilson v. Young."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nAn attorney at law is a public officer whose warrant is \u201c tails poni\u00f3 loco suo talem attornatum suum,\u201d and is defined by Bacon to be aj person appointed to prosecute and defend for his client. He is an officer or member of a court of record, and appointed in the place of another, to transact and manage either his law concerns and the business incident thereto, or other affairs which require the professional skill, knowledge, or learning usually possessed by members of the profession: Maugham\u2019s Law of Attorneys, 4; 1 Step. N. P. 404. It will scarcely be doubted, therefore, even in England, where his powers are so plenary, but that he would be competent to submit a case to an umpire. It is said, in Lynch v. The Commonwealth, 16 S. & R. 388, that in Pennsylvania the authority of an attorney is more extensive than in other countries; and indeed it would be difficult to point out any matter or thing in the legitimate conduct of a suit to judgment which he may not do. The limitations imposed on him relate generally to compromises, which substitute one thing for another; as real estate for money, or to transactions after judgment. There is nothing whatever in the argument, that he cannot be allowed to deprive his client of the right of trial by jury; because no one doubts his authority to make an issue in law, by interposing a general demurrer, and thus devolve the decision upon the court, without the intervention of a jury. The statute of 1806, under which the reference in hand was made, expressly authorizes the parties, either by themselves, their agents, or attorneys, to consent to a rule of court for referring the cause to persons mutually .chosen; and the addition of the limitation in the present case, that the award shall not be subject to exception or appeal, does not vitiate or impair the agreement, because no appeal is allowed by the statute; and the court, in a suitable case, would interfere, notwithstanding the limitation of \u201cwithout exception:\u201d Mussinar v. Hertzog, 5 Binn. 387; Horton v. Stanley, 1 Miles, 418. Their right to supervision is not taken away by such words, or those of like import. But such qualification is often beneficial to the party, conduces to the settlement of cases where the amount is unimportant, and is within the scope of the authority of an attorney, in the conduct of the suit.\nThe client is by no means without relief in proper cases, by application to the court; and he may revoke the submission. This disposes of the second error assigned; and there is nothing in the first. The jurisdiction of the justice was clear and indisputable.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Wilson and Wills, for plaintiff in error,",
+      "Marshall, cont\u00f3,"
+    ],
+    "corrections": "",
+    "head_matter": "Wilson v. Young.\nAn attorney at law may refer Ms client\u2019s cause to arbitrators, with an agreement that their award shall he final.\nIn error from the Common Pleas of Allegheny.\nThe plaintiff\u2019s attorney in an action pending, agreed to a reference to arbitrators \u201c on whose award judgment was to be entered without exception or appeal.\u201d\nAn award was made for defendant in May, 1846. In June, 1847, an application was made by plaintiff to set aside the award, on affidavit that his attorneys had no special authority, and that the reference as made was without his consent or approbation at the time. The court refused the rule, and this was assigned for error.\nWilson and Wills, for plaintiff in error,\ncited 3 Barr, 449; 13 Eng. C. L. Rep. 134; 1 Penn. Rep. 266-7; 3 Binn. 235-6.\nMarshall, cont\u00f3,\ncited 1 Binn.; 6 Johns. 34; 16 S. & R. 316.\nSept. 12."
+  },
+  "file_name": "0101-01",
+  "first_page_order": 101,
+  "last_page_order": 103
+}

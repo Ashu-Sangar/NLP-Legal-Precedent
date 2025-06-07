@@ -1,0 +1,158 @@
+{
+  "id": 484305,
+  "name": "Harbold versus Kuster",
+  "name_abbreviation": "Harbold v. Kuster",
+  "decision_date": "1863-03-16",
+  "docket_number": "",
+  "first_page": "392",
+  "last_page": "394",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 392"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 267",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "405"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 202",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 209",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 378",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0378-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 88",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle 384",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 427",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Johns. 297",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0301-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 345",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822532
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0345-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 192",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 W. & S. 209",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 433,
+    "char_count": 7447,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 2.8865197879860835e-07,
+      "percentile": 0.8439773901876133
+    },
+    "sha256": "cb7091b6815dab5162ed793ffd78552145ed500e45b227d4f8081c0b4861506b",
+    "simhash": "1:317221e0262a8569",
+    "word_count": 1363
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harbold versus Kuster."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nThompson, J.\nTo have admitted the evidence embraced by the first bill of exceptions would have been to disregard the established rule that parol evidence cannot be received to contradict, vary, or alter an instrument of writing: 4 W. & S. 209; 3 S. & R. 609; 7 Id. 110; 16 Id. 423; 7 Casey 252. It was not offered to reform the instrument on the ground of fraud, accident, or mistake, where such evidence is necessarily receivable: 1 W. & S. 192; 5 S. & R.421; 4 Barr 493; 9 Id. 491; 7 Casey 252; 9 Id. 386. There was no legal ground for its admission, and it was properly rejected.\nThe agreement for the sale of the land was merged in the deed consummating that sale; but was not merged in regard to that which Aras not to be consummated by deed, and which was of an entirely different nature, and collateral to it. This doctrine of merger, as applicable to a case of this kind, was fully examined in Backenstoss v. StaHler, 9 Casey 251, and Ave will not restate it. The charge of the learned judge being entirely in accordance therewith must be sustained, as we see nothing to retract in that case.\nAs we discover no error in the record, the\nJudgment is affirmed.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "John Banks, for plaintiff in error, cited:",
+      "Jacob K. McKenty, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Harbold versus Kuster.\nAdmissibility of parol Evidence to reform written Contract. \u2014 Parol Reservation sustained.\n1. Parol evidence cannot- be received to contradict, vary, or alter an instrument of writing, except to reform it, on the ground of fraud, accident, or mistake.\n2. Thus, where a vendor, by written articles, agreed to sell liis farm, reserving therein the grain in the ground; in an action of trover therefor, after the vendee had harvested it as his own, evidence is inadmissible of a parol agreement made the evening before the execution of the articles, that the grain should belong to the plaintiff if found to be movable property, otherwise to the defendant.\n3. On the sale of land, an agreement for the reservation of the crops growing thereon, may be enforced, though the deed contain no mention of it; for though the agreement for the sale of the land was merged in the deed consummating the sale, it was not merged in regard to that which was not to be consummated by deed, and which was of a different nature and collateral to it.\nError to the Common Pleas of Berks county.\nThis was an action on the case by David Custer against William Harbold. The plaintiff declared for the trover and conversion of bushels of wheat, to which defendant pleaded non cul.\nThe facts of the case were these:\u2014\nBy articles of agreement, dated the 15th of December 1855, the plaintiff agreed to sell and convey to the defendant a farm in Amity township, Berks, county, for the sum of $1600. In this agreement the grain in the ground was reserved to the vendor. The deed was to be delivered by the vendor to the vendee on the 1st of April 1856, when the purchase-money was to be paid.\nOn the 7th of April 1856, a deed was executed and delivered by the vendor to the vendee. The deed was in the usual form, and contained no reservation of the grain in the ground. The consideration in the deed is $3500, which sum was fully paid by the vendee to the vendor on said 7th of April 1856, when the deed was delivered.\nThe vendee took possession of the farm on the 1st of April 1856, and continued in possession; and, being thus in possession, harvested the wheat that was in the ground at the date of the agreement and deed, claiming the same as his own under the deed. For this wheat the action was brought, as above stated.\nThe defendant on the trial alleged and offered to prove that \u201c the agreement was really made by and between the parties on the evening of the 14th of November 1855, though not reduced to wilting until the next day. That when the agreement was so made, on the 14th of November 1855, it was insisted by the vendor that the grain in the ground was movable goods, and would not pass by the sale with the land to the vendee, while it was insisted by the vendee that it was not movable goods, and that by the sale it would pass with the land to him. That it was then agreed between them that the grain in the ground should belong to the vendor, if it should be found to be movable property, and to the vendee, if it should not, in point of law, prove to be such property. That when the terms were thus agreed upon the vendee paid $100 to the vendor, in part of the purchase-money.\u201d The court, on objection by the plaintiff, rejected the evidence, to which decision of the court the defendant by his counsel excepted.\nThe defendant contended, in the court below, that the deed having been delivered to, him without any reservation as to the grain, it passed to him by the deed. That the deed showed the ultimate intent of the parties, and that when it differed from the agreement it prevailed, and that the agreement, by delivery of the deed and acceptance of it, was null and void.\nThe court (Woodward, J.) charged the jury against this Anew of the laAV, under Avhich there Avas a verdict and judgment for plaintiff.\nThe defendant thereupon sued out this writ, averring, 1. The court erred in rejecting the eAddence offered by the defendant as contained in his first bill of exceptions, to Avit: \u201c That on the evening of the day before the written agreement Avas made, the parties settled upon the terms of the contract, AArhen $100 was paid, and that it AYas at that time agreed that the grain in the ground should belong to the plaintiff, if it should be found to be movable property, and to defendant, if it should not in point of laAV prove to be such property.\u201d\n2. In charging the jury, \u201c In the absence of any agreement on the subject, growing crops pass by a deed of land. But Ayhen such an agreement is shown to exist it may be asserted and enforced, although the deed itself is silent on the subject. The question for the jury is whether the stipulation as to this grain subsisted at the time of the conveyance. The agreement was one which would not necessarily merge in the deed.\u201d\n\u201c The jury will ascertain under the evidence whether the reservation in the contract Avas fairly made. If it was, they will inquire whether the agreement providing for it was subsequently waived, surrendered, or relinquished by the plaintiff, while the absence of a reference to it would not of itself be conclusive against the plaintiff, it is to be considered as an element of proof upon this subject.\u201d\nJohn Banks, for plaintiff in error, cited:\nI. Espy v. Anderson, 2 Harris 311; Campbell v. McClenachan, 6 S. & R. 171; Flagler v. Pleiss, 3 Rawle 345. II. Houghtaling v. Lewis, 10 Johns. 297;\nCrotzer v. Russell, 9 S. & R. 78, 80; Wilson v. McNeal, 10 Watts 427; Seitzinger v. Weaver, 1 Rawle 384; Creigli v. Beelin, 1 W. & S. 88; Connellogue v. English, 8 Id. 12; Gregory v. Griffin, 1 Barr 212; Decamp v. Eeay, 5 S. & R. 327; Wilkins v. Washbinder, 7 Watts 378.\nJacob K. McKenty, for defendant in error,\ncited and relied on: I. Monon. Nav. Co. v. Eenlon, 4 W. & S. 209; Gilpin v. Consequa, 1 Pet. O. C. Rep. 88 ; McDermott v. Ins. Co., 3 S. & R. 609; Iddiijgs v. Iddings, 7 Id. ,110; Bohlinger v. Eckert, 16 Id. 423; Stine v. Sherk, 1 W. & S. 202; Cozens v. Stevenson, 5 S. & R. 425; Hill v. Gaw, 4 Barr 495 ; Sennett v. Johnson, 9 Barr 335. \u00cdI. Backenstossw. Stabler, 9 Casey251; Drinker v.Byers, 2 Penna. Rep. 528; Brown v. Morehead, 8 S. & R. 569; Byers v. Mullen, 9 Watts 267; Niel v. Thompson, 4 Id. 405.\nMarch 16th 1863,"
+  },
+  "file_name": "0392-01",
+  "first_page_order": 392,
+  "last_page_order": 394
+}

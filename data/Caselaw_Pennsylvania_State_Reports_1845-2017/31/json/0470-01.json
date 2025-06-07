@@ -1,0 +1,85 @@
+{
+  "id": 985121,
+  "name": "Kraft et al. versus Gilchrist et al.",
+  "name_abbreviation": "Kraft v. Gilchrist",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "470",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Rawle 23",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820548
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/2/0023-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 208,
+    "char_count": 3067,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 2.185673461066905e-07,
+      "percentile": 0.7731838806046222
+    },
+    "sha256": "d5e0e690cb606bea6e55b95c4e42ef8425b453b9a2fac9ed9fd1700c06f3655d",
+    "simhash": "1:0acf0dc01b072743",
+    "word_count": 554
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kraft et al. versus Gilchrist et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nProperly speaking, there can be no question of forms of action before justices of the peace, but only of causes or subject-matters of action. The justice describes this case as \u201c debt on book account;\u201d but afterwards he is more particular, and says that \u201c plaintiff\u2019s demand is for a lot of spars.\u201d When the case came into court on appeal, the plaintiffs declared in trover for thirty spars, and we cannot say that this is a change of the cause of action. We would say, prim\u00e1 facie, it is not. If the defendants had wrongfully converted the spars and sold them, the form in court might be either assumpsit or trover: 17 S. & R. 141.\nBut the wrongful conversion is laid in the declaration as having been the day after the suit was brought before the justice. This is very evidently a mere mistake, for it is the same cause of action, and must have arisen before suit brought. No notice was taken of this mistake on the trial; no demurrer or motion to strike off the declaration, no objection to evidence or motion to arrest the judgment, was presented on this account. The mistake was amendable even after verdict, and therefore may be considered as cured by the verdict: 2 S. & R. 219; 2 Rawle 23; 5 State R. 204; 14 Id. 71. The court tried the very issue presented by the parties in their pleadings, and they ought not now to go back of them, to show that their pleadings give wrong dates to the transaction : 30 State R. 205.\nJudgment afSrmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Penny & Sterrett, and D. Reed, for the plaintiffs in error.",
+      "R. B. Carnahan, for the defendants in-error."
+    ],
+    "corrections": "",
+    "head_matter": "Kraft et al. versus Gilchrist et al.\nSuit was brought before a justice of the peace, in debt, on book account, in which the plaintiffs\u2019 demand was stated to be $43.50 for a lot of spars; held, that, on appeal .from the judgment of the justice, it was not error for the plaintiff to declare in trover.\nA mistake in laying the cause of action to have accrued on a day subsequent to the commencement of the suit, is cured by a verdict on the merits.\nError to the Common Pleas of Allegheny county.\nThis action was originally brought before a justice of the peace by J. M. Gilchrist and George Duncan against Peter Kraft and Samuel Lightner. The summons was issued in debt on book account, and the plaintiffs\u2019 claim before the justice was stated to be $43.50 for a lot of spars.\n\"When the cause came into the Common Pleas, by appeal, the plaintiff declared in trover, laying the conversion to have taken place on a day subsequent to the commencement of the suit before the justice. The defendants pleaded not guilty.\nWhen the case was called for trial, the defendants filed a special plea that the cause of action declared on was not the same as before the justice. The court below disregarded this plea, and directed the parties to go to trial; when there was a verdict for the plaintiffs for $28.\nThe defendants then moved in arrest of judgment; but the court below overruled their motion, and entered judgment on the verdict ; which was here assigned for error.\nPenny & Sterrett, and D. Reed, for the plaintiffs in error.\nR. B. Carnahan, for the defendants in-error."
+  },
+  "file_name": "0470-01",
+  "first_page_order": 470,
+  "last_page_order": 471
+}

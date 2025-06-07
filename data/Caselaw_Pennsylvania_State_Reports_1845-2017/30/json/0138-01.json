@@ -1,0 +1,66 @@
+{
+  "id": 415596,
+  "name": "Moore versus Baird",
+  "name_abbreviation": "Moore v. Baird",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "138",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 3802,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 3.1869172801384965e-07,
+      "percentile": 0.8648977218362924
+    },
+    "sha256": "bc077f2afbf30b46bc61bb6375c7d1897be861748f63356594a0ca3e211ac8c3",
+    "simhash": "1:ac6bf060ff10826a",
+    "word_count": 691
+  },
+  "last_updated": "2023-07-14T20:28:42.464684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moore versus Baird."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\n\u2014 He, who lends his own promissory note for the accommodation of another, lends his credit without any restriction as to the manner of its use. As between the maker and the payee there is an available defence, but the maker connot complain of a subsequent holder when called upon to perform all he has promised. An endorsee, though he received it as collateral security, and is not therefore a holder for value, may recover the \u25a0full amount of the note: Lord v. Ocean Bank, 8 Harris 384; and a holder for value may recover, though he knew, at the time he purchased, that it was an accommodation note, and that there was no consideration between the maker and the payee: Charles v. Marsden, 1 Taunt. 224; Fulweiler v. Hughes, 5 Harris 440. Were it not so, the purpose intended by the original parties to the paper would be defeated. In Gaul v. Willis, 2 Casey 259, a suit indeed, by the second endorsee against the maker, the holder was allowed to recover against the maker of an accommodation note the entire amount according to its tenor, though the discount at each negotiation had exceeded six per cent. He was regarded as not the less a bond fide holder for value, because he purchased for less than upon the face of the note appeared to be due. What has the maker to do with that ? He has lent his credit for the sum named in the note. Shall one who has received it as collateral, and is not therefore a holder for value at all, be permitted to recover, and a recovery be denied to him who is a holder for value, but happens to have purchased for less than the face of the paper ? Such is not the law.\nIn the present case the plaintiff below was not only a holder for value, but he purchased without knowledge that it was an accommodation note. The defendant had, therefore, according to his own showing, no defence, and the judgment of the court below is right.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Thorn, for the plaintiff in error,",
+      "Eldridge, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Moore versus Baird.\nThe endorsee of an accommodation note may recover the whole amount of it from the maker, although he purchased it from the payee at a greater discount than six per cent.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit, by Henry C. Baird against John W. Moore, to recover the amount of the defendant\u2019s promissory note for $371.46, dated the 28th March 1857, .and payable four months after date to the order of William White Smith, who endorsed it to the plaintiff.\nThe plaintiff filed a copy of the note; and the defendant put in the following affidavit of defence :\u2014\n\u201cJohn W. Moore, the defendant above named, being duly affirmed, says, that he has a good defence to part of the claim of the plaintiff in this suit of the character following: That the promissory note, on which this suit has been brought, was made by him without any consideration, for the accommodation solely of one William White Smith, who passed the same to the plaintiff. This deponent has been informed, and believes, and expects to be able to prove, that the said plaintiff gave to said Smith for said note but the sum of $348, and. this deponent is advised that the said plaintiff is not entitled to recover but the sum actually advanced by him on said note, with legal interest, and further says not.\u201d\nThe court below gave judgment for the full amount of the note, notwithstanding the affidavit of defence; which was here assigned for error.\nThorn, for the plaintiff in error,\ncited Story on Prom. Notes, \u00a7 190; Nash v. Brown, Chitty on Bills 74, note x.; Simpson v. Clark, 2 C. M. & Ros. 342; Collins v. Martin, 1 Bos. & Bul. 651; Heath v. Sansom, 22 Eng. C. L. 78; Thomas v. Martin, 2 Car. & P. 606; Jones v. Hibbert, 2 Stark. 304.\nEldridge, for the defendant in error.\n\u2014 Gaul v. Willis, 2 Casey 259; Lord v. Ocean Bank, 8 Harris 384."
+  },
+  "file_name": "0138-01",
+  "first_page_order": 138,
+  "last_page_order": 139
+}

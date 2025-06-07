@@ -1,0 +1,111 @@
+{
+  "id": 977270,
+  "name": "Erisman versus Walters",
+  "name_abbreviation": "Erisman v. Walters",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "467",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 337",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846853
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0337-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 129",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812633,
+        812668
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/2/0129-01",
+        "/yeates/2/0129-02"
+      ]
+    },
+    {
+      "cite": "8 Mass. R. 487",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028482
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/8/0406-01"
+      ]
+    },
+    {
+      "cite": "1 R. 196",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 436,
+    "char_count": 7480,
+    "ocr_confidence": 0.429,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03430952924282458
+    },
+    "sha256": "3bef1de13aa576a8f95c800d3b8c33753540100a3cd98623b91681053801e588",
+    "simhash": "1:a024ec941accbc8c",
+    "word_count": 1351
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Erisman versus Walters."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nThe first question raised upon this record has reference to the competency of the plaintiff\u2019s sons as witnesses for hinj. The ground of objection was the conversation had in their presence at Auxer\u2019s office, when McBride, as their spokesman, represented them as the owners of the raft. But supposing that interview to have been just what Auxer represents it, though McBride does not recollect it, and that the sons authorized and sanctioned all that McBride said \u2014 nay, to put the case more strongly still, suppose they had spoken for themselves, and claimed to be the owners of the raft, and denied their father\u2019s property in it, all this would have gone only to their credibility and not to their competency as witnesses. It is not possible for a witness to disqualify himself and to deprive a party of his testimony by his mere declarations of an interest. If it were, a party could never be sure of his witness. A word spoken by him, or imputed to him, whether spoken or not, would shut his mouth from testifying, for the rule is that if one party has proved by testimony aliunde that a witness is interested, the other cannot offer the witness\u2019s own oath to show that he has no interest: 4 Ser. & R. 298; 1 R. 196; 10 Barr 167. But the very point has been ruled that a witness cannot disqualify himself by his declarations: Pierce v. Chase, 8 Mass. R. 487; Pollock v. Gillespie, 2 Yeates 129; Long v. Baillie, 4 Ser. & R. 227. If, therefore, the sons be responsible for all that McBride is represented to have said in their presence, the court was in no error in admitting them as witnesses and referring their credibility to the jury.\n2. There is nothing in the second error assigned. Whether in point of fact there was a sale to Ross, was a question for the jury upon the whole evidence, and it was fairly submitted. It was the duty of the court to instruct the jury what would amount to a sale, and it was proper for them to refer to the custom of the river, which required a measurement, certificate, and payment of money to complete the contract.\n3d, 4th, and 5th errors. We have considered the answers of the court to the several points of the defendant, and we see nothing in them to correct. The facts of Jacob Walter\u2019s ownership and of William\u2019s agency, are established by the verdict, whilst the allegations of a sale to Ross, and helping him to deliver it to the defendant, or of any intentional delivery, or assisting to deliver the raft into the defendant\u2019s possession, are distinctly negatived, and under these circumstances we think the action of trespass was well brought. The defendant took possession of the timber and used it without the actual or implied assent of the owner. This made him a trespasser. He had no title to it, for Ross, from whom he professes to have bought, had none. He had no lawful possession, for the plaintiff\u2019s agent delivered none to him. It is, then, as presented by the record, the ordinary case of one man taking possession and appropriating the property of another without right and against his consent, and for such a wrong trespass de bonis asportatis is the appropriate remedy.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "'Bllmaker and BsMeman,.for plaintiff in error.",
+      "Parke and Baker, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Erisman versus Walters.\n. Where a person claims to be the owner of personal property, his declarations of ownership do not render him incompetent as a witness in respect to such property, hut go to his credibility.\nIt is not possible for a witness to disqualify himself, and deprive a party of his testimony, by his mere declarations of an interest.\nOn the sale of a raft it is proper for the court to refer to the custom of the river which required a measurement, certificate, and payment of money to complete the contract.\nWhere a party takes possession of personal property and uses it without the consent of the owner express or implied, he is a trespasser; and for such a wrong the appropriate remedy is trespass de bonis asportatis.\nError to the Common Pleas of Lancaster county.\nJacob Walters, the defendant in error and plaintiff below, in the fall of 1852, cut from his land in Clearfield county, a raft of logs; and in the spring of 1853, sent his sons, William Walters and George Walters, with it to Marietta, appointing his son William his agent to sell it. They stopped at Middletown on the 21st of April, 1853. Whilst there, a man named Ross came up on the raft, and asked if it was for sale. William replied he would sell it if he could get his price; adding, that he intended to run down to Marietta, and that Ross might see him there. When it arrived there, Ross went again on the raft, bargained for it at 10 cents per foot, to be measured in the presence of William Walters, the agent, and to be delivered at Columbia, but to be paid for at Marietta. The two Walters left the raft, and on their return they found by the marks on the logs, that the raft had been measured in their absence. The measurement was disapproved of by William Walters, who refused to receive any money from Ross on account of the raft. The next morning, Walters found a man by the name of Jacob M. Erisman in possession of the raft; who claimed it upon the ground of having bought it from Ross. The latter individual was never heard of afterwards. Jacob M. Erisman claimed the raft as a bona fide purchaser from Ross. Certain statements had been made in the presence of the two Walters, by one McBride, to the effect that a sale had been made by them to Ross, and by the latter to Jacob M. Erisman. There was some evidence also, that it is the custom on purchasing lumber to agree upon the price, then to have it measured and to make out certificates for each party. The custom in this instance was not complied with.\nOn the trial in the court below, William B. Walters was offered as a witness for the plaintiff, but objected to by the defendant, on the ground of interest. The defendant then proved by a witness, certain declarations made by a man, by the name of McBride, in the presence of William B. Walters, to the effect that Walters had sold the raft to Ross, and Ross had sold it to Erisman and absconded, and wished to know from witness, whether he could not compel Erisman to pay him for the raft.\nThe court overruled the objection,' admitted the witness, and sealed a bill of exceptions at the instance of defendant.\nThe cause in the court below turned principally on whether there had been a sale and delivery of the raft by William B. Walters, the agent, to Ross.\nThe jury found for the plaintiff, and assessed the damages at $570.58.\nThe defendant sued out this writ, and relied on the following errors assigned:\u2014\n1. The court erred in admitting the testimony of William B. Walters.\n2. The court erred in charging, that there was not such a sale as would transfer the property to Ross.\n1 3. The court erred in charging, that according to the custom to make the sale complete, there should have been a measurement.\n4. The court erred in charging, that the law would imply whatever force was necessary to sustain this action.\n'Bllmaker and BsMeman,.for plaintiff in error.\nThe action of trespass only lies for injuries committed with force: 1 Chitty Pl. 162, 166, 167; 2 Ser. & R. 360. If an agent gives the property of his principal to a third person, the principal must bring replevin or trover: Peake\u2019s Add. Cas. 59; Har. Dig. 6353; 9 Bacon\u2019s Ab. title Trespass, Letter E., No. 2; Barn. & Adol. 614; 7 Watts 337.\nParke and Baker, for defendant in error."
+  },
+  "file_name": "0467-01",
+  "first_page_order": 467,
+  "last_page_order": 470
+}

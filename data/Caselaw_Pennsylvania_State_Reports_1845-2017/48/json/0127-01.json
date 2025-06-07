@@ -1,0 +1,133 @@
+{
+  "id": 422155,
+  "name": "Randall versus Wait",
+  "name_abbreviation": "Randall v. Wait",
+  "decision_date": "1864",
+  "docket_number": "",
+  "first_page": "127",
+  "last_page": "129",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 494",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846027
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0494-01"
+      ]
+    },
+    {
+      "cite": "3 Wright 114",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 294",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0294-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 118",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850998
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0118-01"
+      ]
+    },
+    {
+      "cite": "2 Grant 247",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        227487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/grant/2/0247-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 118",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850998
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0118-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 6945,
+    "ocr_confidence": 0.458,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41003394406392035
+    },
+    "sha256": "58a3b3bceac5fa056d5399ea1233636c387d9adbf47db86a611b11a4eea62182",
+    "simhash": "1:c2e60364940a00ed",
+    "word_count": 1248
+  },
+  "last_updated": "2024-02-27T22:05:40.639131+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randall versus Wait."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, C. J.\n\u2014 The only question in this case is whether, under the provisions of the Act of Assembly of 9th April 1833, Purd. 600, the offer to confess judgment for a certain sum was well made by the defendant through an agent, or whether it should have been made by the defendant in person. The act says, \u201cif the defendant shall offer,\u201d and this, it is said, must be read the defendant in person, especially because, by the subsequent terms of the act, the offer may be accepted by the plaintiff, \u201c or his agent.\u201d\nThe act was framed, no doubt, upon the hypothesis that the defendant would be present before the justice not only to answer to the summons, but to exercise his right of appeal after judgment, but that the plaintiff might appear by agent, a convenience in many parts of the state which has grown into an established habit. But the statute does not forbid an appearance of defendant by an agent, and since it is only an offer that is to be made, it is hard to see why it may not be made through an agent. Ordinarily a man may do through an agent whatever he may do in person. The rule \u201c qui faeit,\u201d &c., is subject to fewer exceptions than most general rules, and these exceptions are usually prescribed by statute, or some rule of public policy. But no exception is prescribed by this statute. It enjoins an offer which must be made to the plaintiff, and before the justice, and the legislature knew that from the nature of the transaction it would often be done through an agent, yet they did not forbid the agency, nor require the personal presence of the defendant. And surely there is no public policy to prevent so commonplace an act from being performed by an agent.\nThe 14th section of the Hundred Dollar Law, extending the jurisdiction of justices to contracts involving more than $100, requires the voluntary appearance of both parties to give the justice jurisdiction, yet we have held that the plaintiff may appear by agent, Truit v. Ludwig, 1 Casey 145, and that the defendant may well confess a judgment, though brought compulsorily, and not by consent, Butler v. Urch, 2 Grant 247, and in general that a party before a justice is allowed to appear by an agent: Barber v. Chandler, 5 Harris 50. It is true, that in Camp v. Woods, 10 Watts 118, it was held to be essential to the validity of a judgment confessed before a justice for more than $100, that it should appear upon the face of his docket that the parties appeared in person, which is a more strict reading of the Hundred Dollar Law than it has received in later cases; but the ground of the reasoning there is, that it is a special jurisdiction which is exercised in such a case, and therefore every necessary element should appear of record.\nThere is no room for such reasoning upon the Act of 1833. The offer which the defendant is permitted to make under this act involves no question of jurisdiction, but is the mere exercise of a private personal right, which, as in most other cases of mere private interest, an individual may perform by deputy. Construing the act in the more liberal spirit of the later cases, and in the manner best calculated to end litigation, or to promote the convenience of parties, if it must be prosecuted, we hold that the offer of a judgment for a sum as great as was afterwards recovered, was well made by the defendant through his agent.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "George H. Cutler, for plaintiff in error.",
+      "S. E. Woodruff, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Randall versus Wait.\nOffer of judgment before justice of the peace may be made by defendant$ agent.\nAn offer of judgment in a suit \"before a justice of the peace may be made by an agent of the defendant in his absence; and on appeal, judgment will be entered without costs, where the verdict was for the same sum as that for which judgment had been thus tendered before the justice.\nError to the Common Pleas of Erie county.\nCleveland Randall brought an action of trespass against Seymour Wait, before a justice of the peace, to recover damages for taking and carrying away c\u00e9rtain personal property of the plaintiff, in which, on the 2d of March 1861, the justice gave judgment against the defendant for $23.\nOn the 16th March Perry Devoe, as the agent of the defendant, came before the justice, and offered to give the plaintiff judgment for $10. Notice of this was given to the plaintiff, which was subsequently returned \u201cserved personally,\u201d and the offer was refused. On the same day an appeal by defendant was entered, but neither plaintiff nor defendant were present at that time.\nOn the trial in court, there was a verdict in favour of plaintiff for $10, whereupon the defendant\u2019s counsel moved the court that judgment be entered on the verdict without costs, and that defendant\u2019s bill of costs be set off against plaintiff\u2019s verdict, and his bill before the justice, on the ground that the defendant had made the tender before the justice required by the Act of Assembly. On argument this rule was made absolute, which was the error assigned.\nGeorge H. Cutler, for plaintiff in error.\n\u2014 The Act of April 9th 1833, requires that the defendant shall offer to give the plaintiff a judgment. It is evidently not intended to authorize the offer to be made by an agent, because immediately following it says, \u201c if the plaintiff or his agent shall not accept such offer, then,\u201d &c. Thus expressly authorizing the plaintiff to act by his agent, but confers no such authority on the defendant. And. the reasonable inference is, that if the legislature had intended to allow the defendant to appear by agent, it would have expressly said so. This construction is supported by the decisions in Camp v. Wood, 10 Watts 118; Magill v. Tomer, 6 Id. 494.\nIn the case of Barber v. Chandler, 5 Harris 48, a judgment was confessed on the return day of the summons by the agent of the defendant, and was in part sustained by the court (though evidently with some doubt), on the ground that the Act of 1810 expressly authorizes a party before the justice to appear by agent. But even that was the mere dictum of the judge, who finally decided the case on other grounds. The defendant sought to take advantage of the irregularity by the plea of nul tiel record to the scire facias issued upon the transcript, in the Common Pleas, and the court say, \u201c If the judgment before the justice was improperly obtained, and was irregular and voidable, the defendant\u2019s remedy was to have it reviewed directly by the justice, or by application to the court to set it aside. This is not to be done in a proceeding by scire facias foundedyupon it as a subsisting judgment, which the record of the courfproves it to be.\u201d See also 6 Watts 294, where it is held that the judgment of a justice of the peace entered by authority of a warrant of attorney, is void.\nS. E. Woodruff, for defendant in error,\ncited and relied on Barber v. Chandler, 5 Harris 48; Gardner v. Davis, 3 Id. 41; Pack v. Sweeny, 3 Wright 114; Magill v. Tomer, 6 Watts 494."
+  },
+  "file_name": "0127-01",
+  "first_page_order": 127,
+  "last_page_order": 129
+}

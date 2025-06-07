@@ -1,0 +1,138 @@
+{
+  "id": 986810,
+  "name": "Portsmouth versus Donaldson et al.",
+  "name_abbreviation": "Portsmouth v. Donaldson",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "202",
+  "last_page": "204",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 Pa. 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wh. 530",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878860
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0530-01"
+      ]
+    },
+    {
+      "cite": "16 Johns. 491",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass. 242",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000802
+      ],
+      "pin_cites": [
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0197-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. Ch. 400",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1976870
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/3/0400-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 421",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Binn. 317",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791064
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0317-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 375,
+    "char_count": 5800,
+    "ocr_confidence": 0.471,
+    "pagerank": {
+      "raw": 2.2111029507365471e-07,
+      "percentile": 0.7765296355115684
+    },
+    "sha256": "a8d03112cf66cbe8d7ddc8414110dbef92eac258662c2ffc0887fd7f279e0a38",
+    "simhash": "1:d7eecdd71d1d3dff",
+    "word_count": 1016
+  },
+  "last_updated": "2024-02-27T20:05:07.474243+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Portsmouth versus Donaldson et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J. \u2014\nThis was an action of account render, brought by Portsmouth against Donaldson and Caldwell, jointly. \u2019 The three had been partners in a nursery, upon a tract of land in which they held a term for years. When the term expired, the two defendants removed the trees to another lot of ground, against the remonstrance of the plaintiff, and he instituted his action of account render declaring against them jointly, as his bailiffs. The court below instructed the jury that he could not recover, and the instruction was, in our opinion, entirely unexceptionable.\nWithout inquiring whether the defendants could be held liable to the plaintiff as his bailiffs for the property of the firm received by them during the continuance of the partnership, it is clear that they were not jointly liable. The action of account render is founded upon contract, and the engagement between the partners is, that each partner shall account to every other for himself, and not for his copartner. It is a several liability, and no two partners are responsible to another jointly. Indeed, it has been doubted, whether account render lies between partners when the firm consists of more than two members. But, however this may be, it is certain that each partner contracts with the other for himself alone. It can hardly be necessary to cite authorities to support so plain a principle. We content ourselves by referring to Whelen v. Watmough, 15 S. & R. 153, where the doctrine is thoroughly vindicated. In that case, it was unqualifiedly ruled, that in an action of account render by one partner against two, charging them as bailiffs and receivers, the plaintiff must show a joint liability on the part of the defendants to render an account to him. The plaintiff in error, however, complains that the court erred in charging the jury that there was no evidence from which they could be justified in inferring that the defendants jointly agreed to account with the plaintiff. Certainly, if there was such evidence, the plaintiff has failed to\u2019show it to us. Each partner and all the partners had a right to the possession and control of the joint property. The possession of one was the possession of all. The defendants removed the trees from the lot in which they had first been planted, but they removed them during the continuance of the partnership. The removal was in law the act of all the partners, even though it was made against the remonstrance of the plaintiff. It left the parties, as before, liable to account to each other severally, but not jointly. The opposition of the plaintiff to the removal, instead of being evidence of an engagement of the defendants to account jointly, disproves it. There is therefore no reason to complain of the charge of the court.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Strong, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Oantwell Phelps, for the plaintiff in error,",
+      "Crolden 8y Fulton, for the defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Portsmouth versus Donaldson et al.\nOne partner cannot maintain account render against his two copartners jointly, without showing a joint liability to account.\nPartners are liable to account to each other severally, but not jointly; each of them is to account to every other for himself, and not for his copartner.\nWhelen v. Watmough, 15 S. & B. 153, affirmed.\nError, to the Common Pleas of Armstrong county.\nThis' was an action of account render by John Portsmouth against Thomas Donaldson and Alexander Colwell, charging the defendants as his bailiffs and receivers.\nOn the 10th April 1851, John Portsmouth, the plaintiff, leased a piece of ground to one Curtis Thorp, for the term of five years, for the purpose of a nursery. Thorp planted the nursery, and on the 30th August 1853, sold out the business and lease' to the plaintiff and defendants, who continued the same in partnership. '\nOn the 8th February 1856, t.he plaintiff gave notice to the defendants to deliver up the possession, at the expiration of the term. And, on the 8th April, he gave them notice of his desire to have the trees divided, and his share to remain in the ground of the nursery; or to have the whole concern put up at public sale.\nNotwithstanding this notice, the defendants removed the trees; and the partnership having expired by limitation, as' well as by notice, on the 10th April 1856, the plaintiff brought this action of account render against the defendants.\nThe court below (Burlington, P. J.) instructed the jury that the defendants, as partners, had the right to remove the property; and that unless they agreed, at the time, to take the stock or trees jointly, and account to the plaintiff for the proceeds, the plaintiff could not recover in this action; and that there was no evidence from which such agreement or joint liability could be inferred.\nTo this charge the plaintiff excepted; and a verdict and judgment having been rendered for the defendants, he removed the cause to this court, and here assigned the same for error.\nOantwell Phelps, for the plaintiff in error,\ncited Story on Part., \u00a7\u00a7 329, 341, 343; Brightly\u2019s Eq., \u00a7 198; 3 Kent Com. 64; Gow on Part. 234; 3 Binn. 317; 15 Ves. 228; 17 Id. 308-9.\nCrolden 8y Fulton, for the defendants in error,\ncited Whelen v. Watmough, 15 S. & R. 153; Bissett on Part. 80 n.; Holliday v. Camsell, 1 T. R. 658; Fennings v. Grenville, 1 Taunt. 241; 4 Watts 421; 7 Id. 484; 4 Barr 135; 6 Id. 285; Bissett on Part. 40, 82, and notes; Kirk v. Hodgson, 3 Johns. Ch. 400; Colyer on Part. 103; Story on Part., \u00a7\u00a7 123, 124, 125, 126, and notes; Bissett on Part. 26, 27; Smith v. De Silva, Cowp. 469; West v. Skip, 1 Ves. Sr. 239-42; Taylor v. Fields, 4 Ves. 396; Ex parte Ruffin, 6 Id. 119; Dutton v. Morrison, 17 Id. 192; 2 Ld. Raym. 871; Heydon v. Heydon, 1 Salk. 392; 6 Mass. 242, 271; Story on Part., \u00a7\u00a7 280, 425; Bissett on Part. 38, and note; 3 Kent Com. 52 ; 16 Johns. 491; 1 Barr 247; 5 Wh. 530; 16 Ves. 50; 1 Swanst. 508."
+  },
+  "file_name": "0202-01",
+  "first_page_order": 202,
+  "last_page_order": 204
+}

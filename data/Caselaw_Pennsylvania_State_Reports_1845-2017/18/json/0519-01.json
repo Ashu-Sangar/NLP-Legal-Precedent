@@ -1,0 +1,81 @@
+{
+  "id": 969054,
+  "name": "Commonwealth versus Pyle",
+  "name_abbreviation": "Commonwealth v. Pyle",
+  "decision_date": "1852-07-20",
+  "docket_number": "",
+  "first_page": "519",
+  "last_page": "522",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts 141",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840134
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0141-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 472,
+    "char_count": 9102,
+    "ocr_confidence": 0.441,
+    "pagerank": {
+      "raw": 3.6055452126168275e-07,
+      "percentile": 0.8879432739128806
+    },
+    "sha256": "3a13a8251d630202c4bd2a78a2a6fb69d384cd584d8f87a18943c4c72e69fcfc",
+    "simhash": "1:9aa257a0a50d093a",
+    "word_count": 1627
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Woodward, J., and Lowrie, J., concurred generally; Lewis, J., concurred on the last point."
+    ],
+    "parties": [
+      "Commonwealth versus Pyle."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court, was delivered by\nBlack, C. J.\nThe defendant\u2019s right to hold the office of notary public, to which he was appointed by the late governor, on the 13th of December last, is denied by the Attorney-General, on the ground that he (the defendant) is a stockholder of the Bank of Chester County.\nThe functions of a notary are so much more likely to be required by banks, and to be exercised in their favor and for their benefit, than for that of individuals, that such officers are not needed nor appointed in places where banks are not located. A notary has a sort of judicial power. His protests, attestations, and other official acts, certified under his hand and seal of office, are evidence of the facts therein certified. It is necessary, therefore, that he should not be interested in favor of the parties who are oftenest invoking his services. It is true that his certificate would not be received in evidence where he is so interested (2 Watts 141). But, in such a case, the party against whom it is offered, must be put to the trouble of proving his interest; or, if he is ignorant of it, may suffer from illegal evidence without knowing of the means to exclude it. This would be the consequence if a bank would habitually cause its protests to be made by an officer who is interested in the profits of its business. If it abstains from employing him, it is without the services which it needs every day. Such an officer, in short, must either do wrong, or do nothing. His appointment must either taint the stream of justice with at least the suspicion of impurity, or else break its current and turn it away.\nFor these good reasons, it is provided by the AcLof 14th April, 1840, that no stockholder in any bank shall hold, exercise, or enjoy the office of notary public. We have only to determine, from the facts here admitted, whether he is a stockholder in the Bank of Chester County, or not.\nHe held ten shares of the stock in his own right. But on the same day that his commission bears date, he transferred them to another person in good faith, for a valuable consideration. Where the constitution or a statute declares that certain disqualifications shall render a person ineligible to an office, he must get rid of his disqualification before he is appointed or elected. Such 'have been the decisions of Congress in the contests there. But if the law merely forbids him to hold or enjoy the office, or exercise its duties, it is sufficient if he qualifies himself before he is sworn. A man may hold one office after he has been chosen to another which is incompatible with it, without thereby forfeiting either of them, provided he resigns the first before he enters upon the duties of the last. Members of the state Senate have often sat in that body after their election as members of Congress; and judges of the Common Pleas have continued in the discharge of their functions as such after being commissioned as judges of the Supreme Court. By the Act of 1791, no judge can be an attorney or counsellor; but it never was heard of that the commission of a judge was void because the appointee did not cease to practise before its date. There is nothing, therefore, in this objection to the validity of the defendant\u2019s commission.\nBut it is questioned on another ground. The defendant\u2019s father died before the date of the commission, being, at the time of his death, the owner of one hundred and fifty shares of stock in the Bank of Chester County, which he bequeathed to the defendant and others, and appointed the defendant one of his executors. His portion of this stock was not transferred, and is not yet, for anything that appears in the case. It is in vain to say that this does not make him a stockholder. As executor, he has the legal control over it, may transfer it, may vote it at elections, and may maintain an action for the dividends. As a legatee h,e may apply the profits of it to his own use, or sell it and keep the proceeds, so that he takes no more than his proper share. The legal and equitable right, power, and dominion over it, have met in him; and if anvtiling more is required to make him a holder of it, I do not know what it is.\nIt is, therefore, considered and adjudged by the Court here, that the said Benjamin E. Pyle do not in any manner intermeddle or concern himself in or about the holding of or exercising the duties of said office of notary public, in virtue of the supposed commission granted to him by the governor, on the 13th of December, 1851; but that the said Benjamin E. Pyle be absolutely fore-judged and excluded from holding or exercising the said office; and that the Commonwealth recover her costs, to be taxed according to law.\nWoodward, J., and Lowrie, J., concurred generally; Lewis, J., concurred on the last point.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Campbell, Attorney-General, and Bell, for the Commonwealth.",
+      "Meredith, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth versus Pyle.\n1. Under the first section of the Act of 14th April, 1840, relative to the appointment of notaries public, a person was not competent to receive and exercise the appointment of a notary public for the county of Chester, who was, at the time of his appointment to the office, one of several devisees of all of the estate of one who held stock in the Bank of Chester County at the time of his death, and of whose will the person appointed as notary was an executor, the estate of the testator being solvent without recourse to the said stock.\n2. Where one would be ineligible to office on account of a disqualification, he must get rid of the disqualification before Tie is appointed or elected; but where the prohibition extends only to the enjoyment or exercise of an office, it is sufficient that the person appointed be qualified before Tie is sworn.\nThis case was argued at Harrisburg, altbougb it originated at Philadelphia. It was an amicable action, in the nature of a quo warranto, entered to ascertain the right of B. Franklin Pyle to exercise the office of notary public for the county of Chester.\nOn the 18th January, 1852, the said B. Franklin Pyle was regularly appointed and commissioned by the governor of the Commonwealth, for the term of three years thereafter, a notary public for the said Commonwealth, to reside and execute the functions within the county of Chester, in the said Commonwealth, and accepted the said commission. That prior to the last-mentioned day, the said B. Franklin Pyle was a stockholder in the Bank of Chester County, one of the banks incorporated and existing within the said Commonwealth, being then the owner and proprietor of ten shares of the capital stock of the said bank; and that on the said last-mentioned day, in consequence of a notice received that he would be appointed notary public, he, the' said B. Franklin Pyle, transferred on the books of the said bank the said ten shares of stock for a full and valuable consideration, to William Williamson. That the said ten shares were transferred between the hours of one and a quarter, and two and a quarter, P. M., of the said last-mentioned day, and the said commission was handed to W. Williamson by the then governor of the Commonwealth, between the hours of three and four of the same day, with a request to deliver the same to the recorder of deeds for Chester county. It was delivered to him on the 16th of the said month, at which time the oath of office was administered by the said recorder to the said B. F. Pyle.\nBefore the said last-mentioned day, Zeba Pyle, the father of the said B. Franklin Pyle, died, being the owner and possessor of one hundred and fifty shares of the capital stock of the said Bank of Chester County, and also of other shares of stock in other banks of the said Commonwealth, first having made his last will and testament in writing, afterwards duly proven and approved, whereby he devised and bequeathed to the said B. Eranldin Pyle, and others, all his, the said Zeba Pyle\u2019s, real and personal estate, in equal shares and proportions, and constituted and appointed the said B. Eranklin Pyle, and two others, executors thereof.\nAt the time of the decease of the said Zeba Pyle, the said last-r mentioned shares of bank stock stood on the books of the said several banks in the name of the said Zeba Pyle, as owner thereof, and still are in his name, but subject to the power and disposition of the said executors, pursuant to the provisions of the will. The estate of the said Zeba Pyle is solvent and competent to the payment of all the debts due therefrom, without recourse to the said shares of bank stock.\nIt is provided in the first section of the Act of Assembly of 14th April, 1840, as follows: \u201cNo person being a stockholder, director, cashier, teller, clerk, or other officer in any bank or banking institution, or in the employment thereof, or holding or exercising any judicial office in this Commonwealth, or any office or appointment of trust or profit under the constitution or laws of the United States, shall at the same time hold, exercise, or enjoy the office of notary public.\u201d\nThe case was argued by Campbell, Attorney-General, and Bell, for the Commonwealth.\nMeredith, for the respondent.\nfiled July 20th,"
+  },
+  "file_name": "0519-01",
+  "first_page_order": 519,
+  "last_page_order": 522
+}

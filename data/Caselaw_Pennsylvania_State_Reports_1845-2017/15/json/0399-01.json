@@ -1,0 +1,156 @@
+{
+  "id": 408780,
+  "name": "Dougherty versus Darrach",
+  "name_abbreviation": "Dougherty v. Darrach",
+  "decision_date": "1851-04-03",
+  "docket_number": "",
+  "first_page": "399",
+  "last_page": "402",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 399"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Whar. 266",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 75",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840088
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0075-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 167",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "pin_cites": [
+        {
+          "page": "267, 274, 387"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Bin. 134",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle 390",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Bin. 40",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0040-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 163",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846848
+      ],
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0163-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 267",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Whar. 240",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830491
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0240-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 423,
+    "char_count": 10088,
+    "ocr_confidence": 0.441,
+    "pagerank": {
+      "raw": 1.5784036006119728e-07,
+      "percentile": 0.6799164738948101
+    },
+    "sha256": "e9fa8b890637bbd94a0072db43d7db1f805a2e57e7e26e96bb78cb455162ae6a",
+    "simhash": "1:3a20889d0cb798b2",
+    "word_count": 1739
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dougherty versus Darrach."
+    ],
+    "opinions": [
+      {
+        "text": "Per curiam.\nThe act of 1818 was made for the protection of creditors: the act of 1775 was made for the protection of purchasers. They are consistent in their provisions; and there was no design to impair the latter. There was no evidence of actual to supply the place of constructive notice; and if there had been, the fact was left to the jury.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per curiam."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by JE. J. Fox and J. A. Phillips, for plaintiff in error.",
+      "Wright and Du Bois, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Dougherty versus Darrach.\nA voluntary assignment of real estate for the benefit of creditors, not recorded in the county in which the land was situate, is not valid as against a subsequent purchaser from the assignor, without notice of the assignment, even though it were recorded in the county in which the assignor resided, within thirty days, in pursuance of the fifth section of the act of 24th March, 1818.\nError to the Common Pleas, Bucks county.\nThis was an ejectment by John A. Dougherty, assignee of Michael Jacoby, against Thomas Darrach.\nMichael Jacoby, then a resident of Philadelphia county, on March 25th, 1837, made a voluntary assignment for the benefit of creditors to Thomas Barry, which was recorded in Philadelphia, on March 31st, 1837. He was at this time the owner of a tract' of land in Bucks county, for which, on July 21st, 1837, he executed a deed to his brother Abraham Jacoby,, which was recorded in Bucks county, January 31st, 1839. On March 30th, 1849, Abraham Jacoby conveyed the tract to Thomas Darrach. Barry, the assignee, died, and on October 15th, 1849, the Court of Common Pleas of Philadelphia county appointed John A. Dougherty assignee, in place of Barry, deceased. Dougherty, as assignee, brought this action of ejectment, to recover from Darrach the land in Bucks county conveyed by Michael Jacoby to Abraham Jacoby, and by him to Darrach. The assignment had not been recorded in Bucks county.\nOn the trial, it was proved by a witness, inter alia, I have heard Abraham Jacoby say that he never knew there was a deed of assignment by Michael Jacoby, until after he had sold to Thomas Darrach, and he had possession.\nPlaintiff offered to prove that Darrach had notice of the assignment before he purchased. Objection on part of defendant, and evidence overruled.\nThe 5th section of .the act of 24th March, 1818, requires that all assignments in trust for the benefit of creditors, which shall not be recorded in the office for- recording of deeds in the county in which the assignor resides, within thirty days after the execution thereof, shall be considered null and void as against any of the creditors of the said assignor.\nIn Reigart\u2019s Appeal, 4 Barr 477, it was decided that an assignment of real estate, though it was recorded in the county in which the real estate was situate, was not valid as against creditors, because it had not been recorded in the county in which the assignor resided, and that a creditor who, after the assignment, had the property sold on execution, was entitled to the proceeds in preference to the assignee.\nThe 1st section of the act of 18th March, 1775, relative to the acknowledging and. recording of deeds, enacts that all deeds and conveyances shall be recorded in the county where the lands are, within six months after the execution of such deeds and conveyances, and if not so recorded, they shall be adjudged fraudulent and void against any subsequent purchaser or mortgagee for valuable consideration, unless such deed or conveyance be recorded as aforesaid, before the proving and recording of the deed or conveyance under which such subsequent purchaser or mortgagee shall claim.\nKrause, J., charged the jury:\u2014The act of Assembly requires that a deed of assignment for the benefit of creditors be recorded in the county in which the assignor resides, within thirty days. It appears that the assignment in this case wa,s so recorded, and that Barry, the assignee, subsequently died, and Dougherty, the present plaintiff, was appointed by the court having jurisdiction in his place. The assignment is therefore good in Dougherty, and conveyed all the property of the 'assignor to the assignee. After the assignment was made, Michael Jacoby, the assignor, executed a deed for the land for which this suit is brought, to Abraham Jacoby. There is no evidence that the assignment was recorded in Bucks county, and the deed from Michael to Abraham is therefore good, unless Abraham had actual notice of the assignment before he purchased. One question for your consideration will therefore be whether Abraham Jacoby had notice of the assignment before he purchased; for as to Darrach, the defendant here, notice to him would avail nothing, unless there had been notice to Abraham. If there was once a valid title vested in Abraham, it would make no .difference whether Darrach had notice or not. So far as the court can see, there is really no evidence in this case that either Abraham Jacoby or Darrach had notice of the assignment before they purchased. Whether they had or not are, however, facts for your consideration. The plaintiff has requested us to charge you,\n1. That the record of the deed in the county where the assignor resided was sufficient, without recording in the county where the lands lie.\nTo this point, the court answer that it was not sufficient, unless it be shown that Abraham Jacoby either had notice or had sufficient information to put him on inquiry before he purchased.\n2. That by the deed of assignment, the title was vested in the assignee, and any subsequent conveyance by Jacoby, the assignor, was void.\n. This point has been answered in the general charge, and the principles there stated are a full answer to this point.\nTo which charge of the court the plaintiff excepted.\nYerdict for the defendant.\nError was assigned to the refusal to admit evidence of notice of the assignment to Darrach, before he purchased.\n' 2. That -the-court erred in charging the jury, that as there was no evidence that the assignment was recorded in Bucks county, the deed from Michael Jacoby to Abraham Jacoby is good, unless Abraham Jacoby had actual notice of the assignment before he purchased.\n3. That the court erred in charging the jury that notice to Darrach would avail nothing, unless there had been notice to Abraham Jacoby.\n4. That the court erred in answering to the plaintiff\u2019s first point, which was, \u201c that the record of the deed of assignment in the county where the assignor resided was sufficient, without recording in the county where the lands lie,\u201d \u201c that it was not sufficient, unless it be shown that Abraham Jacoby either had notice, or had sufficient information to put him on inquiry before he purchased.\u201d\n5. The court erred in charging the jury, \u201c that there is really no evidence in this case, that either Abraham Jacoby or Darrach had notice of the assignment before they purchased.\u201d\nThe case was argued by JE. J. Fox and J. A. Phillips, for plaintiff in error.\nIt was contended that the recording in Philadelphia county, in which the assignor resided at the time of the assignment, was sufficient, and that it was not necessary to record it in Bucks county, in which the real estate lay: 2 Barr 521, Lamb v. Fries.\nThe neglect of the assignee to record the assignment within thirty days does not avoid it: Seal v. Duffy, 4 Barr 279; Weber v. Samuel, 7 Barr 521; Englebert v. Blanjot, 2 Whar. 240. Whatever puts a party on inquiry amounts, in judgment of law, to notice: 1 Barr 474 ; 7 Watts 267, Jacques v. Weeks.\nWright and Du Bois, for defendant in error.\n1. If Abraham Jacoby, the first purchaser, had no notice of the deed of assignment from Michael Jacoby to his assignee, Thomas Barry, then a good title to the property vested in him, and of course the title would be good in Darrach, Abraham\u2019s vendee.\n2. The 1st section of the act of 18th of March, 1775, makes all deeds and conveyances of land not recorded within six months after their execution, fraudulent and void against subsequent purchasers.\nUnder this act, all agreements of and concerning lands, although not under seal, are included: 4 Bawle 440; 7 Watts 163, 229; IQWatts 181; so are voluntary conveyances: 1 Bawle 231.\nIn Heister v. Fortner, 2 Bin. 40, it was decided that an assignment for the benefit of creditors, executed in Montgomery county, for real estate in Northumberland \u25a0 county, although recorded where the land was situated, was not constructive notice to a subsequent purchaser, because the deed was defectively proved or acknowledged.\nIn Reigart\u2019s Appeal, 4 Barr 479, it is said by the court that the recording of the assignment under the act of 1818, within thirty days, in the place of the assignor\u2019s residence, is for the purpose of giving information to the creditors, and the recording of it in the county where the land lies is to give notice to purchasers.\n. The cases cited by the counsel for the plaintiff in error are, as to the effect of an assignment not recorded within thirty days; the question as to subsequent purchasers being affected, did not arise in any of those cases.\n3. There was no evidence of notice to Abraham Jacoby of the previous conveyance to the assignee, and nothing to put him on inquiry. Actual notice is by direct information from a person who has an interest in the estate, or who may be affected by the purchase : 1 Rawle 390. Mere rumor, or information from persons having no interest, is not sufficient: 5 Bin. 134; 1 Rawle 390; 7 Watts 167, 267, 274, 387; 2 Watts 75 ; 6 W. \u00bf Ser. 469.\nIt appears that a period of about twelve years elapsed from the date of the assignment to the appointment of Dougherty, in place of the deceased assignee.\nIn the case of Commonwealth v. Lelar, 1 Harris 22, it is said that after the lapse of seventeen years, without proof of remaining outstanding debts, a substituted trustee would take no interest in the estate, and that when the debts are satisfied, the beneficial interest revests in the insolvent; and in Ross v. McJunkin, 14Ser.\nR. 364, it was intimated that after fourteen years of silence and inaction, this principle would become active upon a presumption of payment. See also Sailor v. Hertzog, 4 Whar. 266.\nApril 3, 1851."
+  },
+  "file_name": "0399-01",
+  "first_page_order": 399,
+  "last_page_order": 402
+}

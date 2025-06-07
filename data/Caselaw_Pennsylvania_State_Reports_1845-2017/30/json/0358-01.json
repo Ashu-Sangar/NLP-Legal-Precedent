@@ -1,0 +1,120 @@
+{
+  "id": 415606,
+  "name": "Schuylkill County's Appeal",
+  "name_abbreviation": "Schuylkill County's Appeal",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "358",
+  "last_page": "362",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 440",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 134",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481821
+      ],
+      "pin_cites": [
+        {
+          "page": "136"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0134-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 438",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854644
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0438-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 406",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 W. & S. 134",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481821
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/7/0134-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 563,
+    "char_count": 13136,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 1.5115819688427726e-07,
+      "percentile": 0.6675804265036301
+    },
+    "sha256": "e2ef8384c2140aace8bae4f38e7adabb854c4d8a0481872bd623aa1176279540",
+    "simhash": "1:2ea726a0884de1c6",
+    "word_count": 2353
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schuylkill County\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J.\n\u2014 The County of Schuylkill and John H. Hill are rival claimants of a fund in court, arising from a sheriff\u2019s sale of certain personal property of Peter Allison, and which may be described as claimed by Isaac Bachman. Both the claimants are execution-creditors, but the execution of Hill was the first, and was placed in the sheriff\u2019s hands on the 8th day of June 1853. On the following day, June 9th, the sheriff made a levy upon certain personal property, and endorsed his levy upon the execution as follows: \u2014 \u201cLevied, June 9th, 1853, on 8 bedsteads and bedding, 6 stoves and pipe. (Here follows a list of sundry articles, not describing particularly the property in the hands of Bachman.) Also about 8 acres of rye, 7 acres of oats, 40 acres of corn, 3 acres of potatoes, 35 acres of grass in two meadows, cutting-box, sleigh, hay, manure, and old harness, &c., and all other personal property not exempt by law, as the property of Peter Allison. So answers James Nagle, sheriff.\u201d On the 18th of the same month, the sheriff sold the goods seized, and made return that the personal property levied upon, on the 9th day of June, had been in part retained by the debtor under the exemption law, and that the balance of said property he had sold on the 18 th, and applied the proceeds .of sale on account of the debt mentioned in the execution. Nothing more was done under this writ until the 30th of July following, a day, however, anterior to the return day of the writ. Meanwhile, on the 30th of June, the county of Schuylkill issued their execution, and on the 2d of July caused a levy to be made upon the goods claimed by Bachman. On the 18th of the same month they indemnified the sheriff, who then proceeded to advertise a sale to be held on the 1st of August. Two days before the sale, Hill also indemnified the sheriff, and he then endorsed upon the first execution the following additional levy: \u2014 \u201c Levied, July 30th, 1853, on 6 horses, 4 mules, 3 four horse wagons, 10 sets of harness, 2 saddles, and 2 log wagons, as the property of Peter Allison. So answers James Nagle, sheriff.\u201d This was the property claimed by Bachman. The sale took place on the 1st of August, and the sheriff returned, with the Hill execution, that he had sold by virtue of that writ, and a writ of fi. fa., No. 67 (being that of the County of Schuylkill), the personal property levied on the 30th of July 1853, describing it as in the endorsement of his levy, for $864.25, which sum, less the costs, he had ready, &c. This money the court below awarded, first, to pay the balance of Hill\u2019s execution, and from this decree the County of Schuylkill have appealed.\nIt is clear that the execution of the appellants, though second in date, had the first levy upon the property, the proceeds of sale of which are in dispute. It was made on the 2d of July, and Hill\u2019s not until the 30th of that month. It is true, that if the endorsement made upon the first writ on the 7th of June stood alone, we might think otherwise. The words at its close, \u201cand all other personal property not exempt by law,\u201d are large enough to embrace the goods which were claimed by Bachman, as was fully shown in Wilson, Sieger & Co.\u2019s Appeal, 1 Harris 429. They would even cover property subsequently acquired, though before the return day of the writ. But a levy is a seizure, a thing done. The endorsement on the. writ is but evidence of it. Mere writing upon his writ an assertion of a levy by the sheriff is no levy. To constitute one in England, the sheriff\u2019s bailiff must make an actual seizure. True, if part of the goods be seized in the name of the whole on the premises, it is a good seizure of the whole, but if after seizure the goods be left in the possession of the debtor, it is an abandonment, and they are open to seizure by a subsequent execution-creditor; and this, although a fi. fa., is a lien there, as here, from the time it comes to the officer\u2019s hands. In Pennsylvania, unfortunately, the same strictness has not been enforced, and something like a constructive seizure is tolerated. Yet even with us the sheriff must have the goods within his power and control, or at least within his view. If, having them so, he makes a levy upon them, if followed up afterwards within a reasonable time, by taking possession in such manner as to apprise everybody of the fact of their having been taken in execution, the levy is good: Wood v. Vanarsdale, 3 Rawle 406. Applying this test, it is obvious that the levy on the 9th of June was not made upon the goods claimed by Bachman, It was not followed up by taking the property into possession. On the contrary, the sheriff, on the 18th of June, proceeded to sell the other property seized, and returned that the property levied upon had in part been retained by the debtor, and that the remainder thereof he had sold and applied to the payment of the debt. The sheriff\u2019s return, therefore, avers that his first levy had been exhausted, and negatives the assertion that the goods claimed by Bachman had been included in it.\nMatters remained in that condition until twenty-eight days after the appellants had caused their levy to be made, until indemnity had been given to the sheriff, and the goods had been advertised for sale, when the sheriff made a second levy upon them, and endorsed it upon Hill\u2019s execution as made July 30th. His return also avers that he had made it on that day, and with this his testimony, before the commissioner to distribute the money, accords. The proof is therefore overwhelming that the appellants had the first levy.\nBut what then ? Assuming the priority of their levy, the appellants contend that they are entitled to the proceeds of sale, because, as they say, it is the priority of the levy, and not of the lien arising from having placed the writ in the sheriff\u2019s hands* which determines the title to the money. To sustain this view, Are are referred to McClelland v. Slingluff, 7 W. & S. 134. In that case it was ruled, that if two executions be placed in the hands of the sheriff, at different times, and he make a levy of the defendant\u2019s personal property, and a sale upon that which came to his hands last, he must appropriate the money to it, and not to the first upon which he had made no levy. It must be observed, however, that the case cited differs from the present, in the fact that there no levy had, at .any time, been made upon the first execution. The goods had been seized and sold upon the second, without any action whatever upon the first. The case is not, therefore, an authority for the position that, if there be a levy upon both writs, the first levy shall prevail. In Wilson, Sieger & Co.\u2019s Appeal, cited above, the first actual levy was made under the second execution, and yet it did not preval over a constructive levy endorsed upon the first. In Shafner v. Gilmore, 3 W. & S. 438, two writs of j!i. fa. had been placed in the hands of the sheriff, and levies liad been made; subsequently, other personal property of the debtor came into the bailiwick; a third execution was then placed in the sheriff\u2019s hands, under which he levied upon the neivlyarrived property; four days afterwards, he made a levy upon the same property, by virtue of tbe first two executions. There, as here, the first levy was under the junior writ, yet the first execution was held entitled to the money. So, in Hutchinson v. Johnston, 7 Term Rep. 729, the first warrant and seizure were under the second writ, but the proceeds of sale were held to belong to the first. Such, also, is the doctrine of Jones v. Atherton, 7 Taunt. 56. It is unnecessary to pursue this branch of the case farther. The authorities are uniform that it is not the first levy alone which determines the right to the proceeds of the sale.\nHill, then, being primarily entitled, notwithstanding his levy was after that of the appellants, it remains only to inquire whether he has lost his priority by his own act, or by any act of the sheriff. Undoubtedly, the advantage of priority, which the first ft. fa. has, may be lost by the waiver of the creditor, or an abandonment by the sheriff. When Hill\u2019s execution came to the officer\u2019s hands, it became a lien upon all the personal property of Allison the debtor, within the county of Schuylkill. If necessary to satisfy the debt, the sheriff should have levied upon all. If all was not needed, he should have seized sufficient. If enough could not be found until other writs came to hand, he should have seized after-discovered property under his first writ. But if he failed to do so, the first execution-creditor was not thereby postponed, as has already been shown, provided the sheriff levied at any time before sale. His delay is not an abandonment. But if he actually seize goods, and afterwards deliver them up to the debtor, they are abandoned, and a junior ft. fa. may take them. The first execution-creditor, in such a case, must look to the sheriff, not to the property abandoned : Commonwealth v. Contner, 6 Harris 439. And so it may be, if the officer seize certain specified articles out of many, all within his power and control, as for example fodr horses in a stable containing six, he thereby abandons the remaining two to other creditors. In such a case the sheriff, by his levy, designates the property out of which satisfaction of the universal lien is claimed to be made, and perhaps, thus informs subsequent execution-creditors what is affected by the lien, and what is not. This seems necessary in order to prevent the use of an execution as a mere cover to protect the debtor\u2019s goods. But, in the present case, the sheriff neither seized the goods claimed by Bachman and gave them up to the debtor, nor did he select certain articles out of many in his power and control, and thereby impliedly relinquish the others. There was, therefore, no abandonment by the sheriff.\nWas there a waiver by Hill, the creditor ? When he placed his execution in the hands of the sheriff, he thereby instructed him to make the money out of all the personal property of the debtor in his bailiwick. Having then a legal claim upon it all, he could relinquish that cjaim only by some affirmative act, or by such gross laches as is equivalent to a positive waiver. It does not appear that he knew of the existence of the goods claimed by Bachman until after the first sale was made, or that he knew they were Allison\u2019s property until after the second execution had been levied, nor at all, until he directed a levy to be made on his own writ, on the 30th of July. Under these circumstances, his neglect to order the seizure, and to indemnify the sheriff until after indemnity had been given by the county, was neither a positive discharge of the property nor gross laches equivalent thereto.\nIt may seem hard, that a first execution-creditor should reap the benefit of a sale mainly induced by the indemnity of a junior execution-claimant, but he has the first grasp upon the property, and only the property of the debtor is sold, notwithstanding the bond of indemnity. That the first execution is entitled to the proceeds of sale in such a case, even though the indemnity is only given by the holder of the second, is fully established by authority. It was so ruled in the The Girard Bank v. The Philadelphia and Norristown Railroad Company, 2 Miles 447, and recognised as settled law in Watmough v. Francis, 7 Barr 206.\nWe cannot perceive in the declarations of Hill to Jacob Kline, after the levy had been made, any intention at that time, or any confession of a previous intention, to waive any rights which belonged to him as the first execution-creditor.\nDecree affirmed at the costs of the appellant.\nThompson, J., dissented.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Bannan, for the appellants,",
+      "Graeff, E. O. Parry, and Loeser, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Schuylkill County\u2019s Appeal.\nA fi. fa. was issued and placed in the hands of the sheriff, to which he returned that he had levied upon and sold certain personal property of the defendants; afterwards, and before the return day, a second fi. fa. came into the sheriff\u2019s hands, by virtue whereof he, by direction of the plaintiffs therein, levied upon other property, claimed by a third person; and the plaintiffs in the second writ indemnified the sheriff, who advertised the property for sale; the plaintiff in the first execution, two days before the time of sale, directed the sheriff to levy on the same property under his writ, which was done, and he likewise indemnified the sheriff: Held, that the proceeds of sale were applicable to the payment of the first execution.\nAppeal from the Common Pleas of Schuylkill county.\nThis was an appeal by The County of Schuylkill from the decree of the court below, distributing the proceeds of a sheriff\u2019s sale of the personal estate of Peter Allison.\nThe facts of the case are fully set forth in the opinion of the court.\nBannan, for the appellants,\ncited McClelland v. Slingluff, 7 W. & S. 134, 136; Wilson, Sieger & Co.\u2019s Appeal, 1 Harris 426.\nGraeff, E. O. Parry, and Loeser, for the appellee.\n\u2014 Shafner v. Gilmore, 3 W. & S. 440; Wilson, Sieger & Co.\u2019s Appeal, 1 Harris 426; Girard Bank v. Railroad Co., 2 Miles 449."
+  },
+  "file_name": "0358-01",
+  "first_page_order": 358,
+  "last_page_order": 362
+}

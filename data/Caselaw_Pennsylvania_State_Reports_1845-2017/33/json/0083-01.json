@@ -1,0 +1,85 @@
+{
+  "id": 988387,
+  "name": "Souder versus Morrow",
+  "name_abbreviation": "Souder v. Morrow",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "83",
+  "last_page": "85",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Pa. 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Watts 407",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850993
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0407-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 309",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 283,
+    "char_count": 4147,
+    "ocr_confidence": 0.454,
+    "pagerank": {
+      "raw": 2.2535397780546784e-07,
+      "percentile": 0.781834191877596
+    },
+    "sha256": "c01b3068cc3bc4b9621c9898ec33e089f480191289fb68146f06de2ccad9c019",
+    "simhash": "1:a43189e6d6101cb5",
+    "word_count": 730
+  },
+  "last_updated": "2024-02-27T20:46:52.756636+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Souder versus Morrow."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThere is some merit in obeying the law of the land, and some danger incurred by not doing it: and- this remark applies to the recording acts, as this case shows. People ought to have their titles to land recorded, because the law requires it for the public good, and because there is safety in so doing.\nThe Act of 1775 requires the recording of both deeds and mortgages, and gives the very law of this case in fixing the penalty of disobedience. It says they shall be void against subsequent purchasers and mortgagees, if not recorded in proper time and place; unless recorded before the subsequent ones. Here the law was violated in relation to both the prior and the subsequent ones; but the prior one was first recorded, and therefore the condition on which it was to be void did not arise.\nThe cases cited on the argument, 4 W. & S. 309, 5 Id. 49, 10 Watts 407, 7 State R. 233, 9 Id. 405, cover the whole case, and being sustained by the very words and spirit of the written law, stand in no need of justification. Purchasers ought to know that they have only a conditional title, dependent on the honesty of their vendors, so long as they neglect to record their deeds. They are not safe merely because of the neglect of a former purchaser to record within six months, and of there being no subsequent deed to oppose them; but because, among several deceived purchasers, they are the first to obey the law.\nBy the very terms of the law, this mortgage is good, without the other considerations brought to its aid.\nJudgment affirmed and record remitted.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "B. K. Price and Kr eider, for the plaintiff in error.",
+      "Briggs, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Souder versus Morrow.\nWhere a mortgage and subsequent deed are made from the same grantor to different persons, neither of which is recorded within six months, if the mortgage be first recorded it will take priority, notwithstanding possession may have accompanied the title.\nError to the District Court of Philadelphia.\nThis was a scire facias on a mortgage by Hugh Morrow, assignee of Matthew Semple, against William F. Souder and Elizabeth his wife, and terre tenants. ,i\nOn the 2d December 1855, William F. Souder and Elizabeth \u2022 / his wife, executed the mortgage in question to secure to Matthew Semple the sum of $2000 and interest. It was not recorded until the 27th November 1855.\nOn the 1st October 1855, the mortgagors conveyed the mortgaged premises to Samuel M. Hager, without notice of the mortgage; on the 31st October 1855, Hager conveyed the same to Levi H. Bell; and on the 31st January 1856, Bell conveyed to Joseph \"W. Souder, the terre tenant. These conveyances were all recorded on the 16th June 1856.\nThe possession of the premises accompanied the conveyances, from the execution of the deed to Bell. And the tenant attorned and paid the rent to the vendees.\nOn the trial, the court helow affirmed the following points presented by the plaintiff: \u2014 \u25a0\n1. If the mortgage by William E. Souder and wife to Semple was recorded before the record of the deed by him and his wife for the said premises to Hager, through whom the defendant claims, the plaintiff is entitled to a verdict.\n2. To give the defendant a preference, as a subsequent purchaser, it was necessary for him to have recorded the deed, through which he claims title from Souder and wife to Hager, within six months after its execution, or before the record of the plaintiff\u2019s mortgage; and, if he did not, he cannot complain of the plaintiff\u2019s laches in not recording the mortgage, as he is guilty of like neglect in not recording his deed within six months after its execution.\n3. The continued occupation of the premises after the sale, by the same person who was the tenant of William E. Souder before the sale, was not notice to the plaintiff that defendant had purchased the premises; the presumption being, that he continued as the tenant of W. E. Souder.\nTo this instruction the defendant excepted; and a verdict and judgment having been rendered 'for the plaintiff for $2498.33, the defendant sued out this writ, and here assigned the same for error.\nB. K. Price and Kr eider, for the plaintiff in error.\nBriggs, for the defendant in error."
+  },
+  "file_name": "0083-01",
+  "first_page_order": 83,
+  "last_page_order": 85
+}

@@ -1,0 +1,253 @@
+{
+  "id": 985118,
+  "name": "Morrison versus Robinson et al.",
+  "name_abbreviation": "Morrison v. Robinson",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "456",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Paige 390",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2181755
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/6/0390-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 428",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Cas. 281",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1888788
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-cas/1/0337-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 263",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johns. 292",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 481",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0481-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 464",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 28",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 314",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853531
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0314-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. 385",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975523
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0385-01"
+      ]
+    },
+    {
+      "cite": "4 Cow. 168",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030918
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/4/0168-01"
+      ]
+    },
+    {
+      "cite": "2 Pick. 506",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Cas. 441",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 102",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Conn. 382",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wheat. 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        6136159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/21/0001-01"
+      ]
+    },
+    {
+      "cite": "9 W. & S. 210",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 308",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/2/0308-01"
+      ]
+    },
+    {
+      "cite": "1 Wheat. 79",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Johns. Cas. 438",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1890553
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-cas/2/0438-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 428",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 596,
+    "char_count": 10694,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 5.753170942473069e-07,
+      "percentile": 0.9505227910970871
+    },
+    "sha256": "3de7c6d8b3ce0c3e5af32610bf4f77e44d49e0d166ab0aaec2f8ee1fbbd76082",
+    "simhash": "1:2b3e2c438d982428",
+    "word_count": 1873
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morrison versus Robinson et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nOur natural sense of justice furnishes the ground and the measure of compensation for injuries done by one man to the property of another, and demands an adequate remedy to obtain it. On this sense of justice the action of trespass for mesne profits is founded, and of course it is not intended to be administered so as to work injustice. It is not distinguished in its nature, but only by its special application, from the general action of trespass.\nTrespasses to personal property are usually very easily measured by the value of the property at the time it was taken or destroyed, or by the degree of impairment of its value. But it is not so with real property withheld from the rightful owner; for it is entirely different in its character. Generally, land is not exclusively adapted to any one special use, like most of articles of personal property, hut may be turned to all imaginable uses, and its condition indefinitely altered at the pleasure of its occupant. Out of these changes of use and condition often arise very complicated questions, in the estimation of damages. In them all, our natural sense of justice is the clue to their solution. They have necessarily given rise to a great variety of decisions, because this sense of justice has had to be applied to a great variety of circumstances. But these decisions, though various, are not therefore contradictory. Generally, they are quite harmonious in their principles.\nThey all recognise that compensation is the purpose of the action, and they allow no more, in ordinary cases, even when the occupant knows that he is without title. And if such an occupant changes and improves the property, without objection from the real owner, who knows what is going on, still compensation for the use of the land is all- that is allowed, and the permanent improvements may be full compensation. But one who forcibly disseises another and makes such improvements, or one who makes them after action brought to try the title, can have no claim to have his improvements estimated; because he has no right to choose the mode of improvement of another man\u2019s property, against his known will; and justice will not compensate him at the hazard of doing wrong to the owner.\nIt is everywhere admitted, that a bond fide occupant under claim of title, who makes permanent and valuable improvements, is entitled to have them taken into account in ascertaining whether or not the real owner has sustained any damage, and may show that they are a full compensation for the value of the property: 2 Kent 335 ; 2 Story\u2019s Eq., \u00a7\u00a7 799, 1237; 4 Cowen 168; 2 Johns. Cas. 438; 6 Watts 428.\nAnd how can Mrs. Morrison claim that the adverse possession was not bond fide, since it was held under a deed of conveyance from herself, in which no fraud is alleged ? If she thought she had power to convey, how can she say that her -grantee knew better ? In such a case, at least, Judge Washinuton\u2019s definition is adequate:. that a bond fide claimant is one who supposes that he has a good title and knows of no adverse claim: 1 Wheat. 79.\nAnd if the supposed good title pass through many hands, this does not change the injury nor the measure of compensation. The injury is still one, though many persons are chargeable with it; and therercan be no double compensation, even though there may be many actions. If there was no damage for the whole time, there can be none for any part of it. The action is nominally for mesne profits, because usually they are a fair measure of compensation; but it is not necessarily so, because sometimes there are no profits, and it may cover acts of mere waste and injury: 2 W. & S. 308.\nThe present defendants were not the purchasers from the plaintiff, and did not make the improvements; but they are bond fide purchasers under the bond fide improver, and when ousted by the superior unknown title -they have a right to the defence, which the improver would have had, if he had continued in the possession. Neither occupant has a right of action for his improvements ; but any one, or all of them, may show that, during the several, but dependent occupancies, taken all together, the plaintiff has sustained no damage. This cause was tried according to these principles.\nJudgment affirmed, and record remitted.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "J. B. Miller, for the plaintiff in error,",
+      "Ewing & Kaine, for the defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Morrison versus Robinson et al.\nIn trespass for mesne profits, compensation is the proper measure of damages; and the defendant may in such action be allowed for the value of permanent improvements erected, not by himself, but by one whose title he has purchased.\nOne who forcibly disseises another and makes improvements, or who makes them after action brought to try the title, is not to be allowed for such improvements.\nBut a bond fide occupant under claim of title, who makes permanent and valuable improvements, is entitled to have them taken into account in ascertaining whether or not the real owner has sustained any damage; and may show that they are a full compensation for the value of the property.\nError, to the Common Pleas of Payette county.\nThis wms an action of trespass for mesne profits, brought by Ann Morrison against Eleazar Robinson and William Thorn-dell, Jr. The previous ejectment, in which the plaintiff recovered the premises, is reported in 1 Casey 326.\nThe plaintiff was one of the heirs at law of Zadock Springer, and took the premises in question under proceedings in partition. On the 16th February 1848, by her separate deed (to which her husband, Noah Morrison, was not a party) she conveyed the property to Samuel Bryan, who entered and erected valuable and permanent improvements on the premises; and, on the 4th December 1851, his interest therein was levied on and sold by the sheriff to the defendants.\nThe plaintiff having recovered the premises in ejectment, the only question raised in this action was, whether the defendants were to be allowed to recoup the value of the improvements made by Bryan against the mesne profits claimed by the plaintiff.\nThe court below (Gilmore, P. J.) charged the jury as follows :\u2014\n\u201c To entitle the defendants in this action to recoup the value of improvements and betterments against damages for the mesne profits, it must be shown that they made the improvements bond fide, under colour of title, and believing they were the real owners. Where the possession is maid fide, and the ownership merely affected, improvements made under such possession cannot be offset.\n\u201c There is a peculiarity in this case. The plaintiff here made the deed to Bryan, under which defendants claim, and under this title the improvements were made. It is therefore contended, that she cannot say that the improvements were not made bond fide, as the possession was taken and title claimed under her own deed. We are not prepared to say, she is estopped by the deed to deny the bond fide character of Bryan\u2019s possession, or those claiming under him \u2014 seeing that the deed has not availed the defendants to secure their possession against the plaintiff. We prefer leaving it to you to determine from the evidence, .whether Bryan, who made the improvements, was a bond fide possessor. One may be a bond fide possessor and claimant of property where his title is defective or even void, as perhaps it was here.\n\u201c The fact of the recovery in ejectment shows that the title was defective, but it does not necessarily follow from this, that the possession and claim of title were not held and made in good faith.\n\u201c If the person claiming has colour of title, and he believes it to be good, although with strict inquiry and examination it might be found to be defective, or even void, he is still an innocent claimant; and if he make valuable and permanent improvements, will, in this kind of action, he allowed to recoup the value from the damages allowed for the use and occupation. If there had been notice of defect of title, it would he otherwise. But we charge you that the records of the Orphans\u2019 Court by which this lot was allotted to Ann Morrison was not such notice, if you believe her husband had deserted her for fourteen years. It would certainly raise a doubt as to the title, because it contained some evidence she was still under coverture. But it is not sufficient, to raise a mere doubt as to title. One may truly believe he has a good title, although there exist circumstances which create a doubt as to its validity. Here, the deed shows a valuable consideration was paid and expensive improvements made, evincing the perfect faith which Bryan reposed in this title. The doubt, therefore, of the validity, is not inconsistent with the innocent character of the possession.\n\u201c If you should he of opinion that these improvements were bond fide made by Bryan, the next inquiry will be, whether the buildings and improvements made are sufficient to satisfy for the damages by reason of the use and possession of the property. We were at firsr inclined to think that the improvements could not be offset against any profits except what were occasioned by the enhanced value. But upon reflection, and after hearing the authorities, we think otherwise. They may be set off against all the profits \u2014 those which belonged to the property in its original state, and which it produced after the improvements.\u201d\nTo this charge the plaintiff excepted; and a verdict and judgment having been rendered for the defendants, the plaintiff removed the cause to this court, and here assigned such charge for error.\nJ. B. Miller, for the plaintiff in error,\ncited Dormer v. Fortescue, 3 Atk. 134; 2 Kent Com. 338; 2 Mad. Ch. 72; Gregg v. Patterson, 9 W. & S. 210; Garrard v. Pittsburgh and Connelsville Railroad Co., 5 Casey 158; Green v. Biddle, 8 Wheat. 1; 5 Conn. 382; 2 Barr 203; 3 W. & S. 102, 313; Shep. Touch. 93; Co. Litt. 4 b; 2 Story Eq., \u00a7 1238 ; 2 Kent Com. 334, 335; Murray v. Gouverneur, 2 Johns. Cas. 441; Coulter\u2019s Case, 5 Co. 35; 2 Pick. 506; Jackson v. Loomis, 4 Cow. 168; Moore v. Cable, 1 Johns. Ch. 385; Paull\u2019s Executors v. Eldred, 5 Casey 415; Huston v. Wickersham, 2 W. & S. 314; Marie v. Semple, Add. 215; Cook v. Nicholas, 2 W. & S. 28; Givens v. McCalmont, 4 Watts 464; Wykoff v. Wykoff, 3 W. & S. 481-6; Lombard v. Ruggles, 9 Greenl. 62; Frear v. Hardenburgh, 5 Johns. 292; Howard v. Easton, 7 Id. 205; Lower v. Winters, 7 Cow. 263; Van Alen v. Rogers, 1 Johns. Cas. 281.\nEwing & Kaine, for the defendants in error,\ncited Ewalt v. Gray, 6 Watts 428; 2 Kent. Com. 335, 338; Coulter\u2019s Case, 5 Co. 30; Huston v. Wickersham, 2 W. & S. 314; Cook v. Nicholas, Id. 27-8; 2 Story Eq., \u00a7 799 a, 799 b, 1236, 1237 ; Bright v. Boyd, 1 Story\u2019s R. 478, 494; Putnam v. Ritchie, 6 Paige 390-405."
+  },
+  "file_name": "0456-01",
+  "first_page_order": 456,
+  "last_page_order": 460
+}

@@ -1,0 +1,85 @@
+{
+  "id": 960757,
+  "name": "Giles v. Ackles",
+  "name_abbreviation": "Giles v. Ackles",
+  "decision_date": "1848-09-16",
+  "docket_number": "",
+  "first_page": "147",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Johns. Rep. 239",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cow. 90",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Penn. Rep. 383",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 179,
+    "char_count": 2255,
+    "ocr_confidence": 0.39,
+    "pagerank": {
+      "raw": 1.09496059093875e-07,
+      "percentile": 0.5666108332956864
+    },
+    "sha256": "56f91bd4038b30b06ca707f74be53acee1a50704515e9bef87d39cbdd14c9146",
+    "simhash": "1:ab80697d5edee02d",
+    "word_count": 397
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Giles v. Ackles."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe weight of authority is against the plaintiff in error; it being well settled, that an agreement to forbear to sue for a considerable time, is a consideration certain enough upon which to sustain an action: 1 Penn. Rep. 383. In New York it was held, that the adjournment of a suit is a sufficient consideration for a promise: Stewart v. McGuin, 1 Cow. 90. This case is not unlike that of Pullin v. Stokes, 2 H. Bl. 312. There, A. having obtained judgment against B., and a fieri facias being delivered to the sheriff, in Qonsideration that A., at the special instance and request of C., had requested the sheriff not to execute the writ, C.\u201epromised to pay A. the debt and costs, together with the sheriff\u2019s poundage, bailiff\u2019s fees, and other charges, on a judgment by default and error brought, the promise was holden to be binding on C., though it was not averred that the sheriff did in fact desist from the execution of the writ. Here the execution was in the hands of the sheriff against Brown, who was down the river with coal. Giles promised to pay the debt if the plaintiff\u2019s attorney would stay the writ for six weeks. The plaintiff\u2019s attorney agreed to this. Nothing was done on the execution until Giles requested the attorney to proceed with the execution against Brown. If the jury believed the evidence, the plaintiff in error had no ground to stand on. Indeed, the consideration of forbearance generally has been held sufficient, without setting forth a specific time: 4 Johns. Rep. 239; see Cro. James, 683.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Woods, for plaintiff in error. \u25a0",
+      "Gr. P. Hamilton, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "Giles v. Ackles.\nA promise to pay the debt of another, if plaintiff would stay an execution, is binding, if the plaintiff does not proceed with his execution.until after the day agreed on.\nIn error from the District Court of Allegheny.\nThe plaintiff was an execution-creditor of Brown. Giles called on the plaintiff, and agreed if he would stay the writ, he would pay the debt in six weeks. The plaintiff consented, and did not proceed with his execution until requested by Giles.\nLowrie, J., told the jury it was immaterial that the writ was not stayed on the record; there was a contract to wait, and the plaintiff did wait.\nWoods, for plaintiff in error. \u25a0\nGr. P. Hamilton, contrd.\nSept. 16."
+  },
+  "file_name": "0147-01",
+  "first_page_order": 147,
+  "last_page_order": 148
+}

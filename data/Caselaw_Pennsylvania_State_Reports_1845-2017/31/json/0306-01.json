@@ -1,0 +1,141 @@
+{
+  "id": 985072,
+  "name": "Lauman versus Young et al.",
+  "name_abbreviation": "Lauman v. Young",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "306",
+  "last_page": "311",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. & S. 301",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0301-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 546",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 How. 307",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3361974
+      ],
+      "pin_cites": [
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/54/0307-01"
+      ]
+    },
+    {
+      "cite": "14 Leg. Int. 148",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 205",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856244
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0205-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 405",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 W. & S. 301",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852584
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0301-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 631,
+    "char_count": 15384,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 1.1412325270646984e-06,
+      "percentile": 0.9864959308438446
+    },
+    "sha256": "97c9eb003058a55ef32a1bc33c08f1e9cbea4a3ed87bc295bc6c813b0befd37a",
+    "simhash": "1:d725cdc9cea48578",
+    "word_count": 2647
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Judge Woodward and Judge Strong were not present at the argument, and took no part in the decision."
+    ],
+    "parties": [
+      "Lauman versus Young et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\n1. The first assignment of error is not sustained. The sub-letting to Fisher & Taylor of section No. 48, by the plaintiffs, had taken place a month and a half before the contract between the plaintiffs and defendant was executed, doubtless, under some previous arrangement that the plaintiffs were to have the contract for building sections No. 47 and 48. An estimate had been paid on the work done by the sub-contractors, and they were in active operation on the work at the time. They continued on afterwards, without objection by the defendant or the company, and finished the work on the section, were paid for it, and received the retained per cent, from the defendant. No steps were taken to forfeit the contract. Under these circumstances, the court very properly left the question of knowledge, assent, and acquiescence, on part of defendant, to the jury, which they found to exist. It seems to us, there was abundance of evidence to justify the proceeding. Forfeiture is not a favourite of the law. Acquiescence in acts inconsistent with it, will readily dispense with a right to claim it.\n2. The second assignment is also groundless. The defendant had bound the plaintiffs to commence work within two weeks, and to finish by the 1st of October 1855, and covenanted to furnish the right of way. The plaintiffs charged that he failed to do this, so far as section 47, and a portion of 48, were concerned. If this were so, the defendant was answerable on his covenant for a failure to furnish it in a reasonable time after request. The plaintiffs could look to no other source for indemnity. This was the instruction of the court, and there was no error in it.\n8. The third assignment raises the important question in the case, and is whether the plaintiffs can sustain their action, not having previously obtained the decision of the engineer as stipulated for in the contract ?\nIt cannot now be doubted, but that if the ground of \u201c dispute\u201d involved in this suit comes within the prospective submission agreed upon in the contract, by the parties, that it cannot be investigated here. Such provisions for settling controversies which might arise between companies and their contractors, as also between individuals, have been fully sustained by this court: Fenlon v. Monongahela Navigation Co., 4 W. & S. 405; Faunce v. Burke & Garder, 4 Harris 469; and Snodgrass v. Gavit, 4 Casey 224.\nIs the matter in controversy in this case embraced by and within the jurisdiction conferred by the agreement on the engineer ? It is as follows : \u201c To prevent all disputes, it is hereby mutually agreed that the said engineer shall, in all eases, determine the amount and quantity of the several kinds of work which are to be paid for under the contract, and the. amount of compensation, at the rates herein provided for; and also that the said engineer shall in all cases decide every question which can or may arise, relative to the execution of this contract, on the part of said contractors; and his decision shall be final and conclusive, and without appeal.\u201d\nThe intention of the parties, to 'this prospective submission, is very clearly apparent, and is certainly not to.be enlarged beyond the plain terms used. The engineer was only to determine upon such matters as the parties submitted to his final adjudication, and they stipulate that, \u201c to prevent all disputes,\u201d he shall determine the amount and quantity of work and the compensation to be paid for it, at the rates provided for. This is the first clause of the submission. The words \u201c all disputes\u201d are clearly controlled and limited to the distinctly enumerated grounds of anticipated dispute, in the same sentence, which are so defined that these general words have no force or meaning unless they relate to anticipated disputes arising out of the work to be done, and the compensation to be paid. The parties anticipated disputes from no other source, or if they did, they chose to rely for a settlement of them upon the established tribunals of the county. It is a well settled principle, unless there be a manifest intention* to the contrary, that \u201c general expressions in a contract are controlled by the special provisions therein:\u201d Story on Cont. \u00a7 641. \u201c If there be a recital of a particular claim, followed by general words of release the general words will be qualified and restricted by the particular recital Id. \u00a7 643. Platt on Cov. 379. This is common sense, for why particularize, if the matter is to be controlled by a general provision ? There is certainly no doubt about what was the intention of the parties thus far.\nThe last clause of this stipulation, we think, is equally clearly limited to disputes arising out of the performance of the work by the contractors. It is quite clear also from the contract itself that the words \u201cexecution of the contract on part of the contractors,\u201d meant the plaintiffs. They are repeatedly so designated in it, and in fact, it is usual in all works of this kind so to denominate the party undertaking the work, and nobody so engaged understands the term in any other way. Certainly these parties did not. The engineer was, therefore, to decide every question that could arise relative to the execution of the contract on part of the contractors. He was to be the umpire in settling disputes arising out of the kind, manner, and time of performance by the plaintiffs, and nothing else. This clause was to cover disputes, other than enumerated in the first clause, but like it the decision was only t\u00f3 be as to performance. The engineer had no jurisdiction, if there was no execution by the plaintiffs of the contract.\nThe plaintiffs in this case do not sue to recover for work done, in performance of their contract, but to recover damages from the defendant for preventing or refusing to permit them to perform it. There is no dispute about the amount of work done, or the price or the manner of executing the contract, but solely to recover damage for the loss of the contract; and nothing else is claimed in the narr. or was claimed on the trial. The defendant would not have been bound by any decision of the engineer made on the point involved here. To have done so, would have been outside of the submission. He was to determine in regard to work done, and had nothing to do with a dispute between the parties arising from a claim for damages for not being permitted to do work. \u201c The terms of a contract,\u201d said Ch. J. Gibson, in Harris v. Liggett, 1 W. & S. 301, \u201c are private laws which the parties prescribe for themselves, to fix the measure of their responsibilities; and they agree to be bound by these and no others. Rut a judge would bind them differently, did he enforce between them duties of imperfect obligation, and support an implication of terms to which they did not accede.\u201d The right of trial by jury will not be taken away by implication merely, in any case. It must appear in all cases that the parties have agreed to dispense with it.\nWe do not in any wise intend to infringe on the principle of the decision in Fenlon v. Monongahela Nav. Co. The stipulation in that case differs widely from the case in hand. The suit there was to recover for work done, as well as for damages for suspending it, and it was ruled on the following clause in the contract that the engineer had exclusive jurisdiction of the matter : \u201c It is also mutually agreed between the parties,\u201d says the contract, \u201c to these presents, that in any dispute which may arise between the contractor and the company, the decision of the engineer shall be obligatory and conclusive, without recourse or appeal.\u201d Very different from the stipulations used in our case, and in which if they had existed, the engineer would undoubtedly have had jurisdiction. We fully accede to the decision in that case. So, in the case of Fox v. The Hempfield R. R. Co., tried in the Circuit Court of the United States before Mr. Justice Grier. The stipulation was, \u201c that the decision of the chief engineer for the time being shall be final and conclusive, in any dispute which may arise between the parties to this agreement, relative to, or touching the same, and each and every of said parties do hereby waive any right of action, suit or suits or other remedy in law or otherwise, by virtue of said covenant; so that the decision of the engineer shall be final and conclusive on the rights and claims of the said parties.\u201d No more unrestricted submission could well have been framed; and the decision that the jurisdiction of the cause of action belonged to the engineer was undoubtedly in accordance with the eases on this point. We think the learned judge was certainly right in his ruling in the case.\nThe fourth assignment of error was not pressed.\nJudgment affirmed.\nJudge Woodward and Judge Strong were not present at the argument, and took no part in the decision.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "McCormick and Kunkel, for the plaintiff in error,",
+      "J. A. Fisher and Lamberton, for the defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Lauman versus Young et al.\nIf the parties to a contract provide that any dispute which may arise between them, in reference to the subject-matter of the contract, shall be determined by a person therein named, whose decision shall be final, no action can be sustained at law, in reference to matters embraced in the prospective submission.\nBut in order to oust the jurisdiction of the courts, it must clearly appear that the subject-matter of the controversy was within the prospective submission. The right of trial by jury is not to be taken away by implication.\nThe parties to a contract for the construction of a section of a railroad, agreed that the chief engineer should, in all cases, determine the amount or quantity of the several kinds of work to be paid for under the contract, and the amount of compensation at the rates therein provided for; and that the said engineer should also, in all cases, decide every question which could or might arise, relative to the execution of the contract, on the part of the contractors ; and that his decision should be final and without appeal: Held, that this did not embrace a claim for damages, for refusing to permit the contractors to proceed with the execution of the work.\nSuch contract provided, that no sub-contract should be made without the written approbation of the engineer, and of the party giving out the contract, under penalty \u00f3f forfeit of the work so sub-let: Held, that a sub-letting of a portion of the work, previous to the execution of the contract, and which had been acquiesced in by all the parties, did not work a forfeiture under this provision.\nAcquiescence in acts inconsistent with a clause of forfeiture, will dispense with a right to claim it.\nSuch contract contained a provision, that the right of way over the said sections of railway should be furnished: Held, that the contractors were entitled to damages for an unreasonable delay in procuring the right of way.\nError to the Common Pleas of Dauphin county.\nThis was an action of covenant, by Young & Cameron against George M. Lauman, for refusing to permit the plaintiffs to complete their contract for the grading of a portion of the Lebanon Yalley Railroad.\nThe Lebanon Yalley Railroad Company was organized in 1853, and agreed with George M. Lauman, the defendant below, for the construction of 15 miles of their road, lying between Harrisburg and Palmyra.\nOn the 27th June 1854, Lauman entered into a written contract with Young & Cameron, the plaintiffs, for the grading of sections No. 47 and 48. This contract contained the following provisions:\u2014\n\u201c It is understood that the right of way over the said sections of railway shall be furnished; and further, that the right conferred by law on said railway company to enter adjacent lands, for the purpose of obtaining materials therefrom, required for the construction of the railway, whether timber, earth, or stone, shall be exercised, whenever necessary, for the benefit of said Young & Cameron.\n\u201c And the said contractors hereby further agree to perform the several stipulations of this contract, by themselves and workmen under their immediate superintendence; and no sub-contract shall be made without the written approbation of said engineer and George M. Lauman, under penalty of forfeit of the work so sublet.\n\u201c To prevent all disputes, it is hereby mutually agreed, that the said engineer shall, in all cases, determine the amount or quantity of the several kinds of work which are to be paid for under this contract, and the amount of compensation, at the rates herein provided for; and also that the said engineer shall, in all cases, decide every question which can or may arise, relative to the execution of this contract, on the part of said contractors; and his decision shall be final and conclusive, and without appeal.\n\u201c And the said contractors agree, that the work herein contracted for shall be commenced within two weeks after being required by the company or their engineer; and that this contract shall be fully completed, on'their part, by the first day of October, in the year of our Lord 1855.\n\u201c This contract shall not be binding upon either party until signed by all parties thereto, and affixing of the seals of said contracting parties.\u201d\nBefore the signing of this contract, the plaintiffs had, on the 6th May 1854, entered into a sub-contract with Fisher & Co. for the grading and masonry of section 48. Fisher & Go. completed the work provided for in their sub-contract, with the knowledge and acquiescence of Lauman, who paid them for their work, including the per-centage retained under the contract.\nThe right of way over a portion of section 48 and the whole of section 47, was not obtained until the 31st July 1855; and the defendant, after it was obtained, refused to permit the plaintiffs to proceed with their work; and entered into another contract with other parties, by whom it was performed. For this violation of the agreement the present action was brought.\nOn the trial of the cause, the defendant contended that the sub-letting of a portion of the work to Fisher & Go. worked a forfeiture of the plaintiff\u2019s rights under the contract; that Lauman was not liable for the consequences of the delay in obtaining the right of way; and that this action would not lie, inasmuch as the parties had agreed to refer any disputes, that might arise under the contract, to the decision of the chief engineer of the road.\nThe court below (Pearson, P. J.) negatived all these points, and charged the jury: \u2014 1. That there was no forfeiture. 2. That the defendant was liable for an unreasonable delay in procuring the right of way. 3. That the cause of, action was not one contemplated to be submitted to the decision of the engineer.\nTo this charge the defendant excepted\u2019; and a verdict and .judgment having been rendered for the plaintiffs for $3416.88, the defendant removed the cause to this court, and here assigned such charge for error.\nMcCormick and Kunkel, for the plaintiff in error,\ncited Monongahela Navigation Company v. Fenlon, 4 W. & S. 205; Faunce v. Burke, 4 Harris 469; Fox v. Hempfield Railroad Company, 14 Leg. Int. 148.\nJ. A. Fisher and Lamberton, for the defendants in error,\ncited 2 Greenl. Ev. 257; Philadelphia, Wilmington and Baltimore Railroad v. Howard, 13 How. 307, 340; Case v. Cushman, 3 W. & S. 546; Snyder v. Leibengood, 4 Barr 305; Snodgrass v. Gravit, 4 Casey 221; Harris v. Ligget, 1 W. & S. 301."
+  },
+  "file_name": "0306-01",
+  "first_page_order": 306,
+  "last_page_order": 311
+}

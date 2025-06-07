@@ -1,0 +1,110 @@
+{
+  "id": 949875,
+  "name": "John Minor, Plaintiff in error, who was Plaintiff below, v. Henry Neal, Defendant in error",
+  "name_abbreviation": "Minor v. Neal",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "403",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Yeates, 290",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wh. 12",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835023
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0012-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 207",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846131
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0207-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 307",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844094
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0307-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 209,
+    "char_count": 3341,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.033412372690454155
+    },
+    "sha256": "9cac0d13e5efba9052e2b8e77b43d5d1644e00f1619f05925fbf04c710c999e1",
+    "simhash": "1:9b0246a9c45e118d",
+    "word_count": 607
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Minor, Plaintiff in error, who was Plaintiff below, v. Henry Neal, Defendant in error."
+    ],
+    "opinions": [
+      {
+        "text": "Pee Curiam.\nThe principle of this case was settled in Crozer v. Leland; and the very point was put for illustration. It is unnecessary, therefore, to do more than refer to that case. As to the proof received, it is enough to say, that it fell short. The witness did not pretend to identify the notice that was read in the defendant\u2019s presence; neither could he specify the day, nor say whether it was within the proper period. The plaintiff, therefore, signally failed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Pee Curiam."
+      }
+    ],
+    "attorneys": [
+      "Deford, for plaintiff in error,",
+      "Flenniken, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "John Minor, Plaintiff in error, who was Plaintiff below, v. Henry Neal, Defendant in error.\nIn Error.\nThe plaintiff is incompetent to prove notice of action for marrying his daughter.\nNor is proof by a witness that he heard the plaintiff read such a notice in the defendant\u2019s presence, sufficient, unless he identify the paper and specify the day.\nError to the Court of Common Pleas of Greene county.\nThis was a suit brought by the plaintiff in error against the defendant in error, who was a justice of the peace, to recover under the act of Assembly the penalty of^\u00bf\u00a350, for marrying a minor daughter of the plaintiff, without his consent and against his express order.\n\u2022Upon the trial, in the court below, the plaintiff was offered by his counsel, as a witness to prove the service of notice upon the justice; to which the counsel of the defendant objected, on the ground that the plaintiff was not competent to prove notice of action for marrying his daughter. The court sustained the objection, and, at the instance of the counsel of the plaintiff, sealed a bill of exceptions.\nThe plaintiff then offered and proved by M. Denny, \u00abthat deponent was in back room of Mr. Inghram\u2019s tavern, and plaintiff came in and served a notice on defendant. I heard the notice read, or most of it; it was concerning the defendant marrying the plaintiff\u2019s daughter; plaintiff seemed much agitated when reading, and after it was read, I believe he told me to take notice, and defendant said it was good, or the service was good. I do not recollect whether plaintiff left a copy of the notice. This paper is similar to what I heard read; I did not hear it all, but what I did hear is in that paper. I don\u2019t know that I can tell in what month it was, or that this is the notice.\u201d\nThe plaintiff then offered in evidence the paper referred to by the witness, as being similar in its contents to that which he had'heard read. To the admission of this evidence, the counsel of the defendant objected. The court sustained the objection, and sealed a bill of exceptions. The plaintiff thereupon took a writ of error, and assigned for error in this court the rejection of the plaintiff as a witness to prove the service of notice on the defendant, and in not permitting the written notice to be read, after the testimony of M. Denny..\nDeford, for plaintiff in error,\ncited 5 Watts, 307, and 6 Watts, 207, and argued, that a party to a suit was competent to prove the service of a notice.\nFlenniken, contra,\nargued that a party to a suit may prove the service of notice, where the evidence is for the court; but not where the notice alleged to have been served by him is an essential element of the action, and goes to the jury. He contended that the question of the competency of the party was not raised in 5 Watts, 307. He cited Crozer v. Leland, 4 Wh. 12, 2 Yeates, 290."
+  },
+  "file_name": "0403-01",
+  "first_page_order": 405,
+  "last_page_order": 406
+}

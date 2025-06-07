@@ -1,0 +1,66 @@
+{
+  "id": 981663,
+  "name": "Thomas versus Mann",
+  "name_abbreviation": "Thomas v. Mann",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "520",
+  "last_page": "522",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 520"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 307,
+    "char_count": 5037,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 3.051037632536816e-07,
+      "percentile": 0.85594604164181
+    },
+    "sha256": "e0cf4059a86c2bfa0598c10370e041a810259cbeb4dd01fe715b6bdb2144757c",
+    "simhash": "1:5a79d2815646afbe",
+    "word_count": 892
+  },
+  "last_updated": "2023-07-14T16:15:42.843019+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas versus Mann."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nThat the learned judge was in error in ruling that notice given by a surety to the counsel of an absentee creditor was insufficient to compel the institution of proceedings against the principal debtor, is proved by what was decided in Wetzel v. Sponsler\u2019s Executors, 6 Harris 460, and is indeed frankly admitted by the counsel of defendant in error. But it is said the defendant was not entitled to prove such notice, because it was not contained in his specification of special matter. And true it is it was not. The notice specified three things, \u2014 1. That Thomas was surety of Crysher. 2. That plaintiff had a good and sufficient lien against Crysher\u2019s real estate, and that he suffered it to expire. 3. That the real estate of Crysher was sold for a sum more than sufficient to pay this debt, and it would have been paid if its lien had been preserved.\nUnder our system of short pleas these notices of special matter are very important, for they give to plaintiffs the only opportunity that our practice affords them of preparing to meet the defence that is to be relied on. They are in substance special pleas, lacking nothing, indeed, but the form to make them completely so. It could not he tolerated that a defendant should disclose one ground of defence in his pleas and assume another in his evidence. The object of all pleadings is to develop the real issue to be tried, and hence the rule that the allegata and probata must agree. The rule is just as imperative in respect to notices of special matter as it is when applied to formal special pleas. The adversary must be put into possession of the real grounds of defence to prevent surprise and to promote justice. The duty is enforced in Bedford county by a rule of court which declares in substance that unless a defendant specify the facts intended to be proved he shall give no evidence under the short plea of payment with leave, &c., except what will show actual payment or satisfaction.\nUnder this rule, as well as upon general principles of sound practice, the defendant was bound to put into his notice of special matter the fact on which his defence rested; and, having failed to do so, the evidence of that fact was properly rejected. The only error upon the record is a wrong reason for a right judgment; but, as we review not reasons but judgments, we find nothing here to correct.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Cessna and Shannon, for plaintiff in error.",
+      "King and Jordan, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas versus Mann.\nThe rule that the allegata and probata must agree is as imperative in respect to notice of special matter, as it is when applied to formal special pleas.\nA notice by a surety to the counsel of an absent or non-resident plaintiff in a judgment, to proceed against the principal, or the surety will not agree longer to be bound for the debt, is sufficient.\nWetzel v. Sponsler\u2019s Executors, 6 Harris 460.\nThis court reviews judgments, not the reasons given therefor, and will not reverse a right judgment though a wrong reason be given for rendering it.\nError to the Common Pleas of Bedford county.\nThis was a scire facias to x-evive a judgment in favour of Job Mann, administrator of the estate of Joseph S. Morrison, against Nicholas Crysher and Michael Thomas. The defendants pleaded usury, payment with leave, &c., and Michael Thomas filed a specification of special matter of defence, in which he alleged that he was the surety of Crysher in the judgment, and that the plaintiff had a sufficient lien against Orysher\u2019s real estate, but suffered it to expire, and that such real estate had been afterwards sold, and brought a sum sufficient to have paid the judgment, if the lien had been preserved.\n.Crysher confessed judgment on the 2d September\u2019, 1856, and on tbe same day a jury was sworn as to Thomas. On the trial the defendant called Daniel May, and offered to prove that Mr. Barclay was the counsel and agent of J. S. Morrison, during the lifetime of the latter, who resided in the state of Missouri, and that whilst he resided there, Thomas, one of the defendants, gave notice to Barclay to push the judgment or he would no longer stand for the money. That Thomas was the security of Crysher, and that at the time the notice was given, the principal had property out of which the debt could have, been levied and the money made. This evidence was objected to, but the court allowed the evidence to be given, except as to the notice to Barclay. The court were of opinion that the notice should have been given to the principal.\nThe defendant tendered a bill of exceptions to the rejection of such testimony, and the same was sealed. There being no other testimony offered, the court directed the jury to find for the plaintiff.\nThey accordingly rendered a verdict for $492.39, upon which judgment was entered.\nThe defendant took a writ of error, and specified that the court erred in rejecting the testimony as to the notice to Barclay, and in directing a verdict for the plaintiff.\nCessna and Shannon, for plaintiff in error.\nKing and Jordan, for defendants in error."
+  },
+  "file_name": "0520-01",
+  "first_page_order": 520,
+  "last_page_order": 522
+}

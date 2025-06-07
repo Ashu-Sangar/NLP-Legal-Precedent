@@ -1,0 +1,108 @@
+{
+  "id": 981590,
+  "name": "Arthur et al. versus James et al.",
+  "name_abbreviation": "Arthur v. James",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "236",
+  "last_page": "237",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Pick. 377",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Pick. 290",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Conn. Rep. 142",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12123399
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/4/0142-01"
+      ]
+    },
+    {
+      "cite": "3 N. H. Rep. 501",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6755557
+      ],
+      "pin_cites": [
+        {
+          "page": "508-9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/3/0501-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 259,
+    "char_count": 3537,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 2.913592158862766e-07,
+      "percentile": 0.8459921794668338
+    },
+    "sha256": "4e658596e3a14d26e16f8adc2eec3934245e24f63f9203c8dadea2fe6e8ade17",
+    "simhash": "1:036352a556356481",
+    "word_count": 631
+  },
+  "last_updated": "2024-02-27T19:56:45.258485+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arthur et al. versus James et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nIt is the policy of the law to facilitate the settlement of controversies, and therefore an offer to pay a sum of money to compromise a dispute, is not admissible in evidence to prove that the sum offered was admitted to be due. But it is also the object of the law of evidence to ascertain the truth, and therefore the distinct admission of a fact in a letter or in conversation, is not to be excluded because it is accompanied by an offer to compromise the suit. Proposals made while the compromise is on the carpet, do not bind, but conversations in which a fact is disclosed may be admitted to prove it: Deloquy v. Rentoul, 2 Mart. Lou. Rep. 175; Sanbern v. Neilson, 3 N. H. Rep. 501, 508-9; Hartford Bridge Co. v. Granger and Others, 4 Conn. Rep. 142; Marsh v. Gold, 2 Pick. 290; Gerrish v. Sweetser, 4 Pick. 377. In the case before us, the letter received in evidence contained distinct admissions of material facts. Those facts cannot be excluded because the same letter closes with an offer of a certain sum of money to settle the matter. If the plaintiff in error had confined his objection to the closing paragraph containing the offer of \u201c a note at four months for $120 to settle the matter,\u201d it is probable that the objection would have been sustained. But he objected to the whole letter, and the court was right'in overruling his objection.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Cf. E. Earle and B. \u25a0 W. Woodward, for plaintiff in error.",
+      "T. J. Qlayton, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Arthur et al. versus James et al.\nAn offer to pay 'a sum of money to compromise a dispute, is not admissible in evidence, to prove that the sum offered was admitted to be due; but the distinct admission of a fact, in a letter or in conversation, is not to be excluded, because it is accompanied by an offer to compromise the suit.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit brought by the assignees of James, Iszard & Co., against Arthur, Burnham & Co., to recover $687.11, for certain glass jars alleged to have been sold and delivered by plaintiffs to the defendants.\nOn the trial in the court below, the plaintiffs offered in evidence the following letter : \u2014 r\nPhiladelphia, Jan. 17, 1856.\nMr. Samuel James,\nDear Sir: We find, in going over the amount of glass on hand, that is useless, upwards of twenty boxes. That our account would show a balance of $142 in your favour. There has been considerable loss of the glass which you ought to Have renewed months ago, and which has been at your risk. We have also had considerable expense in removing it from place to place. Our sales of glass show less disposed of than we have already paid for, at\u00edd , we sold all that could be used.\nThe best offer we can make, under the circumstances, is our' note at four months from, date for $120, and we offer more than we are satisfied is due, because we wish to settle the matter.\nYours, respectfully,\n(Signed) Arthur, Burnham & Co.\nTo this offer, the defendants\u2019 counsel objected, upon the ground that the letter was written for the purpose and in view of a compromise, which compromise was not effected.\nThe court overruled the objection, and admitted the letter in. evidence. \u2019 To this ruling of the court, the defendants took an exception, and filed their bill of exceptions. The defendants proved payment to the plaintiffs of $450.\nThe jury found for the plaintiffs $342. The defendants took a writ of error.\nThe admission of the foregoing letter was. the only error assigned.\nCf. E. Earle and B. \u25a0 W. Woodward, for plaintiff in error.\nT. J. Qlayton, for defendant in error."
+  },
+  "file_name": "0236-01",
+  "first_page_order": 236,
+  "last_page_order": 237
+}

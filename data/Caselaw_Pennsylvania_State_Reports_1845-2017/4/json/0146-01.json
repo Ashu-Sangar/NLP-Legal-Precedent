@@ -1,0 +1,122 @@
+{
+  "id": 401866,
+  "name": "Boyd v. McCombs",
+  "name_abbreviation": "Boyd v. McCombs",
+  "decision_date": "1846-11-07",
+  "docket_number": "",
+  "first_page": "146",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Watts, 362",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0362-01"
+      ]
+    },
+    {
+      "cite": "5 Watts & Serg. 432",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0432-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 436",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850048
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0436-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 400",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Watts & Serg. 432",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478454
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0432-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 342,
+    "char_count": 5477,
+    "ocr_confidence": 0.562,
+    "pagerank": {
+      "raw": 1.728568228265231e-07,
+      "percentile": 0.7050331891936557
+    },
+    "sha256": "c77ec7e67554449b972696cc46eff65b0612a236b35b214a53995ccd52390fe8",
+    "simhash": "1:0ee37eb18d74e013",
+    "word_count": 988
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Boyd v. McCombs."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nIt is important to determine when the rent payable by McCombs to Boyd became due. The lease dated the 2d of July, 1841, does not indicate in terms when the rent shall be due and payable; but contains a general stipulation that the rent shall be one-half of all the grain raised, to be delivered in the bushel in Robert Boyd\u2019s mill. The rent commenced on the 1st of April, 1842. A tenant, in the absence of any specific time fixed by the lease for threshing his grain, may select his own time during the year. Rent is defined to be a certain profit issuing yearly out of lands; and is a return to the landlord for their annual use. As the winter season is the most usual period for threshing grain or shelling corn, the tenant could not, according to the common custom, pay his rent in kind until that period of the year was well advanced. But as there was no covenant to pay at any particular time, the end of the year is the period which the law assigns for the annual reditus to the landlord. Menough\u2019s Appeal, 5 Watts & Serg. 432.\n(His honour here stated the order, sheriff\u2019s sale; the conveyances and the action.) The rent not being due till the end of the year, which would be the 1st of April, 1843, the question is raised, whether the plaintiff below, who is the plaintiff in error, is entitled to recover by virtue of the order from the landlord William Boyd, and accepted by the tenant; or whether the purchaser at the sheriff\u2019s sale was entitled to the landlord\u2019s share of the grain as rent.\nThe one hundred and nineteenth section of the act of Assembly, of the 16th of June, 1836, enables the purchaser at sheriff\u2019s sale, who receives a deed, to take all the rent which accrues or falls due after the acknowledgment of his deed,; whether such rent shall have been paid in advance or not; if paid after the rendition of the judgment on which the land was sold. In this case, the original judgment was rendered November 9, 1839, and revived by scire facias at June Term, 1842. The rent, therefore, which fell due on the 1st of April, 1843, although the same might'have been actually paid, o*1 an order accepted by the tenant for the payment of it before the acknowledgment of the deed, followed the reversion, and was payable to the purchaser at sheriff\u2019s sale. The assignment of the rent by the landlord, or the acceptance of an order by the tenant, can make no difference, because the\u2019right of the purchaser at the sheriff\u2019s sale must overreach all such contrivances, else the provision in his favour might easily be rendered nugatory. Menough\u2019s Appeal, 5 Watts & Serg. 432; Bank v. Wise, 3 Watts, 400.\nThe determination of this point in favour of the defendant, renders \u2022 \u00bf notice of the other point .raised in the argument of the cause unnecessary. Judgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Howell and Dunlop, for plaintiff in error,",
+      "Veech, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Boyd v. McCombs.\nWhere a lease contained a stipulation for a rent in kind, without specification of the day of payment, it is payable at the expiration of the year, and an assignment of the rent by an order on the tenant, accepted by him, will not pass the right to the rent, as against the purchaser from the sheriff\u2019s vendee of the landlord\u2019s estate under a judgment prior to the lease.\nIn error from the Common Pleas of Fayette county.\nOct. 28. On the 2d of July, 1841, William Boyd demised to the defendant certain land for the term of three years, determinable by either party on three months\u2019 notice before the termination of any one year. The rent was to be one-half of the grain in the bushel, delivered in R. Boyd\u2019s mill. The lease contained a covenant on the part of the lessee, that he would farm the land in good order every year, \u201c and also the grain to be divided in the bushel, and to deliver the said Boyd\u2019s half in good order in the said It.Lloyd\u2019s mill.\u201d\nOn the 16th April, 1842, the lessor gave an order in the following words: \u201c'Sir,\u2014You will let Samuel W. Boyd^ave all the grain that you are to put in Robert Boyd\u2019s mill for m'^'.^'reeably to an article of agreement dated July 2, 1842, how in lid hands of W. K. Galligher, and by so doing you will oblige me. William Boyd.\u201d On which was written, \u201c April 16, 1842',- accepted the wdthin. John McCombs.\u201d\nThe present action was by Samuel Boyd, on the accepted order.\nThe defendant showed a judgment against William Boyd, entered November 9,1839 ; revived in June Term, 1842; a fi-fa., &c., and sheriff\u2019s sale in December, to one John Richey, with a sheriff\u2019s deed acknowledged December 13th; and a deed by Richey to McCombs, the defendant, dated March 8th, 1843, acknowledged June 3d.\nThe cou'rt, at request of the defendant, instructed the jury, that the rent did not become due under the lease, until April 1, 1843, and that the sheriff\u2019s sale had vested the right to the rent in Richey, so that neither William Boyd, nor any one standing in his place, could compel the lessee to pay the- rent to him.\nHowell and Dunlop, for plaintiff in error,\nafter arguing the question as to the right- of action, contended, that the purchaser was bound to give notice of the affirmance of the lease. 9 Watts, 436 ; 5 Watts & Serg. 432. \u00a1\nVeech, contra.\nUnless the purchaser disaffirm, he is entitled by the express words of the act of Assembly, to the rent accruing after his deed, which was plainly the case here. Braddeeu. Wiley, 10 Watts, 362. But in this case, the tenant united the character of landlord, by his purchase from the sheriff\u2019s vendee, before the rent accrued, so that notice was out of the question.\nNov. 7."
+  },
+  "file_name": "0146-01",
+  "first_page_order": 146,
+  "last_page_order": 148
+}

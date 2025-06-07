@@ -1,0 +1,127 @@
+{
+  "id": 400587,
+  "name": "Boas v. Hetzel",
+  "name_abbreviation": "Boas v. Hetzel",
+  "decision_date": "1846-07-02",
+  "docket_number": "",
+  "first_page": "298",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Wend. 381",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pick. 118",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070874
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0120-01"
+      ]
+    },
+    {
+      "cite": "10 Johns. 21",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135871
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0021-01"
+      ]
+    },
+    {
+      "cite": "5 Whart. 572",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0572-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 392",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Conn. 176",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6752944
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/12/0176-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 341,
+    "char_count": 5673,
+    "ocr_confidence": 0.526,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3758904476670262
+    },
+    "sha256": "c13c37594687031fe2acc0be6323351ae83ddc9600349aed68a227d0e8d63436",
+    "simhash": "1:83c618e29269e8dc",
+    "word_count": 999
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Boas v. Hetzel."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nAll the exceptions resolve themselyes into one, viz., the competency of the testimony of E. P. Hughes, admitted to testify in favour of the defendant. It is said, that the certificate of bankruptcy is not of itself sufficient to prove that he is a bankrupt; but that the whole record must be produced. This would be very inconvenient and expensive, and would not, that I can perceive, serve any good purpose whatever; besides, it seems to me, from the fourth section of the bankrupt law, the certificate of itself is made competent evidence of the fact of bankruptcy. If, as has been suggested, the record contains any thing favourable to the plaintiff, there is nothing to prevent him from giving it in evidence.\nIt is contended, that Hughes is interested in the event of the suit, as it increases a fund in which he may participate. If it did, the objection would be fatal; but this cannot be, for let this suit go as it may, it does not decrease the debt ascertained to be due, or the judgment against the witness ; nor is he liable in any suit hereafter to be brought by the defendant against him, as his debt is provable on the commission.\nIt is further said, he is a party to the suit; and on that ground, as is ruled in Wolf v. Fink, 1 Barr, 435, incompetent. If he were a party, Wolf v. Fink would apply. But he is no party to the suit; for although this is a scire facias on a judgment to which Hughes is a party, yet that record is but inducement to this action, which is between different parties. As to the subject-matter, it is pertinent testimony, because it proves that the original debt, for payment of which defendant was sued, is satisfied.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Fisher, for plaintiff in error.",
+      "McCormick, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Boas v. Hetzel.\nThe fourth section of the bankrupt law makes the certificate, of itself, -competent evidence of the fact of bankruptcy.\nIn a scire facias on a recognisance of bail for stay of execution, the defendant in the judgment in the original suit, who had subsequently become a certificated bankrupt, is a competent witness to prove that the original debt, for payment of which he had been sued, was satisfied ; he not being a party to the sdre facias, and not having any interest in the event of the issue trying therein.\nError, to the Common Pleas of Dauphin county.\nJune 30. This was a scire facias on a recognisance of bail for stay of execution, in which F. K. Boas, endorsee of Charles A. Snyder, was plaintiff, and Hiram H. Hetzel, the recognisor, defendant. It appeared that Boas, the endorsee of a promissory note, had brought debt against a certain E, P. Hughes, the drawer. On the 1st of May, 1840, Hughes confessed judgment for $250, with interest and costs of protest; when Hiram H. Hetzel became bound for him as bail absolute for the legal stay of execution. The money not having been paid at the expiration of the stay, the plaintiff issued this scire facias against Hetzel. In the course of the trial, the defendant offered to examine E. P. Hughes, the defendant in the original suit. The plaintiff objected, on the ground of interest. The defendant then exhibited a certificate of the discharge of Hughes, the proposed witness, as a bankrupt. The plaintiff objected to the certificate, on the ground that the whole record must be produced; the certificate in itself not being sufficient evidence of the fact of bankruptcy. The court overruled the objection, received the certificate, and sealed a bill of exception. The defendant then offered the release of the defendant to Hughes. But the plaintiff still objected to his admission on the original ground, and that the release was colourable. This objection the court also overruled, and admitted the witness to prove what Boas, the plaintiff, said on the subject of a settlement, but for no other purpose. The plaintiff excepted. The subject-matter of these two bills of exception constituted the errors assigned, and the questions for decision here.\nFisher, for plaintiff in error.\nThe first objection is, that the bare certificate of the discharge of Hughes as a bankrupt, unaccompanied by the petition, schedule of property, and list of creditors, being a part of the record only, ought not to have been received. The rule is, that the entire record must be produced, though the party may read such parts thereof as suits his case. He contended that Hughes was a party to the record, and therefore inadmissible. Fink v. Wolf, 1 Barr, 435; Bittinger v. Keys et al., decided at this term, Hughes had a direct interest in swearing that this judgment was paid, and was therefore incompetent. Leads v. Leads, 12 Conn. 176.\nMcCormick, for defendant in error.\nA joint and several promissor, who is a principal debtor, is a competent witness for his surety on being released by him. Berghaus v. Alter, 9 Watts, 392; 6 New Hamp. 518.\nA certificated bankrupt is not competent as a witness for his co-defendant. (This on the ground that he is a party to the suit.) Wolf v. Finks, 1 Penna. Rep. 440; 5 Whart. 572.\nIf a writ is issued against two, and only one be taken, and the suit proceed against him alone, the one not taken may be a witness. Purviance v. Dryden, 3 Serg. & Rawde, 402; Stockholm v. Jones, 10 Johns. 21; Gibbs v. Bryant, 1 Pick. 118; Lovel v. Adams, 3 Wend. 381.\nIn an action by the holder of a promissory note against the endorsee, the drawer being released by the defendant, is not an incompetent wdtness for the defendant on the ground of interest, although he had given to the endors\u00e9e a judgment and .mortgage to secure him against the endorsement. Griffith v. Reford, 1 Rawde, 196.\nThe certificate of a bankrupt made conclusive evidence of the discharge. Bankrupt act, 1841, sec. 4.\nJuly 2."
+  },
+  "file_name": "0298-01",
+  "first_page_order": 296,
+  "last_page_order": 298
+}

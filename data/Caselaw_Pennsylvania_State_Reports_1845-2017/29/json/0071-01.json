@@ -1,0 +1,274 @@
+{
+  "id": 982763,
+  "name": "Pritts versus Ritchey",
+  "name_abbreviation": "Pritts v. Ritchey",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "71",
+  "last_page": "77",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 71"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Yeates 38",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6771229
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0037-01"
+      ]
+    },
+    {
+      "cite": "3 Pa. Rep. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        400539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/3/0456-01"
+      ]
+    },
+    {
+      "cite": "4 Dall. 281",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Yeates 75",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6771747
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0074-01"
+      ]
+    },
+    {
+      "cite": "2 Dall. 127",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11737499
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/2/0127-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 404",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 137",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481788
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0137-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 144",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0144-01"
+      ]
+    },
+    {
+      "cite": "4 Wh. 239",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Yeates 398",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 45",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 141",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0141-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 160",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0160-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 415",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848495
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0415-01"
+      ]
+    },
+    {
+      "cite": "2 Wh. 188",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830440
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0188-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 91",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 153",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Mass. 491",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028467
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/8/0409-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 168",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Pick. 475",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2010289
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/20/0475-01"
+      ]
+    },
+    {
+      "cite": "14 Wend. 236",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 791,
+    "char_count": 17571,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 9.678806196118349e-08,
+      "percentile": 0.5291613526502896
+    },
+    "sha256": "fb51280c7c8dcbd1ef9e9421bd7f0dc3d44d5d3f9e88a45b17439c7502904cdf",
+    "simhash": "1:7595bd9afe48dc8b",
+    "word_count": 3187
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Lewis, C. J., dissented."
+    ],
+    "parties": [
+      "Pritts versus Ritchey."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nWhen we notice that this claimant\u2019s husband was insolvent when he transferred his inchoate title to this land to Ritchey, and that, by that transfer, he was relieved from a judgment-debt then pressing for the sale of his title; and that he had, at the time of his transfer, paid less than one-sixth of the purchase-money ; it is very plain that the plaintiff\u2019s demand to bave one-third of the land set off to her for life, is without any moral basis.\nHer claim is for common law, not statutory dower; and we shall confine our remarks to the character of the claim, without intimating any opinion relative to a claim for statutory dower, in a case where the title of the husband is executory.\nOur question is this: When a man makes an executory contract for the purchase of land, and pays a small part of the purchase-money, and then becomes insolvent and is unable to pay the balance, and a judgment-creditor is pressing him, and then he assigns his right to another, who performs the remainder of. his contract and gets a conveyance of the land, and then the vendee dies; is his widow entitled to dower of the land at common law ?\nIt is some evidence that she is not, that no such title has ever been declared subject to common law dower, that it is unusual and generally considered unnecessary for the wife to be a party in assigning such contracts, and that, by the common law of England, such a title does not furnish a basis for a claim of dower.\nIt seems to be thought that our common law in relation to dower is more generous than that of England, but this is not the case, however our statutory provisions may be. And there is a reason why it should not be, in the fact that our common law dower exists only in relation to land sold by the husband without his wife\u2019s consent; and dower in such case may generally be very unjust; for thus a widow may be endowed of land sold by her husband in his lifetime, and yet share in other estate, real and personal, that may have been obtained by the sale of it.\nIt is not in relation to the requisites of dower that our law differs from the English; but in the forms by which is acquired that seisin that is essential to its existence. The husband must have been seised during the marriage of a present freehold interest, and not of a remainder in the land out of which the dower is claimed: 2 S. & R. 554; but our law relative to seisin dispenses with some of the forms of the old common law, and thus far indirectly affects questions of dower. If the husband was seised according to our law during the marriage, dower arises.\nWhat then is seisin ? It is the completion of the investiture by which the tenant of the freehold is admitted into the tenure: 1 Burrows 107. It seems almost idle to say that an executory contract of purchase, even with possession delivered, is not such a complete investiture. It is usually' executory in form, intention, and effect, and it was so in this instance. It may require the intervention of the law to enforce its completion. If either party fail in a substantial element of his contract, the other may rescind it and reclaim his original rights. The investiture of the title, which our law regards as real for many purposes, is therefore only inchoate and conditional, and does not come up to the demands of the law in relation to dower.\nIt would be really to disregard the contract and to protrude the wife into it as a party, if we should declare it a complete investiture ; for then it could not be modified or rescinded by the true parties without her consent, and this would be a great embarrassment to this kind of contracts.\nNo one doubts that if the common law remains unchanged, if it has been received here without alteration in this respect, no dower arises in such a case. And, as we have no direct evidence that it has been changed, we may look to analogous cases for the indirect evidence of it. -\nThe best analogies which at present suggest themselves, are those cases wherein the land of the husband has been charged with a mortgage that is valid at common law as against the wife\u2019s right of dower; as where his purchase was subject to a prior mortgage ; or the mortgage preceded the marriage; or was part of the act of purchase, and to secure purchase-money; or where the wife joined in the mortgage.\nIn none of these eases could the wife claim dower at common law, if the husband died without having discharged the mortgage. Yet this principle has been modified in some of the states, so as to make her dower good as against all persons holding entirely by deed under her husband, and as against the mortgagee and those who claim under him by having discharged the mortgage; provided, however, that she redeem the mortgage: 1 Caines R. 185; 7 Greenl. 102; 6 N. Hamp. 25; 1 Cowen 460; 14 Wend. 236 ; 3 Pick. 475; 5 Id. 146.\nIt is quite in point to notice that, in this class of cases, the wife\u2019s title to dower is not so vested as to entitle her to interfere with any arrangement which her husband may think proper to make, by which he satisfies the encumbrance; and he may, for this purpose, release or convey his equity of redemption, and then no right of dower can arise: 6 Cowen 316; 19 Wend. 168; 8 Mass. 491; 10 Id. 364; 13 Id. 230; 4 Kent 45. None of these cases seem to us to give any countenance to the present claim.\nIt is true that we treat a complete equitable title as equivalent to a legal seisin; but we should sadly misapply this rule, if we should apply it at all to a case where there has been such a failure to complete the title as there has been here. We do not treat as done, what is contracted to be done; but only such contracts as lack merely a non-essential form in order to their full completion. Where a contract is executed, lacking only the conveyance, we treat it as conveyed.\nA vendee under an executory contract is indeed regarded, for many purposes, as the owner; but in doing this the law does not change the fact nor disregard it, that he is not completely so; for it recognises the vendor as holding the title and not a mere lien, as security for performance, and as entitled fully to resume it in the legal way in case of non-performance. That his administrators must treat it only as personalty after his death, arises out of the fact that real and personal property differ in the order of their distribution. We think the plaintiff has shown no right to recover in this case.\nJudgment aflirmed.\nLewis, C. J., dissented.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "McOlellan and NiU, for plaintiff in error.",
+      "Beilly and Sharp, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Pritts versus Ritchey.\nWhere a man makes an executory contract for the purchase of land, and pays a small part of the purchase-money, and becomes insolvent, and assigns his right to another, who performs the remainder of the contract and obtains a deed from the vendor, and then the vendee dies, his widow is not entitled to dower in the premises at common law.\nSuch dower arises only where the husband was seised during the marriage of a present freehold interest in the land out of which the dower is claimed.\nSeisin is the completion of the investiture by which the tenant of the freehold is admitted into the tenure; but an executory contract of purchase, even with possession delivered, does not constitute such complete investiture.\nIn our law a complete equitable title is treated as equivalent to a legal seisin, but does not apply where there has been a failure in the stipulations necessary to complete the title.\nError to the Common Pleas of JPranMin county.\nThis was an action of dower unde nihil habet by Nancy Pritts against Atchison Ritchey, in which the jury found the following special verdict; upon which they pray the court to enter judgment for the plaintiff, if in law she' is entitled to recover, in whole or in part, otherwise for the defendant:\u2014\nThey find that John McKnight and wife, of Philadelphia, sold, by written articles of agreement, dated 30th of May, 1845, to Joseph Pritts, a tract of land situated in Franklin county, containing 212 acres, for the consideration of $10,625.81, Avhich articles are hereto attached, and that the said Joseph Pritts went into possession of said land in pursuance of said contract in 1845, and continued therein until his death. That he paid on the said contract, to the said McKnight, the sum of $600, 30-th of May, 1845, and $1000 on the 2d of April, 1846. That on the 1st of January, 1847, Joseph Pritts transferred all his right in the said article, to Atchison Ritchey, and directing that the deed of conveyance he made by McKnight to said. Ritchey, which said transfer is endorsed on the articles of agreement. That on the 10th of January, 1847, these last parties, namely, Pritts and Ritchey, entered into articles of agreement, whereby the said Pritts sold the land to Ritchey, on certain conditions and terms therein expressed. That at the time of the sale by Pritts to Ritchey, the said Pritts was insolvent, and so continued until his death, and that a fi. fa. was in the hands of the sheriff of Franklin county, on a judgment, J. S. Black v. said Pritts, No. 29, August 1846. That this judgment was paid out of funds received by Pritts from Ritchey. That a deed was made in pursuance of the agreement between Pritts and Ritchey, by McKnight and wife, to the latter, on the 9th of January, 1847, for the consideration of $10,625.31. That Mrs. Pritts declared whilst on the property, after her husband\u2019s death, that she had no interest in and nothing to do /with said farm. That plaintiff was legally intermarried with Joseph Pritts before the making of these contracts of sale, and so continued until his death.\nThe court below (Kimmbll, P. J.) entered judgment on the special verdict for the defendant.\nThis was the error assigned.\nThe case was argued at May Term, 1856, and ordered for re-argument at May Term, 1857.\nMcOlellan and NiU, for plaintiff in error.\nJoseph Pritts, by his agreement and entering into possession under it, became the equitable owner. Does this equity embrace the whole estate, or is it limited by the amount of purchase-money paid ? In Richter v. Selin, 8 S. & R. 440, Justice Duncan says, Equity looks upon things agreed to be done, as actually done. Consequently, when a contract is made for the sale of land, equity considers the vendee as the owner of the estate sold, and the purchaser a trustee for the vendor for the purchase-money: Ives v. Cress, 5 Barr 121; Jones v. Patterson, 2 Jones 153. In these cases, the interest remaining in the vendor is regarded more as a security for the unpaid purchase-money than as an estate in the land. From this we conclude, that a vendee who goes into possession under artic\u00edes and pays part of the purchase-money, the estate in the land is vested in him, and the vendor\u2019s legal title possesses only the incidents of an estate for action and remedy. If a new interest was acquired by a vendee, upon a conveyance being made, would it not be necessary to revive a judgment to make it a lien ? In Longwell v. Bentley, 11 Harris 99, it is said that a contract for the sale of real estate converts the land into money; that the vendor\u2019s interest ceases to be real estate; that the legal title is only held as security for the purchase-money, and the vendee becomes substantially the owner of the estate. The widow, where the husband aliened in his lifetime, can only recover one-third the land itself according to value at the time of the transfer by the husband : Ellmaker v. Ellmaker, 4 Watts 91; Reed v. Morrison, 2 S. & R. 20; Galbreath v. Green, 1 Id. 95; Brown v. Adams, 2 Wh. 188; Remig\u2019s Appeal, 8 Watts 415; McMasters v. Carothers, 1 Barr 324; Morgan v. Scott, 2 Casey 51; Siter, James & Co.\u2019s Appeal, Id. 178.\nThe argument that the estate of the husband was insolvent, can make no difference: Lineweaver v. Stoever, 1 W. & S. 160; Riddlesberger v. Mentzer, 7 Watts 141.\nIn this state, the Supreme Court has enlarged the principle of the English law as to dower. In Shoemaker v. Walker, 2 S. & R. 556, it is held that by the law and usage of Pennsylvania a woman is entitled to dower in a trust estate; and in Reed v. Morrison, Id. 18, that she may be endowed of an equity of redemption.\nBeilly and Sharp, for defendant in error.\nIt is not essential to our argument, nor do we impugn the authority of Longwell v. Bentley, 11 Harris 99, and the cases which precede it, which rule that a contract of sale is considered in equity, as a conversion of the land into money. The vendor\u2019s interest ceases to be real, and becomes personal estate. The vendee becomes substantially the owner of the estate. But there are circumstances in this case, we submit, which makes it an exception. Equity considers as done what the parties have agreed shall be done. But equity will not consider that as done which the parties did not intend to have done. . The agreement shows that the parties regarded the agreement as an executory and not an executed contract. They did not intend to pass a present interest, but only a future est\u00e1te. Whether an article of agreement shall be construed as a conveyance, or an agreement for a future conveyance, must depend on the intention of the parties as collected from the whole instrument, and if that be doubtful, from the attending circumstances : Kenrick v. Smick, 7 W. & S. 45; Stouffer v. Coleman, 1 Yeates 398; Dawson v. McGill, 4 Wh. 239.\nThe article, although containing words of present transfer, did not convey the title to Pritts. There still was something to be done before the estate would vest in him, and he stood in the mean time in the light of a trustee for the vendor: Bear v. Whistler, 7 Watts 144. The payment of one-half the purchase-money was a condition precedent to the vesting of the estate in him. He was not seised of the estate either in fact or law during coverture, and therefore his widow is not entitled to dower: Shoemaker v. Walker, 2 S. & R. 556.\nThe demandant ought not to recover, because the defendant in error did not derive his title from her husband. At the date of the assignment by Pritts to Ritchey, he had forfeited all his right by failing to pay at the stipulated time. If an ejectment had been brought by McKnight and wife, and they had obtained a conditional verdict, and he had failed to pay at the time they would have become the absolute owners, and could have as such gained possession: Treaster v. Fleisher, 7 W. & S. 137; Gable v. Hain, 1 Penn. Pep. 264. In that case it will not be pretended that the demandant would have been entitled-to dower.\nMoreover, Pritts was insolvent at the date of the assignment to Ritchey. An execution against him was in the sheriff\u2019s hands. This was paid out of the purchase-money, paid to Pritts by Ritchey. If the land had been-sold on it, her dower would have been gone: Groff v. Smith, 1 Dall. 404; Scott v. Crossdale, 2 Dall. 127; 1 Yeates 75; Deshler v. Beery, 4 Dall. 281; Helfrich v. Obermyer, 3 Harris 113. The plaintiff is therefore not injured. The proceeds -went as much to the payment of the debts of her husband as if it had been sold on the execution against him.\nThe claim of the plaintiff is barred, because she waived her right of dower, and she is equitably estopped. She assented to the assignment by him of the articles at the time, and after his death declared she had no interest in or claim to the land. It is strong evidence of her assent. And if it amounted to an expression of intention to waive her right of dower, her claim will be barred: Deshler v. Beery, 4 Dall. 281. A formal written release was not necessary.\nBut should the court be of opinion that the demandant is entitled to recover, of what is she dowable ? She claims one-third of the land according to its valuation at the date of the alienation by her husband. Is she entitled? We think not. A man by articles purchases land worth $60,000, pays $100, assigns the articles and dies, and his widow claims land set apart to her of the value of $20,000. The proposition is too monstrous to obtain consideration. There is no reported case in this state like this; but there are certain analogies in the law from which we may derive light in the investigation. A judgment against a vendor after articles binds not only the legal title, but the interest which he has in the land. So of a vendee : Cahoon v. Hollenbach, 16 S. & R. 431; Russell\u2019s Appeal, 2 Harris 319. If then the liens of creditors are restrained to the amount of the purchase-money paid by their debtors, why not widows in their claim for dower? We allege then that if she can recover at all, it is only the interest of one-third of the purchase-money paid by her husband. She is entitled to no benefit from the appreciation in value of the land: Benner v. Evans, 3 Pa. Rep. 456; Thompson v. Morrow, 5 S. & R. 293; Sharp v. Pettit, 3 Yeates 38 ; Barnett v. Barnett, 15 S. & R. 72; Lineweaver v. Stover, 17 S. & R. 297.\nThe plaintiff cannot recover in this action, unless entitled to recover one-third of the land, by metes and bounds. Her husband did not die seised. And it is only in such case that a judgment for money can be given, in writ of dower unde nihil habet. Where he does not die seised, she can only recover one-third the land to be laid off to her in severalty according to the value at the time her husband aliened, which is fully sustained by the cases just cited, and by 2 Saund. 44. If the court hold that she is not entitled to recover according to the purchase-money paid, then she cannot recover in this action, because it could not be set off to her in severalty. The execution of the judgment would be impracticable."
+  },
+  "file_name": "0071-01",
+  "first_page_order": 71,
+  "last_page_order": 77
+}

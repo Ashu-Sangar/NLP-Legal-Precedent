@@ -1,0 +1,66 @@
+{
+  "id": 963733,
+  "name": "Potts v. Staeger",
+  "name_abbreviation": "Potts v. Staeger",
+  "decision_date": "1849-12",
+  "docket_number": "",
+  "first_page": "363",
+  "last_page": "364",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 363"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 220,
+    "char_count": 3370,
+    "ocr_confidence": 0.367,
+    "pagerank": {
+      "raw": 1.1329240581850794e-07,
+      "percentile": 0.5762893898447361
+    },
+    "sha256": "2f7e9e29343f79250f5449b3d6658c3395f4e3e27606bbcad5092678dac69c09",
+    "simhash": "1:7261b3ec995d557b",
+    "word_count": 613
+  },
+  "last_updated": "2023-07-14T20:53:58.856380+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Potts v. Staeger."
+    ],
+    "opinions": [
+      {
+        "text": "Jan. 11.\nRogers, J.\nThe appeal of the 12th June, 1847, was entered in due .time, filed in the Common Pleas to the next term of the Court; and in other respects was in strict conformity to the Act of Assembly. Was there, then, anything that previously occurred, which destroys its validity? It is contended there is (and so the Court directed), because previously, to wit, the 2d June, 1847, one of the stipulators entered an appeal in the name of all before the justice; and there cannot be, as is contended, two appeals in the same case. If the premises be true, the conclusion is inevitable. But in the case in hand the first appeal, as it is called, is incomplete. There is an attempt to appeal, it is true, but the attempt was abortive. That there is no appeal, or at any rate a defective appeal, is shown in the case of Moore v. Cameron, 3 Penna. 416. It is not, as the defendant in error supposes, the withdrawal of an appeal, for there was no appeal to withdraw. All the defendant had done was to enter his appeal, or, in other words, to manifest his intention to appeal and to enter bond. No further steps were taken. The proceedings remained, as before, with the justice. We cannot perceive what interest the plaintiff had in it, so as to require his consent. His interest can only accrue where the appeal is entered as required by the Act, or where he may be delayed or injured by the entry of a defective appeal. Here the plaintiff has nothing to complain of, as the appeal which is after-wards perfected, is filed within the twenty days prescribed by the Act. We feel ourselves bound to give the most liberal construction to the Act regulating appeals, so as to secure the right of trial by jury.\nJudgment reversed, and appeal reinstated.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Bannan, for plaintiff in error.",
+      "Matchen, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Potts v. Staeger.\nAn appeal from a judgment of a justice, if filed in the Common Pleas within twenty days, is in time, although a return day has intervened, prior to which the appellant had given bail, which he withdrew after the return day, and entered other bail.\nIn error from the Common Pleas of Schuylkill.\nJan. 2. On the 24th of May judgment was given against the plaintiffs in error, before a justice. On the 2d of June they entered an appeal and gave bail. The return day was oh the 7th June. On the 12th execution issued, and on the same day the defendants withdrew their former bail and entered other bail, and filed a transcript on the 14th. It was shown by depositions that the withdrawal of the bail was without the consent of the plaintiff, and that the transcript was completed and remained in the magistrate\u2019s office from the 4th till the 12th June.\nThe Court dismissed the appeal.\nBannan, for plaintiff in error.\nThe appeal was taken within the twenty days, and the transcript filed before the return day of the succeeding term, and that is all the law requires.\nMatchen, contr\u00e1.\nThe rule is settled that, if the appeal is taken within the twenty days, the transcript must be filed at the next return day, although that period had not then elapsed: Act 1810, \u00a7 4; 3 Penna. 416; 1 Bro. 160. The appeal was perfected before the 7th of June, and as the transcript was not filed, the bail-bond, was forfeited. It would be to allow two appeals by one party, if one defendant could withdraw the bail, and thus avoid an appeal perfected; and then, by giving new bail, have another appeal to a different term."
+  },
+  "file_name": "0363-01",
+  "first_page_order": 363,
+  "last_page_order": 364
+}

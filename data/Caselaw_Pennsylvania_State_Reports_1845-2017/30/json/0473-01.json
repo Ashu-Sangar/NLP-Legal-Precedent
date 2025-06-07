@@ -1,0 +1,115 @@
+{
+  "id": 415603,
+  "name": "Mosteller's Appeal",
+  "name_abbreviation": "Mosteller's Appeal",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "473",
+  "last_page": "474",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 473"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Rawle 323",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0323-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 513",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478603
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0513-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle 243",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0243-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 516",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 R. 243",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 306,
+    "char_count": 4345,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 1.2241199336738416e-07,
+      "percentile": 0.604203758597509
+    },
+    "sha256": "e651d93b38ab38eebd10a2a505961b064752de2f27d2b5827208fe7d2cad86e6",
+    "simhash": "1:746796aa60064676",
+    "word_count": 776
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mosteller\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\n\u2014 The principle of the exception in this case, is so fully embraced by the adjudications in Walker\u2019s Estate, 3 R. 243, Hack v. Stewart, 8 Barr 213, Candor\u2019s Appeal, 5 W. & S. 516, Sanders v. Waggonseller, 7 Harris 251, Hertzog\u2019s Administrators v. Hertzog, 5 Casey 465, and Lynn v. Lynn, Id. 369, that it is only necessary to refer them as concluding the contest here.\nThe appellee\u2019s claim against his father\u2019s estate, was for work done on the farm, while living with him, during six or seven years after he came of age. There was no evidence that the work was done under a contract of hiring preceding it, and the only testimony on the essential point was given by John Lesh, a witness for the appellee, before the auditor, who detailed a conversation between him and the intestate, some four or five years before, in which he says, \u201c the old man said he would like if Peter would take the lower place, at what he paid for it. He said, he sure, we have put a barn on the place, but we can fix that another way. I think, he said, they could fix it towards pay for work: the land he should have for what they paid. I understood him, that he owed Peter for wages.\u201d\nAs the law requires a hiring to be proved, to entitle a son to wages from a father, with whom he remains after arriving at age, and who lives and works on the farm as he did before, and demands that the evidence of the contract \u201c he clear, distinct, and positive,\u201d as was said in Candor\u2019s Appeal, we may add, in the language of that case, that, in every ingredient, we think the proof deficient in this ease. There was nothing to aid this solitary scintilla of evidence, if it amounted to that, in raising even a probability that there was a contract of hiring between the father and son. There was no keeping of accounts for work between them \u2014 no settlements, or reckonings, or payments of money, or conversations about it. While, on the other hand, there was much evidence to show that Peter did not consider himself as a hired hand.\nThe point that there is no implied contract, arising from the \u2022performance of work by a son for his father, while living at home as one of his family, no matter what his age, that he will be paid for it, and that, where a claim for wages is made, it can only be successful when there is a contract, express, clear, distinct, and positive, has been so often announced by this court, that we cannot but think it is time it should be considered as settled and at rest. Strangely enough, however, it seems to be overlooked, and we still meet it among the subjects of contest. The court erred in confirming the auditors\u2019 report.\nDecree reversed at the costs of the appellee, and the report confirmed after deducting $450 allowed Peter Mosteller, the appellee, as wages.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "H. Green, for the appellant,",
+      "J. M. Porter and M. Goepp, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Mosteller\u2019s Appeal.\nWhilst a son resides in his father\u2019s family, he can make no claim for services rendered, unless on proof of an express contract of hiring.\nThe law implies no contract, in such case, between the parent and child.\nAppeal from the Orphans\u2019 Court of Monroe county.\nThis was an appeal by Philip Mosteller from the decree of the Orphans\u2019 Court, in the matter of the account of the said Philip Mosteller and Peter Mosteller, administrators of the estate of William Mosteller, deceased.\nWilliam Mosteller died intestate, on the 28th September 1844, and letters of administration upon his estate were granted to the accountants. Before the auditors, Peter Mosteller, one of the accountants, claimed a credit for $500, for work, labour and services rendered to his father, the intestate, while a member of his family, for six or seven years after he arrived at full age. This claim was contested by the heirs; and the auditor\u2019s report allowing the said Peter Mosteller $450 for his services, having been confirmed by the court, this appeal was taken.\nH. Green, for the appellant,\ncited Walker\u2019s Estate, 3 Rawle 243; Candor\u2019s Appeal, 5 W. & S. 513; Hack v. Stewart, 8 Barr 213; Bash v. Bash, 9 Barr 260; Sanders v. Wagonseller, 7 Harris 251.\nJ. M. Porter and M. Goepp, for the appellee.\n\u2014 The auditors were of opinion that an express admission of indebtedness had been proved; and the weight of evidence was a matter peculiarly for their consideration: Harland\u2019s Accounts, 5 Rawle 323; Stehmann\u2019s Appeal, 5 Barr 416."
+  },
+  "file_name": "0473-01",
+  "first_page_order": 473,
+  "last_page_order": 474
+}

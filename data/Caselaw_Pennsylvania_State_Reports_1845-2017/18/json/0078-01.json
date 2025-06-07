@@ -1,0 +1,103 @@
+{
+  "id": 969148,
+  "name": "Brown versus School Directors",
+  "name_abbreviation": "Brown v. School Directors",
+  "decision_date": "1851-09-29",
+  "docket_number": "",
+  "first_page": "78",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wharton 185",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wharton 242",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835014
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0242-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 17",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849988
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0017-01"
+      ]
+    },
+    {
+      "cite": "3 Penn. Rep. 119",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 3303,
+    "ocr_confidence": 0.457,
+    "pagerank": {
+      "raw": 2.783180771155118e-07,
+      "percentile": 0.8354012145109618
+    },
+    "sha256": "dfa3a070abe11ee9890471f1c95f506b53ca6f4a67cff32c604ff09c8fddd96a",
+    "simhash": "1:fa021134867f07f0",
+    "word_count": 593
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brown versus School Directors."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nA court of error has nothing to do with affidavits which are no part of the record. As we may not look at them when the Common Pleas has decided on them, we are. bound to presume that the decision is right. By the record in this case it is shown that the parties appeared before the justice, and that the defendant claimed a set-off beyond the limit of the justice\u2019s final jurisdiction. The plaintiff craved an adjournment, and had it; and, at the day of hearing, judgment was given for him. The objection to the appeal in the Common Pleas was, that the set-off was a sham to get round the finality of the justice\u2019s jurisdiction of the plaintiff\u2019s demand; and the court, having heard affidavits it was bound to receive, determined that,the fact was so. Shall we who dare not touch them, say otherwise ? The decision was doubtless right; but right or wrong, we cannot review it.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Lane for plaintiff.",
+      "Thompson for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Brown versus School Directors.\nDepositions, taken when a ease is depending in the Common Pleas on a rule to show cause why an appeal should not be quashed, are no part of the record, and will not be considered by this Court on a writ of error to the judgment of the Court, quashing the appeal.\nError to the Common Pleas of Erie county.\nThis was an appeal by Brown from the judgment of a justice of the peace, in a suit by the school directors of Green township, against him, for a school bill for $1.11. Before the justice the defendant denied that plaintiffs had any legal claim against him, and claimed a set-off for $99. The plaintiffs asked for an adjournment for want of witnesses, which was granted. Both parties appeared before the justice on the day to which the ease had been adjourned, and judgment was rendered for the plaintiff for $1.11..\nBrown the defendant entered an appeal.\nOn motion on the part of the plaintiff, a rule was granted to show cause why the appeal should not be quashed. Depositions were taken on both sides. It was stated that the objection to the appeal was, that the defendant had not a bond fide claim to set off.\nThe rule to quash was made absolute.\nError was assigned to the quashing the appeal.\nLane for plaintiff.\nThe defendant having claimed a set-off beyond the sum of five dollars and thirty-four cents, and there being judgment against him for $1.11, he had the right of appeal, whether he produced evidence to support it or not, and more particularly if he was deprived of an opportunity of producing it, by the justice adjourning to a time when neither he nor his counsel could attend. In cases of this kind, it is the demand, and not the amount of the judgment, which determines the right of appeal. For this we refer to the cases of Stewart v. Keemle, 4 Ser. & R. 72; Klinginsmith v. Nole, 3 Penn. Rep. 119 ; McGonegal v. Hopper, 1 Ashmead, 195; Soop v. Coats, 12 Ser. & R. 388. In the case of McCloskey v. McConnell, 9 Watts 17, the right of appeal is determined by plaintiff\u2019s narr. after appeal entered. Act of 20th March, 1845, 3d sect., Dunlop 1036.\nThe jurisdiction of the District Court of Philadelphia has always been determined by the plaintiff\u2019s demand stated in his declaration : Rodman v. Hutchinson, 4 Wharton 242; Dick v. Gaskill, 2 Wharton 185. The analogy between these and this case is manifest.\nThompson for defendant.\nSept. 29."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 78,
+  "last_page_order": 79
+}

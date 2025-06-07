@@ -1,0 +1,247 @@
+{
+  "id": 996269,
+  "name": "White's Executors versus The Commonwealth",
+  "name_abbreviation": "White's Executors v. Commonwealth",
+  "decision_date": "1861-05-06",
+  "docket_number": "",
+  "first_page": "167",
+  "last_page": "177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 Pa. 167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 21",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478283
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0021-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 161",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 25",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dallas 95",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Yeates 344",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Yeates 335",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6774053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0334-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 159",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848438
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0159-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 72",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle 76",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819383
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0076-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 9",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "case_ids": [
+        626208
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wright/1/0009-01"
+      ]
+    },
+    {
+      "cite": "9 Howard 91",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wall, Jr. 173",
+      "category": "reporters:federal",
+      "reporter": "Wall. Jr.",
+      "case_ids": [
+        6630221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/24/0844-01"
+      ]
+    },
+    {
+      "cite": "2 Whart. 361",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wend. 589",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11271559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0589-01"
+      ]
+    },
+    {
+      "cite": "28 Maine 385",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        632722
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/28/0385-01"
+      ]
+    },
+    {
+      "cite": "1 Gray 305",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1974015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/67/0305-01"
+      ]
+    },
+    {
+      "cite": "4 Dallas 95",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Yeates 344",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Watts 159",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848438
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0159-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1049,
+    "char_count": 28473,
+    "ocr_confidence": 0.436,
+    "pagerank": {
+      "raw": 6.54172039793917e-07,
+      "percentile": 0.9610807425452218
+    },
+    "sha256": "f10eef7141b79bfc96ef9a0f9882d83a984a230865f2573cebe0675279d229be",
+    "simhash": "1:9c6de852c85db9d9",
+    "word_count": 5018
+  },
+  "last_updated": "2024-02-27T22:43:51.432409+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "White\u2019s Executors versus The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Thompson, J.\nThe testator of the plaintiffs in error became surety for Ingersoll, as trustee of the estate of Sarah F. White, under the will of Sarah Brinton, to invest certain moneys, and pay over the interest to said Sarah F., during her natural life. It seems there was a breach of the trust in a failure of the trustee to pay over or invest the money, and he was dismissed from his trusteeship, and a decree had against him in the Common Pleas for the whole amount of the money, and that he pay the same over to his successors. After proceedings commenced and before decree, the surety, White, died, and it was contended \"here, that this terminated his liability, and that his contract of suretyship did not survive to his personal representatives.\nIn passing, it may be stated, that it was neither averred nor proved, by the defendants- below, that the default of the trustee took place after the death of the surety, nor when it took place. The non-compliance with the decree was not the original breach; it was in evidence that a breach had occurred before, for, without such had been the case, it is not easy to see how any decree could have been made against him. The question of administration of the trust was the only one before the auditor, so far as we can discover; and consequently it must have been for this he was called to a settlement and dismissed.\nBut the main question remains. Did the contract of surety-ship survive? The general doctrine on this point was very thoroughly examined and discussed by my brother Lowrie, J., in Dickinson v. Callahan\u2019s Administrators, 7 Harris 227. The conclusion arrived at there, seems to be, that if the contract of a decedent be personal, and the performance of the deceased himself be the essence thereof, his executors will not be liable, excepting only so far as the contract was broken during his lifetime; and the instance is given of a contract to impart artistic or mechanical skill and information. Such a contract could not devolve on the representatives of the deceased, for, as it was there said, \u201cwe cannot suppose that the deceased was contracting for any kind of skill in his administrators.\u201d So in Quain\u2019s Appeal, 10 Harris 510, it was held that a ground-rent covenant did not survive against executors or administrators, only to the extent of rents accrued during the lifetime of the decedent, for if it did, the settlement of the estate would be indefinitely postponed to the injury of creditors and legatees. The same thing was held in regard to a covenant to keep up and repair fences, in Bland\u2019s Administrator v. Umstead, 11 Harris 316. No doubt can exist as to the rule in cases where the personal performance of the contracting or promising party-is the motive for the contract: such, for instance, as a contract with an artist to paint a picture or to execute an engraving, or with an author to write a book. In these and like cases, the contract from its very nature could not be supposed to be intended to survive.\nBut a contract to pay money, although it falls duo after the decease of the obligor, does survive. And what is the difference between an agreement to pay at a future period or on a future contingency ? The contract is to be completed, not by any personal performance, but by the payment of money. This act an executor can do as effectually as the testator, and it cannot therefore come within the rule of the cases cited. The obligor could contract for such performance by his personal representatives, and did so ; and whether named or not, the law casts this survivorship on them. Nor are they, to be relieved on the other ground hinted at, of the indefiniteness of the obligation. The law arms them with sufficient authority to demand an ascertainment of their liability and the substitution of new security. To accomplish this, would not require much time necessarily.\nWa.s there any limitation short of compliance in the original undertaking ? Certainly none in law or fact which we can see. The obligation of the surety was coextensive with that of his principal. It was for final indemnity to those interested. No one would doubt, but that the executors of the latter would be obliged to respond for a default after his death occasioned by his acts in his lifetime, such as a subsequent loss on account of a previous investment, and the like. So would the surety\u2019s executor be bound for the same reason, and on the same principle.\nWe have several cases in the books of the liability of estates in the hands of personal representatives on obligations entered into for official fidelity, and in none of them was there any such defence attempted: Yard v. Lea, Administrator, 3 Yeates 344, in the Supreme Court, and again reported 4 Dallas 95, in the Court of Errors and Appeals; So also in the case of Commonwealth v. Wenrick, 8 Watts 159. A contrary doctrine would, as suggested, be fraught with momentous consequences. It would shake every kind of official suretyship for state, county, and corporation officers; guardians, administrators, assignees, and also guarantees for the performance of private contracts. There is no principle which requires the encountering such consequences. Had such existed, they would have been discovered long ago; for every year, and almost every week, opportunities have been afforded for their discovery, in the constantly recurring actions to hold personal representatives answerable in just such contracts as the present.\nIt is not necessary to notice any other matter in the case, as, the point discussed being determined against the plaintiff in error, it is decisive of the case against him.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "by Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "Creorge M. Wharton and Henry Wharton, for plaintiffs in error.",
+      "R. C. McMurtrie, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "White\u2019s Executors versus The Commonwealth.\nSurety on Bond of Trustees, Liability of \u2014 Effects of Breach accruing after Death of Obligor.\u2014 What Contracts survive.\n1. Where the contract of a decedent is personal and his performance of it is the essence thereof, his representatives are not liable, except so far as it has been broken during his lifetime; but a contract to pay money at a future time, or on a future contingency, survives the obligor, and binds his representatives.\n2. The obligation of a surety is coextensive with that of his principal, and there is no limitation short of compliance with the original undertaking.\n3. The indefiniteness of the obligation of a surety is not a sufficient ground to relieve his personal representatives from the contract by suretyship.\n4. Where a trustee had been dismissed from his trust, and a decree had against him for the amount of the trust fund, and his surety had died, after proceedings commenced against the trustees, but before the making of the decree, it was held, in an action on his bond against the executors of the surety, that the contract of suretyship survived against them.\n5. The non-compliance on the part of the trustee with the decree made in the proceedings against him, was not the original breach of the condition of the bond; but only evidence that a breach had previously accrued which justified the proper tribunal in making the decree.\nError to the District Court of Philadelphia.\nThis was an action of debt, brought March 3d 1860, in the court below, by the Commonwealth of Pennsylvania, to the use of The Pennsylvania Company for Insurances on Lives and Granting Annuities,\u201d trustee, &e., against Richard S. Smith, executor, &c., of Thomas H. White, deceased.\nThe plaintiff declared on a joint and several bond, bearing date the 30th day of October, A. d. 1852, executed by the said Thomas H. White, together with one Jared Ingersoll, to the Commonwealth, in the penal sum of $19,000, by the condition whereof, after reciting that the said Jared Ingersoll had been appointed by the Court of Common Pleas of Philadelphia county, trustee of the estate of Sarah T. White, under the will of Sarah Brinton, it was declared that if the said Jared Ingersoll should well and faithfully execute the said trust in all legal respects, then the said writing obligatory should be void, otherwise to remain in full force.\nThe plaintiff then averred the trust under the will.\nAnd further averred, that on the 17th day of February, A. D. 1860, the said Jared Ingersoll was by the said Court of Common Pleas of Philadelphia duly dismissed from the said office of trustee as aforesaid, and the said The Pennsylvania Company for Insurances on Lives, &c., were by the said Court of Common Pleas duly appointed trustee in the place and stead of the said Jared Ingersoll, under the trust aforesaid; and that they are now trustees under the said trust.\nThe plaintiff then assigned two breaches of the condition of the said bond.\n1. A general breach, which was demurred to by the defendant, and the demurrer sustained by the court below.\n2. A special breach, which, after demurrer, was amended by leave of the court so as to read as follows :\u2014\n\u201c That by the decree and judgment of the said Court of Common Pleas, having jurisdiction of the accounts of the said Jared Ingersoll as trustee as aforesaid, duly made on the 3d day of March, a. d. 1860, and before the commencement of this action, it was decreed and adjudged that the balance'in the hands of the said trustee, to wit, the said Jared Ingersoll, and due by him, was $15,522.41, which sum, together with interest from the 3d day of December, A. D. 1859, it was ordered and decreed should be paid by the said Jared Ingersoll to The Pennsylvania Company for Insurances on Lives, &c., the trustee appointed in the room and stead of the said Jared Ingersoll, who had been removed from the said trust under, the said will of the said Sarah Brinton, deceased, and it was thereby further ordered and adjudged that the said The Pennsylvania Company for Insurances on Lives, &c., do recover from the said Jared Ingersoll for the use of the cestui que trust, Sarah P. White, the further sum of $44.50, the costs of the said reference and audit, to wit, the reference and audit to settle his said account, and also the costs of the said proceeding, which said costs amounted to the further sum of $13.50, which said sums of money'the said Jared Ingersoll has not hitherto paid, nor has he paid any part thereof.\u201d\nTo this declaration the defendant pleaded non est factum, &c., and on the trial of the case, by leave of the court, filed the following additional pleas:\u2014\nI. A plea alleging that no such decree or judgment of the Court of Common Pleas as alleged in the said breach, was made before the commencement of the action.\nOn which the plaintiff took'issue.\nII. A plea of nul tiel record as to the said alleged decree in the Common Pleas.\nTo which the plaintiff replied with a paratus verificare.\nIII. A plea that this action was commenced by a writ of summons issued out of the court below, on the 3d day of March 1860: absque hoc, that the said alleged decree and judgment of the Court' of Common Pleas was made before the commencement of the action in this case.\nTo which the plaintiff replied by taking issue on the traverse.\nIV. A plea that William White, the husband of the said Sarah E. White, died on the 20th of December 1858, before the said Jared Ingersoll was dismissed from his office as trustee as aforesaid, whereupon the trusts and limitations contained in and by the will of the said Sarah Brinton, as the same are set forth and pleaded in the declaration ended and determined, and all the trust estate, moneys, and securities theretofore held by and vested in the said Jared Ingersoll, as trustee under the said will, became and remained vested in the said Jared Ingersoll for the use of the said Sarah F. White, absolutely, free, clear, and discharged of and from all the said trusts and limitations. By reason whereof, and according to the true intent and meaning of the condition of the said bond, no authority, power, or jurisdiction existed or remained in the Court of Common Pleas aforesaid, to appoint any other trustee of the said trust under the will of the said Sarah Brinton, or to decree payment of any moneys of the said trust theretofore held by the said Jared Ingersoll to any such new trustee so appointed. Absque hoe, that the said Jared Ingersoll had broken the condition of the said bond, in manner and form, &c.\nTo this plea the plaintiff replied by taking issue on the traverse.\nV. A plea that the said Thomas H. White executed the bond in his lifetime as surety therein, and not as a principal obligor; and that the said Thomas H. White departed this life on the 15th day of October, A. d. 1859, before the said decree and judgment of the Court of Common Pleas, set forth in the second breach, was made. By reason whereof, the liability of the said Thomas H. White and of his estate after his decease, upon the said bond in respect to any subsequent breach of the condition of the same, ceased and determined.\nTo this plea the plaintiff demurred, and assigned for causes of demurrer:\u2014\n1. That the defendant had not averred that the breach of trust for which the action was brought, occurred after the death of the said Thomas H. White.\n2. That the defendant had omitted to aver whether the breach was before or after the said death.\n3. That all the facts in the plea of well pleaded, &c., were immaterial.\n4. That there was no direct averment that the said breach was after the death of the said Thomas H. White, nor any traversable allegation in respect to that fact, if it were intended that it should be material.\nOn the 31st of October 1860, the case came on for trial, when a verdict was rendered on the first plea, and first and third additional pleas for the plaintiff, and the damages assessed at $16,429.13.\nOn the fourth additional plea the verdict was for the defendant.\nThe plaintiff then obtained a rule for judgment non obstante veredicto on the fourth additional plea, which the court, after argument, made absolute; and also gave judgment for the plaintiff on the demurrer to the fifth additional plea.\nThe defendant, thereupon, sued out this writ, and assigned the following errors:\u2014\n1. That the court below erred in entering judgment for the plaintiff below on the fourth additional plea, non obstante veredicto.\n2. That the court below erred in entering judgment for the plaintiff below upon the demurrer to the third plea.\n8. That the court below erred in entering judgment for the plaintiff below upon the whole record.\n4. General errors.\nCreorge M. Wharton and Henry Wharton, for plaintiffs in error.\n\u2014The writ of error, in this case, was intended to raise two questions : 1. Whether the estate of a surety in a trustee\u2019s bond is liable for a breach of the condition of the bond occurring after his death ; and, 2. Whether a bequest in trust of personalty for a married woman, for her separate estate during life, with a gift over to her surviving children and issue after death, vests in her an absolute interest on her husband\u2019s death.\n1. After showing that the defence \u201c that the surety died before the alleged breach of the condition of the bond,\u201d was properly pleaded by the fifth additional plea, they argued that the death of the surety before there was any cause of action on the bond, had the effect of discharging him \u2014 that the obligation of a surety in a bond such as this was not perpetual, but limited by the duration of his life \u2014 that such an obligation is in general stricti juris, and not to be extended beyond its letter, and is in all cases to be confined to the exact purposes for which it was entered into \u2014 that as the connection between a trustee and his surety is based by the surety on his knowledge of, and confidence in the trustees, it would be unjust and impolitic, by a fiction of law, to make his executor or administrator a party to it.\nThat in Pennsylvania no mere contingent or future liability, not capable of immediate ascertainment in money, and arising, if at all, only by act or default of a stranger, can be enforced against the estate of a deceased person, and that the English rule, which makes the executors liable on the bond of the testator, has not been adopted here: citing, in support of these propositions, Dickinson v. Callahan\u2019s Administrator, 19 Penn. St. Rep. 227; Quain\u2019s Appeal, 22 Id. 512; Bland\u2019s Administrator v. Umstead, 23 Id. 316; Carr v. Lowry\u2019s Administrator, 27 Id. 257; Pratt v. Harding, 150 Id. 526; 2 Williams on Executors, 5th Am. ed. 1773; Loring v. Kendall, 1 Gray 305; Ellis v. Hanm, 28 Maine 385.\nIn reply to the position taken in the court below, viz., that \u201c as trust property came into the hands of the trustees before the death of the surety, his liability attached before his death,\u201d it was said, 1. That there was no legal or equitable liability on the bond until condition broken; and 2. That the condition was to \u201cexecute the trust faithfully,\u201d not to administer the assets; and that it had only an accidental connection with the trust property. That the fidelity or the default of the trustee was what released or charged the surety, and not the mere possession of trust funds; and that, therefore, the surety\u2019s liability on the bond only attached when the trustee failed to execute the trust.\nIt was further argued, that as the participation of the surety in the bond was not merely passive, not a mere undertaking to pay money if the trustee misbehaved; but involved active duties, and required from the surety a vigilant supervision and control over the conduct of the trustee, this having become impossible by the death of the surety, his estate was discharged, on the principle that when the condition of a bond becomes impossible by the act of God, the obligation is gone: citing Co. Litt. 206 a; Com. Dig. Condition, D, 1; Laughter\u2019s Case, 5 Rep. 21; Cro. Eliz. 398; Warner & Parker v. White, 3 Keble 738, 761, 770; Wood v. Bates, Sir Wm. Jones 171; Carpenter v. Stevens, 12 Wend. 589.\nAs to the hardship that might occur to eestuis que trust by the discharge of the estate of a surety after his death, it was answered, 1. There is no equity against a surety, nor is the case harder than that of a surety in a joint bond who dies before suit brought, in which the remedy is gone both at law and equity: Weaver v. Shryock, 6 S. & R. 262; Kennedy v. Carpenter, 2 Whart. 361; United States v. Archer\u2019s Executors, 1 Wall, Jr. 173 ; 9 Howard 91; and 2. The eestuis que trust have an ample remedy in the power of requiring the trustees to give new security, or be discharged.\nThe second question was abandoned on the argument, on the authority of Guthrie\u2019s Appeal, 1 Wright 9, and Kay v. Scates, 1 Id. 31, which were decided since the writ in this case was taken.\nR. C. McMurtrie, for defendant in error.\nThe second error assigned is the only one noticed. .And the point raised is, that the death of an obligor, surety in a several bond for faithful performance of duty by a trustee, before decree against the trustee, discharges his estate.\nThe bond was given October 30th 1852, and was conditioned to be void if J. J. should well and faithfully execute a trust, created by will for the benefit of a feme covert, for receiving and taking care of money.\nThe breaches assigned were,\n1. That the trustee, having been duly dismissed, had not paid over to his successor the moneys in his hands, though requested; in which there was a demurrer and judgment for defendant, on the ground that a decree of the Orphans\u2019 Court ought to have been alleged.\n2. That a decree was made, ascertaining the amount in the trustee\u2019s hands, and directing payment to his successor, and that the money had not been paid. To which the plea was, that the surety died before the decree, and hence his estate was discharged. Was this the legal consequence of this event?\nAn executor is liable for the breach of a personal contract by his testator, excepting where the nature of the undertaking is such that the contract ceases by death, which rule applies only to those contracts on Avhich the person who is to perform is of the essence. Personal services and performance of pecuniary obligations divide the cases.\nIt is sought to throw this obligation into the first category, 1. Because the opportunity to superintend the conduct of the trustee is lost; and 2. Because the liability may extend indefinitely, and the winding up of the estate be delayed.\n\u25a0 1. The enormous extent of suretyship, for the state officials, the officials of corporations, guardians, administrators, assignees, &c., &c., render the proposition that all sureties are discharged by death, as practically serious as could be stated.\nThe first reason assigned is a begging of the question, for, if the power to watch the conduct of the trustee is the test of continuing liability, that power extends to the representatives. And that they should seek a discharge is but reasonable, for, the event which has occurred is known to them, not to the other party; and the party on whom the charge is thrown, is generally unable to take care of himself, and, for that reason, the obligation is given.\n2. If allowed to its fullest extent, the second reason has no operation here, where the liability was ascertained within six months of the death.\nBut is there any such rule that a contingent liability for the payment of money determines such death of the obligor ? Are the estates of guarantors, endorsers, bail, and all covenantors, thus discharged ? If so, no one can contract for a liability which cannot be settled within a year of his death.\nThe cases cited by plaintiff in error do not really touch the question. Quain\u2019s Appeal decided no more than that the decedent\u2019s personal estate was not primarily liable for ground-rent. Torr\u2019s Appeal, 1 Rawle 76, had already ruled the point.\nBland v. Olmstead, 23 Penna. Rep. 316, was the case of a real covenant, not even personal in form. Dickinson v. Callahan, 19 Penna. Rep. 233, was put on the ground that a mere personal relation was established.\nCarr v. Lowry was a covenant running with land in which executors are not named. Pratt v. Harding only decides that for such a real covenant, the covenantor is liable for the breach. That the general law is, that an executor may complete any contract of his testator (not purely personal), and the assets are liable if he do not, is shown by the cases cited by Rogers, J.: Peries v. Aycenena, 3 W. & S. 72.\nThe cases cited by plaintiff in error all proceed on one of two principles: 1. Either the contract from its subject-matter showed it was intended to operate during life only; or 2. That it was made in reference to property, and bound that only, or the party while owner.\nIn the present ease, the court is asked to insert in the condition \u201c and provided the breach occurs before the death of T. W.\u201d Unless this was intended, and is the legal reading of the document, there is nothing to show an intention to limit the liability. There was no property to be bound, nor was it in the nature of .a covenant running with land.\nIt comes then to this, that a covenant by A. for the performance by B., cannot be broken after A.\u2019s death, although the time for performance was during the life of A.; in other words, that it is not possible for a man to make an obligation for the acts of another, coextensive with the life of the party to perform. Such a proposition refutes itself.\nThat the law recognised no such rule as that contended for, is found in the provision for a refunding bond, which provides for claims at any period of time, however distant; and an executor not taking them, cannot object that he has distributed: Swearingen v. Pendleton, 4 S. & R. 394. That executors of a surety in an official bond are liable, was recognised in Commonwealth v. Wenrick, 8 Watts 159. The same point occurred in Yard v. Lea, 3 Yeates 335.\nAnother rule laid down in reference to these bonds is, that the principal and surety are both in precisely the same situation. That whatever is a breach by the principal, is also a breach by the surety: Yard v. Lea, 3 Yeates 344, affirmed 4 Dallas 95; McCaraher v. The Commonwealth, 8 W. & S. 25. It is believed no authority to the contrary exists. As, therefore, the principal is bound until he or his estate fully accounts, so it is clear that the surety must continue liable for the same period of time. The bond expressly named the heirs, executors, and administrators of T. H. White; but, as it is not required in pleading to aver this, inasmuch as wherever an executor can be bound, if named, he is bound without being named, the pleader followed the usual form.\nIt is evident, from the dates, that the breach of trust preceded the death. That occurred October 25th 1859. The auditor\u2019s report stated the account up to December 3d. The dismissal took place February 17th 1860. The final decree, overruling exceptions to the auditor\u2019s report, March 3d 1860. The auditor had been appointed some time before the death. The consideration of the appointment to this ofiice of pecuniary trust, was the undertaking by Thomas H. White; on this alone the court acted, and that was the real security. The decree shows a precedent receipt of money in virtue of this office, and a default in. its application. The particular breach laid imported a minor liability; and if the defendant was discharged, it must have been at the time when a liability first existed.\nIf death before breach was a discharge, the plea was defective, in not stating by way of excuse, that this occurred before the duty attached. The breach was not the decree, but non-payment of a duty which the bond covered. By pleading over, the breach was admitted to be well assigned, and am excuse must be shown. The decree was but inducement \u2014 a fact necessary to be shown \u2014 a prerequisite to the action, but not constituting the breach. The bond was broken when the breach of trust was committed. The proceedings to ascertain that were necessarily subsequent, and they might be necessary to give the court of common law jurisdiction on the bond. The bond was not for performance of a decree, but for the faithful execution of the trusts. The existence of a breach of the trust is one thing \u2014 the mode of ascertaining it another. The authorities agree that the decree fixes the liability as matter of evidence, not of pleading; i. e., it does not constitute a liability, but is the necessary evidence to establish it, where the liability involves a settlement of accounts in another jurisdiction: Commonwealth v. Wenrick, 8 Watts 161-2. But where the liability is for a fixed sum, or is capable of ascertainment by a jury, the action may be immediate against the surety: McCaraher v. The Commonwealth, 5 W. & S. 21.\nThe pleader, admitting that a breach was well laid in form by pleading over, undertook to avoid it by plea. In doing this, he treated the date of the decree as that of the breach. The substance of the plea was death before breach; but he merely averred death before decree, founded on the breach of trust, or in pursuance of a liability, commencing at the date of his bond, leaving the material averment out of the plea, viz., that the default or liability on which the decree was founded, occurred after the death. This was taken as ground of demurrer, and it must be assumed that this fact was not so, if material to the case, and not averred. For joinder in a special demurrer for want of an averment, if that be material, concedes that it could not be made and maintained. If, however, this were not so, there remains the breach on which the court gave judgment for defendant on demurrer. This court must look at the whole record, and give judgment according to the right.\nMay 6th 1861,\nThe question then is, whether a general averment of nonperformance of duty is not sufficient, leaving it for the defendant to show that it- did not occur until after his discharge. The court decided that was defective, because no decree was averred.\nThe result of the two rules together will be, that a surety is discharged from a breach in his lifetime, unless decree be recovered before he dies. For, if the non-payment of a decree be the very breach, instead of evidence of the breach, it must follow that it is only for misconduct, for which a decree is obtained in his lifetime, that he is liable. But in this the court below erred, for, as already shown, the breach is one thing, the evidence another. The court ruled that a decree of the Orphans\u2019 Court must be averred; but, it is submitted, that is merely evidence to be shown on the trial, not a prerequisite in pleading."
+  },
+  "file_name": "0167-01",
+  "first_page_order": 167,
+  "last_page_order": 177
+}

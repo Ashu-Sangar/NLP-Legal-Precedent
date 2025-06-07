@@ -1,0 +1,85 @@
+{
+  "id": 960624,
+  "name": "Easton Bridge v. The County",
+  "name_abbreviation": "Easton Bridge v. County",
+  "decision_date": "1848-01-15",
+  "docket_number": "",
+  "first_page": "415",
+  "last_page": "416",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Pet. 514",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3309032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/29/0514-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 834",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 210,
+    "char_count": 2876,
+    "ocr_confidence": 0.389,
+    "pagerank": {
+      "raw": 7.351004668085049e-08,
+      "percentile": 0.44118112677611704
+    },
+    "sha256": "2bfb3f8d5dafc13890d65a6724f3f6aae5622f9b03514401099083709e82ab83",
+    "simhash": "1:924b508d4b1d7bc8",
+    "word_count": 496
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Easton Bridge v. The County."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nAll the errors assigned in this case were considered and disposed of in The Saving Fund v. Yard, and the Ins. Co. v. Northampton county, both decided at this term. Save only that in this case, the Bridge Company is chartered by the state of New Jersey, from which it is contended to be a sort of chartered libertine, owing no allegiance to Pennsylvania, although its place of business, and its receipt of profits, or toll-gathering, are in this state. But there is nothing in the objection. This state can tax all that is within its bounds, and which receives protection from its laws, unless exempted by the constitution of the United States, or of this state.\nThe company is chartered by this state, could not exist without license, nor could the bridge have been built, nor can it be maintained, by the laws of New Jersey alone. That New Jersey may impose a tax is probable. Of that, I say nothing whatever.\nThe company has assumed its own responsibilities, 'and must abide them: one of which is to be the subject of taxation in this state.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Porter, for- plaintiff in error,",
+      "Reeder, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Easton Bridge v. The County.\nThe surplus fund of a bridge company (incorporated) invested in mortgages and bank-stock, is taxable for state and county purposes, although the dividends on the stock of the company are also taxed for the same purposes.\nThe property of a corporation chartered by Pennsylvania and New Jersey is taxable under the laws of Pennsylvania.\nIn error from the Common Pleas of Northampton. -\nDec. 20. The question was the same as in the preceding case. The plaintiff in error was a corporation chartered by Pennsylvania and New Jersey, to construct a bridge over the Delaware.\nThe property on which the assessment was laid consisted of money at interest and bank-stock in the Easton Bank. It was composed of funds drawn from the profits of the company during successive years, and constituted \u201c a growing fund,\u201d authorized by the charter to provide against decay, and for the rebuilding and repairing of the bridge.\nThe tax was laid for state and county purposes; and it was stated that the dividends were taxed for state purposes in the hands of the company, and for county purposes in the hands of the stockholders.\nThe court gave judgment for the plaintiff.\nPorter, for- plaintiff in error,\nargued that the dividends alone were taxable; that the contingent fund was in like case with the bridge, its abutments, and toll-houses, which were not taxable: 13 S. & R. 422; 8 W. & S. 834; 6 Ib. 378; 6 Barr, 70. The point was in effect decided in 7 Law J. 187. The company being incorporated by two states, each of which has concurrent jurisdiction, it could not be taxed without their concurrent authority-: 4 Pet. 514.\nReeder, contra.\nHaving submitted themselves to the two jurisdictions, they must take the consequences. Certainly, this state is not ousted of her right.\nJan. 15."
+  },
+  "file_name": "0415-01",
+  "first_page_order": 415,
+  "last_page_order": 416
+}

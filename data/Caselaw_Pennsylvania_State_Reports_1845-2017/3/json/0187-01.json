@@ -1,0 +1,433 @@
+{
+  "id": 400574,
+  "name": "Brown's Heirs v. Bank of Chambersburg",
+  "name_abbreviation": "Brown's Heirs v. Bank of Chambersburg",
+  "decision_date": "1846-06-25",
+  "docket_number": "",
+  "first_page": "187",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts, 199",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Whart. 440",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts, 290",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Serg. & Rawle, 473",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1798278
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/2/0473-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle, 438",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "441"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Johns. 19",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132744
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0019-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 441",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0441-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 385",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848498
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0385-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 487",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846108
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0487-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 49",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844072
+      ],
+      "pin_cites": [
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0049-01"
+      ]
+    },
+    {
+      "cite": "8 Johns. Cas. 175",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Johns. Rep. 536",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Ch. Rep. 240",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975566
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "256, 257"
+        },
+        {
+          "page": "329, 336"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0240-01"
+      ]
+    },
+    {
+      "cite": "12 Johns. Rep. 558",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "pin_cites": [
+        {
+          "page": "559"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Rep. 87",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle, 72",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts & Serg. 396",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 48",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Serg. & Rawle, 49",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8877536
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/12/0049-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 412",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts & Serg. 373",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854636
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0373-01"
+      ]
+    },
+    {
+      "cite": "1 Watts & Serg. 245",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852569
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0245-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 152",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838098
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0152-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle, 437",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0437-01"
+      ]
+    },
+    {
+      "cite": "10 Serg. & Rawle, 275",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1811064
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/10/0275-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 174",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801932
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/4/0174-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Cas. 174",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1888777
+      ],
+      "pin_cites": [
+        {
+          "page": "175, 177"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-cas/1/0215-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 425",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Binn. 418",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts & Serg. 58",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts & Serg. 56",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854674
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0056-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 434",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Serg. & Rawle, 174",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Serg. & Rawle, 72",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Watts & Serg. 392",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Rawle, 438",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Watts, 152",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838098
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0152-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1252,
+    "char_count": 39507,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 1.2456506425680525e-07,
+      "percentile": 0.6089378183824616
+    },
+    "sha256": "9a8394ea94e6e92102f66773a316d53e3fb1f784be740e020cdb37e4c9343876",
+    "simhash": "1:392c1273ccc5f50c",
+    "word_count": 7009
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brown\u2019s Heirs v. Bank of Chambersburg."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nThe- entry on the books of Chambers is evidence against him, and all those who claim under him: for it is a memorandum in writing mad\u00e9 in the regular course of business, by a person who at the time was the owner, or had an interest in the premises. The entry is receivable in evidence, as an acknowledgment of title in Esther Brown by the person under whom the defendants claim. That the confession of a grantor, contrary to his interest at the time, is competent testimony, is settled in Reed v. Dickey, 1 Watts, 152; 3 Rawle, 438; 4 Watts & Serg. 392; and in the Union Canal v. Young.\nThe plaintiffs claim title under a lost deed, bearing date the 25th March, 1792 \u2014 Capt. Benjamin Chambers to Esther Chambers, who afterwards .intermarried with Whlliam Brown. Whether there is any evidence, of a contract between him and his sister, and whether the deed above-named was delivered, are the principal matters in controversy. If these facts are decided in favour of the heirs, there is nothing in the way of the plaintiffs\u2019 recovery.\nIt is admitted in the charge that the evidence suffices to show that a deed was made and signed; but it is denied that there is enough to prove the deed was delivered. The court instruct the jury, not only that there was no delivery, but that there is no evidence whatever of a binding contract between the parties. Without undertaking to express an opinion as to the weight of the testimony, we think there was evidence on both points proper to be submitted to the jury.\nIt must be premised that the Chambersburg Bank claiming under the alleged grantor, and having'purchased with notice of the plaintiffs\u2019 title, stands in the same situation as the grantee; and the case must be considered in the same manner as if Chambers himself was a party. As against him, we conceive an entry in his own books, and in his own handwriting, would be persuasive evidence, and in some cases would amount to conclusive proof. The effect to be given to the testimony depends on the entry itself, and the accompanying parol proof. \\\nThe words are \u201cLot No. 3 andNh gra\u00f3ted by deed bearing date the 25th March, 1790. Lot No. 3 analto Esther Chambers, bounded and described as follows: Beginning, at a post on Market street, on the west side ofConocogig; thence with said street westward one hundred and twenty feet, to,lot No. 5 ;\\thence with said lot northward 256 feet, to a sixteen feet alley; thence with said alley eastward 120 feet, to lot No. 2; thence with said alley south-ward two hundred and fifty-six feet, to the place of beginning.\u201d\nThe entry is crossed as above, and in a different ink is this memorandum, \u201c Give (or gave) a new deed to Will. Brown, Esquire.\u201d\nNow, without further explanation, what inference naturally arises from the memorandum, as above stated ? Is it not, that there was some contract or understanding in relation to the premises, between Captain Chambers and his sister ? For if there was not some agreement, the inquiry suggests itself, why was the entry made in a book kept for the purpose; and why was this registry made in the same manner as appears to have been his practice as to others, who .had purchased lots exposed by him to sale on ground-rent ? Whether it was a sale for a valuable consideration, which is the most probable supposition, or a gift accompanied with possession, is of no consequence ; for in either case, it will pass such a title as cannot be impaired without the assent of the grantee or donee. Besides, that there was a contract of some sort, may be inferred from other testimony. William Brown says, \u201cthat in 1791, (viz., after the date of the deed, and his intermarriage with Esther Chambers,) he was looking out for a dwelling-house, when Captain Chambers said to him, \u2018 Why not build on your wife\u2019s lot on the west side of the creek? There sister Hetty has two lots, and they are in a fine situation for a dwelling-house.\u2019 \u201d There is no mistaking the import of this testimony; and connecting it with the memorandum on the books of Captain Chambers, it is difficult to avoid believing, (certainly as against him, and of course against those who claim under him,) that there is some evidence of a contract or gift, call it which you will, and that the contract was consummated by deed. It is objected, that we have no express evidence of a consideration. If this be wanting, the deed implies one; for we must take it, if a deed was made, it was done in the usual form, passing a fee, and for a valuable consideration expressed in the deed itself. It does not appear, it is true, what the precise nature of the agreement was; nor is it necessary, as whatever it may have been, enough has been shown to justify the jury in presuming a contract.\nBut was there evidence proper to be submitted to a jury, of the delivery of the deed, supposing that it was signed and sealed by the. grantor ? This is the next question. On this point we also think the court erred. The entry, as offered, amounts to an express acknowledgment by the grantor, that he had granted by deed the lots in controversy, to his sister. For -what is the meaning of the words \u201c granted by deed,\u201d either in legal or common parlance \u2014 words, be it observed, to be taken most strongly against the grantor ? Do they intend an instrument signed and sealed merely, or are they to be understood, without further explanation, as importing a legal and perfect title? A. informs B. that he has deeded Blackacre to C.; would not a jury, if necessary, be warranted in drawing the natural and obvious inference; that he intended by these expressions a deed in fee-simple, with all the formula necessary to a complete title ? That this would be the conclusion of every person, seems to me so obvious as scarcely to admit of question. The words, of themselv\u00e9s, necessarily imply a perfect instrument \u2014 one competent to pass the title; and this cannot be, as is well known, without delivery. That less than express proof of delivery will suffice, appears from Long & Ramsey, 2 Serg. & Rawle, 72. In that case, it is ruled, and it scarcely needs the aid of authority, that from the proof of the handwriting of a witness to a deed, a jury may presume a sealing and delivery. And miserable indeed would be the situation of the country if the law was otherwise; particularly as regards transactions of long standing. In accordance with the implication arising from the entry, William Brown says, he was informed by Captain Chambers, and also by his wife, previous to his receiving a deed for the six lots, that there had been a deed for the lots 3 and 4 made to Esther Chambers, before her marriage. Both parties, according to this statement, recognise a subsisting title in her. Connect this testimony with the declaration of Chambers before adverted to, and it is difficult to resist the conviction, if his testimony is believed, that at the time, which, be it observed, was after her marriage and before the deed to Brown, she had a title, accompanied with possession of the property now in dispute. And in corroboration, the explanation given by Brown seems to accord -with the entry in the books and the accounts against him. It is true, the entry is crossed or cancelled, and Brown says he never saw the deeds, nor does he know whether they were from her father or brother, nor when nor by whom they were destroyed. That this part of the testimony may be used in argument to the jury,- is conceded; but that it justifies the court in withdrawing the whole case from their decision, is denied. But as the entry appears to be crossed or can-celled, it is absolutely necessary, for a just decision of the case, to determine when and by whom it was cancelled; for this is a distinct and different question from those to which we have heretofore adverted. They must be carefully distinguished from each other. It will not be pretended, that if the erasure was made after her marriage, there is any thing in evidence which can divest the rights of the heirs. If the title ever vested in her, it cannot be divested without her assent, and in the manner prescribed by law. The question recurs, when and by whom was the erasure made ?\u2019 To this the answer is, that a jury may believe it was made after her intermarriage with Brown; and whether with or without her consent, as the case stands, is immaterial. The probability is, that it was crossed on or about the time of the memorandum, which appears to be in a different ink from the entry. And this was, if any reliance is placed in the testimony of Brown, and we may be permitted to judge from the date of the deed, about the 30th April, 1792. At that time she was a feme covert, and incapable of making a contract, except in the manner allowed by statute.\nIt is alleged, that this view of the case casts an imputation on the integrity of Chambers and Brown. This does not follow; as the reason the deed to Brown assumed its present form, seems to be satisfactorily explained in the testimony, and no doubt arose from a mistaken supposition, that it was of no consequence whether the title was in Esther Chambers or in her husband, William Brown. But these mistaken views cannot deprive her of her title, unless with her own consent, and in the manner the law provides.\nAs the case goes down for another trial, it is proper to say, that as the defendant is a purchaser, the plaintiff can only avail himself of the title of which he gave notice at the sheriff\u2019s sale. This point was ruled in a case decided at Philadelphia at the last term, and not yet reported.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Chambers, for plaintiff in error.",
+      "Bard and Thomson, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Brown\u2019s Heirs v. Bank of Chambersburg.\nAn entry or memorandum in writing made by the owner of lands in a book, called by him his deed book, in the regular course of business, is receivable in evidence as an acknowledgment of title in the person named therein; against him who made the-same, and those claiming under him by subsequent grant.\nA sheriff\u2019s vendee claiming title under the alleged grantor, and who purchased with notice of the title of a prior grantee, stands in the same situation as the grantor; and an entry in the grantor\u2019s own books and in his own handwriting, would be persuasive evidence,.and in some cases conclusive proof, against the grantor or his subsequent grantee; but the effect to be given to such evidence depends upon the entry itself and the accompanying parol proof.\nWhere an entry was made in the books of a grantor, thus: \u201c Granted lots Nos. 3 and 4, by deed,'dated the 25th of March, 1790, to E. 0.,\u201d bounding and describing the lots, which entry was crossed; and in different ink the following memorandum was made: \u201c Give (or gave) a new deed to W. B., Esq.,\u201d it was held, that the natural inference to be drawn from these entries without further explanation, was, that some contract or understanding existed between the grantor and E. C., who was his sister, and was married to W. B., in relation to the two lots; and whether it were a sale for a valuable consideration) or a gift accompanied with possession, was of no consequonce, as in either case the title would pass, which could not be impaired without the assent of the grantee or devisee. *\nIn the absence of the deed, such entries, with parol proof that the grantor said his sister was the owner of said lots, is some evidence of a contract or gift, which was consummated by deed.\nA deed implies a consideration; for it must be taken, that if it were made, it was made in the usual form, passing a fee, and for the valuable consideration expressed therein.\nIt seems, that it was not necessary that the precise nature of the agreement should appear; since whatever it may have been, this evidence was sufficient to justify the jury in finding a contract.\nIt seems, that the memorandum with the parol evidence which is to be taken most strongly against the grantor, is to be understood without further explanation, as importing a legal and perfect title, from which a jury might infer all the formula necessary to complete the title, including delivery.\nIf the entry in this case were crossed after the marriage of E. C., the grantee or donee, with W. B., it would not divest her rights, or those of her heirs, in the property.\nIf the title to the lots were ever vested in E. C., she could not be divested of it without her consent; and if she were then a feme covert, that consent could only be given in the manner prescribed by the statute.\nAs the defendant was a purchaser at sheriff\u2019s sale; the plaintiff can only avail himself of the title of which he gave notice at such sale.\nError, to the Common Pleas of Franklin county.\nJune 11 and 12. Samuel M. Hankins and Hetty, his wife, Hadessah C. Brown, George L. Brown, and Benjamin C. Brown, by their next friend and guardian, Mary J. Brown, heirs of Esther Brown, brought this ejectment against the Bank of Chambersburg and Samuel Fisher, for two lots of ground, with a two-story brick building and other buildings thereon erected, situated in the borough of Chambersburg.\nIt appeared on the trial, that both parties claimed under the same title. The plaintiffs gave in evidence, a patent from the Commonwealth to Benjamin Chambers, dated 14th of March, 1742, for five hundred and twenty-three acres and allowance, which covered the lots in dispute; also a deed from Col. Benjamin Chambers to his son, Capt. Benjamin Chambers, dated 5th of June, 1781, for two hundred and five acres, which included the premises in controversy. Under this deed it appeared, that the grantee, Capt. Benjamin Chambers, was to pay to his sister, Esther Chambers, $1000. The death of William M. Brown, who married the said Esther Chambers, in November, 1791, and the possession of the defendants, were admitted. The plaintiffs then offered to read to the jury a memorandum in writing, entered in a book admitted to be that of Capt. Benjamin Chambers, and the entry to be in his handwriting, of a deed made by him to Esther Chambers, on the 25th of March, 1790, for the lots in dispute, accompanied with proof of a search for said deed. This \u25a0offer was objected to by the defendants; when the plaintiffs called and examined George Chambers as a witness, who testified, in substance,-as follows:\u2014\n\u2022\u201cI am.one of the executors of'Capt. Benjamin Chambers; always had possession of all the papers. I have searched diligently among the papers of Capt. Benjamin Chambers for, the deed from him to Mrs. Brown, and could not find it. I have known this book (deed-book of Capt. Benjamin Chambers, containing the memorandum offered in evidence, as above) for about'fifty years; has been in my possession since the death of Capt. Benjamin Chambers, in 1813. In 1829, I made an examination among thp title papers of William M. Brown, Esq., so far as related to the-lands purchased by the bank. I gave the bank all I found; found no deed to Mrs. Brown amongst them. I afterwards became executor- of Lazarus Brown, with whom, William M. Brown, his brother, had left his papers. I searched, but found no such deed. Within .the last few days I made a search amongst these papers, but found no deed-amongst them to Mrs. Brown for the lots in dispute.\u201d An account-book was then handed to witness,-who said, \u201cThis is the book of accounts of Capt. Benjamin Chambers, and of the account with William M. Brown, and is in the handwriting of Capt. Chambers, except a few entries at the bottom.of page 109, which .are in my handwriting.' It has been in my possession since the death of Capt. Chambers.' This account was settled between the parties in my presence, in March, 1808, as it stands here stated.\u201d\nThe plaintiffs then proved -by Joseph Chambers, that he had searched carefully in the recorder\u2019s office, for a deed from Capt. Benjamin Chambers to his sister Esther Chambers;'but that he could not find subh deed on record.\nThe entry and memorandum, as contained in plaintiff\u2019s offer, were then read in evidence, from the deed-book of Capt. Benjamin Chambers. The entry was in the following words, and crossed in the following manner:\u2014\n\u201cLot No. 3 aM4. \u2022 Granted by deed bearing date the'25th March, 1790, lot No. 3 ancN-Jo Esther Chambers, bounded and described as follows: Beginning atVpost on M\u00e1rket street, on the west side of Conogogig; thence with sffid sjfeet westward one hundred and twenty feet, to lot No. 5; jt\u00f3nce with said lot northward two hundred and fifty-six feet, \\p an^&JKy ; thence with said alley eastward one hundred and twenty feetphsulot No. 2; thence with said alley southward two, hundred and fifty-bix feet, to the place of beginning.\u201d\nIn a different ink, was the following memorandum: \u201cGive (or gave) a new deed to Will. Brown, Esq.\u201d\nThe above entry and memorandum were given in evidence, under objection by the defendants; and their admission by the court constituted the subject of defendants\u2019 first bill of exception.\nThe plaintiffs \u2022 then offered in evidence the deposition of William M. Brown, taken oira commission to Mississippi, in a'certain bill to perpetuate testimony between the heirs of Esther Brown, deceased, plaintiffs, and the Bank of Chambersburg, defendant. The defendant objected to the whole of the answer to the second interrogatory. The court overruled the objection; and this was defendant\u2019s second bill of exception.\nIn answer to the interrogatories, the deponent said, in substance, \u201c that he was well acquainted with the property in controversy: that it had. been the place of his family residence from 1792 until 1820, When he removedlo the'country; but that he continued to rent the same until it was sold, by the sheriff to the Chambersburg Bank; that shortly after his marriage with Esther Chambers, the youngest daughter of ,C\u2018ol. Benjamin Chambers, sen., which was in the month of November, in the year 179*1, he was looking but for a dwelling-house for himself and family, when Capt. Benjamin Chambers, his brother-in-law, said to him, \u00abWhy not build on your wife\u2019s lots on the west side of the creek? (Meaning the Conococheague creek.) There,\u2019 said he, \u00absister-Hetty has two lots, and they are in a fine-situation for a dwelling-house..\u2019 This deponent then reflected upon it for some time, consulted with his wife and some of his friends, and finally agreed, that if he, Captain Chambers, would sell him four other lots, adjoining to his wife\u2019s two lots, and would also sell him out the quit rents of the whole six lots, that.he would then build there. To this proposition the said Captain Chambers assented ; though he had previously refused to sell the quit rents to several others, who had proposed to buy out th\u00e9irs. And when the said Chambers and deponent proceeded to lay.off the said lots, they began at Jacob Smith\u2019s comer, being No. 2, in the plan of said town, and laid off Nos. 3 and 4, being Mrs. Brown\u2019s two lots, of sixty feet each, on Market street; and then laid off Nos. 5, 6, 7, and 8, being also sixty feet'each on said Market .street; which brought us within a few feet of a street or a road which had been'previously laid out, (deponent thinks to Strasburg;) and Chambers then observed to deponent, \u00abI will throw you in these few feet. For the first two lots, adjoining'Mrs. Brown\u2019s two, to wit, for the Nos. 5 and 6, this deponent agreed to give Captain Chambers \u00bf\u00a320 or \u00bf\u00a325 each; and for the next two, to wit, for the Nos. 7- and 8,'he agreed l\u00edo.'give hipa \u00bf618 or \u00bf620 each. It is true, that this deponent did no.t^ay cash for any of those lots ; and the reason why he did not do @>,\u2018 was, 'because Captain Chambers was indebted to deponent\u2019s wife ;- he being bound by the deed of Col. \"Benjamin Chambers, sen., his father, conveying the town property to him, to pay to his sister, Esther Chambers, \u00bf61000; one half thereof when she came of age, and the residue thereof in three years thereafter, as deponent understood and believes. The deponent further stated, that he is well assured, that he never paid one' cent, or agreed to pay one cent, for the lots Nos. 3 and 4, adjoining Jacob Smith, sen., on Market Street ;xwhich-lots were uniformly admitted, by all the parlies concerned, to belong to deponerit\u2019s wife, previous to'her marriage with deponent;- andas to them, therefore, he could buy nothing, nor pay any thing, except for the quit rents; which he admits that he did do as aforesaid; and which was the only reason why they were included in the deed from Chambers and wife to this deponent.\u201d\nThe deponent further stated, \u201c that he then proceeded to draw the deed from Captain Chambers and wife to himself, dated the 30th day of April, in the year 1792,\u2019 and recorded in the\u2019 office -for recording of deeds for the county of Franklin, in book B, page 543; which said\u2019 deed is. in deponent\u2019s handwriting; conveying the whole six lots of sixty feet each, and four feet over, as abovestated, to himself in fee-si\u00a1mple; and stating the consideration to be \u00bf6155; which may be a trifle too much or too little, as he did not deem it in any way material. The deponent further stated, that he was informed by Captain Chambers, and also by his wife, previous to his receiving the deed aforesaid from said Captain Chambers and wife to himself, for the six lots aforesaid, that there had been a deed or deeds for . the lots Nos. 3 and 4; adjoining Jacob Smith, sen., No. 2, made to Esther Chambers before her-marriage ;\u25a0 but that he never saw the deed or deeds aforesaid, nor does he know, of his own knowledge, whether the said deeds to Esther Chambers - were from Benjamin Chambers, sen., her\u2019 father, or from Benjamin Chambers, jun., her brother; nor does he know when the said deed or deeds were destroyed, nor by whom they were so destroyed. Deponent further stated, that he immediately proceeded to build on the said lots, Nqs. 3 and 4; and that Captain Chambers requested him to give orders during the progress of Jiis building, that deponent might think proper, to any of his workmen, on him the said Chambers, as many of them were indebted to him, the said Chambers; and depo- . nent states, that he did accofdihgly give orders to -several of his workmen on the said Chambers, which he accepted and paid, and which deponent .credited-on a final settlemenjt with said Chambers. Deponent further stated, that he made a settlement with'the said Captain Chambers, somewhere about the year 1798 'or 1799, for the sum or sums of money, due his wife; and at which settlement George Chambers, Esq., was present;' and which settlement, if the same has been preserved, will satisfactorily show, that there was nothing paid by deponent, for the lots Nos. 3 and 4, except for the quit rents, as above stated.\u201d\nThe plaintiffs then offered in evidence the account-book of Capt. Benjamin Chambers,\u2019 containing the accounts against William M. Brown, as referred to by George Chambers .in his testimony, and by the said William M. Brown in his'deposition. Objected to by the defendants. The objection was overruled by the court; which was defendant\u2019s third bill of exception. The following accounts, from page 8 of the account-book, against William M. Brown, were then read in evidence.\n\u201cWilliam Brown, Esq., Dr. \u25a0\n\u201c1792. , \u00a3 s. d.\n29th June. To balance brought from L. C., p. 124,- 141 17 0\nTo amount ofH'etty\u2019s account in L. C.,p. 128, 145 7 11\nTo 2 lots at \u00bf\u00a325, ... \u00a350\nTo 2 do. at \u00bf\u00a320, - . \u201e 40\nTo' the ground-rent on six lots, at 121. 10s. eabh, \"- - - 75 165 0 0\u201d\nOn page 109 of the same book it appeared, that the whole account, amounting to 1298i. 18s. Id., was settled in March, 1808, by William M. Brown with Capt. Chambers; and that the account was composed in part'of orders on Capt. Chambers, which were accepted and paid by him, and of payments made by him to brickmakers, and for mill accounts.\nThe defendants then gave .in evidence a deed from Capt. Benjamin Chambers .to William M. Brown, Esq., for the lots in dispute, dated 30th of April, 1792; consideration \u00a3155. This deed was duly acknowledged and recorded. They also gave in evidence the record of a judgment in the Common Pleas of Franklin county, in favour of the Bank of Chambersburg against William M. Brown. On the 18th of November, 1823, this judgment was revived for $18,701'35. On this judgment, so revived, a writ of al.fi. fa. was issued to November Term, 1824, No. 7, under which a levy was made on the lots in controversy, and several other tracts of land of the defendant. On the 7th of August, 1826, the lands so levied upon were sold by the \u201e sheriff to the Bank of Chambersburg; the lots for $505. Deed for the property, from the sheriff to the bank, dated and acknowledged 16th of August, 1826.\nThe plaintiffs then recalled George Chambers, who said, \u00abI remember of Mr. Washington giving notice at the time of the sheriff\u2019s sale, that Mrs. Brown claimed this property. This paper was put upon the court-house where the sale was being made, at the time of the sale. I recollect of Mr. Washington taking it down and asking me to identify it by writing my name on it, which I did. This is the paper, dated 7th August, 1826.\u201d\nThe paper was then read to the jury, in the following words :\u2014\n\u00abNotice.- \u2014 A lot of ground situated in the borough of Chambers-burg, bounded by Market street on the south, lot of John King on the west, an alley on' the north, and lot of Mrs. Smith on the east, has been advertised by the sheriff to be sold as the property of William M. Brown, Esq. Notice is hereby given to purchasers, that this property is claimed by Mrs. Hester Brown, (the wife of said William,) under a deed from the late Benjamin Chambers, Esq., conveying the same to her in fee-simple before her marriage; that the said William M. Brown has no other estate in this property than a tenancy by the curtesy; and that Mrs. Esther Brown\u2019s right to it will be asserted.\u201d\nThis note was endorsed, George Chambers.\nThe defendants requested the court to charge the jury, on the following points:\n1. That there is not evidence of the actual conveyance by Captain Chambers to Esther'Chambers, and the delivery of the deed to her; nor is there any evidence of the contents and consideration of the deed.\n2. That the memorandum in the book of Captain Chambers, cancelled by himself, is evidence that no deed was ever delivered; and that he had a right to cancel it, and did cancel it.\n3. That it ought to be presumed, that Captain Chambers, in conveying the property to Wm. M. Brown, was acting fairly, and had the right to convey; and that the deed to Esther Chambers, if ever such deed was made at all, was intended as a gift without consideration, and might be retracted and the deed cancell\u00e9d at any time before actual delivery; and that it ought to be presumed, that he had honestly acted in the matter, with full knowledge and consent of all parties.\n4. That no trust can result to the wife, because the money paid came to the husband from the personal estate of the wife.\n5. That the evidence on the part of plaintiffs is not such as to give them a title in opposition to the deed recorded, and possession and improvements made under it for thirty-four years, before any notice to the public of their claim.\nThe court, (Black, President,) after referring to the facts in evidence, read the first and second points submitted by the defendants, and charged, in substance, thus:\n\u201cWe answer these two points then, by saying, that this evidence, when taken together, is sufficient to show that a deed was made and executed \u2014 that is, written, signed and sealed \u2014 by Benjamin Chambers, jun., to Esther Chambers; (10 Serg. & Rawle, 174;) but not sufficient to prove that such deed was delivered. The crossing of tire entry, and the subsequent deed to Mr. Brown, is, on the other hand, some evidence that it was either not delivered, or that it was cancelled and destroyed with Mrs. Brown\u2019s consent, at a time when she was capable of giving that consent. This opinion is strengthened by the proof adduced on the part of the plaintiffs, which shows that neither Mr. Brown nor Mrs. Brown ever had it, so far as can now be discovered. Mr. Brown says he never saw it. It has been sought for, in short, without success. Can this deed, which no witness ever saw, and of which Mr. Brown himself was wholly ignorant, have been in existence as a valid and good deed at the time of the marriage ? If it had been, would it have been either unknown to or disregarded by Captain Chambers and Mrs. Brown, six months after the marriage ?\n\u201c 3d point. \u2014 It is true that the parties are to be presumed to have acted honestly. There is not in this case the slightest proof, which \u25a0cbuld go to justify a suspicion of misconduct against any of them. If Mrs. Brown had bought and paid for the property, and had received a conveyance for it before her marriage ; and if, afterwards, her husband and brother made another conveyance between them, with the intention of defeating her right and vesting the title in the \u25a0husband, their conduct would be wrong; and such you cannot suppose it to have been without evidence. It is probable, that the title being in Captain Chambers, in 1792, he executed the intention he had previously formed, of giving the lots to his sister, by making the deed to her husband ; which all parties would, at that time, naturally ^ enough suppose to be the same thing, or better than giving the deed So her. \u25a0\n\u201c 4th point. \u2014 The law is as here stated.\n5th point. \u2014 If the deed was never delivered to Mrs. Brown ; if it \"was delivered, but before her marriage it was cancelled or destroyed with her consent, then Mr. Chambers had a right to convey it to Brown, and the verdict ought to be for defendants. If Mrs. Brown, while a single woman, made a contract for the purchase of these lots from her brother, and paid the consideration for them; and if this contract was executed by making a deed to Wm. M. Brown, without her previous consent, then the. equitable title might be in her. I have, however, already said, that there is no evidence of delivery of the deed; and I now say, that there is none whatever of any contract between B. Chambers and Esther Brown.\u201d\nTo this charge, the plaintiffs excepted. The jury found for the defendants; when the plaintiffs sued out a writ of error, removed the record to this court and assigned the following errors:\n\u201c The court erred in instructing the jury\u2014\n\u201c 1. That the plaintiffs could not recover unless Captain Chambers had duly executed and delivered a deed to his sister, Esther Chambers, whilst single,\n\u201c 2. That the only evidence of a deed to Mrs. Brown was the memorandum in Captain Chambers\u2019 book.\n\u201c 3. That the evidence was not sufficient to prove that the deed was delivered; but only that it was written, signed and sealed.\n\u201c 4. That the crossing of the entry was evidence that the deed was not delivered.\n\u201c 5. That the crossing was evidence that the deed was cancelled or destroyed with Mrs. Brown\u2019s consent, at a time when she was capable of giving consent.\n\u201c6. That Mrs. Brown never had the deed, and that Captain Chambers and Mrs. Brown wholly disregarded it.\n\u201c 7. That to entitle the plaintiffs to recover, Mrs. Brown must have bought and paid for the property and received a conveyance for it; that Captain Chambers had merely formed the intention to give the lots to his sister, and executed it by making the deed to her husband.\n8. That if the deed had been delivered to Mrs. Brown, but before her marriage, it was cancelled or destroyed with her consent, &c.; there being no evidence whatever of a cancellation or destruction.\n<\u00a3 9. That there was no evidence of the delivery of the deed, and none whatever of any contract between B. Chambers and Esther Brown \u2014 withdrawing the same from the jury.\u201d\nChambers, for plaintiff in error.\n1. The declarations of Captain Chambers to William Brown, that the premises were Mrs. Brown\u2019s; and notice to William Brown by B. Chambers and Mrs. Brown ; possession taken by Mrs. Brown by her husband, whose possession was hers; the \u00bf61000 owing by B. Chambers to her,- laid out in building the house, by materials, orders, &c. \u2014 made out a perfect title for the plaintiffs, and required no \u201c deed duly executed and delivered.\u201d For a parol sale is good, though only part possession is taken, and though tenant merely agrees to pay the rent to vendee. 1 Whart. 434; 3 Watts & Serg. 56 ; 8 Watts & Serg. 58, 59. Ingham v. Beach, 1 Penna. Rep. 389, is a stronger case than this.\n2. The memorandum of B. Chambers, uncontradicted, was not only prima facie, but conclusive proof that he had signed, sealed and delivered \u2014 made a valid, operative deed \u2014 transferring the fee to his sister; \u201cwas evidence of a conveyance in fee\u201d to Esther Chambers.\nA recital that two lots \u201cbecame the property of A.\u201d \u201c It is a presumption of law that it was an estate in fee in A., and not for life; which may be contradicted by showing it was for a less estate than a fee-simple. A recital is not a conveyance, but evidence of a conveyance.\u201d 6 Binn. 418; 1 Whart. 425 \u2014 428; 3 Johns. Gas. 175 \u2014177.\n\u201cConvey\u201d is equivalent to \u201c grant.\u201d 1 Kinne\u2019s Comp. 313.\nA recital in a will is an estoppel. 1 Johns. Cas. 174, 175, 177.\n3. No evidence stronger (uncontradicled as in this case, conclusive) than the declarations and memorandum of B. Chambers. 4 Serg. & Rawle, 174; 10 Serg. & Rawle, 275; 3 Rawle, 437 ; 1 Watts, 152; 1 Watts & Serg. 245 \u2014 249 ; 3 Watts & Serg. 373.\nIn The Union Canal v. Young, 1 Whart. 412 \u2014 425, and in Union Canal v. Loyd, 3 Whart., similar memoranda were admitted; even the minutes of the company, accompanied with proof that Robert Morris was president of the company.\nAs a mere memorandum of a deceased person, made against his interest in an ancient deed book, and made in the usual course of business, it was evidence of the sale to Esther Chambers. 1 Smith\u2019s Leading Cases, 221, 223, 224, 225; 2 Smith, 221, 228, 229, 235; 12 Serg. & Rawle, 49, 83 ; 4 Watts, 48; 4 Watts & Serg. 396 \u2014 399; 1 Whart. 412; 2 Rawle, 72.\nNo cancellation of a deed revests or conveys the title. Cru. Dig. part 3, 370, \u00a7 11,12 ; 2 Johns. Rep. 87 ; 1 Fonb. 206, 207 ; Kinne\u2019s Comp. No. for April Term, 1846; Stroud\u2019s Dig. Penna. 828.\n4. William Brown, the second vendee, proved that his wife and B. Chambers told him that a \u201c deed had been made\u201d to Esther Chambers. The lots were included in the second deed, merely to extinguish the lien of the quit-rents, and was not disregarding the deed to Esther Chambers.\n5. Mrs. Brown need not have paid a valuable consideration, and need not have had a conveyance. If a valuable consideration was necessary, the law would presume payment; for B. Chambers would not have made the verbal and written declarations he did, had he not been paid. 2. A voluntary deed, with notice, is good against purchasers and creditors, even though grantor was indebted, of which there is no pretence here. 1 Story\u2019s Equity, 345 \u2014 409; 12 Johns. Rep. 558, 559.\n\u201c A voluntary deed is good, unless there be clear and decisive proof that the grantor never intended to part with it; and if he retain it, there must be other circumstances beside the mere fact of his retaining it to show that it was not intended to be absolute.\u201d Souverbye v. Arden, 1 Johns. Ch. Rep. 240, 256, 257; Bunn v. Wynthrop, Ibid. 329, 336; Verplank v. Sterig, 12 Johns. Rep. 536\u2014 548; 1 Madd. Ch. 222, 223; 8 Johns. Cas. 175, 177; 1 Kinne\u2019s Comp. 307; 2 Kinne\u2019s Comp. 162.\n6. No evidence of cancellation. If no evidence, error to leave to jury. 5 Watts, 49, 275; 6 Watts, 487 ; 8 Watts, 385.\nThe charge was a direction to the jury that they should find for the defendants. 3 Penna. Rep. 373.\nWhen the defence is matter of fact, it is error to instruct the jury that a defence failed and plaintiff entitled to recover. 5 Watts, 441.\nError to instruct jury that the evidence must be clear and conclusive, 1 Watts & Serg. 245.\nBard and Thomson, for defendant.\nTo admit the declarations of Capt. Chambers, and the memorandum in his book as evidence, not only of the contents of a deed, but also of its execution and delivery, would make the statute of frauds a dead letter. There would be no necessity in any case for the formality of a deed. All a man would have to do to part with his title would be to say, he had made a deed to another; or to leave a memorandum to that effect where it would be found after his death. The grantee of such imaginary deed would hold against all the world, without even taking possession, or proving an equity upon proof of the claimant\u2019s knowledge of such declarations.\nTitle rests on written evidence, and not on parol declarations. Jackson v. Shearman, 6 Johns. 19. Declarations are evidence against the party making them, and those who hold under him ; but without other facts and circumstances, are not conclusive. Gibblehouse v. Story, 3 Rawle, 438, 441, &c. The cases, where declarations alone have been held to be of sufficient weight to take away a man\u2019s estate, arise only on such questions as those of boundary, settlement or improvement rights, tenancy, and resulting trusts; as \u25a0where one man takes the legal title, and another pays the money, which are not within the statute. Ibid. Such are the most of the cases cited. The cases of recitals in deeds and wills have no application. Such recitals operate as estoppels; but declarations or written memoranda have no such effect.\nThe declaration of one under whom the plaintiffs claimed, that he \u00ab sold and conveyed\u201d to the_ defendant, or to one from whom defendant derived title, has been held to imply that there was a deed, and could not be given in evidence without first proving the loss of the deed. McDonald and wife v. Campbell, 2 Serg. & Rawle, 473. But preliminary to proof of contents, and involving proof of execution, (and delivery is a constituent part of execution,) stands proof of pre-existence in the state of a valid instrument. M'cReynolds v. McCord, 6 Watts, 290; McCurdy v. The Schuylkill Navigation Company, 3 Whart. 440. Here there is no proof whatever of the execution and delivery of the deed, or that it was ever seen ; and the fallacy of the argument of the plaintiffs\u2019 counsel is to make the declarations proof both of the existence of the deed and of its contents.\nThere is no evidence that the memorandum in the book was made before the deed to Brown, or that he ever saw it. It was incumbent on the plaintiffs to show the time it was made. For aught that appears, it may have been made long after Brown had acquired title and become involved. To admit it would open- the door to fraud.\nThe memorandum having been found among the papers of Mr. Chambers after his death, and produced by the plaintiffs themselves, cancelled, must be deemed to have been fairly cancelled ; and the deed of which it is the evidence destroyed, by consent of Mrs. Brown before her marriage, or that the deed was without consideration, and never delivered. Any other supposition would imply a charge of fraud on the part of her husband and brother against the rights of Mrs. Brown ; which must not be presumed, and is contrary to the proof, for Brown never saw the deed. A deed cancelled by consent of the grantee, in equity restores the estate to the grantor, if such is the intention of the parties. Wiley v. Christ, 4 Watts, 199. The cancelled memorandum being produced as the evidence of, and substitute for the deed, can have no more effect than a cancelled deed would have. When a cancelled deed is produced by a party claiming title under it, he is bound to account for its cancellation, and to show that it was done by mistake, or the fraud of the other party.\nJune 25."
+  },
+  "file_name": "0187-01",
+  "first_page_order": 185,
+  "last_page_order": 200
+}

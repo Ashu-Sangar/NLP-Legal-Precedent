@@ -1,0 +1,79 @@
+{
+  "id": 959560,
+  "name": "Eckel v. Jones",
+  "name_abbreviation": "Eckel v. Jones",
+  "decision_date": "1848-05",
+  "docket_number": "",
+  "first_page": "501",
+  "last_page": "502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 501"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 W. & S. 208",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852517
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0208-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 186,
+    "char_count": 2722,
+    "ocr_confidence": 0.389,
+    "pagerank": {
+      "raw": 5.0011153170616546e-08,
+      "percentile": 0.3133960705817212
+    },
+    "sha256": "f1e26c3d1cabdae08d94b24078ccdb225dd750560c6b48e53fdd131e5c5c502f",
+    "simhash": "1:3167d7608520f0fe",
+    "word_count": 509
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eckel v. Jones."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe court erred by drawing to itself the decision of the cause on that which was \u2022 a matter of fact and not a matter of law. Tbe question was, wbat notes of Smull payable to John Eckel were intended by tbe parties to be covered by tbe contract of \u2022guaranty. Tbe court, on tbe assumption that notes in wbicb Snevily was the payee, but wbicb bad been transferred to Eckel, would not be covered by tbe words \u201cpayable to Eckel,\u201d rejected tbe evidence. There was the mistake of tbe learned judge. Tbe two notes offered in evidence were precisely of tbe same amount as tbe notes stated in tbe guaranty; and it was not alleged that there were any other two notes made by Smull and payable to Eckel. But tbe ground taken by tbe learned judge in rejecting tbe evidence is fallacious. He says that tbe notes covered by tbe guaranty were alleged to be payable to Eckel, and tbe notes produced were payable to Snevily. It is true that Snevily was tbe payee nominated in tbe notes ; but they were made payable to him or order, and they were endorsed to Eckel. There is no exact technical meaning to be applied to the word payable, when used in contracts. It is to be taken according to the common acceptation of tbe word, in tbe popular language of tbe country, and in that sense means, due to, to be paid to, wbicb would exactly fit tbe condition and description of Eckel in regard to these notes and the guaranty. But tbe papers rejected ought to have been admitted in evidence. There was abundance to be left to tbe jury; and they should have been instructed that it was a question of fact, to be determined by them, as to wbat notes were covered by tbe contract of guaranty, according to tbe true intent of tbe parties at the time.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Rawn, for plaintiff in error.",
+      "Kunkle, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Eckel v. Jones.\nA note drawn, by A. to tbe order of B., and by Mm transferred to C., may be shown by parol to be within, tbe meaning of a written guaranty by a tMrd person of the note of A. payable to C. 0\nIn error from the Common Pleas of Dauphin county.\nThis was an action on a guaranty by defendant \u201cof John Smull\u2019s notes, payable to John Eckel, for $304.\u201d\nThe plaintiff proved two notes drawn by Smull to the order of John Snevily, of the same date with the guaranty, and in the aggregate amounting to $304. He then gave evidence that they were transferred to' plaintiff, and that defendant had admitted he had guarantied these notes.\nThe court refused to permit the plaintiff to read the notes to the jury, and this was the error assigned.\nRawn, for plaintiff in error.\nThe question is one of identity. If the notes were those referred to, they are payable to Eckel, since he was the holder, 1 W. & S. 208; 3 lb. 272.\nKunkle, cont\u00f3."
+  },
+  "file_name": "0501-01",
+  "first_page_order": 501,
+  "last_page_order": 502
+}

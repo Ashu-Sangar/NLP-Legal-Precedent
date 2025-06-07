@@ -1,0 +1,91 @@
+{
+  "id": 957817,
+  "name": "Leech v. Agnew",
+  "name_abbreviation": "Leech v. Agnew",
+  "decision_date": "1847-09-29",
+  "docket_number": "",
+  "first_page": "21",
+  "last_page": "22",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 21"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Rawle, 269",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820602
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/2/0269-01"
+      ]
+    },
+    {
+      "cite": "2 Dall. 197",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11741479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/2/0197-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 4893,
+    "ocr_confidence": 0.378,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.4352213198530107
+    },
+    "sha256": "8ec40ec16a95b228044ebcba50d53ec9a94716fef9070d1fb9d5f3da97012a21",
+    "simhash": "1:8e8572a4ec44e020",
+    "word_count": 867
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leech v. Agnew."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe son of the equitable plaintiff below had been bound apprentice, with the assent of his guardian, signified by sealing the indenture, to the defendant, in order to be taught the art and mystery of a glass-blower; the master covenanting to pay him $10. the month for the first year, and half the wages of a journeyman for the rest of the term. He covenanted, also, to pay the plaintiff, his mother, for boarding him while the first fire should he out \u2014 that is, the first intermission of the business, to prepare the furnace for the resumption of it \u2014 provided she would send him to school during the interval. There was no other covenant for maintenance; but, appended to the indenture was something like a declaration of trust, sealed by the master, the apprentice, and the guardian, which imported that the wages coming to the apprentice were to be paid to his mother; and the question is, whether it vested a right in her which can be enforced by action.\nIn recompense of the duty of maintenance, a father is entitled to his child\u2019s earnings, and may dispose of them: a mother, being held to no such duty, is not entitled to its correlative. Neither has a guardian such a right. He may assent to his ward\u2019s apprenticeship, but may not hire him out for the guardian\u2019s benefit. Indeed it was gravely doubted, in Respublica v. Keppele,2 Dall. 197, whether a father could sell the services of his child; and it was directly decided that he could not bind him merely as a servant. Though the doubt rests on the dictum of a single judge, it is barely just to say that no lawyer stood higher in the profession, among the men of his day, than Mr. Justice Bradford. Nor, as was held in Veld\u00e9 v. Severing, 2 Rawle, 269, is a guardian who has signed and sealed, party to his ward\u2019s indenture, or bound by the covenants in it. His joinder, in this instance, is to be laid out of the ciase, as he had no interest to transfer or control; and what operation had the apprentice\u2019s proper act to transfer the beneficial ownership of his earnings ? When an infant\u2019s contract is in its nature beneficial to him, it binds him in infancy and at age: when prejudicial, it is absolutely void from the beginning. This is a rudimental principle : and what was the legal effect of this contract on the apprentice\u2019s interest ? Neither his master nor his mother was bound to maintain him: the master, because he had not covenanted to do so; and the mother, because the law had not cast the burden of it on her. He had then, for all exigencies, his $ 10 a month during the first year, and his half wages\u2019 the rest of the term \u2014 a provision barely sufficient for necessaries. And he agreed to give it away for no appreciable consideration! The impulses of a mother would restrain the donee from turning him out of doors; but in the interpretation of contracts, we have to deal only with legal obligations. Had she added to the gift an engagement to maintain him, as an equivalent, the contract might have been deemed a beneficial one; but as she did not, it was void.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "McOandless, for plaintiff in error.",
+      "Woods and Williams, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Leech v. Agnew.\nThe guardian is no party to the covenants' in an indenture of apprenticeship, though he has sealed the deed.\nAn agreement by a minor for the payment of his wages to his mother \u2014 -without any consideration moving from her \u2014 is void.\nAn agreement in an indenture of apprenticeship that the wages agreed to be paid to the apprentice should be paid to his mother, not party to the instrument, nor making any agreement in consideration thereof, cannot be enforced , in her favour by an action brought in the name of the apprentice and guardian who sealed the indenture.\nIn error from the District Court of Alleghany.\nLeech and J. Agnew brought covenant on indentures of apprenticeship to the use of Catherine Agnew. \u2014 The case was this. In Nov., 1833, Leech as guardian, J. Agnew as apprentice, and defendant as master, sealed an indenture of apprenticeship, whereby - defendant covenanted to teach Agnew the trade of a glass-blower, and to pay Agnew $10 a month until a certain day; and for the residue of the term the half of a journeyman\u2019s wages. He further covenanted to pay the boarding of the apprentice \u201c during the time the first fire is out,\u201d providing his mother would send him to school during that time.\nBy an under-written agreement, sealed by the same parties, it was covenanted that the wages of said J. Agnew should be paid to his mother during the term of his apprenticeship.\nAfter the apprentice came of age, the master settled with him for all that could be claimed by the apprentice under the indenture.\nThe court directed a verdict for the amount remaining due to Catherine, the mother, which had not been paid to her or her son -with her consent. Subsequently, judgment non obstante was entered for defendant.\nMcOandless, for plaintiff in error.\nWoods and Williams, contra.\nSept. 29."
+  },
+  "file_name": "0021-01",
+  "first_page_order": 21,
+  "last_page_order": 22
+}

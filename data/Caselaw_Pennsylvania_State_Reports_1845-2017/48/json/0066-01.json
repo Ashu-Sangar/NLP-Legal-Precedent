@@ -1,0 +1,66 @@
+{
+  "id": 422198,
+  "name": "Hughes versus The Commonwealth",
+  "name_abbreviation": "Hughes v. Commonwealth",
+  "decision_date": "1864-06-22",
+  "docket_number": "",
+  "first_page": "66",
+  "last_page": "68",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 Pa. 66"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 268,
+    "char_count": 4219,
+    "ocr_confidence": 0.463,
+    "pagerank": {
+      "raw": 6.699463798851951e-08,
+      "percentile": 0.4070216062789761
+    },
+    "sha256": "14f8f740ecd3e44e8c86b98fdadd8670c3d3aaa29204f5f2ec1523032f490e35",
+    "simhash": "1:aa5297f4c79f1fbe",
+    "word_count": 746
+  },
+  "last_updated": "2023-07-14T20:42:36.914875+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hughes versus The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, C. J.\n\u2014 The Act of 15 th April 1834, relating .to county treasurers, Purd. p. 211, requires of these officers two bonds with sureties, one of which is a bond to the county, conditioned for a faithful discharge by the treasurer of the duties of his office, \u201c and for a just account of all moneys that may come into his hands on behalf of the county,\u201d the other \u00e1 bond to the state, conditioned \u201c for the faithful discharge of all duties enjoined upon him by law in behalf of the Commonwealth, and for the payment according to law of all moneys received by him for the use of the Commonwealth.\u201d\nBenjamin Christ, as treasurer of Schuylkill county, gave the two bonds, but with different sureties. Hughes was one of his sureties in the state \u25a0 bond, but was not in the county bond. Christ became a defaulter to the state in more than a thousand dollars, but $998.99 of his indebtedness was for \u201cstate tax on real and personal estate,\u201d and Hughes, now sued for his whole default to the state, takes defence against this particular item for state tax, on the ground that under the 40th section of the Revenue Act of 1844, Purd. 954, it had become a debt against the county, for which the state should look to the county, and the county to the sureties in the county bond.\nWe cannot accept this view. It is quite certain that under the legislation referred to, the county is the debtor of the state for the interest accrued and accruing upon the taxes in question, and possibly for the principal too, as intimated in the case of The County of Schuylkill v. The Commonwealth, 12 Casey 535, but this in nowise works a release of the sureties on the state bond. The Commonwealth, like other creditors, ought to be at liberty to accumulate securities for moneys due her, and ought not to be held to have but one because she had got another. Hughes\u2019s liability, by virtue of his bond, is clear. The money he is called on to answer for, was received by his principal \u201c for the use of the Commonwealth,\u201d and therefore he must respond. If the county is also liable to the state for the same money, it may be a reason for Hughes calling upon the county for contribution, or indemnity, but it is no answer to the state\u2019s action on the bond she holds. A creditor who has several debtors for the same money may collect it from either, and leave them to adjust equities betwixt themselves.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "F. C. Hughes, for plaintiff in error.",
+      "William M. Meredith, Attorney-General, for the Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "Hughes versus The Commonwealth.\nLiability of surety of county treasurer for state taxes.\nA surety on the state bond of a county treasurer is liable for taxes on real and personal property received by him for the use of the Commonwealth and not paid over: and though the county is the debtor of the state for interest accrued and accruing on, and possibly for the principal of such taxes, the surety cannot require the state to look to the county, and it to the sureties on the county bond.\nError to the Common Pleas of Dauphin county.\nThis was an action of debt by the Commonwealth of Pennsylvania against Francis W. Hughes, a joint and several obligor with Michael Weaver and Moses Weiser, as sureties on the official bond of Benjamin Christ, late treasurer of Schuylkill county.\nTo a declaration in the usual form, with a copy of the bond, the defendant filed an affidavit of defence, in which he averred: \u201c That the balance of account or settlement made up by the auditor-general and state treasurer against Benjamin Christ, late treasurer of Schuylkill county, embraced the sum of $998.99 of tax on real and personal property, assessed for state purposes, according to the provisions of the Revenue Act of 1844, and its several supplements, in the county of Schuylkill.\u201d\nDecember 8th 1859, on motion of the attorney-general, the court entered judgment against the defendant for want of a sufficient affidavit of defence for $1788.32. December 19th 1859, on motion of the defendant, a rule was granted to show cause why the judgment should not be taken off, which was discharged September 3d 1862, and this was the error assigned here by the defendant.\nF. C. Hughes, for plaintiff in error.\nWilliam M. Meredith, Attorney-General, for the Commonwealth.\nJune 22d 1864,"
+  },
+  "file_name": "0066-01",
+  "first_page_order": 66,
+  "last_page_order": 68
+}

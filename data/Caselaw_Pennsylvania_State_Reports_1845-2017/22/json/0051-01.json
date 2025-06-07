@@ -1,0 +1,103 @@
+{
+  "id": 413705,
+  "name": "Bloomer versus Reed",
+  "name_abbreviation": "Bloomer v. Reed",
+  "decision_date": "1853",
+  "docket_number": "",
+  "first_page": "51",
+  "last_page": "54",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Pa. 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Whar. 263",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wharton 261",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830463
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0261-01"
+      ]
+    },
+    {
+      "cite": "2 Wharton 261",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830463
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/2/0261-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 397,
+    "char_count": 7940,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 2.1422830214247516e-07,
+      "percentile": 0.767376785287482
+    },
+    "sha256": "a73ea567b50699eb42e93c3ddf9adab35fd7a6da108b7d9ee9debb9cc1349cc6",
+    "simhash": "1:c2261e99d71937ff",
+    "word_count": 1355
+  },
+  "last_updated": "2024-02-27T20:47:09.354529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bloomer versus Reed."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered September 27, by\nKnox, J.\nReed and McCoombs, defendants in error, brought an action of debt in the District Court of Allegheny, to recover the amount of a bond given by the plaintiff in error, Bloomer.\nThe defendants in the action filed an affidavit of defence within the time allowed by the rules of Court, which was deemed insufficient by the plaintiffs, and they obtained a rule to show cause why judgment should not be entered notwithstanding the affidavit.\nAfter an argument on the rule, but twenty days before its determination by the court, the defendants filed a supplementary affidavit, which discloses a substantial defence, and which would preclude the judgment if the court were bound to receive it.\nThe District Court refused to permit the supplemental affidavit to be filed, and made the rule for judgment absolute.\nThe object of the rule requiring affidavits of defence, and that the nature of the sain\u00e9 shall be specifically set forth, is to prevent unnecessary delay; but to prevent delay is not the sole object of courts of justice. Defendants have rights as well as plaintiffs, and whilst justice should be administered promptly it should be done, whenever practicable, without deprivation of right. To delay justice is an evil\u2014to deny it, is a greater evil.\nIn the supplementary affidavit the defendant\u2019s agent states that by inadvertence he had omitted to set forth his grounds of defence fully in the original one. Was this mistake irremediable? The court below thought it was, and gave judgment for the entire amount of the plaintiff\u2019s claim, notwithstanding the allegation under oath, that defendants\u2019 set-off would extinguish the whole of it. There is no feature in our system of pleading, which is more generally approved than that authorizing amendments in any stage of a cause. It commends itself to the minds of all persons as eminently calculated to promote the ends of justice, and its spirit may be safely infused into the preliminaries of judicial proceedings not strictly within the letter of the statute regulating the formation of issues. The rule of court under which this judgment was entered declares' \u201c That the plaintiffs may enter judgment by default any time after the return-day and ten days\u2019 service\u2019 of' the writ, provided he has filed a declaration, unless the defendant should have previously filed an affidavit of defence,\u201d &c. Without doing violence to the language of this rule, the word \u201c previously\u201d may be referred to the entry of judgment rather than the time when it might have been entered. But admitting the contrary construction, the rule nowhere prohibits the filing of an affidavit after the ten days have expired from the service; nor does it authorize a judgment after a sufficient affidavit has been filed.\nA defendant has a certain time to enter bail to stay an execution upon a judgment, and if not entered within the period an execution may issue; but if prior to its issue the hail is entered, although beyond the time, the writ cannot go forth. So in the present case. The plaintiff was entitled to a judgment for want of a sufficient affidavit within ten days from the service of the writ; hut if the affidavit was actually made and filed before the judgment was obtained, it was in time to save the default, and prohibit the summary action of the court.\nIn the case of West v. Simmons, 2 Wharton 261, an affidavit of defence was filed, and a rule was obtained for judgment notwithstanding the affidavit, and pending the rule the defendant placed in the prothonotary\u2019s office a supplemental affidavit; it was held that such affidavit was admissible, and, if sufficient, that judgment ought not to be entered against the defendant.\nThe only variance between the facts of that case and this is, that there the affidavit was filed before the argument on the rule for judgment, and here after the argument was heard, but twenty days before the rule was determined.\nWe can perceive no substantial difference; and upon the authority of that case, as well as upon principle, we are of the opinion, that whenever a sufficient affidavit of defence is offered before a judgment has actually been entered, it is the duty of the court, to receive the affidavit, and permit the cause to go to trial in the ordinary manner.\nJudgment reversed and procedendo awarded.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Stanton, for plaintiff in error.",
+      "Geyer, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bloomer versus Reed.\nThough a rule of Court authorized the plaintiff to enter judgment by default, any time after the return day and ten clays\u2019 service of the writ, provided he has filed a declaration (if one be necessary), notwithstanding an appearance by attorney, unless the defendant should previously have filed an affidavit of defence, stating therein specifically and at length the nature and character of the same; it was Held, that a supplemental affidavit stating a sufficient defence, was entitled to be filed at any time after the argument of the rule for judgment, and before judgment had been entered.\nError to the District Court of Allegheny County.\nThis was an action of debt to January Term, 1853, by Robert M. Reed and Thomas McCombs against Elisha Bloomer, on a bond.\nA declaration was filed, and an affidavit of plaintiff\u2019s attorney, as to the amount due, was filed at the time of the issuing of the writ.\nOn 6th January, 1853, an affidavit of defence was filed. On 8th January, on part of the plaintiffs a rule was obtained to show cause why judgment should not be entered for want of a sufficient affidavit of defence. It appeared that after the argument of the rule but before the decision upon it, viz. on the 29th January, 1853, a supplemental affidavit of defence was filed.\nFebruary 19, the Court, after argument, refused to permit the supplemental affidavit to be filed, and the rule for judgment was made absolute.\nThe 66th rule of Court, sec. 2, was as follows:\n\u201c In all actions hereafter in the Court, on bills, notes, bonds, or other instruments of writing for the payment of money, or book accounts; in all actions on contracts, for the loan or advance of money, whether the same be in writing or not; in actions of seire facias, and on liens of mechanics and material men (under the Act of 17th March, 1836, and the various supplements thereto), and in all actions of debt or scire facias on recognisances, judgments, or other records,\u2014the plaintiff may enter judgment by default, any time after the return day and ten days\u2019 service of the writ, provided he has filed a declaration (if a declaration is necessary), and provided the writ has been duly served\u2014notwithstanding an appearance by attorney, unless the defendant should previously have filed an affidavit of defence, stating therein specifically and at length, the, nature and character of the same. Provided, That in all such cases no judgment shall he entered by virtue of this rule, unless the said plaintiff shall file with his precipe, in the office of the Prothonotary of the said Court, an affidavit, stating the amount verily believed to be due from the defendant, and a copy of the instrument of writing, book entries, record or claim, or a statement or specification thereof (if the same be not in writing), except mortgages, mechanics\u2019 liens, and recognisances, or other records of this Court, on which action has been brought.\u201d\nError was assigned to the refusal to allow the supplemental affidavit to be filed, and to the rendering judgment.\nStanton, for plaintiff in error.\nThe case of West v. Simmons, 2 Wharton 261, was referred to as authority for receiving the supplemental affidavit. Also the case of Riley v Bullock, 2 Whar. Dig. 434; 1 Troubat & Haley, 328; 4 Barr 495, Hill v. Gaw, Id. 332.\nGeyer, for defendants in error.\nIt was, inter alia, intimated that the supplemental affidavit in this case was not filed till after the argument of the rule to show cause ; whereas, in the case of West v. Simmons, 2 Whar. 263, it was filed before the hearing of the motion."
+  },
+  "file_name": "0051-01",
+  "first_page_order": 53,
+  "last_page_order": 56
+}

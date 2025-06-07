@@ -1,0 +1,79 @@
+{
+  "id": 977246,
+  "name": "Burr versus Burr",
+  "name_abbreviation": "Burr v. Burr",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "284",
+  "last_page": "286",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Jones 264",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 264",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 361,
+    "char_count": 6583,
+    "ocr_confidence": 0.41,
+    "pagerank": {
+      "raw": 6.244203015256702e-07,
+      "percentile": 0.9575123877878594
+    },
+    "sha256": "b082d2ee1ba6305ab053d8c99b58c229f0b661c6e444f2087645aad0034be2b2",
+    "simhash": "1:aa3a53e60bbdb6cf",
+    "word_count": 1156
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Burr versus Burr."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nThe constructive acknowledgment of a debt arising from part payment within six years before suit brought, is sufficient from which to infer a promise to pay. But this inference cannot be made until the part payment is clearly established. Even where the acknowledgment is express, instead of constructive, or the promise direct, rather than inferential, no ambiguity or uncertainty in the one or the other can be tolerated. True, it was said in Hazelbaker v. Reeves, 2 Jones 264, and Davis v. Steiner, 2 Harris 275, that if the acknowledgment of the existence of a debt is clear, distinct, and unequivocal, the extent and form of the debt need not be stated in the acknowledgment, but may be proved in the same manner as though the statute had not been pleaded. These cases are scarcely to be reconciled with other adjudications by this court, upon the same point, and were not allowed the force of authority either in Suter v. Sheeler, 10 Harris 309, or in Shitler v. Bremer, 11 Harris 413. The better rule undoubtedly is, that the acknowledgment must not only be clear, distinct, and unequivocal of the existence of a debt, but that it must also be plainly referable to the very debt upon which the action is based. It matters not where the uncertainty lies, whether in the acknowledgment or in the identification, its existence is equally fatal to the plaifitiff\u2019s recovery.\nTake the case in hand for an illustration of the principle. There is a statutory bar to the plaintiff\u2019s cause of action; to remove this bar, she relies upon a promise to pay within six years before the commencement of the suit. To sustain the promise, she neither gives evidence of an express agreement to pay, nor of a direct acknowledgment that the debt was unpaid; but from a small payment of interest, a constructive acknowledgment is to he inferred, and upon this constructive acknowledgment, the promise to pay is based. Let it be so; but let it first be shown that this payment of interest was made upon the note in suit. This is the very corner-stone of the superstructure, and if it has any inherent-weakness, the action cannot be supported by it. And here we are compelled to say, that the evidence was too vague and uncertain, to establish a partial payment of the note in question. The note was not present, nor was it referred to by date, amount, or in any manner whatever. \u201c Can thee let me have a little interest money on that note which I hold of thine?\u201d says the mother. On what note? The one in suit? This is mere conjecture. It is said, that in the absence of evidence that there was any other note given by the son to the mother, the presumption is that this is the one upon which the payment was made. When it is recollected that this suit was commenced after the decease of the maker of the note, against his administratrix, it is apparent that the absence of evidence proving the existence of another note or notes, does not clearly show that none such were in existence two years before the intestate\u2019s decease. The burden was upon the plaintiff to prove clearly and distinctly that a partial payment was made upon the note sought to be recovered, within six years from the commencement of the action. Failing in this, the jury should have been directed to find for the defendant. We are of opinion that the plaintiff\u2019s evidence was not sufficiently clear and unambiguous to authorize the jury to find that the payment was made upon the note in suit. The District Court erred in entering judgment upon the point reserved in favour of the plaintiff. The judgment should have been for the defendant, as there was no evidence of identity to submit to the jury.\nThe judgment of the District Court in favour of the plaintiffs is reversed, and judgment is here entered for defendant with costs.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "J. A. Phillips, for plaintiff in error.",
+      "J. M\u2019Intyre for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Burr versus Burr.\nThe constructive acknowledgment of a debt arising from part payment within six years before suit brought, is sufficient from which to infer a promise to pay: but to support such inference the part payment must be clearly established.\n\"Where the part payment from which the promise is sought to be inferred is not plainly referable to the debt upon which the action is based, it will not take the case out of the statute.\nAny uncertainty, whether in the acknowledgment or identification of the debt, is fatal to the plaintiff's recovery.\nThe authority of the cases of Hazelbaker \u00bb. Reeves, 2 Jones 264, and Davis v. Steiner, 2 Harris 275, doubted.\nError to the District Court of Philadelphia.\nThis was au action of assumpsit brought by Martha Burr against the administratrix of her deceased son, Israel R. Burr, upon a promissory note, of which the following is a copy:\n\u201cPhiladelphia, May 29, 1832.\nu\n\u201c Three hundred and sixty-five days after date, I promise to pay Martha Burr, four hundred dollars, or the interest thereof yearly, at six per cent.\n(Signed.) Israel R. Burr.\u201d\nThe defendant pleaded the statute of limitations, and the principal question in the case is, whether the evidence submitted by the plaintiff was sufficient, if believed by the jury, to avoid the bar of the statute ?\nMary Penny, the daughter of the plaintiff, and the sister of the defendant, was the only witness examined. She testified as follows:\n\u201c I knew decedent, he was my brother; plaintiff is my mother. About two years before his death, I was present at an interview between him and my mother, at my daughter\u2019s residence, Walnut street, above Eighth. Mother was making a visit to me and my daughter. In the meantime, brother Israel came to see us. Mother says, \u2018 Israel, can thee let me have a little interest money on that note which I hold of thine?\u2019 He said, \u2018How much would thee like, mother ?\u2019 She said, \u2018 Four or five dollars,\u2019 and he gave her seven. He said, \u2018 Is that sufficient ?\u2019 She said, \u2018 It is for the present.\u2019 They had a conversation at the same time, but I don\u2019t recollect what it was. I was very ill at the time; I was confined to my bed in the second story back room in my chamber; the conversation took place there.\u201d\nIsrael Burr, the maker of the note, died in September, 1851.\nThe learned judge of the District Court, reserving the point as to the sufficiency of the evidence, charged the jury, that if they believed the evidence, the plaintiff was entitled to recover; and the jury returned a verdict for the amount claimed to be due on the note, $400 principal, and $322 interest, upon which verdict judgment was entered for the plaintiff.\nJ. A. Phillips, for plaintiff in error.\nJ. M\u2019Intyre for defendant in error."
+  },
+  "file_name": "0284-01",
+  "first_page_order": 284,
+  "last_page_order": 286
+}

@@ -1,0 +1,95 @@
+{
+  "id": 415533,
+  "name": "Davis et al. versus The Commonwealth",
+  "name_abbreviation": "Davis v. Commonwealth",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "421",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 421"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall. 335",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408552,
+        12146440
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0352-01",
+        "/dall/1/0335-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 335",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408552,
+        12146440
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/1/0352-01",
+        "/dall/1/0335-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 436,
+    "char_count": 7899,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 1.3075276623708717e-07,
+      "percentile": 0.6236757432576185
+    },
+    "sha256": "8aa9938e276d00deb17c1bbb6bed30f30b218b2f441a9b1782275ac49b705359",
+    "simhash": "1:100537a1cf20dbb9",
+    "word_count": 1335
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Davis et al. versus The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\n\u2014 It would be impossible to construct a common law definition of malicious mischief which would include such dismantling of a building as is laid in this indictment.\nGenerally, malicious mischief is an injury to the rights of property, and the ownership of the property injured must be laid in the indictment. The precedents, both English and American, are so, and precedents are evidence of the law.\nBut cruelty to animals is in itself of evil example and a public offence. It is not only an assault on life, which, though that of a dumb beast, is nevertheless not beneath the protection of law, but it is also plainly indicative of a heart regardless of social duty, and fatally bent on mischief, and may therefore be punished by indictment, without regard to the ownership: Respublica v. Teischer, 1 Dall. 335.\nInanimate property, however, can be injured only in the title, and hence, when this is the subject of indictment for malicious mischief, the right of possession or of property must be laid in somebody. This indictment does not so lay the property, nor 'even negative the ownership of the defendants. For aught that is charged, the defendants themselves may have been the proprietors and owners of the building, and if they were, it will scarcely be pretended that the removal of the stove and windows subjected them to the pains and penalties of malicious mischief. The allegation that the building had been used as a school-house and a place of public worship is not inconsistent with the defendants\u2019 ownership, nor with their right to unfit it for further uses of that sort. If they improperly disturbed religious meetings, they were punishable under our Act of 16th March 1847. If they tumultuously dismantled even their own house to the breach of the public peace, they might have been indicted for a riot. But if they merely exercised the dominion of proprietorship over their own property, the laying it to have been done \u201c with force and arms, unlawfully, wilfully, wantonly, and maliciously,\u201d does not make it a public offence. The corpus delicti is wanting in this indictment, and formal phrases and qualifying adverbs cannot supply it. It should have appeared with convenient certainty, that what was charged, had been done to the injury of some rights of property, other than their own. For the want of this, the indictment was radically defective and the conviction and sentence erroneous.\nThe judgment is reversed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Little and Post, for the plaintiffs in error.",
+      "Bentley and Fitch, for the Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "Davis et al. versus The Commonwealth.\nInanimate property can be injured only in the title; and hence, when the subject of a prosecution for malicious mischief, the ownership of the property injured must he laid in the indictment.\nError, to the Quarter Sessions of Susquehanna county.\nThis was an indictment, in the court below, against Levi Davis, Hiram Stevens, and Solomon Lott, for malicious mischief. The indictment was as follows:\u2014\n\u201c Susquehanna County, ss :\n\u201c Of April Session, in the year of our Lord 1857.\n\u201cThe grand inquest of the Commonwealth of Pennsylvania, now sitting and inquiring for the body of the county of Susquehanna, upon their oaths and affirmations, respectively, do present, that Levi Davis, late of said county, yeoman; Hiram Stevens, late of said county, yeoman; and Solomon Lott, late of said county, yeoman \u2014 being evil disposed and malicious persons, on the 27th day of March, in the year of our Lord 1857, in the township of Lenox, and county of Susquehanna aforesaid, and within the jurisdiction of this court, with force and arms, unlawfully, wilfully, wantonly, and maliciously, did remove, take, and carry away, a certain stove, belonging to and being in a certain building, erected by the proprietors thereof, for a school-house, and for the worship of Almighty God therein, situate in said township of Lenox, and couDty aforesaid; and then and there unlawfully, wantonly, wilfully, and maliciously, did take out, remove, and carry away, certain window-sashes, with glass therein, belonging and attached to the said building; and then and there, unlawfully, wilfully, wantonly, and maliciously, did close up the windows of the said building and the door thereof, the said building then and there, and having for many years before that time been a house, used and occupied as a place for holding religious meetings, and for the worship of Almighty God; they, the said Levi Davis, Hiram Stevens, and Solomon Lott, meaning and intending by the removal of the said stove from the said building, and by taking out and carrying away the window-sashes and glass therefrom, and by closing up the windows and the door thereof, to prevent holding of religious meetings, and the worship of God therein; to the great damage and common injury and disquietude of neighbours and others who had been accustomed to attend religious meetings, and the worship of God therein, to the evil example of all others in like case offending, and against the peace and dignity of the Commonwealth of Pennsylvania.\u201d\nThe defendants were tried on this indictment, on the 9th April 1857, and having been found guilty, filed the following reasons in arrest of judgment:\u2014\n1. The indictment in this case is without a precedent, either in English or American jurisprudence, and is defective both in form and in substance; as it sets forth no offence punishable by indictment, either at common law, or under any statute in force in Pennsylvania. The injury described, if any, being a simple trespass, and only to be redressed by civil remedies.\n2. The indictment is fatally defective in not distinctly averring who were the owners and proprietors of the building alleged to have been closed up, &c., by the defendants. Whether used for public or private purposes, the ownership resided somewhere, and should have been stated. For aught that appears by the indictment, the defendants themselves were the sole and exclusive owners of the house, and no other individuals, nor the public, had any right to use the house for religious meetings, or any other purpose.\nThe court below overruled the motion in arrest of judgment, and sentenced the defendants, Davis and Stevens, to pay a fine of $5 each, and the costs of prosecution. They thereupon obtained this writ of error, and here assigned for error: 1. That the indictment was defective. 2. That the court below erred in overruling their motion in arrest of judgment.\nLittle and Post, for the plaintiffs in error.\n\u2014 This indictment is deficient in certainty: 2 Hale P. C. 169; 1 Chit. C. L. 169; 4 Bl. Com. 396; Rex v. Horne, Cowp. 682; 5 T. R. 611-23; Cro. Eliz. 490; Cro. Jac. 20; 2 Burr. 1127; 2 M. & S. 381; Cald. 187; Whart. C. L. 78; 4 Bl. Com. 306, n.; 1 T. R. 69; 1 Chit. C. L. 173. To constitute the offence of malicious mischief, there must be an owner, and his name should be set forth: Whart. Prec. 10, 212, 213; Arch. C. Pl. 32-3; Reg. v. Stroud, C. & K. 187. A motion in arrest of judgment is never too late, before final sentence: 1 Chit. C. L. 455; Commonwealth v. Tilghman, 4 S. & R. 127.\nBentley and Fitch, for the Commonwealth.\n\u2014 The indictment sets forth that1 the act complained of was done unlawfully, wilfully, wantonly, and maliciously, for the purpose of preventing the holding of religious meetings, and the worship of God therein, to the great damage and common injury and disquietude of neighbours and others, who had been accustomed to attend religious meetings and the worship of Grod therein; and the jury found, under the evidence, that the above allegations were all.true; and if true, it makes no difference who the proprietors of the house were, or whether there were any proprietors at all. The gist of the offence is, not that the proprietors were injured in their property, but that it was a public evil example, and against good morals. There is a great variety of such cases: Respublica v. Teischer, 1 Dall. 335."
+  },
+  "file_name": "0421-01",
+  "first_page_order": 421,
+  "last_page_order": 424
+}

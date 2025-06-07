@@ -1,0 +1,133 @@
+{
+  "id": 400610,
+  "name": "Allegheny County v. Watt",
+  "name_abbreviation": "Allegheny County v. Watt",
+  "decision_date": "1846-09-21",
+  "docket_number": "",
+  "first_page": "462",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts, 290",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846869
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0290-01"
+      ]
+    },
+    {
+      "cite": "2 Serg. & Rawle, 195",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Johns. 352",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts, 247",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842710
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0247-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle, 106",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820603
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0106-01"
+      ]
+    },
+    {
+      "cite": "1 Serg. & Rawle, 506",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 290",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846869
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0290-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 497,
+    "char_count": 10551,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 4.405681707742303e-07,
+      "percentile": 0.9200551846845125
+    },
+    "sha256": "8aa663f0a4003d689f242d287bbd0139a97afab8d31a2a3bad594bcbc3d74090",
+    "simhash": "1:85d3d32d1512aed8",
+    "word_count": 1839
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allegheny County v. Watt."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nHad the plaintiff below attended merely as a witness, though as an expert, he would have been entitled to nothing; for as the law provides no compensation for witnesses summoned by the coroner, they must give their attendance gratis; and to allow the plaintiff, as a wdtness, even the compensation allowed to witnesses in other cases, would be an infraction of the fee-bill. But he was not called as a witness. When the testimony before the inquest was closed, it seems the jurors, being unable to agree as to the cause of the death, requested a post mortem examination, which was made by the plaintiff in their presence, who dispelled their doubts by the application of chemical tests to the contents of the stomach. In this he performed, not the office of a witness, but the business of a \u2022 person employed in a particular service. The coroner might have compelled him to swear to his opinion on a 'superficial view of the body; but he could not have compelled him to touch it, or do the more nauseous and dangerous work of opening it. The service he performed, though ancillary to the purpose of the inquest which could not have been Effected without it, was not official and consequently not in the contemplation of the legislature at the framing of the fee-bill; so that compensation for it is neither enjoined nor prohibited by that, or any other statute. But though spontaneously rendered, both justice and policy require it to be paid for by the county if it was rendered at the public instance and request; and the question is, whether the coroner, as a public agent, had authority to employ the plaintiff at the public charge. That officer certainly has authority to pledge the responsibility of the county for the compensation of all ancillary services which are necessary to the proper execution of his office, and which he could by no other means command. When his duty requires him to disinter a body, for instance, he cannot be expected to do it with his own hands, or by hands paid for with his means. True, he is entitled to fees, but not for mercenary services; and what he does receive is given for particular acts of official duty ; not as a fund for contingent expenses. To the taking of every inquisition super visum corporis, perhaps without exception, a post mortem examination is indispensable; and as the fees of the coroner would be inadequate to the expense of it, were he willing to forego compensation for his own services, either the public purse must pay for it, or the administration of public justice must suffer for the want of it. And why should not the county pay for it ? On the principle of the Commissioners v. Hall, 7 Watts, 290, the county would be liable for the medical treatment of a prisoner taken ill upon trial, or of a juror in the box; and it would be strange if it should not be equally liable for professional services in the administration of criminal justice, by the coroner, who is also a judicial magistrate, and competent, at the common law, though the power has been taken away by statute, not only to receive accusations but to try them. Even prisoners in county jails are provided with medical treatment, though the statute does not expressly direct them to be provided with any thing but clothing and food: yet they are supplied with bedding, fuel, and all other comforts proper for their condition. There are a thousand contingent items of expenditure which cannot be disposed of specifically in a fee-bill, or by special appropriation, and which must necessarily be charged to the account of humanity or justice. The coroner, in this case, had as much authority to order a post mortem examination at the public charge, as the court had to order lodging and boarding for the jury in the Commissioners v. Hall. Each was employed in taking an inquisition of death, and each had the same collateral power in things incidental to the office. The plaintiff having been employed by the coroner, was employed by the county; and he is entitled to a reasonable compensation. Judgment affirmed,",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Todd and Woods, for plaintiff in error.",
+      "Mellon, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Allegheny County v. Watt.\nIn taking an inquisition of death, super visum coyyoris, the coroner, as a public agent, has authority to order a post mortem examination at the public charge; and the physician or surgeon employed by him, to perform such service, as employed by the county, and is entitled to a reasonable compensation from the county, for his services.\nError to the Common Pleas of Allegheny county.\nSeptember 14. This was an appeal from the judgment of a justice of the peace, in assumpsit brought by George Watt, the defendant in error, who was a physician, against the county of Allegheny, the plaintiff in error, to recover a compensation for professional services rendered, in making a post mortem examination, as to the causes of death, in two cases, at the request of the coroner. The justice gave judgment for $30, in favour of the plaintiff; when the defendant appealed to the Court of Common Pleas.\nBy consent of the parties, all matters of fact, in controversy in this case, were submitted to referees. The questions of law arising upon the facts were reserved for the decision of the court. The report of the referees, setting forth the facts found by them, was to have the effect of a special verdict; and the court was to proceed thereupon, in like manner as upon a special verdict. Either party was to have a writ of error to the judgment entered thereupon, as in the case of a judgment entered upon a special verdict. The referees made the following report, in which all the facts, as given in evidence, are stated.\n\u201c On the 25th September, 1844, a coroner\u2019s inquest was held upon the body of Eliza Abbot, found dead in Pittsburgh. The jury could not agree as to the cause of the death, and refused to come to any decision, until a physician was called, and a post mortem examination made of the body, and requested that it. might be done. \u2022 The coroner, Mr. Hartz, called on Dr. Watt, the plaintiff in this case, and requested him to attend. Dr. Watt went to the place, and made a post mortem examination, employing chemical tests, to ascertain 'the presence of poison in the body of the deceased. He then gave satisfactory evidence before the jury, and they thereupon returned a verdict.\n\u201cIn March, 1845, a coroner\u2019s inquest was also held upon the body of Jane Bard, found dead in Pittsburgh. The jury, in this case also, were unable to agree as to the cause of the death, and requested a post mortem examination of the body be made by a physician. The coroner, Mr. Hartz, again called in Dr. Watt, the plaintiff, who went to the place, and made a postmortem examination of the body, and then gave satisfactory evidence before the jury, upon which, they rendered a verdict.\n\u201c The plaintiff seeks in this case to recover from the defendant, compensation for the above-mentioned services.\n\u2018\u2018 Upon the above state of the facts, if the court should be of opinion that the plaintiff is entitled to recover, the undersigned then find and award for the plaintiff, the sum of thirty dollars, ($30 00,) with costs of suit; but if the court should be of opinion, that the plaintiff is not entitled to recover, we then find, and award for the defendant, with costs of suit.\u201d\nThe court (Patton, President) directed judgment to be entered for the plaintiff, on the award filed.\nThe defendant, thereupon, removed the record to this court, by writ of error, and assigned the following errors:\n\u00ab1. That upon the state of facts found by the referees, the coroner, Mr. Hartz, had no authority, either express or implied, to make a contract with the defendant in error, for the performance of the services in said report mentioned, by which the county could be bound.\n\u201c 2. That the facts found by the referees do not raise any implied obligation on the plaintiff in error to compensate the defendant in error, for the services rendered by him. 1\n\u201c 3. That the court erred in rendering judgment for the defendant in error, whereas, under the facts reported, they should have entered judgment for the plaintiff in error.\u201d\nTodd and Woods, for plaintiff in error.\nThe single question here is, has a coroner the power to contract with a physician or surgeon for a post mortem examination as to the cause of death in cases of murder, suicide, manslaughter, or death caused by casualties ? This case was brought up by the commissioners for the purpose of ascertaining, definitely, their legal bounden duty in cases of this kind.\nIf the county have to pay a physician for such services, the commissioners should be consulted. They are the representatives of the county.\nUnder the act of the 31st January, 1833, Pamph. Laws, 21, the number of jurors and the fees to be paid each are regulated. This, together with the general fee bill of the 28th March, 1814, regulates the fees of the coroner and the jurors to be summoned by him. Physicians are nowhere recognised by law as entitled to fees or payment for services to be rendered in the discharge of the official duties of the coroner. Officers recognised by law, sheriffs for instance, have attempted to enforce payment for services not provided for by the fee bill, and their claims disallowed by this court. The county has a regular physician, who, if such services are to be paid for, is always at hand and fully competent to perform them. A physician is but a witness in such cases. We contend that the coroner has no such power. They cited Irwin v. Commissioners of Northumberland county, 1 Serg. & Rawle, 506; Commissioners of Mercer county v. Patterson, 2 Rawle, 106; Ward v. SajSpington, 4 Watts, 247, 10 Johns. 352.\nMellon, contr\u00e0.\nWhen a physician or surgeon is called upon professionally, by the coroner, to make an examination as to the cause of death, it is under the implied promise that he will be paid for his services. Wherever services, particularly of a professional character, are rendered by one, at the request of another, in the absence of an express agreement, there is an implied promise that these services are to be remunerated.\nA physician should, in such cases, be paid a reasonable compensation for his services. If it were otherwise, hard and unjust would be the case. It cannot and should not be the law, that he shall render important -and arduous services, for which he is not to be paid. The public are deeply interested in these examinations, and the representatives of the public should pay, or be authorized to pay, the individual making them. He cited 2 Serg. & Rawle, 195,7 Watts, 290.\nSept. 21."
+  },
+  "file_name": "0462-01",
+  "first_page_order": 460,
+  "last_page_order": 463
+}

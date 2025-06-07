@@ -1,0 +1,79 @@
+{
+  "id": 960760,
+  "name": "Sullivan v. Weaver",
+  "name_abbreviation": "Sullivan v. Weaver",
+  "decision_date": "1848-10-18",
+  "docket_number": "",
+  "first_page": "223",
+  "last_page": "224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 223"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Penn. Rep. 154",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        400551
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/3/0154-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 108,
+    "char_count": 1007,
+    "ocr_confidence": 0.413,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.518970990200587
+    },
+    "sha256": "532c73fefb7e9f554743591188796d43627fe8ee565d4b2c39d77f6ff10fb913",
+    "simhash": "1:3266460c3820e803",
+    "word_count": 177
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sullivan v. Weaver."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nFrom proceedings under the compulsory arbitration act, there is no remedy by writ of error. The act of Assembly gives a remedy by appeal, and appeal only. Such has been the uniform course of decision in this court. The cases on this subject are collected and reviewed by Mr. Justice Huston in Le Barren v. Harriott et al. 3 Penn. Rep. 154. In Brinter v. Ridenhour, not reported, it was held, after award for the plaintiff,- and no cause of action stated in the declaration, this court would not interfere. We can do nothing for the plaintiff in error. .\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Phelps, for plaintiff in error.",
+      "McOlure, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Sullivan v. Weaver.\nA writ of erre\u00ae does not lie to a judgment on an award under the compulsory arbitration act.\nIn error from the Common Pleas of Armstrong.\nThe plaintiff in this case entered a rule to choose arbitrators, who, having been chosen, filed their report. The defendant then sued out this writ of error, and assigned errors in the narr. and the award.\nPhelps, for plaintiff in error.\nMcOlure, cont\u00f3.\nOct. 18."
+  },
+  "file_name": "0223-01",
+  "first_page_order": 223,
+  "last_page_order": 224
+}

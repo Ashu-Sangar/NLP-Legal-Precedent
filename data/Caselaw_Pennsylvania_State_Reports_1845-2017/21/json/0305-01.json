@@ -1,0 +1,139 @@
+{
+  "id": 411532,
+  "name": "Parker versus Urie's Executors",
+  "name_abbreviation": "Parker v. Urie's Executors",
+  "decision_date": "1853-06-21",
+  "docket_number": "",
+  "first_page": "305",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 Pa. 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "18 Johnson 145",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Johnson 25",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Binn. 366",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791111
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0366-01"
+      ]
+    },
+    {
+      "cite": "10 Mass. 426",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2026914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/10/0421-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 163",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838024
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0163-01"
+      ]
+    },
+    {
+      "cite": "2 Whar. 24",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "44"
+        },
+        {
+          "page": "121-2"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 615,
+    "char_count": 13429,
+    "ocr_confidence": 0.408,
+    "pagerank": {
+      "raw": 1.4356832306115486e-07,
+      "percentile": 0.6521492179659896
+    },
+    "sha256": "ef8e279d938e313a17ed64ec13c3a5c7a0556f7e8e29382aba09944b847a99c1",
+    "simhash": "1:a3a6cb29318757fc",
+    "word_count": 2444
+  },
+  "last_updated": "2024-02-27T16:29:59.856508+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Parker versus Urie\u2019s Executors."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLewis, J.\n\u2014 Where one on his death-bed expresses a wish to his heir-at-law that certain persons, whom he names, shall receive of his estate specified articles and sums of money, as gifts from him, and the heir promises him that his request shall be fulfilled, the necessary implication is, that the promise is to be performed after the death of the promisee, and that the consideration is, that the promisor shall succeed to his estate under the intestate laws. The law implies this consideration from the facts, and it is not necessary to prove that the parties particularly expressed it in the contract. If the party to whom the promise was made, disposes of his estate so as to disinherit the heir, the latter would be relieved from the performance of his contract, not because there was no original consideration for it, but by reason of the failure of the consideration expected, and which formed the inducement to enter into the engagement. On the other hand, if the promisee, relying on the promise, make no other provision, by will or otherwise, for the objects of his bounty, but die intestate, thus leaving his estate to fall into the hands of the heir, to an amount greater than the specified donations, the heir is bound, in conscience and in law, to fulfil the contract. If the promise be made by a father to a son, the moral obligation is strengthened by reason of the existing relation, and the confidence which the one would naturally repose in the other. If the father afterwards, when seized with sudden illness, and about to die, away from his residence, and without the means of access to his papers, refers to a bond belonging to his son\u2019s estate, and not yet collected, and by parol assigns to the use of one of the persons so designated by his son on his death-bed, so much of the bond as will be sufficient to satisfy five hundred dollars, being the amount which was to he paid to him, and directs his executor, then present, to pay it, such assignment is upon sufficient consideration, and is valid, although not reduced to writing.\nIf the executors of the father afterwards collect the money due on the bond, the equitable assignee of the portion thus transferred, may maintain an action against them for money had and received to his use.\nUpon the facts stated on this record, the jury would he hound to draw the necessary inference respecting the consideration. They could properly draw no other than that herein stated; and where the parties have agreed upon the facts, and submitted the matter to the Court, upon the question \u201c whether the plaintiff is entitled to five hundred dollars of the money for which the bond was originally given,\u201d and neither party applies for a venire, we carry out their agreement by treating it, for this purpose, as in the nature of a demurrer to evidence. We therefore draw the proper inferences from the facts, without sending the cause hack to a jury, and enter a final judgment on the case stated.\nJudgment reversed, and judgment for plaintiff in error for five hundred dollars, with interest, from the 1st March, 1819, together with costs.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for plaintiff in error.",
+      "Sharpe, with whom was Henderson, contri!."
+    ],
+    "corrections": "",
+    "head_matter": "Parker versus Urie\u2019s Executors.\n1. A son, being on bis death-bed, expressed his desire to his father that a person designated should receive $500 out of his estate; and the father promised that this should be done, and the son died intestate and unmarried, the father being his heir. The father administered on the estate of his son,' charging himself with a bond for $800. Afterwards the father being absent from home, without access to his papers, and being about to die, requested one of his executors then present to pay out of the said obligation $500 to the person designated by the son, and in words transferred to him that amount of it, and the executors collected the $800. It was held that the person ' designated by the sou could maintain a suit against the executors for the recoveiw of the $500.\n2. Where in the case stated the facts were admitted, and the question whether the plaintiff was entitled to recover was submitted to the Court, and in the Common Pleas judgment was given for the defendants; the matter will be treated in this Court as a demurrer to evidence, and neither party asking a venire, this Court may draw a proper inference from the facts and enter a final judgment for the plaintiff on the case stated.\nError to the Common Pleas of Cumberland county. j\nThis was an amicable action in which James Parker, guardian of Thomas D. Parker, was plaintiff, and Richard Parker and Robt. C. Sterrett, as executors of the will of Thomas Urie, deceased, were defendants. The action was to be in the nature of a count for money had and received for the use of the plaintiff. The case to be tried without regard to the form of action or the proper joinder of parties, the money in question being considered to be in the hands of the defendants.\nThe following facts were agreed upon as a special verdict, with leave to either party to take out a writ of error without oath or bail.\nThomas Urie resided in Cumberland county, and owned a large amount of real and personal estate. Early in the year 1849 he lost a son by death who had always lived with him, and for many years attended to his business, and had been engaged also in business for himself, named Thomas Davidson Urie, who' died unmarried. The plaintiff, Thomas Davidson Parker, was called after this son, and was a relation. When. Thomas D. Crie was on his death-bed, he told his father, Thomas Urie, that he wished certain persons whom he named, to receive of his estate specified articles and sums of money as gifts from him. Among this number, he desired that Thomas Davidson Parker, having been named after him, should receive five hundred dollars. His father, Thomas Urie, promised him that his request should be fulfilled, and after the death of his son Davidson, took out letters of administration on his estate, and took possession of all his property. On the 17th March, 1849, he filed an inventory of the estate of his son, in which he charged himself, among other things, with a bond of David Miller, dated September 3d, 1847, for $800. All the gifts or bequests of Thomas D., made as aforesaid, were strictly carried out in accordance with the spirit of the request of the son and the promise of the father, during the father\u2019s lifetime, with the exception of the payment of the $500 to Thomas D. Parker, and he frequently expressed his intention of paying this. Thomas Davidson Urie\u2019s' estate was more than sufficient to pay all the gifts and bequests that he made.\nOn the 30th day of July, A. D. 1849, Thomas Urie (the father) employed counsel to draw up his will, hy which he disposed of all his property among his surviving children, grandchildren, and some others. (The will was left in the possession of counsel, who resided in Carlisle.) Sometime in September, A. D. 1849, Thomas Urie made a visit to Lewistown, in Mifflin county, where he was suddenly taken ill. He sent for an attorney in that place, to whom he communicated the fact of his having made a'will, which was then in Carlisle, and that he wished to make some alterations. A codicil, drawn to his instructions, was executed, and by it Mr. Urie made a different disposition of part of his property from that made in the will.\nAbout an hour after the execution of the codicil above mentioned, Thomas Urie called his counsel again to his bedside, and said he had forgotten one thing. He then mentioned the dying wish of his son Thomas D. Urie, that Thomas D. Parker should receive the $500 aforesaid; and said he desired that to be carried out, and that he wished his executors to pay Thomas D. Parker five hundred dollars. The counsel mentioned to him that he would have to write another codicil \u2014 that the executors would not be safe in paying it without its being in the will or codicil. He replied that he was too weak to sign another, but that he should tell Richard Parker (one of the executors appointed in his will) to pay over five hundred dollars to Thomas D. Parker, and he would do it. The counsel again stated that it would not be good in his opinion, unless it was in the will or codicil. Mr. Urie then mentioned this bond that he held against David Miller for the sum of $800, and called upon the by-standers to witness, that \u201c he now transferred $500 of that bond to Thomas D. Parker,\u201d and requested the counsel to inform Richard Parker that he had done so.\nShortly after this Richard Parker arrived in Lewistown, and he being in the room with Urie, the latter remarked, \u201c Richard, I want you to pay $500 of that note of David Miller\u2019s to Thomas D. Parker.\u201d The council remarked to Urie that he had better have that put in the codicil. Urie said, \u201c No ; the bond was not his, \u2014 that he did not want it to be considered a gift from Mm,\u2022 \u2014 that it was Ms son Davidson's.\u201d The counsel then remarked to him, that he had better make a transfer of it. Urie remarked, \u201c that the bond was too large, \u2014 more than the amount that Thomas D. Parker was to get,\u201d and then asked if a verbal transfer would not be good. The counsel remarked that it would. Urie then turned round to Richard Parker and said, \u201c Richard, I transfer $500 of the David Miller bond to Thomas D. Parker, and I wish you to pay that amount to him.\u201d\nMr. Urie died shortly after, and his will and the codicil were duly admitted to probate in Cumberland county. (It is understood that he died on the same day on which the codicil was made.)\nAt the times of the conversations just related, and at the time of Urie\u2019s death, the bond aforesaid was at his place of residence near Carlisle, and could not be formally delivered.\nIt is admitted that after the death of Urie, the executors received the whole amount of the Miller bond of $800 and the interest, after notice to Miller and the executors of the above-mentioned transfer.\nIf on these facts, the plaintiff was entitled to $500 of the money for which said bond was originally given by David Miller, then judgment was to be entered for the plaintiff for that sum, with interest from the 1st day of March, 1849. If otherwise, then judgment for defendants.\n(xRAHAM, J., was of opinion that this was not the case of a donatio causa mortis, as delivery was said to be essential to such: 2 Blaclc. Gom. 445; 2 Wes. Jr. 120; 2 Whar. 24. Also, that it was not valid as an assignment, as wanting a consideration to support it: 14 Pide. 198. That from the circumstances of the case a trust was not to be implied in Thomas Urie, in favor of the plaintiff: that it was doubtless his intention that his executors should pay $500, but that he used a mode of indicating his intention which the law did not sanction; that it' did not sanction any death:bed disposition of property other than by actual delivery, or by will written or nuncupative.\nJudgment was entered for the defendants.\nError was assigned to the judgment.\nMiller, for plaintiff in error.\n\u2014 In this case a trust existed in the father: Lewin on Trusts, 24 Law Lib. 15; Id. 44. A verbal trust is good as to personal property: 10 Mod. 404; Willis on Trustees 49, 10 Law Lib.\nBut the law raises a trust in the father from the facts in the case, for the father would not be permitted to take his son\u2019s effects and retain them, having, by his promise, prevented his son from making a will in favor of T. D. Parker.\nThe law will imply a trust from a promise, if it be acted on: 1 Wen. 295; Willis on Trustees 70. He that accepts a trust by acting upon it, takes it for the benefit of the person for whom he was trusted: Id. 121-2. Implied trusts arise where it would be against equity to allow the party to hold otherwiseStory\u2019s Eq. 1195-6; 1256-7 \u2014 8; Lewin on Trusts 38-9. A devise of land made under a parol promise or agreement that the devisee will hold the land in trust for another, creates a trust: 6 Barr 425, McKee v. Jones; 1 Watts 163; 5 Id. 200.\n2. The promise by the father to the son was not a nudum factum, and the parol assignment was not invalid for want of consideration. The son may have been induced by the promise of the father not to make a will; and if s\u00f3, a trust was created: 5 Barr 162, Mercer v. Lancaster; 1 Watts 163, Hoge v. Hoge; 5 Id. 200. The parol transfer was of a part of the estate which the son left. Where a trust is created, a consideration is not necessary: 7 Barr 179; 3 Peere Williams 222. As to parol dispositions, reference was made to 10 Mass. 426; Lewin 205.\nIt was further said, that this might be available as a donatio causa mortis: 3 Binn. 366. Delivery, in this case, was impossible.\nSharpe, with whom was Henderson, contri!.\nIt was said that delivery was essential to a parol gift of a chattel or chose in action: 2 Kent 438; 7 Johnson 25; 3 Vesey 431. That it was not a donatio causa mortis, was cited 6 Harris 328, Headley v. Kirby.\nIt was said, that the cases mainly relied on on part of the plaintiff in error, were cases wherein a person was induced by the trustee to die intestate, or to make a will in his favor; and that the former was not the case in this instance. It was said that the son might have made a will if he had chosen to do so. Also, that the alleged gift not being executed, the plaintiff had no right to the $500. An intent to transfer is not sufficient: 7 Barr 100. An equitable assignment requires & consideration to support it: 1 Barr 445; 18 Johnson 145.\nJune 21,1853,"
+  },
+  "file_name": "0305-01",
+  "first_page_order": 305,
+  "last_page_order": 310
+}

@@ -1,0 +1,106 @@
+{
+  "id": 975821,
+  "name": "Cumberland Township versus Jefferson Township",
+  "name_abbreviation": "Cumberland Township v. Jefferson Township",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "463",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 463"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Yeates 164",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812632,
+        812639
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0164-02",
+        "/yeates/2/0164-01"
+      ]
+    },
+    {
+      "cite": "5 Binn. 81",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793608
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0081-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates 366",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6775152
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 390,
+    "char_count": 7770,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 2.8108248189443797e-07,
+      "percentile": 0.8375733488709187
+    },
+    "sha256": "58d0a4f7f88a3e9ac24defbf8c453642d31b15e397543ba12763e169e206223b",
+    "simhash": "1:91c338ed4d57f956",
+    "word_count": 1377
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cumberland Township versus Jefferson Township."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodward, J.\nThis was an appeal from an order of two justices for the removal of Anne West to the township of Jefferson, and, on motion, the Court quashed the appeal, \u201c because it does not appear in any part of 'the^proceedings that the pauper had, or was likely to, become1 chargeable.\u201d There is no doubt that in point of fact she was chargeable on Cumberland; for a few days before the order of removal was obtained, two justices of the peace had issued an order of relief to the overseers of Cumberland, whereby she became a charge on their hands; but the order of removal did not recite this fact. Was this an incurable defect in the order of removal ? The 19th section of the Act of 13th June, 1836, relating to the poor, provides that on appeal from an order of removal, if there he any defect of form in such order the Court of Quarter Sessions shall cause the same to he amended without cost to the party ; and after such amendment, if the same he necessary, shall proceed to hear and determine the cause upon its truth and merits. This remedial provision in aid of a jurisdiction of great importance, but which is often unskilfully exercised, is entitled to a liberal construction. It was intended to bring pauper cases to a speedy decision on their very merits, and to save the poor, whom we are always to have with us, from the agonizing suspense of protracted litigation about technicalities and forms.\nIt is undoubtedly necessary that a pauper before he is removable should have become or be likely to become chargeable to the district which undertakes to remove him, for unless this be the case justices have no jurisdiction, and for want of jurisdiction an order of removal will be quashed; but, when he has been made chargeable by due process of law, may not a defective order be amended so as to exhibit the fact ? We have no doubt of it. The two justices, before the appeal, might have amended their order by reciting the order of relief which the overseers before them held, and which was conclusive evidence of the chargeableness of this pauper, and an amendment which they might properly have made before appeal, the Quarter Sessions were bound to allow after appeal.\nObviously the Court could have amended the order of removal by the order of maintenance, and this we think is what they ought to have done, and then gone on and decided the cause on its merits, instead of quashing the appeal.\nAnd now, 17th October, 1854, this cause having been \u25a0 argued by counsel, it is ordered and adjudged that the decree of the Quarter Sessions quashing the appeal be reversed and set aside, and that the record be remanded to be proceeded in according to law.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Downey and Wyly, for plaintiff in error. \u2014",
+      "Sayers and Minor, for defendant in error. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Cumberland Township versus Jefferson Township.\nIf an order made by two justices for the removal of a pauper is defective, in omitting to state that the person had or was likely to become chargeable, it is the duty of the Quarter Sessions, on appeal, to amend the same, and proceed to try the case upon its merits; an order quashing such proceedings is erroneous.\nWhere, prior to the order of removal, there had been an order of relief, it was conclusive evidence of the fact, that the person had become chargeable; and where the justices failed to recite it in the order of removal, the Court were bound to allow it to be so amended after the appeal.\nThe provisions in the Acts of Assembly, allowing amendments in such cases, is to receive a liberal construction.\nCertiorari to tbe Quarter Sessions of Q-reene county.\nThis was an appeal from the order of two justices of the peace, removing Ann West, an alleged pauper, from the township of\" Cumberland to the township of Jefferson, in the county of Greene. On the 26th of July, 1853, by an order of relief of. two justices of the peace, she became chargeable on the township of Cumberland. Shortly after its receipt the overseers of the poor of the latter township applied to two justices and procured an order of removal to Jefferson township, where it was alleged was her legal settlement. From this order of removal the township of Jefferson appealed. The record in the case returned by the justices was as follows:\u2014\n\u201c The Overseers of the Poor of the Township of Cumberland v. The Overseers of the Poor of the Township of Jefferson. Notice issued August 13, 1852, by Alexander Stephenson, Esq., to appear at the house of Thomas Curl, in Cumberland township, August 30,1852. The parties appeared at the above-named place, and proceeded to hear the testimony, and after hearing the parties, their proofs and allegations, we do adjudge that the last legal settlement of Ann West is the township of Jefferson, therefore we grant an order of removal to remove the said Ann West from the township of Cumberland to the township of Jefferson.\u201d ' \u25a0\nOn the trial evidence was offered to prove that the alleged pauper was an able-bodied woman, and not chargeable as a pauper. The plaintiffs submitted proof of her inability to earn a livelihood, and contended that both parties were concluded by the order of relief issued by the justices.\nThe defendants moved to quash the order of removal on the grounds: 1st, that the complaint was not made by the overseers; and again, that it does not appear in any part of the proceedings that the pauper had, or was likely to, become chargeable.\nThe Court below delivered the following opinion: \u201c As to the 1st ground, we think it sufficiently appears that the proceedings were commenced by the overseers. But for the 2d reason the proceedings must be quashed. We were anxious to sustain the order of removal, as we are satisfied from the evidence that the pauper had a settlement in Jefferson; but it is nowhere alleged in the order of removal, although it is in substance in the order of relief that she was a pauper, or likely to become chargeable. The 19th section of the Act of 13th June, 1836, is but a transcript, with slight alterations of phraseology, of the 23d section of the Act of 9th March, 1771, and notwithstanding the power to amend defects of form given in this section, it was ruled in the case of the Overseers of Dromore v. Overseers of Hanover, 1 Yeates 366, that the adjudication must show that the pauper had or was likely to become a charge. The proceedings are therefore quashed, each party to pay their own costs.\u201d\nWhereupon the overseers of Cumberland removed the cause to 0 this Court, and assigned for error: That the Court erred in quashing the proceedings, on the ground that it is nowhere alleged in the order of removal that the woman removed was a pauper or likely to become chargeable.\nDowney and Wyly, for plaintiff in error. \u2014\nIt is submitted that the Court should either have disregarded this objection, or caused the proceedings to be amended. The Act of 1810, \u00a7 4, declares that in any appeal from the order of two justices it shall be decided \u201c on its truth and merits only,\u201d and 5 Binn. 81, and 5 W. & Ser. 434, decided that this applies to an order of removal. It mattered not whether it was a defect of form or substance; either was equally amendable under the Act.\nThe order of relief was before the Court; that was conclusive upon the subject that she was chargeable. It was the decree of \u2022\u25a0a competent tribunal directly on the question: 7 Harris 19; 9 Barr 49; 2 Yeates 164; 1 Harris 64; 3 Barr 433; 6 W. & Ser. 522.\nSayers and Minor, for defendant in error. \u2014\nThe order of relief \u25a0 was no part of these proceedings, and was not brought up with \u2022the record but given in evidence before the Court. The overseers of Jefferson were not justified in receiving the pauper upon any order, unless it contained affirmatively upon its face an adjudication that she was, or likely to, become chargeable: 1 Yeates 366; 1 Ser. & R. 387."
+  },
+  "file_name": "0463-01",
+  "first_page_order": 463,
+  "last_page_order": 465
+}

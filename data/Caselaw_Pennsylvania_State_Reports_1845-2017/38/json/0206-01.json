@@ -1,0 +1,59 @@
+{
+  "id": 994073,
+  "name": "Shuster versus The Commonwealth",
+  "name_abbreviation": "Shuster v. Commonwealth",
+  "decision_date": "1861-02-11",
+  "docket_number": "",
+  "first_page": "206",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 154,
+    "char_count": 1936,
+    "ocr_confidence": 0.423,
+    "sha256": "cf35e7c12a535a87ff709dce6dbe47be200f9bc0364bce559f0919fc3e69e31d",
+    "simhash": "1:d97807682ed0dc23",
+    "word_count": 323
+  },
+  "last_updated": "2023-07-14T21:27:31.076625+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shuster versus The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Woodward, J.\n\u2014 The only error that was pressed in argument, was the fourth, which is founded on the court\u2019s denial of twenty peremptory challenges to the prisoner. He was indicted for forgery of a bank note, and claimed twenty challenges, because it is a felony by statute. That is not a sufficient reason. The rule is, that prisoners are to have twenty peremptory challenges, when charged with any crime that was a felony, without benefit of clergy and punishable with death, on the 15th day of September 1786. They were murder, robbery, burglary, rape, sodomy, buggery, malicious maiming, manslaughter by stabbing, withcraft and conjuration, arson, concealment of a bastard\u2019s death, counterfeiting gold or silver coin, and every felony (except larceny), on a second conviction. . Forgery is not in this dismal list. At common law it is not a felony, and is so in Pennsylvania by the Act of 25th March 1824 only when bank notes are forged or counterfeited. But it was never a felony of death, and therefore is entitled to no more peremptory challenges than are allowed in misdemeanours.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "by Woodward, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Shuster versus The Commonwealth.\nRight of Prisoner to Peremptory Challenges.\n1. Prisoners are entitled to twenty peremptory challenges only when charged with crimes that were felonies of death on the 15 th of September 1786.\n2. Forgery was never a felony of death, and a prisoner charged with it, is entitled to the same number of challenges as are allowed in misdemeanours.\nCertiorari to the Quarter Sessions of Philadelphia county.\nJacob Shuster was indicted for the forgery of a bank note, and on his trial claimed the right to challenge twenty jurors peremptorily, which the court below refused to allow. On conviction, the case was removed into this court, where the decision of the court on this point was inter alia assigned for error by the prisoner.\nFebruary 11th 1861,"
+  },
+  "file_name": "0206-01",
+  "first_page_order": 206,
+  "last_page_order": 206
+}

@@ -1,0 +1,85 @@
+{
+  "id": 411556,
+  "name": "Hulings versus Laird",
+  "name_abbreviation": "Hulings v. Laird",
+  "decision_date": "1853-06-09",
+  "docket_number": "",
+  "first_page": "265",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 Pa. 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Bin. 436",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788948
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 176,
+    "char_count": 2783,
+    "ocr_confidence": 0.436,
+    "pagerank": {
+      "raw": 5.12982294956584e-08,
+      "percentile": 0.32149422611125206
+    },
+    "sha256": "28f6a84404bc78d39606d6fdd16dfd7c2bea59a09da49b277f25bdc6c1f7bcb5",
+    "simhash": "1:44479dd4b08b0dca",
+    "word_count": 509
+  },
+  "last_updated": "2024-02-27T16:29:59.856508+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hulings versus Laird."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nWoodward, J.\n\u2014 The 45th section of the Act of 13th June, 1836, relating to lunatics and habitual drunkards, authorizes every writ for the commencement of an action against a lunatic to be served on the committee of the estate of such person, if there be a committee of the estate, and if there be not, then on the committee of the person, but before the writ issues, there should be a suggestion of record of the inquisition of lunacy, and of the name of the committee. This is necessary, not only that the sheriff may know whom to serve, but that proper intendments may be made in favor of the record. A writ against a lunatic, without such suggestion, is irregular, and the service of it void, even though made on the committee.\nThere is nothing on the record before us from which it can be inferred that Mr. Hulings is a lunatic, and what does not appear of record does not exist in a Court of error. The case presented by the record is that of an alias summons issued against Hulings, and served on Williams. Calling the latter trustee in the sheriff\u2019s return does not help the matter. If it appeared anywhere on the record that Hulings had been found a lunatic, and that Williams was his committee, there would be no difficulty in sustaining the service of the writ. Rut it is simply the ease of a writ against one man, and a service of it on another, and this authorized a judgment against neither.\nThe judgment is reversed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Hale, for plaintiff.",
+      "Bendict, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Hulings versus Laird.\n1. By the 45th section of the Act of 13th June, 1836, relating to lunatics and habitual drunkards, every writ for the commencement of an action against a person found to he a lunatic, is to he served on the committee of the estate of the lunatic; or if there he no committee of the estate, then upon the committee of the person.\n2. Before the writ issues there should he a suggestion of record of the inquisition of lunacy and of the name of the committee. A writ against a lunatic without such suggestion is irregular, and the service of it void even though made on the committee.\nError to the Common Pleas of Mifflin county.\nThis was an action of debt by Laird v. Hulings, brought to April T., 1851. The summons was returned, \u201c defendant not found in my bailiwick.\u201d An alias summons was issued to August Term, 1851, and it was served on Williams, trustee of Hulings, without specifying how he had become trustee. On the 7th August, 1851, judgment was entered under a rule of Court for want of an appearance. To such judgment error was assigned.\nHale, for plaintiff.\n\u2014 That the proceeding was irregular was cited 2d section of Act of 13th June, 1836, relative to Lunatics, &c.; 2 Bin. 436; 3 Ser. & R. 245: 8 Id. 502; 12 Id. 416 ; 5 W. & Ser. 252.\nBendict, for defendant.\nJune 9, 1853,"
+  },
+  "file_name": "0265-01",
+  "first_page_order": 265,
+  "last_page_order": 266
+}

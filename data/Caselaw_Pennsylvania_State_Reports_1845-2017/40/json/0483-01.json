@@ -1,0 +1,85 @@
+{
+  "id": 478217,
+  "name": "Neel et al. versus Potter et al.",
+  "name_abbreviation": "Neel v. Potter",
+  "decision_date": "1861-11-25",
+  "docket_number": "",
+  "first_page": "483",
+  "last_page": "484",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "40 Pa. 483"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Grant 51",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        225902
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/grant/1/0051-01"
+      ]
+    },
+    {
+      "cite": "2 Yates 46",
+      "category": "reporters:state",
+      "reporter": "Yates Sel. Cas.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 4455,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 3.1056593666321873e-07,
+      "percentile": 0.8596435545083903
+    },
+    "sha256": "06c185d891d0a8c419096d8a039e82954ebae8fb43a2a32feb535a5252bb86a1",
+    "simhash": "1:dd003be93f8c78ad",
+    "word_count": 781
+  },
+  "last_updated": "2024-02-27T19:07:13.205068+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neel et al. versus Potter et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was. delivered,\nby Thompson, J.\nThis was a feigned issue to try the validity of an instrument purporting to be the last will of John Neel, deceased. It was contested by the heirs. The plaintiffs, \u2014 the Neels, \u2014 were the devisees. It was assailed on two grounds. First, for want of mental capacity in John Neel to make a will. Secondly, on account of alleged undue influence by members of the family of the devisees.\nThe testimony received and excepted to was of declarations of the testator, running hack to a period of nearly thirty years, and up to within a much later period, that he intended to \u201c leave his farm in the name of Neel,\u201d and similar expressions, to witnesses at different and distant intervals. The reception of the evidence constitutes the first bill of exception, and is the only assignment of error in the case.\nWe are of opinion that it was clearly competent, certainly on the point of undue influence. It would strongly rebut the idea of any such influence on the mind of the testator when making his will, if it were shown that he made it in accordance with a long-cherished purpose, and especially when in the execution of that purpose he was keeping it, not only in the name but amongst his own blood-relations. This was the purpose of the evidence, and it is sustainable on express and clear authority: Sterrit v. Douglass, 2 Yates 46; Irish v. Smith, 8 S. & R. 573 ; 2 Greenl. Ev., note 4 to \u00a7 689; Stevens v. Vaneleve, 4 W. C. C. R. 266. The authority, 1 Grant 51, does not conflict with these views. Whether the testimony would have been competent if the question had been mental incapacity alone, it is not now necessary to determine. It was proper for the purpose mentioned, and\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "by Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "S. D. Foster and II. P. Laird, for plaintiffs in error.",
+      "Cowan, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Neel et al. versus Potter et al.\nDeclarations of Testator as to Ms Testamentary Intentions, when admissible on issue devisavit vel non.\n1. In a feigned issue to try the validity of a -will, where the contestants alleged undue influence upon the mind of the testator by the devisees \u2014 two of his own name and blood \u2014 it is competent for the devisees to give in evidence declarations of the testator, at intervals, during a period of many years, that he intended \u201c to leave his farm in the name of Neelfor it would rebut the idea of undue influence by showing that the testator had made his will in accordance with a long-cherished purpose, especially when in executing that , purpose he was keeping the farm not only in his own name but among his own blood relations.\nError to tbe Common Pleas of Westmoreland county.\nThis was a feigned issue to determine the validity of an instrument of writing, purporting to be the last will and testament of John Neel, deceased, in which James Neel and Samuel Neel were plaintiffs, and John Potter, William Ilissan and Mary his wife, Theodore Stouffer and Margaret his wife, James C. Potter and Amanda Potter, Harriet Potter, Charles Miller and Margaret his wife, Robert Potter, Martha Potter, James Potter, Mary Sloan, Alexander Thompson and Mary his wife, John 0. Latta, M. J. Latta, M. M. Latta, S. B. Latta, and James F. Woods and Mary Jane his wife, were defendants.\nThe testator devised all his \u201c real and freehold estate\u201d to his brother Samuel, and his nephew William (the son of his deceased brother William), subject to certain bequests to his other heirs. This will was dated October 11th 1849. On the 21st of April 1859, a codicil was attached, in which his nephew James was substituted for William, who was deceased. The devisees were also named as executors.\nThe will and codicil were objected to on the ground of want of mental capacity in the testator, and undue influence over him. The evidence on these points was conflicting, and somewhat contradictory. At the close of the case, the plaintiffs were permitted by the court below (Burlington, P. J.) to prove that as far back as twenty or thirty years before his death, the deceased had repeatedly declared that \u201c he would leave his lands in the name of Neel.\u201d\nThe jury rendered a verdict in favour of the validity of the alleged will; on which finding judgment was entered, and the record and proceedings certified to the register. The defendants in the issue thereupon sued out this writ, and assigned for error here the admission of the declarations of deceased as above stated.\nS. D. Foster and II. P. Laird, for plaintiffs in error.\nNovember 25th 1861,\nCowan, for defendants in error."
+  },
+  "file_name": "0483-01",
+  "first_page_order": 483,
+  "last_page_order": 484
+}

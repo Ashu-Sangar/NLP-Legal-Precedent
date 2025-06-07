@@ -1,0 +1,137 @@
+{
+  "id": 9502540,
+  "name": "Britton's Appeal",
+  "name_abbreviation": "Britton's Appeal",
+  "decision_date": "1863-05-14",
+  "docket_number": "",
+  "first_page": "172",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 Pa. 172"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 W. & S. 339",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Binn. 40",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788946
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/2/0040-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates 111",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 W. & S. 235",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Dall. 437",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Watts 261",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0261-01"
+      ]
+    },
+    {
+      "cite": "4 Dall. 153",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Dall. 430",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408601,
+        12149636,
+        12149709
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/1/0445-01",
+        "/dall/1/0430-01",
+        "/dall/1/0430-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 718,
+    "char_count": 17163,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 5.170655292212306e-07,
+      "percentile": 0.9397439773515753
+    },
+    "sha256": "d4b7d3690d9382de3fac3659f1e8aaf7ecdb09304c0243b0bf4d871afa061a54",
+    "simhash": "1:9226daf125ec6a8e",
+    "word_count": 2989
+  },
+  "last_updated": "2024-02-27T21:46:48.873207+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Britton\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Tbe opinion of the court was delivered,\nby\nSTRONG, J.\nThe appellant is the holder of a mortgage upon the real estate, the proceeds of the sale of which are now in court for distribution. The mortgage was given on the 29th of September 1852, and was for original purchase-money. It was not recorded until September 5th 1858. After it had been given, Thomas H. Wentz recovered a judgment against the mortgagor, which was signed on the 17th day of September 1856; another judgment was recovered against the mortgagor on the 17th of February 1857, by Bean & Wentz, of which firm Thomas H. Wentz is a member. A third judgment was recovered on the 22d of December 1857, against the same defendant, by Wells Tomlinson. There are still other judgments o-n the record, but they have no interest, in any possible event, in the questions now presented for decision. They need not, therefore, be particularly mentioned. The real estate bound by the mortgage and judgments was sold on the 5th of November 1860, by virtue of an execution issued upon the judgment of Bean & Wentz, and the question now litigated is whether the mortgage of Mrs. Britton has priority over the judgments in the distribution of the fund raised by the sheriff\u2019s sale. It is an established fact that Thomas H. Wentz had actual knowledge of the mortgage to Mrs. Britton, not only when the judgments were entered, but before the debts were contracted for which the judgments were given. Does such knowledge supply the want of an earlier record of the mortgage ? It is conceded that distribution must be made among lien-creditors. At the time when the sheriff\u2019s sale was made, both the mortgagee and the judgment-creditors had liens, but, as among themselves, which must be preferred ?\nIn the distribution of the proceeds of sheriff\u2019s sales, the court from which the execution issued is empowered to determine disputes \u201caccording to law and equity:\u201d Act of 16th June 1836, \u00a7 86, P. L. 777. We are therefore to consider not merely the legal rights, but the equities of the litigants. Regarding it as a mere lien, the mortgage of Mrs. Britton would be postponed to the judgments of Wentz and Bean & Wentz, for it was not recorded until after their liens had attached, but it is also to be considered whether there are not equities between the parties that should make a difference, and whether the mortgage is to be treated as only a lien.\nThrough the whole history of recording acts, they have been regarded, both in this state and in England, where they originated, as designed to furnish protection against those frauds which, without them, would easily be perpetrated by secret conveyances. They are, in effect, statutes of frauds, and they have therefore ever been so construed as to prevent their being used as instruments of covin. None of them are more positive and explicit than was the Statute of 29 Charles 2, the English Statute of Frauds and Perjuries, or our own re-enactment of it, the Act of March 21st 1772; yet both in England and in this state, the words of that statute have always been controlled by its spirit, and courts of equity have uniformly sustained parol sales, when it has been necessary to prevent a fraud. It is upon a similar principle that those courts have ever construed the recording acts. One who purchases or attempts to acquire title to lands, though for a valuable consideration, with knowledge that another has acquired a prior right, either legal or equitable, is treated as acting maid fide, and is not allowed to reap any advantage from the acts, for he is not one whom they were designed to protect. Thus the Statute of 27 Henry 8, for the enrolment of bargains and sales, enacted that no lands should pass from one to another, whereby any estate of inheritance or freehold should be made or take effect in any person or persons, or any use thereof to be made, by reason of any bargain and sale, except the said bargain and sale be enrolled in one of the king\u2019s courts, &c., within six months after the date of the writings ; and that no use thereof should pass from the one to the other. It would be difficult to conceive of language which could in plainer terms deny all effect to an unenrolled deed of bargain and sale; yet Lord Chancellor Hardwicke said, in Le Neve v. Le Neve, Ambler 436, the construction of that statute had always been, that if a subsequent bargainee has notice of a prior purchase, he is equally affected by that notice, as if the prior purchase had been a conveyance by feoffment and livery. The Statute of 27 Henry 8 is doubtless the pattern of the eighth section of our Act of 1715. Earlier attempts at registration acts had been set aside by the crown in council, and it was only when the Provincial Assembly conformed to the example set in the British Parliament, that their legislation was allowed to stand. So the Statute of 7 Anne, c. 20 (from which our Act of 1775 was taken), enacted that a memorial of all deeds and conveyances which should be made and executed after a specified date, and of all wills and devises whereby any lands in the county of Middlesex might be in any way affected, either in law or equity, might be registered as therein directed, and that every such deed or conveyance should be adjudged fraudulent and void against any subsequent purchaser or mortgagee for a valuable consideration, unless registered as directed, before the registry of the memorial of the subsequent deed. No language can be stronger \u2014 none of our recording acts are more explicit. Yet it is settled in England, that if a second purchaser by a registered deed bad notice, when he purchased, of a prior purchase under an unregistered deed, he is postponed to it.\nSo our Act of 1715 enacted that no deed or mortgage, or defeasible deed in the nature of mortgages, thereafter to be made, should be good or sufficient to convey any freehold of inheritance, or to grant any estate therein for life or years, unless such deed be acknowledged or proved, and recorded within six months after the date thereof, where such lands lie, as thereinbefore directed for other deeds. Such was, in substance, the eighth section, early held applicable only to mortgages. Notwithstanding its letter, it was from the first construed, as the British statutes had been, to apply only to such unrecorded mortgages as are unknown to a subsequent purchaser. In other words, it was held to be for the benefit of those only who, without it, would be defrauded by a mortgage of which they had no notice. Thus in Levintz v. Will, 1 Dall. 430, where the contest was between the holder of an unrecorded mortgage and the mortgagor, the instrument was held valid, and the judgment was supported by the consideration that the intent of- the act was to prevent honest purchasers or mortgagees of real estate from being deceived by prior secret conveyances or encumbrances. Chief Justice McKean said: \u201c The legislature did not mean, nor have they in fact enacted, that express personal notice, when given, should have no effect. Neither could they entertain an idea of defeating fair and honest bargains which do not injure other persons.\u201d In Stroud v. Lockhart, 4 Dall. 153, an unrecorded mortgage was held to be good against a subsequent purchaser from the mortgagor, with knowledge of the existence of the mortgage. The same doctrine was maintained in Jaques v. Weeks, 7 Watts 261, when Judge Kennedy said that he was not aware of even a dictum that would militate against it until, 1821; then Semple v. Burd, 7 S. & R. 286, was decided, wherein it was ruled that an unrecorded mortgage is not a lien as against subsequent judgment-creditors. No question was raised as to what would be the effect of an unrecorded mortgage against a judgment-creditor who knew at the time he gave credit and took his judgment, of the existence of the prior mortgage. It was not pretended that the judgment-creditor had any notice. It was therefore a case strictly at law. There was nothing to raise any equity in the mortgagor against the latter encumbrancers. It was contended that the Act of 1715- interfered with the lien of the mortgage only as against purchasers, but two members of the court held (Judge Gibson not sitting), that judgment-creditors were within its protection. The fundamental reason given was, that under the act no estate passed by the mortgage unless it was recorded. The contrary was, however, ruled in Levintz v. Will, as well as in Stroud v. Lockhart, and perhaps also in Parker v. Wood, 1 Dall. 437. Judge Duncan referred to the former of these cases, and (after stating that an unrecorded mortgage was there held good against the mortgagor, of course that something passed by it) said the true reason for the ruling was that it injured no one, affected not the rights of any other third person, and was binding on the man who executed it as a mortgage. Certainly this was so. No one was hurt, and therefore the court felt at liberty to construe the statute according to its spirit and design, rather than its letter. The mortgagor is not hurt, neither is a subsequent purchaser, or mortgagee with notice, or a judgment-creditor, who gave credit with the unrecorded mortgage before his eyes; and were they enabled to destroy the rights of the mortgagee, their doing so would be a fraud upon him. Freedley v. Hamilton, 17 S. & R., asserts the same doctrine as that advanced in Semple v. Burd, but does not touch the case of a judgment-creditor who has actual knowledge of a prior mortgage. Nor has it ever been authoritatively decided that an unrecorded mortgage is not effective against a subsequent purchaser or encumbrancer, who knew of the mortgage when he purchased, or when the credit ivas given to the mortgagor, for which a mortgage or judgment was taken. The contrary has been decided in cases between the first mortgagee and a subsequent purchaser with notice, and in Manufacturers\u2019 and Mechanics\u2019 Bank v. Bank of Pennsylvania, 7 W. & S. 235, in a case between such a mortgagee and a subsequent mortgagee with notice. Why should not the same rule be applied to a judgment-creditor with notice? What equity has he superior to the equity of a purchaser or mortgagee? He is generally considered as having less; for he has not advanced his money on the faith of a grant, or a specific pledge of the property. Every unrecorded deed, other than a mortgage, is good against him confessedly, even though he had no notice of it when he gave credit. The Recording Act of March 18th 1775, which enacted that absolute deeds unrecorded within six months after their execution, should be adjudged fraudulent and void against subsequent purchasers and mortgagees, left judgment-creditors out of their protection, and left them to stand as at common law, with a lien only upon the interest of their debtors: Rogers v. Gibson, 4 Yeates 111; Hiester v. Fortner, 2 Binn. 40; Cover v. Black, 1 Barr 493. Indeed, it would present a palpable absurdity were we to hold that a general lien-creditor obtains by his lien a greater right than he could acquire by bargaining for it; i. e., obtains a right to property which the law declares it would have been fraudulent for him to attempt to acquire from his debtor by purchase or in mortgage. A purchaser or mortgagee is held to be guilty of fraud, if he attempt to obtain from the grantor or mortgagor property which had before been sold or mortgaged, even though he buys it for value paid, if he has notice of the prior deed or mortgage. He is therefore postponed in equity. Would it not be strange that a creditor who does not bargain for the property, or give value for it, should acquire a better right against a first mortgagee ? He is not wronged by being postponed. The lien of his judgment attaches to all his debtor owned, either in law or in equity, when the judgment was obtained. He gives nothing which entitles him to the previously granted right or interest. He does not bargain for that, and if he did, equity would treat him as acting fraudulently. Nor has he been misled by any fault or laches of the holder of the prior unrecorded mortgage. If he knew of the mortgage when he gave credit, it is impossible to see how he is Avronged. Nor does such a rule interfere with purchasers at sheriff\u2019s sale under the judgment. They are not affected by notice to the plaintiff in the execution, but they stand on the independent footing of all purchasers for value.\nThere is no ansAver to this unless it is found in the peculiar provisions of the Act of Assembly of March 28th 1820. That act declared that all mortgages, except those given for purchase-money, shall, have priority, according to the date of recording the same, and that no mortgages except those for purchase-money, shall be a lien until it shall have been recorded, or left for record. Unlike the Act of 1715, it does not declare the unrecorded mortgage void. It attempts only to limit the commencement of its lien. Under the Act of 1715, the lien related back to the date of the mortgage, if it was recorded within six months thereafter. Under the modern statute it begins only with the record. Now, if a mortgage is a mere lien, then, because the statute declares that this shall not exist till the instrument is recorded, judgments previously entered have priority. But if it be also a partial sale, then, unless the statute forbids it, and excludes the rule that notice of absolute sales unrecorded puts them on the footing of recorded sales as to all who have the notice, why is it not good against a subsequent creditor with notice ? That mortgages are sales, and that they must be therefore Avithin this doctrine, is shoAvn by many cases. Mortgagees are purchasers as between each other; i. e., a subsequent mortgage recorded is postponed to a prior mortgage unrecorded, of which the second mortgagee had notice: 7 W. & S. 339. They are purchasers as against subsequent purchasers absolutely with notice. They are purchasers under powers to sell. They are Avithin the recording acts as to assignments of the same security to different parties. They are in form defeasible sales, and in substance grants of specific security, or interests in land for the purpose of security. Ejectment may be maintained by a mortgagee, or he may hold possession on the footing of ownership, and with all its incidents. And though it is often decided to be a security or lien, yet so far as it is necessary to render it effective as a security, there is always a recognition of the fact that it is a transfer of the title. If, then, mortgages are sales by way of security, as well as liens, when recorded, there seems to be no reason why the same rule should not be applied to them as to absolute sales, or sales contingent in other respects. The only rule that is rational, or that harmonizes with settled construction, is, that mortgagees are entitled to all the benefits which their securities give them, either as grantees or lien-holders, subject only to the provisions of the statute, and that when notice would protect them, if their grants were absolute, it has the same effect to the extent of the rights they did purchase.\nThis is not forbidden by the Act of 1820. That touches only the lien, not the estate. Like its predecessor of 1715, it is a statute of frauds, and upon it has been engrafted the doctrine that only purchasers for value, or creditors, can intervene. As to the former, it is not denied that they must be without notice, or their claim to the property would be fraudulent. A general creditor, without bargain or value given, can be in no better position. It follows that the court erred in postponing the mortgage of the appellant to the claim of the judgment-creditors, who had notice of the mortgage, before the debts were contracted for which they obtained their judgments.\nWe are clearly of opinion that the proof of acknowledgment of the mortgage was sufficient to warrant its being put upon the record as it was. It need hardly be said that the only contest here is between the appellant and Bean, and Bean & Wentz.\nThe decree of the District Court is reversed, and the report of the auditor is confirmed.",
+        "type": "majority",
+        "author": "STRONG, J."
+      }
+    ],
+    "attorneys": [
+      "Samuel Rood, for appellant.",
+      "Q-eorge W. Rogers and Joseph W. Sunsioleer, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Britton\u2019s Appeal.\nUnrecorded mortgage, validity of as to subsequent judgment-creditors.\nA mortgage given for the purchase-money of real estate, executed before, but not recorded until after judgments had been entered against the mortgagor, is entitled to priority over \u2022 them in the distribution of the proceeds of a sheriff\u2019s sale of the land where the judgment-creditors had actual knowledge of the mortgage before the debts were contracted for which the judgments were obtained.\nAppeal from the District Court of Philadelphia.\nThis was an appeal by Julia A. Britton from the decree of the District Court upon exceptions filed to the report of the auditor appointed to distribute the proceeds of the sheriff\u2019s sale of the real estate of Conrad M. Whitaker, which was sold on an execution against him at the suit of Bean & Wentz.\nAll the material facts of the case will be found in the opinion of this court.\nSamuel Rood, for appellant.\nQ-eorge W. Rogers and Joseph W. Sunsioleer, for appellee.\nMay 14th 1863,"
+  },
+  "file_name": "0172-01",
+  "first_page_order": 172,
+  "last_page_order": 178
+}

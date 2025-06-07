@@ -1,0 +1,85 @@
+{
+  "id": 960638,
+  "name": "Christman v. Moran",
+  "name_abbreviation": "Christman v. Moran",
+  "decision_date": "1848-01-26",
+  "docket_number": "",
+  "first_page": "487",
+  "last_page": "487",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 487"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. 495",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. 495",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 191,
+    "char_count": 2264,
+    "ocr_confidence": 0.407,
+    "pagerank": {
+      "raw": 2.458144809767075e-07,
+      "percentile": 0.805241927232051
+    },
+    "sha256": "6de039e8ec3b57421ced44086c430a087e871034872809621f16428b02d49d56",
+    "simhash": "1:2e8e184fa9d95516",
+    "word_count": 380
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christman v. Moran."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nIt is most true that arbitrators assembled and sworn, have not power to supply a vacancy, in .their number ; but they may supply it with the express or implied assent of the parties; and this distinguishes the \u2019case in hand from' Cross v. Wilson, 7 W. 495, in which the party affected by the award had done nothing to sanction the proceeding which led to it. In that case he had gone away protesting; in this he 'remained protesting, but participating. lie proceeded with' his defence protestando, but intending to take his chance before the arbitrators, and thus obtain the advantage of being loose or bound at his election. But he was bound to give up his chance or his objection, for they could not exist together. Had the arbitrators awarded in his favour, he might, notwithstanding his protest, have enforced the award; and mutuality of submission requires that both should be bound or neither. But had even both parties agreed to proceed, each reserving the same objection, neither would, according to the principle of the argument, have been bound, and the hearing would have been a mockery. By agreeing to go on, both waived the exception, and both are bound to stand to the award.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Guillou, for plaintiff in error,",
+      "Ingraham, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Christman v. Moran.\nBy proceeding before arbitrators, an objection to the illegality of tbeir appointment is waived, even though, there was an express agreement that there shquld be no waiver.\nIn error from the Common Pleas of Philadelphia.\nJan. 17; Three arbitrators having been duly appointed and qualified, one of them declined serving. The others then appointed a person to fill the vacancy. Defendant\u2019s counsel objecting to the appointment, agreed to proceed with the cause on the written agreement of plaintiff\u2019s counsel, that the exception was not thereby waived.\nExceptions having been filed to the award on this ground, they were overruled, and this writ brought, and the exception below assigned for error.\nGuillou, for plaintiff in error,\nrelied on the rule determined i\u00fc 7 W. 495, that the appointment .was irregular, and 1 Pa. 305, that the other party proceeded at his peril after the exception -and express agreement.\nIngraham, contra.\n7 Barr, 94, decides this objection cannot be taken in error, but on appeal only.\nJan. 26."
+  },
+  "file_name": "0487-01",
+  "first_page_order": 487,
+  "last_page_order": 487
+}

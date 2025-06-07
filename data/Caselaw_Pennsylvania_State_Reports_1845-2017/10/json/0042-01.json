@@ -1,0 +1,79 @@
+{
+  "id": 962777,
+  "name": "Brown v. Ridgway",
+  "name_abbreviation": "Brown v. Ridgway",
+  "decision_date": "1848-02-02",
+  "docket_number": "",
+  "first_page": "42",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Bin. 222",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0222-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 210,
+    "char_count": 2909,
+    "ocr_confidence": 0.371,
+    "pagerank": {
+      "raw": 1.8397049219606175e-07,
+      "percentile": 0.721968153355659
+    },
+    "sha256": "5c4fc83b56b0416a1e025f85c8c09cb5795da9bca048bee921e7bdd8bf9c1ee4",
+    "simhash": "1:ca528fd3e850e596",
+    "word_count": 523
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brown v. Ridgway."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe true reason why error does not lie in foreign attachment, was given by Chief Justice Tilghman, in Lewis v. Wallick. A judgment against the defendant is only interlocutory: for the attachment may be dissolved after judgment by his death, or by putting in bail to the action. When, however, an attachment is dissolved because it issued irregularly, as where the property was not a subject of foreign attachment, the proceeding is at an end for every purpose, as it was in Miller v. Sprecher, and the order is final; but then the plaintiff in error is met by another principle of equal potency, that there is no bill of exceptions to evidence on a motion for summary relief, which was enforced not only in that case, corresponding as it did in all respects to the present, but also in Shortz v. Quigley, and every case that has since occurred. The affidavits are, therefore, not before us, and if they were, we could not judge of their truth, which would be the business of a jury. The plaintiff in error admits it, but insists that the record presents no ground for the order to quash, or rather to dissolve, which, therefore, must be taken for an act of arbitrary power. But where a court of error may quash or dissolve on extrinsic evidence, which cannot be put on the record, the presumption is that everything was done rightly and according to law.\nOrder affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "MarJcland, for the plaintiff in error.'",
+      "Paul, cont\u00f3,"
+    ],
+    "corrections": "",
+    "head_matter": "Brown v. Ridgway.\nAn order to quash a foreign attachment is not the subject of a writ of error: for the affidavits on which the order was made are not part of the record. And where an order is made on extrinsic evidence, the presumption is, that in a court of record all things were rightly done.\nError to the District Court of Philadelphia.\nFeb. 2.\nA foreign attachment against the defendant having been executed, he moved to quash, on affidavits which were filed and brought up on writ of error to the judgment or order quashing the writ.\nMarJcland, for the plaintiff in error.'\nA writ of error lies to all the courts of this commonwealth by statute, and particularly to the final judgment of the District Court, March 30, 1811, S. 3; and wherever the record is complete by final judgment, error lies: Co. Litt. 288 b. The judgment below disposed of the case, and was therefore final. If it be said that this court cannot look at the affidavits, then there is an apparent error, for there is a final judgment against the plaintiff, when, so far as the record shows, there was no ground for such judgment. In 13 S. & R. 194, there was a case like the present.\nPaul, cont\u00f3,\ncited 1 Bin. 222, 2 Yeat. 162, 3 S. & R. 410; but the court said there could have been no question had the court dissolved the attachment, instead of quashing the writ. He then contended the distinction was immaterial.\nReply. \u2014 Had the court done that, the suit would have remained, though the goods were discharged; but here the suit itself is ended."
+  },
+  "file_name": "0042-01",
+  "first_page_order": 42,
+  "last_page_order": 43
+}

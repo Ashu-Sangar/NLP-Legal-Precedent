@@ -1,0 +1,97 @@
+{
+  "id": 985046,
+  "name": "Commonwealth versus Montgomery et al.",
+  "name_abbreviation": "Commonwealth v. Montgomery",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "519",
+  "last_page": "522",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 358",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854587
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0358-01"
+      ]
+    },
+    {
+      "cite": "2 Bailey 621",
+      "category": "reporters:state",
+      "reporter": "Bailey",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dall. 502",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Bailey 621",
+      "category": "reporters:state",
+      "reporter": "Bailey",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 363,
+    "char_count": 6832,
+    "ocr_confidence": 0.483,
+    "pagerank": {
+      "raw": 5.207966869300525e-08,
+      "percentile": 0.32665900598838
+    },
+    "sha256": "5df7820b8295a614e62927d2e6b5d7c242f2b6645d1ae997e603d19e9a731aa6",
+    "simhash": "1:ffa76195f30eef73",
+    "word_count": 1220
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth versus Montgomery et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nIt is of the very nature of an official bond that the sureties in it are bound to the extent of the penalty, for all final defaults of the officer during the term for which the bond was given; and those are not final defaults which are satisfied out of the property of the officer himself. The sureties are bound, not that he will pay the penalty of the bond, or that he will perform duty equal to the amount of the penalty, but that they will supply his deficiencies to that extent. According to the terms of a sheriff\u2019s bond, the sureties are bound that he shall \u201cperform all and every the duties of his office,\u201d and no performance by him, however tardy or involuntary, can discharge the sureties, so long as any duty remains unperformed: See 7 Greenleaf R. 319; 2 Blachf. 193.\nFrom this principle it follows very plainly, that the sureties are liable on this bond, if there is nothing in the forms of the bond and of the recognisance given with it, and of the proceedings to enforce them, that prevents this result; and we do not discover that there is.\nOfficial bonds are different in their nature, and are enforced on different principles from other bonds: 4 Dall. 502. The sureties of a sheriff are saved from suit after five years, and the sheriff is not. By the Act of 1836, relating to such bonds, any person intended to be secured by them may bring suit on them; and there may be as many declarations as there are plaintiffs, and no judgment or number of judgments in favour of the defendants shall prevent any other plaintiffs from suing on the same bond. And Art. 13 allows the sureties in any suit on such bond to pay into court the penalty and costs, and declares that this shall not debar any person of his action or execution against the officer for any amount that shall not be'paid out of the bond.\nMoreover, the sureties of the sheriff are further bound by recognisance for the same amount, and thus there are two complete legal remedies against them for the sheriff\u2019s defaults; and it is no defence against either of them that the other is cancelled or discharged, if any duty of the sheriff remains unperformed. The form of the two contracts is such that, in strict law, the sureties are bound for two penalties, and it is only in equity that they can be relieved from either ; and equity will relieve against the form and according to the intention of the contracts, only when it appears that there has been performance according to the intention ; that is, when the sureties have paid for the sheriff\u2019s default, to the amount of the penalty. The case of Moore v. Worsham, 5 Ala. R. 645, fully sustains these views. See also 2 Bailey 621.\nIn this case, there have been recoveries from the sheriff, sued with his sureties on the recognisance, to its full amount; but the sureties have paid nothing, and the sheriff is still a defaulter. The sureties are now sued on the bond for those further defaults, and we are of opinion that the recoveries from the sheriff on the recognisance furnish them no defence.\nJudgment reversed, and judgment in favour of the Commonwealth for the sum of ten thousand dollars, and that the plaintiffs, Wm. Maher and John Maher, recover of the defendants the sum of forty-two dollars and sixty-six cents, and costs, and record remitted to the Common Pleas.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Banks and Stewart, for the plaintiffs in error,",
+      "Whites & Coffey, for the defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth versus Montgomery et al.\nThe sureties in a sheriff's official bond are not discharged from their liability for his default, by a recovery on the recognisance, and a sale of the sheriff's real estate under proceedings thereon, for a sum equal to the penalty of the bond.\nThe sureties are bound, not that the sheriff will pay the penalty, but that they will be liable for his deficiencies to that extent; and they are only relieved by their payment, for his defaults, to the amount of the penalty of the bond.\nThe bond and recognisance are distinct securities, and the sureties are not relieved by a recovery on one of them, which was paid out of the estate of their principal.\nError to tbe Common Pleas of Indiana county.\nThis was an action of debt by the Commonwealth of Pennsylvania, for the use of Maher & Brother, against John Montgomery, and others, his sureties, on the official bond of Montgomery, as sheriff of Indiana county. The amount of the penalty of the bond was $10,000.\nA case was stated for the opinion of the court below, with liberty to sue out a writ of error, in which the following facts were agreed upon.\nJohn Montgomery was duly elected and commissioned as sheriff of Indiana county in 1854; and on the 10th of November, in that year, the other defendants became sureties on his official bond and recognisance, in the usual form.\nOn the 18th of September 1857, the said Montgomery, as sheriff, sold the real estate of one Marshall Shields for $730 ; and a judgment of Maher & Brother, amounting to $42.66, was entitled to payment out of the fund; but the sheriff had neglected and refused to pay this judgment.\nAn action was brought against the same defendants, on the sheriff\u2019s recognisance, to December Term 1857, for the use of Smith '& Baxter, in which there was a recovery, and a sale of Montgomery\u2019s real estate for $10,000, the amount of the penalty; which sum was distributed among those who had made themselves parties to the suit on the recognisance, for moneys collected for them by the sheriff, in his official capacity..\nNo part of the sum raised by the sale of Montgomery\u2019s property was applied to the plaintiff\u2019s claim, the whole amount being absorbed by prior liens thereon.\nIf the court, under this state of facts, should be of opinion that the sureties were not discharged by the recovery on the recognisance, and the sale of the sheriff\u2019s property for a sum sufficient to satisfy the penalty, then it was agreed, that judgment should be entered for the Commonwealth for $10,000, and in favour of Maher & Brother for $42.66 and costs; otherwise judgment to be entered for the defendants.\nThe court below entered judgment on fhe case stated, in favour of the defendants; whereupon the plaintiffs sued out this writ and here assigned the same for error.\nBanks and Stewart, for the plaintiffs in error,\ncited Morris\u2019s Estate, 4 Barr 163 ; Act of 11th of March 1752, 1 Dall. L. 360; Act of 26th September 1767; Id. 484; Act of 5th of March 1790 ; 2 Id. 770 ; Act of 28th March 1803, P. L. 497; Act of 15th of April 1834, Brightly\u2019s Purd. 740; Treasurers v. Harris, 2 Bailey 621.\nWhites & Coffey, for the defendants in error,\ncited Act of 1705, Franklin\u2019s Laws 55; Act of 26th September 1767, Id. 342; Act of 11th March 1752, 1 Dall. L. 360 ; Act of 5th of March 1790, 2 Id. 770; Acts of 1803 and 1834; Christman v. Commonwealth, 17 S. & R. 381; Commonwealth v. Forney, 3 W. & S. 358; Commonwealth v. Lelar, 1 Harris 29."
+  },
+  "file_name": "0519-01",
+  "first_page_order": 519,
+  "last_page_order": 522
+}

@@ -1,0 +1,251 @@
+{
+  "id": 949929,
+  "name": "Mary Buchanan, Plaintiff in error, who was Plaintiff below, v. Rev. Charles C. Thorn, Defendant in error, and Defendant below",
+  "name_abbreviation": "Buchanan v. Thorn",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "431",
+  "last_page": "435",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Pa. 431"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Rawle, 129",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle, 305",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822496
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0305-01"
+      ]
+    },
+    {
+      "cite": "6 Bin. 256",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795165
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0256-01"
+      ]
+    },
+    {
+      "cite": "14 Serg. & Rawle, 288",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts, 477",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Bin. 487",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1792428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/4/0444-01"
+      ]
+    },
+    {
+      "cite": "17 Serg. & Rawle, 377",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts & Serg. 418",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 302",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846826
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0302-01"
+      ]
+    },
+    {
+      "cite": "16 Mass. Rep. 140",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Mass. Rep. 274",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wend. 153",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3517424
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/2/0153-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch. 80",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1978847
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/4/0080-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates, 405",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6775771,
+        6775735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0405-01",
+        "/yeates/1/0404-02"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 675",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2004010
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0591-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 474",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840086
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0474-01"
+      ]
+    },
+    {
+      "cite": "5 Rawle, 212",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Rawle, 157",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Serg. & Rawle, 288",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 547,
+    "char_count": 9726,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.46967120476908114
+    },
+    "sha256": "da64ad624e106c8e9b2bf0a0e73a3a7cddbfa57ae3a90c24a81581f6ea791b33",
+    "simhash": "1:31e0a1737874db91",
+    "word_count": 1729
+  },
+  "last_updated": "2024-02-27T16:44:41.129048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mary Buchanan, Plaintiff in error, who was Plaintiff below, v. Rev. Charles C. Thorn, Defendant in error, and Defendant below."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nBurnside, J.\nIt was not the object of the act of 1729 \u2014 1730, (1 Smith\u2019s Laws, 180,) to make compensation to the injured parents, but to punish and deter all ministers and magistrates from performing the ceremony of marriage where one of the parties is an infant, and the attempt clandestine. Fifty pounds to the lacerated feelings of a parent would be no compensation. The object of the penalty was to prevent the performance of the ceremony, 14 Serg. & Rawle, 288, 289.\nThe penalty is given \u201c to the person or persons grieved,\u201d but the grievance to be redressed is not necessarily an actual and specific damage, it being sufficient that the marriage is an unjustifiable interference with the relation existing between the parent and his offspring, and in that respect a grievance in contemplation of law. 5 Rawle, 157. The record shows that the child lived with her mother. Having property in her own right, she had a guardian who paid her mother for her boarding. It is contended that, as the infant had a guardian, he ought to have brought the action for the penalty, and that the guardian only could sustain the action for the penalty. The surviving mother is a parent within the statute. The defendant became subject to the penalty, unless he had first produced to him \u201c a certificate of the consent of the parent or parents, guardian or guardians, master or mistress of the minor. In a case like the one now under consideration there can be no question but the mother, who was the surviving parent, could bring the action, as there could be but one penalty recovered; so might the guardian. Either could maintain it. The mother was no doubt most grieved. She lost the fellowship, care, and education of her offspring. The action was well brought by the mother for the injury inflicted by the defendant. Cases under this act have been often before me. It is no penalty where the minor is rich, and I have often thought that it would be wise in the legislature to add imprisonment to the penalty. Ministers and justices of the peace would not go to prison for a marriage fee. Until that is done, the mischief will never be stopped.\nThe judgment is reversed, and judgment for the plaintiff on the verdict.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Hurd and Hampton, for plaintiff in error,",
+      "McKennon, contr\u00e0,",
+      "Hurd, in reply,"
+    ],
+    "corrections": "",
+    "head_matter": "Mary Buchanan, Plaintiff in error, who was Plaintiff below, v. Rev. Charles C. Thorn, Defendant in error, and Defendant below.\nThe surviving mother is a parent, within the act of 1729 for preventing clandestine marriages, and can bring an action to recover the penalty for marrying her infant child.\nError to the Common Pleas of Washington county.\nThis was an action of debt, to recover the penalty of \u00ab650 for marrying the minor daughter of the plaintiff, without the plaintiff\u2019s consent.\nThe daughter resided with the plaintiff. She had an estate of her own, of which, as well as of her person, one Mr. Miller -was appointed guardian by the Orphans\u2019 Court of Washington county. The guardian paid the mother for the boarding of his ward, her daughter. Rev. Mr. Thorn married the daughter, without her mother\u2019s or guardian\u2019s consent.\nA verdict was taken below foj the plaintiff, subject to the opinion of the court u^on the question whether, under these circumstances, she was entitled to recover. If the opinion of the court should be with the plaintiff, judgment to be entered on the verdict; if not, the verdict to be set aside, and judgment for the defendant. The court below entered judgment for the defendant, which was assigned for error in this court.\nHurd and Hampton, for plaintiff in error,\nstated the case, and cited acts of 1700 and 1729, 1730, Purd. Dig. 680.\nThis is 'a penal action \u2014 presupposes the commission of an offence: what is it ? \u2014 the infraction of the relation of parent and child. This is the foundation of tire action. 5 Rawle, 212, 129.\nThe child having an independent living will not alter the case. Ib. An unjustifiable interference with the relation of parent and child. This distinguishes it from the action for seduction, which is founded on the relation of master and servant. South v. Denniston, 2 Watts, 474.\nIt is not founded on a pecuniary consideration, nor the loss of service. But if it were, how stands the matter on reason ? By our act of 13th June, 1836, (sect. 28, Purd. Dig. 823,) she would be bound to support the daughter and her children.\nShe ought to have a right to recover damages from the person who increased her liability by this improvident marriage.\n- By the same statute, the daughter is bound to support the mother. But, on her marriage, the husband becomes entitled to her personal property absolutely, and her real estate for life; so that she is rendered unable to discharge this duty.\nNor is the husband bound to support his wife\u2019s mother. The act has not gone so far.\nWhen the wife parts with her ability, she ceases to be liable. 1 Bro. 268; Cooper v. Martin, 4 East, 76; 1 Str. 190; 4 Mass. Rep. 675.\nThis may serve to show, also, who is the \"person grieved.\u201d\nShe has reason to complain- \u2014 her liability is increased, and her chances for support greatly diminished.\nNo such reciprocal duties between guardian and ward. Neither is bound to support the other.\nIf founded on the relation of parent and child, can the guardian bring the suit while either parent is living ?\nPie only stands in loco parentis \u2014 a mere artificial relation, which will only be permitted to take the place of the real one where it is indispensably necessary; that is, where either public policy or private safety or convenience may require it.\nDoes it require it in the present instance ? Does the appointment of guardian destroy the relationship of parent and child ? Does the mother cease to be a mother ? Is she a stranger to her own offspring ? How can the guardian be \"grieved?\u201d A stranger in blood, he has no sympathies in common with the ward.\nTrue, the marriage may terminate the relation of guardian and ward, but it introduces no new relations into his family, interferes with no tender ties, nor entails any of the thousand evils arising from an improvident marriage. It creates no new responsibilities, or liabilities. It merely terminates all responsibility, and there its consequences end. It interferes with no social relations, for he is not entitled to the custody of his ward as against the mother.\nSuppose he marries his ward, who is to bring the suit ?\nSuppose he recover the penalty, what disposition is he to make of it ? He cannot keep it, because he has recovered it as guardian. It must, then, go into the pocket of the husband, who has, doubtless, indemnified the magistrate or clergyman, and thus he escapes the penalty entirely.-\nBut how can he sue as guardian, alter the relation has ceased ?\nIf he can sue at all, it must be in default of either father or mother, and then the court, perhaps, would get oyer the difficulties, in order to punish the offender. But the parents seem to be the persons \u201c grieved.\u201d\nHow stands this matter on principle, the father being dead?\nWho is so deeply interested in, this new relation as the mother? Who so competent to give advice ? Who so capable of judging of the propriety of the marriage ?\nHow stands the matter on authority ? Although the question has never been raised in Pennsylvania,-we have a case in point: Ann Norris v. Joseph Pilmon, 1 Yeates, 405. It don\u2019t appear in this case, whether the minor had a guardian or not, but he had a master. But what difference can this make ? If the guardian takes the place of the parent, why may not the master ? The servant makes a part of his master\u2019s family. The ward does not form part of his guardian\u2019s family.\nIf the father die during the minority of the child, his authority and duty, by the principles of natural law, would devolve on the mother. She stands in his place, and', of course, is the proper person to bring this action. 2 Kent's Com. 203, 206, 219; 4 Johns. Ch. 80; 5 Mod. Rep. 221; 7 Cowen, 36; 2 Wend. 153; 15 Mass. Rep. 274; 16 Mass. Rep. 140.\nThe minor, in this case, was living with her mother, and consequently under her pupillage. And as the rights of a parent are pupillary, and are given for the benefit of the child, the person in the exorcise of them must necessarily have a correlative remedy for their infraction. See Moritz v. Garnhart, 7 Watts, 302.\nBut as this penalty is not given by the legislature, so much to compensate the person grieved as to punish the magistrate or clergyman for the breach of the law, and thus prevent clandestine marriages, the court will not be very astute in finding out technical objections to the recovery- of the penalty, when there has been a plain and palpable violation of the law.\nOur position, then, is this \u2014 the persons named in the act of Assembly may sue in the order in which they there stand, viz.: 1, the father; 2} the mother; 3, the guardian; and 4, the master or mistress.\nBut suppose the*guardian would have the preference over the mother, yet, having failed to assert his right by bringing suit, he may be considered as having waived his right, qnd the suit is well brought by the mother.\nThe guardian might refuse to bring suit in a case, when he had either connived at the marriage; as, if his own son should marry his rich ward; or, in case the ward had no estate at all, he might be unwilling to incur the expense of the action. In that case, is the offender to-escape punishment entirely, for want of a proper person to sue for the penalty ?\nMcKennon, contr\u00e0,\ncited 3 Watts & Serg. 418; 17 Serg. & Rawle, 377; 4 Bin. 487; 2 Watts, 477; 14 Serg. & Rawle, 288; 6 Bin. 256; 3 Rawle, 305.\nHurd, in reply,\ncited Jacob's Law Dict., tit. Parent; Wood's Inst. 63; 6 Bin. 256; 5 Rawle, 212; 5 Rawle, 129; 16 Mass. Rep. 140; 2 Kent, 207."
+  },
+  "file_name": "0431-01",
+  "first_page_order": 433,
+  "last_page_order": 437
+}

@@ -1,0 +1,127 @@
+{
+  "id": 418899,
+  "name": "Young versus Stoner",
+  "name_abbreviation": "Young v. Stoner",
+  "decision_date": "1861-01-17",
+  "docket_number": "",
+  "first_page": "105",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts 82",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0082-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 407",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 83",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 517",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478113
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0517-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 272",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dallas 8",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Rawle 440",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823534
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/4/0440-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 433,
+    "char_count": 8904,
+    "ocr_confidence": 0.413,
+    "pagerank": {
+      "raw": 1.1787744951130048e-07,
+      "percentile": 0.5881823612110204
+    },
+    "sha256": "e5cb50933ceb5c0796aa53b50ed40cc6febe8bfd9baf8d6e31f5e5c75b921a1a",
+    "simhash": "1:fd76f019bc10a53b",
+    "word_count": 1592
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Young versus Stoner."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\n\u2014 There was no discussion of the point whether the nephews of Jacob Young, deceased, took a vested remainder under his will after the expiration of the estate for years to his brother, or whether it was contingent. Indeed the signs were too unmistakeable that it was the former, to justify any attempt to prove it the latter. One of these was the absence of any devise over, and another the charge of money legacies on it to be paid by the devisees on coming into possession.\nThe law regards vested rather than contingent remainders, where they may be sustained by fair interpretation. Here the remainder was vested.\nWith this settled as a starting-point, we have but little difficulty in arriving at conclusions. The testator devises to his nephews, subject, of course, to the precedent devise for years in favour of his brother, \u201cthe before-mentioned real estate, subject to such payments\u201d as should be \u201chereinafter mentioned.\u201d Among them is the bequest in question: \u201c I will and bequeath, as soon as the sons of my brother John arrive at the age of twenty-one years, that they shall pay $3000 to the rest of my brothers and sisters, to have and to hold to them, their heirs and assigns for ever.\u201d Although the time of payment is provided to be in futuro, yet the bequests are made a charge on the realty devised, which vested on the death of the testator, and thus the legacies became vested at the same time.\nThe time of payment is evidently for the benefit both of the estate and the devisees. In such cases legacies are vested: 1 Ross on Leg. 436, Hellman v. Hellman, 4 Rawle 440. See also as to vested legacies Price v. Watkins, 1 Dallas 8; Patterson v. Hawthorn, 12 S. & R. 112; Chew\u2019s Appeal, decided at this term, and the authorities there cited, antes, p. 23.\nThe brothers and sisters were all living at the testator\u2019s death, and there is no provision in the will to indicate an intent to devise over in case either of them should die before the period of payment, so as to disturb the vested character of the legacy as already stated.\nThe result is, therefore, the legacies being vested, the children of those who have become deceased since the testator\u2019s death are entitled to the shares of their deceased parents, and consequently the judgment on the special verdict must be reversed.\nJudgment reversed, and judgment is hereby entered for the plaintiff for the sum of $457.14, with costs, as per agreement of parties.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "John Banks, for plaintiff in error,",
+      "John A. Banks and J. Hagemann, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Young versus Stoner.\nTested and Contingent Legacies.\n1. The law regards vested rather than contingent remainders, where they can be sustained by a fair interpretation of the instrument by which they are created.\n2. A devise of land to a brother of the testator, until the children of a deceased brother shall attain the age of twenty-one years, and then to the said children in fee, charged with the payment of a certain sum of money to \u201c the rest of the testator\u2019s brothers and sisters, in equal shares, to have and to hold to them and their heirs for ever,\u201d creates a vested remainder in fee, in the children of the deceased brother of the testator, subject to the particular estate for years.\n3. Held, also, that the legacies to the rest of the testator\u2019s brothers and sisters, and payable out of the land devised, vested on the death of the testator, and that the children of such of them as had died since the death of the testator were entitled to the shares of their deceased parents.\nError to the Common Pleas of Berks county.\nThis was an amicable action in the Common Pleas of Berks county, in which. George Stoner and Catharine his wife were plaintiffs, and Nathan Young was defendant; and in which there was a case stated for the opinion and judgment of the court, in the nature of a special verdict.\nThe case was this: Jacob Young died sometime in 18-35, seised of the undivided moiety of a tract of land in Exeter township, Berks county, containing about 156 acres, leaving four brothers, two nephews the children of a deceased brother, and four sisters.\nHis last will and testament, which was duly proved, contained, among its provisions, the following:\u2014\n\u201cI will and bequeath to my brother, Samuel Young, all the income of my equal half share of my plantation, undivided, situate in Exeter township, county and state aforesaid, adjoining lands of, &c., &c., containing 156 acres, more or less, for my brother, Samuel Young, to draw the income or rent of my said undivided equal half share, until the sons of my brother, John Young, deceased, will arrive at the age of twenty-one years ; but in case the improvements should want repair during that time, the said repair is to be done, and paid for out of said rent, and the overplus to go to my brother, Samuel Young, or his heirs and assigns for ever.\n\u201cI will and bequeath to the two sons of my brother, John Young, deceased, when they arrive at the age of twenty-one years, all my before-mentioned real estate, subject to such payments and disbursements hereinafter mentioned, to have and to hold to them, their heirs and assigns for ever.\n\u201c I will and bequeath that, as soon as the two sons of my brother John have arrived at the age of twenty-one years, they shall pay $3000 to the rest of my brothers and sisters, to be distributed amongst them in equal shares, and to be paid out of my real estate to my said brothers and sisters, to have and to hold to them, their heirs and assigns for ever.\u201d\nThe younger of the two sons of the testator\u2019s deceased brother John attained the age of twenty-one years on the 1st of September 1854, previous to which two of the brothers and one of the sisters had died, leaving children. The sister left a husband, and one of the brothers a widow. The question was as to the proper and legal distribution of the $3000 payable by the devisees to the brothers and sisters of the testator, and it was for the purpose of ascertaining the rights of the parties, under the will, that the action was entered. Catharine Stoner, the plaintiff, was a sister of the testator, and Nathan Young, the defendant, was one of the sons of the testator\u2019s deceased brother John.\nThe points submitted to the court were as follows:\u2014\n\u201c If the husband, widows, or children of the brothers and sister who died before the younger son of said testator\u2019s brother John arrived at the age of twenty-one years, are entitled to a share of the $3000, then judgment to be entered for the plaintiff for $428.57$.\n\u201c But if the court be of opinion that the brothers and sisters of said testator, who were living at the time the younger son of said testator\u2019s brother John arrived at the age of twenty-one years, are entitled to the whole of the said sum of $3000, then judgment is to be entered for the plaintiff for the sum of $750.\u201d\nThe court below gave judgment for the plaintiff for $750, whereupon the defendant sued out this writ, and assigned for error the entry of this judgment.\nJohn Banks, for plaintiff in error,\nargued that the intention of the testator, when apparent, must prevail, if it be not in conflict Avith some settled rule of law. In this case provision had been made for Samuel, and for the children of John, who were to pay $3000 for distribution among the rest of his brothers and sisters. These legacies were vested. The gift is absolute and certain: there is no contingency added to, or connected Avith it; no provision that the shares are to be paid to such as might be living when the sons of John arrived at the age of twenty-one; nor anything from which it can be inferred: 4 Watts 272; 5 W. & S. 517; 10 Barr 15 and 237; 7 Vesey 421.\nWhen it is necessary to effectuate an intention, grandchildren may take as \u201c children\u201d \u2014 4 Watts 83 \u2014 a principle applicable to the children of the testator\u2019s deceased brothers and sisters. The principle in Seibert\u2019s Appeal, 1 Harris 503, is not assailed by this view of the case. The court below distributed the $3000, not to the rest of testator\u2019s brothers and sisters, but only to part of them.\nJohn A. Banks and J. Hagemann, for defendant in error,\ncontended that the will fixed the time of payment, and the class to whom the $3000 were to be paid. The time is annexed to the payment, and not to the gift: Seibert\u2019s Appeal, 1 Harris 503; Moore v. Smith, 9 Watts 407 ; Lamb v. Lamb, 8 Id. 186; 2 Salk. 415; Roper on Legacies 383; Steadman v. Palling, 3 Atkyns; Ward on Legacies 88-89; Williams on Ex. 934, note.\nWhen the words \u201cbrothers and sisters\u201d are used, and there are brothers and sisters to take, nephews and nieces cannot take under that designation: Dickinson v. Lee, 4 Watts 82; Williams on Ex. 935, note. The words \u201cheirs and assigns for ever,\u201d indicate only that the bequest was in full property. The $3000 belonged to those only who were living when the two sons of John attained the age of twenty-one, and was rightly distributed in the court below..\nJanuary, 17th 1861,"
+  },
+  "file_name": "0105-01",
+  "first_page_order": 105,
+  "last_page_order": 108
+}

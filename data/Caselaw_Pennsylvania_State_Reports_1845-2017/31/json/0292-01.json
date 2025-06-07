@@ -1,0 +1,91 @@
+{
+  "id": 985005,
+  "name": "Gring's Appeal",
+  "name_abbreviation": "Gring's Appeal",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "292",
+  "last_page": "293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 292"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts 82",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0082-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 559",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle 203",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 244,
+    "char_count": 3526,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 8.152920079693919e-08,
+      "percentile": 0.4746108749969593
+    },
+    "sha256": "55e0495fe7733abf49edb44ac4cb44a66fcd2a20ba6cec0ed1d8fec0674c137f",
+    "simhash": "1:913e689c01e2f729",
+    "word_count": 621
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gring\u2019s Appeal"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe testator was dying, leaving two brothers and a sister, and the children of three sisters, and he devised the proceeds of his land \u201c to his brothers and sisters, or their children or heirs.\u201d By this we very naturally understand that he intended the living brothers and sisters, and the children of the deceased sisters, to be the objects of his bounty; the children of the deceased sisters to take by classes. Such is our customary mode of descents, and so we understand such words as the above, unless qualified by other words. In disposing of his personal property, he describes them as \u201c brothers and sisters or their heirs,\u201d and says that he means his living brothers and sisters, and the children of his deceased sisters; and twice afterwards he calls them \u201cbrothers and sisters or their children,\u201d without saying that he means anything different. We have lately presented the principle of interpretation in such a case as this, in Fissel\u2019s Appeal, 27 S. R. 55, and we need not repeat it.\nDecree reversed, and it is now here decreed that the report of the auditor be confirmed, and that distribution be made accordingly, and that the costs of this appeal be paid out of the fund, and the .cause is remitted to the Orphans\u2019 Court, that this decree may carried into effect.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Davis and Rhoads, for the appellants,",
+      "S. W. Smith, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "Gring\u2019s Appeal\nA devise \u201c unto my brothers and sisters, or their children or heirs at law,\u201d vests the property devised in the brothers and sisters of the testator, and in the children of deceased brothers and sisters, the latter to take by classes.\nAppeal from the Orphans\u2019 Court of Berks county.\nThis was an appeal by Henry Gring and others, from the decree of the Orphans\u2019 Court, distributing the balance in the hands of Benjamin Parvin, executor of John Yeich, deceased.\n' John Yeich died in 1844, leaving two brothers and one sister, and the children of three deceased sisters. By his will, he devised his farm to his widow for life, and after her decease, \u201c that the proceeds of said farm be and fall unto my brothers and sisters, or their children or heirs at law.\u201d He also bequeathed one-third part of his personal property to his widow, \u201c and the remainder to be equally divided among my brothers and sisters, or their heirs; that is Henry Yeich, Samuel Yeich, the children of my sister Sarah, late wife of Abraham Reeser, and the children of my sister Susanna, late wife of John Hemmig, deceased, my sister Catharine, and the children of my sister Elizabeth, late wife of Henry Gring, deceased.\u201d\nThe fund for distribution consisted wholly of the proceeds of the real estate, and was reported by the auditor to be equally divided between the brothers and sister of the testator, and the children of his deceased sisters, the latter to take by classes. To this report exceptions were filed, and the court below decreed the whole of the fund to the surviving brothers and sister, to the exclusion of the children of the deceased sisters. From this decree the latter took this appeal.\nDavis and Rhoads, for the appellants,\ncited 2 Williams on Executors 937; Wild\u2019s Case, 8 Co. 16 b, 17 b; Newman v. Nightingale, 1 Cox 341; Longmore v. Broom, 7 Ves. 124; Richardson v. Spraag, 1 P. Wms. 434; Stoner and Barr\u2019s Appeal, 2 Barr 428.\nS. W. Smith, for the appellees,\ncited Krause v. Beitel, 3 Rawle 203; Sloan v. Hanse, 2 id. 28; Gross\u2019s Estate, 10 Barr 361; Herr\u2019s Estate, 4 Casey 467, 470, 471; Sorver v. Berndt, 10 Barr 214; Smith v. Folwell, 1 Binn. 559; Dickinson v. Byron\u2019s Executors, 8 S. & R. 71; Dickinson v. Lee, 4 Watts 82."
+  },
+  "file_name": "0292-01",
+  "first_page_order": 292,
+  "last_page_order": 293
+}

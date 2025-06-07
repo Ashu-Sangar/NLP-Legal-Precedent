@@ -1,0 +1,120 @@
+{
+  "id": 410201,
+  "name": "Gordon versus Bowers",
+  "name_abbreviation": "Gordon v. Bowers",
+  "decision_date": "1851-06-02",
+  "docket_number": "",
+  "first_page": "226",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 Pa. 226"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle 411",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 239",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848397
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0239-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 15",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Mass. 487",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028482
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/8/0406-01"
+      ]
+    },
+    {
+      "cite": "1 Dal. 275",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Rawle 411",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 620,
+    "char_count": 15806,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 1.0704653803636643e-07,
+      "percentile": 0.5596303104930056
+    },
+    "sha256": "7434d36446c10feac718e87039437352dcd8c73bd103b2476a6818948add49cb",
+    "simhash": "1:bb7c2bb58a94e7ae",
+    "word_count": 2818
+  },
+  "last_updated": "2024-02-27T22:22:36.542684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gordon versus Bowers."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered June 2, by\nRogers, J.\nThis is an action on the case, to recover damages for the non-performance of a contract for the purchase and sale of a quantity of wheat.\nThe plaintiff gave in evidence a receipt by defendant for $25, in part payment for 300 bushels of wheat, to be delivered in the storehouse of Sterrett, Hughes & Packer, at the village of Howard.\nThe defendant relied on two grounds of defence :\n1st. That a certain John Cummings, being a partner with the plaintiff in the purchase, the action cannot be maintained in the name of the plaintiff alone.\n2d. That by agreement of parties, at the time of giving the receipt, the wheat was to be retained by the defendant until a certain time agreed upon, at which time plaintiff was to call upon defendant, when the wheat was to be delivered; and that the plaintiff failed to come at the stipulated period.\nThe plaintiff called John Cummings, the alleged partner, as a witness, to whom defendant objected, on the ground that he was interested in the event of the suit. Whereupon the court overruled the objection, and admitted the witness.\nDuring the examination of Cummings before the jury, plaintiff proposed to ask him if he had any interest in the contract, or in the event of the suit: to which question defendant objected, hut the objection was overruled. In both cases exception was taken.\nAs the exceptions are intimately connected, it is most convenient to examine them together. There \u00e1re two ways of proving a witness to be interested in a cause; first, by examining him on his voir dire ; or, secondly, by showing his interest by other evidence. But both ways cannot be pursued at the same time: Mifflin v. Bingham, 1 Dal. 275; 1 Peters\u2019s Rep. 338, Evans v. Eaton.\nThe defendant elected to show interest in the witness by testimony aliunde. It is ruled that on a trial before the court, if one party prove by evidence a witness to be interested, the witness cannot purge himself of the interest by his own oath: Vincent v. The Lessee of Huff, 4 Ser. & R. 298. It is most certain, says C. J. Til&hman, that the witness could not be examined to prove his own competency. The defendant might have examined him on his voir dire to prove his interest; and if he had taken that course, he could have resorted to no other. But having adduced evidence of interest aliunde, it was not competent to the plaintiff to rebut it by the testimony of the witness himself.\nIn support of his objection, the defendant produced several witnesses who testified that, at different times, both Cummings and the plaintiff declared to them that they were partners in the business of buying and selling wheat. There was strong affirmative testimony on that point. The plaintiff then called a witness, who testified that he had resided in the same place with the plaintiff in the spring of 1847, and that he never knew of such a firm as Bowers, Cummings & Co.\nHe also read the memorandum-book of plaintiff, and the depositions of Miller, Nesbitt, and Grarretson, proving they had never heard of such a firm, and that contracts were entered into in the name of Bowers alone. The court being of opinion, that the weight of testimony submitted to the court, on the question of competency, was in favor of the witness, overruled defendant\u2019s objection.\nOn the view I have taken of the evidence, I should have great difficulty in coming to the same conclusion, nor should I have admitted the witness to testify, except on the principle and in the manner settled in Hart v. Heilner, 3 Rawle 411. If the interest, as is there ruled, be in the least degree doubtful, the court will not decide the question of interest, but receive his testimony and leave it to the jury to determine whether or not he has an interest in the event of the suit. See also Martin v. Jones, 6 Barr 82, to the same effect. In determining the question of interest, when the evidence is aliunde, and it depends on intricate questions of fact, the judge, in his discretion, may take the opinion of the jury upon them. Section 425, 1 Greenleaf\u2019s Ev. This was the course pursued by the judge, as the counsel for the plaintiff admit, referring to the charge in proof of the assertion, and which the counsel for the defendant do not deny. Taking this to be so, there was no error in admitting the witness, and referring' the question of interest to be determined by the jury. There was, at least, some doubt as to his interest. Viewing the case in this aspect, we are relieved from the necessity of deciding whether a mistake of the judge (unless it be a very gross mistake) in determining the weight of parol evidence can be corrected on error; and if it can, (as I suppose it may,) whether the court was wrong' in the view taken of the conflicting testimony.\nWaiving, then, this question, and conceding the witness to be properly admitted, the next question is, was Cummings the witness competent to testify that be had no interest?.in other words, was he at liberty to prove his own competency ? We have already seen that this will not be permitted where the question is tried by the court: 4 Ser. & R. 298, Vincent v. Lessee of Huff. Conceding this, it may be inquired what reason (if any) can be assigned, why he should be at liberty to testify before the jury, when substituted to try the same fact in place of the court. It may be asked, ought not the latter to be bound by the same rules as the former ? Why should there be any difference, in this respect, between the court and jury, when performing the same office. That the rules of evidence, which it is important to preserve, should be relaxed before the latter tribunal, seems to be reversing the order of things. No reason has been assigned for making any change, and none occurs to my mind.\nWe also think the court erred in admitting that part of the deposition of John Miller which is underscored. It relates to ex parte conversations between the witness and Bowers, and between Bowers and Cummings, and was consequently clearly inadmissible.\nThere is no error that we perceive in admitting the depositions of Nesbitt and Garretson. Their evidence is merely corroborative of the testimony of Packer, who proves the price of the wheat at Howard, where it was to be delivered.\nJudgment reversed and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Linn, for plaintiff in error.",
+      "Curtin and Burnside, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Gordon versus Bowers.\n1. If the interest of a witness in the event ofthe cause be doubtful, the court should receive his testimony and refer it to the jury to decide whether he has such an interest or not. But whether the question of interest be determined by the court or tried by the jury, and the witness is not examined on his voir dire, but evidence is adduced to' show his incompetency, the testimony of the witness himself, in support of his own competency, should not be received.\n2. Ex parte conversations are not admissible against the adverse party.\n3. In a suit on a contract to deliver wheat in the interior of the State, evidence as to its price in Philadelphia, at and soon after the time agreed upon for its. delivery, is receivable as corroborative of the testimony as to its value at the place' at which it was to be delivered.\nError to the Common Pleas of Centre county.\nThis was an action on the case, brought by Thomas Bowers against James Gordon, to recover damages for the non-performance of a contract made between the plaintiff and defendant, for the purchase and sale of a quantity of wheat. Upon the trial, the plaintiff gave in evidence a receipt given to him by defendant for $25 in part, for 300 bushels of wheat, to be delivered in the storehouse of Sterrett, Hughes & Packer. The store-house was at Howardsville, Centre county.\nThe receipt was as follows :\n9th April 1847. \u2014 \u201c Received of Thomas Bowers, per John Cummings, twenty-five dollars in part for 300 bushels of wheat at $1.10 per bushel, of which there are about 60 bushels of the same red, all to be delivered in the store-house of Sterrett, Hughes, & Packer. Jambs Gordon.\u201d\nThe defendant relied upon two grounds of defence :\n1st. That a certain John Cummings was a partner with the plaintiff in this purchase, and the action cannot be maintained in the name of the plaintiff alone.\n2d. That by agreement of the parties at the time of giving the receipt, the wheat was to be retained by the defendant until a certain time agreed upon, at which time plaintiff was to call upon defendant and the wheat was to be delivered, and that the plaintiff failed to'come at the stipulated period.\nThe alleged errors in this case were confined to exceptions taken upon the trial to the admission and rejection of evidence.\nThe plaintiff offered John Cummings as a witness, to whom defendant objected on the ground that he was interested in the event of the suit. In support of this objection, defendant produced several witnesses who testified that, at different times, both Cummings and the plaintiff had declared to them that they were partners in the business of buying and selling wheat. The plaintiff then called a witness who testified that he had resided in the same place with the plaintiff in the spring of 1847, and that he never knew of such a firm as J. J. Cummings & Bowers. They also read the memorandum-hook of plaintiff, and the depositions of Miller, Nesbitt, and Garretson. Upon this state of facts, the court, being of opinion that the weight of evidence submitted to the court on the question of competency was in favor of the witness, overruled the objection, and admitted the witness. Defendant excepted, and the witness was examined.\nDuring the examination of Cummings, the plaintiff proposed to ask him if he had any interest in this contract or in the event of this suit. Objected to by defendant\u2019s counsel on the ground that his competency had been tried on evidence to the court, and that it is not competent to prove by the witness himself to the jury that he has no -interest. The objection was overruled, and the question admitted : defendant\u2019s counsel excepted.\nJohn Cummings: \u2014 I am not interested in the event of the suit; nothing to gain and nothing to lose by it. I am not a partner of Mr.. Bowers in any of these contracts; was not when they were made. I bought for Mr. Bowers; he furnished every cent of money. \u2014 He was cross-examined.\nThe deposition of John Miller was offered on part of plaintiff, and the parts in italic were objected to. He testified: \u2014 In May 1842,1 was employed by Mr. Bowers as captain of his boat Princeton. Mr. Bowers instructed me to go to Centre county, to Curtin\u2019s Forge, to load wheat, which Mr. Cummings had bought for Mr. Bowers. I went to the Forge ; got there on Friday in the forepart of May. While ive lay at Curtin\u2019s Forge, Mr. Cummings asked me to go with him to Cordon\u2019s (the defendanti) to lift the receipts for 300 bushels of wheat, that Mr. Cummings had bought of him for Mr. Bowers, and to pay him, the balance of the money. On our arrival at James Gordon\u2019s, Mr. Cummings asked for the receipts' for the delivery of the wheat, as above stated, and offered to pay the balance of the money. Gordon told him he was too late, that the wheat was sold, and that he (Cummings) had not come according to contract. We went to Howardsville the next day, but found no wheat there subject to the order of Mr. Bowers. I asked Hughes, Sterrett $ Co. to look over their books; they did so, but found no entry of wheat for Mr. Bowers. The boats were hired at or about this time, for $6 per day. Crain was high, and every one was anxious to get to the market. When I got to Philadelphia with this boat, wheat was worth $2.20 per bushel. To fill out the load, there was some wheat bought by Mr. Bowers, at $2 per bushel.\nDefendant\u2019s counsel excepted.\nJohn P. Packer testified that the price of wheat at Howard was $2 per bushel.\nThe plaintiff also offered in evidence the depositions of Alexander Nesbitt and Edmund Garretson, to prove the prices of wheat in Philadelphia, in the spring of 1847, and also to show on whose account sales of wheat were made; to which defendant\u2019s counsel objected, on the ground that the facts stated in them, if true, were wholly irrelevant. The court overruled the objection, and permitted the deposition to be read. This formed the basis of the third error assigned.\nWoodward, J., charged inter alia:\u2014\nDefendant insists that plaintiff and Cummings were partners. If they were, the plaintiff cannot recover in his own name on this contract, and Cummings could not be-a witness. The true criterion of partnership is a right to participate in the profits of the enterprise. There may be no profits in point of fact; but if the jury are satisfied from the evidence that Cummings had a right as between him and Bowers to share the profits, if profits resulted, their verdict must be for the defendant. Is such a relation proved ? (The court referred to the evidence bearing on this point.)\nIt was assigned for error:\n1. The court erred in admitting John Cummings as a witness. 2. The court erred in allowing the parts of the deposition of John Miller, which were underscored, (italicized,) to he read in evidence. 8. The court erred in admitting the depositions of Nesbitt and Garretson. 4. The court erred in permitting Cummings to testify as to his interest in the contract.\nThe case was argued by Linn, for plaintiff in error.\nHe contended that Cummings was. interested, and should not have been admitted: 8 Mass. 487, Pierce v. Chase. That the part of Miller\u2019s deposition admitted related to ex parte conversations. As to the third error, that the measure of damages, if the plaintiff is entitled to any, is the difference between the contract-price and the value of the article at the time and place of delivery, and that it is not competent for him to give in evidence the value of the article at a different time and at a distant place: Chitty on Contracts 870 in note; Gilpin v. Consequa, 3 W. C. C. R. 184; 5 Watts 15, 109; Andrews v. Hoover, 8 Watts 239.\nAs to the fourth error, it was certainly improper to allow Cummings to testify to his interest, when the question had been already tried in another form: 4 Ser. R. 298; Mott v. Hicks, 1 Cowen 513; 1 Greenleaf on Evidence 496.\nCurtin and Burnside, for defendant.\nAs to the admission of Cummings, reference was made to Hart v. Heilner, 3 Rawle 411. If the interest be in the least degree doubtful, the court will not decide the question of interest in the witness, but receive his testimony, and leave it to the jury to determine whether or not he has an interest in the event of the suit. See also Martin v. Jones, 6 Barr 82, and Cowen and Hills, Phillips, in note on page 1501.\nIn determining the question of interest, where the evidence is aliunde, and it depends upon the decision of intricate questions of fact, the judge, in his discretion, may take \"the opinion of the jury upon them: Sec. 425, Grreenleaf\u2019s Ev. vol. 1. This was done in the case trying, by the judge submitting the question of partnership to the jury. Reference was made to Bent v. Baker, as reported in Smith\u2019s Selection of Leading Cases, page 39, and the note thereon.\n2d Error. A reference to the depositions of Miller, will show that the court excluded all, if not more than all, that yras not evidence.\n3d Error. The depositions of Nesbitt and Garretson showed the price of wheat in Philadelphia, which would be the price at Howard, less freight and toll, and were only corroborative of the testimony of Mr. Packer, who fixed the price at Howard.\n4th Error. While it is true, we could not examine Cummings as a witness on the question of competency, ,yet having been adjudged competent by the court, he was as competent to disprove that partnership, as would have been any other witness; his credibility was for the jury, and they have passed on it by their verdict."
+  },
+  "file_name": "0226-01",
+  "first_page_order": 226,
+  "last_page_order": 231
+}

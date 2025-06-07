@@ -1,0 +1,65 @@
+{
+  "id": 969087,
+  "name": "Conklin versus Conway",
+  "name_abbreviation": "Conklin v. Conway",
+  "decision_date": "1852-05-17",
+  "docket_number": "",
+  "first_page": "329",
+  "last_page": "330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 231,
+    "char_count": 3192,
+    "ocr_confidence": 0.431,
+    "pagerank": {
+      "raw": 2.822523241710985e-07,
+      "percentile": 0.8384506200940672
+    },
+    "sha256": "a2e87717acc8fb5751bab737dd69620e2c9104e22399e60ce5b30b871c3e1f2c",
+    "simhash": "1:587d9becb69a0bf8",
+    "word_count": 568
+  },
+  "last_updated": "2023-07-14T15:15:42.175627+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Conklin versus Conway."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court, was delivered by\nLowrie, J.\nThe Act of Assembly declares all bets on horse-racing void. Hence money, delivered to a stakeholder on such a bet, is delivered on a void contract, and the title to the money is not thereby changed, and the stakeholder has no right to deliver it to the winner. Hence follows the very obvious corollary, and perhaps a stronger one were it not for the force of decisions, that, if the stakeholder has paid the money to the winner after notice of the withdrawal of the bet, the lawful owner may still sue him for it. This was the instruction complained of.\nIt is argued that the stakeholder was bound in honor to pay over the money to the winner, and therefore he should not be liable to the other party. But a band of robbers might plead a similar sense of honor after they had divided their spoils among them. This sense of honor is a noble characteristic of humanity, when connected with worthy transactions and manifested in honest pursuits ; but when it is founded on a transgression of law, and upheld in order that law may be prostrated, then it is a vice of the most dangerous character; and the sooner it is disregarded, the sooner will the evils it upholds be annihilated. A sense of honor may actuate even unlawful deeds; but it cannot long endure such associations without being seriously tarnished and finally effaced.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Lawrence, for plaintiff in error; Morris, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Conklin versus Conway.\nAn action lies against a stakeholder for money deposited by plaintiff with him on a bet, and which the stakeholder has not paid over, or which he has paid to the other party after demand by plaintiff and notice of the withdrawal of the bet, or that it had failed through a dispute as to the mode of its decision.\n'Error to the District Court, Philadelphia.\nThis was an action on the case by Conway v. Conklin, to recover one hundred dollars, which the plaintiff had deposited with Conklin on a bet between Conway and another, as to the speed at which the \u201cLady Suffolk\u201d had trotted.\nA witness was examined who testified as to the deposit; but it appeared that the parties to the bet had differed as to the mode of ascertaining the speed, and it did not appear in the case that the speed had been ascertained. The plaintiff, on three occasions, demanded a return of the money deposited by him. The second demand was made in Philadelphia. On the first demand no reason was given for the non-payment. On the second the defendant said that he would write to Boston, and have the track or race-course measured, and give the money to the winning party according to the surveyor\u2019s answer. On the third demand the defendant said that he had been indemnified by the other party, and had given the money to him, admitting, however, that he had not 'written to ascertain the speed of the \u201cLady Suffolk.\u201d\nOn the trial, the defendant\u2019s counsel asked the judge to charge that no action lies against a stakeholder in a bet, but against the winner only. The judge refused so to charge, and charged to the contrary.\nYerdict was rendered for the plaintiff for $104.\nThe refusal and charge were assigned for error.\nLawrence, for plaintiff in error; Morris, for defendant.\nfiled May 17,"
+  },
+  "file_name": "0329-01",
+  "first_page_order": 329,
+  "last_page_order": 330
+}

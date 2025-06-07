@@ -1,0 +1,79 @@
+{
+  "id": 404663,
+  "name": "Daniel Camp, and Others, v. Charles F. Welles, Administrator de bonis non, &c., of Robert Proud, deceased",
+  "name_abbreviation": "Camp v. Welles",
+  "decision_date": "1849-07",
+  "docket_number": "",
+  "first_page": "206",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Pa. 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 501",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854573
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0501-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 224,
+    "char_count": 3294,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 7.90712889686355e-08,
+      "percentile": 0.4608556328959719
+    },
+    "sha256": "12cb8cbce515f8440342506ae654504c6aa41d000f49aad0279c397cf8ddcdbe",
+    "simhash": "1:3e7348ada7c23839",
+    "word_count": 597
+  },
+  "last_updated": "2024-02-27T20:36:37.361247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel Camp, and Others, v. Charles F. Welles, Administrator de bonis non, See., of Robert Proud, deceased."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis writ of error is clearly out of time, having been sued out after a period much longer than is allowed by the statute. But the plaintiffs in error insist, that the limitation ran only from the time when they had notice of the judgment: and it is true that it ran only from the time when they were bound to take notice of it. When were they thus bound ? Por the purpose of the present inquiry, the sheriff\u2019s return is conclusive evidence that the original writ was served on them, and though the statute allows judgment by default to be signed in ejectment only where the return has been verified by the sheriff\u2019s affidavit, which was omitted here, it is required only for that particular end. The want of the affidavit might make the judgment erroneous, but it would not disprove the common-law evidence of the return, that the defendants had notice of the impetration of the writ; and as it was their business to watch the progress of the suit, the law presumes that they did so. They were not, therefore, taken by surprise. But as the record is legally removed, the proper course is not to quash the writ, but to disregard the assignment of error.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Overton, for the plaintiff in error,",
+      "Elwell, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel Camp, and Others, v. Charles F. Welles, Administrator de bonis non, See., of Robert Proud, deceased.\n1. Although a judgment by default in ejectment, without affidavit of the service of the summons, is erroneous; yet if such judgment be tahen without such affidavit, where a summons has been returned served, the defendant will be bound by it after the lapse of the time allowed for suing out a writ of error, which in such, case will run from the judgment.\n2. Where the record is legally removed upon a writ of error that is out of time, the proper course is not to quash the writ, but to disregard the assignment of errors.\nError to the Common Pleas of Bradford.\nThe surviving executors of Robert Proud, plaintiffs below, brought an action of ejectment against Daniel Camp and others, to May Term, 1838. The writ issued April 30,1838, and was returned by the sheriff, who certified that he served it on the defendants by furnishing them an attested copy at their dwellings.\nOn 17th May, 1838, a rule was taken on the defendants to plead by the third day of the next term or judgment. On the 18th September following, judgment was taken for want of a plea, see. reg. When this judgment was thus taken, the rule of court was \u201c that in all cases where the defendant or defendants is or are personally served with summons or capias, he or they shall he hound to take notice of the rules to plead, without service of notice of such rule.\u201d\nOn the 22d April, 1847, Charles E. Welles, administrator de bonis non c. t. a. of Robert Proud, was substituted a plaintiff in place of the executors who had deceased. May 4, 1847, a rule was granted to show cause why the judgment in this case should not be set aside, which rule was discharged on the 17th December following, and this writ of error was sued out.\nIn this court it was assigned for error, that there was no service of the writ of ejectment in this suit, and therefore the judgment by default was irregular, and ought to have been set aside by the court below.\nOverton, for the plaintiff in error,\ncited Michow v. M\u2019Coy, 3 W. & S. 501.\nElwell, contra."
+  },
+  "file_name": "0206-01",
+  "first_page_order": 206,
+  "last_page_order": 207
+}

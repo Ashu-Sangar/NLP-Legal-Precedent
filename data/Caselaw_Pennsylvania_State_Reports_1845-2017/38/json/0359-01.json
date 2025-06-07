@@ -1,0 +1,85 @@
+{
+  "id": 994060,
+  "name": "The City of Philadelphia versus The Gratz Land Company",
+  "name_abbreviation": "City of Philadelphia v. Gratz Land Co.",
+  "decision_date": "1861-03-11",
+  "docket_number": "",
+  "first_page": "359",
+  "last_page": "361",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 359"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 259",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854571
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 4154,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.37592963914112365
+    },
+    "sha256": "642916c9ca84e8099ba6fe4c8ea41bfb85143be1a2aa908cb993dc5d3b37e797",
+    "simhash": "1:d667d73db83faef6",
+    "word_count": 750
+  },
+  "last_updated": "2024-02-27T22:44:35.746514+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The City of Philadelphia versus The Gratz Land Company."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Strong, J.\n\u2014 In The City of Philadelphia v. Sutter, 6 Casey 53, it was ruled, that municipal claims for paving, curbing, &c., require substantially the same precision which those of mechanics and material-men require under the Act of Assembly of 16th June 1836. Such claims were authorized to be made liens of record by the Act of 16th of April 1840, which, with some subsequent acts, assimilated them to claims of mechanics and material-men. At the time when the Act of 1840 was passed, \u2022there were in existence certain statutory requisites to the validity of a mechanic\u2019s claim, and it was to be presumed, therefore, that similar requisites were intended to be essential to claims for paving. But claims for the expenses attending the removal of nuisances were authorized to be filed in the office of the clerk of the District Court by the Act of April 7th 1830 (P. L. 348), before the Act of 1836 was passed; and they were to be filed, recorded, and proceeded on by scire facias as mechanics\u2019 liens then were. No Act of Assembly at the time required that the claim filed should state the time when the work was done or the materials were furnished. For this reason, it was held in Kennedy v. The Board of Health, 2 Barr 366, that it is hot fatal to a claim filed for the expenses attending the removal of a nuisance, that it does not state precisely the time when the work was done. That case governs the present, and is authority for holding, that the claim filed is formally sufficient.\nThe order of the court striking off the lien is reversed, and the claim is directed to be reinstated.",
+        "type": "majority",
+        "author": "by Strong, J."
+      }
+    ],
+    "attorneys": [
+      "David W. Sellers and Charles JS. Lex, for plaintiff,",
+      "Lames H. Little, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "The City of Philadelphia versus The Gratz Land Company.\nMunicipal Claims for removal of Nuisances.\nA municipal claim filed for the expense attending the removal of nuisances, under the Act of April 7th 1830, is sufficient in form, though it does not state the time when the work was done.\nError to the District Court of Philadelphia.\nOn the 23d of March 1856, the city of Philadelphia filed a claim against the Gratz Land Company for $526.50, for. \u201cremoving a nuisance from a lot of ground at the south-west corner of Mary and Master Streets, in Philadelphia,\u201d describing the lot by metes and bounds, \u201c which nuisance consisted of a pond of stagnant water, which after due notice to the Company, was removed by the Board of Health by filling the pond with dirt and levelling the same, in doing which, they within six months last past, incurred and paid\u201d the sum above mentioned.\nThe claim was filed under the authority of the Act of April 7th 1830, \u00a7 2, P. L. 348; Act of March 11th 1846, \u00a7\u00a7 3, 4, P, L. 115.\nAfter the issuing of a saire facias and the filing of defendant\u2019s pleas, a motion was made by defendant\u2019s counsel to strike off the lien. On the hearing, the court below (Sharswood, J., dissenting) held, that the lien was defective, in not stating with sufficient precision when the work was done, and struck off the lien. The plaintiff then sued out this writ, and assigned for error that the court erred in striking off the lien.\nDavid W. Sellers and Charles JS. Lex, for plaintiff,\ncited and relied on Kennedy v. The Board of Health, 2 Barr 366, and argued, that the ruling of this court in Philadelphia v. Sutter, 6 Casey 55, did not apply to the case of a lien filed for the expense of removing nuisances.\nLames H. Little, for defendant in error.\n\u2014 This claim is against common right and should be strictly construed; the case must come within the letter and intention of the statute wherever jt is one of statutory creation: City of Philadelphia v. Sutter, 6 Casey 55; Rehrer v. Zigler, 3 W. & S. 259; Lehman v. Thomas, 6 Id. 262. This lien is not, like that of a mechanic or material-man, based on any contract, but the work is always done without the consent'of the person charged, and should therefore be construed the more strictly.\nThe spirit of the act requires that the claim should show when the work was done, which is omitted in this case: Kennedy v. The Board of Health was a sci. fa. on a lien that was filed before this act was passed, and has, therefore, no application.\nMarch 11th 1861,"
+  },
+  "file_name": "0359-01",
+  "first_page_order": 359,
+  "last_page_order": 361
+}

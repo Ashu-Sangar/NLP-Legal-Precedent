@@ -1,0 +1,158 @@
+{
+  "id": 988373,
+  "name": "McKee versus McKinley",
+  "name_abbreviation": "McKee v. McKinley",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "92",
+  "last_page": "93",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Pa. 92"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle 59",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822516
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "73"
+        },
+        {
+          "page": "158-61"
+        },
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0059-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 400",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812627
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0400-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 47",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408467,
+        12126603,
+        1408414,
+        12126459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0045-01",
+        "/dall/1/0047-02",
+        "/us/1/0045-02",
+        "/dall/1/0047-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 18",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0018-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 163",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Rawle 59",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822516
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/3/0059-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 365,
+    "char_count": 5133,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 2.48858428451589e-07,
+      "percentile": 0.8083069707925057
+    },
+    "sha256": "c14a5c486d0816925f079b23e5cd2b983ef575c0e548882fec7ebb7ab4d13eb6",
+    "simhash": "1:b12c77d477d5e472",
+    "word_count": 940
+  },
+  "last_updated": "2024-02-27T20:46:52.756636+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Read, J., dissented. Strong, J., was absent at Nisi Prius."
+    ],
+    "parties": [
+      "McKee versus McKinley."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowexe, C. J.\nThe plaintiff is entitled to a decree in her favour, if she is in fact seised of a fee simple under the facts of the case; whether she obtains it directly by the will, or indirectly by barring an estate tail granted by the will.\nWe are satisfied that the will gives her an estate in fee simple. According to many cases the trust for her separate use is gone by the death of her husband: 20 State Rep. 302 ; 23 Id. 30 ; 24 Id. 327; 26 Id. 231; 27 Id. 75.\nFor the rest of the case, the principle governs, that a devise to one for life with remainder to his heirs, is a fee simple. This rule is sometimes amplified thus: \u2014 If the remainder is to persons standing in the relation of heirs general or special of the tenant for life, the law presumes them to take as heirs, unless it unequivocally appears that individuals, other than persons who are to take simply as heirs, are intended: 28 State Rep. 103; Smith on Executory Interests, \u00a7\u00a7 472, 479 ; Fearne 188; 3 Binn. 163 ; 1 Man. & Gr. 429; 1 Bro. C. C. 219; 23 State Rep. 32; 24 Id. 244.\nHere the devise is to the plaintiff for life, and then to her children or their issue; and in default of these to the testator\u2019s heirs. This is only another way of devising to the plaintiff for life with remainder to her heirs, or to the plaintiff and her heirs, and is the same in principle as the case of Steacy v. Rice, 27 State Rep. 82. The roundabout way which the testator takes to say \u201c heirs\u201d does not affect the substance: see Bush\u2019s Appeal, ante 85. Her heirs are, first, her descendants, and next, her next of kin on the side of the testator, that is his heirs (Act of 8th April 1833, \u00a7 9), and this is just the line of inheritance described by him.\nDecree at Nisi Prius reversed, and decree to be drawn in favour of the plaintiff.\nRead, J., dissented. Strong, J., was absent at Nisi Prius.",
+        "type": "majority",
+        "author": "Lowexe, C. J."
+      }
+    ],
+    "attorneys": [
+      "Hood, for the appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "McKee versus McKinley.\nA testator devised certain real estate in the following terms, \u201c I bequeath to my daughter C. M. in trust for her sole and separate use and benefit, during her lifetime, not liable to the debts or engagements of her husband T. M., reversible after her death to her children, if any surviving, or issue of\nJsueh children; and in case of no children, or issue of children, the below-mentioned property house to return to my relations and lawful heirs:\u201d Reid, that C. M. took an estate in fee in the premises devised; and that, after the death of her husband, the trust for her separate use determined.\nA devise to one for life, with remainder to his heirs, is a fee simple. If the remainder be to persons standing in the relation of heirs, general or special, of the tenant for life, the law presumes them to take as heirs, unless it unequivocally appear that individuals, other than persons who are to take simply as heirs, are intended.\nIn deciding upon the quantity of estate in land, the law regards rather the substantial than the formal character of the grant.\nAppeal in Equity from the Court of Nisi JPrius.\nThis was a hill in equity by Caroline McKee, against John McKinley, for the specific performance of a contract in writing for the purchase of a house and lot of ground in the city of Philadelphia, No. 73 New street, for the sum of $2518.25.\nThe defendant, by his answer, admitted the execution of the contract, and averred that he was ready and willing to perform the same, in case the complainant could make him a good and marketable title in fee simple to the premises; but that he was advised the complainant had only a life estate therein, and could not make him a good and marketable title in fee according to the terms of the agreement.\nJoseph Martin, the complainant\u2019s father, was seised in fee simple of the premises, and by his will, proved 23d November 1846, devised the same to the complainant, in the following terms:\u2014 \u201cI bequeath to my daughter, Caroline McKee (Thomas), in trust for her sole and separate use and benefit during her lifetime, not liable to the debts or engagements of her husband, Thomas McKee, reversible after her death to her children, if any surviving, or issue of such children; and in case of no children or issue of children, the below-mentioned property house to return to my relations and lawful heirs.\u201d Here followed a description of the property devised. The complainant\u2019s husband, Thomas McKee, died on the 17th March 1857. And on the 1st June 1857, a deed was executed for the purpose of barring any existing estate tail in the land.\nThe court below dismissed the plaintiff\u2019s bill, whereupon this appeal was taken.\nHood, for the appellant,\ncited Heffner v. Knepper, 6 Watts 18; Criley v. Chamberlain, 6 Casey 163-7; Jones v. Morgan, 3 Bro. C. C. 219; Com. Dig. tit. Devise N. 5; Morgan v. Griffiths, Cowp. 234; Robinson v. Robinson, 1 Burr. 38, 51; Doe v. Cooper, 1 East 228; Roe v. Grew, 2 Wils. 322; James\u2019s Claim, 1 Dall. 47; Haines v. Witmer, 2 Yeates 400; Carter v. McMichael, 10 S. & R. 429; Paxson v. Lefferts, 3 Rawle 59, 73; George v. Morgan, 4 Harris 95; Price v. Taylor, 4 Casey 95-108; Rancel v. Creswell, 6 Id. 158-61; Potts\u2019s Appeal, Id. 168."
+  },
+  "file_name": "0092-01",
+  "first_page_order": 92,
+  "last_page_order": 93
+}

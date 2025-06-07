@@ -1,0 +1,152 @@
+{
+  "id": 974093,
+  "name": "Lindsley versus Malone",
+  "name_abbreviation": "Lindsley v. Malone",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "24",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Bin. 222",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0222-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 162",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0162-01"
+      ]
+    },
+    {
+      "cite": "3 Peters 433",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3305738
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/28/0433-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 402",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Yeates 55",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6771425
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0054-01"
+      ]
+    },
+    {
+      "cite": "1 Dallas 153",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Leg. Int. 180",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates 162",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812618
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/2/0162-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 664,
+    "char_count": 14189,
+    "ocr_confidence": 0.412,
+    "pagerank": {
+      "raw": 3.837471259721333e-07,
+      "percentile": 0.8990601382551647
+    },
+    "sha256": "a9b0d4bb3b497d4a06f22146047fc4c4fe1b2c5dab8a9c5d35fa34c3907a4c3d",
+    "simhash": "1:ee5bec3d2e03bdde",
+    "word_count": 2555
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lindsley versus Malone."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nHere are six specifications of error. The 1st, 2d, and 3d relate to the refusal of the Court below to quash the attachment or to permit the question of residence to be put in issue before the jury. The defendant moved the Court to quash the attachment upon the ground that when it issued he was a resident of Pennsylvania, and consequently not subject to a foreign attachment. Upon a rule to show cause, the Court heard the parties and their evidence, and refused to-quash the writ. Upon the trial, evidence was again offered to \u00a1orove the defendant\u2019s residence in Pennsylvania when the writ issued, which was rejected, the counsel having previously stricken off a special plea to the same effect.\nAs there is no bill of exceptions to evidence on a motion for summary relief, the refusal of the District Court to quash the writ cannot be reviewed here: Miller v. Spreeher, 2 Yeates 162; Shortz v. Quigley, 1 Binney 222; Brown v. Ridgway, 10 Barr 42.\nIt is unnecessary to determine whether one against whom a foreign attachment has issued may not by a plea in abatement raise the question of residence, for clearly this cannot be done (after an ineffectual motion to the Court to quash the writ for the same cause) by a special plea accompanying other pleas in bar. There was neither error in striking off the plea, nor in rejecting the evidence offered to the jury.\nThe admission of Dr. Benjamin Malone as a witness for the plaintiffs is the 4th error assigned.\nFrom the time of the execution of the contract out of which at least a portion of the plaintiffs\u2019 claim originated, until after the suit was commenced, Dr. Malone was a dormant partner of the plaintiffs\u2019 firm. After the commencement of this suit, the witness sold his interest to his brother, Watson Malone, one of the plaintiffs. Under the principle which was first enunciated in Post v. Avery, 5 W. & Ser. 609, and afterwards followed by Lieper v. Pierce, Patterson v. Reed, Phinney v. Tracey, and other kindred cases, this witness was incompetent and should have been rejected.\nThat the course of decision in this respect since Post v. Avery has not been entirely uniform cannot be denied, arising probably from the fact that in some of the cases the rule was extended beyond its proper limits. That one who was interested in a chose in action at the time of its origin, cannot, by assigning his interest to a mere volunteer, become a witness on behalf of the assignee as to matters which preceded the assignment, may now be considered as settled. Two cases may be found in our last volume of reports to this effect: Graves v. Griffin, 7 Harris 176; Bailey v. Krapp, Id. 192. Had these cases been reported at the trial below, they would doubtless 'have led to the exclusion of the witness.\nThe _ fifth and sixth exceptions are not sustained, but for the reception of the evidence of Dr. Malone, the case must be reversed.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Porter, for plaintiff in error.",
+      "Glay and Jones, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Lindsley versus Malone.\n1. The refusal of the Court below to quash a writ of foreign attachment, moved for on account of residence in the state, is not the subject of review in the Supreme Court.\n2. Whether, in a proceeding by foreign attachment, the question of residence can be raised by plea in abatement, not decided; but it cannot be pleaded in bar after an ineffectual motion to quash the writ for that cause, and after appearance to the suit.\n3. In a suit by the remaining partners on a contract by the defendant with the \u25a0 partnership, one of the partners, who, after the institution of the suit on the contract, sold out his interest in the firm to another of the partners, with the assent of the third partner, is not a competent witness for the plaintiffs.\n4. A witness, who ivas a factor of the defendant to receive his lumber, wrote to the defendant that he had paid freight on certain lumber to the carriel-, and that the same had been refunded to him by the plaintiffs who had sawed the lumber under contract with the defendant; but there was no evidence that the letter had been received by the defendant:\nHeld, that it was proper to submit such evidence to the jury with instructions that from it a ratification by the defendant of the payment of the freight might be inferred.\nError to the District Court, Philadelphia.\nThis was a proceeding by writ of foreign attachment, issued on 28th December, 1850, by W. Malone and E. Buckman v. Edward Lindsley. The writ was served on Henry Oroskey of Philadelphia, as garnishee. The defendant appeared d. l>. e. to the writ. On 4th March, 1851, he obtained a rule to show cause why the writ should not be quashed, on the ground that he was a resident and inhabitant of the state of Pennsylvania when the writ issued. In support of the rule depositions were read to the Court by the respective parties, but the Court discharged the rule and permitted the action to proceed.\nThe Court, inter alia, observed that residence is a question made up of fact and intention. The defendant was an unmarried man, whose original residence was in New Jersey. \u201cHe has been engaged in the lumber business in Luzerne county, and has boarded and lodged near the scene of his operations. He has also paid taxes and military fines there. In general, the place where an unmarried man has his business, and exercises his political rights, is his domicile; but not conclusively so. His declarations may unequivocally evince that his absence from his original home is but temporary, and that his intention never was to change it. This appears to us to be the case upon the depositions.\u201d\nThe plaintiffs filed a declaration in assumpsit containing the common counts, and furnished a bill of particulars setting forth the items of their claim. The defendant pleaded non assumpsit, payment and set-off, with leave, &c., and also the following special plea:\u2014\n\u201cAnd for a further plea in this behalf, by leave of the Court, the defendant saith that the plaintiffs ought not to have or maintain their aforesaid action of foreign attachment \u25a0 against him, because he says, that at the date of the issuing of the said writ of foreign attachment he resided within the Commonwealth of Pennsylvania.\u201d\nThe plaintiff moved the Court to strike off this plea, which the Court accordingly did. The opinion was to the following effect, viz. By the appearance of the defendant to a foreign attachment, under the 64th section of the Act of 13th June, 1836, and taking defence in the action, the case proceeds in all respects as if commenced by summons. It is not competent for the defendant to raise by plea any question affecting the regularity of the process. He admits it by his appearing and taking defence. As well might a freeholder, sued by capias, plead his privilege in bar; or a defendant in any case, that he was not served. These questions are collateral to the merits, and the defendant has no more right to a jury trial to determine the fact which may be involved in them, than he has to a jury trial upon other collateral question of notice, &c., occurring in a suit at law.\nOn the trial, certain depositions of Stull and others were offered on part of the defendant, to show his residence in this state when the writ issued, and that he was then within this state. The testimony was objected to on the ground that the matter had been previously disposed of by the Court on the motion to quash the. writ. The testimony was overruled.\nThe defendant was engaged in cutting and sawing lumber in Luzerne county. Part of the plaintiffs\u2019 lumber saw\u00e9d there or elsewhere, was sent for sale to Philadelphia, to H. Croslcey, his factor. On the trial, the plaintiffs claimed to recover the price of certain store goods and money, alleged to have been sold or advanced to or for him, and other sums of money claimed by the plaintiffs, for sawing lumber, &c., under a written contract, dated December 13,1849, between Malone and Buckman, of the one part, and the defendant on the other.\nA defence was set up against the claim of the plaintiffs under said contract, and the defendant, on grounds stated in a notice, claimed above $>1000 to be certified in his favor by the jury.\nOn part of the plaintiffs, Dr. B. Malone was offered as a witness, and he was objected to on the ground of interest. He said he was interested as a partner in the firm, when the contract with the defendant was made; he was to participate in the profits, if any. He was interested up to January, 1851, and he sold his interest in the real and personal estate of the partnership, to W. Malone, in January, 1851, and took his bond. He said \u25a0 he had no interest in this suit, and no claim against Lindsley in this matter. , He was admitted.\nOn part of the plaintiffs, it was offered to prove by Henry Croskey, that he, as agent of Malone and Buckman, paid on behalf of Lindsley the defendant, above $50 to the captain of a canal boat, for the carriage of lumber. He was objected to, but was admitted, and he testified that he paid f 51.92 to the captain of the boat, and wrote to Lindsley to inform him of the payment. He said he could not say that Lindsley ever received his letter. The letter was not answered.\nThe Court charged the jury that there was evidence from which they might find a ratification by the defendant of the act of Croskey in paying .the freight.\nJanuary 31, 1853, verdict for plaintiffs.\nIt was assigned for error, \u2014 1. The Court erred in discharging the rule to show cause why the writ should not be quashed. 2. In striking off the plea. 3. In rejecting the depositions of Stull and others, as to the matter of the residence of the defendant. 4. In admitting the testimony of Dr. Malone. 5. In admitting the portion of the testimony of Croskey relating to the contents of the letter alleged to have been written by him to the defendant. 6. In charging that there was evidence from which ratification by the defendant, of the payment by Croskey might be inferred.\nPorter, for plaintiff in error.\nIt was contended that the residence of the defendant was in fact in Luzerne county, Pa., and that the declarations of the defendant testified to, if made, could not change the fact. But if the Court had the right to decide the question, it was contended that their decision was not final, and that this Court had the right to review it. As to the question of domicile reference was made to Story on Con. of Laws, sec. 44-47. If a man is unmarried (as the defendant was) that is generally deemed the place of his domicile where he transacts his business, exercises his profession, or assumes or exercises municipal duties or privileges. On the subject of domicile were further cited, 2 Peters\u2019 Adm. Dec. 450; 7 Leg. Int. 180; Reed v. Ketch, 1 Dallas 153; Id. 480 ; 3 Yeates 55.\nThe special plea as to residence was filed on the day on which the narr. was filed. A plea can be struck off only when it is out of time or irregular. It was contended that, where there is any evidence of a fact it should be submitted to the jury: 10 Watts 402; 6 W. & Ser. 60; 3 Peters 433.\n4th. Dr. Malone was incompetent: 5 W. & Ser. 509, Post v. Avery; 10 Barr 428; 1 Harris 46. All the members of a firm are liable for goods sold to either for the use of the firm, although the existence of the partnership was not known to the vendor: 5 W. & Ser. 333. The witness was liable to the plaintiffs on the record to contribute his proportion of any amount which may be recovered by the defendant under his plea of set-off. There was no paper shown discharging him from liability to his copartners.\n5th & 6th. It was alleged that there was no evidence of the receipt of the letter of Croskey, and it was contended that the evidence of ratification was insufficient. The defendant alleged that he had settled with the captain of the boat for the freight in question.\nGlay and Jones, for defendant.\nThe motion to quash the attachment looked only to summary relief, and the judgment was interlocutory. Error will not lie to such judgment: 10 Barr 42, Brown v. Ridgway. No bill of exceptions lies to such evidence. Also cited 3 Ser. & R. 410; 2 Yeates 162; 1 Bin. 222.\n2d. The plea was properly stricken off, both on account of its form and the time it was pleaded. In form it was a plea in bar, alleging matter which, if established, was ground for quashing the writ. Such matter can only be pleaded in abatement. It was not supported by affidavit.\nAs to the time of pleading, treating it as a plea in abatement, it was filed with other pleas in bar, which is not allowable, and was ground for striking it off: Bae. Ah. 11 Abatement,\" a. It was filed after appearance to the action, which is a waiver of objection to the regularity of the process. The object of the attachment is to secure the plaintiff, in case of recovery, to the extent of the property attached. The defendant may either move to quash for cause; or, 2dly, Dissolve the attachment by giving absolute bail under the 62d see. of the Act of 13th June, 1836, and 2d sec. of Act of 20th March, 1845; or, 3dly, He may cause an appearance to be entered, and take defence under the 22d sec. of the Act of 13th June, 1836, when the cause proceeds as if commenced by summons, and the attachment stands as security. No other course is afforded by the Act.\nIII. For the same reasons for striking off the plea, the evidence as to domicile was inadmissible. There was no issue joined to which it was applicable; and if admitted it could not have affected the verdict. It formed no ground for dissolving the attachment after appearance and defence.\nIV. It was contended that Dr. Malone was admissible. He had made an absolute sale of his interest. It was also said that his testimony was limited to the topography of the boom and pool of the plaintiffs for logs, and the method by which the logs composing the boom were secured; also to the stage of water in the Le-high at certain seasons, and as to the condition of one of the cribs; and it was alleged that these facts were only material as matter of description, and that the latter fact was to the advantage of the defendant.\nY. The testimony of Croskey was properly referred to the jury for their consideration."
+  },
+  "file_name": "0024-01",
+  "first_page_order": 24,
+  "last_page_order": 29
+}

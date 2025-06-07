@@ -1,0 +1,97 @@
+{
+  "id": 959493,
+  "name": "Sanderson v. Haverstick",
+  "name_abbreviation": "Sanderson v. Haverstick",
+  "decision_date": "1848-06-06",
+  "docket_number": "",
+  "first_page": "294",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Cow. 323",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032749
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0323-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 258",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0258-01"
+      ]
+    },
+    {
+      "cite": "6 Pet. 492",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 182,
+    "char_count": 2015,
+    "ocr_confidence": 0.379,
+    "pagerank": {
+      "raw": 1.1559534689672531e-07,
+      "percentile": 0.582913328151564
+    },
+    "sha256": "cc91f0b9cd2e6d434b93f5785c80fc8cf239695e2b3ca0abc93729c1934be981",
+    "simhash": "1:e7637734b4c0ae4a",
+    "word_count": 364
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sanderson v. Haverstick."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nBet the judgment be affirmed, for the reasons given by the court below.\nAffirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Watts, for plaintiff in error,",
+      "Graullagher, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Sanderson v. Haverstick.\nTrover lies for timber out by a stranger on the land of plaintiff, though -within the lines of a public road, laid out and approved by the court.\nThe cutting of the timber, without more, is a conversion.\nIn error from the Common Pleas of Cumberland county.\nJune 6. Haverstick brought an action of trover for certain trees, and, on the trial,\u2019proved that defendant cut them, and piled the wood and rails on the land, but they had never been removed..\nThe defendant proved that the timber stood within the lines of a public road, laid out by viewers over plaintiff\u2019s land, and approved by the court, though the road, as actually opened, did. not include the timber.\nThe court (Hepburn, P. J.) instructed the jury that when a public road passes over land, the public acquires but an easement; the right to the soil, and whatever grows on the land, remains unchanged : Roll. Abr. tit. Qhemin Private, 392, B, pi. 1, 2; 6 Pet. 492; 15 Johns.; 1 Yeat. 169 ; 1 Burr, 143; 1 Barr,- 337; hence trespass would lie for depositing rails on a highway; that if the defence were specially pleaded, it would be necessary to set forth that the place was a highway, and the defendant had a right to pass, and if damage was done, by cattle, to corn growing, it was by stealth and morsels, and not with the will of defendant: 2 Chit. PI. 598. In this case, the road was not actually opened over this part of the -land, nor were the trees cut because they obstructed the defendant\u2019s passage. That the exercise of the light of dominion over them by defendant, was a sufficient conversion; 6 Bac. Abr. 677 ; 7 Johns. 258 ; 10 lb. 172 ; 5 Cow. 323. That under the 3d sec. act of 1824, knowledge that it was on the land of another was immaterial in this action.\nWatts, for plaintiff in error,\ncontended the action must be under the act of 1824, in which guilty knowledge was an essential ingredient.\nGraullagher, contr\u00e1."
+  },
+  "file_name": "0294-01",
+  "first_page_order": 294,
+  "last_page_order": 294
+}

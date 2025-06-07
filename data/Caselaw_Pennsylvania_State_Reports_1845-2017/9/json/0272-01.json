@@ -1,0 +1,65 @@
+{
+  "id": 960756,
+  "name": "Dull v. Ridgway",
+  "name_abbreviation": "Dull v. Ridgway",
+  "decision_date": "1848-10-23",
+  "docket_number": "",
+  "first_page": "272",
+  "last_page": "272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 272"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 123,
+    "char_count": 1358,
+    "ocr_confidence": 0.383,
+    "pagerank": {
+      "raw": 9.449467906598604e-08,
+      "percentile": 0.5171676032077546
+    },
+    "sha256": "6531a85bfc79592275c214d8b6483a2e784016cfb38951ff47903adba8282e87",
+    "simhash": "1:b631f0a7a2def139",
+    "word_count": 233
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dull v. Ridgway."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nCooper and Grove v. Lampeter Township was misapprehended. The principle of that case is, that deliberative acts require the assent of all; but that ministerial acts may he performed by one. The custom to divide the roads between the supervisors is universal, and it would scarce be possible to get along without it. The signing of these due-hills for labour on the highways required no consultation, and the signature of one of the supervisors was equivalent to the signatures of both. Each had a right to hire labourers within his peculiar precinct, and each had a consequent right to bind the township for his contract to pay them. The plaintiff, therefore, ought to have been allowed to recover.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Jenlcs, for plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Dull v. Ridgway.\nThe employment of hands and giving due-hills for the amount of work done on the roads is hut ministerial, and may he done hy one supervisor.\nIn error from the Common Pleas of. Jefferson.\nAssumpsit against a township on a due-bill \u201cfor work done on the Ridgway road, in Ridgway township,\u201d signed by one of the supervisors. The plaintiff also offered to prove a usage for the supervisors to divide the township between them and work out their own part, and employ hands for that purpose; but the court rejected the evidence and the due-bill.\nJenlcs, for plaintiff in error.\nOct. 23."
+  },
+  "file_name": "0272-01",
+  "first_page_order": 272,
+  "last_page_order": 272
+}

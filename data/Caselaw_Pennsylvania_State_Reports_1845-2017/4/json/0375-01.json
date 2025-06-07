@@ -1,0 +1,79 @@
+{
+  "id": 401947,
+  "name": "La Rue v. Gilkyson, Executor, &c.",
+  "name_abbreviation": "La Rue v. Gilkyson",
+  "decision_date": "1846-01-18",
+  "docket_number": "",
+  "first_page": "375",
+  "last_page": "376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Whart. 379",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878225
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0379-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 249,
+    "char_count": 2708,
+    "ocr_confidence": 0.583,
+    "pagerank": {
+      "raw": 3.5456160620462984e-07,
+      "percentile": 0.8850222541931981
+    },
+    "sha256": "67d1d612ef48744d749e652e538b3fd42fc3fd92cb719ad24c4fe8c7a5501c5e",
+    "simhash": "1:7ae5a0ac1f12de5e",
+    "word_count": 482
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "La Rue v. Gilkyson, Executor, &c."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nEver since the case of Stiles and West, cited in Manby v. Scott, 1 Sid. 109, it has been held that the executed contract of a non compos mentis for necessaries, bona fide supplied, stands on the.footing of an infant\u2019s contract for necessaries. In Baxter v. The Earl of Portsmouth, 2 Car. & P. 178, (12 E. C. L. R.;) S. C. 5 Barn. & Cress. 170, it w.as said that the word necessaries is not to be restricted to articles of the first necessity, but that it includes every thing proper for the person\u2019s condition; and it was determined that to hire carriages to a nobleman who, th'ough actually insane, voted in parliament and went about as other men do, carried with it no mark of imposition. Why should not such a man be liable even for merchandise innocently furnished to his order in similar circumstances? To supply him with articles known to be improper for him, would bear on the face of the transaction evidence of an attempt to take advantage of his infirmity, and he would not be liable for the price of them. Nor would he be bound by a contract unexecuted by either party. In the case before us there is no difficulty on either of these heads. The credit given was for boarding and lodging, when the defendant\u2019s testator was destitute of a proper maintenance, as well as without a committee to provide it for him, and when his predicament was like that of a wife or child cast upon the world. The plaintiff ought therefore to .have recovered.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Ross, for plaintiff in error,",
+      "Chapman, contra."
+    ],
+    "corrections": "",
+    "head_matter": "La Rue v. Gilkyson, Executor, &c.\nExecutor of a lunatic is liable for necessaries furnished to his testator, while non compos mentis, before a commission issued, and after the issuing of the commission and before the appointment of a committee.\nIn error from the Common Pleas of Bucks county.\nJan. 2. Assumpsit for board, washing, and maintenance of defendant\u2019s testator, from 1836 to 1838. In 1837, an inquest issued on the petition of the plaintiff, and the testator was found to have been a lunatic for four years previous, which proceedings were confirmed, and a committee appointed. The estate of the lunatic was about $10,000 at his decease.\nThe court (Krause, P. J.) instructed the jury that, for the period during which the testator was lunatic, and until the appointment of a committee and a contract made by him, there could be no contract made, either express or implied, and as to so much of the account there could be no recovery.\nThe case was submitted without argument, with a note of the authorities by\nRoss, for plaintiff in error,\nreferring to 2 Greenl. Ev. 295; Chitty on Con. 108\u2014112 ; Story on Con. 23\u201445; Stock on Non-Comp. 25, 30; 5 Whart. 379.\nChapman, contra.\nJan. 18."
+  },
+  "file_name": "0375-01",
+  "first_page_order": 375,
+  "last_page_order": 376
+}

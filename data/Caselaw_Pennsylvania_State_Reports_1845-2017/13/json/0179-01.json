@@ -1,0 +1,92 @@
+{
+  "id": 964952,
+  "name": "Ford versus Keen",
+  "name_abbreviation": "Ford v. Keen",
+  "decision_date": "1850-03",
+  "docket_number": "",
+  "first_page": "179",
+  "last_page": "180",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Pa. 179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 W. & S. 37",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854663
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0037-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 257",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852654
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0257-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 204,
+    "char_count": 2961,
+    "ocr_confidence": 0.395,
+    "pagerank": {
+      "raw": 7.949015130763297e-08,
+      "percentile": 0.462611719833859
+    },
+    "sha256": "17f3c8b7053b340f508af83682dfe1420921350d35f04c43a371b0767e292808",
+    "simhash": "1:ba8746a79e5eb8f3",
+    "word_count": 538
+  },
+  "last_updated": "2024-02-27T17:48:08.325420+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ford versus Keen."
+    ],
+    "opinions": [
+      {
+        "text": "Per curiam.\nThe submission was expressly under the act of 1836, which contains a provision that it be made a rule of court; and this provison was as much a part of the agreement, as if it had been inserted in it. The act was the basis of it. The authority to make the reference a rule of court therefore appears by plain implication.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per curiam."
+      }
+    ],
+    "attorneys": [
+      "Wright for plaintiff in error. 1 W. & S. 257, Okison vs. Flickinger.",
+      "Du JBois for defendant, with whom was Roberts, refers to 3 W. & S. 37.",
+      "Wright in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Ford versus Keen.\nWhere a pending action is referred to arbitrators or referees, under the 6th section of the act of 16th June, 1836, relating to reference and arbitration, the agreement to refer need not specify that the submission be made a rule of court; that will be implied. The act of 16th June, 1836, did not intend to deprive the parties of the right to stipulate, that less than the whole number of referees may decide. Gibson, C. J.\nEkror to the Common Pleas of Hueles county.\nThere were two suits, one by Ford vs. Keen, the other Keen vs. Ford.\nThe parties agreed that the two cases be referred to three persons, the award of whom, or any two of whom, to be final and conclusive, under the 6th section of the act of 16th June, 1836, relating to reference and arbitration. This agreement was filed of record. The following is a copy of it:\nCopy of Agreement. \u2014 It is agreed that all matters in variance in the above cases between the said parties, be referred to Joseph L. Booze, Jonathan Mulford, and George W. South, the award of whom, or any two of whom, to be final and conclusive between the parties under the 6th section of the act of assembly, entitled an act relating to reference and arbitration, passed 16th June, 1836. The meeting to take place at the sign of the Camel, McJames\u2019 hotel, North Second street, ex parte, on five days notice to the other party.\nTwo of the arbitrators reported no cause of action, in the first case; and in the other, a sum in favor of the plaintiff. The other arbitrator protested against signing the award. The award was not sealed.\nRule granted to shew cause why the report should not be set aside, upon exceptions filed. Rule discharged and judgment entered.\nErrors assigned:\n1. The comt erred in discharging rule to set aside award of arbitrators, and in entering judgment on the award.\n2. That the court erred in entering judgment on the award, inasmuch as the submission to referees was not agreed by the parties to be made a rule of court, as the act of assembly requires: Purdon 74. The authority to make the reference a rule of court should appear either expressly or by plain implication.\nWright for plaintiff in error. 1 W. & S. 257, Okison vs. Flickinger.\nDu JBois for defendant, with whom was Roberts, refers to 3 W. & S. 37.\nWright in reply.\nThat the agreement to submit, in the case before the court, provides that two of the referees may decide; whereas the act of 1836 does not authorize that. Gibson, C. J., the act did not intend to deprive the parties of the right to stipulate, that less than the whole number of referees may decide. ^"
+  },
+  "file_name": "0179-01",
+  "first_page_order": 181,
+  "last_page_order": 182
+}

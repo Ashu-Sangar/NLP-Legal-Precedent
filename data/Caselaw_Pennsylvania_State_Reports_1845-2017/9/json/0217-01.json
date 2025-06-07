@@ -1,0 +1,62 @@
+{
+  "id": 960719,
+  "name": "In re Beeler's Road",
+  "name_abbreviation": "In re Beeler's Road",
+  "decision_date": "1848-09-11",
+  "docket_number": "",
+  "first_page": "217",
+  "last_page": "217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 134,
+    "char_count": 1555,
+    "ocr_confidence": 0.414,
+    "sha256": "423686d846f2ce2a7e4a58dbee73f801e95dbb9875574864630ddaf29480b45d",
+    "simhash": "1:34ba62172d98bc02",
+    "word_count": 269
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Beeler\u2019s Road."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis record is a budget of blunders. The Quarter Sessions had no power to interfere with the proceedings after they had been affirmed by this court. Nothing remained but to order the road to be opened according to the survey; and though two plots of it had been returned slightly differing in one of the courses, there was no suggestion of a difference between the lines on the ground, which, in this as well as in every other case, constitute the survey. Whatever may be the description of those lines in the order, it will be the duty of the supervisors to go by the lines of the survey as they discover them from the marks, or, these failing, from the information of those who were present when the lines were run.\nProceedings, subsequent to confirmation by the Supreme Court, quashed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Hamilton and Loomis, for appellant.",
+      "Washington, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "In re Beeler\u2019s Road.\nWhere proceedings in a road case have been affirmed by this court, the Quarter Sessions cannot, under the original proceedings, alter the courses marked on the land by the viewers, which are always to govern, as in other cases of surveys.\nCertiorari to the Quarter Sessions of Allegheny.\nA road having been laid out and marked on the land, the proceedings were removed to this court and affirmed. After the cause was remitted, an \u201c additional report of viewers\u201d was filed, correcting certain errors in their former report. A re-review was ordered to examine these errors and report made, on which an order to open accordingly was made.\nFrom this an appeal was taken.\nHamilton and Loomis, for appellant.\nWashington, contrd.\nSept. 11."
+  },
+  "file_name": "0217-01",
+  "first_page_order": 217,
+  "last_page_order": 217
+}

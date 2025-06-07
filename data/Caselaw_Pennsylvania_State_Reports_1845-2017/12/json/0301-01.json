@@ -1,0 +1,103 @@
+{
+  "id": 963765,
+  "name": "Linderman v. Berg",
+  "name_abbreviation": "Linderman v. Berg",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "301",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall. 304",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 424",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819280
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0424-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 65",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Rawle, 424",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819280
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/1/0424-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 156,
+    "char_count": 1660,
+    "ocr_confidence": 0.372,
+    "pagerank": {
+      "raw": 1.8437938122276616e-07,
+      "percentile": 0.722524170328077
+    },
+    "sha256": "6b2bad76dd0c77f69150c83c5c55dda51fd20307f8fc2050377b9969e83a1f60",
+    "simhash": "1:9855403dafff584b",
+    "word_count": 296
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Linderman v. Berg."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nthe petitioner had actually been the defendant\u2019s landlord, it would have been doubtful, under the circumstances, whether he would have been entitled to become a party. In McClay v. Benedict, 1 Rawle, 424, it was said that admission to defend is an act of the Court; and when the purpose of it is delay, as it palpably was here, it might perhaps be thought that the party had dispensed with his right by delay till the exercise of it would be an abuse of it. But the petitioner was not a landlord. He was simply a vendor; and not having a reversionary interest, as in McClay v. Benedict, and Boyer v. Smith, 5 Watts, 65, he was not within either the words or the intent of the statute.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Howell, for plaintiff in error,",
+      "Deford, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Linderman v. Berg.\n1. A vendor of defendant in ejectment is never entitled to Re suRstituted as landlord.\n2. It seems, a landlord has no such privilege, where delay will necessarily ensue.\nIn error from the Common Pleas of Fayette.\nThis was an ejectment commenced in 1846. In 1848, Stewart presented a petition setting forth that he had sold the land to defendant with a covenant warranty, and praying to be substituted as defendant. He further stated that he had not until recently been aware that the case was on the trial list, and that his duties as a member of Congress would prevent his attendance and preparation for the trial at the approaching term. The Court (Gilmore, P. J.) refused the application, and this was assigned for error.\nHowell, for plaintiff in error,\ncited Act 1772; 1 Rawle, 424; 1 Dall. 304; 4 Ib. 107.\nDeford, contr\u00e0.\nThe applicant was not landlord, and the delay intended was a sufficient objection to his request."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

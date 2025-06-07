@@ -1,0 +1,109 @@
+{
+  "id": 957925,
+  "name": "Fitler v. Fossard",
+  "name_abbreviation": "Fitler v. Fossard",
+  "decision_date": "1848-05-01",
+  "docket_number": "",
+  "first_page": "540",
+  "last_page": "542",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 540"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts, 551",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Maine Rep. 79",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        384956
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/18/0079-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 60",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003937
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0059-01"
+      ]
+    },
+    {
+      "cite": "4 Cow. 340",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030994
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/4/0340-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 343,
+    "char_count": 5549,
+    "ocr_confidence": 0.444,
+    "pagerank": {
+      "raw": 5.3219267522469394e-08,
+      "percentile": 0.3354656970348464
+    },
+    "sha256": "e31061d76f4dbdd5cacfb87e1f574ccb2f5b8347b8f19d56e94f77ebe3d16ee4",
+    "simhash": "1:bb606954af9f5475",
+    "word_count": 1002
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fitler v. Fossard."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nIt is sometimes said that, in levying an execution, the sheriff is the plaintiff\u2019s agent.' Having received a sufficient bond of indemnity, or a tender of it, he is certainly bound to follow his instructions; but the relation between them is not that of master and servant, for the sheriff is bound to act, not by force of the plaintiff\u2019s command, but by force of the command in his writ. He is the agent of the law; and therefore it is, that when he seizes, by the plaintiff\u2019s direction, the goods of a stranger on a, fieri facias against the goods of the defendant, the parties do not stand in the relation of joint trespassers. The plaintiff creditor is not a trespasser at all, for the sheriff is bound to stand the brunt of the stranger\u2019s action. He acts at his peril, but not without a means of security, and it is his fault if he does not use it. When he suspects the title of the defendant in the execution to be no title at all, he may call on the plaintiff to secure him, who, if he refuses, does so at the peril of his interest; but if the sheriff seizes without having made such a call, he takes the risk upon himself. There is no such thing as an implied promise of indemnity; for it would involve an execution, which has been called the end of the law, in a maze of endless litigation if there were. On the other hand, where he has received adequate security, or a tender of it, he is bound to go on, or to hold back at his peril. It has been said that a contract of indemnity for selling goods known by him to be the property of a stranger, would be illegal and void as a contract to violate the law. Not so. What he supposes to be knowledge may be no more than opinion, and possibly an erroneous one; but the execution-creditor may entertain a different opinion, and consequently be entitled to have its accuracy tested by experiment at his own cost. The object of such a contract, therefore, is not to commit a trespass, but to have the benefit of a remedy, and to assert a right. In the present case, however, the execution-creditor directed the levy to be made, not uj>on the stranger\u2019s goods in particular, but on the goods in the possession of the debtor, who actually owned a considerable portion of them; in which he did no more than is usual for plaintiffs to do. There was no apprehension of liability to a stranger; the sheriff took no security against it; and having acted on his own responsibility, he is without remedy.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Fallon, for plaintiff in error.",
+      "O. Hopkinson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Fitler v. Fossard.\nThere is no implied promise of indemnity on the part of an execution-creditor to the sheriff, where the goods of a stranger have, through accident or mistake, been levied on, but not tinder the special instructions of the plaintiff.\nIn error from the District Court of Philadelphia.\nApril 27. Fossard, having a judgment against Fiorelli, delivered a fi. fa.' to the sheriff, under which certain goods in the shop occupied by Fiorelli, were levied on and sold. There was no evidence of special instructions other than a direction to go to the shop at which the levy was made. At the time of the sale, certain articles were claimed by strangers, and were at once given up with the oonsent of Fossard. It appeared that one Pettrick had certain busts, &c., lying in Fiorelli\u2019s shop, and being absent from the city, no notice was given or claim made for these goods, and they were therefore sold by the sheriff as Fiorelli\u2019s. Pettrick brought an action against the sheriff, and recovered, and the sheriff then brought this action on the implied agreement by Fossard to indemnify him for levying on these goods. Fossard attended at the sale, and bought some of the articles belonging to Pettrick.\nThe court nonsuited the plaintiff.\nFallon, for plaintiff in error.\nThe case is of the first impression. The court below considered the rule that there is no contribution between tort-feasors applicable. Here the sheriff, however, was acting under instructions. [Rogers, J. \u2014 There is no evidence of instructions to levy on these goods.] He was directed to the house where they were, and he sold with the assent of Fossard, neither of them being aware of the real ownership; but having received the proceeds of a trespass which the sheriff was in effect bound to commit, he must indemnify him. 4 Bing. 66, is similar in principle, the plaintiff being an auctioneer, selling for one having no authority to give instructions. The rule adopted by the court is confined to cases where the act is known to be illegal; 2 Adol. & Ell. 57; Pearson v. Skelton, 1 Mees. & Wels. 504, 4 Cow. 340. He is the agent for the plaintiff, who adopts his act; 4 Mass. Rep. 60. The same principle is applied between the deputy and the sheriff; no express promise is required; Gower v. Emery, 18 Maine Rep. 79; Story on Agency, s. 339, 6 Watts, 551. [Per Curiam. \u2014 That is on the maxim, respondeat superior.]\nO. Hopkinson, contra.\nThere is no evidence that he pointed out the goods. On the contrary, whenever a claim was made, he allowed it. The rule seems to be settled, that without, express directions or an express indemnity, the plaintiff is not liable to .the sheriff; 1 Campb. 343; 2 Ibid. 452.\nMay 1.\nPETTRICK v. FITLER.\nIn this case, Pettit, P. J., instructed the jury that the sheriff was liable if he levied on the goods of a stranger, in whosesoever hands they might be; 23 E. C. L. R. 367; provided the plaintiff (who did not give notice) had no opportunity of making known his claim to the property; and this judgment for the plaintiff was affirmed on writ of error."
+  },
+  "file_name": "0540-01",
+  "first_page_order": 540,
+  "last_page_order": 542
+}

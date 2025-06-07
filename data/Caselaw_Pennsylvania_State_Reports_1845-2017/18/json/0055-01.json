@@ -1,0 +1,146 @@
+{
+  "id": 969152,
+  "name": "Moore versus Allegheny City",
+  "name_abbreviation": "Moore v. Allegheny City",
+  "decision_date": "1851-09-23",
+  "docket_number": "",
+  "first_page": "55",
+  "last_page": "60",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 55"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Pick. 436",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013213
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/25/0450-01"
+      ]
+    },
+    {
+      "cite": "13 John. 444",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374519
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/13/0444-01"
+      ]
+    },
+    {
+      "cite": "9 John. 229",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/9/0229-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 170",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145717
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/5/0170-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 289",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0289-01"
+      ]
+    },
+    {
+      "cite": "13 Mass. 271",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Mass. 144",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2055281
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/15/0133-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 768,
+    "char_count": 16271,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 1.423425749540643e-07,
+      "percentile": 0.6494758960850613
+    },
+    "sha256": "9d4f127035c996d1897b90ccd432cff1fd47be89ef0e5e6477a031e3bb65792a",
+    "simhash": "1:3ac7aed3867ed5ff",
+    "word_count": 2790
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moore versus Allegheny City."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBell, J.\nThe present is not of that class of cases which settle that an indivisible contract, founded in part upon an illegal consideration, is void, and consequently incapable of being enforced at law. Nor does it fall within the operation of the principle that an obligation wholly dependent on, or springing from a prohibited undertaking, is null. The foundation of the action is a duly executed bond, by the condition of which the defendant below, as surety of Scott, undertook that the principal obligor should well and faithfully perform the duties of the office of collector of city and poor tax, to which he had been appointed by the proper authorities of the city of Allegheny. Such a bond the obligees were entitled to require and receive. It is not averred there is anything illegal in its condition. It is conceded that of these taxes Scott, as collector, received the sum of $2306.07, being the amount ascertained by the verdict, and absconded without having paid to the city treasurer any part of the amount so collected. Thus regarded, we are presented with the ordinary case of a defaulting officer who has failed to perform the most essential of those duties the defendant below undertook should be duly discharged. Why, then, should not the surety answer for this default, by making good the sums dishonestly appropriated by the officer to his own use ? Looking to the fact that the money was received for the use of the public, by virtue of an authority delegated by their agents ; that no one entitled to complain avers any irregularity or impropriety in the collection of it, and that it has not been paid over for the benefit of those for whom it'was collected, it would seem difficult to answer this query by any averment short of an allegation of some misfeasance or nonfeasance on the part of the obligees, after the collection, so affecting the interests of the surety as to furnish an equitable discharge. But nothing of this kind is pretended. The ground of defence is that, though the councils of Allegheny city are invested with the general power of assessing taxes, for municipal purposes, upon the persons of a certain class of its inhabitants, and on certain professions, trades, and property exercised, owned and enjoyed within its limits, this power was exceeded, in the year 1847, by levying a portion of the tax to be raised upon certain persons and property not subject to it, and that these illegal assessments entered into and made a portion of the whole amount of taxes which the collector was authorized by his warrant to collect. This is the whole. There is no pretence of resistance by the tax-payers, no complaint by them of illegality, and no whisper of any intended attempt to reclaim the taxes paid to and pocketed by the collector. Standing in his shoes, the defendant below, while he admits the receipt of the money by the agent of the city for its use, contends that an agent may lawfully refuse to pay to his employers any part of the large sum collected under their authority, because a small portion of it ought not to have been paid to him.\nThis somewhat, extraordinary defence is made to rest on the notion, that the unauthorized assessments were utterly null, and being mingled in the duplicates or other evidence of assessment, with the sums legally levied, affect the whole, render the proceeding void, and, consequently, furnish no ground for the support of this action. Admitting this to be true, it would not, of course, be competent to the collector to aver it against those as whose servant he received the fund, unless, indeed, he can also establish his liability to be personally compromised by the irregularity. If he be not subject to answer to the tax-payers, for the sums voluntarily paid by them, he can have no pretext to withhold from the city corporation that which he received as its representative. The defendant is, accordingly, driven to the position that the collector is so liable. But the defence fails in both points. It may be that, in a contest between the assessors and tax-payer, an illegal rate so incorporated with a regular assessment as to be undistinguishable, may vitiate the whole. But from the manner in which assessments are usually made and returned on different species of property this is hardly possible, and it is not to be doubted that if part of an assessment be legal and part illegal, the former, if it can be separated, may be enforced irrespective of the latter: Libby v. Burnham, 15 Mass. 144. In the case before us, the sums said to be irregularly assessed, have not been designated, nor are we furnished with copies of the assessments. As these, no doubt, are in the usual form, discriminating the persons and kinds of property assessed, it would seem to be incumbent on the defendant to show the amount of illegal tax which entered into the duplicate delivered to Scott; for beyond this it is impossible, under any circumstances, the defence could be effective. As, however, its efficiency to any extent depends upon the liability of the collector, it must fail altogether, if it be found he cannot be subjected to suit by those who have voluntarily paid the tax irregularly assessed. I deny that any such liability exists. It may be admitted, the parties illegally rated may avenge the collection of the tax, by action of trespass against those who assessed it; and this is all that was determined in Stetson v. Kempton, 13 Mass. 271, and Libby v. Burnham, supra ; or the assessors may be subject to answer for money had and received by their agent, as is intimated in Ford v. Clough, 8 Greenl. 342; but this is the extent oNthe remedy. As the corporation plaintiff is invested Avith the general power of levying taxes for municipal purposes, there can be no doubt the collector is protected from molestation by tbe warrant authorizing their collection, notwithstanding the imputed irregularity.\nThough there has been some contrariety of opinion, or rather of expression, it is now settled that where the person or tribunal issuing the process has jurisdiction of the subject-matter, and the process is regular on its face, the officer executing it is not to be affected by any illegality in the previous proceedings. The distinction is between the usurpation of a power not eonfei'red, and the irregular or illegal exercise of a jurisdiction possessed. Where there is usurpation, and this is shown by the precept under which the officer seeks to justify, it affords him no protection; but it is otherwise where there is merely an irregular exertion of a power possessed. The distinction is glanced at in The School Directors v. The Carlisle Bank, 8 Watts 289, where an assessment failed for defect of power over the subject, banks not being within the contemplation of the act authorizing a levy of taxes; yet even there, had the contest assumed the shape of trespass against a collector for levying it, by virtue of his warrant, it may be doubted whether he would not have been protected. The subject was very fully considered in Savacool v. Boughton, 5 Wend. 170, where the leading cases are reviewed, and the general doctrine ably discussed by Mr. Justice Marcy. He clearly deduces, from the authorities, the rule as I have stated it. ' Even where the tribunal is one of limited jurisdiction, he shows that to render the ministerial officer liable, the proceeding must be coram non judice, from absence of power over the general subject, and not from merely stepping over a boundary line, which, after all, may not be very well defined. It is sometimes difficult to delineate the precise line of distinction between usurpation and an irregular exertion of a general authority. An illustration may, perhaps, be drawn from the case under consideration. Were the authorities of Allegheny destitute of the power to levy taxes, or limited to the assessment of persons only, an attempt, in th\u00e9 first case, to assess and collect a tax,_ and, in the second, to extend an assessment to property, might be esteemed so utterly nugatory as to afford its officer no protection. But possessing the right to levy and collect a tax for city purposes, from persons and property, a mistake of the class of persons or the species of property subject to it, will not amount to usurpation. This point was made in Beach v. Furman, 9 John. 229. It arose, upon an assessment, made by the overseers of highways, of a female to work on the roads. And the Court, though it assumed the woman was not the subject of such an assessment, under the statute conferring the power, yet determined that the justice who, at the instance of the overseer, issued the warrant under which her property was taken and sold for the illegal assessment, and the constable who executed it, were protected by it, because they acted in a merely ministerial capacity, and in obedience to those who had jurisdiction over the subject-matter, viz. the assessment of highway labor.\nA similar question was considered in the subsequent case of Suydam and Wyckoff v. Keys, 13 John. 444. The defendant was the collector of a tax which had been voted by a school district, and assessed by the trustees. They had authority to assess, but were confined in their assessments to the resident inhabitants of the district. The plaintiffs having property in the district, resided in New York, but were included among the persons assessed, and designated in the warrant issued to the defendant as inhabitants of the district. By virtue of the warrant, he took their property in payment of the tax, and was held liable for it in an action of trespass. This determination was put on the broad ground that the agent is bound to ascertain he is acting within the scope of the legal powers possessed by those who gave him the command to act; thus making it incumbent on a ministerial officer to look behind his precept, and to examine into extrinsic facts beyond the simple inquiry of jurisdiction over the general subject. This' case was brought to notice in Savacool v. Boughton, and shown to be irreconeileable with prior decisions, particularly Beach v. Furman, and inconsistent with the rule that an executing agent is not bound to look beyond his precept to extrinsic facts .to ascertain want of power in his superiors. Where they are intrusted with the exercise of a judgment involving discrimination of persons and things, it does not belong to their minister to go behind their conclusions, unless, perhaps, his warrant for action distinctly shows they have been guilty of excess. In accordance with this .doctrine is Ford v. Clough, 8 Greenleaf, 334, and Johnson v. Goodridge, 3 Shepley, 29. In both these cases, it was held that, in an action upon a collector\u2019s bond, neither he nor his surety can bar a recovery of the moneys paid him as tax by showing illegality of assessment in the exercise of excessive power, or other irregularity, antecedent to the period when it was committed to the officer for collection. I consider these cases as decisive of the present. They were both actions against the collector and his sureties, and both proceed upon the principle that, as an executive officer, a collector is not liable for acts done in the execution of his precept, apparently regular, and emanating from persons having authority over the subject. \u201cHis warrant,\u201d say the Court, following Holden v. Eaton, 8 Pick. 436, \u201c is his protection against all illegality but his own.\u201d As in those instances, so here; the corporation was vested with general power to assess taxes upon persons and property within the city, and though it may have mis takingly selected persons and things not strictly liable, or otherwise exceeded their authority, that was an inquiry the collector had no right to enter on, and of which, indeed, his warrant and duplicate could give him no information. The fact that his principals possessed a general jurisdiction over the subject of municipal taxes within the city, was enough for him. He could .not, properly, push his inquiries further, and this inability to go behind his duplicate gives him a claim to full protection. As is said in Clough v. Ford, the proper action to reclaim' the taxes illegally assessed and collected, would be assumpsit against the corporation, whose agent had received the money, or trespass against the assessors, who illegally imposed the rate. And with this, our own case of Wilson v. The Borough of Lewistown, 1 W. & Ser. 428, is in harmony, and, of itself, goes far to refute the defence attempted here. Indeed, to permit a mere agent to retain for his own use taxes collected by authority of a municipal corporation, under the subterfuge of an irregularity in the assessment that can in no degree affect him,, would not be less than iniquitous, and I am happy there exists no technical rule forcing our sanction of it.\nAn attempt was made, on the argument, to establish a distinction between the collector and his surety, favorable to the latter. But it failed. As joint obligors, they stand equally obnoxious to the action of the plaintiff, as is shown by Hutchinson v. Miller, 6 Barr 24, if authority be required for so plain a proposition. Nay, if there be any difference, it is adverse to the surety; for, as was remarked in Ford v. .Clough, in no event can the surety be liable to those from whom'the collector exacted payment of taxes.\nWhat has been said disposes of the only grounds of defence urged in this Court, and proves the conclusions, arrived at by the Court below, to be correct.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Marshall, for plaintiff in error.",
+      "Greyer, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Moore versus Allegheny City.\n1. A surety of a collector of city taxes cannot protect himself against liability for taxes collected by the collector and not paid over, by showing that a certain portion of the taxes, stated in the warrant, had been levied on certain persons and property not subject to taxation. It did not appear that any of the tax-payers demanded a return of the taxes severally paid by them; but the warrant to the collector protected him from liability to such tax-payers; any claim existing in them lies against those who assessed the taxes.\n2. The corporation having a general authority to assess taxes on persons and property within their jurisdiction, their assessment was not an usurpation of authority, but a mere irregular exercise of it, and the collector was protected by his warrant.\nError to tbe District Court of Allegheny county.\nThis was an action of debt in the name of The Major, Aider-men, and Citizens of Allegheny City against Clemson Moore, on k joint and several bond, executed in 1847, by D. H. Scott, as collector of taxes for the second ward of the city of Allegheny, and by Clemson Moore, the defendant, as his surety. October 23, 1850, verdict was rendered for the plaintiffs for the amount of the penalty of the bond, to be released on the payment of $2306.07, subject to the opinion of the Court as to the liability of the defendant.\nThe pleas were: 1. That the plaintiffs ought not to maintain this action, because the assessment of 1847 of the second ward of said city, was illegal and void, the said plaintiffs having assessed a city and poor tax upon the persons of married men living in said ward, and upon the trades, professions, bonds and mortgages, bank stock, and moneys at interest, of persons living in that ward.\n2. That the plaintiffs delivered the duplicate of the assessment in said declaration mentioned, to D. H. Scott, in violation of law, and without the requirements of law on his behalf having been complied with.\n3. That the plaintiffs and their agents, during the time D. IT. Scott assumed to act as collector as aforesaid, were grossly negligent and careless of their legal duty to compel the said Scott faithfully to pay over his collections, &c.\nIt was admitted by the defendant that he signed the bond declared on; that there remained unpaid to the plaintiffs the sum of $2124.75, according to the assessment mentioned in the first plea of defendant; and that the Mayor delivered the duplicate to D. H. Scott, and that he collected in pursuance thereof about $2124.\nHepburn, J., directed judgment to be entered for the plaintiff on the verdict.\nMarshall, for plaintiff in error.\nGreyer, for defendants.\nSeptember 23, 1851,"
+  },
+  "file_name": "0055-01",
+  "first_page_order": 55,
+  "last_page_order": 60
+}

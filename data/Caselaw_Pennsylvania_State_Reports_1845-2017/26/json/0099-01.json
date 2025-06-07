@@ -1,0 +1,91 @@
+{
+  "id": 977261,
+  "name": "Albright versus Lapp",
+  "name_abbreviation": "Albright v. Lapp",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "99",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 99"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Penn. L. J. 130",
+      "category": "reporters:federal",
+      "reporter": "Penn. Law J.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wheat. 88",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 McCord 110",
+      "category": "reporters:state",
+      "reporter": "McCord",
+      "case_ids": [
+        220435
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/13/0110-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 488,
+    "char_count": 8770,
+    "ocr_confidence": 0.438,
+    "pagerank": {
+      "raw": 6.589323253659411e-07,
+      "percentile": 0.9616058696858388
+    },
+    "sha256": "42b5b9b33cf712208ccf446460629cfbb3aa72a5b29b72fdf68a54dd44221224",
+    "simhash": "1:b75b77a1bd429dc8",
+    "word_count": 1528
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albright versus Lapp."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nIn England, where the office of justice of the peace is invested with more dignity and a larger jurisdiction than with us, the power of punishing contempts by attachment and summary conviction seems not to belong to it. Even the sessions, which is a court of record, held by two or more justices, one of whom must be of the quorum, has not power to punish disobedience of an order of court by attachment: King v. Bartlett, 2 Sess. Cases 291.\nBlackstone, in his Commentaries, limits this power to what he styles the \u201csuperior courts of justice,\u201d and thinks it was derived to them through the medium of courts of equity, the whole of whose proceedings were, till the introduction of sequestrations, in the nature of process of contempt acting only in personam, and not in rem-.\nIn Pennsylvania there has been no legislative grant of this power to justices of the peace. The Act of 16th June, 1836, like that which preceded it, relates altogether to the \u201c Courts of the Commonwealth\u201d ; and that this expression includes only the higher courts, which are in every sense courts of record, and which exercise a common law or equity jurisdiction, is apparent from the specifications of the statute. Thus the disobedience of \u201c officers of such courts,\u201d and of \u201c jurors,\u201d and contempts in \u201c open court,\u201d are punishable, but none of these specifications belong to a justice\u2019s court, for in that there are neither officers, nor jurors, nor any ceremony which makes it in the sense of the statute an \u201c open court.\u201d And this statute is restrictive. The legislature intended to define, with all possible precision, the cases in which these higher courts might exercise the power, and to restrain its exercise in all other cases. If they had intended to give it to justices of the peace they would have said so, and would have limited it as they did in conferring it upon arbitrators.\nIt is moreover to be considered that justices derive all their judicial powers from legislation. They exercise no common law powers. In virtue of their commissions they are, as at their first institution, conservators of the public peace, but their judicial functions are such, and only such as the legislature have made them, and no act has conferred the power of punishing con-tempts. \u2019\nIn McKinney\u2019s Justice, p. 116, it is said the nature of the office implies the power. There would be great force in this observation if the law afforded no other means of protecting a justice from insult and violence while performing his judicial duties, but it does. In Brooker v. The Commonwealth, 12 Ser. & R. 175, it was decided by this court that indictment would lie for a con-' tempt of a justice of the justice, which, though short of a breach of the peace, amounted to an obstruction of his office ; and it was suggested by Judge Gibson that the power to hold the offender to bail to answer upon indictment, and to be of good behaviour meanwhile, and to commit him in default of bail, rendered it unnecessary to the administration of. justice, that a justice of the peace should exercise the high power of punishing by attachment, which in the hands of-many magistrates might become a public grievance. Similar views were expressed by Judge Hallowell, in Fitler v. Probasco, 2 Brown 142.\nFor more than a hundred and fifty years these remedies have proved adequate for the protection of this important branch of our judicial system, and if the power to punish contempts summarily (which, like all irresponsible power, is exceedingly liable to abuse) is now to be added, it must be done by legislation. Such a power, wherever claimed and exercised, needs a firmer basis to stand on than a judicial implication. If the higher courts have derived it from courts of equity, the legislature have defined and limited it; and if the legislature have not defined and limited it in the hands of justices of the peace, it is because they have not derived it from courts of equity, or any other source.\nWe are of opinion, therefore, that the court were wrong in deciding that the justice had jurisdiction to commit for contempt, but they cancelled the error by admitting in evidence the circumstances out of which the alleged contempt grew. These were necessary to enable the jury to assess damages discreetly, and they were admissible because the justice had not jurisdiction to punish for contempt.\nThe only error in the record having been thus remedied, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Lear, for plaintiff in error.",
+      "Dubois, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Albright versus Lapp.\nA justice of the peace in this state has no power to punish a person summarily by imprisonment for a contempt, committed before him.\nSemble, That the remedy is by binding the contumacious party over to answer at court, and to be of good behaviour in the mean time.\nError to the Common Pleas of Bucks county.\nThis was an action of trespass, vi et armis, by Ralph Lapp, against Henry Albright. The latter was a justice of the peace, and, dui\u2019ing some proceedings before him, he alleged that Lapp used insulting and contemptuous language, whereupon he committed him for contempt to the jail of Bucks county for the period of twenty-four hours.\nOn the trial the plaintiff proved the imprisonment, and gave in evidence the warrant charging Lapp with \u201cabusive and contemptuous treatment of Henry Albright, one of our justices of the peace, in and for said county, while in the execution of his office, and with unlawfully disturbing and obstructing him therein.\u201d\nThe plaintiff then offered to prove \u201c the conversation, and all matters that took place in the office of the justice of the peace, Henry Albright, at the time the alleged contempt was committed, as stated in the warrant of commitment, on which the plaintiff was arrested and put to prison, for the purpose of showing that no contempt was committed.\u201d This was objected to by the defendant, but admitted under exception by the court.\nThe court charged that a justice of the peace had power to commit for contempt.\nThe jury found for plaintiff $50, and the defendant removed the record to this court by writ of error.\nThe error assigned was to the admission of the evidence above stated.\nLear, for plaintiff in error.\nThis case raises an important question. Have justices of the peace, in Pennsylvania, power to commit for contempt ? In Brooker v. The Commonwealth, 12 Ser. & R. 175, Judge Gibson intimates a doubt of the propriety of confiding this summary punishment into the hands of a justice of the peace. Mr. McKinney, in his American Magistrate, p. 116, says, there is much ground for the opinion, notwithstanding the dictum of Gibson, J., in the case referred to. It is sustained as incident to magisterial authority: 2 Bay. Rep. 7-385; 2 McCord 110.\nA court is defined to be a place where justice is judicially administered : 3 Black. Com. 23; Co. Litt. 58. The Act of 16th June, 1836, restricts the punishment for contempt to \u201c the misbehaviour of any person in the presence of the court, thereby obstructing the administration of justice.\u201d This is subsequent to the case of Brooker v. The Commonwealth. Without this power the authority of a justice would fall into disrepute. If the power exists and the justice has jurisdiction, then his action is conclusive ; if the warrant, as in this case, sets forth a sufficient cause, as decided by this court in Williamson\u2019s case, 2 Casey 9; 5 W. & Ser. 275; and in 7 Wheat. 88.\nDubois, for defendant in error.\nIt is said in the argument of plaintiff in error, that the case of Brooker v. The Commonwealth was prior to the Act of 1836, but the Act of 1809, on the subject of contempts, is identical with the Act of 1836.\nThat the power is confined to courts of record is shown by the case of The Commonwealth v. Roberts, 4 Penn. L. J. 130. In the case of Fitler v. Probasco, 1 Brown 137, Judge Hemphill says, if justices possess this power they must derive it from some Act of Assembly of this state, or from some English statute extended here, or implied from the principles of the common law. There is no pretence that there is' any statute, either of Pennsylvania, or England extended here, and in the case of Brooker v. The Commonwealth, 12 Ser. & R. 175, Judge Gibson says it does not exist at common law.\nEven under the Act of 1836 it is confined to contempts committed in open court. This warrant does not so allege. He may have been acting in the execution of his office, taking the acknowledgment of a deed. His own act here is set up as a conclusive justification; if this be the law the liberty of the citizen is not of much value. A justice is liable for maliciously issuing a warrant, and malice may be inferred from want of probable cause, which should be submitted to the jury: Garret v. Mitchell, Legal Int., 1855, No. 36, p. 238."
+  },
+  "file_name": "0099-01",
+  "first_page_order": 99,
+  "last_page_order": 102
+}

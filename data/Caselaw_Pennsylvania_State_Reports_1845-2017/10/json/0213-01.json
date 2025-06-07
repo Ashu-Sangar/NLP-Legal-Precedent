@@ -1,0 +1,102 @@
+{
+  "id": 962682,
+  "name": "Sorver v. Berndt",
+  "name_abbreviation": "Sorver v. Berndt",
+  "decision_date": "1849-04-02",
+  "docket_number": "",
+  "first_page": "213",
+  "last_page": "214",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Raw. 28",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820609
+      ],
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0028-01"
+      ]
+    },
+    {
+      "cite": "1 Bin. 559",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. 82",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wh. 382",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 253,
+    "char_count": 3428,
+    "ocr_confidence": 0.393,
+    "pagerank": {
+      "raw": 3.0393192077287677e-07,
+      "percentile": 0.8551529452103193
+    },
+    "sha256": "108d4604cd923734ba1ca680509000a702ddd2cec2255faceab3cd9dbda7b26b",
+    "simhash": "1:334e4f0e43e0b0bd",
+    "word_count": 618
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sorver v. Berndt."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe testator, an illiterate man, devised Ms estate, being all personalty, to Ms brothers and sisters. The bequest on which the dispute in this case arises, is in these words: \u201c I give and bequeath one-fifth part thereof to the children or legal heirs of my brother, David Sorver, in equal share alike.\u201d Did the grandchildren or grandchild of David Sorver take ?\nIt would seem that a plain man intended something by the use of the words \u201c or legal heirs of my brother David Sorver, share and share alike.\u201d And the most obvious intent which can be imputed to him is, that he thought his children might die, and that if they did, he did not wish the legacy to fail; but that in such event, it should go to their legal heirs, apd therefore gave it to them by that description. If we do not give the words this construction, we must reject them, which would be against the plainest canon of construction. Testator intended something by the use of these words, and their natural use and import is what we have given to them. It is doing no violence to the will to construe \u201c or\u201d as \u201cand\u201d \u2014 it was doubtless used in that sense by testator. \u201cI give \u00f3ne-fifth part to the children and legal heirs,\u201d &c. The words are not used as in substitution or in the alternate sense, but as part of the whole phrase, indicating an intent to give to the children first, but if they were dead, then by description to the legal heirs as deseriptio persones of those entitled to take. The grandchild, therefore, came within the description, and was entitled to take.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "8terigere and Mallery, for plaintiff in error.",
+      "Gf. JR. Fox, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Sorver v. Berndt.\nUnder a bequest to the children or legal heirs of my brother D., a grandchild of D., whose parent died before testator, is entitled to a share with the children of D. living at the testator\u2019s death.\nIn error from the Common Pleas of Montgomery.\nMarch 30. Case stated. Testator, by his will, dated in 1839, bequeathed \u201c one-fifth part of the residue of my estate to the children or legal heirs of my brother, David Sorver, in equal share alike.\u201d\nDavid Sorver died in 1816, leaving six children. One of these died in 1826, leaving one child, who died after testator. The question was, whether her administrator was entitled to a share of the residue, there having been children of David Sorver living at the death of the testator.\nThe court gave judgment for the plaintiff.\n8terigere and Mallery, for plaintiff in error.\nThe word children does not include grandchildren, unless under peculiar circumstances, none of which have place here. The only doubt is on the words \u201c or legal heirs\u201d \u2014 but they are a mere description of the previous word. By heirs, children are generally intended: 2 Wh. 382; 1 P. Wms. 84-5. It is also settled that these words do not operate as a substitution of the heirs in place of their ancestor \u2014 \u25a0 they are mere words of limitation: Plow. 341; 1 P. W. 397; 8 S. & R. 71; 4 W. 82; 1 Bin. 559; 2 Raw. 28, 33.\nGf. JR. Fox, contr\u00e1.\nEvery word is to have weight, if possible. The-construction contended for, excludes entirely the words \u201cor legal heirs;\u201d now, something was meant by this; and what was it? Clearly that the children or such other persons as should be the heirs of the brother when the will took effect, were to be provided for. If it is read strictly, the bequest is void for uncertainty: 2 Rop. 295. By reading \u201cor\u201d \u201cand,\u201d as is very common, both objects of the bounty are let in: Ib. 291.\nApril 2."
+  },
+  "file_name": "0213-01",
+  "first_page_order": 213,
+  "last_page_order": 214
+}

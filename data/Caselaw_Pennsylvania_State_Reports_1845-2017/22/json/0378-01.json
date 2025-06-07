@@ -1,0 +1,142 @@
+{
+  "id": 413709,
+  "name": "Caldwell versus Walters",
+  "name_abbreviation": "Caldwell v. Walters",
+  "decision_date": "1853",
+  "docket_number": "",
+  "first_page": "378",
+  "last_page": "380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Pa. 378"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Wheaton 280",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1428682
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "330"
+        },
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/24/0280-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates 13",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6770943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0013-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 299",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Pick. 161",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2014247
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/27/0162-01"
+      ]
+    },
+    {
+      "cite": "14 Mass. 96",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Mass. 299",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Pick. 161",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2014247
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/27/0162-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 376,
+    "char_count": 6120,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 2.902920496484776e-07,
+      "percentile": 0.8452042956944594
+    },
+    "sha256": "1403d82124088dc5ca0a79d364fb80fb6cc8b02b14b3a9dc344c033e49a3c0fe",
+    "simhash": "1:5d3656536ea236d2",
+    "word_count": 1080
+  },
+  "last_updated": "2024-02-27T20:47:09.354529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Caldwell versus Walters."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, C. J.\nThe only point in this case is, whether trespass for mesne profits can be sustained by a plaintiff who has recovered in ejectment, but never took possession.\nPossession of the loans in quo of a trespass is the test of the right to sue for it. For an injury to wild land the owner may maintain an action by showing his title to it, but this is on the principle that the law gives him a constructive possession. When another person has the actual occupancy the exhibition of a paramount title is not sufficient to sustain trespass, either against the disseissor or against anybody else. The right of the true owner to the use and profits of the land is suspended until he regains possession either by an entry or under a legal judgment. During the continuance of the disseisin the freehold is in the disseisor; (14 Mass. 96; 17 Mass. 299; 10 Pick. 161); and he alone has the right to receive the profits or to recover for any direct injury done to the land.\nDoes a judgment in ejectment put an end to the disseisin ? Certainly not. It may settle the title in favor of the plaintiff, but the all-important fact of an adverse possession remains just as it was before. That the attitude of the parties has not been considered as changed by the judgment alone, is proved by the case of Rambler v. Tryon, (7 Ser. & R. 90,) in which it was held that after judgment in one ejectment, a second action of the same kind might be immediately brought against the same defendant, and prosecuted on the same title as the first, unless the defendant chose to disclaim and in due time expressed his willingness to surrender.\nOf course we do not say that a writ of habere facias possessionem is in all cases indispensable. If the possession is voluntarily given up, the right to institute the action for mesne profits is as clear as if it had been forcibly taken under a writ: (7 Cowen 36.)\nJudgment reversed and venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Marshall, for plaintiff in error.",
+      "Walker, with whom was W. A. Galbraith, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Caldwell versus Walters.\nAn action of trespass for mesne profits, cannot \"be sustained by one who has recovered in ejectment but who is not in possession of the premises.\nError, to the Common Pleas of Erie county.\nThis was an action of trespass quare clausum fregit by Jane M. Walters v. James Caldwell and Daniel McDaniel, to recover mesne profits. The defendants plead not guilty.\nDaniel McDaniel, Sen., originally owned the land described in the plaintiff\u2019s narr. He died intestate in the year 1813, leaving six children, one of whom was Jane M. Walters. She, together with her husband, in the year 1829, gave a judgment bond to Elizabeth Stewart, upon which judgment was entered, and under it the interest of Jane M. Walters in the said land was sold upon a venditioni exponas to the said Elizabeth Stewart, in April, 1880. Elizabeth Stewart and her grantees were in the actual possession and occupancy of said land from 1830 till the trial of this case.\nIn the year 1847, Jane M. Walters brought an action of ejectment for the undivided sixth part of said land against James Caldwell, Daniel McDaniel, and Elizabeth Stewart; and recovered a verdict and judgment thereon, which was removed by writ of error to the Supreme Court and affirmed. See report of the case in 6 Harris. The judgment was affirmed on 1st October, 1851.\n. On the 2d February, 1852, the petition of Jane M. Walters was' presented to the Orphans\u2019 Court of Erie county for an inquest of partition or valuation. On the 29th March, 1852, the inquest reported a division of the land into two parts. Exceptions were filed to the proceeding, which were not disposed of when this suit Was brought.\nThis action was brought to November Term, 1851, without the plaintiff having obtained possession of the premises recovered, by habere facias, or otherwise.\nKnox, President Judge, charged the jury that the verdict and judgment in ejectment were conclusive evidence of the plaintiff\u2019s right of action; and that actual possession, since the recovery, was not necessary in order to maintain it.\nVerdict was rendered for the plaintiff.\nThe instruction referred to was assigned'for error.\nMarshall, for plaintiff in error.\nIt was alleged that the effect of the verdict and judgment in the ejectment was to establish the plaintiff\u2019s title, but that title alone was not sufficient to sustain trespass; that the plaintiff must have possession: 2 Bouvier\u2019s Inst. 559; 10 Pick. 161; 17 Mass. 299; Adams on Ejectment 389; 7 Cowen 36, Jackson v. Combs; 2 W. & Ser. 308.\nIf the plaintiff, after recovery in ejectment, is remiss for years in obtaining possession, he cannot charge the defendant as a trespasser: 3 Yeates 13.\nAs to third persons, the judgment in ejectment is not conclusive: 11 Wheaton 280.\nIt was alleged that if this action can be sustained before possession, the plaintiff will be enabled to sustain two actions against the same defendants, for the same entry, viz.: one for the mesne profits which accrued prior to the judgment in ejectment, and another for the mesne profits which accrued after such judgment. The law abhors multiplicity of actions.\nWalker, with whom was W. A. Galbraith, contr\u00e0.\nIt was said that the issuing of a writ of habere facias, in this case, would have been an idle ceremony; for, as the recovery .was for only an undivided sixth part of the premises, she could not be put into actual possession of her part, as it was not set apart for her. It was said that the action for mesne profits, though in form trespass, was in substance for use and occupation; and that it was not necessary to prove an actual trespass in order to recover mesne profits: 9 Ser. & R. 101; 7 Barr 25; 1 Peters C. C. R. 299; 2 Barr 202. In Jackson v. Coombs, 7 Cowen 36, it is said, \u201cIt is usual to produce the writ of possession executed, but this is not indispensable.\u201d That the action for mesne profits has been considered as an equitable action for compensation for use and occupation is shown by the fact that the taxed costs of the ejectment may be recovered with the mesne profits as damages: Esp. R. 358; Adams on Ejectment 338; Id. 330; Id. 336; 3 Harris 417."
+  },
+  "file_name": "0378-01",
+  "first_page_order": 380,
+  "last_page_order": 382
+}

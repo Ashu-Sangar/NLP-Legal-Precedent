@@ -1,0 +1,103 @@
+{
+  "id": 986761,
+  "name": "Stanton versus White",
+  "name_abbreviation": "Stanton v. White",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "358",
+  "last_page": "361",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 Pa. 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 W. & S. 75",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483332
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0075-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 95",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "97"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 75",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483332
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/8/0075-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 8298,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 2.1667917962506298e-07,
+      "percentile": 0.7705568934713954
+    },
+    "sha256": "98cd4983118041e70bea41fa4a1f814ad8a58af983ff9ac9440ccfad68ac9fba",
+    "simhash": "1:9efd63a78e3aa5ea",
+    "word_count": 1484
+  },
+  "last_updated": "2024-02-27T20:05:07.474243+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stanton versus White."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nStrong, J\". \u2014\nIt may possibly be, that the parties to the articles of agreement and to the judgment-bond, intended to confine the creditor to a resort to the land sold, as the only source from which to obtain payment of the debt. We can, however, gather the intention of the parties only from what they have said \u2014 from the words of the instruments. The agreement stipulated that White should execute \u201c a mortgage and judgment for the balance of the purchase-money, upon the property; such judgment to be a lien only upon the above described land, and no other property.\u201d The judgment-bond given in pursuance of this agreement, contains at the close of the warrant of attorney this clause, viz.: \u201c This judgment to be a lien only upon lands conveyed to me by the said obligees, by deed of this date, April 16th 1856.\u201d The court below instructed the jury that the true construction of the agreement and bond was, \u201c that the land conveyed should alone be liable for the payment of the debt secured by the judgment, and that no other property of White, real or personal, should be liable, or resorted to for payment.\u201d We cannot so read the contract. It was both a personal and a real security that were to be given. The mortgage was the real security, and the judgment was a personal one. Incident to the latter, indeed, but only incident to it, was a lien on all the lands which the debtor might own in the county. The stipulation inserted in the bond did no more than restrict the incident. It confined the lien of the judgment to the lands sold, but it did not profess to destroy the personal character of the security. . That more than a real security was contemplated, may be deduced from the fact, that both a judgment and a mortgage were agreed to be given. Admitting what was said by Ch. J. Lowrie, in Wood\u2019s Appeal, 6 Gasey 277, that \u201c the word lien is of the same origin as the word liable, and the right of lien expresses the liability of certain property for a certain legal duty, or a right to resort to it to enforce the duty,\u201d to be, in the main, a correct definition, yet the word means something more than simple exposure to being resorted to, in common with all the debtor\u2019s property. It is a right to resort to the property to the exclusion of adverse interests. Every man understands the difference between the personal security afforded by a judgment upon all a debtor\u2019s property, and that which is denominated its lien. The latter is such a hold upon certain property as prevents the debtor from making unrestricted use of it. To stipulate against that is not necessarily to guard against the former; for, if it were, a provision that a judgment should be no lien, would make it cease to evidence a debt. It is to be observed, that in this case, the debtor required that his other property should be exempted only from the lien of the judgment, and not from liability for the debt, to secure which the judgment was given. It was far short of the stipulation in Irwin v. Shoemaker, 8 W. & S. 75, where the alleged agreement was \u201c that the money was to come out of no other property but the one sold.\u201d Stipulations against the general lien of judgments are not uncommon. Their object is to enable the debtor to convey the lands exempted .from it, free from encumbrance; to relieve a portion from the specific grasp of the judgment, but not to discharge him from his personal liability to pay it.\nIt is urged, that if it was meant that only his lands were to be exempt from the lien of the judgment, he might have derived no benefit from the restriction, because it does not appear that he had any other lands than those, the purchase-money of which the judgment was given to secure. It does not, however, appear that he had not; and even if the fact were so, it was quite possible that he might obtain lands in another county, and this stipulation protected them against the lien of any transcript of this judgment entered in such other county. The argument, at best, however, shows no more than that the parties have introduced a clause which may be of no practical benefit to either of them. The words which they used, in our opinion, reach no farther than to exempt other lands of the debtor from any specific lien of the judgment.\nThe judgment is reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Strong, J\". \u2014"
+      }
+    ],
+    "attorneys": [
+      "JF. W. J- Hughes, for the plaintiff in error. \u2014",
+      "B. W. Gumming, for the defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Stanton versus White.\nA .stipulation in a bond and warrant of attorney, that tbe judgment to be entered thereon shall be a lien only on certain designated lands, though it restricts the lien of the judgment, does not exempt the other real and personal property of the defendant from liability for the debt.\nThe lien is but an incident to the judgment, and a restriction of it to certain designated lands does not affect the judgment as a personal security.\nError to the Common Pleas of Schuylkill county.\nThis was a feigned issue between John Claude White and James H. Stanton, directed by the court below to determine whether there was not an agreement between the plaintiff and Rowland Metcalf and others, the assignors of the defendant, that the lien of a certain judgment originally entered in Luzerne county, and transferred to this court, should be restricted to a certain tract of land in Luzerne county, and that no other property of the said plaintiff was ever to be made liable for the payment thereof.\nOn the 9th April 1856, Rowland Metcalf, for himself and the other heirs of Richard Metcalf, deceased, entered into an agreement with John C. White, the plaintiff, to sell and convey to him a tract of land in Hanover township, Luzerne county, containing 66 acres, more or less, for the consideration of $18,150. Three thousand dollars to be paid on the execution of the agreement, and the balance in three annual instalments. The agreement provided that a deed of general warranty was to be executed to the purchaser, and that he should execute \u201c a mortgage and judgment for the balance of the purchase-money, upon the property; such judgment to be a lien only upon the above described land and no other property.\u201d\nOn the 16th April 1856, the parties executed a deed to White, for the land; and he gave them a bond and warrant of attorney to confess judgment, conditioned for the payment of $15,150 in three annual instalments. This Bond contained the following-clause : \u2014 \u201c This judgment to be a lien only upon lands conveyed to me by the said obligees, by deed of this date, April 16th 1856.\u201d\nJudgment was entered on this bond, in Luzerne county; and a transcript thereof was subsequently filed in the Court of Common Pleas of Schuylkill county. By sundry mesne assignments the right to receive the instalment of. $3787.50, falling due on the 9th April 1858, became vested in James H. Stanton; and for the recovery of it, he issued an execution out of the court below.\nOn application of White, the defendant in the execution, the court granted a rule on the plaintiff to show cause why the execution should not be set aside, and the judgment stricken from the record of this court; and directed this issue to be framed.\nOn the trial of the issue, the court below instructed the jury that the true construction of the agreement and bond was, that the parties to them agreed that the land conveyed should alone be liable for the payment of the debt secured by the judgment; and that no other property of White, real or personal, should be liable, or resorted to for its payment.\nThe defendant excepted to this instruction; and a verdict having been rendered for the plaintiff in the issue, and the court having, thereupon, made absolute the rule to set aside the execution and strike off the judgment, the defendant, James H. Stanton, sued out this writ, and here assigned the same for error.\nJF. W. J- Hughes, for the plaintiff in error. \u2014\nIt was the lien of the judgment that was restricted by the agreement, not the personal liability of the debtor. \u201cA debt and a judgment as security for it are distinct things, or to speak more properly, a judgment and the subjects of its grasp are so; and they may be dealt with as such by the parties to be affected by them:\u201d Sankey v. Reed, 2 Jones 95.\nB. W. Gumming, for the defendant in error,\ncited Wood\u2019s Appeal, 6 Casey 277; Barnhart v. Riddle, 6 Id. 97; Irwin v. Shoemaker, 8 W. & S. 75."
+  },
+  "file_name": "0358-01",
+  "first_page_order": 358,
+  "last_page_order": 361
+}

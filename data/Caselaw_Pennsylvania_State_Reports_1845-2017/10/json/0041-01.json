@@ -1,0 +1,121 @@
+{
+  "id": 962749,
+  "name": "Cook v. Neilson",
+  "name_abbreviation": "Cook v. Neilson",
+  "decision_date": "1848-01-30",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "42",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 41"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Mai. 209",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8738643
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/13/0209-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 90",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852564
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0090-01"
+      ]
+    },
+    {
+      "cite": "1 John. 323",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pick. 47",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 John. 4",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Raw. 123",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0123-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 228,
+    "char_count": 2742,
+    "ocr_confidence": 0.402,
+    "pagerank": {
+      "raw": 3.0631957575630084e-07,
+      "percentile": 0.8567617262628053
+    },
+    "sha256": "41df35aba3b5899bc3f87564c91f1288ffe274b87c6580af302085822b4329c1",
+    "simhash": "1:f50530ab5dc7642a",
+    "word_count": 507
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cook v. Neilson."
+    ],
+    "opinions": [
+      {
+        "text": "The court being equally divided, the judgment was affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "O. Thompson, for plaintiff in error.",
+      "Quill\u00f3n and Price, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Cook v. Neilson.\nA tenant from quarter to quarter, who has held over, is not bound to give notice of his intention to quit at the end of the current quarter.\nIn error from the District Court of Philadelphia.\nJan. 30.\nCase stated in an action for use and occupation.\nThe tenancy was under the following agreement:\u2014\n\u201c I have rented of D. Coot the house I now occupy, by the quarter, commencing on the 10th of September, 1842, at $200 per quarter. R. P. Neilson.\nPhiladelphia, August 81, 1842. \u201d\nThe plaintiff gave defendant the following notice :\u2014\n\u201c To R. Neilson, Esq. Sept. 24, 1844.\nSir: The rent of the house you occupy will be $250 per quarter, commencing on the 10th December next. Respectfully, &c., D. Cook.\u201d\nOn the 6th June, 1845, defendant quit possession and paid the rent falling due on the 10th June. The action was for the succeeding quarter\u2019s rent \u2014 viz. from June 10 to Sept. 10.\nThe court below gave judgment for defendant.\nO. Thompson, for plaintiff in error.\nThe tenancy from quarter to quarter is of course regulated in the same manner as from year to year. Whether a tenant holding over for an indefinite period must give notice, is the only question. That the law in England requires a notice, both from landlord and tenant, is apparent from every text-book and decided case: 1 Wm. Bl. 533; 2 Ib. 1224; 1 T. R. 162; 4 B. & Cr. 922. Woodfall on L. & Ten. 250; Comy, on Ib. 285-8. It is equally certain that in Pennsylvania there must be a notice by the landlord; 8 S. & R. 466; 4 Raw. 123-7; and in the former case it is said to be reciprocal.\nQuill\u00f3n and Price, cont\u00f3.\nThe letting was from quarter to quarter, until either party elected to determine it: Was the tenant bound to notify the landlord of his intention to elect ? It is not within the contract, nor required by any statute, nor has any decision yet announced this to be an implied part of the contract, nor has it been so understood by the profession, and it is denied in 8 S. & R. 469. The parties so understood it. The landlord raised the rent without a full quarter\u2019s notice, and the tenant has quitted on the same notice. The landlord, it is true, did not eject him by summary proceedings without three months\u2019 notice, but this is under the statute, giving the landlord a jury, &c. But it is for him to contract for this privilege if he see fit. No case has decided this in England, though there are loose dicta, and they are founded on the statute 2 Geo. 2, giving double rent for holding over, 1 Wm. Bl. 533. This is a tenancy at will, determinable at the end of each quarter, 7 John. 4, and there was no need of a notice by either party: 1 Pick. 47; 1 John. 323; 1 W. & S. 90; 13 Mai. 209-14."
+  },
+  "file_name": "0041-01",
+  "first_page_order": 41,
+  "last_page_order": 42
+}

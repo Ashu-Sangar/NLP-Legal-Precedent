@@ -1,0 +1,103 @@
+{
+  "id": 963803,
+  "name": "McClelland v. Smith",
+  "name_abbreviation": "McClelland v. Smith",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "303",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Pet. 114",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 261",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852630
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0261-01"
+      ]
+    },
+    {
+      "cite": "2 Hawks, 391",
+      "category": "reporters:state",
+      "reporter": "Hawks",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle, 158",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0158-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 153,
+    "char_count": 1723,
+    "ocr_confidence": 0.376,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3642366794357509
+    },
+    "sha256": "48093ecee4e6296080b067d4971ee12b98f18b3157db2b42d689f3806e966b7d",
+    "simhash": "1:1d3686c5cdbec763",
+    "word_count": 329
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McClelland v. Smith."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nAs the Act of Assembly is silent as to the person who is to be the obligee, the bond was well taken in the name of the judge; but the condition of it exacts more than the law allows. By the Act he is required to give bond to appear; by the bond taken he is not only to appear, but to appear, answer, and abide the decision. In case of a second adjournment, there ought to be a. second bond. The one taken, therefore, is void.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Veech, for plaintiff in error,",
+      "Sayers, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "McClelland v. Smith.\n1. Under the act of 1842 (warrant of arrest), tire bond to be taken by the judge, should be for an appearance only; and, if the defendant appeared on the day, his sureties are not liable for his non-appearance at an adjournment of the hearing.\n2. The bond is well taken in the name of the judge.\nIn error from the Common Pleas of Greene,\nSmith having been arrested on a warrant granted tinder the Act of 1842, gave bond with the other defendants as sureties to the judge to appear before him on the 9th of February, to answer a certain complaint made by, &c., for fraud, &c., under the Act of 1842, and to abide the decision made in the premises.\nOn the 9th of February, Smith appeared, and the cause was adjourned to the 17th. \u2018 On that day the cause was adjourned for want of his appearance until March, when the judge declared the allegations proved, hut that he could not commit Smith, as he had not appeared.\nDebt having been brought on the bond, Gilmore, P. J., instructed the jury that the appearance on the 9th of February discharged the obligation.\nVeech, for plaintiff in error,\non this point cited 2 Rawle, 158; 3 Ham. 103; 2 Hawks, 391; 1 Ham. 170; 2 Bailey, 362; 1 W. & S. 261; 1 Pet. C. 46; 5 Pet. 114; 10 Ib. 343.\nSayers, contr\u00e0."
+  },
+  "file_name": "0303-01",
+  "first_page_order": 303,
+  "last_page_order": 303
+}

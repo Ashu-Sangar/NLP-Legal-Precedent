@@ -1,0 +1,133 @@
+{
+  "id": 982836,
+  "name": "Trask versus The State Fire and Marine Insurance Company of Pennsylvania",
+  "name_abbreviation": "Trask v. State Fire & Marine Insurance",
+  "decision_date": "1857-11-03",
+  "docket_number": "",
+  "first_page": "198",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Wend. 452",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11270654
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0452-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 420",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0420-01"
+      ]
+    },
+    {
+      "cite": "25 Wend. 379",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/25/0289-01"
+      ]
+    },
+    {
+      "cite": "1 P. R. 293",
+      "category": "reporters:state_regional",
+      "reporter": "P. R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 340",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682464
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/46/0340-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 525",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025536
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0525-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 426,
+    "char_count": 7065,
+    "ocr_confidence": 0.47,
+    "pagerank": {
+      "raw": 1.4080251998475979e-06,
+      "percentile": 0.9907838256207215
+    },
+    "sha256": "098f4eb453ce404f0239f0d7c3111ee6a2bf02be1bda5b147feac83d7f82ef8a",
+    "simhash": "1:1eb0ef549b42f879",
+    "word_count": 1268
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Trask versus The State Fire and Marine Insurance Company of Pennsylvania."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Lowrie, J.\nWe must decide this case according to the contract law, established by the parties for the definition of the relation between them. We may modify that contract law so as to give it an equitable adaptation to unanticipated events, but we cannot establish or introduce another in its stead. Certainly it is a contract condition of the defendants\u2019 liability that they shall be immediately notified of any loss insured against, and we cannot dispense with a compliance with this law unless the plaintiff shows some proper excuse for his non-compliance. We think a delay of eleven days in giving the notice is not a compliance with the contract, and that the plaintiff has presented no reasonable excuse for this.\nThen, by the terms of the contract, the defendants are discharged from liability. But it is supposed that the liability may re-attach, because there was a waiver of the defect in the notice by the secretary of defendants having received it without objection, and giving to plaintiff some directions about making out the statement of his loss, and in the fact that one of the defendants\u2019 agents made some examinations respecting the nature of the loss. Yet when these acts were done the defendants were free from their contract; and we do not see how such acts could re-establish it, for we do not discover that the agents had authority for that, or intended to exercise it, or that there was any consideration to sustain it: 19 State Rep. 401. And these acts may be accounted for, because the plaintiff had, in his notice, set up an excuse for his delay, which the agents might have supposed would be proved; but it has not been. And besides all this, the court left it as a question of fact to the jury to decide whether or not there had been any waiver, and were not asked to give any more particular instructions in relation to the subject.\nJudgment afiirmed.",
+        "type": "majority",
+        "author": "by Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Thompson and Marshall, for plaintiffs in error.'",
+      "Walker and Lane, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Trask versus The State Fire and Marine Insurance Company of Pennsylvania.\nWhere a by-law of an insurance company required that the insured should give the company immediate notice of any loss that occurred, and which was annexed as a condition to the policy, notice given of the loss eleven days after it occurred was too late, where no sufficient excuse was shown for the delay.\nThe facts that the secretary of the company received the notice without objection as to time, and gave instructions to the insured as to the form of the statement of his loss, and that an agent of the company subsequently made examinations respecting the loss, were not a waiver of the want of due and timely notice.\nWhere the company was discharged from liability by the want of notice in due time, responsibility for the loss would not re-attach to them, without proving authoi\u2019ity in the agents to waive the notice, or a new consideration to sustain it.\nError to the Common Pleas of JSrie county.\nA. N. Trask, a merchant in Albion, Erie county, Pennsylvania, on the 26th day of February, 1851, obtained a policy of insurance in the State Mutual Fire Insurance Company, at Harrisburg, on his stock of goods, for the sum of $1200, for one year; the property insured was destroyed by fire on the 2d day of May, 1851. Trask sent a written notice to the company on the 18th day of May, 1851, of liis loss, and the defendant acknowledged the receipt of the notice on the 17th of the same month, by letter to Trask, and made no objection as to the notice not being in time, and by letter, dated May 19th, gave directions to Trask how to make out the statement of loss. The agent of the defendant, soon after the notice was given, went to Albion and investigated the cause of the fire and extent of the loss. On the 26th day of May, 1851, Trask sent to the company a particular statement of the loss, verified by oath; and on the 10th day of May, 1853, brought this suit to recover the amount of his policy.\nAfter the evidence was closed on both sides, the court, in answer to points of the defendant, instructed the jury that the plaintiff was not entitled to recover, because he had not complied with a by-law of the company, annexed to the policy, requiring the assured to give notice of the loss \u201cforthwith\u201d to the secretary of the company. That the notice given, in this case, ten days after the fire, was too late. That the letter of the secretary, acknowledging the receipt of the notice, making no objection on account of the delay, giving directions to the insured how to make out his statement of loss, after-wards sending an agent to examine into the origin of the fire and extent of the loss, receiving the particular statement, verified by oath, and making no objections to the time of giving the notice up to the time of trial, was no waiver on part of the defendant. Of the ruling and decision of the court upon that point the plaintiff complains.'\nNovember 3, 1857,\nThompson and Marshall, for plaintiffs in error.'\nThe clause, requiring the insured to give notice of the loss forthwith, should be construed with great liberality: McLaughlin v. Washington Co. Mu. Ins. Co., 23 Wend. 525.\nIt was the duty of the company upon the receipt of the notice, in case it intended to object to the payment of the loss, in consequence of the want of proper notice by the insured, to have promptly informed him that he had failed to comply with the terms of the 21st article of the by-laws, and it would not entertain his claim on that account. Matter of form, and frequently matter of substance, is waived by an affirmative act inconsistent with an intention to take advantage of the defect, or by acquiescence : Ziegler v. Fowler, 3 S. & R. 338; Cameron v. Montgomery, 13 S. & R. 128; Werdner v. Matthews, 1 Jones 340; Clark v. McAnulty, 3 S. & R. 364; Snyder v. Zimmerman, 1 P. R. 293; Spragg v. Shriver, 1 Casey 282; Kaylor v. Shaffner, 12 Harris 490; American Ins. Co. v. Francis, 9 Barr 390; Good Intent Co. v. Hartzell, 10 Harris 277; O\u2019Neal v. Rupp, 10 Harris 395; Potter v. McCay, 2 Casey 458; Ins. Co. v. Slockbower, Id. 199; McMasters v. Western Ins. Co., 25 Wend. 379; Badle v. Chenango Mu. Ins. Co., 2 Coms. 53; O\u2019Neill v. Buffalo Ins. Co., 3 Coms. 122.\nWalker and Lane, for defendants in error.\nIt was made an express condition of the contract that notice should be given forthwith. This condition attached to the policy of insurance is as much a part of it as if incorporated in it: Fire Association v. Williamson, 2 Casey 196.\nNotice eleven days after the fire, is not such notice as the contract required. The assured was bound to give it, forthwith, or without delay. He did not give it, and the contract was broken. This condition is in the nature of a warranty or condition precedent, and must be strictly complied with: Murgatroyd v. Crawford, 2 Yeates 420; Wood and others v. Worseley, 6 T. R. 710 ; Inman v. The Western Fire Ins. Co., 12 Wend. 452; Angel on Fire and Life Insurance, \u00a7 230, \u00a7 226.\nThe cases cited by plaintiff in error as to waiver relate to a different class and character of cases entirely, and are not applicable here."
+  },
+  "file_name": "0198-01",
+  "first_page_order": 198,
+  "last_page_order": 200
+}

@@ -1,0 +1,80 @@
+{
+  "id": 979763,
+  "name": "Wier et al. versus Dougherty",
+  "name_abbreviation": "Wier v. Dougherty",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "182",
+  "last_page": "183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts 322",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 322",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 245,
+    "char_count": 3851,
+    "ocr_confidence": 0.421,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.31780269814958323
+    },
+    "sha256": "44cc6bc4824d24040435a975d6aa8b46d9e2806e25ef6b77f966655add4ce0f6",
+    "simhash": "1:626fc62ee2169cbf",
+    "word_count": 692
+  },
+  "last_updated": "2024-02-27T17:46:01.700656+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wier et al. versus Dougherty."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nIn pursuance of a partition in the Orphans\u2019 Court of the real estate of George Wier, deceased, the plaintiffs became entitled to allotments Nos. 1 and 4. They afterwards entered into a contract to sell to Dougherty allotment No. 1, represented in the agreement to contain 12\u00cd acres 94 perches, described by adjoiners, and 24 acres 66 perches, to be taken off the north side of allotment No. 4 along the line of Nos. 1 and 4, \u201cmaking in all 146 acres,\u201d for the sum of $4290. Part of the money was paid, and Dougherty entered into possession, and tendered the residue of the purchase-money. But the plaintiffs proposed to prove that in making the survey for the partition of the land, which was r\u00e9turned with the inquisition and confirmed by the court, a mistake was made in the number of acres contained in allotment No. 1, and that in point of fact, that allotment contains 155 acres 86 perches, instead of 121 acres 94 perches, or 34 acres 66 perches more than represented in the partition and in the article of agreement, and that the mistake was known to the defendant before the payment of any money on the contract. The plaintiffs offer to convey, on payment, according to the real quantity, and this ejectment is brought for the whole tract, because the defendant is unwilling to pay any more than the sum of $4290, mentioned in the contract. The rule on this subject is correctly stated, in Philips v. Scott, 2 Watts 322, \u201c When a contract is made with reference to an official survey or draft, and does not provide for a remeasurement, or in some other way indicate a contrary intention, the contract shall be taken as an agreement that the survey or draft contains the true quantity; and this result cannot be varied either by the vendor or vendee, whether the contract be executed or executory, unless there be fraud or such a plain palpable mistake as to be evidence of fraud. There is no contract to pay any more for the land than the sum of $4290, and there is no reason to believe that the defendant would have agreed to pay $1000 more for the tract if the true quantity had been known. Where the tract is particularly described by boundaries the quantity is in general stated as mere matter of description, and not as a covenant that the number of acres stated is the true number contained in the tract. The case of Philips v. Scott, 2 Watts 322, was not only an executory contract, but the sale was stated to be \u201c at the rate of $10 per acre.\u201d Here the sale was for a gross sum. p The plaintiffs have but little cause to complain. They got the excess by the mistake in the partition without paying for it. In transferring it under the same mistake to the defendant, they suffer no loss. The interest of the public requires that there should be as little uncertainty as possible in contracts.\nIn this case the contract should be enforced as it is written. There is no other bargain between the parties. The evidence was properly rejected.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Foster and Brum, for plaintiffs in error.",
+      "Stewart, Qowan, and Banks, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Wier et al. versus Dougherty.\nWhere there is an official draft or survey, and a sale of land is made in gross according to it, evidence will not be received of a subsequent survey, so as to increase the quantity and consequently the pui'chase-money.\nA contract made with reference to an offioial survey shall be taken as an agreement that the survey contains the true quantity, unless a remeasurement be provided for, or a contrary intention appear, or there be fraud, or such plain palpable mistake as to be evidence of fraud. 2 Watts 322.\nError to the Common Pleas of Indiana county.\nThis was an action of ejectment brought by A. Wier et al. v. John Dougherty. The facts of the case plainly appear in the opinion of this court.\nFoster and Brum, for plaintiffs in error.\nStewart, Qowan, and Banks, for defendant in error."
+  },
+  "file_name": "0182-01",
+  "first_page_order": 182,
+  "last_page_order": 183
+}

@@ -1,0 +1,85 @@
+{
+  "id": 969130,
+  "name": "Steel versus Commonwealth",
+  "name_abbreviation": "Steel v. Commonwealth",
+  "decision_date": "1852-06-17",
+  "docket_number": "",
+  "first_page": "451",
+  "last_page": "454",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 451"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Binn. 167",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 287",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0287-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 398,
+    "char_count": 8399,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 1.885623792791522e-07,
+      "percentile": 0.7282880198806957
+    },
+    "sha256": "07d4e3a2c8ea1c79f3352b6c929778fff87d6056c5abea87274a9804dc51ffcb",
+    "simhash": "1:1742d39d564ea3d3",
+    "word_count": 1504
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steel versus Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nBlack, C. J.\nThis case was here before on a writ of error taken by the Commonwealth (8 Barr 128). The principles involved in it were then settled; and though the whole subject has been argued over again, the hope that we would disregard a former decision of this Court was, probably, not very strong. We abide by it, not only because the rule of stare decisis is a good and a safe one, but because we believe the opinion then given to be wise and just. Authority and reason unite to sustain it.\nBesides the old points, a new one has been raised. On the first trial the controversy related to the taxes on fees which Mr. Steel had received down to the 1st of October, 1846. He was elected three times, and was then in the first year of his third term. The judgment was reversed, and the cause sent back for a new trial; Mr. Justice Coulter saying, among other things, that whenever the defendant would resign, or be removed from his office, he would be entitled to the benefit of the Act of 1818. The cause was not tried again until the defendant went out of office, which he did at the end of his third term, on the 1st of December, 1848. It was then agreed to make a case stated, and embrace the whole time of his service. It was admitted that his resignation had been filed with the Secretary of the Commonwealth on the 6th of November, 1848; but he remained- in office until the first of December, and retired at the time he must have gone out if no resignation had been sent. It is now contended, that this is a case of resignation, strictly within the terms of the Act of 1818. But this is entirely too sharp a construction of the law to receive our assent. A resignation, which never practically took effect in the retirement of the officer, and was never accepted by the executive, is no resignation at all. If the rule were otherwise, and if its effect would be what is claimed, every prothonotary in the state might resign a few days before the expiration of his term; and then settle for his taxes under a law whioh would perhaps leave him none to pay. This would be perverting the Act of 1818 to a purpose the Legislature never meant it to be used for. Besides, it is our opinion that the Act of 1818 only applies to fees which are received after the officer goes out, and that one in fact who has resigned, must settle for what he received while he was in office by the same rule which would have governed him if he had remained in.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Miles, for plaintiff in error.",
+      "Msher, for The Commonwealth,"
+    ],
+    "corrections": "",
+    "head_matter": "Steel versus Commonwealth.\n1. A prothonotary who has been three times elected, on settlement after he has gone out of office, cannot appropriate the excess of fees over $1500, annually received by him in the latter years of his term of office, to pay deficiencies in former years.\n2. The Act of 24th March, 1818, being a supplement to an Act taxing certain officers, applies only to fees which have been received after the officer has gone out of office. One who has in fact resigned, must settle for what fees he received whilst in office, by the same rule which would have applied to him if he had remained in office. He cannot apply the fees received after he has gone out of office, to pay deficiency in amount of fees less than $1500 in any one year whilst he was in office.\n3. A resignation of a prothonotary which never practically took effect in the retirement of the officer, and which was never accepted by the executive, is no resignation at all.\nError to tbe Common Pleas of Huntingdon county.\nThis was an appeal by the Commonwealth from the report of the auditors of Huntingdon county, under the Act of 16th April, 1845, {Acts, 534) auditing the accounts of James Steel as Prothonotary of the Court of Common Pleas, and Clerk of the Quarter Sessions, and of the Courts of Oyer and Terminer of Huntingdon county. The case was tried before, and a report of it will be found in 8 Barr 128-133. May 22, 1848, the judgment in favor of the defendant below was reversed. On April 14, 1852, a case was stated, and judgment was rendered thereon for the Commonwealth, for $580.24, with interest from 2d December, 1846, and for $521.15, with interest from 16th December, 1848, viz., for $1392.18.\nIn the case stated it was agreed \u201c that James Steel, the defendant, was elected Prothonotary, Clerk of the Court of Quarter Sessions, and Clerk of the Court of Oyer and Terminer of Huntingdon county in the month of October, 1839, and entered upon the discharge of the duties of the said respective offices on the 1st December, of the same year, and continued in the said offices for three years; that he was re-elected to the same offices in the fall of 1842, and continued in the same the three succeeding years; that he was again elected to the same offices in the fall of 1845, for the third term, and continued in office until the 2d day of November, 1848, when he resigned, and his resignation was filed in the office of the Secretary of the Commonwealth on the 6th, day of November 1848, but no successor was appointed by the Grovernor, and he continued to discharge the duties of the said offices until the 1st December, 1848; that during the time he was in the said offices he received the following amounts of fees, being the aggregate amounts of the fees received in all the offices.\u201d\nIt appeared that the amount of fees received in 1840-1 \u2014 2-3, were below $1500 in any one year, and in the years beginning on 30th September, 1843, and ending on 30th September, 1848, the fees received annually exceeded $1500.\nFrom 30th September, 1848, till 2d November, 1848, the time when the resignation was tendered, the fees received by Steel amounted to $50.24J. From time of resignation till 1st December, 1848, when the successor came into office, the fees received amounted to $48.69J, making from 30th September, 1848, till 1st December, 1848, $1894.01. The whole amount of fees received by Steel amounted to $16,199.95^. He paid at different times $1301.42.\n\u201cIf on the foregoing facts the Commonwealth is entitled to recover the one-half of the excess over fifteen hundred dollars of fees received in each of the foregoing years without allowing the deficiencies of the years 1840, 1841, 1842 and 1843, to be made up to the said James Steel out of the aggregate sum of fees received, and if the said Commonwealth is entitled to recover interest, then judgment to be entered in favor of the Commonwealth for eleven hundred and one dollars and thirty-nine cents, with interest on $580.24, part of said sum from 2d December, 1846, and on $521.15, the residue of said sum, from the 16th December, 1848; but if interest is not properly chargeable to the said James Steel\u2014 then if the said Commonwealth is entitled to recover upon the basis before stated, judgment to be entered in favor of tbe said Commonwealth for the said sum of ten hundred- and ninety-two dollars and thirty-nine cents: but if on the foregoing facts the said James Steel is entitled to retain out of the said aggregate sum of fees received, an amount sufficient to m.ake up the deficiencies of the said years 1840,1841,1842 and 1843, that is to say, the sums which the fees of each of those years fell short of fifteen hundred dollars, then judgment to be entered (in case interest is chargeable) in favor of the Commonwealth for the sum of forty-eight dollars and ninety-seven cents, with interest thereon from the 16th. December, 1848; but if interest be not chargeable, then for the said sum of forty-eight dollars and ninety-seven cents.\u201d\nThe view presented by the counsel of Steel was to this effect:\nWhole amount of fees received, - $16,199.95\nDeduct $1500 per annum for 9 years, - - 13,500.00\n2699.95\nOne-half for Commonwealth, 1349.97\nDeduct payments, 1301.45\n$48.55\nError was assigned to the judgment; which was to the effect that the deficiencies in the years 1840,1841,1842, were not to be made up out of the receipts of the succeeding years, during which there was an excess of fees received in each year beyond $1500. 2. In rendering judgment for interest.\nMiles, for plaintiff in error.\nAs to the construction of the Act of 24th March, 1818, he referred to the opinion of Kennedy, J., in the case of The Commonwealth v. Murdoch, 3 Watts 287; also to the ease of Cohen v. Commonwealth, 6 Barr 111; Lyon v. McManus, 1 Binn. 167.\nMsher, for The Commonwealth,\ncited 8 Barr 128, Commonwealth v. Steel.\nJune 17,"
+  },
+  "file_name": "0451-01",
+  "first_page_order": 451,
+  "last_page_order": 454
+}

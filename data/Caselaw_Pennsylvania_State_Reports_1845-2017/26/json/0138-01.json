@@ -1,0 +1,79 @@
+{
+  "id": 977360,
+  "name": "Chadwick versus Collins",
+  "name_abbreviation": "Chadwick v. Collins",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "138",
+  "last_page": "140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Binn. 110",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787955
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/1/0110-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 325,
+    "char_count": 5226,
+    "ocr_confidence": 0.431,
+    "pagerank": {
+      "raw": 7.522159196856961e-07,
+      "percentile": 0.9701781841335151
+    },
+    "sha256": "174cf9f8cc2711333a727a8798247b4a50ff353f561793a041cb0d1b700585e1",
+    "simhash": "1:ba82ceb90efede6a",
+    "word_count": 900
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chadwick versus Collins."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nThe rule appears to be well settled in this state that where the subject-matter of an agreement is prohibited and made unlawful by statute, the agreement cannot be enforced, though the statute merely inflicts a penalty upon the offender, and does not in terms make void the contract: Smith v. Mitchell, 1 Binn. 110; Columbia Bank and Bridge Company v. Haldeman, 7 W. & Ser. 233. To determine whether this rule will avoid the contract in the case under consideration, it is necessary to ascertain what the contract was, and whether or not it was an unlawful contract. From the bill of exceptions we learn that the suit was brought to recover a sum of money which the defendant had agreed to pay to the plaintiff for obtaining a purchaser for certain real estate of the defendant in the city and county of Philadelphia. The allegation is, that the plaintiff was not a licensed real estate broker, and that therefore he could not recover for services rendered in selling real estate.\nThe Act of 27th May, 1841, makes provision for granting licenses to individuals or copartnerships residing in the city or county of Philadelphia, or in the city of Pittsburgh, or county of Allegheny, as stock, exchange, and bill brokers; and the fifth section of said Act provides that\n\u201cNo individual or copartnership other than those duly commissioned under the provisions of this Act, shall use or exercise the business or occupation of a stock broker, or an exchange broker, or a bill broker, under a penalty of five hundred dollars for each and every offence, to be recovered,\u201d &c.\nThe 18th section of an Act passed 10th April, 1849, entitled \u201c An Act to create a sinking fund, and to provide for the gradual and certain extinguishment of the debt of the Commonwealth,\u201d enacts \u201c That all the provisions of the Act, entitled an Act to authorize the licensing of stock brokers, exchange brokers, and bill brokers, passed the twenty-seventh day of May, eighteen hundred and forty-one, be and the same are hereby extended to real estate brokers, and to merchandise brokers.\u201d\nWe deem it unnecessary, in the determination of this case, to express an opinion upon the question, whether a person engaged in the business or occupation of a real estate broker, without being licensed as such, and therefore liable to the penalty mentioned in the 5th section of the Act of 27th May, 1841, could enforce a contract made in pursuance of his unlicensed business or occupation, because it nowhere appears that the plaintiff, in this suit, ever \u201c used or exercised the business or occupation of a real estate broker,\u201d and as he was not required to procure a license in order to find a purchaser for the defendant\u2019s real estate, he incurred no penalty for making and performing the agreement without a license. The contract was therefore neither expressly prohibited nor forbidden by law, nor was it unlawful by implication in consequence of a penalty being incurred in its creation and execution.\nIn making the use of exercise of the business or occupation of real estate brokers in Philadelphia and Pittsburgh a source of revenue to the Commonwealth, the legislature did not intend to prevent a person whose business or occupation was not that of a real estate- broker from receiving compensation for services rendered in buying or selling real estate belonging to another.\nAny person may lawfully employ one who is not a real estate broker to buy or sell real estate, and where such employment takes place, and labour is done under the employment, it must be paid for; at all events, the law will not lend its aid to the employer to defraud the employee out of his just reward.\nPractically there is no difficulty in ascertaining who are engaged in the business or occupation of real estate brokers. It is those who hold themselves out to the public as such, generally having offices or places of business, the character of which is in-cheated by clear and unmistakeable evidence. To suck persons the language of the section in reference to the penalty is addressed, but it has no application to the plaintiff in this action.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Drayton, for plaintiff in error.",
+      "Cassiday, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Chadwick versus Collins.\nA real estate broker is one who engages in the purchase and sale of real estate as a business and occupation, and so holds himself out to the public in that character and capacity.\nA contract by an individual to procure a purchaser for a house and lot for another in Philadelphia, is not void on account of such person not having been licensed as a real estate broker.\nError to the Common Pleas of Philadelphia.\nThis suit was an action brought before a justice of the peace by Thomas Collins against Thomas Chadwick, to recover the sum of twenty-five dollars, for selling defendant\u2019s house and lot.\nThe claim was resisted on the ground that the plaintiff was not a licensed real estate broker, and could not invoke the aid of the law to enforce a contract in violation of an Act of Assembly.\nThe judge below overruled this defence, and the jury found for the plaintiff the sum of $>25.\nThe defendant took this writ, and raised the same point in this court on his assignment of errors.\nDrayton, for plaintiff in error.\nCassiday, cont\u00f3."
+  },
+  "file_name": "0138-01",
+  "first_page_order": 138,
+  "last_page_order": 140
+}

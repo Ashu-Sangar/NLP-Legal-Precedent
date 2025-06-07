@@ -1,0 +1,86 @@
+{
+  "id": 990519,
+  "name": "Pretz and Gausler's Appeal",
+  "name_abbreviation": "Pretz & Gausler's Appeal",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "349",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 514",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848401
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0514-01"
+      ]
+    },
+    {
+      "cite": "5 Rawle 307",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 271,
+    "char_count": 3601,
+    "ocr_confidence": 0.468,
+    "pagerank": {
+      "raw": 2.483590676090656e-07,
+      "percentile": 0.8078034665341493
+    },
+    "sha256": "c106ca3c59c79f4ea068755ada9d3e41abdcdb69654815d82d6217d487c59f95",
+    "simhash": "1:74cc04fc5666601a",
+    "word_count": 648
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pretz and Gausler\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThis appeal must be sustained on the principles announced in Nelson v. Campbell, 4 Casey 156, and again enforced in Lightfoot v. Krug, supra 348, at our late term at Pittsburgh, and we ought not to be expected to discuss those principles anew. This last case was, like this, a claim for building a kitchen to a house already erected, and the lien was sustained. We do not see that it makes any difference what curtilage is described for the house, in the claim filed, or whether there be any; for the law provides for the settlement of this, as part of the proceeding, according to the purposes of the building. The appellants are entitled to their lien; but the paper-book is so little in conformity to the rules of this court that we do not allow the appellants their costs. We do not even allow them interest; for we have no date given us of the sheriff\u2019s sale, and cannot know to what date to calculate it.\nThe decree of the Common Pleas is reversed so far as relates to the amount distributed to the judgments of Jonas Biery, and it is now here ordered and decreed that the money in court, after paying the liens of Huber and of Lanbaek, be applied to pay the appellants, Pretz, Grausler & Co., the sum of two hundred and twenty-eight dollars and fifty-eight cents ($228.58), and that the balance be paid to Jonas Biery, on account of his judgments; and the cause is remitted to the Common Pleas, that this decree may be there carried into effect.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "R. JE. Wright, for the appellants,",
+      "J. H. Oliver and Reeder Oreen,, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "Pretz and Gausler\u2019s Appeal.\nA mechanics\u2019 lien may he filed against a building erected for a kitchen to a house already built, notwithstanding that it adjoins and is connected with the old building.\nIt matters not whether any, or what, curtilage is described in the claim, filed, for the law provides for the settlement of this, as part of the proceeding, according to the purposes of the building.\nAppeal from the Common Pleas of Lehigh county.\nThis was an appeal by Pretz, Gausler & Co. from the decree of the court below, distributing the proceeds of a sheriff\u2019s sale of the real estate of A. H. Gilbert. The contest was between the judgment-creditors of the defendant, and the appellants, who claimed under a mechanic\u2019s lien.\nA. H. Gilbert was the owner of a three story brick hotel, at the north-east corner of Front and Race streets, in the borough of Catasauqua, which was erected and completed in the year 1853; the house was 40 feet in front on Front street, and 60 feet in depth on Race street.\nIn 1857, Gilbert erected a three story brick kitchen, 20 feet in breadth, by 22 feet in depth; adjoining the main building on the east, with which it communicated in each story. \u2022 The front of this kitchen was 40 feet back from the street, and the back wall was on a line with the rear end of the main building. The appellants filed their claim for $5228.58 for work and materials in and about the erection and construction of this building.\nThe court below held that this was not such an erection as came within the purview of the mechanic\u2019s lien law, and accordingly decreed the fund in court to the judgment-creditors, to the exclusion of the appellants. From this decree, the present appeal was taken.\nR. JE. Wright, for the appellants,\ncited Nelson v. Campbell, 4 Casey 156; Driesbach v. Keller, 2 Barr 79\nJ. H. Oliver and Reeder Oreen,, for the appellees,\ncited Pennock v. Hoover, 5 Rawle 307; Miller v. Oliver, 8 Watts 514; Perigo v. Vanhorn, 2 Miles 359; Driesbach v. Keller, 2 Barr 77; Landis\u2019s Appeal, 10 Id. 379 ; Armstrong v. Ware, 8 Harris 519; Norris\u2019s Appeal, 6 Casey 122."
+  },
+  "file_name": "0349-01",
+  "first_page_order": 349,
+  "last_page_order": 350
+}

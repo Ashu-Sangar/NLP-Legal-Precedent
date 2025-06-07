@@ -1,0 +1,135 @@
+{
+  "id": 974022,
+  "name": "Huyett versus Philadelphia and Reading Railroad Company",
+  "name_abbreviation": "Huyett v. Philadelphia & Reading Railroad",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "373",
+  "last_page": "375",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 373"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Pick. 76",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Met. 460",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        1975682
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/52/0460-01"
+      ]
+    },
+    {
+      "cite": "4 Harrington 252",
+      "category": "reporters:state",
+      "reporter": "Harrington",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pet. 181",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3337824
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/38/0181-01"
+      ]
+    },
+    {
+      "cite": "2 Denio 433",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186099
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/2/0433-01"
+      ]
+    },
+    {
+      "cite": "1 Denio 91",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483936
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0091-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 392,
+    "char_count": 5478,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 6.523494980763818e-07,
+      "percentile": 0.9608759043480913
+    },
+    "sha256": "e7174f80042a27156edefe194d74d5fb825421737a74391d8b2e7b8a0e052bd1",
+    "simhash": "1:25881dd65ddd1eb0",
+    "word_count": 987
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Black, C. J., dissented."
+    ],
+    "parties": [
+      "Huyett versus Philadelphia and Reading Railroad Company."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrxg, J.\nIn the case of the Railroad Company v. Yeiser, all the material principles of this cause are decided except one; and that has reference to what is sufficient evidence of carelessness on the part of a railroad company in case of a fire occasioned by sparks from their engines.\nWhether, in this instance, it was caused by the carelessness of the defendants\u2019 servants, must he judged from the circumstances; and we think that the cases referred to by the plaintiff\u2019s counsel, show clearly enough that this question, under the evidence here, is within the province of the jury: see also 1 Denio 91.\nHow is it possible for the Court to say, as matter of law, how many sparks, or how many fires caused by them, it takes to prove carelessness ? How can the law declare, except as a deduction from facts found, what are sufficient spark-catchers ? When we find fires started by a locomotive, at distances of 80 to 150 feet from the road, how can we say that that is no evidence of carelessness ? It is a question of fact, whether the small sparks that escape through a good spark-catcher will ignite wood at such a distance. We see wooden houses, and lumber, and firewood, and shingles standing all along the very edge of railroads without being burnt; how can we say that the happening of several fires, all about the same time, along the line of the road, is no evidence of carelessness ?\nThe company has paid for its right of way and for all the inconveniences which were likely to result from the construction and use of its road; but this does not cover all sorts of damage: 10 Mees. & W. 425; 15 Beav. 322, S. C. 19 Eng. L. & Eq. Rep. 295; and it cannot cover damages arising from negligence, for the law never anticipates this in assessing damages, and it never allows people to purchase a general immunity for carelessness. If it did, no railroad company could pay the price in advance. This company, therefore, must submit to have the question of carelessness tried in this case just as it is in others: 1 Vent. 295; 1 Lutw. 90; 2 Stra. 1264; 11 Qu. B. Rep. 347; 1 L. Raym. 264.\nThey are bound to temper their care according to the circumstances of danger, 20 State Rep. 177, and exert more care when the property of others is in danger than when it is not; and their evidence will he tried by this rule. And if there be evidence of carelessness, the means of rebutting it are so entirely in the defendants\u2019 power, that it is not unreasonable to expect from them that their evidence shall be very complete.'\nJudgment reversed and new trial awarded.\nBlack, C. J., dissented.",
+        "type": "majority",
+        "author": "Lowrxg, J."
+      }
+    ],
+    "attorneys": [
+      "H. W. Smith, for plaintiff,",
+      "Strong and St. Gr. T. Campbell, cont\u00f3,"
+    ],
+    "corrections": "",
+    "head_matter": "Huyett versus Philadelphia and Reading Railroad Company.\nX. A railroad company is responsible for fires caused by the careless emission of sparks in the running of their engines.\n2. XVhere a house was set on fire by sparks from a locomotive engine and there was evidence that the weather was very dry and windy, and that sparks flew from the defendants\u2019 engines to a great distance and also set fire to several fields and fences near the same time and place, it was for the jury to decide whether this was sufficient evidence of carelessness.\nError to the Common Pleas of Berks county.\nThis was an action in case by Henry Huyett v. The Philadelphia and Reading Railroad Company, for carelessness in the management of their locomotive engines, whereby the plaintiff\u2019s house, near the defendants\u2019 road, took fire and was consumed. Plea, not guilty.\nOn the trial below, the plaintiff gave evidence showing that the defendants\u2019 road passes through his farm, with its track 77 feet from his dwelling-house, and that on April 18, 1846, his house was set on fire by sparks from some one or more of several engines passing by on that day, and about the same hour. The weather was, at that time, very dry and windy, the wind blowing strong across the road towards plaintiff\u2019s house. Sparks were seen flying from the engines to the distance of more than 50 yards from the road, and fences and fields were set on fire in several places about the same time, and at considerable distances from the road.\nThe defendants gave evidence showing that all their engines were in good order, and were all provided with good spark-catchers. None then in use prevented the flying of sparks entirely; they \u25a0flew most when the furnace door was opened, and the fire stirred; they fly considerably in firing up.\nOn this evidence the Court below considered that the case was governed by the decision of this Court in the- Railroad Company v. Yeiser, 8 Barr 366, and directed a verdict for the defendants; and this is the matter complained of.\nH. W. Smith, for plaintiff,\ninsisted that the Company is liable for carelessness, and that there was evidence of carelessness that ought to have been left to the jury: New York v. Bailey, 2 Denio 433; Piggot v. Eastern Counties Railway Company, 54 E. C. L. R. 229; Aldridge v. Great Western Railway Company, 3 Man. & Gr. 515, 42 E. C. L. R. 272; 1 Bl. Com. 431; 1 Salk. 13; 7 Harris 298; 2 Camp. 79; 13 Pet. 181; 2 Eng. C. L. & Eq. R. 360.\nStrong and St. Gr. T. Campbell, cont\u00f3,\nrelied on the cases of Railroad Company v. Yeiser, 8 Barr 366, and Pennsylvania Railroad v. Heister, Id. 445, as showing that the defendants were not chargeable for such accidents, and argued that there was no evidence of carelessness: 10 Iredell 206; 5 Barb. S. C. R. 337; 8 Id. 379; 4 Harrington 252; 11 Met. 460; 13 Pick. 76; 21 Id. 146; 4 B. & Ad. 30."
+  },
+  "file_name": "0373-01",
+  "first_page_order": 373,
+  "last_page_order": 375
+}

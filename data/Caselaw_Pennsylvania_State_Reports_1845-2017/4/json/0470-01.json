@@ -1,0 +1,65 @@
+{
+  "id": 401957,
+  "name": "Hinkley v. Insurance Company",
+  "name_abbreviation": "Hinkley v. Insurance Co.",
+  "decision_date": "1846-12",
+  "docket_number": "",
+  "first_page": "470",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 300,
+    "ocr_confidence": 0.562,
+    "pagerank": {
+      "raw": 9.865755769275785e-08,
+      "percentile": 0.5345620536177977
+    },
+    "sha256": "10830b59ccac6cadc25a8581a5dd30530c9bd73b8ea74dc8c3554aa43bb4b505",
+    "simhash": "1:d820eba36c381a1a",
+    "word_count": 46
+  },
+  "last_updated": "2023-07-14T19:57:13.703465+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hinkley v. Insurance Company."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nRule absolute.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "G. W. Biddle, for plaintiff,-"
+    ],
+    "corrections": "",
+    "head_matter": "Hinkley v. Insurance Company.\nJan. 20. Plaintiff\u2019s commission having been returned with the last general interrogatory unanswered,\nG. W. Biddle, for plaintiff,-\nmoved to have it returned, that an answer might be taken; notice having been given to the counsel of defendant."
+  },
+  "file_name": "0470-01",
+  "first_page_order": 470,
+  "last_page_order": 470
+}

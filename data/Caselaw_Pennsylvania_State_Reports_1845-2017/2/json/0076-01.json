@@ -1,0 +1,169 @@
+{
+  "id": 951154,
+  "name": "Simpson v. Murray",
+  "name_abbreviation": "Simpson v. Murray",
+  "decision_date": "1845-12-26",
+  "docket_number": "",
+  "first_page": "76",
+  "last_page": "77",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 76"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts & Serg. 259",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854571
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0259-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 143",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts & Serg. 467",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856305
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0467-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 294",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0294-01"
+      ]
+    },
+    {
+      "cite": "6 Watts & Serg. 584",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts, 548",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844029
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0548-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 87",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841313
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0087-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle, 223",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0223-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 40",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0040-01"
+      ]
+    },
+    {
+      "cite": "4 Watts & Serg. 468",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 276,
+    "char_count": 3709,
+    "ocr_confidence": 0.533,
+    "pagerank": {
+      "raw": 7.426881088822527e-08,
+      "percentile": 0.44362798757765415
+    },
+    "sha256": "54bb61b786fe731a4e2a6f7f3d68798a89fc31cb59039331eda6d4e79c7b407c",
+    "simhash": "1:b139b633973632fd",
+    "word_count": 658
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Simpson v. Murray."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 Although, as is said in Ewing v. Barras, 4 Watts & Serg. 468, every mistake in filing a claim, however trivial, will not invalidate the lien, yet the building must be described substantially, so as to identify it. The creditor cannot claim against a building in one public street, and then sell by his execution a building in another public street. Nothing but uncertainty and confusion could result if this were allowed. The object of the law, which is to give notice to the owner and others of an encumbrance on the realty, would be wholly defeated. The old acts of 17th March, 1806, and 21st March, 1808, under which this claim was filed, are not so particular, it is true, in their requisites of the ingredients of the claim, as the act of 16th of June, 1836 ; but still, they contemplate that the claim is to describe a building, and that the building against which the claim is filed is to be the object of the plaintiff\u2019s pursuit. It would be taking too great a latitude, we think, to sanction the sale of a house in Pine street, below Eleventh street, under a claim against a house in Tenth street, below Pine ; nor could they be considered, in any legal contemplation, as the same building. Nor can the subsequent proceeding of revival and judgment on the scire facias be treated as constituting a new judgment in personam, under which the plaintiff might levy on and sell any real estate of the defendant. They are all merely continuances of the original suit, and profess to be so, and have that operation.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Perkins, for plaintiff. \u2014",
+      "W. Hirst, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Simpson v. Murray.\nA sale under a claim against a house in A. street will not pass a house in B. street, against the original owner.\nNor is parol evidence admissible, to prove the description was intended to apply to the house sold, with knowledge of the owner.\nA general judgment, on a scire facias to revive judgment sur claim, reciting a former general judgment, does not constitute a judgment in personam or extend the lien.\nDec. 12. Simpson brought ejectment, for a house on the south side of Pine, between Ninth and Tenth streets. He showed a claim, filed against a house on the south side of Tenth street, below Pine, and judgment thereon in 1830, against the defendant.\nIn 1835, revival by consent. In 1841, a scire facias, reciting a general judgment \u201c for non-performance of a certain promise and assumpsit,\u201d and judgment for want of appearance, a fi. fa. and sheriff\u2019s deed for the property named in the writ, and for which this suit was brought. There was variance in the other matters of description between the lien and writ.\nPlaintiff offered to prove they were the same. That the work was done on the Pine street house. That defendant built and occupied the house, and knew it was the one intended to be described in the claim, which was rejected. The court ordered a nonsuit.\nPerkins, for plaintiff. \u2014\nThe confession and judgment of revival in 1835 and 1841 cured the defect; and the defendant\u2019s remedy is against the price; Purd. Dig. 427; Heister v. Fortner, 2 Binn. 40; and the court could amend. Arnold v. Gaw, 1 Rawle, 223; Cowen v. Simpson, 3 Watts, 87. The judgment on scire facias is a new one. Hays v. Shannon, 5 Watts, 548; Bowen v. Bowen, 6 Watts & Serg. 584; Feger v. Krole, 6 Watts, 294; Ewing v. Barras, 4 Watts & Serg. 467. Misdescription can only be taken advantage of at an early stage of the cause.\nW. Hirst, for defendant.\n\u2014 The lien is not amendable. Tilford v. Wallace, 3 Watts, 143. Privilege by statute is strictly construed. The lien does not show the time the work was done. Kehrer v. Beigler, 3 Watts & Serg. 259. Scire facias does not extend the lien, being a proceeding in rem. Hays v. Shannon, ante. '\nDec. 26."
+  },
+  "file_name": "0076-01",
+  "first_page_order": 76,
+  "last_page_order": 77
+}

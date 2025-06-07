@@ -1,0 +1,103 @@
+{
+  "id": 951395,
+  "name": "Potts v. Fitch",
+  "name_abbreviation": "Potts v. Fitch",
+  "decision_date": "1845-02-07",
+  "docket_number": "",
+  "first_page": "173",
+  "last_page": "175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts & Serg. 32",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856426
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0032-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates, 388",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6774614
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0388-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 69",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842693
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0069-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 336,
+    "char_count": 5440,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 5.315165799671193e-08,
+      "percentile": 0.33532514830015187
+    },
+    "sha256": "02b6cb0fa0b3f8a8fec52670f7c21c8d1a05e3fca1fd43f2b04021589c75e264",
+    "simhash": "1:8730fae0dc08d8b2",
+    "word_count": 961
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Potts v. Fitch."
+    ],
+    "opinions": [
+      {
+        "text": "Kennedy, J.\n\u2014 We are satisfied that the defendant was entitled to a judgment in his favour, on the special verdict found by the jury, and that the court were right in rendering one accordingly. By the finding of the jury, it does not appear that the insolvent, Kinsman, the principal, had, anterior to the bringing of this suit, committed a breach of the condition of the bond, upon which it is founded, in any respect whatever, but on the contrary, had performed and complied with all things therein mentioned and required of him. The only particular, in which it is alleged that he failed to comply with the condition of.the bond, and for which there is even the slightest colour of plausibility, is, that the court, to which .he presented his petition for the benefit of the insolvent laws, in conformity to the condition of the bond, after having proceeded thereon, and having heard him and his creditors, and thereupon, not being satisfied, that he was entitled to a discharge under the insolvent laws, made an order on the fifth day of January, 1842, in the following words: \u2014 \u00ab The court refuse to discharge the said Israel Kinsman as an insolvent debtor, and direct him to give security in the sum of five thousand dollars, conditioned for his appearance at the next court of General Sessions, to answer the charge of fraudulent .insolvency.\u201d This order, though made by the court, was not permitted to remain in force, but was, in effect, vacated by the court, three days afterwards, on the eighth of the month, by the court\u2019s direction that the said Kinsman should give security, for the like purpose as that of the first order, in the sum only of $2000, which he immediately did. The latter order of the court, reducing the amount of the security to be given to $2000, is the only order, in this respect, that can be looked at, or regarded by this court, or any other court, as binding upon the insolvent. The order for giving security in $5000 must not only be left out of view, but considered as out of being.\nIsrael Kinsman, the principal in the bond, having then complied with all things mentioned in, and required of him by the condition thereof, at the time of commencing this action, as the jury have shown fully by their verdict, there is no ground for making the defendant liable, as his surety in it.\nThe judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "Kennedy, J."
+      }
+    ],
+    "attorneys": [
+      "John Fallon, for plaintiff.",
+      "Ingraham, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Potts v. Fitch.\n1. Proceedings cannot be sustained on an insolvent\u2019s bond, after an order to answer for fraudulent insolvency, during the pendency of the indictment, there being an appearance by defendant.\n2. Where the bail has been reduced by a subsequent order, the latter is the only one which can be recognised as obligatory.\nError, to the District Court.\nJan. 26. \u2014 The question in this case was, whether the defendant wa-_ liable as surety on an insolvent bond. The jury found a special verdict, and the court below gave judgment for defendant. In 1841, Kinsman being in custody, under a ca. sa., at the suit of the plaintiffs, gave this bond to appear at the next term, present his petition, and comply with the requisitions of the law, and abide all orders of the court: or in default, and if he fail in obtaining his discharge, then to surrender himself, &c. At the next term, October, Kinsman did present his petition, and it w7as held under advisement till January 5th, following, when the court refused to discharge him, and ordered him to give bail in $>5000, to answer at the General Sessions. The bail was not given until the 8th January : the court on that day having reduced the amount to $>2000. That Kinsman did not surrender himself at any time since the date of the bond. That Kinsman did appear, and pleaded to an indictment, according to the order, which proceeding is still undetermined ; and whether the surety is liable, &c.\nJohn Fallon, for plaintiff.\n\u2014 These bonds are strictly construed. Kelley v. Stepney, 4 Watts, 69 ; and having failed in procuring his discharge, his bond is forfeited, according to its terms. In Potter v. Newman, 4 Yeates, 388, a surrender at a second term, to which it was continued, is insufficient. Ingraham on Insolvency, 28, 29. But at all events, after the refusal of the discharge, he must then surrender, 1 Penna. 270. And he delayed three days, and this is fatal, for the order must be exactly complied with, as was said in Frick v. Kitchen, 4 Watts & Serg. 32. Nor could the court alter this, it having be-' come a vested right, 1 Penna. 271.\nIngraham, contra.\n\u2014 The error in the argument is, in not distinguishing between a rejection ad interim, and finally. All the cases cited are instances under final orders. This order was to give the defendant the privilege of an appeal from the court to a jury, to have whose opinion on the facts is the right given by the law.\nThis trial is in lieu of the decision of the Common Pleas, and if acquitted, the court must discharge the party. As to the delay, it is clear that the court was then holding the application for reduction of bail under consideration, and until the amount of bail was finally settled, the order was incomplete. So soon as it was fixed, and the order became final, it was complied with; and upon this indictment, the petitioner, Kinsman, may be acquitted, and the court must then discharge him on his original petition. To hold that the bond is forfeited, would be to render his compliance with the- order of court the groundwork of a forfeiture.\nFeb. 7."
+  },
+  "file_name": "0173-01",
+  "first_page_order": 173,
+  "last_page_order": 175
+}

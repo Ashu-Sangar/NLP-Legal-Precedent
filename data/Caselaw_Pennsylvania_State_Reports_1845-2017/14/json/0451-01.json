@@ -1,0 +1,254 @@
+{
+  "id": 405891,
+  "name": "Balliet's Appeal",
+  "name_abbreviation": "Balliet's Appeal",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "451",
+  "last_page": "463",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 451"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Bin. 395",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795097
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0395-01"
+      ]
+    },
+    {
+      "cite": "2 Dal. 131",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pa. Rep. 112",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 473",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0473-01"
+      ]
+    },
+    {
+      "cite": "7 Paige 97",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2054751
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/7/0097-01"
+      ]
+    },
+    {
+      "cite": "1 Whar. 246",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829035
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0246-01"
+      ]
+    },
+    {
+      "cite": "9 Pick. 350",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058487
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/26/0356-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 337",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Pa. Rep. 533",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 63",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "124"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Johns. Ch. 156",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Jones 430",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682778
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/46/0430-01"
+      ]
+    },
+    {
+      "cite": "3 Bin. 498",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791076
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/3/0498-01"
+      ]
+    },
+    {
+      "cite": "2 Whar. 103",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/2/0103-01"
+      ]
+    },
+    {
+      "cite": "15 Pick. 388",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2020308
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/32/0388-01"
+      ]
+    },
+    {
+      "cite": "1 Whar. 246",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829035
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/1/0246-01"
+      ]
+    },
+    {
+      "cite": "9 Pick. 350",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/26/0356-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1074,
+    "char_count": 35252,
+    "ocr_confidence": 0.393,
+    "pagerank": {
+      "raw": 4.0313742843706464e-07,
+      "percentile": 0.9070320315972089
+    },
+    "sha256": "8057cb48969fb838fce6e4e576d46edaa46c10391de94df2baf0d2a22f4098b8",
+    "simhash": "1:b277744cc460b86e",
+    "word_count": 6263
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Balliet\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRogers, J.\n\u2014 I am unable to agree with the Orphans\u2019 Court that the sale of the real estate amounts to a total revocation of the will, but to a revocation pro tanto only. There are no circumstances in evidence, from which it can reasonably be inferred that the testator intended a total revocation.\nThe testator devised his whole real estate to his two nephews, Stephen and Paul Balliet, burthened with the payment of $30,000 to his sister, and nephews, and nieces, and their issue. He moreover bequeathed to the same persons other real estate, all his bank stock, and all the rest and remainder of his estate, effects, and property of whatsover kind, and wheresoever situated; provided, nevertheless, in case the residue of his personal estate shall exceed twenty thousand dollars, the excess or overplus shall be rateably applied to the six legacies of $5000 each, thereinbefore given to his sister, and the issue of his deceased brothers and sisters. Notwithstanding the alienation of the whole real estate in the lifetime, there is evidently something on which the will can operate, viz. the $20,000 bequeathed by the will, and the residue to which the legatees will be entitled, namely, the surplus of the personal estate, over and above the amount bequeathed to Stephen and Paul Balliet. Thus, if as in Cooper\u2019s estate, the testator, by the sale of the property, rendered it impossible to carry out the provisions and clear intent of the will, it would amount to a revocation in toto. The case of Cooper\u2019s Estate, 4 Barr 88, was ruled under peculiar circumstances, evincing, as the court suppose, the intent of Cooper to revoke his will, by the sale he made of the principal part of the estate. The disproportion of the real and personal estate, the situation of the testator\u2019s family, and the manifest injustice which resulted from its giving the whole estate to two daughters, and excluding five other daughters who got nothing, mainly entered into its consideration. This case differs from that in this, that under our construction there is nothing unreasonable in the will, as one of the effects will be to give to Stephen and Paul $20,000, which it is perfectly plain the testator intended they should have out of the personal estate. Nor would we be at liberty to frustrate this intent \u2014 the inevitable effect of ruling that the sale of the real estate was a revocation in toto. Under that construction, these legatees, instead of getting twenty thousand dollars out of the personal estate, would get nothing. The appellants, who were evidently the great objects of the testator\u2019s bounty, would be deprived of any portion of the estate, as they were the grandnephews of the testator, and their father still living. So that if there be any hardship in the construction given the will, it is equally great in one case as in the other. And this view.of the principle of revocation is in accordance with the authorities, some of which will be cited. Thus in Howes v. Humphrey, 9 Pick. 350: The testator in his lifetime, and subsequent to the making of his will, conveyed by deed a part of the estate devised. Per curiam: \u201c To the extent of these conveyances, there is a revocation pro tanto, and nothing more. In order to defeat altogether a testamentary disposition, there must be a subsequent conveyance of the whole estate. If the conveyance be of a part only, it will only amount to a revocation pro tanto.\u201d Brown\u2019s Appeal, 15 Pick. 388, was the case of an appeal from the decree of a judge of probate disallowing a certain instrument offered for probate as a last will. .The testator, subsequently to executing his last will, had aliened all his real estate, as here, and had written on his will the following words : \u201c It is my intention at some future time, to alter the tenor of the above will, or rather to make another will. I desire the foregoing to be considered revoked, and of no effect.\u201d This was not attested, as required by the statute to revoke a' will of real estate. Held by the. court, \u201cIf a testator devises both real and personal estate by a will duly attested, and by an alienation of the .real estate revokes the will pro tanto, the will then stands as a will of personalty only, and is revokable accordingly by any writing sufficient to make a will of personal estate.\u201d In Carters. Thomas, 4 Gcreenlactf 341, the question was whether the will of Joseph Thomas was revoked, he having devised part of his real estate to his daughter, and the residue to his two sons, whom he also made residuary legatees, and afterwards having in his lifetime sold and conveyed the same to one of the sons by deed. The Supreme Court, on appeal, held: The alienation of real estate by the testator, after he has devised the same by will, is a revocation of the will, only as to the part thus alienated. The will being suffered to remain .uncancelled, evinces that his intention was unchanged with respect to the other property devised or bequeathed. See Wogan v. Small, 11 Ser. & R. 141. A man seized of two tracts of land, nearly equal -in value, and possessed of personal estate, devised one tract of land to one child, and the other to the family of the other child, and gave a pecuniary legacy .to a bastard grandchild. He after-wards sold one of the tracts and incurred debts which swept away the other, and died, leaving no more estate .than was sufficient to pay his debts and the legacy to his illegitimate grandchild. Held, .that these circumstances did not amount to an implied revocation of .his whole will. In Jones v. Hartley, 2 Whar. 103, it was held, that a conveyance in trust, for the payment of the debts of the grantor, and then to revert to him, is not such a disposition of the estate .as to revoke a previous will. The court say, \u201cBeing then a comp\u00edete alienation of the real estate, after the date of the will, it is a revocation of the will, so far as it relates to the property thus conveyed.\u201d See also, to the same effect, 3 Bin. 498, Coates v. Hughes, 1 Whar. 246; 2 Vern. 720; 2 P. Wms. 333, Rider v. Wager.\nIn Bridges v. The Dutchess of Chandos, 2 Vesey Jr. 428, the lord chancellor states it as a principle, which is not shaken in authority, that any new disposition made subsequent to the will, or in other words, any conveyance of that which had been conveyed by the will, shall defeat the will; but then it must be a conveyance of the whole estate, it must extend as far as that appointment which the will has made; for if it be but a part, it affects the will no farther than that part goes. In this case, part only of the property devised and bequeathed is disposed of; consequently those parts of the will which remain are untouched. There is no impossibility, as in Cooper\u2019s Estate, 4 Barr, to give effect to the disposition of the will. In Marshall v. Marshall, 1 Jones 430, it is held, that when the alteration in the testator\u2019s circumstances is sueh as to render it impossible to execute any part of his will, as in Cooper v. Cooper, it will be considered as entirely revoked. But when it can b.e partially executed, the revocation is pro tanto merely as to that part which cannot be carried into effect. The same point was ruled at Pittsburgh at the last session. For these reasons, the judgment of the Orphans\u2019 Court, decreeing an intestacy, must be reversed.\nIt being then a revocation pro tanto only, it will be necessary for this court to ascertain the effect of the alienation of the real estate on the different provisions of the will.\nThe general rule is, that when, after making a will, the testator executes any legal conveyance of the devised property, the will is revoked. This is well established by authority. Lord Harwich says, in Sparrow v. Hardcastle, 3 Atk. 799, that the estate being gone by the conveyance, the will has lost the subject of its operation. The law requires that the same interest which the testator had when he made the will, should continue to be the same interest, and remain unaltered to his death. The least alteration in that interest is a revocation: Roberts on Wills 219; Powell on Devises 377; id. 548; Lovelass on Wills 352; 4 Kent\u2019s Com. 528; 3 Atk. 748, Parsons v. Freeman; 6 Vesey 199; 3 Johns. Ch. 156; 5 id. 450, Minuse v. Cox; 7 id. 267. Under the authorities cited, it is not disputed that the devise of the real estate to Stephen and Paul Balliet is revoked by the Sale and conveyance of the estate to them by the testator. The will, so far as respects the real estate, has nothing to operate upon, and therefore, for this and the other reasons given above, the alienation is a revocation of the devise.\nThe devise of the real estate, being revoked by the sale and conveyance of the real estate, the next and important question is, what is the effect on the legacies of $30,000 given by the testator to his sister, and his brothers and sisters\u2019 children; and this depends on the fact whether those legacies are made payable by the devisees, Stephen and Paul Balliet, out of that fund, and the personal estate exempted and exonerated from it. All the authorities agree that when a legacy is payable exclusively out of a particular fund, by a particular person, a disposition of that fund, in the lifetime, is taken to be an ademption of the legacy. The distinction is taken between a. specific, a pecuniary, and a demonstrative legacy. In the former it is adeemed, in the latter it is not.\nA legacy of quantity is ordinarily a general legacy; but there are legacies of quantity in the nature of specific legacies, as of so much money with reference to a particular fund for payment. This kind of legacy is called a demonstrative legacy, and it is so far general, and differs in effect so far from one properly specific, that if the fund be called in or fail, the legatee will not be deprived of his legacy, but be permitted to receive it out of the general assets: 2 Williams\u2019 Ex\u2019rs. 740. Ademption does not apply to demonstrative legacies, i. e. to legacies of so much money with reference merely to a particular fund for payment. Courts are averse to construing legacies to be specific, and the intention of the testator that they should be must be clear. The principle, I agree, which has the greatest influence on the determination of the question, and which has been uniformly supported by all the cases, is, that it is not enough for the testator to have charged his real estate with, or in any manner devoted it to the payment of his debts and legacies. The rule of construction is such as aims at finding not that the real estate is charged, but that the personal estate is discharged. In other words, it is not by an intention to charge the real estate, but by a plain intention to discharge the personal estate, that the question is to be decided: 2 Williams\u2019 Ex\u2019rs. 1050, citing 1 Mer. 220, 230. Test this case by the principles adverted to, and which are conceded to be specific or demonstrative legacies. The objects of the testator\u2019s bounty were the wife of the testator; 2d, his brothers^ and sisters\u2019 children, six families, and Stephen and Paul Balliet, his grand-nephews. After providing what he esteemed a comfortable provision for his wife, since dead, he devised his whole real estate to his two grandrnephews, Stephen and Paul Balliet, with a pecuniary legacy, as a residuary bequest, not exceeding the sum of $20,000. By the construction put upon the will by the Orphans\u2019 Court, these devisees get nothing. In the will, as it originally stood, they were entitled to real estate on certain conditions, and to the personal estate, not exceeding a certain amount, absolutely. The real and personal estates are kept separate and distinct. It is not the case of two funds blended into one, as the provisions of the will abundantly show. The legacies are given to his brothers in the same language, payable as hereinafter specified, with the exception of the bequest to his sister Magdalena of $5000, to be paid on the following conditions and, in the following manner. The legacies being to be paid as afterwards specified, or on the following conditions, which I take to be the same thing, we must resort to another part of the will to ascertain how and by whom they are to be paid. By the phrase payable as hereinafter specified, I understand a designation of the fund out of which the legacies are to be paid, and by whom payable, is intended. And this appears in the next item, where the testator says, \u201cI give and devise all that messuage, tenement, or tract of land (describing it) to Stephen Balliet and Paul Balliet, sons of my nephew Stephen Balliet, their heirs and assigns for ever, as tenants in common, and not as joint tenants, charged and chargeable nevertheless, with the furnishing, delivering, and payment yearly of the articles and interest hereinbefore bequeathed to my said wife, and the sum of $30,000 hereinbefore bequeathed to my sister, and the issue of my deceased brothers and sisters.\u201d\nThe testator, in the next item, after specifying certain real estate not before disposed of, which he devises to Stephen and Paul, and some bank stock, bequeathed all the rest, residue and remainder of his estate, effects, and property, of whatsoever kind and wheresoever situate, to the said Stephen Balliet, Jr., and Paul Balliet, and their heirs and assigns for ever, to be equally divided between them; provided, nevertheless, and his will expressly is, that in case the residue of his personal estate shall exceed the sum of $20,000, the excess or overplus above $20,000 shall be rateably applied to the six legacies, of $5000 each, hereinbefore given to his sister, and the issue of his deceased brothers and sisters. The distinctions between a specific and pecuniary legacy, and a specific and demonstrative legacy, are sometimes very nice, and, perhaps, this is a case of that description. The plan of the will generally seems to have been to give to his two nephews, who would appear to be the principal objects of his bounty, his whole real estate on certain conditions, that is, they paying certain specified sums of money to other persons specifically named in the will. He also bequeaths to them the residue of his estate, not exceeding $20,000. This is so plain, that had not other disposition been made of part of his estate in his lifetime, there would have been no difficulty in the distribution of it.. Had the sale or conveyance of the specific devise been made by a stranger, it would be somewhat difficult to believe he thereby intended to deprive his two favorite nephews of all interest whatever in his estate; the necessary effect of considering the legacies of $30,000 as subsisting legacies, and not adeemed. It does not, however, strike me that the persons to whom it is conveyed, viz. Stephen and Paul Balliet, can alter the case. At least, the argument on that fact, with evidence of the value of the property, is too uncertain to make it the groundwork of a judicial decision. So, also, if the legatees of-the $20,000 under the residuary clause, had been other than they were, it would strike me as unjust that the legatees first named should come upon the personal estate devoted to other persons, on failure of the fund to which they ought to look for payment. 'Much less ought they to be permitted to destroy or impair the right of those who were principally in the view of the testator. It is very possible that the testator was unaware of the effect to be produced by the sale of his real estate; and if he had, it may be probable that he would have altered the provisions of the will so as to suit the altered circumstances. But such conjectures (for they are nothing more) are not to be regarded. We must determine the case on fixed and settled principles. On the whole case, we have (not without hesitation) come to the conclusion that the sale and conveyance of the real estate (it being the fund out of which only the legacies were to be paid) was in law an ademption of the legacies charged on that part of the estate.\nBy the account settled by the executors, it appears that the personal estate amounts to $26,988.47. In what manner is that to be distributed, is the remaining question. In the opinion of the court, $20,000 is in the first place to be paid Stephen Balliet, Jr., and Paul Balliet, to be equally divided between them. By the proviso, their legacy is not to exceed that sum. It directs that the excess or overplus shall be rateably applied to the six legacies of $5000 each, given to his sister and the issue of his deceased brothers and sisters. In this respect, we think the intention is clear; and as effect can be given to this part of the will, without interfering with the rights of others, we are pleased to give it this construction.\nThe Court decrees distribution to be made accordingly.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by J. M. Porter, for appellants.",
+      "A. F. Brown, for appellees,",
+      "J. BanJcs on same side."
+    ],
+    "corrections": "",
+    "head_matter": "Balliet\u2019s Appeal.\n1. When both real and personal estate are devised, the sale and conveyance of the real estate by the testator after the making of the will, is a revocation of the will as to the real estate only, not as to the personal estate.\n2. Where pecuniary legacies are to be paid only out of certain real estate, the sale and conveyance by the testator of the real estate, after the making of the will, is in law an ademption of the legacies.\n3. As to specific and demonstrative legacies, see this case.\nAppeal from the decree of the Orphans\u2019 Court of Lehigh county.\nThis was an appeal by Stephen Balliet, Jr., and Paul Balliet, from the decree of distribution on the account of Stephen and Paul Balliet, executors of the will of Paul Balliet, deceased.\nPaul Balliet, of the township of North Whitehall, in the county of Lehigh, in his will, devised to his wife Elizabeth, in lieu of dower, his house and lot in North Whitehall township, &c. to hold to her during her widowhood; .also, all his household goods; and he directed that certain hay, rye, wheat, &c. be furnished to her annually, at the proper season, during her widowhood, by Stephen Balliet, Jr., and Paul Balliet, and hereby made a charge upon the messuage, tenement and tract of land hereinafter devised to them. And he also bequeathed to her the interest accruing on five thousand dollars to be paid to her at different times during her widowhood, by the said Stephen Balliet, Jr., and Paul Balliet, and hereby charged on the messuage, tenement and tract of land hereinafter devised to them.\nHe also bequeathed the sum of $5000 to the six children of his sister Maria Catharine, deceased; 2d, to the issue of his brother Stephen, to be equally divided between them, the sum of $5000; 3d, to his sister Susanna, or her issue, $5000; 4th, to his sister-Eve, $5000 ; and 5th, to the issue of his brother John, the sum of $5000 ; all payable as hereinafter specified.\n6th item: I give and bequeath to the issue of my sister Magdalena, deceased, who was intermarried with Christian Troxsell, deceased, the sum of five thousand dollars, to be paid on the following conditions, and in the following manner: First, the sum of fifty dollars for each and every year which Jesse Troxsell may have kept the said Magdalena, his mother, and a proportional sum for any period less than a year, (the time to be ascertained by the arbitrators hereinafter named, in case of dispute,) shall be deducted from the said five thousand dollars and paid to the said Jesse, and the residue thereof shall be paid to the issue of the said Magdalena (including the said Jesse) in equal parts or portions, at the time hereinafter specified.\nItem, I give and devise all that my messuage, tenement or tract of land situate in the township of North Whitehall, in the county of Lehigh, adjoining lands of Stephen Balliet, late Peter Butz, Jonas Troxsell and others, containing two hundred and sixty acres, more or less, with the appurtenances, to the said Stephen Balliet, Jr., and Paul Balliet, (sons of my nephew Stephen Balliet,) their heirs and assigns forever as tenants in common and not as joint tenants, charged and chargeable nevertheless with the furnishing, delivering and payment yearly of the articles and interest herein-before bequeathed to my said wife, and the sum of thirty thousand dollars, hereinbefore,bequeathed to my sister and the issue of my deceased brothers and sisters, to be paid as follows, viz.: twenty-five thousand dollars thereof to be paid in six equal yearly payments, of four thousand one hundred and sixty-six dollars and sixty-seven cents ($4166.67) each, the first thereof to be made at the end of one year next after my decease to the issue of my eldest sister deceased, and the next equal yearly paymeut to be made to the issue of my eldest brother deceased, and so on in the order of the births of my said brothers and sisters till the sum of twenty-five thousand dollars ($25,000) be paid. The remaining sum of five thousand dollars ($5000) to be paid at the termination of my wife\u2019s widowhood or at her decease.\nAnd further, I do give and devise my house and lot whereon I now reside, hereinbefore given to my said wife to hold to her during her widowhood, from and after the termination of her widowhood, to the said Stephen Balliet, Jr., and Paul Balliet, their heirs and assigns for ever, as tenants in common, and my undivided third part of a certain messuage, tenement, and tract of land situate in South Whitehall township, adjoining lands of Peter Moyer and others, containing one hundred and thirty acres, more or less, with the appurtenances and my undivided moiety of a certain tract of woodland, situate in North Whitehall township, adjoining lands of James Deshler and others, containing thirty-three acres more or less, with the appurtenances, and my undivided third part of a certain piece of woodland, situate in North Whitehall township, adjoining lands of late George Semmel, containing six acres more or less, with the appurtenances, and my bank stock and all the rest, residue and remainder of my estate, effects, and property of whatsoever kind and wheresoever situate, I give and devise to the said Stephen Balliet, Jr., and Paul Balliet, and their heirs and assigns for ever, to be equally divided between them: Provided, nevertheless, and my will expressly is, that in case the residue of my personal estate shall exceed the sum of twenty thousand dollars, the excess or overplus \u2014 above twenty thousand dollars \u2014 shall be rateably applied to the six legacies of five thousand dollars each, hereinbefore given to my sister and the issue of my deceased brothers and sisters.\nItem, it is my will and desire that none of the legacies herein bequeathed shall lapse, but in case any legatee, whether herein named as such or described as such, is now dead, or shall hereafter die, before the legacy or share of a legacy herein given or limited shall become payable, that such legacy or share of a legacy shall be deemed vested in the issue of such deceased legatee, which issue shall take, by representation of their parents respectively, such share as their parents would have taken if living.\nHe appointed Stephen Balliet, Jr., and Paul Balliet, executors. The testator died February 17, 1845. His will was proved on 21st February, 1845, and letters testamentary granted to Stephen and Paul Balliet. His wife died before him. After the making of the will, the testator sold and conveyed all his real estate, viz. part to one Semmels, for $214.37, viz. 6 acres of woodland; part to Peter Moyer, for $2373.07f, viz. the one-third of 130 acres in South Whitehall township; and 350 acres to Stephen and Paul Balliet, for the consideration of $10,000. This tract embraced all the land devised to them by the will, except what had been conveyed by the two preceding deeds.\nBy the change thus made, the testator was not seized of any real estate at the time of his death. He held securities for the land sold and conveyed to Peter Moyer to the amount of about $2500, and for the lands sold and conveyed to Daniel Semmels, to the amount of $71.46; and for the land sold and conveyed to Stephen Balliet, Jr., and Paul Balliet to the amount of $10,000, payable as per the inventory and account, and other personal estate as per said inventory and account.\nBefore the testator\u2019s death, suits had been brought against the Directors of the Northampton Bank, of whom he had been one, for alleged over issues, two of which suits had been arbitrated, in one an award was made for plaintiff of $6995, and in the other for $4425, and from the awards he and the other directors summoned .had appealed. He died before the cause could come on for trial. The suits are still depending.\n\u2022 The testator, when he made his will, owned and held two hundred and thirty shares of stock in the Northampton Bank, on which $50 per share had been paid. They were then somewhat depreciated. On the 22d of September, 1843, and from thence till his death and since, the shares were of no value, in consequence of the final failure of the institution in the spring of 1843.\nThe account of the executors was filed in March, 1846. It was referred to auditors, who reported a distribution of the balance of $26,988.43, among the legatees, viz. to the issue of Maria Deshler, of Stephen Balliet, deceased, of Susanna Baer, of Eve N. Saeger, of John Balliet, and of Magdalena Troxsell, each $4498.07*1, amounting to $25,988.43.\nThey submitted to the court the matter of the suits depending for over issues, and how far distribution should be made, until the determination of those suits.\nIn the account thus audited, the executors charged themselves with the outstanding notes and bonds, calculating them at their then present value, and including the unpaid bonds of Stephen Balliet, Jr., and Paul Balliet, Jr., given for part of the said consideration money of $10,000.\nThis report was confirmed nisi.\nOn the 3d of December, 1846, exceptions to the distribution were filed, on behalf of Stephen Balliet, Jr., and Paul Balliet, Jr., the accountants and two of the legatees, verified by affidavit :\n1. That the auditors erred in not awarding to the accountants, who are devisees and legatees of the testator, the sum of $2672.69J, due on Peter Moyer\u2019s bond, and $80.40, due on Daniel Semmel\u2019s bond, being the proceeds of land devised by the testator to the\n..accountants, but sold in his lifetime.\n2. That if the allowance mentioned in the first exception is not according to the correct construction of the will, then the sum of $20,000 should have been first distributed to the accountants as devisees and legatees, before any distribution was made to the other legatees, under the changes of the testator\u2019s estate, which had taken place between the making of his will and his decease.\n3. That the distribution is erroneous in other respects.\nOther exceptions were filed on the part of other legatees, one of which was to the distribution in favor of the other legatees, except Susanna Baer. *\nIn September, 1848, the court set aside the report of the auditors, and decreed distribution of the balance as in case of intestacy.\nFrom this decree, Stephen Balliet, Jr., and Paul Balliet appealed.\nIt was assigned for error:\n1. The Orphans\u2019 Court erred in decreeing distribution of the balance, as in case of intestacy, to and among the next of kin, and should have decreed $20,000 of the said balance to Stephen Balliet, Jr., and Paul Balliet, as given to them by the will of the testator.\n2. That if the said sum of $20,000, under the will of the testator, and the changes which had taken place in regard to his real estate, between the making of his will and his death, is not decreed\n. to the said Stephen Balliet, Jr., and Paul Balliet, they are entitled to the sum of $2672.69J due on Peter Moyer\u2019s bond, and $80.40|-due on Daniel Semmel\u2019s bond, those securities having been taken for land devised to the said Stephen Balliet, Jr., and Paul Balliet, and sold and conveyed by the testator to the said Moyer and Semmel in his lifetime.\n3. That the Orphans\u2019 Court erred in deciding that the will of the testator was revoked in toto by the conveyances of the testator\u2019s real estate, the said conveyances being only a revocation of the same so far as the devises of the said real estate and the legacies charged thereon were concerned, and did not affect any of the remaining provisions of the will disposing of\" the t\u00e9stator\u2019s personal estate.\nThe case was argued by J. M. Porter, for appellants.\n\u2014 He contended that the conveyances by the testator of his real estate were not a revocation of the entire will, but only a revocation pro tanto, or so far as the real estate and the legacies charged thereon were concerned. That the entire will was not revoked, as there was left of the testator\u2019s personal estate above $26,000, of which the remaining parts of the will made a disposition, which was unrevoked either in form or by implication. That the Orphans\u2019 Court should first have allowed the appellants $20,000, and ordered the excess beyond that sum, to wit, $6988.43, to be paid in equal and ratable proportions to the appellees. That the effect of the sale of the real estate was to enlarge the fund for the payment of the $20,000. That the will was ambulatory, and must operate on all his personal estate.\nThe devise of the real estate was revoked by the sale and conveyance of it: 3 Atkyn 799; 4 Kent Com. 528; 5 John. Ch. 156; 5 id. 450; 7 id. 267.\nThe devise of the real estate being revoked, the legacies charged thereon were also revoked or adeemed. The land is the fund to which the legatees must look: 9 Watts 63; 2 Atkyns 373; 1 Roper on Leg. 152; 2 Freeman\u2019s Rep. 22; id. 124; 1 Bro. Ch. 401; 1 Russ. & M. 677; 3 Pa. Rep. 533; 5 Barr 356; 3 Watts 337.\nThat this revocation was only pro tanto: Powell 377; 2 Ves. Jr. 428, Bridges v. Dutchess of Chandos; 2 P. Wms. 333; 2 Vern. 720; 9 Pick. 350; 15 id. 388; 4 Greenleaf 341, Carter v. Thomas; 7 John. Ch. 258; 11 Ser. & R. 141, Wogan v. Small; 1 Whar. 246; 2 id. 103; 7 Paige 97; 4 Barr 88, Cooper\u2019s estate.\nThe appellants were the chief objects of the testator\u2019s bounty. By the decision of the Orphans\u2019 Court they get nothing, as they are grand-nephews of the testator, and their father is living. The bank stock became of no value before his death.\nA. F. Brown, for appellees,\ncontended that the testator revoked his entire will by the change he made in his property after its execution : Cooper\u2019s Estate, 4 Barr 88.\nThe legacies of $30,000 were the primary object of the testator, for they are the first and last named in the will. The land was not the only fund contemplated by the testator for their payment. If the land was worth $30,000, why did he take bonds for $10,000 for it, and that with the intention of securing them to the obligees at his death ? Why charge legacies to the amount of $30,000 on land worth only $10,000, if he meant them to be paid ? He meant that his estate was to go to Stephen and Paul, and the six families of the legatees named. The bank stock, worth $11,500 at the making of the will, became of no value. If there was to be an abatement of the legacies, this accomplished it. The testator intended that his will, so far as those dispositions which his own acts had rendered nugatory were concerned, should be revoked. He gave in his lifetime to Stephen and Paul what they were to have in land, and provided a fund for the payment of the legacies, as far as it would reach. The intestate laws will give to his brothers and sisters\u2019 children what it was intended they should have.\nIt was a revocation pro tanto, but it extended to the entire estate as affected by the will. Now, it is contended for the appellants, that the bonds of Stephen and Paul should go back to themselves, and not to the other legatees. That not only is the devise of the land revoked, but that he intended to increase his personal estate for their benefit.\nIn this ease there was a conveyance of the whole real estate, and an entire change in every thing relating to the estate, his wife dead, the bank stock wholly depreciated, and the real estate converted into personalty.\nBut if the will was not revoked, he contended that the legacies were chargeable both on real and personal estate, and that they were not adeemed by the sale of the land to Stephen and Paul, nor would they have been if it had been sold to a stranger. That they were not specific, but demonstrative; that is, a legacy of mere quantity with a specific fund appropriated for the payment of it.; the mention of the fund being rather by way of demonstration than of condition; rather showing how or by what means the legacy may be paid, than whether it shall be paid at all: Ward on Legacies 21, 18 Law Lib.; 5 Barr 351.\nA legacy of quantity is ordinarily a general legacy; but there are legacies of quantity in the nature of specific legacies, as of so much money with reference to a particular fund for payment. This kind is called a demonstrative legacy, and is so far general, and differs in effect from one properly specific, that if the fund be called in or fail, the legatee will not be deprived of his legacy, but be permitted to receive it out of the general assets: Williams on Executors 740. Courts are averse to construing legacies to be specific, and the intention of the testator that they be so, must be clear: Id. 741; 7 John. Ch. 262. A legacy is not necessarily specific because payable out of a particular fund. They have precedence of payment out of that fund, but, failing the fund, may be payable out of the general estate: 6 Watts 473; 3 id. 337; 7 John. Ch. R. 262-3.\nIf the intention is clear to give the legacies, they will not fail because the land has failed. Ademption does not apply to demonstrative legacies, i. e. to legacies of so much money with reference to a particular fund for payment: 2 Williams on Executors 820.\nIt is not enough that the real estate be charged; the personal estate must be discharged: 2 Wms. Ex. 1050; 1 Mer. 220\u2014230. If the legacy is not only charged upon real estate, but given out of it, the legatee can only have recourse to that fund: Matthews on Ex\u2019rs. 248, 9 Law Lib. But the mere charge of debts and legacies upon real estate does not discharge the personalty. It is liable unless the contrary appears: Dick 417; 4 Vesey 76; 9 id. 447; 18 id. 132; 1 Roper on Leg. 196; Ram on Assets 62-3.\nThe phrase as hereinafter specified does not apply to the fund out of which the legacies were payable, but to the time of payment, as will be seen by examining the sixth bequest to Magdalena, as he there speaks of the time hereinafter specified, without using any thing to indicate any particular fund.\nThe real and personal estate are blended in the residuary clause. This is relied on to show that the legacies are to be paid. Rest and residue means what is left after the payment of debts and legacies: 1 Pa. Rep. 112 ; 2 Dal. 131; 6 Bin. 395; 2 Wms. Ex. 895-6.\nIt is said that Paul and Stephen were the chief objects of the testator\u2019s bounty, and that by the decision they get nothing. The deed to them is for 350 acres, and they got it for $10,000. A witness rated it at $70 per acre. The court, in deciding on the question of intention, may receive evidence of tbe value of property devised or mentioned in the will: 2 Barr 288.\nJ. BanJcs on same side."
+  },
+  "file_name": "0451-01",
+  "first_page_order": 451,
+  "last_page_order": 463
+}

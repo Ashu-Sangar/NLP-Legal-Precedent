@@ -1,0 +1,86 @@
+{
+  "id": 977369,
+  "name": "Barker versus McFerran",
+  "name_abbreviation": "Barker v. McFerran",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "211",
+  "last_page": "214",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 489",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 153",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0153-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 497,
+    "char_count": 10230,
+    "ocr_confidence": 0.444,
+    "pagerank": {
+      "raw": 5.942607104287496e-08,
+      "percentile": 0.370565812910328
+    },
+    "sha256": "e61b9aedef24c620cebae6b8dc919997301f56233df4be7f50980a8f66c85aa0",
+    "simhash": "1:357fad19aab0aa99",
+    "word_count": 1811
+  },
+  "last_updated": "2024-02-27T20:03:37.204542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barker versus McFerran."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nBy the 17th section of the Act of 15th March, 1832, it is directed that \u201c all original wills, after probate, shall be recorded and filed by the register of the respective county, and the copies of all and such of the probates thereof, under the public seal of the courts, or officers where the same may have been or shall be so taken or granted respectively, except copies of probates of such wills and testaments as shall appear to be annulled, disproved or revoked, shall be adjudged and are hereby enacted to be matter of record, and good evidence to prove the gift or devise thereby made.\u201d Although the Act of Assembly makes the probate before the register \u201c matter of record\u201d and \u201c good evidence to prove either a gift\u201d of personal or a \u201c devise\u201d of real estate, the courts have nevertheless made a distinction between real and personal estate in respect to the effect of a probate of a will before the register. It is conclusive on questions relating to personal estate, but it is said to be only prima facie evidence to prove the devise of real estate. Admitting a will to probate is certainly a judicial act, and according to general principles the decree of the register ought not to be impeached collaterally. It is conceded that according to the decisions this may be done. But has the probate of the will been necessarily impeached in this case ? Has it been \u201c annulled, disproved\u201d or \u201crevoked\u201d ? It is not pretended that it has been either \u201cannulled\u201d or \u201crevoked.\u201d Has it been \u201c disproved\u201d ? The will bears upon its face the declaration that the testator has set his \u201chand and seal\u201d to it, and his name is written at the foot of it. It is true his mark is also there. It is attested by three witnesses. Two of these witnesses are deceased, but their signatures have been duly proved. The third still survives and proves his signature as a witness, but his memory is a blank as to everything that occurred at the time. The case stands then upon the proof of the handwriting of the three subscribing witnesses. Upon this evidence the law not only presumes the sanity of the testator, but presumes everything else necessary to establish the will, until the contrary appears. When the testator at the close of his will says \u201c in witness whereof I have set my hand and seal,\u201d the presumption is that the name was his own handwriting, and that the seal was put there by himself; and that presumption, after decree admitting the will to probate, is not rebutted by the fact that his mark appears to be there also. Surplusage does not vitiate. The mark was as unnecessary as his seal. But neither did any harm. If, however, it should be established that the name was not written by the testator, the presumption is that he was \u201c prevented from signing it by the extremity of his last illness,\u201d and that it was signed by \u201csome person in his presence and by his express direction.\u201d After proof of execution, and especially upon a judicial decree admitting a will to probate, the burden of disproving it rests on the party who denies its validity. If the witnesses die or lose their recollection of the facts, he suffers nothing more by the loss of their testimony than every other person who may be prevented from the same causes, from establishing the allegations necessary to make out his claim or defence. It is not material, in a collateral proceeding, to inquire what evidence was laid before the register. It was sufficient if it satisfied him. Holliday v. Ward, 7 Harris 489. If the party producing the will for probate satisfied the judge having jurisdiction over the question, so that he produced the decree admitting the will to probate, he may, under the express provisions of the statute of 1832, stand upon such decree, as record evidence in his favour, until it is revoked by the register himself, annulled by competent authority, or disproved on a trial at law. The case stated does not show that either of these circumstances has taken place. The result is that the will is valid and the judgment of the Court of Nisi Prius is affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "R. Murray Rush, for plaintiff in error.",
+      "\u00edr. W. Thorn, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Barker versus McFerran.\n' After proof of execution and especially upon a judicial decree admitting a will to probate, the burden of disproving it rests on the party who denies its validity.\nUnder the Act of 15th March, 1832, such decree of the register is as conclusive in regard to real estate, as to personal, until it is revoked by the register himself, annulled by competent authority, or disproved on a trial at law.\nWhen the subscribing witnesses to a-will are dead, or have no recollection of the circumstances attending its execution, upon proof of their handwriting, the law will presume everything necessary to establish the will, until the contrary appears.\nIn such cases, where the conclusion 'of the will states that the testator has .thereto \u201c set his hand and seal,\u201d it is presumed that the name, as well as the seal, was placed there by himself.\nIf, however, it should be proved that the name was not in his handwriting, it will then be presumed that he was prevented from signing it \u201c by the extremity of his last sickness,\u201d and that it was placed there \u201cby some one in his presence and by his express direction.\u201d\nCertificate from the Court of Nisi Prius.\nThis was an amicable action of ejectment by Peter Barker and Elizabeth his wife, late Elizabeth Kline, against William K. .McFerran, to try the right to one undivided eighth part of a lot of ground and three tenements, situated in the city of Philadelphia. Peter Kline, the grandfather of defendant and father of Elizabeth Kline, died on the 13th August, 1845, having previously, on the 14th July, 1845, made his last will and testament, in which he specifically devised the premises in dispute to the defendant. The last clause contains a revocation of all former wills, and concludes, \u201c In witness whereof, I have hereunto set my hand and seal,\u201d &c.\nThe testator\u2019s name appears at the end of the will, and also his mark. And it is attested by James Walker, R. Alex. Philson, and Daniel M. Fox. On the 20th of August, probate of the will was made before the register by Philson and Fox, two of the subscribing witnesses, as follows, \u201c that they were present and did see and hear Peter Kline, deceased, the testator therein named, make his mark, seal, publish, and declare the same, as and for his last will and testament, and that at the doing thereof he was of sound and disposing mind, memory, and understanding, to the best of ;their knowledge and belief.\u201d And on the same day letters testamentary were issued by the register to one of the executors named in the will. Walker and Philson, two of the subscribing witnesses, are now deceased. Eox, the other witness, testified, \u201cthat he drew the will of Peter Kline, and that he knows that he was a witness to the will because his signature is appended thereto as such, and the testator\u2019s name is in his handwriting, but beyond that fact he has no memory concerning it. That in the course of his business as a conveyancer he has. drawn many wills for different persons, but in regard to the will of the said Peter Kline he does not now recollect any circumstance whatever. That relative to its execution his memory is a blank.\u201d\nOn the 3d of January, 1856, the decease of R. Alex. Philson, one of the subscribing witnesses, was proved before the register, .and the handwriting of his signature to the will identified.\nElizabeth Barker is a daughter of Peter Kline, and claims the one undivided eighth part of the premises.\nThe only questions raised in the cause were, whether the evidence showed such an execution of the will as would entitle the defendant to hold the devised premises, and the effect to be given to the decree of the register admitting the will to probate.\nThe foregoing facts having been embodied in the form of a .case stated, the court rendered judgment for the defendant.\nWhereupon the plaintiff took a certificate of error.\nR. Murray Rush, for plaintiff in error.\nIs the will executed according to the provisions- of the act of 1833, or of 1848 ? The -will is executed by a mark, and it does not appear that the name of testator or the mark were placed there by his \u201cexpress direction,\u201d by \u201canother person in his presence.\u201d The principle upon .which any other than a testator\u2019s own act is permitted to appear on the face of the execution of a will, is that the signing by another is a \u201c necessity.\u201d Infirmity or other disability must be the inducing cause. Such is the reasoning in all the adjudged cases on this subject. It is not considered necessary to do more than refer the court to them. Dunlap v. Dunlap, 10 Watts 153; Cavett\u2019s Appeal, 8 W. & Ser. 25: Assay v. Hoover, 5 Barr 21; Grabill v. Barr, 5 Barr 441.\nHow far the affidavits and exhibits accompanying the case stated show that the attestation is sufficient, and that the will is valid by the authority of Greenough v. Greenough, 1 Jones 489, it is not deemed necessary to discuss, as the question is one simply of fact.\n\u00edr. W. Thorn, for defendant in error.\nThe case of McCarty v. Hoffman, 11 Harris 509, and the cases cited by the plaintiff in error, settle only the question that a will, signed by a mark after the Act of 1833, and before the Act of 1848, where the testator died before the passage of the latter act, was not duly executed. That question does not arise in this case. It only relates to the mode of establishing the fact of due execution, in the event of the death, or failure of the recollection of the witnesses.\nNo case decides that the \u201c express direction\u201d to affix testator\u2019s name must appear in the attestation. How must this be established in the event of the death of the witnesses ? Will the devise be defeated ? If that were so, a will would be good or bad as the. witnesses lived or died, remembered or forgot. But this cannot be. They being dead, the proof of their handwriting and the attestation must stand as a substitute for their testimony.\nIn Greenough v. Greenough, 1 Jones 489, proof of \u201c express direction\u201d by one witness and proof of the handwriting of the other, whose memory failed, was held sufficient evidence of due execution. Wms. on Ex. 290."
+  },
+  "file_name": "0211-01",
+  "first_page_order": 211,
+  "last_page_order": 214
+}

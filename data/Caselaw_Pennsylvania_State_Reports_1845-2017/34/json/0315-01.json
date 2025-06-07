@@ -1,0 +1,111 @@
+{
+  "id": 418034,
+  "name": "Stokely versus Robinson",
+  "name_abbreviation": "Stokely v. Robinson",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "315",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 Pa. 315"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Binn. 333",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795141
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/binn/6/0333-01"
+      ]
+    },
+    {
+      "cite": "7 Cranch 449",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": 1
+    },
+    {
+      "cite": "1 Dall. 164",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12138465,
+        1408387,
+        12138341,
+        1408498,
+        1408437,
+        12138585
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/dall/1/0164-02",
+        "/us/1/0169-01",
+        "/dall/1/0164-01",
+        "/us/1/0169-03",
+        "/us/1/0169-02",
+        "/dall/1/0164-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 552,
+    "char_count": 11545,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 3.514313932239338e-07,
+      "percentile": 0.8834605801342086
+    },
+    "sha256": "e383cc76e0e3cdacd73a797816d923cecc4fe3b46003b6429c352dac42170d92",
+    "simhash": "1:39e3606785cedceb",
+    "word_count": 2048
+  },
+  "last_updated": "2024-02-27T21:55:21.103467+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stokely versus Robinson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\nThe only question for determination in this case, is the alleged error of the court, in entering judgment for the plaintiff below, on the award filed in this case.\nThere was no written submission of the case, by the parties, to the referees, nor any by parol, of which we can take notice, as the case stands. Could a judgment be entered on such an award, by act of the court merely ? We think not.\nBy the 2d and 3d sections of the Act of 1806, in case of actions pending, and by the 3d section of the Act of 16th June 1836, two modes are provided, for ending, by voluntary arbitration, suits and controversies between parties, in regard to the title to real estate. In both, however, it is necessary, in order to invest the court with power to enter judgment on the award, that the submission be made a rule of court. It has been decided, that this may be done when the submission recites the act under which it is made: 1 Karris 90. For by such a reference to the act, it will be intended, that the proceedings are all to be in accordance with it. Further than this, the courts have not gone.\nHere, there was no submission in writing, and no reference to any act under which the arbitrament was to take place; and, of course, no agreement to make it a rule of court. The recital in the award, that there had been a submission by the parties, would not prove it, and if it did, it was silent as to what act the reference was under. So that, under none of the forms of arbitration, provided by the statute, was the court authorized to enter judgment on this award.\nBut it was suggested in argument, that perhaps the judgment might be sustained on the ground of compromise by the attorneys, with confession of judgment as the fruits of it. It is enough to say, in answer to this, that the award, the only evidence of what they did do, shows that what was done, was the result of an adjudication, and not by concession and compromise. .So too, the record negatives the existence of a confession of judgment, by showing that it was entered on the award, and by force and in virtue of it. The foundation or authority on which judgments rest must always appear in some way or other: this is the only test of whether they exist as such, or not. If there be no autho \u2022 rity for a judgment, then it cannot legally exist, and for this reason, the record always shows ,how the judgment came to be entered, whether by default, on a verdict, .by confession, stipulation, on an award, or under some rule of court. Here, it is shown to be on an award, and, for want of a submission according to law, it cannot be sustained as such. The record stands thus, in form and substance \u2014 there was no mistake or misconception as to this. To sustain it, therefore, as a compromise and confession, would be to make it speak a language which it does not design to speak, and to which it is a stranger; and to turn it into what neither parties, attorneys, nor the court intended. This cannot be done, without doing violence to all rules and precedents.\nIt is not intended, as it is not necessary, to discuss the extent of authority of attorneys at law in the management of their clients\u2019 cases. It is undoubtedly very extensive, as many adjudicated cases prove. In the cas\u00e9 in hand, it is not to be believed, that they acted on their own authority \u2014 everything shows the contrary, and that there was- a submission by parol, by their clients. That the result of it is not successful in ending the suit in which it was made, by judgment, is owing to the defects already mentioned. On this writ of error, we only pass upon the validity of the judgment entered on the award. Whether in any other way, the award will be binding or not, we do not determine.\nJudgment reversed, and procedendo awarded.",
+        "type": "majority",
+        "author": "Thompson, J."
+      },
+      {
+        "text": "The following concurring opinion was delivered by\nWoodward, J.\nIt was ruled in Pennsylvania, in 1786, that an attorney\u2019s agreement to refer his client\u2019s cause binds the client: 1 Dall. 164. The arbitration law of 1806 expressly recognised the right of counsel, as well as of parties, to submit to a reference. In Holker v. Parker, 7 Cranch 449, Marshall, O. J., said, it is believed to be the practice throughout the Union, for suits to be referred by consent of counsel, without special authority; and this universal practice must be founded bn a general conviction, that the power of an attorney at law over the cause of his client, extends to such a rule. See also Wilson v. Young, 9 Barr 101; and Massey v. Thomas, 6 Binn. 333.\nBut this power, thus distinctly recognised, must be exercised in a formal submission precedent to the award. It may be by agreement of counsel in writing, or by parol, or-it may be by consenting to a rule of court, whereby the submission, is made a matter of record. Without a submission, however, in some form, there can be no award. And there is no submission, where there is no evidence of it. It is impossible that the award should prove the submission. As well might the submission be called the award. Without some antecedent act to prove the submission, the cardinal principle of awards, that they must be within the submission, could not be administered; and a man might find a conclusive arbitrament on record against him, before he had notice even of a pending controversy. This notion, that a recitation in the award is sufficient evidence of a submission, confounds all rules of practice \u2014 would, in practice, imperil the rights of suitors, and is without a particle of authority in the books. Yet, we have nothing else on this record, to prove the submission. The affidavits sent up are no part of the record, and we said on the argument, we would not consider them. Laying them out of view, there is nothing \u2014 no agreement, no rule of court, and no subsequent ratification, on which to rest the award. The recitation of the highly respectable counsel that the parties had submitted, is part of the award itself, and cannot be regarded as evidence of an antecedent submission, until we are prepared to say of every award, that it may carry its own authority \u2014 in other words, that an award may prove a submission.\nAs an award, the action of these attorneys cannot be supported. They might have submitted their client\u2019s case, but they did not. They might have decided the cause on the submission of the parties ; but as there is no evidence of the submission of the parties, there could be, and there is no award.\nWhat then shall it be called but a compromise of the counsel ? It might as well have taken any other form as that of an award. An agreement of settlement, signed by counsel, or a judgment confessed, would have been no more a compromise, than that which is called the award. In the case of Holker v. Parker, before referred to, Chief Justice Marshall denominated what was done there \u201c a compromise between the attorneys, taking the form of an award;\u201d and the phrase describes this case exactly.\nThe question, then, is whether counsel, in virtue of the professional relation, have power to compromise their client\u2019s case. Chief Justice Marshall, in the above-named case, held' that, strictly speaking, no such right existed, but that a court would be disinclined to disturb such a compromise, unless manifest injustice had been done. The principle is, that the compromise, being unauthorized, is void; and, if it be taken with the qualification the Chief Justice suggested, it is very plain that, however disinclined a court might be to disturb a compromise which executed itself, they would not lend their power to enforce it against parties, where specific execution was necessary to be sought.\nThat a court of equity will not enforce such a compromise, was distinctly ruled in England lately, in the celebrated case of Swinfen v. Swinfen, Law Journal (English) for August 1858, page 492. An issue of devisavit vel non had been awarded by the Master of the Rolls, to try the validity of the will of Samuel Swinfen, under which his widowed daughter-in-law, Mrs. Patience Swinfen, was a principal devisee. She was defendant in the issue, and Sir Frederick Thesiger, her counsel, taking alarm at something that occurred on the trial, consented to a compromise, on terms which he thought beneficial to his client. Notwithstanding the agreement was embodied in an order at Nisi Prius, and was made a rule of court, both the Master of Rolls, and, on appeal, the Court of Chancery, refused to decree1 performance of it against Mrs. Swinfen. The ground of this ruling was, that an attorney has no authority to compromise a suit, without' the authority or sanction of the client. '\nHere, we are asked virtually to decree in favour of the compromise of counsel, for the suit was ejectment, and the court below specifically enforced the award when they refused to set it aside and try the parties\u2019 cause. If we affirm the judgment, we decide that counsel may compromise the cause in hand, if they put it in the form of an award, and recite therein a submission. The law elsewhere is not so, and we do not- think it would be a sound rule in Pennsylvania. It would lead to many abuses and difficulties between counsel and client, whose relations ought to be very harmonious and confidential; and, therefore, I hold that this award, unsupported by any submission, cannot be enforced as a compromise.\nI concur in reversing the judgment.",
+        "type": "concurrence",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Shaler, for the plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Stokely versus Robinson.\nAn award, by the counsel of the plaintiff and defendant, reciting that they had been appointed by the parties to determine the case, is not one on which judgment can be entered.\nIn order to invest the court with power to enter judgment on an award, affecting the title to real estate, the submission must be made a rule of court; or must recite the act under which it is made.\nThe recital of a submission in the award, is no proof of its existence. And without a submission in some form, there can be no valid award.\nSuch an award cannot be supported as a confession of judgment, in pursuance of a compromise by the attorneys of the respective parties.\nAn attorney\u2019s agreement to refer his client\u2019s cause, binds the client; but this power must be exercised in a formal submission precedent to the award. Woodward, J.\nBut counsel, by virtue of their professional relation, have no power to compromise their client\u2019s case, without the client\u2019s authority or sanction. Woodward, J.\nErrob to the Common Pleas of Westmoreland county.\nThis was an ejectment by John ,Q. Robinson against Joseph Stokely for a lot of ground in West Newton, containing one acre, more or less. . . -.\nOn the 4th April 1859, the following award was filed, signed by Edgar Cowan and Henry D. Foster, the attorneys of the parties on record:\u2014\n- \u201c And now, to wit, February 1859, we, the undersigned, having been appointed by the parties to determine this case, do award and find for the plaintiff, six cents damages, and six cents costs. The description of plaintiff\u2019s lot, to which we find he has title, is as follows: beginning at a'post on Fifth street, at the corner of lot 107, thence, south 60 degrees east, (18) eighteen perches, to a post; thence, north 30 degrees east, (10.6) ten and six-tenths perches to a post; thence, north 60 degrees west, (18) eighteen perches to'a post on the said Fifth street; thence, along same, to the place of beginning.\nEdgar Cowan,\nH. D. Foster.\u201d\nOn this award, the court entered judgment; whereupon, the defendant sued out this writ, and here assigned the same for error.\nShaler, for the plaintiff in error."
+  },
+  "file_name": "0315-01",
+  "first_page_order": 315,
+  "last_page_order": 319
+}

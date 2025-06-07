@@ -1,0 +1,91 @@
+{
+  "id": 954606,
+  "name": "Blasdell v. Bissell",
+  "name_abbreviation": "Blasdell v. Bissell",
+  "decision_date": "1847-07-20",
+  "docket_number": "",
+  "first_page": "258",
+  "last_page": "259",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Binn. 109",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788928
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0109-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 456",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801958
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/4/0456-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 331,
+    "char_count": 4228,
+    "ocr_confidence": 0.348,
+    "pagerank": {
+      "raw": 2.283400580259271e-07,
+      "percentile": 0.7854251348244627
+    },
+    "sha256": "4c56d2521faa6ec21c2cb868a72ffac776001ca0a08022d31eef7c2c3ab51023",
+    "simhash": "1:85643cfd66d213d9",
+    "word_count": 746
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Blasdell v. Bissell."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nWhen a tract of land has been surveyed for a warrantee, by courses and distances subsequently called for in a patent for it, the lines actually traced on the ground, as shown by the landmarks, and not those produced by the'courses and distances, constitute the boundaries of the grant; and why should they not constitute the boundaries of a grant by an individual? The certainty of result produced by the rule, and the convenience of it, are alike reasons for its application to both; or perhaps they operate more forcibly for its application to the latter in proportion to the difference of value between wild and cultivated land. , The calls of a survey, and not its courses and distances, are to govern; and where there are actual lines of demarcation, the compass and chain are no more than instruments to point them out. Where they are not to ' be found, the results .obtained by actual \u00e1urvey are the next best evidence of their location. The mischiefs of a system adopted in an adjoining state, where courses and distances are every thing, and landmarks nothing, have induced us to cling to our own in all cases. Carelessness of chain-carriers, roughness of surface, variation of the compass, imperfection of the instrument, unskilfulness in the use of it, and other causes not to be enumerated, inevitably produce, in every instance, more or less uncertainty of result; and if we suffered ourselves to be governed by the compass and by measurement, collisions would be incessant. Now, what is the case to which we are to apply our rule ? The plaintiff had partly executed a parol sale by having the land surveyed and possession of it delivered according to monuments on the ground; but in drawing a deed for it, the scrivener inserted the courses and distances without reference to the monuments. These are found to be discrepant. And which shall govern? Undoubtedly the monuments. It would be most unjust to let the grantee avail himself of the surveyor\u2019s inaccuracies and the scrivener\u2019s omission, in order that he might take in more land than he paid for, or was set off to him; and the judge should have told the jury that the law would not allow it; The contest is a small one; but we are bound to send the error back for correction.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Case, for plaintiff in error,",
+      "Butler, cont\u00f3,"
+    ],
+    "corrections": "",
+    "head_matter": "Blasdell v. Bissell.\nA. made a parol contract for tlie sale of land, and boundaries were marked. Subsequently he made a deed for the same land to the alienee of his vendee; the courses and distances in which varied slightly from tlie marked boundary. The lines marked on the land are to govern.\nIn error from the Common Pleas of Susquehanna county.\nJuly 16. Trespass, for erecting \u00e1 wall on the -land of plaintiff, in which the question was the title to the locus in quo. On the trial before Jessup, P. J., it appeared that in 1821 the plaintiff, being the owner of a large tract, made a parol agreement to sell seventy-three acres thereof to one Dewees, and a certain ash tree was fixed upon as the point through which the line was to run. A survey, was accordingly made, stakes set, and a fence moved to the line. Dewees held possession for about five years, and sold to Carmalt, under whom Brand entered. In 1833, Blasdell (the plaintiff) executed a deed for the property to Brand, in which the boundary line in question was described \u201cto remaining land of James Blasdell, thence by the same, east, one hundred and sixty perches, to the north-east corner \u00a1thereof in the line of land contracted for by Almon and Pichett.\u201d It appeared that the fence set on the former division line did not correspond exactly with the courses and distances mentioned in the deed, and it was for building the wall beyond the fence, up to the line of the deed, that this action was brought.\n, His honor told the jury that, since the conveyance was long after the parol sale, and there was no reference to any natural boundaries or marks, the agreement must be considered as merged in the deed, and the lines there mentioned were to govern.\nCase, for plaintiff in error,\ncited Hall v. Powel, 4 Serg. & Rawle, 456 ; Yoder v. Fleming, 2 Yeat. 811; Magheean v. Adams, 2 Binn. 109.\nButler, cont\u00f3,\ncited Dysart v. Leeds, 2 Barr, 488.\nJuly 20."
+  },
+  "file_name": "0258-01",
+  "first_page_order": 258,
+  "last_page_order": 259
+}

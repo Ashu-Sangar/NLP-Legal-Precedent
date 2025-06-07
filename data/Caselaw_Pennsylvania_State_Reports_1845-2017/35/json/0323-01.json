@@ -1,0 +1,65 @@
+{
+  "id": 990414,
+  "name": "Miller's Appeal",
+  "name_abbreviation": "Miller's Appeal",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "323",
+  "last_page": "323",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 323"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 1886,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 1.0534011281021359e-07,
+      "percentile": 0.5546856206674597
+    },
+    "sha256": "6f58048ec5f85ae05c69c65a330f73b2b3030e8de824719d695b9f0461351c1e",
+    "simhash": "1:101fbc948828b60e",
+    "word_count": 336
+  },
+  "last_updated": "2023-07-14T16:02:38.618048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miller\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThe bequest is to the heirs of George and John, and as they cannot have joint heirs, it must have been intended for them as several classes, that is, for the heirs of George and for the heirs of John, and they are to take as if the property bequeathed had descended to them through George and John respectively. The legatees do not take under the intestate laws; but they are defined by those laws, and must be ascertained by reference to them. The court decided the case agreeably to this view. Grandnephews fall within the description as legatees.\nAppeal dismissed at the costs of the appellant.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "O. M. Runic, for the appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "Miller\u2019s Appeal.\nA testator bequeathed a legacy in the following words, \u201c to my two brothers O. and J., or their heirs or assigns, to share and share alike between said. G. and J., or their heirs or assignsHeld, that the children of G. and J. took by classes, and not per capita.\nAppeal from the Orphans\u2019 Court of Lehigh county.\nThis was an appeal by Samuel Miller from the decree of the court below upon the accounts of the executors of Frederick Miller, deceased. A copy of the will of the testator will be found in the preceding case.\nThe two brothers of the testator, George and John, mentioned in his will as legatees, died before him, and the auditor appointed to report distribution of the funds in the hands of the executors, divided a proportionate part of the legacy given to them among their descendants by classes, and not per capita. By this report there was given to each of the children of John Miller $200; and to each of the children of George Miller $142.27. And the court below having confirmed the auditor\u2019s report, and decreed distribution accordingly, this appeal was taken by Samuel Miller, one of the children of George Miller, deceased.\nO. M. Runic, for the appellant,\ncited Witman v. Ebersole, 5 Barr 458."
+  },
+  "file_name": "0323-01",
+  "first_page_order": 323,
+  "last_page_order": 323
+}

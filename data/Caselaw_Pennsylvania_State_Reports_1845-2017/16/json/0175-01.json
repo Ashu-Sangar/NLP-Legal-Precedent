@@ -1,0 +1,128 @@
+{
+  "id": 410169,
+  "name": "Bear versus Bitzer",
+  "name_abbreviation": "Bear v. Bitzer",
+  "decision_date": "1851-05-26",
+  "docket_number": "",
+  "first_page": "175",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 Pa. 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Watts 362",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0362-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 353",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819337
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0353-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 161",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820613
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0161-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 353",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819337
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/1/0353-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 161",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820613
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/2/0161-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 449,
+    "char_count": 11209,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 2.1074189612832527e-07,
+      "percentile": 0.7626612594016099
+    },
+    "sha256": "425373d9303c1d469e02625d73e9ae80fb1d2d42036c14ed01c238862b14c8c9",
+    "simhash": "1:6254c4b7e5ff394f",
+    "word_count": 2081
+  },
+  "last_updated": "2024-02-27T22:22:36.542684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bear versus Bitzer."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered May 26, by\nCoulter, J.\nIn Stambaugh v. Yeates, 2 Rawle 161, the grain growing in the ground had been sold on a judgment and execution against the debtor, before the sale of the land on vend, exponas, and the court held that grain growing was so far personal property that it could be sold either privately by the owner, or by judicial process against him ; and that such sale was an implied severance, and the grain did not pass by a sale of the land. And in Myers v. White, 1 Rawle 353, the mortgagor, while the grain was growing, assigned all his property, real, personal, and mixed, for the benefit of his creditors; it was held, that the grain growing passed to the assignees, and did not pass to the purchaser of the land on a judgment on the mortgage, because the assignment amounted to a severance, and vested the right in the trustees. In Sallade v. James, 6 Barr 144, which is alleged to be in conflict with the two preceding cases cited, there was judgment against the owner of the land and a levy in the spring, after -which the debtor leased the premises, and the tenant paid the rent in advance. In September the tenant sowed the crop, and in October the sheriff sold the land, and the purchaser gave him notice to quit. The tenant paid the rent in advance when he leased. When the grain was ripe he entered, cut, and carried it away, and on replevin by the purchaser it was held that the tenant could only take the way-going crop when he had a right to sow; that his right was no greater than his landlord\u2019s, the debtor. That although the judgment creditor has no present interest in the land, he has a lien which may presently be turned into one; and that if a tenant, under such circumstances, pays the rent in advance, he takes the risk of losing it. If he had withheld the rent till due, he would have been entitled to protection for a disturbance, and to a remedy on his covenants. The question there was on the right to enter for the wray-going crop, after a judicial sale of the land. As there had been no severance of the crop from the realty, either by a private sale or judicial sale, it was held to pass as appurtenant to the land. The case is in entire accordance with those cases which establish that by a private sale of land the growing crop passes as appurtenant, unless there has been a reservation of it. By the act of 21st March 1772, grain growing was made subject to distress and sale for rent, and the act provided that the purchaser should have free egress and ingress to cut and carry it away; and in analogy to that act, it was held in Pennsylvania that it might be sold privately or judicially and the purchaser have egress and regress to cut and carry it away, because it was in contemplation of law severed by the sale. But nothing of that kind existed in Sallade v. James, 6 Barr, as it did emphatically exist in Stambaugh v. Yeates, and Myers v. White.\nIn the case on hand, the land was sold on. the 12th October 1849, by the sheriff, and on the 24th November, of the same year, a deed was made by the sheriff to Herr, while the grain growing was the property of the judgment debtor; and under Sallade v. James, and analogous cases, both in England and Pennsylvania, it passed to the sheriff\u2019s vendee as appurtenant to the land. After deed made to Herr by the sheriff, an execution creditor levied on the grain and sold it, and the purchaser of the grain brings this suit against Herr\u2019s tenant who cut it. He is not entitled to recover, and such was the judgment of the court below, which is now affirmed\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Pshleman and Patterson, for plaintiff in error.",
+      "Pranklin, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bear versus Bitzer.\nThe land of a judgment debtor was sold by the sheriff and deed made to the purchaser whilst the grain growing on the same was the property of the debtor. After the execution and acknowledgment of the deed, an execution creditor of the debtor levied on the grain, and sold it, and the purchaser brought suit against the tenant of the purchaser of the land, for cutting and removing the grain: Held, that the grain passed by the sheriff\u2019s sale of the land, and that the purchaser of the grain could not recover in the suit.\nError to tbe Common Pleas of Lancaster county.\nThis was an action of trover and conversion, brought by George Bear against Isaac Bitzer, for the value of about 390J bushels of wheat in the straw and unthreshed, and about 25 loads of straw, upon the following facts, viz :\nGeorge Heller, being the owner of a tract of land, on the 6th of August 1849 confessed judgment to Peter Heller for $600. On this judgment fi. fa. was issued on, the 20th August 1849, and on the 15th of September 1849 the sheriff levied on the real estate of the said George Heller, being the above-mentioned tract of land\u2014 the same on which the grain and straw in controversy were sown. On the same day inquisition was waived and sale on fi. fa. authorized. On the 12th of October 1849, Heller\u2019s real estate was sold, and on the 24th of November 1849 the sheriff acknowledged a deed to B. G. Herr for the same, dated 19th November 1849.\nThe grain was sown for Gfeorge Heller, on the 2Oth of September 1849, and was sold by him to Peter Heller towards the latter end of October. This contract was rescinded on the 29th day of November 1849, when Peter Heller gave up his right to the grain.\nOn the 3d December 1849, a fi. -fa. was issued at the suit of George Bear against George Heller, upon a judgment obtained by the said Bear against George Heller, on the 27th of August 1849. Under this fi. fa. the sheriff, on the 8th of December 1849, levied on the aforesaid grain in the ground, and subsequently sold the same to George Bear, the plaintiff, who now claims the value thereof from Bitzer, the defendant, who came to the premises as tenant of B. G. Herr, on the 1st of April 1850, and cut the grain and converted it to his own use, or that of his landlord.\nPeter Heller, affirmed: \u2014 In fall of 1849, I sowed wheat for George Heller on that ground that was sold by the sheriff. I-sowed 16 acres, more or less, on the same property defendant came into possession of the following April. George Heller owned the land at the time I sowed it.\nCross-examined: \u2014 I had rented this property from George at the time I sowed the grain, and was then in possession. When I came on the land I got a crop \u2014 and the bargain between us was that when I went off I was to leave a crop. This was the crop I left in lieu of the one I got.\nOn part of defendant was given in evidence the judgment of Peter Heller v. George Heller, on August 6,1849. Ei. fa. to November 1849, levied on real estate of defendant, viz. the tract of land on which the grain was. October 12th, 1849, real estate sold, and sheriff\u2019s deed to Benjamin G. Herr acknowledged 24th November 1849. Defendant entered into possession as tenant of B. G. Herr.\nPlaintiff\u2019s rebutting evidence. \u2014 Peter Heller, affirmed: \u2014 This grain was sowed on the 20th September 1849. I bought the grain from George Heller some time towards the latter end of October, and I threw it up on the 29th November 1849. We rescinded the contract. He (my brother) told me I should not have it, and I told him I did not want it \u2014 I had given my note for it, and he gave the note up to me.\nLewis, President. \u2014 This is an action of trover and conversion for wheat and straw. The property in dispute belonged, at one time, to George Heller, who was also the owner of the land on which the wheat grew. The plaintiff' claims the property in dispute by virtue of a levy made by the sheriff on the 8th December 1849, and a sale of the grain in the ground by the sheriff.\nThe defendant claims under Benjaman G. Herr, who purchased the land on which the grain grew, by virtue of a fi. fa. levied on the land on the 15\u00ed7\u00bf September 1849; a condemnation of the same date, with an agreement that the sheriff might sell on the fi. fa.; a sale to the said Herr, on the 12th October 1849, and a sheriff\u2019s deed duly acknowledged on the 24th November 1849,\u2014 all of which proceedings were perfected before the date off the levy under which the plaintiff claims. The grain was sown about the 20th September 1849. It is not necessary to attempt any frivolous distinctions, for the purpose of reconciling conflicting cases. It is sufficient to say that subsequent decisions are in conflict with the case of Stambaugh and Yeates, 2 Rawle 161, and that that case is not now the law of Pennsylvania. It is now settled that the crops in the ground, so far as they belong to the execution debtor, go with the land on a sale of the land by the sheriff, and that under the facts in evidence in this case,- the defendant is entitled to the verdict.\nThe plaintiff excepted to the charge.\nVerdict for defendant.\nError W\u2019as assigned to the charge.\nPshleman and Patterson, for plaintiff in error.\nIn Stambaugh v. Yeates, 2 Rawle 161, where, after a fi. fa. levied on land and returned, grain was sown on it;, another creditor levied on the grain and sold it; afterwards the land was sold on a venditioni exponas issued on the first fi. fa. \u2014 it was held that the creditor who levied on the grain, had the right to the proceeds. This case was afterwards sustained, and the principle reaffirmed in Myers\u2019s Assignees v. White, 1 Rawle 353.\nIn the case under consideration, the grain in the ground was separately disposed of previous to the delivery of the deed by the sheriff. The defendant in execution sold the grain to his brother, Peter Heller, \u201ctowards the end of October.\u201d The sheriff\u2019s deed was not acknowledged and delivered till the 24th of November. The purchaser at sheriff\u2019s sale has no right to the possession or profits of land until the acknowledgment and delivery of the deed. By act of 1836, the purchaser shall have all rent accruing after acknowledgment of the deed: Thomas v. Connel, 5 Barr 13; Jones v. Striker, 1 Johns. Ch. C. 285. The interest in the grain was at that time a separate interest. On the 29th November, Peter Heller gave up the grain to George Heller, and on the 3d of December George Bear\u2019s execution issued, under which he claims the grain.\nIn this view of the case, it was contended that under the case of Stambaugh v. Yeates, the plaintiff is entitled to the value of the grain levied upon and sold under his execution of the 3d of December 1849.\nPranklin, for defendant in error.\nThe grain which was the subject of this action was put out by Peter, Heller, as tenant of Greorge Heller. Peter Heller was in possession of the real property as tenant, and sowed the crop under his agreement. It may therefore he regarded as rent, going to the purchaser of the land under the sheriff\u2019s sale: 10 Watts 362; 5 W. & Ser. 432.\nThat this case differs from Stambaugh v. Yeates. In the latter case the land was levied on, and after that grain was sown, and the grain was sold on execution before the land was sold. He contended that the crop growing on the land when the land was sold at sheriff\u2019s sale, and which has not been severed, passed by the sale of the land. In the case of Sallade v. James, 6 Barr 144, the purchaser disaffirmed the lease, and it was not decided on the principle of rent. In that case it is said that the grain passed by a sale of the land."
+  },
+  "file_name": "0175-01",
+  "first_page_order": 175,
+  "last_page_order": 179
+}

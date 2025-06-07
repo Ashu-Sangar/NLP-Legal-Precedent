@@ -1,0 +1,115 @@
+{
+  "id": 400732,
+  "name": "Smith v. Seward",
+  "name_abbreviation": "Smith v. Seward",
+  "decision_date": "1846",
+  "docket_number": "",
+  "first_page": "342",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Johns. 479",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137738
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0479-01"
+      ]
+    },
+    {
+      "cite": "4 Watts &Serg. 179",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0179-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 47",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846101
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/6/0047-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 175",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846822
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0175-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 544,
+    "char_count": 9980,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 2.6105408533222683e-07,
+      "percentile": 0.8204045872944716
+    },
+    "sha256": "bf67652ee7bc9125082e3883cdce4a00851792e9c8b375caa4addfefaf3428a0",
+    "simhash": "1:72a0f8dcbfc2b518",
+    "word_count": 1779
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith v. Seward."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe interest of Green, if he had any, was at most a contingent one. The court could not assume that the wagoner employed by him was chargeable with negligence; without which, neither wagoner nor employer would be liable to the owner of the team put under the wagoner\u2019s direction; and without assuming the fact of negligence, the testimony of the employer could not be excluded. It is settled that the mere possibility of being sued does not disqualify.\nThe motion to arrest the judgment for the reason that the verdict was against but one of the defendants, was properly dismissed, the declaration being for a tort, which is both joint and several. It was orginally the practice to declare against a carrier only on the custom of the realm; but it has long been established that the plaintiff may declare in case or assumpsit at his election; and it is usual to declare in the latter, as was done in McCahan v. Hurst, 7 Watts, 175, Todd v. Figley, Ibid. 524, and Hunt v. Wynn, 6 Watts, 47. Indeed, his right to do so seems never to have been questioned by the English courts. On the contrary, the judges in Powell v. Layton, 2 N. R. 356, and Dale v. Hall, 1 Wils. 282, thought that the declaration is essentially founded in contract, though the word suscepit be not in it. In Powell v. Layton, the defendant was allowed to plead the non-joinder of his partner in abatement, though the word duty stood in place of the word promise; in which the court seems to have gone very far, inasmuch as the\u2019 plaintiff may certainly waive the contract and go for a tort. There has been a good deal of wavering on the subject, not only as to the proper remedy, but as to \\he distinctive feature of the declaration. In regard to the latter, Corbett v. Packington, 6 Barn. & Cres. 268, has put the law of the subject on satisfactory ground, by making the presence or absence of an averment, not of promise only, but of consideration also, the criterion; for it is impossible to conceive of a promise without consideration, any more than a consideration without promise, as an available cause of action; and when a consideration is not laid, the word agreed, or undertook, or even the more formal word promised, must be treated as no more than inducement to the duty imposed by the common law. Now no consideration is laid in the count before us. The undertaking of the .defendants to safely pass the team, is stated to be the consideration which moved the wagoner to commit it to their care; but no consideration is stated for any thing else: certainly, none for the defendant\u2019s undertaking. As the declaration, therefore, is decisively in case, the verdict against one of the defendants and for the other, is consequently good.\nThe exception to the charge is unfounded; for a ferryman is undoubtedly liable as a common carrier, and with no greater restriction of his responsibility. Judgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Butter and Wright, for plaintiffs in error.",
+      "Dana, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. Seward.\nThe bailee of horses which are driven by one hired by him is a competent witness for the owner in an action for an injury to them while in his employ, though the question is, whether the injury resulted from the negligence of the person driving them, or that of defendant; for negligence cannot be assumed to disqualify a witness.\nA carrier is liable for negligence in actions ex contractu,, or in tort, at the election of the party. Per Gibson, C. J.\nA ferryman is a common carrier.\nAn averment of a promise, and a consideration, are both essential to a declaration in contract. Hence, a declaration averring an undertaking in consideration that the public should be conveyed by means of defendant\u2019s ferry, and for hire, to receive and safely to convey, and that plaintiff learning said offer did use the ferry, and commit his horse to defendant, in consideration of an undertaking to convey \u2014 was held to be in tort.\nError to Luzerne Court of Common Pleas.\nJuly 11. This was an action on the case for the loss of horses &c., in crossing a ferry. The plaintiff declared against A. Smith, as owner and occupier, and E. Smith being in his employ for conducting said ferry: \u00ab\u00abfor that they, the said defendants, respectively occupying and conducting said ferry, offered and undertook, in consideration that the public, and those desirous of travelling across said river should be conveyed across by means of the ferriage of said defendants, and for hire to receive and safely to convey across said river, by a certain ferry boat, across, &c; and also all wagons, &c; and having thus offered and undertaken, did use, occupy, and conduct said ferry; that plaintiff learning said defendants did so use and occupy, and had offered and undertaken safely to transport, &c.,\u201d brought certain horses, and a wagon of the value, &c., together with goods in. the care of L. O. to said ferry. That said horses, &c., being on said track, E. Smith, at the instance, and in the employ of A. Smith, did agree safely to receive and convey, and that plaintiff in consideration of such undertaking committed said property to the care of said defendants. That defendants contriving, See., did not safely convey, but through their carelessness said goods, &c., were thrown into the river and lost.\nThe second count was in substance the same, laying a general undertaking by defendants to convey. The plea was not guilty. The evidence showed, according to the finding of the jury, though there was conflicting testimony whether the negligence of the wagoner was the cause of the accident, that there was no fall board at the end of the flat used as a ferry boat, and it being insecurely fastened to the shore, the wheels of the wagon striking the side of the boat, as it was being driven on board under the direction of the ferryman, the flat was shoved from the shore, and the horses fell into the river and were drowned, the harness injured, and a whip and robe lost.\nOne of the witnesses called by plaintiff to prove these facts, before any evidence of negligence was given, was the owner of the goods in the wagon, which were also injured; he had hired the horses of the plaintiff, and a wagoner to haul them; to his deposition an exception was taken.\nHis honour (Conyngham, P. J.) instructed the jury that the action being for a tort, viz., the negligence of defendants, a recovery could be had against either of the defendants if the evidence justified it, the owner of the ferry being bound to have the boat and fixtures in proper order; but as the only ground was defect in the fastenings, he did not see how a verdict could be found against the hired man. That a ferryman was a common carrier, and was responsible for all losses except those occasioned by the act of God, inevitable accident, or the public enemies. If a fastening was necessary, he was bound to have it, and if it broke he was liable though he thought it sufficient.\nTo this there was an exception, and the errors assigned were to the admission of the testimony excepted to. 2d. In the construction that a verdict could pass against one defendant. 4th. The charge as to the extent of the liability. The 3d was for not arresting the judgment. The reasons in support of the motion were, 1. The declaration sounded in contract, and there being a verdict in favour of one defendant, no judgment could be entered. 2. That no sufficient consideration was alleged.\nButter and Wright, for plaintiffs in error.\nThe declaration is in assumpsit, and the undertaking and agreement of the defendant are alleged as the gravamen of the action; hence of course both or' neither defendants are liable. That this is so, is shown from the fact that no single requisite to a declaration in contract is wanting. In McCall v. Forsyth, 4 Watts &Serg. 179, there is no resemblance to this declaration, and it was decided to be in case. In Ansell v. Water-house, 18 E. C. L. R. 227, the C. J. said he could see no words of contract in the case, which certainly cannot be said here; and in Brellenton v. Wood, 7 E. C. L. R. 345, where the averment was, did agree and undertake, and having so agreed and undertaken at the special instance, &c., and relying on said agreement, See., the breach was held to be in assumpsit.\nThe second count in Corbit v. Packington, 13 E. C. L. R. 170, is like this, and was held to be in assumpsit. In Dale v. Hale, 1 Wils. 282, Mr. J. Dennison says, \u201cIn the old form it is suscepit, Sec., which shows it is ex contractu.\u201d The only question in Church v. Munford, cited by defendant, was whether the two counts were substantially the same. Under an allegation of negligence in the driver, who was hired by the witness, he was interested to defeat our defence, by throwing the blame on defendants, and was therefore incompetent without a release. That he was liable, is decided in Henning v. English, 25 E. C. L. R. 533; Schuylkill v. Harris, 5 Watts & Serg.; Myre v. Ludwig, 1 Barr, 47.\nDana, contr\u00e0.\nThe occupation of defendant implied a general tindertaking and obligation to keep suitable boats and fastenings, the failure in which is a tort or violation of his duty, by reason that it is a breach of his undertaking; and it was long doubted whether a verdict could pass for one only in a suit against carriers. Here the misfeasance was distinctly put in issue and canvassed in the court below; and there must be a clear violation of some rule of pleading to reverse a judgment under such circumstances. All actions against carriers are directly on the contract or for a tort founded in fact on, or deducible from a contract, for wanton injuries rarely occur; a declaration must therefore be tinctured with contract. Church v. Munford, 11 Johns. 479; Zell v. Arnold, 2 Penna. Rep. 292. But the plea cures all defects, provided there be a tort averred in the declaration ; Bac. Abr. 3, Pleas G. 2; and the averment of a consideration became immaterial.\n2. The evidence does not show that he was such a bailee as to be liable in the manner now contended for, and if he was, that is waived by this action."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 340,
+  "last_page_order": 343
+}

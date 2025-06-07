@@ -1,0 +1,66 @@
+{
+  "id": 9502931,
+  "name": "Hahnlin's Appeal",
+  "name_abbreviation": "Hahnlin's Appeal",
+  "decision_date": "1863-05-14",
+  "docket_number": "",
+  "first_page": "343",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 Pa. 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 260,
+    "char_count": 4297,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 5.813582247244328e-08,
+      "percentile": 0.36197380619487857
+    },
+    "sha256": "bfdae73316fc4b77ccd0394a6f04215a6f1c9525ee441c1d990b1992ed177aee",
+    "simhash": "1:7b6d9a0d902681a7",
+    "word_count": 727
+  },
+  "last_updated": "2023-07-14T20:21:54.857579+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hahnlin\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby\nWoodwabd, J.\nWhen-an auditor has assembled the creditors of an insolvent decedent to make distribution of the administered estate among them, the creditors have a right to question each other\u2019s claims, and the auditor to reject such as do not appear to be fair and just. It is usual for the administrator to call upon creditors, as was done in this case, to present their claims to him duly authenticated, though the Act of Assembly, which prescribes notice, does not authorize administrators to demand authentication of the debt of the decedent. When creditors do not avail themselves of such an invitation by the administrator, unauthorized though it be, they take upon themselves the duty of authenticating their claims before the auditor of the Orphans\u2019 Court, for there their demands are liable to be questioned by other creditors. And if they will do neither \u2014 if they neither authenticate them to the administrator, nor defend them when assailed before the auditor, they must take the chances of his misjudgment. Exceptions to his report may give them a rehearing before the Orphans\u2019 Court, and an appeal from a final decree there gives them a review here; but if they bring up their case to us with nothing but the auditor\u2019s report, as in this instance, the presumption that all things were rightly done attaches, and we confirm his report, of course.\nIt appears, from the report before us, that the auditor rejected one claim because it neither specified the cause of demand nor had the form of a bill; another, because it did not purport to be a claim against the estate of William M. Wilson, nor in fact against anybody; two others because part payments had not been credited; and another (Hahnlin\u2019s) because the book account was unproved, and no effort made to establish it after notice from the auditor. None of these claims, nor any evidence in support of them, have been submitted to us, and we can judge of them only by what the auditor says of them. His reasons for rejecting them satisfy us. We have, indeed, not a particle of ground, such as the bills themselves might possibly afford, for doubting the soundness of his conclusions.\nIt is urged that two of the creditors were absent in the army at the time of the audit. This was ground to lay before him for an adjournment, but is no reason for reversing the decree which confirmed his report. If the military duties of these creditors prevented their appearing before the auditor, they might at least have verified their claims when they sent them to the administrator.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodwabd, J."
+      }
+    ],
+    "attorneys": [
+      "S. Jfewsham, for appellant.",
+      "William H. Miller and O. JP. Hummell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hahnlin\u2019s Appeal.\nPower of auditor to decide on claims presented before Mm, on distribution of fund.\n1. Upon distribution of the estate of an insolvent decedent, before, an auditor, creditors may question each other\u2019s claims, and the auditor may reject such as do not appear to be fair and just.\n2. Though an administrator is not authorized to demand authentication of the debts of his decedent, when presented after notice given, yet creditors must present their claims, duly authenticated, or defend them before the auditor, if assailed.\n3. The absence of creditors who were in the army is a reason for an adjournment by the auditor, but not for reversing the decree which confirmed his report: for they might have verified their claims when they were sent to the administrator.\nCERTIORARI to the Orphans\u2019 Court of Cumberland county.\nThis was an appeal by J. F. Hahnlin, Wm. Lytle, and William Lacomber, from the decree of the Orphans\u2019 Court of Cumberland county, confirming the report of the auditor appointed to distribute the assets remaining in the hands of James G. Wilson, administrator of William M. Wilson, deceased.\nThe estate of deceased was insolvent, the debts amounting to $7044.63, while the assets for distribution' were only $702.35.\nAmong the claims presented before the auditor were those of the appellants, which were objected to by the other, creditors, and rejected by the auditor for the reasons given in his report. This report was excepted to by the appellants, but the court below dismissed the exceptions and confirmed the report, which was the error assigned here.\nS. Jfewsham, for appellant.\nWilliam H. Miller and O. JP. Hummell, for appellee.\nMay 14th 1863,"
+  },
+  "file_name": "0343-01",
+  "first_page_order": 343,
+  "last_page_order": 344
+}

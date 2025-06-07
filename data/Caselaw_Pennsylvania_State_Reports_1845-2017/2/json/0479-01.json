@@ -1,0 +1,173 @@
+{
+  "id": 951156,
+  "name": "Furness v. Ewing",
+  "name_abbreviation": "Furness v. Ewing",
+  "decision_date": "1846-06-01",
+  "docket_number": "",
+  "first_page": "479",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts & Serg. 125",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 171",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts, 280",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848486
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0280-01"
+      ]
+    },
+    {
+      "cite": "11 Serg. & Rawle, 426",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Serg. & Rawle, 63",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 163",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819204
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0163-01"
+      ]
+    },
+    {
+      "cite": "4 Watts & Serg. 20",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856218
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0020-01"
+      ]
+    },
+    {
+      "cite": "8 Wend. 9",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147378
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0009-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 230",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841331
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0230-01"
+      ]
+    },
+    {
+      "cite": "7 Watts & Serg. 373",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481840
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0373-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 288,
+    "char_count": 4508,
+    "ocr_confidence": 0.571,
+    "pagerank": {
+      "raw": 1.1318951174427954e-07,
+      "percentile": 0.5760488352795858
+    },
+    "sha256": "8b4eb76047146e25045f970c2e0225c27bbba78cf0d3fbf2dcece698227307d4",
+    "simhash": "1:47f4e476e4c8101a",
+    "word_count": 780
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Furness v. Ewing."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014 It is not contested that the debtor\u2019s assignment to his son, in consideration of maintenance and an annuity, was originally void as to creditors, but it is contended that it was ratified both by the act of the assignees under the insolvent laws, who received the outstanding arrears of the annuity at the father\u2019s death, and by the creditors, who took them as a part of their dividends.\nIt is said, the difficulty is to see how they could have avoided it. The assignees might have rejected it, because to receive it as a part of the debtor\u2019s estate, was inconsistent with their title to the property, which had been fraudulently given for it, and they ought to have done so. But being actually received, and a dividend declared, of which it was a component part, how were the creditors to reject it ? Simply by objecting to its being charged as a part of the fund at the settlement of the trustee\u2019s account, of which the creditors must have had notice. It is true that the first assignment was good against the debtor\u2019s subsequent voluntary assignment for the benefit of his creditors, and that Balance, the assignee, might have received the arrears without confirming it, as he would have been simply answerable to the administrator for so much as a part of the intestate\u2019s property. But as the assignees, under the insolvent laws, had a right to contest the original assignment, they had a right, with the assent of the creditors, to ratify it; and they cannot have at the same time the property given for the annuity and the fruits of it.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Ellmaker and Franklin, for plaintiff in error.",
+      "Smith and Stevens, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Furness v. Ewing.\nA conveyance, fraudulent as to creditors, is rendered valid by their receipt of a dividend under a subsequent assignment of the consideration of the conveyance, with notice to the creditors.\nError to Lancaster county.\nMay 15. \u2014 The plaintiff, as administrator of A. Ewing, brought trover for goods belonging to the estate. The defendant showed title, under a conveyance from his father, A. Ewing, in March, 1843, in consideration of food, clothing, &c., during his life, and an annuity of $100. The plaintiff proved that at the time of this conveyance, A. Ewing was indebted far beyond his ability to pay.\nDefendant showed an assignment, in June, 1843, by A. Ewing, to one Balance, in trust for creditors, of all his estate. An inventory was filed, in which the annuity was estimated at $25.\nIn 1844, Balance filed an account, giving a credit for $60 55, advance of the annuity. In December, 1844, the distribution was reported by the auditor, and the dividends paid by the assignee. A. Ewing died in the preceding January. There was no evidence on the record of an insolvent discharge, or of any other assignment than is here stated.\nThe court directed a verdict for defendant.\nEllmaker and Franklin, for plaintiff in error.\n\u2014 The assignment being without doubt fraudulent, the creditors represented by the administrator are not barred by the assignment, or the proceeding under it, for that trustee being a volunteer, had no power to avoid the previous voluntary assignment; Vandyke v. Christ, 7 Watts & Serg. 373; nor are they bound by an acceptance of a dividend, it being given by the law \u2014 not by a party with whom they are in privity. This is in effect decided by McKee v. Gilchrist, 3 Watts, 230; Wood v. Jackson, 8 Wend. 9; Menges v. Oyster, 4 Watts & Serg. 20. Adlum v. Yard, 1 Rawle, 163, does not apply, for we do not desire to avoid the assignment under which we received a dividend.\nSmith and Stevens, for defendant in error.\n\u2014 There are but two points in the case:\n1. Was the agreement of March, 1843, between Alexander Ewing, the father, and Samuel S. Ewing, the son, and the assignment or sale of the property, therein stated, by the father, to the son, in consideration of the future maintenance of the father, fraudulent ?\n2. Can the creditors, after haying accepted a dividend under the general assignment, come in and contest the validity of this agreement ?\nThe consideration stated in the agreement for the assignment or sale of the property therein mentioned, is a good and valuable one. There was no evidence of fraud, and it cannot be presumed.\nCreditors having accepted a dividend under a deed of assignment for the benefit of creditors, cannot afterwards contest its validity. To this point they cited Share v. Anderson, 7 Serg. & Rawle, 63; McPherson v. Cunliff, 11 Serg. & Rawle, 426, 427; Stroble v. Smith, 8 Watts, 280; Adlum v. Yard, 1 Rawle, 171; 7 Watts & Serg. 125, 126.\nJune 1."
+  },
+  "file_name": "0479-01",
+  "first_page_order": 479,
+  "last_page_order": 480
+}

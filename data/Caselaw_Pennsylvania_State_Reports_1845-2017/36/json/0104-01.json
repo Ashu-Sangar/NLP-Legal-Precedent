@@ -1,0 +1,63 @@
+{
+  "id": 992249,
+  "name": "The Commonwealth ex rel. the Attorney-General versus The Pittsburgh, Fort Wayne, and Chicago Railroad Co.",
+  "name_abbreviation": "Commonwealth ex rel. Attorney-General v. Pittsburgh, Fort Wayne & Chicago Railroad",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "104",
+  "last_page": "104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 350,
+    "ocr_confidence": 0.424,
+    "pagerank": {
+      "raw": 4.408767690195799e-08,
+      "percentile": 0.27636437491143306
+    },
+    "sha256": "1dc489ed7808fbfab11ddb3d7add1a3de9948e5e92b8c2d22119d38d03b6898a",
+    "simhash": "1:694bea1ce22dbda4",
+    "word_count": 58
+  },
+  "last_updated": "2023-07-14T20:59:55.101486+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Commonwealth ex rel. the Attorney-General versus The Pittsburgh, Fort Wayne, and Chicago Railroad Co."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRead, J.\nFor the reasons assigned in the case of Mercer and Robinson v. Mayor, &c., of Allegheny, and the Pittsburgh, Fort Wayne, and Chicago Railroad Company, the bill filed in this case is dismissed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The Commonwealth ex rel. the Attorney-General versus The Pittsburgh, Fort Wayne, and Chicago Railroad Co."
+  },
+  "file_name": "0104-01",
+  "first_page_order": 104,
+  "last_page_order": 104
+}

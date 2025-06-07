@@ -1,0 +1,62 @@
+{
+  "id": 981731,
+  "name": "Peter versus Hunsiker",
+  "name_abbreviation": "Peter v. Hunsiker",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "202",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 2366,
+    "ocr_confidence": 0.456,
+    "sha256": "4beebecd23cd908774402866d91574e90787519ccd39a9d7e79985cde3e61569",
+    "simhash": "1:92a49bd486dc94dc",
+    "word_count": 418
+  },
+  "last_updated": "2023-07-14T16:15:42.843019+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter versus Hunsiker."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nKnox, J.\nPrevious to the passage of the Act of 25th April, 1850, the defendant had acquired by prescription, a right of way over the unenclosed woodland of the plaintiff. After the passage of the act above mentioned, the plaintiff cleared and enclosed the woodland, and by so doing obstructed the way. The defendant removed the obstruction, and the plaintiff brought this action of trespass.\nThe Court of Common Pleas charged the jury that the plaintiff had a right under the Act of Assembly to clear and enclose his woodland without regard todefendant\u2019s right of way. In this there was error. The very point was decided by this court differently in Fisher v. Farley, 11 Harris 501. It was there held that the act of 25th April, 1850, had no application to a right of way which was perfect before the passage of the act. The words of the act are: \u201c No right of way shall hereafter be acquired by user, when such way passes through unenclosed woodland; but on clearing such woodland, the owner or owners thereof shall be at liberty to enclose the same as if no such way had been used through the same before such clearing and enclosure.\u201d To give to this act any other than a prospective effect, would be to violate alike the words of the statute, and the uniform rule of construction. When the point was raised in Fisher v. Farley, this court considered it so plainly against the plaintiff in error, that the counsel for defendant in error were not heard. Had that case been reported when the present one wras tried, the learned judge would unquestionably have given different instructions. Under the case as presented to us, the verdict should have been for the defendant.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "R. ,H. Wright and Marx, for plaintiff in error.",
+      "Stiles, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Peter versus Hunsiker.\nThe Act of 25tli April, 1850, authorizing the owners of unenclosed woodland over which a way had been used, to enclose the same on clearing such woodland, as if no way had been used through the same, is prospective in its operation, and has no application to a case where the right acquired by user was perfect before the passage of the act.\nFarley v. Fisher, 11 Harris 501.\nError to the Common Pleas of Lehigh county.\nThe facts of this case are sufficiently stated in the opinion of Mr. Justice Knox.\nR. ,H. Wright and Marx, for plaintiff in error.\nStiles, for defendant in error."
+  },
+  "file_name": "0202-01",
+  "first_page_order": 202,
+  "last_page_order": 202
+}

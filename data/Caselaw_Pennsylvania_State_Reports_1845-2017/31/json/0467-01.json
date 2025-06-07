@@ -1,0 +1,109 @@
+{
+  "id": 985107,
+  "name": "McMasters versus Blair",
+  "name_abbreviation": "McMasters v. Blair",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "467",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Rawle 368",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Binn. 30",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0030-01"
+      ]
+    },
+    {
+      "cite": "5 Binn. 26",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 533",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 85",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840068
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0085-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 5127,
+    "ocr_confidence": 0.47,
+    "pagerank": {
+      "raw": 8.411867578422581e-08,
+      "percentile": 0.4831057718036843
+    },
+    "sha256": "df3c414aa55f1c2e0e6c2cdbe558a64d5cb9d91e8b50204ebb32dec1c95b474a",
+    "simhash": "1:f92b8550f15e7eb8",
+    "word_count": 942
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McMasters versus Blair."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThere ought not to have been any further difficulty about this case; for its prin\u00f3iples are very plain. It was an issue of fact required in the probate of a will. The real case was the one before the register; and this was ancillary to that, assuming a partially fictitious form before another forum, and hence is called a feigned issue. In its usual form, it appears as an action for damages for a breach of a contract, depending upon a real issue of fact material to the case before the register.\nSuch is the form intended by the writ which is issued by the register to the court that is to try the issue, and which is equivalent to the original writ of the English common law, and gives to the Common Pleas jurisdiction of the case. According as the issue is found by the jury, judgment is entered with costs as in other cases. This has always been the practice in this class of cases. If this form was not strictly followed in this case, it was treated as if it had been. If no judgment was entered on the verdict before the former writ of error was taken, this was not objected to then, and cannot now be. There ought to have been a judgment, and a certified copy, of the record is the proper form of certifying to the register the facts established by the trial.\nWhen a case is brought into this court by a writ of error, the whole record is brought up, and the judgment entered here is considered as entered on the record; and when our judgment is remitted with the record to the inferior court, it becomes a judgment on the record there, and is to be enforced in the same manner as if originally entered there. It is no longer here for execution.\nIn this case, we entered a judgment for costs, and remitted the record to the Common Pleas, and thereby devolved on that court the duty of executing the judgment. An execution was issued pursuant to the judgment, and it was error in the court to set it aside. The costs allowed by our judgment were, the costs in this court and in the Common Pleas on the feigned issue, and for these the plaintiff in error is entitled to execution, but not for any costs arising before the register.\nThe order setting aside the execution is reversed at the costs of Martha Blair, the defendant in error, and the record is remitted, with leave to the plaintiff, John McMasters, to take out execution for his costs of suit.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Finney and Farrelly, for the plaintiff in error,",
+      "Church, for the defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "McMasters versus Blair.\nWhere an issue devisav\u00fc vel non is directed by the register to the Court of Common Pleas, and a verdict is found by the jury, judgment is to be entered thereon, with costs, as in other eases.\nWhere the Supreme Court gives judgment in a case brought up by writ of error, and the record is remitted, it becomes a judgment on the record of the court below, and is to be enforced in the same manner as if originally entered there.\nWhere this court reverses a judgment on an issue devisav\u00fc vel non, and enters judgment for the other party, with costs, this includes the costs in the Common Pleas and on error, but not costs arising before the register.\nError, to the Common Pleas of Crawford county.\nThis was an issue devisav\u00fc vel non, directed by the register of Crawford county, to try the validity of a paper propounded for probate as the will of Robert Blair, deceased, in which John McMasters was plaintiff, and Martha Blair defendant.\nThere was a verdict against the will; but on error to this court the judgment of the Common Pleas was reversed, and judgment was here entered in favour of the plaintiff, with costs. See 5 Casey 298.\nOn the record being remitted to the Common Pleas, the plaintiff issued execution for his costs. This execution was quashed by the court below, for the following reasons assigned in the opinion of the learned president:\u2014\n\u201c On a feigned issue devisav\u00fc vel non from the Register\u2019s Court, as we understand the law, there is no power vested in the Court of Common Pleas to render any judgment whatever. All that that court is authorized to do, under the provisions of the Act of Assembly, is simply to certify back to the court from which the issue is directed, the facts as found by the jury. The Court of Common Pleas can render no other judgment than simply to order a certificate of its doings to the court from whence the issue proceeded. By the decision of the Supreme Court, not the judgment of the Common Pleas was reversed, for there could be no judgment rendered to remove to that court, but the finding of the jury \u2014its verdict was removed, and all that could be intended by the removal and judgment for the plaintiff, was, that the certificate to the Register\u2019s Court should be in favor of the plaintiff, instead of for the defendant according to the verdict of the jury.\u201d\nThe plaintiff thereupon sued out this writ, and here assigned the same for error.\nFinney and Farrelly, for the plaintiff in error,\ncited Vansant v. Boileau, 1 Finn. 444; Baker v. Williamson, 2 Barr 116; Hipple v. Hoffman, 2 Watts 85; 6 Watts 533.\nChurch, for the defendant in error,\ncited 5 Binn. 26; 3 S. & R. 410; 3 Binn. 30; 4 Rawle 368; Brightly's Purd. 707, pl. 18."
+  },
+  "file_name": "0467-01",
+  "first_page_order": 467,
+  "last_page_order": 468
+}

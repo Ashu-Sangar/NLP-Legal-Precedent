@@ -1,0 +1,85 @@
+{
+  "id": 953526,
+  "name": "Wharton v. Grant",
+  "name_abbreviation": "Wharton v. Grant",
+  "decision_date": "1846-03-13",
+  "docket_number": "",
+  "first_page": "39",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 39"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Serg. & Rawle, 456",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Serg. & Rawle, 78",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1804282
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/5/0078-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 305,
+    "char_count": 4761,
+    "ocr_confidence": 0.395,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03355485203963629
+    },
+    "sha256": "dcdafa748fa2d618f874b6e0c09ef0916ea527838d50f762b13df4eacfdfa9a4",
+    "simhash": "1:f066d498abcf99f1",
+    "word_count": 838
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wharton v. Grant."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nSo far as the facts can be collected from the paper book, which is somewhat meagre, no error can be perceived in the judgment of the court below. (His honour then stated the proceedings of the plaintiffs below.)\nOn the 23d July, 1842, B. B. Hart assigned the estate, property, and effects, rights, and credits, of H. M. & B. B. Hart to Wharton & Mecke, for the purpose of paying certain creditors, of what description does not appear, nor is there any schedule of the property in the bill of exceptions. But the deed being executed by B. B. Hart, transferred his property, and was intended to transfer the property of H. M. Hart, deceased, no doubt, as the caption states that it is made by Barnet B. Hart, who survived Hyman M. Hart, trading as H. M. & B. B. Hart. It appears there were two firms, that of Hart, Labatt & Co., and H. M. & B. B. Hart. The assignment was clearly void as against the attaching creditors; and it is the product of the assigned property in the hands of the garnishee, which the plaintiff below claims.\nWe are unable to perceive any reason why he should not have it.\nIf the property belonged to the firm of H. M. & B. B. Hart, the attaching creditor is entitled, because they were both liable to him for the debt. If it belonged to the firm of Hart, Labatt & Co., that firm was liable for the debt of Grant & Stone. In every aspect in which the case can be viewed, the property, moneys, and effects attached were liable for the debt for which it was seized. And no equity has been made apparent, which 'ought to allow the garnishees, who are the plaintiffs in error, to arrest it in its appropriation to a debt for which it is in process of execution, according to well-established principles of law.\nLet the judgment be affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Westcott, for plaintiffs in error.",
+      "J. Fallon, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Wharton v. Grant.\nThe rule that the assets of a firm must be applied to the. payment .of the \u00a1partnership debts in the first instance, is founded on the equities between the partners, and not on the rights of the creditors; hence where A. & B,, constituting a. firm by the name of A. .& B., assigned their joint property to pay the creditors of that firm, a creditor -of B. , C. <& Co., of which firm A. & B. are members, may levy on such property, and avoid the assignment, on the ground that it was not recorded.\n.In..error.from the District Court of-Phila.delphia, county.\nMarch-2. ..The defendants in. error issued a writ of .attachment in execution against .Barnett B. Hart, who was sued with A.',0. Labatt, who survived H. M. Hart, late trading as Hart, ,Labatt/$5 Go.,-defendmts ; \u2022.andthe.plaintiffs.in error .-as garnishees.\nThe answers of the garnishees admitted that they held funds under an unrecorded assignment for creditors, made by Barnet B. Hart, who survived H. M. Hart, trading as H. M. & B. B. Hart. At the time of executing this assignment B. B. Hart was a resident in Philadelphia. The court below gave judgment for the plaintiffs.\nThe only question raised here was, whether the plaintiffs were such creditors as could take advantage of the omission to record the instrument; i. e., whether the property of H. M. & B. B. Hart could be levied on under a judgment against Hart, Labatt & Co.; it not being questioned that the persons composing the former firm had also been members of the latter.\nMarch 13.\nWestcott, for plaintiffs in error.\nThe plaintiffs are creditors of Hart, Labatt & Co., and not of the assigning firm; whose assets are not therefore liable to their execution; at all events not until the partnership debts of the assigning firm are paid; the judgment, therefore, was wrong in not being confined to the resulting fund. [Per Quriam. \u2014 This is not so much a judgment as an execution.] The execution should then have been awarded subject to the claims of the joint creditors. The rule that joint assets are not to be applied to individual debts until after the joint debts are paid, is so well settled that authorities are unnecessary.\nJ. Fallon, contra.\nThe assigning firm were all liable to the judgment; their joint effects were therefore liable. The rule contended for is the privilege of the partners to enable them to settle their claims between each other \u2014 not of the creditors of the firm, who cannot be heard in the matter. As, then, the assignors were jointly and separately liable, it is impossible for them to claim this privilege. Bell v. Newman, 5 Serg. & Rawle, 78. The same point is ruled in Doner v. Stauffer, 1 Penna. Rep. 198, where, on separate judgments against all the partners, the goods were sold, and it Was held that the partnership interest had passed. In Taylor v. Henderson, 17 Serg. & Rawle, 456, to the same effect, it is held that partnership effects may be sold on a judgment against one partner on a joint liability."
+  },
+  "file_name": "0039-01",
+  "first_page_order": 39,
+  "last_page_order": 41
+}

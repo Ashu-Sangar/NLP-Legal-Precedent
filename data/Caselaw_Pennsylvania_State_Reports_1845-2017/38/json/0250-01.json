@@ -1,0 +1,59 @@
+{
+  "id": 994133,
+  "name": "The City of Philadelphia v. Smethurst",
+  "name_abbreviation": "City of Philadelphia v. Smethurst",
+  "decision_date": "1861",
+  "docket_number": "",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 125,
+    "ocr_confidence": 0.424,
+    "sha256": "32c3bef8eacfdca0ab13d71e11e1129edd971ae6889ea3ab99b062792f5da0d5",
+    "simhash": "1:701570191b2e1e90",
+    "word_count": 20
+  },
+  "last_updated": "2023-07-14T21:27:31.076625+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The City of Philadelphia v. Smethurst."
+    ],
+    "opinions": [
+      {
+        "text": "Strong, J.\n\u2014 Tbe judgment is affirmed for tbe reasons given in tbe foregoing opinion.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The City of Philadelphia v. Smethurst."
+  },
+  "file_name": "0250-01",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

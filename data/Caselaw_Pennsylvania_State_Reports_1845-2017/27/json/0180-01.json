@@ -1,0 +1,79 @@
+{
+  "id": 979460,
+  "name": "Smith, versus Smith",
+  "name_abbreviation": "Smith v. Smith",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "180",
+  "last_page": "182",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 32",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849959
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/9/0032-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 280,
+    "char_count": 4619,
+    "ocr_confidence": 0.414,
+    "pagerank": {
+      "raw": 1.2090071556357708e-07,
+      "percentile": 0.5954358729022425
+    },
+    "sha256": "3b8971e9984c20679b7ee4ef58f683da542237d274a3ff612642c498417855fa",
+    "simhash": "1:c37224ebb00cfca2",
+    "word_count": 835
+  },
+  "last_updated": "2024-02-27T17:46:01.700656+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith, versus Smith."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nThe defendant has a legal title to the land' in controversy under the sheriff\u2019s sale on the execution in favour of Samuel Torbett against Jeremiah Smith.\nThe plaintiff contends that the circumstances in evidence establish a trust in his favour for all the land described in the sheriff\u2019s deed, except 18 acres.\nThe verbal contract entered into between Jeremiah and James Smith, a few days before the sheriff\u2019s sale, by which the latter agreed to buy as much land at $8 per acre as would satisfy Torbett\u2019s judgment, passed no interest in the land. It was not in writing. No money was paid. ' No possession was delivered.. No precise location or description of the land was agreed on. Under the statute of frauds and perjuries no title whatever could possibly be acquired by virtue of such a contract. The sheriff\u2019s sale to James Smith was not made in pursuance of the verbal contract, or under any contract between the parties whatever. There is therefore no ground for alleging that there is any contract to hold the title, or any part of it, in trust for the plaintiff.\nBut it is alleged that there was fraud in the purchase at sheriff\u2019s sale. There is not the slightest evidence of fraud except the making of the verbal contract for the purchase of part of the land, and the failure to perform it. There was a legal and a moral wrong in this, for which the defendant might have been made to answer in damages. But this was the extent of his liability. Unless there is something more- than the violation of a parol agreement, equity will not decree the purchaser at sheriff\u2019s sale to be a trustee: Robertson v. Robertson, 9 Watts 32. The promise, after the sheriff\u2019s sale, to carry out the verbal contract, was not upon any new consideration, and gave it no additional obligation. The court below decided the cause according to law.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Derielcson, for plaintiff in error.",
+      "Finney and Douglass, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Smith, versus Smith.\n\u201cWhere there was a verbal agreement that A. would convey to B. land at a fixed price, in consideration of which the latter was to pay off a judgment against A., B. did not fulfil his contract but bought the land at sheriff's sale. Held, that no interest in A.'s land before the sale passed to B., and that the sale did not create a resulting trust in favour of A.\nA promise after the sale to comply with the contract, gave no additional obligation.\nA. could not maintain ejectment, but might make B. answer in damages.\nError to the Common Pleas of Crawford county.\nEjectment for 67 acres of land. In 3.838 Jeremiah Smith, the father of the plaintiff in error, was in possession of and claimed the land in dispute. There were several judgments ,of record against him and liens upon this land. One of these was in favour of Samuel Torbett for $95.48, \u2014 on this a fi. fa. was issued, an inquisition held, and the land was condemned. Under a ven. ex. the land was sold to James Smith, defendant in error, for $440, $150 of which was paid at the time of sale, and the balance in about six months afterwards. \u2022 The sheriff then made and acknowledged his deed to James \u2022 Smith. \u25a0 Afterwards Jeremiah Smith made a quit claim deed of the land in controversy to his son Peter Smith, the plaintiff in error. ...\nOn the trial, Jeremiah Smith proved that he was endeavouring to raise money to pay off the Torbet judgment, that James agreed with him to sell some of his own land, and thus obtain money to pay off the judgment if Jeremiah would sell him a part of his land. Jeremiah agreed to this. James sold some of his land, obtained the money, did not pay the judgment, but bought the property at the sheriff\u2019s sale. After the sale James said he wanted no more land than Jeremiah agreed to let him have, and said he meant to do as he had agreed before the sale. James not having paid all the purchase-money, the sheriff again advertised the property for sale. James, being informed of this, had 18 acres surveyed off the tract, so as to cov\u00e9r the amount first paid by him to the sheriff, and then paid the balance of his bid. No effort was ever made on the part of Jeremiah either to pay or secure to James the sum he had to pay over and above the amount of the Torbett judgment.\nIt appearing that other testimony, but of the same character, was to be introduced by plaintiff, the court arrested the progress of it, and charged the jury that \u201c taking the testimony to be correct it was not sufficient to entitle the plaintiff to recover,\u201d and ordered a verdict to be rendered for defendant.\nThis was the error assigned.\nDerielcson, for plaintiff in error.\nFinney and Douglass, for defendant in error."
+  },
+  "file_name": "0180-01",
+  "first_page_order": 180,
+  "last_page_order": 182
+}

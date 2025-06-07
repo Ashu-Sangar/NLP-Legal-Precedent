@@ -1,0 +1,79 @@
+{
+  "id": 951308,
+  "name": "Dundas v. Biddle",
+  "name_abbreviation": "Dundas v. Biddle",
+  "decision_date": "1845-12",
+  "docket_number": "",
+  "first_page": "160",
+  "last_page": "161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Whart. 392",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836981
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0392-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 122,
+    "char_count": 1298,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 1.6283943375930352e-07,
+      "percentile": 0.688477976901356
+    },
+    "sha256": "f55e2c0ee19b39491a3fceb37281875f5089b26536b951f05853fa9d71bfe1de",
+    "simhash": "1:5b6211795f7c57bb",
+    "word_count": 231
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dundas v. Biddle."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014 It is no right acquired by marriage, but she is the real party. The deed is no deed without the forms are complied with.\nLet the decree be entered.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Wm. Tilgliman and Tilghman,",
+      "Geo. W. Biddle and Meredith, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Dundas v. Biddle.\nThe court will compel a feme covert trustee by descent, to acknowledge that she executes the deed voluntarily, &c.\nJan. 17. \u2014 The case is reported in 6 Whart. 392, as Vaughn v. Barclay. After that decision it was found that trusts descended, in Virginia, as beneficial interests to children equally; whereupon an amended bill was filed against all the heirs of John Barclay, for a conveyance. A decree for a conveyance was made. One of the defendants, a feme covert, signed and acknowledged the deed, but refused to acknowledge that it was done voluntarily, &c.; the law of Virginia being imperative, and the deed a nullity, as to her, without it.\nThe case was heard on a rule to show cause why the deed should not be executed agreeably to the law of Virginia.\nWm. Tilgliman and Tilghman,\nfor the motion, referred to the act, and stated, without this there was, in fact, no conveyance.\nGeo. W. Biddle and Meredith, contra.\n\u2014 Will the court compel a party to say she performs an act voluntarily ? The decree has been complied with; she has done all the others were required to do. She requires a decree to protect her."
+  },
+  "file_name": "0160-01",
+  "first_page_order": 160,
+  "last_page_order": 161
+}

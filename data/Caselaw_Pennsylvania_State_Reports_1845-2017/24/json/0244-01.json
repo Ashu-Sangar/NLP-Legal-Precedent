@@ -1,0 +1,148 @@
+{
+  "id": 9504119,
+  "name": "Hansell versus Hubbell",
+  "name_abbreviation": "Hansell v. Hubbell",
+  "decision_date": "1855-03-12",
+  "docket_number": "",
+  "first_page": "244",
+  "last_page": "246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts 461",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wend. 139",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 18",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0018-01"
+      ]
+    },
+    {
+      "cite": "2 Bin. 455",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788935
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "470"
+        },
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0455-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates 382",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dal. 47",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 447",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0447-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 82",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 327,
+    "char_count": 5076,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3548832383664067
+    },
+    "sha256": "87c85d81ddc9371b4c758d9a5dc4cc9c0caa02fe99a55733f26721ab7bb52734",
+    "simhash": "1:72694f2c58442e49",
+    "word_count": 932
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hansell versus Hubbell."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion.of the Court was delivered, March 12, 1855, by\nLowbxe, J.\nHere is a devise to the testator\u2019s only son and heir at law, with a provision that, if he should die without issue, then the property was to go to the testator\u2019s brothers and sisters; that is, to his next of kin after his son and heir. But, there being none of the usual words of limitation in the grant of the remainder, it is assumed to beja grant of a life estate; and then it is supposed to be a consequence of this that the devise to the son is a defeasible fee, and not a fee tail.\nIs the remainder a life estate ? The subsequent residuary devise to his son and his heirs'does not help us to such a conclusion; for that is presumed to refer to other real and personal estate not before mentioned' in the will: 2 Pow. on Dev. 421; 4 Rawle 82; 19 State Rep. 92. And it is not reasonable to suppose that this clause was intended to make a devisee the second remainder-man after his own death;, and especially in a case where the first remainder-men became his heirs at law.\nIt is some evidence that the remainder was intended to be in fee, that, if it be not so, a reversion is left undisposed of; that, otherwise, a life estate is made a complete substitute for an intended fee, or fee tail; and that it is this very land that was intended to pay the legacies to other friends; for they are not to be paid except in the event of his son dying without issue, and then under this will there can be no other fund to charge them upon. And then it is most convincing evidence that a fee was intended, that the devise is to those who would, in the event contemplated, be his heirs at law.\nThis, therefore, is a devise to one in tail, with remainder to the testator\u2019s heirs at law. It vested in the son in tail, and passed' performam doni to his issue, subject to dower; and when they died the remainder took effect in right of possession, subject only to the same right of dower. The judgment on the special verdict ought, therefore, to have been for the plaintiffs below, who are two out of five of the devisees in remainder.\nJudgment reversed, and judgment for the plaintiffs for two undivided fifths of the land, subject to the right of dower of the widow, Martha H. Hansell.",
+        "type": "majority",
+        "author": "Lowbxe, J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for plaintiffs.",
+      "Hubbell, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Hansell versus Hubbell.\n1. Certain houses and lots being devised to the testator\u2019s only son and heir, with a provision that, in case of the son\u2019s death without issue, they should go to the testator\u2019s brothers and sisters ; this was held an estate tail in the son, and on his death leaving issue, and their death without issue, the remainder vested in possession in the testator\u2019s brothers and sisters.\n2. A remainder after a fee tail., and to those who would then be the heirs at lawr and without the reversion being otherwise disposed of, and with a possible charge of legacies, upon it, may vest a fee simple without words of limitation, and without our Act of 1833.\n3. A residuary devise naturally applies to property not otherwise, disposed of in the will, and is not intended to supply- the want of words of limitation in the previous clauses.\nERROR to the 'District; Court,. Philadelphia,.\nEjectment for a bouse and lot on tbe Moyamensing.road, below Carpenter- street, and for an undivided half of a lot and 4 houses on .Fifth street, below Christian. John W. Hansell died seised thereof in March, 183.1.,. having made his will devising them, to his son David,' without words of inheritance, and with remainder, \u201c in case David should decease without issue,\u201d to the testator\u2019s brothers and sisters. David married and had issue, Philip and John, who survived him and severally died under age, and without issue, the latter in 1853, leaving their mother, Martha Hansell, surviving. After the above-mentioned devise, the testator makes several bequests to friends, payable on his son\u2019s death without issue, and then adds, \u201c all the residue of iny estate, real or personal, I give and bequeath to my son David and his heirs.\u201d The mother, supposing that she succeeded to the estate on the death of her son, conveyed the same to the defendant in trust. This action is brought by two out of five of the brothers and sisters to w\u2019hom the remainder was devised.\nOn a special verdict finding the above facts, the District Court held that, under this will, David took a fee, subject to open on his death without issue living, and let in the uncles and aunts as exe-cutory devisees; and that, on the death of his sons, their mother acquired a life estate under our law of descents; and entered judgment for the defendant.\nMiller, for plaintiffs.\nThe clause relating to David\u2019s dying without issue makes an estate tail: 9 Watts 447; 1 Dal. 47; 1 Yeates 382; 2 Id. 400; 2 Bin. 455; 1 Ser. # B. 203; 3 Id. 470; 4 Id. 509; 16 Id. 323; 17 Id. 61,441; 3 Bawle 59; 6 Watts 18; 1 Wend. 139: 8 W. 8r Ser. 38: 9 Barr 130; 4 Harris 95, 377; 8 Id. 509.\nHubbell, cont\u00f3.\nThe will does not contemplate an indefinite failure of issue: 5 Watts 461; 7 W. Ser. 96. The devise over, if a remainder, is only a life estate, having no words of inheritance."
+  },
+  "file_name": "0244-01",
+  "first_page_order": 242,
+  "last_page_order": 244
+}

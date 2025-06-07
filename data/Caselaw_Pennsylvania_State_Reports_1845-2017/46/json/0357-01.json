@@ -1,0 +1,79 @@
+{
+  "id": 420606,
+  "name": "Commonwealth versus Hitchman et al.",
+  "name_abbreviation": "Commonwealth v. Hitchman",
+  "decision_date": "1863-11-12",
+  "docket_number": "",
+  "first_page": "357",
+  "last_page": "358",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 Pa. 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Wright 372",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Wright 53",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 264,
+    "char_count": 3892,
+    "ocr_confidence": 0.463,
+    "pagerank": {
+      "raw": 1.2717079734648817e-07,
+      "percentile": 0.6149362375953192
+    },
+    "sha256": "c29ecd3c43aba844a060dd25872511f1b52e653a2218796dcade9d7849774dfe",
+    "simhash": "1:b8a590dbdc779e2d",
+    "word_count": 677
+  },
+  "last_updated": "2024-02-27T20:44:21.245247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth versus Hitchman et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, November 12th 1863, by\nRead, J.\nThe defendants were found of an assault and battery, but before judgment, a pardon from.Governor Cur-tin for the offence was pleaded and allowed by the court, who ordered the defendants to pay the costs. In Duncan v. The Commonwealth, 4 S. & R. 449, Chief Justice Tilghman said, \u201cIt is contended on behalf of the Commonwealth that the right to the costs was vested in the officers to whom they were due, and therefore the governor neither intended nor had he the power to remit them. If the right was vested in the officers, I agree that the governor had no power to affect their right. But whether the right was vested is the question, and I take it that it was not vested before judgment, and when the defendant pleaded his pardon judgment ought not to have been given.\u201d This is precisely the present case. In Agnew v. Commissioners of Cumberland County, 12 S. & R. 95, Duncan, J., said, speaking of the effect of a nolle prosequi, \u201c I agree with the Court of Common Pleas, that the 1st section of the Act of 1814 does not embrace this case, because the defendant was not convicted, and was not discharged according to law without payment of costs, he was not tried. That provision extends to cases where the party may be discharged under the Act of Insolvency; where judgment has been arrested or reversed on error; there it is unreasonable, the officers and witnesses should lose their costs; or to a case where one convicted is pardoned before sentence, as in the Commonwealth v. Matthew Duncan.\u201d These cases determine that the county shall, in such cases, pay the costs, and not the defendants. Both these decisions are the solemn judgments of two of our ablest jurists, Chief Justice Tilghman and Judge Duncan, and are logically correct.\nThe same doctrine is distinctly asserted in two late cases in the Middle District: the first was the case of the Commonwealth v. Ahl, decided 22d May 1862, and reported 7 Wright 53, and the last a branch of the former case, The County of York v. Mary Dalhousen et al., decided 21st May 1863, 9 Wright 372. In this case my brother Thompson uses this language: \u201c We are of opinion, therefore, that the Court of Common Pleas of York county were right in holding that Dr. Ahl was, when pardoned, after conviction and before sentence, discharged according to law, and not having paid the costs of prosecution, and not being thereafter liable to pay them, the county was bound to pay them.\u201d\nSo much of the judgment of the court as orders the defendants to pay the costs is reversed, and the county of Westmoreland is ordered to pay the costs, and thus amended the judgment is affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "Edgar Cowan, for the plaintiffs in error.",
+      "E. E. Foster, H. C. Marchand, A. A. Stewart, and H. P. Laird, for the Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth versus Hitchman et al.\nPardon of offence and conviction, effect of on sentence of Quarter Sessions as to costs.\n1. A pardon, by the governor of persons convicted of assault and battery, when pleaded before sentence, discharges the defendants from liability for costs.\n2. Consequently, where, after pardon pleaded, the defendants were sentenced to pay the costs, it was error: the county should have been ordered to pay them.\nCeetioeabi to the Quarter Sessions of Westmoreland county.\nOn the 19th of August, a. d. 1862, William J. Hitchman, and. seventeen others, were indicted for a riot and an assault and battery on John W. Carpenter, and on trial were found guilty of the assault and battery charged against them. Sentence was suspended, and on the 12th of November an unconditional pardon was granted by the governor. On the 17th of November the pardon was formally pleaded, to which a replication was filed for the Commonwealth.\nThe court below allowed the pardon for all purposes except the costs; which was the error assigned here by the defendant.\nEdgar Cowan, for the plaintiffs in error.\nE. E. Foster, H. C. Marchand, A. A. Stewart, and H. P. Laird, for the Commonwealth."
+  },
+  "file_name": "0357-01",
+  "first_page_order": 357,
+  "last_page_order": 358
+}

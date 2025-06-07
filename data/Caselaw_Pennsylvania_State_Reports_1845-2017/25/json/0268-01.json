@@ -1,0 +1,157 @@
+{
+  "id": 975842,
+  "name": "Cummings's Appeal",
+  "name_abbreviation": "Cummings's Appeal",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "268",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Pa. Rep. 200",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 24",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842745
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0024-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 229",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844011
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0229-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 289",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pa. Rep. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates 192",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 222",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/47/0222-01"
+      ]
+    },
+    {
+      "cite": "1 Pa. Rep. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        949918
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/1/0147-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. Ch. Rep. 74",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 143",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840152
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0143-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 299,
+    "char_count": 4173,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 1.6706514018351255e-07,
+      "percentile": 0.6959048577735614
+    },
+    "sha256": "4d8a795870d8e4b20459bc9aaa4c2c3e456c50edf084f90cbf3884e3a388b1fa",
+    "simhash": "1:c71bdef3a4e285fb",
+    "word_count": 754
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cummings\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nThe appellant claims priority for his judgment, not because it was first in order of time, but because it was for the separate debt of the owner of the real estate sold, and the prior judgments were against a firm, of which the owner of the estate was a member. To substantiate his claim the appellant invokes the aid of the principle, that joint creditors have a right to priority of payment out of the joint estate of several partners, and the separate creditors a like right to priority of payment out of the separate estate of the partners. It is unnecessary to point out how and when the principle stated applies, for it is clear that it has no application to the case in hand. A lien attached by law is never interfered with by introducing an equitable rule for marshalling assets. The reason why joint creditors are preferred in distributing the proceeds of partnership real estate is, that the estate is not subject to the liens of judgments for separate debts, \u25a0 as the individual members of the firm have nothing but a resulting interest in the proceeds after payment of the partnership debts: Kramer v. Arthur, 7 Barr 165. And this is so only as regards real estate held as partnership property, for if it is held by the partners simply as tenants in common, the estate of one of the partners may be encumbered by a mortgage given by him for his separate debt: McDermot v. Lawrence, 7 Ser. & R. 438. And it may be sold on an individual judgment, and the purchaser takes the title discharged from the partnership debts: Hale v. Henrie, 2 Watts 143.\nIt has never been questioned in Pennsylvania hut that a judgment against two or more is a lien upon all the real estate owned by the defendants at the rendition of the judgment, whether held by a tenancy in common or in severalty; and when the lien has once attached it cannot be divested or postponed by a subsequent judgment.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Patterson, for appellant. \u2014",
+      "Ewing, for appellees. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Cummings\u2019s Appeal.\nA judgment against a firm is a lien on tbe separate real estate of tbe partners, and is entitled to priority in the distribution of the proceeds of sale of such separate real estate, over a subsequent judgment of a separate creditor of the partner whose real estate was sold.\nAppeal from the decree of the Common Pleas of Fayette county.\nJacob D. Mathiot, James Paul, and George T. Paul were partners engaged in the iron business in Westmoreland county. On the 1st day of September, 1852, three judgments, in favour of Ramsey, Graham, and Robb, respectively, were entered in the Common Pleas of Fayette county against the firm. On the 6th day of March, 1854, Samuel C. Cummings, the appellant, obtained a judgment against Jacob D. Mathiot. An execution was issued on the judgment in favour of Ramsey, and a tract of land, the individual property of Jacob D. Mathiot, was levied and sold. The distribution of the proceeds of the sale was referred to an auditor, before whom Mr. Cummings claimed that his judgment should be first paid, being the individual debt *of Mathiot, and the property sold his individual property.\nThe auditor, however, distributed the proceeds to the other judgments, being the first liens, and the Court below confirmed this report, and decreed distribution accordingly; and this appeal was taken.\nPatterson, for appellant. \u2014\nJoint creditors have a right to priority of payment out of the joint property, and the separate creditors a like priority out of the separate estate, as settled by a long train of decisions, both in England and this country: 3 Vesey 238, 837; 6 Id. 813; 16 Id. 183; 9 Id. 35; 11 Id. 78; 1 East 369; 3 Kent\u2019s Com. 64-5; Story on Part. \u00a7\u00a7 363, 365; 5 Johns. Ch. Rep. 74; 1 Pa. Rep. 147; 7 Barr 165; 2 Jones 222.\nEwing, for appellees. \u2014\nThe rule contended for holds in bankruptcy in England and in some of the states, but no authority can be adduced where it has been allowed to interfere with the priority of liens on real estate: 11 Ves. 85; 5 Ser. & R. 78; 3 Kent\u2019s Com. 65, note b; Story on Part. 530, 541; 2 Yeates 192-3 ; 1 Pa. Rep. 204; 1 Harris 475; 7 Barr 165; 13 Ser. & R. 330; 2 K. 188; 2 Watts 289; 5 Watts 229; 4 Watts 24; 3 Pa. Rep. 200."
+  },
+  "file_name": "0268-01",
+  "first_page_order": 268,
+  "last_page_order": 270
+}

@@ -1,0 +1,108 @@
+{
+  "id": 960773,
+  "name": "Smith v. Elliott",
+  "name_abbreviation": "Smith v. Elliott",
+  "decision_date": "1848-10-09",
+  "docket_number": "",
+  "first_page": "345",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Pick. 198",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2056647
+      ],
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/24/0203-01"
+      ]
+    },
+    {
+      "cite": "9 Mass. Rep. 316",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2029686
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/9/0285-01"
+      ]
+    },
+    {
+      "cite": "3 H. & McH. 441",
+      "category": "reporters:state",
+      "reporter": "H. & McH.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. 120",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 354,
+    "char_count": 6148,
+    "ocr_confidence": 0.394,
+    "pagerank": {
+      "raw": 2.933929771433868e-07,
+      "percentile": 0.8475776000840204
+    },
+    "sha256": "1c7fe8f33686511609303e15766a5d0387a008f62bf624743e6da0a0e9055272",
+    "simhash": "1:2ef9d58557a1d6f4",
+    "word_count": 1097
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith v. Elliott."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nThe whole difficulty attending this ease arises from a want of attention to the pleadings. The plaintiffs, instead of declaring for the continuance of the nuisance, file their declaration for the same cause between the same parties or their privies, before tried, and in which verdict and judgment were rendered. And the defendant, instead of pleading the former recovery in bar of the action, pleads the general issue. It is not denied that the defendant may give in evidence a former recovery in an action on the case for a nuisance, under the plea of not guilty, but it is not, as the court ruled, conclusive. This point is decided in Vooght v. Winch, 2 B. & Al. 662. A verdict, as is there held, obtained by the defendant in a former action, and which, if pleaded in bar, would be ah estoppel, when given in evidence under the general issue is not conclusive against the plaintiffs, but only evidence to go to the jury. The defendant elected to refer the matter to the jury. If the party will not rely on an estoppel when he may, the jury are not bound by the estoppel, for they are sworn to find the truth: Kilheffer v. Herr, 17 S. & R. 322.\nAs this case must be reversed for the direction of the judge, we take it for granted the narr. will be amended; it will therefore be convenient, if not necessary, to notice some matters which have occurred in this, and doubtless will arise on another trial. In an action for the continuance of a nuisance, a verdict and judgment in a former action in which the same matter is in controversy between the same parties, or privies, is conclusive of the right, and also the damages to the time of the commencement of the first suit. All the plaintiffs are required to do, is to give in evidence the judgment in the former recovery, and to prove that the nuisance remains in the same, or worse situation than before. On proof it has not been removed, the plaintiff is entitled to a verdict, for the case cannot be re-tried: Kilheffer v. Herr, 17 S. & R. 319\nThe defendant insists that the plaintiffs cannot sustain the action even for a continuance of the nuisance, because the nuisance was erected on the land of a third person; that consequently he cannot abate it without committing a trespass, which' the law will not compel him to do; and that, moreover, damages were, or might have been given, commensurate with the plaintiffs\u2019 injury in the former action. These suggestions are not without force; but although the point is new in this state, it has been already ruled in Thompson v. Gibson et al., 7 M. & W. 456. The case was an action on the case for continuing a nuisance to the plaintiff\u2019s market, by a building which excluded the public from a part of the space on which the market was lawfully held. It appears that the building was erected in October, 1838, under the superintendence and direction of the defendants, not on their own land, but on that of the corporation of Kendal (of which corporation they were members). The Earl of Lonsdale was the owner of the market, in October, 1839; and in February, 1839, he demised it to the plaintiff, and the market being afterwards obstructed by the building, the action was brought. It was held that the defendants were liable for continuance of the nuisance, although they had no right to enter on the land to remove it. Baron Parke, who delivered the opinion of the court, in answer to the very point here made, uses this language: \u201c It was also said, that the defendants could not now remove the nuisance themselves, without being guilty of a trespass to the corporation, and that it would be hard to make them liable. But that is a consequence of their own original wrong, and they cannot be permitted to excuse themselves from paying damages for the injury it causes, by showing their inability to remove it, without exposing themselves to another action.\u201d And the principle is just as applicable to this case, as the defendant has had, and now enjoys the benefit of the flow of water at the expense, and to the injury of the plaintiffs.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Wallcer and Galbraith, for plaintiffs in error,",
+      "Babbitt and Marshall, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. Elliott.\nWhere plaintiff declares for a nuisance, and under the general issue pleaded a former recovery under a similar count, is shown the plaintiff is not concluded from recovering for injuries since resulting from a continuance of the nuisance. Tor, to estop the plaintiff, the former recovery must he pleaded. To avoid the estoppel, the plaintiff must declare for a continuance of the nuisance.\nParties who cause a nuisance by acts done on the land of a stranger are liable for its continuance: and it is no defence that they cannot lawfully enter to abate the nuisance without rendering themselves liable to an action by the owner of the land.\nIn error from the Common Pleas of Erie.\n' Case for a nuisance, by breaking the bank of a water-course, and diverting the water from plaintiff\u2019s mill. The plaintiffs gave in evidence the record of a recovery by their grantor against C. Elliott, and defendant, in which the count was the same as that filed in the present cause, with the exception of an omission to aver any day on which the act was done. They then proved that defendant had purchased the property benefited by the act, from O. Elliott. They then proved the continuance of the nuisance. The defendant proved the breach in the bank was on the land of a stranger, and he insisted the former recovery was conclusive.\nChurch, P. J., instructed the jury the former recovery was conclusive of satisfaction for all consequential injuries for acts then done, but defendants were liable for the continuance of the nuisance if they had done any new act.\nWallcer and Galbraith, for plaintiffs in error,\ninsisted that they were entitled to recover for the continuance of a nuisance under the narr., and that it was not necessary to show that any new act was done: 17 S. & R. 320; 5 W. 120.\nBabbitt and Marshall, contra.\nThe counts are for the same cause, and the recovery is conclusive: 3 H. & McH. 441; 9 Mass. Rep. 316; 13 Ib. 420; 7 Pick. 198, 203; nor could he be liable when the nuisance was on the land of a stranger.\nOct. 9."
+  },
+  "file_name": "0345-01",
+  "first_page_order": 345,
+  "last_page_order": 347
+}

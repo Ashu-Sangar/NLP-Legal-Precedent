@@ -1,0 +1,103 @@
+{
+  "id": 960611,
+  "name": "Miller v. Miller",
+  "name_abbreviation": "Miller v. Miller",
+  "decision_date": "1848-08-01",
+  "docket_number": "",
+  "first_page": "74",
+  "last_page": "77",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 W. 327",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dall. 330",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Johns. 240",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2136011
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0242-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. 330",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11270070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/12/0330-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 527,
+    "char_count": 8994,
+    "ocr_confidence": 0.384,
+    "pagerank": {
+      "raw": 2.632507937690322e-07,
+      "percentile": 0.822348136899101
+    },
+    "sha256": "bcb7ef71643d7434619a5e6654da0b7c1f2f8b199eedc4e910e51f6b74c6c155",
+    "simhash": "1:1ee313bf195ce617",
+    "word_count": 1606
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miller v. Miller."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nAs the evidence given on the trial is not brought up with the record, we are unable to ascertain the precise extent of the diversion of the Avater in question, or of its use by the defendant. Nor is this, perhaps, necessary to enable us to decide understandingly the principal point presented on the argument. It is not Avhether the owner above has a right to use the water flowing through his lands for the purposes of irrigation, but Avhether he is bound so to use it as not materially to diminish the quantity which before flowed over and across the land of the occupier below.\nThe general rule on this subject is, that any proprietor of lands on the banks of a river or other stream, has an equal right to use the Avater Avhich flows adjacent to his property; but, without the assent of the adjoining proprietors, he cannot divert it or diminish the quantity of water which Avould otherwise descend to the proprietors below. The law requires of the party that he should use the stream in a reasonable manner; and one of the conditions of this use is, that he do not destroy or render useless, or materially lessen or affect the application of the water by those situated above or below him on the stream. The general doctrine will be found thus stated by most of the best -writers on this subject, in whose treatises are collected the numerous cases which might be cited in support of it. Of these, it will be unnecessary to notice more than one or two. In Wright v. Howard, 1 Sim. & Stu. 190, and in Mason v. Hill, 3 Barn. & Ad. 304, the rule I have stated is noticed and vindicated. In the first of these cases, on the authority of which the second was finally determined, the Master of the Rolls observed, \u201c Every proprietor who claims a right either to throw the water back, above, or to diminish the quantity of water which is to descend below, must, in order to maintain his claim, either prove an actual grant or license from proprietors affected by his operations, or must prove an uninterrupted possession of twenty years.\u201d And he adds, \u201cAn action will lie at any time within twenty years, when injury happens to arise in consequence of a new purpose of the party to avail himself of the common right.\u201d To the same effect is Arnold v. Foot, 12 Wend. 330. There it was held that the owner of land upon which a spring rises 'has no right to divert it from its natural channel, although its waters are not more than sufficient for his domestic uses, for his cattle, and for the irrigation of his land. The sum of the authorities may be thus briefly stated: \u2014 Though every proprietor has a right to the reasonable use of the water running through his lands, he cannot, by the mere act of opposition, diminish the quantity of water which ran through his neighbour\u2019s land, to the prejudice of his estate in point of value, although enough was still left to the neighbour for the purposes for which he had actually used the water. Though this is the settled doctrine, some difficulty frequently occurs in its application to particular cases, arising principally from the peculiar uses to which water may be applied, and the consequent necessity of managing it in a particular way. Thus in Pennsylvania it was held in Hoy v. Sterrett, 2W. 327, and subsequent cases, that an upper mill-owner is not answerable to one lower down the stream, for detaining the water in his dam for several days, if this be necessary to the action of his mill, though the lower mill is thereby injured. This would seem to arise from the necessity of the case, and the impossibility of using the water beneficially in any other way; though even these considerations have not produced uniformity of opinion, for Potliier lays down the rule that the owner of the upper stream must not raise water by dams so as to make it fall with more abundance and rapidity than it would naturally do, and injure the proprietor below (Trait\u00e9 du Qontrat de Soci\u00e9t\u00e9, Second App. No. 236). Of this rule, however, Kent justly observes it must not be construed literally, for that would be to deny all valuable use of the water to the riparian proprietors. The reasonableness of the detention of the water by the upper proprietor, must depend on the circumstances of each case, and is to he judged of by the jury: Hetrich v. Deachler, 6 Barr, 32. In judging of the proper use of water, the size and capacity of the stream rightly enters into the inquiry. The distinction taken by the court below between a stream so larg#as to be properly designated a creek or river and a mere rivulet used for the purposes of irrigation, is perfectly well founded. In the one case, of course a much larger quantity may be absorbed without perceptible diminution or actual injury, than in the other. In the use of it, some evaporation and decrease of it, and some variation in its weight and velocity, must necessarily take place. In such case the maxim is, de minimis non curat lex. But whenever so much of the volume of water is obstructed as to be plainly perceptible in its practical uses below \u2014 whenever the channels which before were filled, exhibit the loss of the accustomed fluid, an injury is committed for which an action may be sustained, though it may not have been actually used by the lower proprietor. It is scarcely worthwhile to elaborate the subject, which, in the aspect it assumes in the case in hand, is sufficiently simple. It may not, however, be useless to illustrate it by the remark, to which all must assent, that the owner above cannot take all of the stream, and this drives us necessarily upon the rule that he shall not materially diminish it, for, from the very nature of the subject, there is none other of practical operation.\nFor this reason, we find no error in that part of the charge principally complained of. The learned judge was right in saying that \u201c the question does not turn on whether the occupier below, who complains, has sufficient water left for his domestic purposes, or more than he was previously using from the stream; but whether the quantity flowing on his land, which he had a right to use, has been materially lessened or diminished ? There is nothing in the bills of exceptions. The second of them was properly abandoned, and the first is not better founded. The declaration made by the defendant of his interest was certainly evidence, leaving it open to him to show he had never carried it into effect. It was proper to show the spirit by which he was actuated,- if for nothing else.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for plaintiff in error.",
+      "Linn, contri."
+    ],
+    "corrections": "",
+    "head_matter": "Miller v. Miller.\nA supra-riparian owner is liable to tbe owner of tbe land below him, for every material diminution of the flow of the water by a diversion from the stream, whether for irrigation or other purposes; and this, though no actual injury may have been suffered.\nIn error from the Common Pleas,of Union.\nAug. 1.\nCase for a nuisance in diverting a stream of water. The evidence was that defendant, being the owner of certain land upon a stream, conveyed a part lying farthest down the stream to plaintiff, without a special reservation of the right to the water. He then opened ditches on his land, and turned the water into them for the purposes of irrigation.\nWilson, P. J., told the jury, \u201c A man may use the water for the purpose of watering his meadows, provided, he so constructs his races, or the ground is so situated, that any surplus will return again into the natural channel before it reaches the occupant below him, and provided the flow of water ivhich the occupant below was previously entitled to the use of, is not materially diminished; where he goes beyond this, even for watering his meadows, he must retain the right to do so from the occupants on the stream below, or lie subjects himself to a suit for damages, although the damages be small; whether a stream is materially diminished, so as to subject the occupier who diminished it to damages, must in some measure depend on the capacity of the stream: when the stream is so large as to come under the denomination of a creek or river, a large quantity may be used for irrigating land, Avithout any appreciable diminution of the quantity, and no one injured, or have a cause of action against the person lessening the quantity. But Ayhen the stream is so small that the quantity taken for irrigation 'perceptibly and materially diminishes it, the person affected by it will have cause of action, and the question does not turn on whether the occupier below who complains, has sufficient water left for his domestic purposes,, or more than he ivas previously using from the stream, but whether the quantity flowing on to his land, which he had a right to use, has been materially lessened or diminished.\u201d\nMiller, for plaintiff in error.\nThe jury were led to believe the only question was, Avhcther the water Avas diminished; not whether the plaintiff was injured: 1 Bac. Abr. 121; 10 Johns. 240 ; 15 Ib. 214; 17 Ib. 320; 4 Dall. 330; 3 Harr. Dig. 2150; 2 W. 327; 6 Barr, 32.\nLinn, contri."
+  },
+  "file_name": "0074-01",
+  "first_page_order": 74,
+  "last_page_order": 77
+}

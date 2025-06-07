@@ -1,0 +1,79 @@
+{
+  "id": 401887,
+  "name": "Lopeman v. Henderson",
+  "name_abbreviation": "Lopeman v. Henderson",
+  "decision_date": "1846-10-18",
+  "docket_number": "",
+  "first_page": "231",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Serg. & Rawle, 24",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8877442
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/9/0024-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 221,
+    "char_count": 3425,
+    "ocr_confidence": 0.561,
+    "pagerank": {
+      "raw": 2.701012047527744e-07,
+      "percentile": 0.8284162512949597
+    },
+    "sha256": "ac32a44978514961f9ce749edc0a4d082adc78e16e1d5462d218d14fa9def091",
+    "simhash": "1:4e1a0c3ddea6c5bd",
+    "word_count": 586
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lopeman v. Henderson."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nHad the principal been arrested oh a' bail-piece in an action of debt, the \u25a0 authority to detain him by it would have been dissolved 'by the coming into operation of the act of 1842; and the bail would, without more, have been exonerated. But the action was in case .for trover and conversion, and the assumption by. the court, that the principal had been discharged under the act, was contrary to the fact. Still an actual discharge of the principal by a-court of competent jurisdiction; whatever the ground of it,, must necessarily exonerate the bail. Had the surrender of the principal become impossible, by discharge of his person from the-custody of the bail on habeas corpus, the bail would indisputably have been discharged from his recognisance by reason that performance of the condition had been interdicted by competent authority. He would have- been entitled to have an exoneretur entered on the ' bail-piece, or to plead the discharge to a scire facias at his election. But the person of the principal was within the court\u2019s control without a habeas corpus. He was in the custody of the court\u2019s special jailer, who was as much bound to obey its order as would have been the sheriff, or its general jailer. The principal, then, being in court at the return-day of the appeal, was discharged on motion; and the bail was consequently ipso facto exonerated.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "JenkSj for plaintiff in error.",
+      "Buffington, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Lopeman v. Henderson.\n' Where a defendant has been arrested on a bail-piece, an order of discharge by the court is conclusive in an action against the bail; it is immaterial that the order was made' for erroneous reasons. .\nSuch an order may be pleaded .to a so. fa,, or an exoheretur may be entered on the bail-piece. ' \u2022 \u2022\nIn error from the Common Plqas of Jefferson county.\nOct. 16. This was a sci.fa. on a recognisance of bail. On the trial,'the plaintiff gave in evidence a transcript of an action of trover for a horse', 'brought before \u00e1 justice of the peace, in which the present defendant had entered into, this recognisance, on the 33d October, 1841, and judgment was recovered by the plaintiff against Reed, the defendant there, and also on an appeal to the Common Pleas to December Term, 1841. The defendant showed a bail-piece, issued by the justice, at his instance, December 5, 1842, on which .Reed had been arrested, and at hi\u00e9 own request a general order of discharge was entered on the bail-piece by the court* on the 12th December. The plaintiff excepted to the admission of this evidence.,\nThe court (McCalmont, P. J;) instructed the jury that it appeared from the evidence that the defendant had arrested Reed on a bail-piece, who, in-pursuance of the,act of 1842, to abolish imprisonment -for debt, was discharged by the court, and therefore their verdict should be for defendant.\nJenkSj for plaintiff in error.\nThere was no exoneretur entered, and the bail is therefore. not discharged. McClurg v. Bowers, 9 Serg. & Rawle, 24; Hecker v. Jarret, 3 Binn.,404. The act of 1842 is confined in terms to actions ex contractu. \u25a0\nBuffington, contra.\nThe bail is discharged, as the order'of the 'court precluded the detention of the principal after it was made; and it is perfectly immaterial what -reasons the court might have for making such an order. It is assumed'it was under th\u00e9 act of 1842, \u25a0 but the record of the discharge .contains nothing but the fact of such an order having been made. ' \u2019\nOct. 18."
+  },
+  "file_name": "0231-01",
+  "first_page_order": 231,
+  "last_page_order": 232
+}

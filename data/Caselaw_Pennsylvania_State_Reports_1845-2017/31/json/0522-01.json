@@ -1,0 +1,159 @@
+{
+  "id": 985060,
+  "name": "Bradley et al. versus The Commonwealth",
+  "name_abbreviation": "Bradley v. Commonwealth",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "522",
+  "last_page": "523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 522"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 226",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Black. R. 35",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "case_ids": [
+        1410079
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/66/0035-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 239",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408532,
+        12142581
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0251-01",
+        "/dall/1/0239-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 21",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842772
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0021-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 272",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0272-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 382",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823568
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0382-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 21",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842772
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0021-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 382",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823568
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/4/0382-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 3682,
+    "ocr_confidence": 0.482,
+    "pagerank": {
+      "raw": 3.0168002770128725e-07,
+      "percentile": 0.8535957115646511
+    },
+    "sha256": "2562b5634d8b30b0ec3edd0e76c2f2c7b4fcb6763d4f2002de5d0f1afae6a4dc",
+    "simhash": "1:d399f3f0121efdd1",
+    "word_count": 665
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradley et al. versus The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nIt seems to us very clear that this is no administration bond: for the law requires two or more sureties, and there is only one; and the bond was drawn for two, and only one of them has signed it. In such a case, by the very terms of the law, the letters of administration are void, and the person acting under them became administratrix of her own wrong, which is inconsistent with the attribution of any validity to the bond: see 4 Rawle 382; 4 Watts 21.\nA judgment was entered on this bond against the surety for want of an affidavit of defence, and was opened on the terms that the case be tried on the merits. On the trial, the court rejected a defence founded on the principle just announced, as not being on the merits. This was error. The defendant below had a right to a writ of error on the judgment by default, and we cannot regard him as abandoning the main principle on which he would expect a reversal and a judgment in his favour in order to accept a new trial that excludes it. The defence that the party never was bound by the instrument declared on is a defence on the merits.\nJudgment reversed, and a new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "R. L. Johnston, for the plaintiffs in error,",
+      "Whites Coffey, for the defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Bradley et al. versus The Commonwealth.\nAn administration bond, executed by only one surety, is void; and no action can be maintained on it.\nIn such case, the letters of administration are void, and the person acting under them becomes a^jnistrator of his own wrong.\nThe opening of a judgment by default, on terms that the case be tried on the merits, does not preclude the defendant from taking advantage of the invalidity of the bond sued on.\nError, to the Common Pleas of Cambria county.\nThis was an action of debt by the Commonwealth of Pennsylvania, for the use of John and Andrew Ager, against Ann Henry, late Ann Webster, and William Bradley, on an administration bond in $500, dated the 15th September 1849, executed by Ann Webster, as principal, and William Bradley, as surety.\nOn the 15th September 1849, Ann Webster took out letters of administration on the estate of her deceased husband, William Webster, and gave the bond in question, in the body of which William Bradley and R. L. Johnston were named as sureties; but it was executed by Bradley only.\nOn a settlement of the administration account, a sum of $76.38 was decreed by the Orphans\u2019 Court to be paid to John and Andrew Ager, to recover which the present action was brought on the administration bond.\nJudgment was entered against the defendants for want of an affidavit of defence; which, on application of Bradley, was opened, and the defendants let into a defence \u2014 the case to be tried upon the merits.\nOn the trial, the court below admitted the bond in evidence, notwithstanding an objection by the defendant, and directed the jury to find for the Commonwealth, being of opinion that this defence was waived by the agreement \u201c to try the case upon the merits.\u201d\nThe defendants excepted to the admission of the bond in evidence, and to the charge of the court; and a verdict having been rendered in favour of the Commonwealth for $500, and of John and Andrew Ager, for $76.38, and judgment having been entered thereon, the defendants removed the cause to this court, and here assigned the same for error.\nR. L. Johnston, for the plaintiffs in error,\ncited Act of 15th March 1832, \u00a7 24, Brightly\u2019s Purd. 189, pl. 20; McWilliams v. Hopkins, 4 Rawle 382; Dutilh v. Miller, 2 P. A. Browne 311; Ekel v. Snevily, 3 W. & S. 272; Sharp v. United States, 4 Watts 21.\nWhites Coffey, for the defendants in error,\ncited Brown v. Sutter, 1 Dall. 239; Willett v. Allerton, 1 Black. R. 35; Mears v. Commonwealth, 8 Watts 226."
+  },
+  "file_name": "0522-01",
+  "first_page_order": 522,
+  "last_page_order": 523
+}

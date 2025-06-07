@@ -1,0 +1,79 @@
+{
+  "id": 972307,
+  "name": "Coulter versus Philips",
+  "name_abbreviation": "Coulter v. Philips",
+  "decision_date": "1852-12-20",
+  "docket_number": "",
+  "first_page": "154",
+  "last_page": "156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Pa. 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 500",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846082
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0500-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 403,
+    "char_count": 8410,
+    "ocr_confidence": 0.382,
+    "pagerank": {
+      "raw": 1.2040648675258858e-07,
+      "percentile": 0.5943531842976173
+    },
+    "sha256": "c5a6971106da0fc52e5524e4457a0e7599dced441e0ccaf621e2c19fc4641289",
+    "simhash": "1:18ff25fda34c4051",
+    "word_count": 1476
+  },
+  "last_updated": "2024-02-27T16:08:18.291907+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Coulter versus Philips."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nWoodward, J.\nEli Coulter, the ancestor of the plaintiffs, obtained a judgment against John Philips in 1821, which became a lien on his undivided eighth part of the land in controversy. In 1824, Coulter caused this interest to be levied on and sold at sheriff\u2019s sale to himself, and on the 3d day of September in that year he obtained the sheriff\u2019s deed. In 1830 he died, leaving the plaintiff\u2019s two minor sons his heirs at law.\nBarbara Lear, under whom the defendants claim, purchased the land from Jacob Philips\u2019 heirs, of whom John was one, by deed dated 24th August, 1824, made in pursuance of an agreement between the same parties, dated January 2, 1824. This suit was instituted on the 29th July, 1845. There was considerable contest at the trial as to the time, the extent, and the exclusiveness of the possession taken by-Barbara Lear, but conceding that it followed immediately on her purchase, that it embraced all the land in her deed, and that it was exclusive, the material question is, does the statute of limitations bar the plaintiff\u2019s right to recover an undivided eighth part of the land ?\nIt is not denied that the statute would run against Eli Coulter from the time he obtained his sheriff\u2019s deed; ana if it commenced then, his death in 1830, and the minority of his sons, would not stop its running, for neither infancy, nor coverture suspends the statute after it has once attached. But from the 3d September, 1824, to the 29th July, 1845, was not twenty-one years, and it is nothing less than the full statutory period that bars the right of recovery. The defendants, therefore, are obliged to contend that the statute began to run against John Philips from the date of his sale to Barbara Lear, and that Coulter, his judgment creditor, succeeded to such estate only as he had at the time of the sheriff\u2019s sale. If this theory be correct, the defence is perfect; for, from the time when Barbara purchased and took possession, to the commencement of this action, more than twenty-one years elapsed.\nA judgment creditor acquires a lien on all the interest the defendant has in real estate in the county, and the debtor cannot affect it by any conveyance he may make of his estate. Levy and sale are remedies which belong to the lien, and when applied, they transfer to the purchaser, not the debtor\u2019s interest, as he may have reduced it by conveyance or encumbrance, but his interest as it was when the lien of the judgment attached. A title paramount to the defendant\u2019s, or twenty-one years\u2019 adverse possession by an intruder, or a stranger to the defendant, may avail to defeat the rights and remedies of a lien creditor. A possession that would bar the debtor, would divest the rights of his creditor. But a party coming into possession under, and according to the title of the defendant, takes it, eum onere, and the creditor\u2019s relation to the land remains unchanged. When, in the exercise of rights incident to his lien, he sells it at sheriff\u2019s sale, the purchaser takes the title the defendant hold when the lien attached, unaffected by subsequent mortgages, judgments, or conveyances. It would be absurd for the defendant to set up the statute of limitations against such purchaser. It would he no less absurd to permit his alienee to do it.\nThe truth is, the statute has no application in such a case. Lien creditors are subject to a limitation of five years; hut the statute of limitations that concerns the action of ejectment has no relation to them. They have no estate in the land, no right of entry, no action to be affected by the statute. The statute bars the right of action, and protects the occupant, not for his merit, for he has none, but for the demerit of his antagonist in delaying his action beyond the period assigned for it: Sailor v. Hertzogg, 2 Barr 185. But what right of action has a lien creditor to delay ? His only remedy is by levy and sale. If he become the purchaser, his relations to the land are changed. He then has an estate and a right of entry. Then the statute may attaeh. Before it cannot. The theory of the defence, therefore, which was nothing more or less than the setting up of the statute of limitations against a judgment creditor, is without any foundation in law, and the Court were wrong in sustaining it.\nIt becomes unnecessary, in this view of the case, to discuss the other assignments of error.\nThe judgment is reversed and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "White, for plaintiffs in error.",
+      "Nosier, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Coulter versus Philips.\n1. A purchaser of land at sheriff\u2019s sale acquires the interest in the land which the defendant had at the time the lien of the judgment, under which it was sold, attached, unaffected by subsequent encumbrance, or conveyance by the debtor.\n2. After the lien of a judgment attached upon land, the defendant therein agreed to convey it to another. The land was afterwards sold at sheriff\u2019s sale, under the judgment, and the plaintiff in the judgment became the purchaser. The defendant in the judgment then conveyed according to his agreement, and subsequently the sheriff\u2019s deed was executed and acknowledged. It was held, that the plaintiff, as purchaser at the sheriff\u2019s sale, acquired the interest which the defendant had in the land at the time the judgment was obtained; and that the statute of limitations did not begin to run against him till the sheriff\u2019s deed to him was acknowledged, and not from the date of the sale by the defendant in the judgment'of his interest in the premises.\nError to the Common Pleas of Westmoreland county.\nThis was an action of ejectment by J. A. Coulter and Bickard Coulter, Jr., against Joseph Philips and others, to recover the undivided eighth part of 400 acres of land, formerly the property of Jacob Philips, deceased. The writ was issued oh 29th July, 1845. Benninger and Morrison, two of the defendants, took defence for 183 acres and 134 perches, being the amount included in a deed by the heirs of Jacob Philips, deceased, to Barbara Lear. Wilson Jack took defence for the residue.\nJacob Philips died intestate in May, 1818, seised of the land in dispute, leaving eight heirs, of whom John Philips was one. Eli Coulter obtained a judgment against John Philips, to August Term, 1821. Under this judgment the interest of John Philips in the land, being an undivided eighth part, was levied on, and was sold at sheriff\u2019s sale on 27th July, 1824, and was conveyed to Eli Coulter, the purchaser, by the sheriff, by deed dated 30th August and acknowledged on 3d September, 1824. Eli Coulter died intestate in April, 1830, and the plaintiffs, then minors, were his heirs at law, the eldest of whom came of full age in 1843, and neither had guardians.\nThe defendants claimed under Barbara Lear. By an agreement dated 2d January, 1824, she agreed to purchase from the heirs of Jacob Philips, of whom John, the defendant in the judgment of Coulter, was one, a part of the tract of which Jacob Philips died seised. They conveyed the same to her by deed dated 24th August, 1824. It was alleged that, at the time of the agreement, it was agreed by parol, that she was to have possession of the land in April, 1824. At this time there was' a tenant residing on the land, who was entitled to hold till April, 1825. Barbara Lear, in April, 1824, put a tenant into another house on the land, he occupying two or three small fields. The defendants claimed that adverse possession was had of the whole tract in April, 1824, and more than 21 years having elapsed from that time till the issuing of the writ of ejectment, that they were protected by the statute of limitations.\nBurrell, J., submitted to the jury to determine whether Barbara Lear had actual adverse possession, in April, 1824, by her tenants, of the land purchased by her, and instructed them, that if so, the statute of limitations was a bar to recovery by plaintiffs.\nVerdict was rendered for the plaintiffs as to Jack and Philips, and for defendants as to Benninger & Morrison.\nThe instruction referred to, inter alia, was assigned for error.\nWhite, for plaintiffs in error.\nHe contended that the statute of limitations did not begin to run until there was a right of action against the person in possession (Shepley v. Lytle, 6 Watts 500), and that Eli Coulter had no right to bring ejectment till the 3d September, 1824, the date of the acknowledgment of the sheriff\u2019s deed in his favor.\nNosier, contr\u00e0.\nDecember 20,"
+  },
+  "file_name": "0154-01",
+  "first_page_order": 156,
+  "last_page_order": 158
+}

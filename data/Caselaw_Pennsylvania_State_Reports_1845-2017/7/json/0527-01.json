@@ -1,0 +1,186 @@
+{
+  "id": 957909,
+  "name": "Zebley v. Voisin",
+  "name_abbreviation": "Zebley v. Voisin",
+  "decision_date": "1848-04-29",
+  "docket_number": "",
+  "first_page": "527",
+  "last_page": "528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Denio, 367",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484074
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0367-01"
+      ]
+    },
+    {
+      "cite": "6 Cow. 449",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        12139567
+      ],
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/6/0449-01"
+      ]
+    },
+    {
+      "cite": "13 Conn. 412",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754662
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/13/0412-01"
+      ]
+    },
+    {
+      "cite": "4 Metc. 343",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Paine, 156",
+      "category": "reporters:federal",
+      "reporter": "Paine",
+      "case_ids": [
+        6640111
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/24/0987-01"
+      ]
+    },
+    {
+      "cite": "2 How. 711",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3328178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/43/0711-01"
+      ]
+    },
+    {
+      "cite": "3 Wheat. 172",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1443464
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/16/0172-01"
+      ]
+    },
+    {
+      "cite": "2 Wheat. 76",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1444873
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/15/0076-01"
+      ]
+    },
+    {
+      "cite": "2 Dall. 144",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11738564
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/2/0144-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 96",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0096-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 183,
+    "char_count": 1755,
+    "ocr_confidence": 0.403,
+    "pagerank": {
+      "raw": 5.207966869300525e-08,
+      "percentile": 0.3266454916869671
+    },
+    "sha256": "83e1449aab18dbb370f0759eeffe63e2ee41878c16ce3d366c6c0cf7d092c853",
+    "simhash": "1:00240e469da09b08",
+    "word_count": 324
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zebley v. Voisin."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe judgment of the court below is affirmed. The suggestion and affidavit of defence disclosed no legal obstruction to the rendition of the judgment. It was a naked technicality as to the form of the suit, without any tinge of substance or justice. In any aspect of the case, the plaintiff below was the equitable plaintiff, and could have sustained the suit in the name of Hunn for his use. But, under the circumstances of the case, we have no hesitation in ruling that Voisin & Co. could maintain the suit in their own name, and were, in fact and law, the legal plaintiffs.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Fallon, for plaintiff in error.",
+      "Gerard, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Zebley v. Voisin.\nThe drawer of a bill may maintain an action thereon against the acceptor, though it has not been endorsed by the payee.\nIn error from the District Court of Philadelphia.\nApril 24. The plaintiffs filed a copy of a bill of exchange, drawn by them in New York \u201cto the order of T. Hunn, cashier of the National Bank,\u201d on defendants, by whom it was accepted. The suggestion of defence was, that the bill had never been endorsed by Hunn. The court gave judgment notwithstanding, and this was the question argued here by\nFallon, for plaintiff in error.\nThe condition on which the bill is to be payable is not complied with: Chit. on Bills, 156.\nGerard, contra.\nWe have the possession of the bill and the ownership until negotiation. In point of fact, the payee\u2019s name was inserted merely for the purposes of collecting through his bank. He cited 2 Pardessus, Dro. Com. s. 349; Mullen v. French, 9 Watts, 96; 2 Dall. 144; 2 Bro. P. C. 43; Story on Prom. Notes, s. 246, 452, n. 1; 2 Wheat. 76, n.; 3 Wheat. 172; 2 How. 711; 1 Sum. 478; 1 Paine, 156; 4 Metc. 343; 13 Conn. 412; 6 Cow. 449, 455; 1 Gill & Johns. 175; 1 Denio, 367.\nApril 29."
+  },
+  "file_name": "0527-01",
+  "first_page_order": 527,
+  "last_page_order": 528
+}

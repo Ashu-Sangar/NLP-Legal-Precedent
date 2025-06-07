@@ -1,0 +1,103 @@
+{
+  "id": 413787,
+  "name": "Hardy versus Watts",
+  "name_abbreviation": "Hardy v. Watts",
+  "decision_date": "1853",
+  "docket_number": "",
+  "first_page": "33",
+  "last_page": "35",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Pa. 33"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 388",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848511
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0388-01"
+      ]
+    },
+    {
+      "cite": "1 Pa. Rep. 149",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 334",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 294",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682317
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/46/0294-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 367,
+    "char_count": 7618,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.015329272092697296
+    },
+    "sha256": "784a82b6a319bad1bcf56b25d2f123ccfef9a21d32c72a87d3a2d9fd7af02e31",
+    "simhash": "1:edeffca0c85b0cec",
+    "word_count": 1347
+  },
+  "last_updated": "2024-02-27T20:47:09.354529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hardy versus Watts."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, September 22, by\nLewis, J.\nThis is a case stated in an action of debt upon what is alleged to be a recognisance of bail on appeal. It is stated, as part of the case, that \u201c the only question raised here is, whether the recognisance or obligation above stated is sufficient to hold the defendant liable.\u201d On this case, thus stated, no question can be raised in regard to the form of the action, or the variance between the proof and allegation. Questions of that kind have generally so little to do with the merits, that we have repeatedly decided, in several recent cases, that a variance between the allegations and the evidence cannot be taken notice of here under a general instruction that the plaintiff is, or is not, entitled to recover. To enable a party to raise the question of variance he must make the point specifically in the court below. So that, if the defendant is liable on the instrument set forth in the declaration, it is not material now whether it be called a \u201crecognisance\u201d or an \u201c obligation.\u201d A liability in either form, seems distinctly to be contemplated in the case stated, as sufficient to entitle the plaintiff to judgment.\nBut we think, under the circumstances of the case, that the instrument is good as a recognisance. It is a debt acknowledged of record. It was taken by a magistrate of competent jurisdiction in the regular course of judicial proceedings before him. The defendant acknowledges himself to be absolutely bound as bail, and then states the condition in substantial compliance with the terms of the law. He has, by entering into this obligation, secured for the defendant in the original proceeding, the advantages of a trial on an appeal. He has succeeded in putting the plaintiff to the expense of a second trial to establish his right, and has delayed him in obtaining what is justly his due. After all this, it would be grossly unjust to permit him to avoid his own engagement upon record, by the technical objection that no penal sum was stated in the instrument. This defect is one of mere form, in a recognisance taken on an appeal. The condition specifies the measure of liability, and in this case it contains everything required by the statute. Judgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Rogers and Loomis, for plaintiff in error.",
+      "Stowe, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hardy versus Watts.\n1. In a proceeding by a landlord against a tenant under the Act of 3d April, 1830, on account of non-payment of rent, and a decision by two aldermen against the tenant, to obtain an appeal an obligation by a surety was entered into as follows: \u201c I become bail absolute in this case, conditioned for the payment of all costs that has accrued, and all the costs that may accrue, in case that the said judgment be affirmed; and also for all rent that has accrued, and may accrue up to the time of final judgment.\u201d Held, that in order to raise a question of variance between the allegations and evidence, the point must be made in the Court below; and none such having been made in the case stated, it was not material whether the instrument in question were called a recognisance or an obligation. A liability in either way is sufficient under the case stated.\n2. The instrument in question was, however, good as a recognisance, it containing every requisite of the statute.\nError to the District Court of Allegheny county.\nThis was an action of debt by Spencer Watts v. Aaron A. Hardy, on a recognisance entered into by the defendant before an aider-man, where an appeal was taken by Sarah Jourdon, in a proceeding against her as tenant, for failing to pay rent.\nIn the narr. it was alleged that Watts, having leased a certain house, &c., to Sarah Jourdon, the rent of which she neglected and refused to pay, on the 23d November, 1850, brought \u201c his suit or action at law to recover the possession of the said demised premises, \u2018 according to the Act of Assembly,\u2019 and that there was rent in arrear, and unpaid, &c.; that on complaint to an aider-man he entered judgment against her; and that she delivered up possession, &e. It was averred that the defendant became liable, according to the form and effect of his said recognisance of bail,\u201d &c.\nThe plea was, that the defendant was not indebted in manner and form as in the declaration alleged ; and payment with leave, &c.\nIn the Act of 3d April, 1830, relative to landlord and tenant, it is provided, in the ease of a proceeding against a tenant in case of non-payment of rent, \u201c That no writ of possession shall be issued by the said aldermen or justices for five days after the rendition of judgmentand if within the said five days the tenant shall give good, sufficient, and absolute security by recognisance for all costs that may have and may accrue, in case the judgment shall be affirmed, and also for all rent that has accrued or may accrue up to the time of final judgment, then the tenant shall be entitled to an appeal to the next Court of Common Pleas,\u201d &c.\nA ease was stated as follows:\nThe following are the facts agreed upon by the parties in this case; and upon which, if the court is of opinion the plaintiff can recover, judgment is to be entered in his favor for $292.13, with costs ; but if not, then judgment for defendant for costs.\nAn action was brought by Spencer Watts, the plaintiff here, against a certain Sarah Jourdon, his tenant, to recover possession of the premises leased to her by said Watts, under the Act of 3d April, A. D. 1830, relative to landlord and tenant, before two aldermen, in which proceeding the said Watts obtained judgment \u201c that he have possession.\u201d\nWhereupon the said Jourdon appealed to the Court of Common Pleas of Allegheny county, and the following recognisance of bail was taken by the alderman for said appeal:\n\u201c I become bail absolute in this case, conditioned for the payment of all costs that has accrued, and all the costs that may accrue, in case that the said judgment be affirmed ; and also for all rent that has accrued, and may accrue up to the time of final judgment.\u201d Signed, \u201c A. A. Hardy.\u201d\nWhereupon the proceedings were removed to the Court of Common Pleas. The ease was tried upon the appeal in said Court, in No. 220, December Term, 1850, and the judgment of the aldermen affirmed. Prout record. And now this suit is brought upon the said obligation, to recover $292.13, the rent and costs as aforesaid.\nThe only question raised here, is whether the recognisance or obligation above stated, is sufficient to hold the defendant liable.\nThe Court to enter judgment in favor of the party entitled thereto, upon the facts hereinbefore stated, with leave to either party to take out a writ of error.\nOn the 2d day of July, 1853, the Court ordered judgment to be entered in favor of the plaintiff below, on the case stated, for $292.13, with costs of suit.\nSuch judgment was assigned for error.\nRogers and Loomis, for plaintiff in error.\nIt was contended that the undertaking of defendant imposed no legal liability on him; that it contained neither a penalty or condition, and that both were necessary: 1 Jones 294, Caldwell v. Brindle.\nStowe, for defendant in error.\nThe statute does not require that any sum be specified. Where the entry by the justice substantially sets out the obligation required by law, it is sufficient: 5 Watts 334; 1 Pa. Rep. 149; 1 W. & Ser. 101, Bank of Pennsylvania v. Reed; 9 W. & Ser. 142. The obligation, if not a recognisance, would be good at common law as a promise: 8 Watts 388. The plaintiff acquiesced in the appeal, and was put to trouble and expense. No complaint was made as to fraud, mistake, or misunderstanding on part of Hardy, but the defence was on technical grounds."
+  },
+  "file_name": "0033-01",
+  "first_page_order": 35,
+  "last_page_order": 37
+}

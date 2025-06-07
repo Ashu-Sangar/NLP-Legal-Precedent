@@ -1,0 +1,110 @@
+{
+  "id": 953522,
+  "name": "Strickler v. Sheaffer",
+  "name_abbreviation": "Strickler v. Sheaffer",
+  "decision_date": "1847-05-15",
+  "docket_number": "",
+  "first_page": "240",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts & Serg. 453",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts & Serg. 348",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483295
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0348-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 14",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0014-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 19",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850003
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/9/0019-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 343,
+    "char_count": 4716,
+    "ocr_confidence": 0.408,
+    "pagerank": {
+      "raw": 1.0418759645205297e-07,
+      "percentile": 0.5511213202005213
+    },
+    "sha256": "445acdb2bcd014241bfc1fdf55668e864456ef2fa4cc9ec4eb7fc8db3298dd30",
+    "simhash": "1:0e971b51933252ae",
+    "word_count": 852
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Strickler v. Sheaffer."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThis is an amicable action, as'it would appear, although not so stated on the paper-book, in the District Court, and a case stated to -recover a legacy charged upon and payable out of land. In the case of Craven v. Bleakney, 9 Watts, 19; and by the ease of Downer v. Downer, same book, page 60, it was ruled by this court, that the Orphan\u2019s Court had exclusive jurisdiction in such eases, under the act of 24th Feb. 1834, sec. 59. After the decision of these causes, in the region of my experience and practice, the law was considered fully settled; and in the tenth district, Judge White, remarkable as an able and clear-minded judge, nonsuited many plaintiffs who proceeded in the old form, and turned them over to the Orphan\u2019s Court. Such is the tenacity, however, of customs and forms, in their hold upon the mind, that the old practice still lingered and lingers in some parts of the state. In Reed v. Reed, to May Term, 1845, in this district, the same point was distinctly decided, that being the only point in the cause. \u25a0The case was not reported, and only accidentally retrieved from oblivion, after the argument of the case at bar. I was fortunate enough to obtain a copy of the opinion from his> honour, Judge Hepburn, of the ninth district. The opinion in the two former cases was delivered by Mr. Justice, Rogers, and in the latter case, per curiam, which is understood to mean the Chief Justice; and in order to give the momentum of his authority towards the final settlement of this question, it will be reported with this case. The reasons for these judgments are given in the two former cases, more at large, and briefly in the latter. It is unnecessary for me to add any thing, except, that so far as regards the suitableness and convenience of the modes and forms of the Orphan\u2019s Court, to adapt themselves to all the exigencies of such cases, the reasons given by the court are in harmony with those given by the commissioners to revise the statutes, in their report to the legislature, on engrafting this new feature on the revised act; and may safely be considered as having been within the mind of the legislature when the clause was enacted.\nJudgment reversed.\nReed v. Reed.\nError to the District Court of Mifflin county.\nPer. CuRtAir__The statute which gives an action for a legacy against an executor holding assets in his hands, does not extend to an action against a devisee of land for a legacy payable out of it. The common law remedy in that case was sustained, not on the statute-, but on the ground of necessity, as a substitute for a bill in equity, and to prevent a failure of justice. But now the Orphan\u2019s Court has jurisdiction in all cases of legacy, by force of the 59th section of the act of 1834, and the common law action previously in force, as a remedy for a case like the present, is consequently prohibited by the act of 1806. The present remedy is a petition to the Orphan\u2019s Court, in the nature of .a bill in equity, to raise the legacy out of the land, and by that means com p\u00edete justice may be done.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Franklin and Frazer, for plaintiff in error,",
+      "N. Ellmaker and Long, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Strickler v. Sheaffer.\nThe remedy to recover a testamentary charge on land is exclusively in the Orphan\u2019s Court since the act of 1834.\nIn error from the District Court of Lancaster.\nMay 15.\nHiestand, by his will, bequeathed to his wife a sum of money, \u201c rvhich shall remain in this property situate, &c., of which she shall receive the interest, payable quarterly.\u201d He then devised the land at a valuation, part of which charge was given to the devisee,. part constituted the charge in favour of the widow, other portions were given to testator\u2019s children,.and made payable out of the land, and a part was not disposed of. The widow having died, the question submitted to the court was, the right of a grandchild whose parent had died before the testator, to recover her share of the charge in favour of the widow, and of that part of the charge which was undisposed of. -\nThe court (Hayes, P. J.) gave judgment for the plaintiff.\nFranklin and Frazer, for plaintiff in error,\ncited 3 Wood. Lec. 524; Garret v. Rex, 6 Watts, 14; Duffield v. Morris, 8 Watts & Serg. 348.\nN. Ellmaker and Long, contra,\nargued that there was here a charge on the real estate in favour of the testator\u2019s representatives generally; the principal of the widow\u2019s annuity, after her decease, with a part of the charge, being wholly undisposed of, while the intention was plain, that these were not to merge for the benefit of the devisee of the land, since she took at a valuation. The fact that part of the charge was given to her was conclusive against the lapse of the residue for her benefit; 2 Rop. on Leg. 333; 8 Watts & Serg. 348; 2 Watts & Serg. 453."
+  },
+  "file_name": "0240-01",
+  "first_page_order": 240,
+  "last_page_order": 242
+}

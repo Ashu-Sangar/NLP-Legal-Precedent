@@ -1,0 +1,115 @@
+{
+  "id": 996361,
+  "name": "Smith versus Smith",
+  "name_abbreviation": "Smith v. Smith",
+  "decision_date": "1861-06-05",
+  "docket_number": "",
+  "first_page": "441",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 Pa. 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 364",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478581
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0364-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 303",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829020
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0303-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 90",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 364",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0364-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 393,
+    "char_count": 6863,
+    "ocr_confidence": 0.451,
+    "pagerank": {
+      "raw": 5.6381898091197254e-08,
+      "percentile": 0.3521732348102148
+    },
+    "sha256": "be6349cd592a336dcac6c2da921692acb30ec5df1b489cbf5c91794146756938",
+    "simhash": "1:9769c5f3a01769ff",
+    "word_count": 1231
+  },
+  "last_updated": "2024-02-27T22:43:51.432409+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith versus Smith."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion, of the court was delivered,\nby Thompson, J.\nThere is perhaps no more prolific subject of dispute than the question presented in this record, namely, what facts and circumstances, short of proof of guilt, may be given in evidence in slander, under the plea of \u201cnot guilty,\u201d to mitigate damages by a negation of the degree of malice which the law would imply in speaking slanderous words. That such evidence may be given, there are numerous cases to prove; but the boundary line between the admissibility and inadmissibility of such testimony, in many cases, is often difficult to discern. I know of but one safe rule on the subject, but as that rests in opinion also, the question whether it has properly been followed, is also a continually recurring subject of dispute: that is, does the proposed testimony tend to prove the truth of the charge ? If so, it is not evidence: Minnesinger v. Kerr, 9 Barr 313; Petrie v. Rose, 5 W. & S. 364; Updegrove v. Zimmerman, 1 Harris 619; Chubb v. Gsell, 10 Casey 114. It is true, there is still another rule, neither so safe, nor so easily administered, but which has a place in this subject: and that is, the reception of evidence of facts and circumstances which would, in the mind of a prudent man, justly awaken suspicions of guilt of-the crime imputed. But this is necessarily subordinate to the first rule. It must not be of such a character as tends to prove the truth of the charge. As its purpose is only to mitigate the legal imputation of malice, on the ground of misapprehension as to the character of the acts out of which an imputation of guilt may have been made, and consequently the damages, it must not tend at the same time to prove that there was no misapprehension. It must be of one aspect, and wear but one face. Did the evidence offered come within these rules? Vfe think not \u2014 nor did the defendant \u2014 for, failing to obtain the advantage of an attack under a masked battery, he openly avowed, by a plea of justification, that the facts offered to be proved justified him in charging the plaintiff with theft. Without stopping to inquire in what position the defendant placed himself by getting the rejected evidence in under the plea of justification, and whether that did not waive tbe error, if there was any, we think clearly that the tendency of the testimony was to establish the guilt of the plaintiff. It was in substance, that he had taken a portion of his brother\u2019s tobacco, knowing it to be his, and which had been divided off, and, in the absence of his brother, mixed it with his own, and removed it to his cellar without any avowal or acknowledgment that he had done so. It was a material step towards proof of the truth of the charge so boldly and confidently made, and being so, nothing but a plea of justification would sanction the admission of the testimony. This was necessary to give the plaintiff full notice of what he was to meet; and that he was willing to meet it on the spot, does not weaken the rule which entitles him to have that notice. He might not be prepared; for the issue is very different from that presented by the plea of \u201cnot guilty,\u201d and he might be entitled to a continuance to make ready if he desired to do so. Here he did meet it, and succeeded. On the ground assumed by the plaintiff in error, namely, that it was error in not allowing the evidence under his first plea, although he after-wards gave it under a different plea, we think the court was entirely accurate in their ruling, and their judgment must be\nAffirmed.",
+        "type": "majority",
+        "author": "by Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "A. Herr Smith, for defendant in error,",
+      "Isaac H. Hiester, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Smith versus Smith.\nSlander. \u2014 Evidence in Mitigation of Damages under Plea of Not Guilty.\n1. In an action of slander, facts and circumstances may be given in evidence, under the plea of \u201c Not guilty,\u201d to mitigate damages, by a negation of the degree of malice which the law implies, if the proposed testimony does not tend to prove the truth of the charge, or is not such as would, in the mind of a prudent man, justly awaken suspicions of guilt of the crime imputed.\n2. The purpose of the testimony is to mitigate the legal imputation of malice, on the ground of misapprehension, as to the character of the acts out of which the imputation of guilt was made, and consequently the damages. It must not tend, at the same time, to prove the truth of the charge, and hence, that there was no misapprehension.\n3. Where the defendant, in an action of slander, failing to procure, under the plea of \u201cNot guilty,\u201d the admission of testimony on the trial, tending to prove the plaintiff guilty of the charge of theft which he had made against him, openly avowed by a plea of justification, that the facts offered to be proved justified the charge, and a verdict was found by the jury for the plaintiff, the refusal of the court to admit the testimony under the plea of \u201c.Not guilty,\u201d is not error, and no cause for the reversal of the judgment.\nError to tbe Common Pleas of Lancaster county.\nThis was an action on the case for defamation, brought March 19th 1860, by Abraham Smith against Frederick Smith. The slanderous words laid in the plaintiff\u2019s declaration were, \u201cYon stole tobacco, and I can prove it by two witnesses.\u201d The plea was, Not guilty.\nOn the trial, after the plaintiff had closed his case, the defendant offered to prove by Levi Shaffer, that he was employed by Abraham Smith, who was farming his brother Jacob\u2019s tobacco\u2014 that he divided the tobacco, and in taking it down from the rafter where it hung, a portion of Jacob\u2019s tobacco, by Abraham\u2019s direction, was taken into the cellar and put in among Abraham\u2019s tobacco \u2014 that the witness remarked, it was a shame that Abraham would abuse his brother in this way in the division of the tobacco, that these facts were communicated by witness to defendant, Frederick Smith, which offer was made not for the purpose of proving that the plaintiff was guilty of larceny, but in mitigation of damages.\nThis was objected to by plaintiff and rejected by the court, under exception.\nThe defendant then, by leave of the court, added the plea of justification, after which the witness was allowed to proceed.\nThere was a verdict and judgment in favour of plaintiff, whereupon the defendant sued out this writ, and assigned as cause for reversal here, that the court below erred in rejecting the testimony of Levi Shaffer, when offered under the pica of not guilty.\nJune 5th 1861,\nA. Herr Smith, for defendant in error,\ncited and relied on Kennedy v. Gregory, 1 Binn. 90; Minnesinger v. Kerr, 9 Barr 314; Hartranft v. Hesser, 10 Casey 116.\nIsaac H. Hiester, for defendant in error,\ncited Krider v. Lafferty, 1 Whart. 303; Wertz v. May, 9 Harris 274; Elliott v. Boyles, 7 Casey 65; Gorman v. Sutton, 8 Id. 247; Walthour v. Spangler, 7 Id. 523; Petrie v. Rose, 5 W. & S. 364; Chapman v. Calder, 2 Harris 367; Barger v. Barger, 6 Id. 489; Updegrove v. Zimmerman, 1 Id. 619."
+  },
+  "file_name": "0441-01",
+  "first_page_order": 441,
+  "last_page_order": 443
+}

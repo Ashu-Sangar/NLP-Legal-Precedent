@@ -1,0 +1,97 @@
+{
+  "id": 992219,
+  "name": "Faull et al. versus Tinsman",
+  "name_abbreviation": "Faull v. Tinsman",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "108",
+  "last_page": "111",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dallas 23",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Smith 90",
+      "category": "reporters:state",
+      "reporter": "Smith & H.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Johns. Ch. 441",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1178214
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-ch/2/0441-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 544,
+    "char_count": 8643,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 1.636537812786255e-07,
+      "percentile": 0.6903890921825945
+    },
+    "sha256": "4093de291b4236927288db149147f4ce86506f6d37a3e545f509a3a8405be524",
+    "simhash": "1:082a67fc4ebdaef1",
+    "word_count": 1556
+  },
+  "last_updated": "2024-02-27T22:20:12.272922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Faull et al. versus Tinsman."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRead, J.\nA chose in action is not assignable at law, but is in equity. A suit, therefore, at common law, must be in the name of the assignor, although prosecuted for the use and benefit of the assignee. The effect of this rule is, that the assignee takes the chose in action, subject to all the equities existing between the original parties, and stands in exactly the same position to the debtor, that the original creditors and assignors did at the time of the transfer. He can rise no higher than this, if there has been no communication between him and the debtors.\nThe rule, therefore, under these circumstances, is the. same, both in law and equity, and it is most fully explained by Lord St. Leonards, in Mangles v. Dixon, 3 House of Lords Cases 703. \u201cIf there is one rule,\u201d says he, (page 731,) \u201c more perfectly established in a court of equity than another, it is, that whoever takes an assignment of a chose in action, (which this charter-party was, for it is not assignable at law, although it is in equity,) takes it, subject to all the equities of the person who made the assignment. No barrister would presume to deny in any court of equity, that, at the time that assignment was taken, and down to the time when the notice was given, during all these months, the bankers took precisely the same interest, and were subject to the same liabilities, namely, to No. 2 and No. 3, as were the Messrs. Boyds themselves.\u201d \u201c The authorities upon this subject, as to liabilities, show, that if a man does take an assignment of a chose in action, he must take his chance as to the exact position in which the party giving it stands:\u201d Id. 735; and Lord St. Leonards then proceeds to examine and discuss the cases of Cator v. Burke, 1 Bro. Chan. Cas. 434; Turton v. Benson, 1 P. Wms. 496; 2 Vernon 764; Matthews v. Wallwyn, 4 Ves. 118; and Chambers v. Goldwin, 9 Ves. 264.\nThe same doctrine is distinctly recognised in The Official Manager of The Life Insurance Society v. Pooly, 5 Jurist, N. S. 129, by the Lords Justices,affirming a decision of V. C. Stuart, reported 4 Jurist, N. S. 371. Lord Justice Knight Bruce says, (p. 131): \u201cUnfortunately, however, he has bought what the English law calls a chose in action; and it is too clearly settled to admit of question or argument, that a person buying a chose in action, which can only be put in suit in the name of the original holder, from whom he buys, must abide the case of the person from whom he buys, in whose name it must be put in suit at law.\u201d Upon the question whether the assignees of the debentures which had been fraudulently issued, was in a better condition than the assignor, Lord Justice Turner said, (p. 133): \u201c Primd facie, he certainly cannot be so, because I take no principle to be better settled, than the ordinary principle of this court, that the assignee of a chose in action must take subject to all the equities which affect the assignor. Mr. Craig has attempted to draw a distinction between those cases, and says that it depends, in a court of equity, upon the question, whether inquiry has' been, or ought to have been made or not. I cannot find any authority in which any such principle has been laid down.\u201d Chancellor Kent laid down the same doctrine, in the most explicit terms, in the well-considered cases of Murray v. Lylburn, 2 Johns. Ch. 441, and Livingston v. Dean, Id. 479.\nThe Act of the 28th of May 1715, 1 Smith 90, applies only to such instruments as can be assigned so as to allow the assignee to sue in his own name, and all such assignments of bonds and specialties must be under hand and seal, before two or more credible witnesses. This was so in the earliest case of Wheeler, assignee of Baynton, v. Hughes, 1 Dallas 23; and also in Davis, assignee of Morrison, v. Barr, 9 S. & R. 137. Frantz, for the use of Garberich, v. Brown, 1 Penn. R. 257, was not really governed by the act, for the assignment was only an equitable one, and the suit was necessarily brought in the name of the assignor, although Chief Justice Gibson seems to think it necessary to give a larger construction to the Act of 1715, than was adopted in Davis v. Barr. The Chief Justice there says: \u201c But the assignee is bound to take notice of everything, as well a secret trust, as want of consideration or set-off, which may affect the existence of the debt between the original parties, unless the obligor, after inquiry made, has withheld the requisite information. What would have been the answer to the proper inquiry here ? Certainly not, that the bonds were payable at all events, but that the obligee held them subject to an agreement\u201d (by parol), \u201c to indemnify the obligor for whatever he should be compelled to pay for the obligee.\u201d In Mott v. Clark, 9 Barr 404, Judge Rogers expressly approves the whole doctrine, as laid down by Chancellor Kent in the two cases already cited, and applied it to the case before him, excluding only the latent equity of a third person.\nIn the case before us, the note was not negotiable, and the assignment was only an equitable one, and tbe suit was in tbe name of the payee for the use of his assignee. The first question, therefore, was, what was the equity between the original parties, and if the payee could not recover against the maker, neither could the assignee, although he might have paid a valuable consideration for it. In this there is no hardship, for all that he had to do was to make inquiry of the maker before taking the assignment, and then he would have acted as Mr. Krepps did, refuse to buy it until he could see the Faulls, and if they were willing then he would take it.\nThe same defence that would have availed the maker, in a suit by the payee, was available in the present suit, brought by the assignee in the name of the payee; and the court, therefore, erred in not so charging the jury, and in not submitting the case to them in that aspect, with proper instructions, as to the parol contemporaneous agreement between the original parties.\nJudgment reversed,- and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "Sain\u00e9 and Veeeh, for the plaintiffs in error.",
+      "Sowells and Swings for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Faull et al. versus Tinsman.\nThe equitable assignee of a chose in action, takes it subject to all the equities existing between the original parties, unless he has made inquiry of the debtor, and the latter, by his conduct, has estopped himself from setting up the defence. The only effect of the Act of 28th May 1715, is to enable the assignee to sue in his own name.\nError to the Common. Pleas of Fayette county.\nThis was-an action of assumpsit by Samuel Tinsman, for the use of Isaac Bailey, against Thomas Eaull, Sr., Thomas Eaull, Jr., and William L. Eaull, upon a promissory note of which the following is a copy:\u2014\n\u201c $700. Bridgeport, April 17, 1856.\n\u201c Twelve months after date, we, or either of us, promise to pay to Samuel Tinsman, the sum of seven hundred dollars, for value received, less fifty-five dollars, in the event that the said Tinsman fails to deliver a certain fan attached to Reading\u2019s Patent Corn Sheller, within one month from date, as sold to us and John S. Krepps.\n\u201c Thos. Eaull, Sr.\n\u201c Thos. Eaull, Jr..\n\u201c Wm. L. Eaull.\nEndorsed \u2014 \u201c Brownsville, June 26th 1856. Eor value received, I assign the within note to Isaac Bailey.\n\u201c Samuel Tinsman.\n\u201cAttest \u2014 Geo. Morrison.\u201d\nThe fan mentioned in the note was \u25a0 shown to have been delivered. There was no evidence of any inquiry having been made by the assignee, of the defendants, previously to his purchase of the note.\n, Payment was resisted by the defendants upon the ground of an alleged agreement by Tinsman, at the time the note was given, that they should .not be required to pay it, when due, unless they had then made the money out of the machine which was the consideration for it; that they were to have time to pay, until they could make the money out of sales; and that, after large expenditures and diligent efforts, they could not sell the machine at all p for many reasons, but chiefly because of its requiring too much power to run, and its not being adapted to the wants and business of the territory sold.\nThe court below charged the jury, inter alia, that this defence was not available as against Bailey, \u201c a purchaser for a valuable consideration; that the agreement was inconsistent with the legal import of the instrument, and the assignee had nothing to do with it:\u201d 9 3. \u2021 B. 141:\nTo this instruction the defendants excepted; and a verdict and judgment having been rendered for the plaintiff, they removed the cause to this court, and here assigned the same for error. \u25a0\nSain\u00e9 and Veeeh, for the plaintiffs in error.\nSowells and Swings for the defendant in error."
+  },
+  "file_name": "0108-01",
+  "first_page_order": 108,
+  "last_page_order": 111
+}

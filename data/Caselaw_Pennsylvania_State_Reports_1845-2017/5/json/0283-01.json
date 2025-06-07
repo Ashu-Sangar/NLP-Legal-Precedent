@@ -1,0 +1,111 @@
+{
+  "id": 953598,
+  "name": "Lewistown (Overseers of Poor) v. Granville (Overseers.)",
+  "name_abbreviation": "Lewistown v. Granville",
+  "decision_date": "1847-06-07",
+  "docket_number": "",
+  "first_page": "283",
+  "last_page": "285",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 283"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Doug. 300",
+      "category": "reporters:state",
+      "reporter": "Doug.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts, 432",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848460
+      ],
+      "weight": 4,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0432-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 43",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840120
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0043-01"
+      ]
+    },
+    {
+      "cite": "5 Whart. 430",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8878425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/5/0430-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 369,
+    "char_count": 5743,
+    "ocr_confidence": 0.378,
+    "pagerank": {
+      "raw": 1.2690247183896546e-07,
+      "percentile": 0.6142682449826226
+    },
+    "sha256": "8a2865f92a06b0b78dd8358fe2e8d23a257a65c4c8b58637bbbb7bd9a385fb4b",
+    "simhash": "1:e581c07113fad13c",
+    "word_count": 1067
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lewistown (Overseers of Poor) v. Granville (Overseers.)"
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe fifth provision of the 9th section of the act relating to the support and employment of the poor, (Dunlop, 632,) provides that a settlement shall be gained \u201c by any unmarried person not having a child, who shall be lawfully bound or hired as a servant within such district, and shall continue in such service, as a servant, during one whole year.\u201d\nThis part of our poor law is substantially the same as the English enactment, 3 W. & M. c. 11, \u00a7 7, (3 Burn\u2019s Just. 12th ed. 344.) In England, with respect to the hiring in conformity to the nature and object of the act, the courts have been critical and exact, (Ibid. 349.) They hold that a person who was hired for half a year, and after that was again hired for another half year, did not gain a settlement; 2 Salk. 535. It must be an entire contract; thus where a person was hired from May-day to Lady-day, and from Lady-day to Mayday, and so on again in like manner, he was held not to have gained a settlement. The hiring must be for a year; Foley, 141; 3 Burn\u2019s Just. 347. But we are more liberal in our construction of the statute, and hold it is not necessary that there should have been a contract for service for a year to gain a settlement; but if there has been a service for a year under one or more contracts, it is sufficient; Heidleberg v. Lynn, 5 Whart. 430. But there must be an agreement of hiring in Pennsylvania; and was there such a contract here ? The counsel of the appellants rely on the evidence of Margaret Shrimp. She swore: \u201clam acquainted with Nancy Coffman. She lived with us, I can\u2019t tell how long ago. I suppose about eighteen or nineteen years. She came from the Widow Lyon to our house to live. We then lived on Lyon\u2019s farm in Drury township (now Granville). She came to us some time before the first of April, and lived with us until the next year in June. When she came, she came from Mrs. Lyon. We were afraid to take her lest we might offend Mrs. Lyon. We asked, and Mrs.. Lyon said we might take her, she did not want her, and she should not come back. We took Tier, but made no bargain. She was not hired. Nothing was said about how long she was to stay, nor as\u2019 to what she was to have. We never paid her any thing but her victuals and clothes; never gave her any money. She did the work she was ordered to do. We considered her boarding and clothing a sufficient pay for her wages.\u201d\nOn being cross-examined she says: \u201c She always did the work she was ordered to do. We considered her boarding and clothing a sufficient pay for her wages. She lived with us between fourteen and fifteen months. I suppose her clothing was worth twenty-five cents per week while she was with us.\u201d\n* In other places in the township where she got wages, she only remained for short periods. Was she lawfully hired as a servant at Shrimp\u2019s ? There was no contract; and it has been held that a hiring cannot be intended where no contract appears; 2 Bott\u2019s Poor Laws, 206, pi. 269. There must be a hiring, either absolute or conditional, for a year, and service for that period to give a settlement; Tetbury v. Ilam, 1 Wilson, 307. If there had been a service for a year under a contract for wages, we would hold it sufficient. But she came to Shrimp\u2019s, and they took her in without any contract or agreement of any kind; they gave her victuals and clothes, and she stayed as long as she pleased, and they gave her what victuals and clothes they pleased. This was no hiring within the meaning of the act of Assembly, and service alone, without hiring, will not gain a settlement. In Rex v. Weyhill, Burrow\u2019s Settlement Cases, No. 157, there was a service like this for six years, and no settlement was gained. Mere taking one in charity will not gain a settlement, and the evidence of Mrs. Shrimp relied on proves nothing more. The borough of Lewistown is bound to keep her until they can find some other place of settlement.\nJudgment of Sessions affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Parker, for appellant.",
+      "R. C. Hale, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Lewistown (Overseers of Poor) v. Granville (Overseers.)\nUnder sec. 9, art. 5 of the Poor Laws, (act 1836,) an unmarried woman not having a child will not gain a settlement by service without a hiring under a contract, express or implied.\nAppeal from tlie Quarter Sessions of Mifflin.\nMay 24. Nancy Coffman,-a single woman without a child, having become a charge on the borough of Lewistown, was removed, under an order of two justices to Granville township. From this order there was an appeal to the Quarter Sessions. . The evidence was, that many years ago the pauper had lived in the family of Shrimp in Granville, for upwards of fourteen months, where she did the work she was ordered to do, and received her food and clothing, but no wages; nor was there any bargain made as to the time she was to stay or what she was to receive. It was proved that she had lived in two other families at wages, but for a few weeks only.\nThe evidence as to her position in Shrimp\u2019s family, will be found at length in the opinion of the court here.\nThe court having quashed the order of removal, this appeal was taken.\nJune 7.\nParker, for appellant.\nA contract for hiring need not be express, but may be implied; and service implies a contract. Dunlop\u2019s Dig. 632; 2 Watts 43; 8 Watts, 432.\nR. C. Hale, contra.\nA hiring may be gained by service ; but it must be under a contract, express or implied; 2 Watts, 43, 8 Watts, 432. Though the construction of the statute has been in many respects favourable as to the service, yet it has been more strict as to the hiring; Burr. Settlement Cases, 440 ; Ibid. Rex v. Berwick St. John, No. 160, p. 502; Ibid. Rex v. Inhabitants of Weyhill, No. 157, 491; 3 Burn\u2019s Jus. 347, 354.\nA hiring cannot be intended where no contract appears ; 2 Bott\u2019s Poor Laws, 206, 4 Doug. 300."
+  },
+  "file_name": "0283-01",
+  "first_page_order": 283,
+  "last_page_order": 285
+}

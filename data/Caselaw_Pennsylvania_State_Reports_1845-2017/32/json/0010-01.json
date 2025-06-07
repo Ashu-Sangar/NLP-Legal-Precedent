@@ -1,0 +1,91 @@
+{
+  "id": 986809,
+  "name": "Shupe versus Galbraith",
+  "name_abbreviation": "Shupe v. Galbraith",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "10",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 Pa. 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 48",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0048-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 213",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841255
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0213-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 316,
+    "char_count": 5713,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 2.1191580501273362e-07,
+      "percentile": 0.7642472592031427
+    },
+    "sha256": "463bb5a082344f1718c0df2741ee12a97f6794f4d2535bc5f7aa67dd7c9e1c8f",
+    "simhash": "1:be62f4918f7a91b8",
+    "word_count": 971
+  },
+  "last_updated": "2024-02-27T20:05:07.474243+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shupe versus Galbraith."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J. \u2014\nWe have not the narr. in this case on our paper-books ; but, from the charge of the court, and the first assignment of error, it appears that it eventually turned upon the question of whether there was a contract for forbearance, and whether that contract was sufficiently proved to entitle the plaintiff to recover. In this aspect of the case, the learned judge of the Common Pleas charged, that, \u201c if it was an agreement to forbear, it was necessary that the plaintiff should agree to it, and that the agreement be communicated to the defendant. This was not done, and upon the whole ease the court think the plaintiff is not entitled to recover.\u201d This is the material assignment of error in this case.\nIt appeared in evidence, that the justice, before whom the judgment had been obtained by the plaintiff against Clifford, the principal, informed the son of the latter, who was doing business for his father, that as the twenty days were about out, execution would issue against his father. That he, with the son, walked over to the house of the defendant, who lived near by, and on stating the matter to him, and that execution would issue unless bail was put in for a stay, the defendant agreed to become bail, which the justice afterwards entered on his docket without the presence of the defendant. . It also appeared in testimony, by the constable, that he afterwards told the plaintiff that defendant had gone bail, and that he thought it was good, to which the plaintiff replied \u201c that he thought so too,\u201d and let it rest. The recognisance thus entered, being void as a recognisance, the plaintiff sought to hold the defendant answerable as .upon, an agreement for forbearance, during the period for which the stay would have continued if regularly taken.\nIt is well settled, that actual forbearance is not enough. It must be in pursuance of a mutual agreement, the consideration being promise for promise. Consequently, to make it effective, both parties must be bound: 4 Barr 305. The evidence given of an agreement did not come up to this standard. \u2022 It amounted to no more than an assent that the bail was sufficient, and, in fact, a forbearance. But the forbearance was only optional on part of the plaintiff. Nothing that he said would have prevented him issuing execution the next day. And if he had'issued, the execution could not have been set aside on account of any obligation that rested on him not to proceed. This being so, he was in no sense bound, and consequently, there was no consideration for the promise of the defendant. That there must be an acceptance of the proposition to be answerable in consideration of forbearance, and a binding agreement to \u2022 forbear consequent thereupon, is settled in numerous cases in our books, amongst which may be cited Clark v. Russel, 3 Watts 213; Snyder v. Leibengood, 4 Barr 305, and Johnston v. Fessler, 7 Watts 48. We think, therefore, that the court were right in their instruction that it was necessary to be shown that the plaintiff agreed to forbear in consideration of the promise of the defendant, and that this was communicated to him.\nAs this ruling was conclusive of the case against the plaintiff, it is unnecessary to express any opinion upon the point whether the levy, under the circumstances of the case, was a satisfaction of the judgment or not.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Thompson, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "Cowan Marohand, for the plaintiff in error.",
+      "Foster and Laird!, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Shupe versus Galbraith.\nA promise to pay the debt of another, in consideration of forbearance, is not binding, unless accepted by the other party: there must be a mutual agreement, the consideration being promise for promise; to make it effective, both parties must be bound.\nError, to the Common Pleas of Westmoreland county.\nThis was an action of assumpsit, originally brought before a justice of the peace, by Peter Shupe against Samuel Galbraith, on a promise by the defendant to pay the amount of a judgment recovered against one John Clifford.\nOn the 17th October 1854, the plaintiff recovered a judgment against John Clifford, before a justice of the peace. O'n the 1st January 1855, the justice, being at Clifford\u2019s furnace, informed his manager that an execution would issue, unless the money was secured. The manager and the justice went to the shop of Samuel Galbraith, the defendant, who agreed, that if a stay of six months from the rendition of the judgment was granted to Clifford, he would go bail, and be responsible for the money. The justice agreed to this, and on his return home, entered upon his docket, that Samuel Galbraith had been offered and accepted as bail. He also communicated this agreement to the plaintiff, who declared he was satisfied, and that it might rest.\nAfter the expiration of the stay agreed upon, an execution was issued on the judgment, and $10 was made. An alias execution proved unavailable in consequence of other prior executions having been levied.\nThe court below (Buffington, P. J.) charged the jury that, if the contract was an agreement to forbear, it was necessary that the plaintiff should agree to it, and that agreement be communicated to the defendant. That this was not done, and therefore the plaintiff could not recover. The learned judge also instructed them, that the alias execution, if pressed, would have been, under the circumstances.of the case, entitled to the proceeds of Clifford\u2019s personal property, and therefore the levy was a satisfaction of the judgment.\nTo this charge the plaintiff excepted; and a verdict and judgment having been rendered for the defendant, the plaintiff sued out this writ, and here assigned such charge for error.\nCowan Marohand, for the plaintiff in error.\nFoster and Laird!, for the defendant in error."
+  },
+  "file_name": "0010-01",
+  "first_page_order": 10,
+  "last_page_order": 12
+}

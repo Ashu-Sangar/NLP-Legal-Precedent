@@ -1,0 +1,109 @@
+{
+  "id": 975819,
+  "name": "Clarke versus Porter",
+  "name_abbreviation": "Clarke v. Porter",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "141",
+  "last_page": "142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 How. 272",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        6138348
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/48/0272-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 13",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8680990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/46/0013-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 332",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682440
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/46/0332-01"
+      ]
+    },
+    {
+      "cite": "7 How. 273",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 249,
+    "char_count": 3901,
+    "ocr_confidence": 0.41,
+    "pagerank": {
+      "raw": 1.0401136531101776e-07,
+      "percentile": 0.5505019790729112
+    },
+    "sha256": "31851a83e78d6fc6b5d913eee88a7fadbb16340cca5f07286c29cfa8c92907bd",
+    "simhash": "1:f4e5c790973c37a3",
+    "word_count": 680
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clarke versus Porter."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, C. J.\nOn the 14th August, 1837, William Irvine held bonds against John Clarke, David Porter and others, the first of which was payable 14th August, 1838, the second 14th August, 1839, and the third 14th August, 1840. In an action brought by Irvine, Porter pleaded his discharge under the bankrupt law, and on the 14th November, 1843, a nolle prosequi was entered as to Porter, and judgment was afterwards confessed by the other defendants in the suit. In 1849, Clarke paid more than his proportion of the debt, and in 1850 brought this action for contribution. The question is, whether Porter\u2019s discharge, under the bankrupt law, is a defence. Notwithstanding the cases of Mc-Millen v. Bank of Penn Township, 2 Barr 348, and Cake v. Lewis, 8 Barr 493, ther\u00e9 is no room for doubt on the subject. By the 4th section of the Bankrupt Act, a discharge and certificate is a full and complete discharge of all debts provable under it; and, by the 5th section, all debts not due and payable until a future day, and all uncertain or contingent demands, are provable, to be allowed when they become absolute. Clarke had not paid the money at the time of the discharge, but he was liable to pay it, and he had therefore \u201ca contingent demand,\u201d which was provable, and from which Porter is therefore discharged. If authority be required for this construction of the Act of Congress, we have it in the case of Mace v. Wells, 7 How. 273, decided by the Supreme Court of the United States. As this is a question of ultimate federal cognisance, and no conflict of jurisdiction is involved, the decision of that Court is conclusive. Its authority on the point in question has been fully acquiesced in by this Court in the subsequent cases of Fulwood v. Bushfield, 2 Harris 90, and Stone v. Miller, 4 Harris 450.\n. Judgment amrmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Fetterman, for plaintiff. \u2014",
+      "Wilson, for defendant. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Clarke versus Porter.\nBy the 4th section of the Bankrupt Act, a discharge and certificate is a full and ample discharge of all' debts provable under it. And by the 5th section all debts due at a future day, and all uncertain and contingent demands, are provable.\nWhere the defendant in a joint obligation had been discharged under the bankrupt law, and pleaded his discharge in bar to the joint claim, which was sustained: and some years afterwards his co-obligor, the plaintiff, paid the joint obligation, and brought suit against defendant for contribution, to which he pleaded his discharge in bankruptcy: Seld, that the claim of contribution was contingent, and within the Act, and that the plea was good.\nError to the Common Pleas of Beaver county.\nClarke, Porter, Jones and others, purchased a lot and gave three bonds to Irvine, the vendor, for the purchase-money for $325.33 each, payable August 14th, 1838, \u201939, and \u201940. In 1843, suit was brought against the obligors, and\u2019 Porter pleaded his discharge under the Bankrupt Act, and a nolle prosequi was entered as to him by the plaintiff on the 4th June, 1844. The suit was twice tried, and ultimately compromised on the 16th November, 1847, by confessing judgment for $333.33; and several of the obligors having, in the mean time, become insolvent, Clarke paid, in 1849, $265.64 of the said judgment. And thi* suit was brought by him to recover contribution from Porter, as co-obligor. To which Porter put in the plea of non assumpsit, and discharge under the Bankrupt Act.\nFetterman, for plaintiff. \u2014\nClarke had no demand against Porter till he had paid the money, and this was after his discharge in bankruptcy, and therefore he could not come in and prove the debt: see Bankrupt Act, 1841, 5th section. See 2 Barr 345; Cake v. Lewis, 8 Barr 493; Gearhart v. Jordan, 1 Jones 332; Comfort v. Eisenbise, 1 Jones 13.\nWilson, for defendant. \u2014\nThe cases cited by plaintiff are overruled in Fulwood v. Bushfield, 2 Harris 90; Mace v. Wells, 7 How. 272; Stone v. Miller, 4 Harris 457."
+  },
+  "file_name": "0141-01",
+  "first_page_order": 141,
+  "last_page_order": 142
+}

@@ -1,0 +1,97 @@
+{
+  "id": 969105,
+  "name": "Berks County versus Pile",
+  "name_abbreviation": "Berks County v. Pile",
+  "decision_date": "1852-06-24",
+  "docket_number": "",
+  "first_page": "493",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 513",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 485",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846810
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0485-01"
+      ]
+    },
+    {
+      "cite": "3 Penn. Rep. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        400620
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/3/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 552,
+    "char_count": 11470,
+    "ocr_confidence": 0.434,
+    "pagerank": {
+      "raw": 8.438855864501499e-07,
+      "percentile": 0.9760692611808642
+    },
+    "sha256": "09e0d48b7ea53730ec2a6b2b0997809aa5b422020c81794ca74fb2e14bc9fd16",
+    "simhash": "1:8e41a7bfb418f5c9",
+    "word_count": 2056
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Berks County versus Pile."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nBlack, C. J.\nAn indictment for conspiracy was pending in the Quarter Sessions of Berks, on which a verdict of guilty had been rendered by a traverse jury, and a new trial granted by the Court. The prosecutor and the defendants agreed to settle if the county w'ould pay the costs. It is alleged that the Commissioners agreed to this, and a nolle prosequi was entered accordingly. The present action is against the county on the Commissioners\u2019 promise.\nAs the law stood previously to 1791, an innocent person acquitted of a crime could not be released from his recognisance or delivered from prison, until he paid the costs incurred by the prosecutor in his effort to maintain the false accusation. To remedy this injustice it was enacted {Dunlop 186), that in all cases where the bill was returned ignoramus, the costs should be paid out of the county stock. But this being found to encourage trifling, unfounded, and malicious prosecutions at the expense of the public, the Act of 1804 {Dunl. 231), was passed, which changed the whole system and made it what it now is. By this Act the county can be made liable for costs on an indictment for an offence below felony only in one of three ways. 1. By the finding of the grand jury that the county shall pay the costs when the bill is returned ignoramus ; 2. By a similar finding of the traverse jury when the defendant is acquitted upon trial; and 3. By the discharge according to law of a convict, who is sentenced to pay the costs and does not. The county is never chargeable with costs in any case which is not strictly and literally within one or the other of these categories (5 Ser. & R. 199; 3 Penn. Rep. 365; 7 Watts 485). It is not possible so to construe the statute as to make a nolle prosequi, whether with or without the consent of the Court, equivalent to a verdict against the county (12 Ser. & R. 94). By the common law the public pays no costs. As the liability is created by statute, it cannot be extended beyond the limit assigned to it by the legislature.\nIn the case of an acquittal, nothing but the verdict of a jury can bind the county for costs. All jurisdiction is withheld from every other functionary. The Commissioners have no more control of the question than the sheriff or prothonotary. The law has wisely left the decision to be made by a tribunal which hears the evidence and understands the justice of the case. To transfer it from the Courthouse to the Commissioners\u2019 office would be very impolitic. If it were so transferred, the parties, when they would tire of the strife or become frightened with the prospect, might unite their influence and easily induce a board of commissioners, ignorant both of the law and the facts, to impose on the county expenses which ought to be borne by those who created them. The Commissioners, in supposing that the interests of the county were not safe in the hands of a jury, were probably mistaken. It is not usual for juries to put costs on the county, except in a clear case of innocence on the part of the defendant, and proper motives on the part of the prosecutor. In such a case the public ought to bear the burden; and an interference by the Commissioners to prevent the jury from so deciding, would be both unjust and unauthorized. Besides, the nolle prosequi was no termination of the case. The indictment might be called up again at the will of either party, and thus the county be in as much danger as ever of a verdict against it. The county indeed could make nothing by such an arrangement. But even if it could, this was not a question of financial policy, but of public justice, with which nobody had a right to meddle but those to whom the law and the constitution had intrusted its administration. Such an agreement cannot be enforced for yet another reason. A nolle prosequi is expressly forbidden by the Act of 29th March, 1819 (Dunl. 347), in all but certain excepted cases, of which' conspiracy is not one. It was therefore a contract to pay the parties out of the public treasury for violating a positive statute, and turning the criminal law of the country aside from its due and proper course.\nThere are also objections to this record of another kind. Though it professes to be a case stated in the nature of a special verdict, the fundamental fact is not found. The evidence of the contract is furnished to us in a raw state, and so doubtful that what one party affirms to be proved by it, the other as stoutly denies. Perhaps a jury might infer an agreement from it, but a Court cannot. In a case stated, whatever is not distinctly and expressly agreed upon and set forth as admitted, must be taken not to exist. It is not even settled what judgment shall be given if the law is with the plaintiffs, nor is any rule or principle agreed upon by which the amount shall be liquidated. The case is therefore not only destitute of merits, but out of all technical shape.\nJudgment reversed and judgment in favor of the defendant below.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Young, for plaintiffs in error.",
+      "Richards, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Berks County versus Pile.\n1. The county is not liable for the costs of prosecution on an indictment for conspiracy, in which a nolle prosequi had been entered by the District Attorney with the permission of the Court.\n2. The County Commissioners in such a case have no right to bind the county by their agreement to pay the costs of prosecution, made before the nolle prosequi was entered.\n3. In a case stated in the nature of a special verdict, all the facts should be distinctly stated, and not left to inference; what is not so stated is to be taken as not existing. The judgment to be given for the plaintiff, if the law is with him, should be stated; and the amount of it, when requisite, or a mode by which it can be liquidated, should be stated.\nThis was an amicable action entered into between Henry Pile and others as plaintiffs, and the County of Berks defendant. A case was stated for the decision of the Court; the object of which was to have determined whether the county of Berks was liable to pay the witnesses on the part of the Commonwealth, in an indictment in the Court of Quarter Sessions of that county found at April Sessions 1850 against several persons for conspiracy, in which, after a verdict at same sessions of guilty, and a new trial granted on 12th April, a nolle prosequi was entered at November Sessions, 1850, by the district attorney with the permission of the Court.\nIn the case stated the indictment and proceedings were referred to, and the testimony of the counsel for the Commissioners was stated, in which he testified, that he informed the Commissioners that a proposition had been made that a nolle prosequi should be entered, and that defendants would pay their own witnesses, if they, the Commissioners, would agree that the county should pay the Commonwealth\u2019s witnesses; that the witness would advise them to settle: that the matter was left to his discretion, and that a nolle prosequi was entered.\nThe case stated concluded as follows: \u201cIf the Court be of opinion that the county of Berks should pay the witnesses for the prosecution, then judgment to be entered for the plaintiffs; but if not, then judgment for the defendants; the costs to follow the judgment, and either party to have the right to sue out a writ of error.\u201d\n20th August, 1851, Gordon, J., stating that the matter as to the payment of costs was submitted to the Commissioners by one of their solicitors, and was referred by them to him to act in the matter as their agent, and that he agreed to settle on the terms proposed: That the Court thought that it was competent for the Commissioners to make the arrangement, and that the plaintiffs were entitled to judgment for the amount of their legal fees, to be taxed by the clerk of the Quarter Sessions.\nThe taxation amounted to $243.54, made 20th August, 1851.\nA fi. fa. issued to November Term, 1851.\nErrors were assigned as follows: \u2014 1. There are no facts contained in the case stated, which amount to an agreement binding on the county to pay said costs. 2. The Commissioners had no power or authority to make a contract which would bind the county to pay said costs, and if such an agreement was made, it was void, because it was contrary to law and good policy. 3. The parties plaintiffs are not all placed upon the record; the facts are insufficiently stated, and the sum for which judgment was to be entered, is not set forth in the case stated, nor is there any mode set out by which it was to be liquidated and ascertained. 4. Judgment was entered for more than was due the witnesses for the prosecution. It embraces the costs on the indictment that was quashed, to wit, the sum of seventy-one dollars and ninety-one cents. 5. The Court erred in rendering judgment for the plaintiffs.\nYoung, for plaintiffs in error.\nThe reference of the matter to the discretion of the counsel did not authorize him to make an agreement in the name of the county, to pay the costs. The contracts of the county commissioners are binding on the county only, when made in relation to the legitimate business of the county: 4 Harris 461.\nThe alleged agreement was without consideration. The county had no interest in the prosecution, and the mere possibility of the costs being put on the county, was a contingency too remote and uncertain to be the subject of a contract by the Commissioners. The entry of a nolle prosequi did not prevent the preferment of another bill of indictment.\nAn agreement to stop the course of public justice, is illegal: 1 Comyn on Contracts 34; 5 East 294, Edgecomb v. Rodd; 2 Wilson 341.\nThe names of all the parties interested as witnesses should have been placed on the record, and facts stated, so that the Court might have been enabled to enter judgment for a sum certain. The case did not authorize the Court to enter judgment for any specified amount, nor was any mode pointed out by which to ascertain the amount.\nRichards, for defendants in error.\nThat the Commissioners had power to agree to pay the costs, he referred to the opinion of Yates, J., in the case of Irwin v. Commissioners, 1 Ser. & R. 509. The commissioners in this case did contract. The consideration was sufficient. There is nothing necessarily illegal in the settlement of a criminal prosecution. The question is, whether the settlement prevented the due course of justice. The cases cited go no further. This was not a private settlement, but a public transaction sanctioned by the attorney of the Commonwealth and by the Court, after a trial, and with a full knowledge of the circumstances.\nThe parties were witnesses in the prosecution, and the records furnish their names. The law prescribes their daily pay, and the mode by which it may be ascertained and liquidated. The bill on file stated the amount for which judgment was rendered. If an error be made in the amount, this Court, by the Act of 1836, has power to modify the judgment so as to do justice to the parties: 6 Ser. R. 18; 6 Watts 513; 5 Barr 221.\nThe proviso to the 1st section of the Act of 3d May, 1850, for the election of district attorneys, was referred to on the subject of entering a nolle prosequi. .The proviso, is: \u201c Said district attorney shall in no case whatever have authority to enter nolle prosequi in any criminal case, either before or after bill found, or to discharge a prisoner from custody, without first having obtained the approbation of the Court, in writing:\u201d Acts o/1850, p. 654.\nJune 24,"
+  },
+  "file_name": "0493-01",
+  "first_page_order": 493,
+  "last_page_order": 497
+}

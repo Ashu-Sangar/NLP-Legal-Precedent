@@ -1,0 +1,121 @@
+{
+  "id": 957894,
+  "name": "Brinker v. Brinker",
+  "name_abbreviation": "Brinker v. Brinker",
+  "decision_date": "1847-10-18",
+  "docket_number": "",
+  "first_page": "53",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts & Serg. 228",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856543
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0228-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 464",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846150
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0464-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 195",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850930
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0195-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 32",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1849959
+      ],
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0032-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 468,
+    "char_count": 8085,
+    "ocr_confidence": 0.385,
+    "pagerank": {
+      "raw": 5.581976556517199e-07,
+      "percentile": 0.9476249387512554
+    },
+    "sha256": "d52a4948bcbc08cb2b1c62922853478e7e292fcb9f29cfcdea072ca1696607b5",
+    "simhash": "1:147e22b1ffe6fbf2",
+    "word_count": 1441
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brinker v. Brinker."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nIn the course of the argument, the petition before us has been treated as a bill of discovery; but as the Common Pleas has no power to entertain such a bill, it is manifestly a petition in the Orphans\u2019 Court, not for a discovery, hut for an answer on oath. It has the general features of a bill; and the object for putting it into that shape was probably to compel the respondents to answer on oath touching the suppression of their father\u2019s will. But although the Orphans\u2019 Court has been called a court of equity, in respect to the few subjects within its jurisdiction, the ancillary powers of such a court have not been given to it. It is a special tribunal for specific cases; and its resemblance to a court of equity consists in its practice of proceeding by petition and answer containing the substance, but not the technical subtleties and nice distinctions of a bill in equity; by which, however, justice is obtained more conveniently and as certainly as in courts of equity, purely so called. As the Orphans\u2019 Court, therefore, has not the general powers of a court of equity, it cannot entertain a bill of discovery; but it can reject an answer to a petition.\nBut can it not execute the contract before us on proof derived aliunde?, As the agreement was to convey the estate by will, it cannot be executed to the very letter. The draftsman of the statute had the case of an ordinary bargain and sale in his eye; and though the case before us is not wfithin the letter, it is certainly within the equity and spirit of it; and as the statute is remedial and highly beneficial, it is to be largely expounded. The case stated in the petition, and confessed in the demurrer, is that of a contract by a father to devise a farm to a son, in consideration of maintenance and payment, by the devisee, of certain sums of money to his sisters and nieces; and had the legislature foreseen the occurrence of such a contract, the letter of the statute would doubtless have been enlarged to receive it; which is warrant enough for us to bring it within the spirit. What difference can it make, in reason or justice, whether the conveyance was to be by deed or will? The same good faith which requires it to be enforced in the one case, requires it to be enforced in the other, not in form, but in effect. It is true the complainant might hold the land, as in other cases, without a conveyance of the legal title, by producing proofs of the facts contained in his petition; but the want of it, should he desire to sell, would cast a doubt on the validity of his ownership, and be an,inconvenience that ought to be removed.\nThe statute of frauds interposes no bar to it; not, perhaps, for the supposed part execution of the contract \u2014 for the possession does not distinctly appear to have been changed in pursuance of it \u2014 but because the terms of it were put in writing in the father\u2019s will; and though the will itself is lost, the substance of the devise is proved: Cannel v. Buckle, 2 P. Wms. 243, in which an instrument designed as a deed, but made void by subsequent circumstances, was allowed to operate as a written agreement in order to satisfy the statute, is very like the present case. In that, a woman gave a bond to her affianced husband, with condition to convey her land to him in fee; and after the marriage and death of the parties it was enforced, as an agreement, by compelling the heir of the wife to convey to the heir of the husband: in this, a will of land, made in compliance with a parol contract to devise, has been lost or suppressed; and the devisee asks no more than a decree to compel those on whom the legal title has descended, to convey it to him; and thus do, in effect, what the devisor had contracted to do. As the will contained the conditions of the contract, the parties had done enough to satisfy the statute; and the accidental inability of the devisee to produce the paper must not be suffered to destroy his title.\nThe objection that there is no prayer in the petition for specific performance, is to be disregarded. The prayer is, that the \u201c bill may be answered according to the true meaning and substance thereof, without equivocation or evasion; and that the court may decree as equity shall enjoinwhich, in substance, is a prayer for general relief, and the most comprehensive that can be imagined. We would not, however, suffer any deficiency of the sort to prevail against the justice of the case, but give such relief, whether specifically prayed or not, as the facts set forth and proved might require. We therefore reverse the decree before us, and direct the Orphans\u2019 Court to entertain the petition, and permit the demurrant and other respondents to answer on oath, if they choose to do so; and to take the petition pro eonfesso, if they refuse; and to decree according to the equity apparent from the facts.\nSo decreed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Kuhns and Foster, for appellants.",
+      "Cowan, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Brinker v. Brinker.\nAn agreement to devise land is within the act authorizing the Orphans\u2019 Court to perfect contracts in writing for tire sale of lands made by decedents. The Common Pleas genei'ally have not chancery powers extending to such cases : and where such contract has been evidenced by a will made in pursuance thereof, which has been spoliated, the contents of the will may be proved and the agreement enforced.\nDecree reversed, and proceedings remitted in such case, with a procedendo.\nAppeal from Westmoreland county.\n' Oct. 15. This was a bill filed by Brinker, setting forth that he resided with his father upon a tract of land, and was about removing, when his father agreed that if he would remain, he would give him the land on certain conditions, viz.: the son should build a house, and farm the land, supply his parents with whatever they wanted, and pay certain sums to his sisters within ten years after the father\u2019s death. That he assented to the terms, and the father made a will accordingly. That complainant continued on the land, Iris parents residing there also, and made valuable improvements, treating the land as his own until his father\u2019s death. That the will had been deposited in a certain chest, but had .been removed, as the complainant alleged, by his brother. That complainant had paid part of the money stipulated for, and was willing to pay the residue. He therefore prayed a subpoena to the heirs and representatives of his father to answer the premises particula-rly in relation to the will and its embezzlement, and to show cause why the same should not be supplied by parol, and a title decreed to complainant, and \u201c that the court shall decree as equity shall enjoin and direct.\u201d\nEvidence of gowing witnesses was taken before a commissioner tending to prove the plaintiff\u2019s case. One of the defendants demurred, and another answered, admitting the contract and will. Whether the other defendants appeared, or what was the decree below, was not stated in the paper book; but it seems the court dismissed the bill on the demurrer.\nThe style of the court below was not mentioned in the bill, but in some of the other proceedings they are stated to have been in the Common Pleas, and the demurrer was entitled \u201cin chancery.\u201d\nKuhns and Foster, for appellants.\nThe bill sets forth a parol contract and possession in accordance with it; the case is therefore within the rule of Robertson v. Robertson, 9 Watts, 32, 41; Woods v. Farmare, 10 Watts, 195; Haslet v. Haslet, 6 Watts, 464; Sage v. McGuire, 4 Watts & Serg. 228. By the act of 1818, (Purd. 197,) jurisdiction is given to the Common Pleas, and the directions of that act have been complied with: Chess\u2019s Appeal, 4 Barr, 52. The act of 1834, vesting the same power in the Orphans\u2019 Court, does not repeal the former act, nor deprive the Common Pleas of jurisdiction: Sage v. McGuire, 4 Watts & Serg. 228; Hood on Executors, 324, 325; Chess\u2019s Appeal, 4 Barr, 52.\nCowan, contra.\nThe Common Pleas has not a general equity jurisdiction, and this particular class of cases is given to the Orphans\u2019 Court; and the statute plainly and clearly refers to cases of contract, while here there is a gift alleged.\nOct. 18."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 53,
+  "last_page_order": 56
+}

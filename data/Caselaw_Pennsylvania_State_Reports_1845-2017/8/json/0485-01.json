@@ -1,0 +1,133 @@
+{
+  "id": 959537,
+  "name": "In re State Street",
+  "name_abbreviation": "In re State Street",
+  "decision_date": "1848-07-08",
+  "docket_number": "",
+  "first_page": "485",
+  "last_page": "486",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Whart. 105",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833410
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/3/0105-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 554",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854650
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0554-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 39",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0039-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 26",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Yeates, 372",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6774268
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/4/0372-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle, 422",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Penn. Rep. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 217,
+    "char_count": 2964,
+    "ocr_confidence": 0.446,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.33205449429677175
+    },
+    "sha256": "bc763e59cf2eb9302e5d329dc05796d8dbd7559ff3aa99f22ea0af75dc420fe7",
+    "simhash": "1:347a8beedc594bc1",
+    "word_count": 533
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re State Street."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe proceedings in this case were instituted under and in pursuance of the act of the 9th of January, 1817, entitled \u201c An act for the better regulation of the borough of HarrisburgParaph. Laws, 13. The act directs how streets and alleys shall be laid out in the borough, and where no special provision is detailed in the act, it is the duty of the courts, in order to' carry out the object and intention of the legislature, and accommodate the public, to assimilate the proceedings to those under our general road system: 1 Barr, 355. It is not alleged but that the proceedings have been in strict conformity to the act, but it is urged and assigned for error that the report of the viewers is not strictly on the ground suggested in the petition. The object was the extension of State Street. The petitioners had no right to designate the exact line of the road; and we think the viewers had authority to fix the centre of the extension to correspond to the centre of State Street. Great latitude must be allowed to viewers in locating a road, particularly as respects the ground which they may deem most suitable: Bryson\u2019s Road, 2 Penn. Rep. 207. In the case of the road from the West Chester road to the road leading from the borough of Chester to Germantown (2 Rawle, 422), it was held \u201c that where the points are injudiciously assumed, a reasonable exercise of discretion by the viewers cannot but be beneficial, and ought to be allowed.\u201d In this case the exercise of the discretion of the viewers was strictly proper.\nAnother error urged is, that the court disregarded the prayer of the petitioners, who only asked the extension of State Street by a street thirty feet wide. The viewers, as well as the court, very properly paid no regard to this desire of the petitioners. The viewers laid out the extension, and reported it to the court, declaring that they lelieved the extension of said State Street is necessary for public purposes. The court confirmed the report, and ordered the extension to be sixty feet wide (State Street is much wider). To fix the width of the street was within the province of the court: 4 Yeates, 372; 6 Binn. 26; 4 W. & S. 39; 3 W. & S. 554; 3 Whart. 105 ; 1 Barr, 356; 5 Barr, 515.\nWe are unable to discover any error in the proceedings of the court, and they are\nAffirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Harris, for the exceptant.",
+      "Ayres and Boas, contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re State Street.\nViewers are not confined in the location of a street to the course suggested in the petition; nor are they or the court limited to the breadth of the street, as there prayed for.\nFrom the Quarter Sessions of Dauphin county.\nA petition was presented for the extension of State Street along a certain line: the extension not to ex^gd thirty feet in width.\nThe viewers reported a street varying in the courses from the line mentioned in the petition, and fixing the width at sixty feet, which was confirmed.\nThe exceptions are stated in the opinion of the court.\nHarris, for the exceptant.\nAyres and Boas, contra.\nJuly 8."
+  },
+  "file_name": "0485-01",
+  "first_page_order": 485,
+  "last_page_order": 486
+}

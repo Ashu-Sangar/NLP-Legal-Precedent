@@ -1,0 +1,91 @@
+{
+  "id": 957786,
+  "name": "Williams's Appeal",
+  "name_abbreviation": "Williams's Appeal",
+  "decision_date": "1847-02-01",
+  "docket_number": "",
+  "first_page": "259",
+  "last_page": "261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts, 34",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842764
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0034-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 34",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842764
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0034-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 269,
+    "char_count": 4408,
+    "ocr_confidence": 0.403,
+    "pagerank": {
+      "raw": 1.9590530485429496e-07,
+      "percentile": 0.73775942149523
+    },
+    "sha256": "106ca442bd89c689866d1927e3591b9162ae276b940ac1f9f132da52a8f7f1b3",
+    "simhash": "1:ecb696dc18bd4235",
+    "word_count": 745
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Williams\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe decree of the Register\u2019s Court, re-\nvoking the letters of administration, with the will annexed, granted by the Register to George S. Williams, was right. When the executors nominated in the will of William Shaeffer, deceased, renounced the trust, they had no authority whatever to designate any person to be appointed administrator Avith the will annexed. The widow of the deceased, it is true, also declined the trust, and she Avould have been first entitled to the administration after the renunciation of the executors. But she intimated no desire or request that Williams should be appointed; which strips the act of the Register from all covering or protection, from the case cited by the appellant\u2019s counsel in 4 Watts, 34.\nWhile the case was pending before the Register\u2019s Court, the affidavits\u2019 of three of the kindred or relations, stating that they were satisfied with the appointment of George S. Williams, and did not wish him removed, were produced. But although these persons might relinquish their own right, they could not take away the rights of other persons. All the children of the deceased stood in equal degree of kindred to him; and among them, preferring males to females, it was the duty of the register to designate and select those most competent, if they all desired, the appointment. But George S. Williams AYas selected by the Register, at the request of the renouncing executor, he not being of kindred, without the request of the widow, or the next of kin of the deceased, and without notice to his children. The 22d section of the act relating to Registers and Registers\u2019 Courts, passed in 1832, prescribes the mode and manner in which the register shall appoint an administrator, when, by law, letters of administration may be necessary. And, by the 18th section of the same act, whenever executors appointed in any last will shall renounce the trust, the register shall grant letters of administration with the will annexed, to the person by law entitled thereto. Under the provisions of this act, the letters of administration to George S. Williams on the estate of the deceased were improvidently granted; and the decree of the Registers\u2019 Court, by which they were revoked, and letters of administration with the will annexed were granted to Lewis Shaeffer, son of deceased, is affirmed.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Mulvany, for appellant.",
+      "Gr. R. Fox, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Williams\u2019s Appeal.\nTwo of the sons of testator, who were his executors, having renounced, the Register at their request granted letters of administration to a stranger, to which a third son and two of the daughters assented. A fourth son, and a daughter, having petitioned for a revocation, held that the Register was bound to revoke the letters, and grant administration to the son who consented to act.\nErom the Register\u2019s Court of Montgomery.\nDeo. 31. W. Shaeffer having made a will, appointing two of his \u25a0sons executors, died, leaving a widow and four sons and three daughters. The executors, by writing, renounced and desired the appointment of appellant, who was a stranger, as administrator: whereupon letters were granted and bond given, in June, 1846. In May, 1847, one of the sons and a daughter of the testator, the widow being dead, petitioned for a revocation of the letters, and prayed that they should be granted to the .children who had not renounced, or some of them. After service of the citation, another of the sons and two of the daughters filed approvals of the grant of letters to the appellant. The Register refusing to revoke, an appeal was taken to the Register\u2019s Court, who revoked the letters, and appointed the petitioning son administrator. From this decree this appeal was taken.\nMulvany, for appellant.\nThe Register has the power to select, though his nominee be not a relative of the decedent; Sarkie\u2019s Appeal, 2 Barr, 157; and having refused to vacate the letters, and there being no caveat, no appeal lies. If it were otherwise, the consequences ayouM be most serious, as is shown by Hinkle v. Eichelberger, 2 Barr, 483; the acts of the administrator being wholly void if revoked for error in the original grant.\nGr. R. Fox, contra.\nThe widow is now dead; and under the ,22d section of the act, the Register has no discretion but between children residing in the state. Here the only son who was willing personally to act was appointed, and this the court were bound to do; Ellmaker\u2019s Estate, 4 Watts, 34.\nFeb. 1."
+  },
+  "file_name": "0259-01",
+  "first_page_order": 259,
+  "last_page_order": 261
+}

@@ -1,0 +1,105 @@
+{
+  "id": 405965,
+  "name": "Tobey versus Lennig",
+  "name_abbreviation": "Tobey v. Lennig",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "483",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 483"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "23 Maine 392",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8846878
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/23/0392-01"
+      ]
+    },
+    {
+      "cite": "11 Wheaton 436",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wend. 456",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2144233,
+        2144302
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/3/0456-01",
+        "/wend/3/0456-02"
+      ]
+    },
+    {
+      "cite": "2 Hill 588",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 351,
+    "char_count": 5747,
+    "ocr_confidence": 0.401,
+    "pagerank": {
+      "raw": 8.262683731656366e-08,
+      "percentile": 0.47827711190884103
+    },
+    "sha256": "4354a018f2eb4934dd4a905f0c413f601ecea51abf4c0843808a4d86cf7b24f9",
+    "simhash": "1:204fdac05e7d6456",
+    "word_count": 1053
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tobey versus Lennig."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, C. J.\n\u2014 It is agreed in all the cases, that a mistake by which the endorser could not have been misled, is immaterial. For this reason, it has been held that a misdescription of the note, or of the place of payment, is so. Etting v. The Schuylkill Bank, which is relied on as a precedent against the principle, is entirely consistent with it. By reference to the date of the notice in that case, it bore that demand had been made of the maker, on the second day. of grace; and as the day of the date was past when the notice was received, the endorser had no reason to believe there was any thing wrong in it. He had reason to think that the demand was premature, and that he had no occasion to give himself any concern about it; if further demand should be made at the proper time, the note would be paid, or he would receive due notice of its dishonor. All might be as it was stated without involving his contingent responsibility; and as he had no reason to suspect that the notice was misdated, he had no motive to look to his relations with the maker or the preceding endorsers. But in the present case, the notice showed the mistake on the face of it; for when it was handed to the endorser' the day of. its date had not arrived. He could, therefore, have been misled only by supineness in neglecting to ask for explanation. The effect of the mistake was misdescription of the note, and he knew whether he had negotiated any other. The error would have been verbally corrected on the spot; and if he doubted the identity of his endorsement, it was his business to have his doubt resolved.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for defendant.",
+      "Wharton, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Tobey versus Lennig.\nA mistake in a notice to an endorser by whiebhe could not have been misled, is immaterial. Hence, where a notice was served on an endorser on the 25th May, setting forth that a note endorsed by him was due on that day, which was the day on which the note in suit actually fell due, but which notice was dated May 26th, the notice was held to be sufficient, the note only being misdescribed, and the endorser, if he had chosen, might have inquired as to it.\nError to the District Court, Philadelphia.\nThis was an action brought by F. Lennig, the defendant in error, against S. & C. S. Tobey, as endorsers on the following note, viz:\n\u201c $727.08. Philadelphia, January 22, 1846.\nFour months after date, we promise to pay Messrs. S. & C. S. Tobey, or order, seven hundred and twenty-seven dollars, without defalcation, value received.\nSigned, Thos. Mercer, Son & Co.\u201d (Endorsed, 8. O. S. Tobey.)\nAfter tbe reading of the note in evidence, tbe following testimony was given:\nFrancis J. Troubat, Esq., being sworn, said \u2014 \u25a0\nAs the Notary of the Mechanics\u2019 Bank, this note (viz. the above note) came to my hands in the afternoon of the 25th day of May, 1846. I presented it to the makers, on the wharf, for payment, which they declined, refused. This -was on the afternoon of the 25th day of May, 1846. They said it was an affair of the endorsers. I immediately went to the endorsers. I had the notice in my pocket. I left the notice there, of non-payment \u2014 the usual notice of non-payment. This is the notice which I served. I handed this to Mr. Tobey, one of the defendants, &c. I made a mistake in dating the notice. I dated it the 26th, when I should have dated it the 25th.\nThe notice referred to in the deposition of Mr. Troubat, is as follows:\u2014\n\u201c Philadelphia, May 26th, 1846.\n\u201c Payment of Thomas Mercer, Son & Co.\u2019s note, in favor of yourselves, and by you endorsed, for 727 dollars, and delivered to me for protest, by the Mechanics\u2019 Bank of the City and County of Philadelphia, the holders, being this day due, demanded and refused, it has been by me duly protested accordingly, and you will be looked to for payment, of which you hereby have notice.\n\u201cMessrs. S. $ O. S. Tobey.\u201d\nSigned by Mr. Troubat, the notary.\nThe plaintiffs rested upon this testimony; the defendants did not produce any. The point as to the sufficiency of the evidence to charge defendants, was reserved, and verdict rendered for plaintiff, and in September, 1848, the judges rendered judgment on the verdict in favor of the plaintiff.\nError was assigned to the decision of the reserved point in favor of plaintiff, and to the entry of judgment.\nThe case was argued by Gr. M. Wharton, for plaintiffs in error, who contended that the endorsers were discharged by the neglect to give them notice of non-payment of the note. That the notice being a mistaken or defective notice, was in law no notice. That the note fell due on the 25th May, 1846; the notice was of a note due May 26th. They had a right to presume the mistake would be discovered, and that a proper demand would be made, and notice given accordingly. Hearing no more of it, they had a right to repose on the belief that the note was paid: 2 Barr 355, Etting v. Schuylkill Bank; 2 Hill 588; 3 Wend. 456.\nMiller, for defendant.\n\u2014 In the eases cited, the mistake was such as to mislead. Here the notice was delivered on the right day, and the incorrect day went for nothing. The notice stated the date of the note, and stated that it was due on a certain day when it could not have fallen due. The decisions are becoming more liberal on this subject: Story on Bills, sec. 301; 11 Wheaton 436; Bayley on Bills 254; 5 Humphreys 335; 23 Maine 392-8; 10 Jurist 982; 11 Mees. & Wels., Storkman v. Parr; Remer v. Downer, 23 Wend.\nWharton, in reply.\n\u2014 The note was not shown to the party in this case, and nothing existed in the notice from which he could make a calculation, which would show a mistake. But in the case in 11 Wheaton, the date of the note was given. The endorsers are entitled to notice of the very truth: 2 Barr 355."
+  },
+  "file_name": "0483-01",
+  "first_page_order": 483,
+  "last_page_order": 485
+}

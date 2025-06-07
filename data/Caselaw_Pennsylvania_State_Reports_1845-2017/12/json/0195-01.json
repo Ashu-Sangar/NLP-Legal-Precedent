@@ -1,0 +1,121 @@
+{
+  "id": 963809,
+  "name": "Houston v. Sims",
+  "name_abbreviation": "Houston v. Sims",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "195",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts, 110",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841272
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0110-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 284",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478533
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0284-01"
+      ]
+    },
+    {
+      "cite": "4 Binn. 162",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Binn. 77",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793668
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0077-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 221",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842712
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0221-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 251,
+    "char_count": 3221,
+    "ocr_confidence": 0.381,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03387147281559658
+    },
+    "sha256": "2c4530b85fd62c50c63a6e6a245b8a17d7cd1574ec816523b4cc694f01da25b0",
+    "simhash": "1:f9efba8d9c70dec4",
+    "word_count": 568
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Houston v. Sims."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe Act of the 27th of March, 1824, to prevent the destruction of timber (Dunlop, 2d ed. 439), extends as well to seated as unseated lands. Both are within its protective penalties. The evidence did not tend to strengthen the title under Freeland. It showed he was a grabbing settler, wanting to hold more land than the law would allow by virtue of his improvement. It gave him no title or just claim to the land outside of his survey. Title by settlement is protected to increase the population of the county and to promote the interest of the Commonwealth. To reduce a settler\u2019s boundaries to certainty, he has to define his limits by a survey; and thus giving notice to his neighbours and others of the extent of his claim: Sergeant\u2019s Land Law, 146; 6 S. & R. 190. When he makes his survey on his improvement, he abandons all claim to the land outside of that survey by virtue of his improvement. The survey shows with precision his boundaries, until legally changed by a survey returned on a warrant. This survey was made by Freeland before he sold; and now to extend that survey by his avaricious desire, would be repugnant to every principle of our land law.\nThe other assignments of error are based on facts not upon the record, and we therefore cannot notice them.\nThe judgment is reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Downey and Sayres, for plaintiff in error,",
+      "Blade and Montgomery, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Houston v. Sims.\n1. The Act of 1824 (timber) extends as well to unseated as to seated lands.\n2. A survey made by one claiming as a settler upon land already surveyed, concludes him as to that right; and his intention uot to abandon part of his settlement is immaterial.\nIn error from the Common Pleas of Greene.\nTrespass under the Act of 1824, for cutting timber. There was evidence that the tract was seated, and the defendant contended the action did not lie; but the Court ruled the contrary.\nThe plaintiff held by conveyance from Freeland, under Court-right, who had made an improvement and settlement, extending over two adjoining tracts, which had been previously surveyed. The land in question was within the limits of his claim.\nThe defendant then proved that a survey had been made on this improvement right for Freeland claiming Courtright\u2019s interest, without knowledge of the prior survey, which excluded the land in question.\nThe plaintiff then proved, that at the time of making the older survey, Freeland declared it was not his intention to abandon any part of his place, but to secure other ground for certain reasons.\nThe Court left it to the jury to say whether there had been a disclaimer of the part of the improvement excluded by the survey.\nDowney and Sayres, for plaintiff in error,\non the first point cited 4 Watts, 221; 7 Barr, 439. Declarations of intention to retain land by improvement, if excluded from the survey, are immaterial; as are his intentions. That is required to ascertain his boundaries; and as matter of law, he disclaims all not included: 5 Binn. 77; 2 Yeat. 211; 4 Ib. 300; 4 Binn. 162.\nBlade and Montgomery, contr\u00e1.\nThere must be actual abandonment, or the party is entitled to the land in his warrant and survey: 5 W. & S. 284. The title was under an official survey, which cannot be affected by a prior 'unofficial act: 3 Watts, 110."
+  },
+  "file_name": "0195-01",
+  "first_page_order": 195,
+  "last_page_order": 196
+}

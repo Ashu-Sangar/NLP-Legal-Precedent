@@ -1,0 +1,79 @@
+{
+  "id": 405883,
+  "name": "Fitter versus Eyre",
+  "name_abbreviation": "Fitter v. Eyre",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "392",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 392"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Rawle 404",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823572
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0404-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 279,
+    "char_count": 4262,
+    "ocr_confidence": 0.387,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.3379781987289606
+    },
+    "sha256": "20f49321dfe2765942256f7ca8c63757c6c86a2d4a75cca5a91d1233c25babc2",
+    "simhash": "1:fad5b614dc8615a0",
+    "word_count": 740
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fitter versus Eyre."
+    ],
+    "opinions": [
+      {
+        "text": "Per curiam.\n\u2014 A general objection to evidence competent for some purpose, is not sustained by a specific ground of exception. In this instance, the purpose was to prove, not a sale, but that there was, in the transaction, no more than an agreement to sell on a condition not performed, and the entries were offered to identify the subject of it, not the value. They were consequently before the court, not as book entries, which are competent to prove only a sale and delivery. They were imbodied in the testimony of a witness who made them, and verified them, as memoranda to designate the goods selected; and who testified that the ticks and marks placed opposite to the items were used to distinguish the casks or packages delivered to the drayman. The witness did not, as is usual in regard to book entries, authenticate the book and leave it to speak for itself; he testified to the particulars of the transaction from his own knowledge; and, thus corroborated, the entries were clearly admissible.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per curiam."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by C. Fallon and Guillou, for plaintiff in error.",
+      "Miller, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Fitter versus Eyre.\nWhere the object of offering entries in a book was not to prove a sale and delivery of goods, but as memoranda to identify the subject of them, where the question was as to whether the sale was conditional or absolute, and they were unbodied in the deposition of the witness who made and verified them, the entries were admissible in. evidence.\nError, to the District Court Philadelphia.\nThis was an action of trespass brought by Joseph K. Eyre against Daniel Eitler, formerly sheriff of Philadelphia county. In the narr. the plaintiff declared in trespass for taking and carrying away \u201c certain goods and chattels, viz., two casks of merchandise, which in the amended narr. were said to. contain sundry items of goods, ten boxes of bottled cider, one barrel of almonds, and six boxes of claret.\u201d\nOn May 15th, 1848, a jury was called, and on the trial, evidence was offered by plaintiff, to -show that the defendant, as sheriff of Philadelphia, under a writ of attachment directed to him, and ordering him to attach the goods of Clements & Hall, had seized and taken certain casks containing merchandise, which had been sold by plaintiff to Clements & Hall on certain terms. A main question submitted to the jury was, whether the sale and delivery had been so far completed prior to the attachment, as to divest the property in, or possession of the goods out of plaintiff, and to vest it in the purchasers, Clements & Hall. This question was decided in the negative by the jury, who found for plaintiff 1146.52.\nOn the trial, various exceptions were taken; one was as follows: On the trial, the plaintiff read the deposition of E. M. Hopkins, a former clerk of plaintiff, who proved the sale by plaintiff to Clements & Hall, through one professing to act as their agent, and the terms of sale, and he proved what portion of the goods so sold were seized by the sheriff. Hopkins likewise proved that a certain book produced before him was what was called the \u201corder, book\u201d of plaintiff, in which he or his clerks were in the habit of entering such goods as were from time to time ordered from him. This book was afterwards produced, and plaintiff offered to read the entries therein, made by ITopJcins, relative to the purchase of Clements & Hall; to this, defendants objected, the objection was overruled, exceptions taken by defendant, and the book read.\nHopkins testified that certain ticks or marks opposite some of the entries were meant to show what goods had been delivered to the drayman. He did not know the meaning of the mark of certain letters. The small ticks were meant for such of the goods as were put up ready to be marked. The figures indicate the price, number of gallons, or weight of the different articles, and the gross amount.\nThe case was tried before Sharswood, J.\nIt was assigned for error:\nThat the court erred in overruling the objections made to the offer of plaintiff to read the entries in his order-book, and permitting the same to be read.\nThe case was argued by C. Fallon and Guillou, for plaintiff in error.\n\u2014 Reference was made to 4 Rawle 404; 7 W. & Ser. 429; 13 Ser. & R. 127. \u2014 The syllabus in this case incorrectly reports the words of the chief justice.\nMiller, for defendant."
+  },
+  "file_name": "0392-01",
+  "first_page_order": 392,
+  "last_page_order": 393
+}

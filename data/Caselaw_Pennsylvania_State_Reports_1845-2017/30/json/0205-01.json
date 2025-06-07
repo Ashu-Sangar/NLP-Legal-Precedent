@@ -1,0 +1,150 @@
+{
+  "id": 415564,
+  "name": "Gilbert versus Henck",
+  "name_abbreviation": "Gilbert v. Henck",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "205",
+  "last_page": "210",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Johns. 463",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Leg. Int. 102",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 482",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts 280",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838055
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0280-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 361",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848490
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0361-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 292",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846763
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0292-01"
+      ]
+    },
+    {
+      "cite": "1 Wall. Jr. 149",
+      "category": "reporters:federal",
+      "reporter": "Wall. Jr.",
+      "case_ids": [
+        12120952
+      ],
+      "pin_cites": [
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/18/1122-03"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 204",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 129",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 657,
+    "char_count": 15405,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 1.6986367037815335e-07,
+      "percentile": 0.7004315695625498
+    },
+    "sha256": "69db00950c12717499ef6d7767e9253738c56b1dc7d3e70c79b0ca29e059e9a6",
+    "simhash": "1:f7f687e19c14048b",
+    "word_count": 2694
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gilbert versus Henck."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\n\u2014 It seems to us that this is properly a contract to guaranty the payment of the rent named in the lease, and the consent given by the lessor to the assignment of the lease does not discharge the contract of guaranty; for the lease provides that no assignment shall be valid without such consent. This provision is for the benefit of the lessor and not of the guarantors, and an assignment according to it is not inconsistent with their guaranty,\nSuch a contract creates only a contingent liability, and it becomes absolute only by due and unsuccessful diligence to obtain satisfaction from the principal, or by circumstances that excuse diligence. We have very recently expressed our views on this subject in the case of Kirkpatrick\u2019s Executor v. White, and in that case we showed that legal diligence is proved when the plaintiff shows that he has pursued the ordinary process of the law to its end without improper delay.\nIf the principal is not liable to a ea. sa., and the plaintiff has issued a fi. fa. and it is returned nulla bona, he has done all that the law requires of him in favour of the guarantor, unless it be shown that the principal had property in some other county that was known to the plaintiff, or ought to have been, and that could be reached by ordinary execution process. A return of nulla Iona to a justice\u2019s execution has not this effect, because such an execution cannot take defendants\u2019 land. In this case legal diligence by the pursuit of the ordinary legal process is shown: 25 State R. 212.\nBut it is objected that all this diligence took place after this suit was brought, and this is true. Yet this is the very diligence which the plaintiff specially alleges in his declaration, and offers to prove. If we look back from the declaration to' the writ, we find that the diligence, which the law requires as a condition precedent to the right of action, was exercised after the action was brought. On strict principles of pleading, this objection goes in abatement of the action and not in bar of the right.\nDo the pleas raise this objection? We think not. The declaration was not filed until after the plaintiff had sued the principal and prosecuted his suit to judgment and execution, and when it was filed it alleged all these proceedings. This is not objected to; but the defendant pleads non est factum, non infreyit conventionem, and covenants performed; and the most that can be made of these is that they be treated as denying all the allegations of the declaration, and also averring no breach by the defendant. Success on such pleas would bar the plaintiff\u2019s right. But the plaintiff proved all the allegations of his declaration, and the defendant did not prove performance, and of course the verdict had to be for the plaintiff.\nThe objection to this proceeding is therefore reduced to a discrepancy between the writ and the declaration; and as a court of error takes no notice of this, especially when the parties disregard it in the pleadings, it follows that the judgment on the verdict is right.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Brightly, for plaintiff in error.",
+      "Risler, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Gilbert versus Henck.\nA contract to guaranty the payment of the rent reserved in a lease, is not discharged by the lessor\u2019s consent to an assignment of the term; the lease providing that no assignment shall be valid without such consent.\nA contract of guaranty creates only a contingent liability, which becomes absolute by due and unsuccessful diligence to obtain satisfaction from the principal, or by circumstances that excuse diligence.\nLegal diligence is proved when the plaintiff shows that he has pursued the ordinary process of the law to its end, without improper delay.\nQuere, whether it be sufficient to show the issuing of ay?, fa. against the principal, and a return of nulla bona, after the commencement of the suit against the guarantor ?\nSuch an objection is pi'operly pleaded in abatement of the writ, and not in bar of the right. If apparent on the face of the record, it amounts but to a discrepancy between the writ and the declaration, of which a court of error will take no notice, after a verdict on the merits.\nError to the Common- Pleas of Philadelphia.\nThis was an action of covenant, brought by George D. Henck against William Gilbert and E. Renner, to recover the sum of $152.50, owing to the plaintiff below, by Michael Stroeck and John Baiker, for rent of premises, Nos. 483 and 485 North Second street, .in the city of Philadelphia, under a lease from the said plaintiff to the said Michael Stroeck and John Baiker, and the payment of which, it was alleged, had been guarantied by the defendants below. The rent claimed became due on the 1st of June, July, and August 1855.\nThis action was commenced on the 14th of August 1855. A declaration was filed on the 19th December 1855, setting forth the lease from plaintiff to Stroeck and Baiker, dated the 30th January 1855, for the term of one year from the 1st of February then next ensuing, reserving a yearly rent of $750, payable in monthly instalments; that the defendant covenanted with the plaintiff to be responsible to him and his assigns for the true and rightful performance of the said contract, on behalf of the said Stroeck and Baiker; that on the 1st August 1855, the lessees were indebted to him for three months\u2019 rent of the premises, falling due on the 1st of June, July, and August; that an action of covenant was commenced by him in the District Court to September Term, 1855, No. 267; that a judgment was obtained against Stroeck, and nihil habet returned as to Baiker; that a fieri facias issued against Stroeck to September Term, 1855, No. 461, which was returned nulla bona; and that Stroeck and Baiker had not paid the amount of rent due under the lease, on the 1st August 1855.\nThe defendant, Renner, suffered judgment to go by default. But William Gilbert, the other defendant, pleaded \u201c non est fac turn, non infregit eonventionem, covenants performed with leave,\u201d &c. The case was tried on the 6th October 1856, before Shakswood, J., and resulted in a verdict for the plaintiff for $161.12, subject to the opinion of the court on points reserved.\nOn the trial, the plaintiff gave in evidence the lease to Stroeck and Baiker, dated the 13th January 1855, with a covenant executed by the defendants thereunto annexed, and bearing even date therewith, in the words following:\u2014\n\u201cWe do hereby agree to be responsible to Gr. D. Henck, or his assigns, for the true and faithful performance of the above-named contract, on the part of Stroeck and Baiker. In witness whereof we have hereunto set our hands and seals,\u201d &c.\nThe plaintiff also gave in evidence the record of the suit brought by plaintiff in the same court to September Term, 1855, Ho. 267, against Stroeck and Baiker, for the recovery of the arrears of rent due on the 1st of August 1855. This action was commenced on the 31st of August 1855 (after the suit against the guarantors). On the 22d September 1855, judgment was given against Stroeck for $152.50; and on the 24th September 1855, a fi. fa. was issued against him, and returned nulla bona. '\nThe plaintiff gave no further evidence; whereupon the defendant\u2019s counsel moved for a judgment of nonsuit under the Act of Assembly. The judge declined to order a nonsuit, as requested, but reserved the point \u201c Whether the said plaintiff had given any such evidence of a complete cause of action at the time of the commencement of this suit, as would entitle him to a verdict?\u201d\nThe defendant called Michael Stroeck, one of the original lessees, as a witness, who, having been previously released from his liability for the costs of this action, testified that on the 14th of May 1855, the said Michael Stroeck and John Baiker sold out their interest in the premises described in the said lease, with the assent of the said plaintiff (by writing of that date), to.one O. S. Rothschild.\nAlso a certain instrument, executed by the said plaintiff and O. S. Rothschild, in the words following:\u2014\n\u201c It is agreed between Gr. D. Henck and O. S. Rothschild, that the lease given by Gr. D. Henck to Michael Stroeck and John Baiker, shall continue in full force during the unexpired term of said lease, and that O. S. Rothschild shall have the same privilege granted to Stroeck and Baiker. Witness our hands and seals, this 14th day of May 1855.\n\u201c Geo. D. Henck. [Seal.]\n\u201c C. S. Rothschild. [Seal.]\n\u201c Witness present \u2014 A. Basch.\u201d\nAnd thereupon the defendants\u2019 counsel prayed the court to instruct the jury that by the facts given in evidence on the part of the defendant, he was discharged from all further liability on his covenant with the plaintiff. But the judge reserved the point, \u201c Whether by the agreement of 14th May 1855, the said William Gilbert had been discharged from further liability to the said plaintiff?\u201d' \u2014 and directed the jury to find for the plaintiff subject to the opinion of the court upon the points reserved.\nOn the 27th December 1856, the court (Sharswood, P. J.) delivered the following opinion on the points reserved:\u2014\n\u201cUpon the first reserved point, there is no difficulty; for although it may be doubtful whether in an action upon a guaranty it is prim\u00e1 facie sufficient to show a return of nulla bona against the principal debtor made subsequently to the commencement of the action, yet in this case, the narr. averred merely the return, and on its face showed that it'was subsequent, so that the only mode in which this question could be raised was by demurrer or motion in arrest of judgment. The plea put in issue simply the averments of the narr., and even though it should be that the record shows no substantial cause of action, that must now be left to the court of errors to correct.\n\u201c As to the second point, we are of opinion that the terms of the guaranty are as broad as the obligation of the principal debtor. Having entered into an express covenant to pay rent, that covenant was not discharged by the assignment of the lease with the consent of the landlord. The original covenantor remained liable for the subsequently accruing rent. The paper of 14th May 1855, signed by the landlord, though an inartificial instrument, appears to us to be, not a new lease, but a consent to an assignment, for it provides expressly that the original lease shall continue in full force during the unexpired term of said lease. Rule for new trial discharged, and judgment for plaintiff on the points reserved.\u201d\nJudgment having been entered for the plaintiff, the defendant sued out this writ of error, and exhibited the following assignment of errors:\u2014\n1. That the declaration sets forth no sufficient cause of action against the defendants.\n2. That the declaration does not aver the insolvency of the original lessees, nor show any attempt on the part of the plaintiff to recover from them prior to the suit against the guarantors.\n3. That the court below erred in entering judgment for the plaintiff on the first point reserved, to wit, in deciding that the plaintiff had given such evidence of a complete cause of action at the time of the commencement of this suit, as would. entitle him to a verdict.\n4. That the court below erred in entering judgment for the plaintiff, on the second point reserved, to wit: in deciding that by the agreement of the 14th May 1855, the said defendant had not been discharged from further liability to the said plaintiff.\nBrightly, for plaintiff in error.\n\u2014 The distinction taken in this state between a surety and a guarantor is well settled. The latter assumes but a collateral contingent liability. His engagement is to pay in default of solvency in the debtor, provided due diligence was used to obtain payment from him: Isett v. Hoge, 2 Watts 129; Snevily v. Ekel, 1 W. & S. 204; Marberger v. Pott, 4 Harris 13; Johnston v. Chapman, 3 Penn. R. 18, 20; Leser v. Frantz, Supreme Court, 20th January 1853.\nIt has also been decided to be necessary for the plaintiff to aver in his declaration that he had used due diligence to enforce payment from the principal debtor. This was tire very point in Parker v. Culvertson, 1 Wall. Jr. 149, 161. In that case there was a demurrer to the declaration in an action upon a guaranty, on the ground of the want of such a covenant, which was sustained by the Circuit Court of the United States.\nThe declaration in this case shows upon its face that the suit was brought against the guarantor before the commencement of the action against the principals, and the only averment of an attempt to enforce payment from them, is, that subsequently to the institution of this suit, and before the filing of the declaration, an action was brought against the principals, that the summons was returned nihil habet as to one of them, that judgment was obtained against the other, and that a fieri facias issued thereon was returned nulla bona. This is not enough to maintain the action: Brown v. Brooks, 1 Casey 212.\nBut a return of nulla bona, by itself, is not such evidence of insolvency against third persons as would be sufficient to sustain this suit, even if it had been had before the institution of this proceeding. It is nowhere so decided: Willard v. Wickham, 7 Watts 292-3.\nThe second question is, whether the facts given in evidence by the defendant constituted a sufficient defence to the action.\nIt will be perceived, that the lease from Henck to Stroeck and Baiker contained a proviso that the lessees should not assign the premises, without the consent in writing of the lessor or his assigns; and that the covenant of guaranty is for the true and faithful performance of the contract on the part of the lessees, without any mention of their assigns. The guarantors, with the knowledge that the lease was assignable with the consent of the lessor, would appear to have excluded the idea that their covenant was to extend to the assignees of the original lessees.\nThe lessees did assign, with the consent of the lessor, by a contract to which the guarantors were not parties; and the lessor entered into a new contract with the assignee by the instrument of the 14th May 1855. All the rent claimed became due after that date.\nNow, whether this transaction be considered as the creation of a new tenancy on the part of the assignee; or of a simple assignment without the knowledge of the guarantors, in either aspect it would appear to be such an alteration of the contract as would discharge the guarantors from further liability: Follmer v. Dale, 9 Barr 85.\nRisler, for defendant in error.\n\u2014 The record shows a substantial cause of action: Brooks v. Brown, 1 Casey 210; McDoal v. Yeomans, 8 Watts 361; McClurg v. Fryer, 3 Harris 293.\nBut this was not a contract of guaranty; it properly belongs to that class of agreements in which it is neither necessary to ayer or prove insolvency: Geddis v. Hawk, 1 Watts 280; Amsbaugh v. Gearhart, 1 Jones 482; Silver v. Street, Brightly's R. 96; Girard Insurance Co. v. Finley, 7 Leg. Int. 102; Cochran v. Dawson, 1 Miles 276; Slingerland v. Morse, 8 Johns. 463.\nThe paper of the 14th May 1855 cannot by any reasonable construction be held to release' the plaintiff in error, nor was such the intention of the parties.\nThe landlord gave his consent to underlet as provided in the lease, and nothing more. The plaintiff in error, having entered into an express agreement to pay rent, could not be released by such a paper as this."
+  },
+  "file_name": "0205-01",
+  "first_page_order": 205,
+  "last_page_order": 210
+}

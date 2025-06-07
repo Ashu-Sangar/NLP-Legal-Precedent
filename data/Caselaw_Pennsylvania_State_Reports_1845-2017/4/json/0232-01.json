@@ -1,0 +1,79 @@
+{
+  "id": 401935,
+  "name": "Gemmill v. Butler",
+  "name_abbreviation": "Gemmill v. Butler",
+  "decision_date": "1846-10-28",
+  "docket_number": "",
+  "first_page": "232",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 232"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts & Serg. 444",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/7/0444-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 4507,
+    "ocr_confidence": 0.555,
+    "pagerank": {
+      "raw": 1.018085745301301e-07,
+      "percentile": 0.5440321038021908
+    },
+    "sha256": "2b423594862ced23677407ce77a5f4b7ded24089f797c431a612456c1265b1bd",
+    "simhash": "1:d2442e6d54d4b6f3",
+    "word_count": 782
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gemmill v. Butler."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.,\nafter stating the case.\u2014It was alleged in this court, and probably contended in the court below, that a return of one \u201cnihil\u201d was insufficient. But the'defendant in error\u2019 gave no time to have another, for he came into court on the return of the first, and- moved to quash the proceeding. The object of the legislature, in requiring the defendant to-be summoned, was to give him a day in court, when he might show the payment of the judgment on which his property was attached. But if the defendant could appear in court and move to quash the proceeding, why could he not appear and plead any matter that would exonerate or liberate him from the judgment on the attachment ? It must be observed, that his appearance in court was before judgment, and is not at all similar to the case of a defendant against whom judgment had been entered in the attachment, without his having' had an opportunity to show that the original judgment was paid either in whole or in part. By an act, passed the 20th March, 1845, so much of the act of 1836, authorizing the issuing attachments in the nature of an execution, as required service of the attachment on the defendant, was repealed, except where the defendant resided in the county, when the attachment issued. This act,.it is true, did'not go into operation until\u2019the 1st June, 1845, after the'attachment issued ; but it would have been in full effect before another \u201cnihil\u201d could have been returned. The -first return of \u201cnihil\u201d is at least \u00a1\u00a1rima facie evidence that the defendant did not live in the county.\n.It was alleged that more than :five years had elapsed from the rendition of the original judgment-until the issuing of the attachment, and that the attachment was therefore improvidently issued. That a scire facias ought first to have issued, in order to revive the judgment. But the case of Ogilsby v. Lee, 7 Watts & Serg. 444, established that an attachment in execution could issue on a judgment after a year and a day had elapsed, although a fi. fa. could-not, and the reason -for the decision is sufficient to govern this case. An execution could not have issued in this case after the expiration of five years, because, then the defendant could have had no day in court to show that the judgment was paid or satisfied. So, after the lapse of a year and'a day in the case cited-, no execution could have issued. But the panacea which restored that case, will cure this also; in the-attachment process the defendant has a day- in court; in which he' can have, full- power to make any defence that he could make in a scire facias.\nAnother objection was urged against the issuing of the attachment, because no scire facias had been issued to bring the executor of Rebecca Gemmill.into court as a party. But by the 26th section of the act of 24th-'February, 1834, the executors or administrators of any person who, at the time of his decease, was a party plaintiff, if the cause of action survives, shall proceed in the cause; and if judgment was obtained'before the death of the party, the executor or administrator shall proceed to execution in the same, manner that the decedent might or could have done if he had survived. There was, therefore, ample authority for the executor proceeding to collect the judgment.\nThe judgment or order of the court, quashing the attachment, is reversed, and procedendo awarded.",
+        "type": "majority",
+        "author": "Coulter, J.,"
+      }
+    ],
+    "attorneys": [
+      "Cowan, for plaintiff in 'error.",
+      "Foster, contra. \u2022"
+    ],
+    "corrections": "",
+    "head_matter": "Gemmill v. Butler.\nWhere an attachment in execution issued on a judgment'recovered more than five years before by the plaintiff\u2019s testatrix, was served on the garnishee on the 27th March, 1845, and returned nihil as to the defendant in the judgment on which it issued; and the defendant, by his attorney, moved to quash the writ; there was error in making absolute the rule to quash.\nExecutor may prosecute a judgment of his testator under the act of Assembly, suggesting the death on the record.\nIn error from the Common Pleas of Westmoreland county.\nOct. 20. The plaintiff\u2019s testatrix, on the 18th February, 1840, recovered judgment by confession against the defendant in error. On the 11th March, 1845, the plaintiff, suggesting the death of her testatrix in the body of the writ, issued an attachment in execution on this judgment, which was returned, on the 27th, nihil as to defendant, and attached as to the garnishee. On the 19th May, Butler, by his attorney, moved to quash the. writ, which rule was made absolute on the 20th.\nThis was the error assigned.\nCowan, for plaintiff in 'error.\nFoster, contra. \u2022\nOct. 28."
+  },
+  "file_name": "0232-01",
+  "first_page_order": 232,
+  "last_page_order": 234
+}

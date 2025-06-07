@@ -1,0 +1,127 @@
+{
+  "id": 418032,
+  "name": "Riley's Appeal",
+  "name_abbreviation": "Riley's Appeal",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "291",
+  "last_page": "293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 Pa. 291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 90",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 229",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0229-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 198",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0198-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 257",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682335
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/47/0257-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 390",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 229",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481795
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/7/0229-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 390,
+    "char_count": 5815,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 1.3496019915200855e-07,
+      "percentile": 0.6330467529187995
+    },
+    "sha256": "0bd9db241f34f806307fb1e036dc898b3fb0fc5d4522beec2b3bb480bc4c1bef",
+    "simhash": "1:651dfb23964619d3",
+    "word_count": 1020
+  },
+  "last_updated": "2024-02-27T21:55:21.103467+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Riley\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThere is a very obvious distinction between that class of cases where a devise is charged by the will with legacies, and that where the land is resorted to as a means of paying legacies not reached by the personal estate; and we need the distinction in this case. Land may be contingently liable for the latter purpose, though the testator had no thought of such an event; for the former purpose his will must show that he intended it. In one case, it is a question of charge in the strict sense of the term; in the other, it is a question of contribution among legatees and devisees; and when devisees take land by will, they hold it subject to this contingency, as they do subject to debts.\nTrue, it was decided in Brookhart v. Small, 7 W. & S. 229, that a legacy, made payable out of the estate, did not include the real estate; but that was because it appeared in the will that the personal estate only was meant. Primd facie a general legacy comes out of the residuary estate, real and personal: 12 Harris 22, and the cases there cited.\nHere the residuary estate is the personal chattels and the land which, after the widow\u2019s death; were given to William. The pecuniary legacies were made payable \u201c.out of his estate,\u201d that is, of course, out of his residuary estate; for clearly, both real and personal estate are so chargeable, when both are given in fact as residue. The devisee took the land subject to he called on to pay the legacies, if the residuary or unbequeathed personal estate should be deficient; and now that it is sold by the sheriff for his debts, the legatees are entitled to come in on the proceeds.\nDecree reversed at the costs of the appellee, and the cause is remitted to the District Court, with directions to allow the legatees of William Riley, Sr., to be first paid out of the proceeds of the sheriff\u2019s sale.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "McConnell, for the appellants,",
+      "Marshall & Brown, and N. P. & G. L. B. Fetterman, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "Riley\u2019s Appeal.\nA pecuniary legacy, directed by the testator to he paid out of his estate, in ease of a deficiency of personal assets, is a charge on the lands devised as residue.\nPrimd facie, a general legacy is payable out of the residuary estate, real and personal.\nAppeal from the District Court of Allegheny county.\nThis was an appeal by the legatees of William Riley, Sr., deceased, from the decree of the court below distributing the proceeds of a sheriff\u2019s sale of the real \u00e9state of William Riley, Jr., deceased.\nWilliam Riley, Sr.,, by his last, will, dated the 21st July 1842, devised and bequeathed as follows*':\u2014\n\u201cFirst: I give and bequeath, unto my beloved wife, Lavinia Riley, all my household furniture, and the maintenance and living off the premises on which I now reside, during her natural life or widowhood.\n\u201c I do also give and bequeath to my son John, the sum of three hundred dollars, and to my daughters, Jane, Nancy, Lavinia, Margaret, and Mary, seventy dollars to each of them, to be paid out of my estate, in equal annual payments, within ten years after my decease; and to my daughters above mentioned I give, during their remaining single or unmarried (should they desire it), eight acres of land on the east side of the Harmony road, joining John Moon\u2019s line, so as to include a spring in the meadow, and two acres of timbered land on the west side of said road, and a house to be built thereon, for their use- and accommodation, by my executors, out of my estate, whenever my daughters before mentioned, or any of them, require it; the house not to exceed sixteen by twenty-four feet.\n\u201cAfter my decease, and the decease of my beloved wife, Lavinia, I give and devise to my son William, his'heirs and assigns, all that messuage and tenement on which I now reside, situated in the township, county, and state aforesaid, to hold to him, the said William, his heirs and assigns for ever. ;\n\u201c And lastly, as to all the rest, residue, and remainder of my personal'estate, goods, and chattels, of whatsoever kind and nature, I give and bequeath the same to my\"beloved wife, Lavinia, and to my son William.\u201d\nThis will was admitted to probate on the 20th August 1847; and letters testamentary were granted to Lavinia Riley and William Riley, Jr., the executors named therein.\nWilliam Riley, Jr., afterwards- went to California, and died there, having paid but $48 out of the personal estate on account of the legacies given by his father\u2019s will; and letters of administration on his estate were granted to James Duff and Lavinia Jane Riley, his widow.\nOn the 30th January 1858, the land devised to William Riley, Jr., was sold by the sheriff, by virtue of an execution issued on a judgment obtained against him in his lifetime, and duly revived by scire facias against his personal representatives, with notice to the widow and heirs.\nThe sheriff took the judgment-creditors\u2019 receipt for the net proceeds of sale, amounting to $ 1945.54, and made a special return to the writ; to which exceptions were filed by the legatees of William Riley, Sr., who claimed that their legacies were payable out of the proceeds of sale.\nThe court below appointed an auditor to report distribution of the fund, who reported that the legacies were not liens thereon, and awarded the fund to the judgment-creditors. The court below confirmed the report of the auditor, and decreed distribution accordingly; whereupon, this appeal was taken by the legatees.\nMcConnell, for the appellants,\ncited Ripple v. Ripple, 1 Rawle 390; McLanahan v. McLanahan, 1 Penn. R. 111-12.\nMarshall & Brown, and N. P. & G. L. B. Fetterman, for the appellees,\ncited Hepburn v. Snyder, 3 Barr 72; Wright\u2019s Appeal, 2 Jones 257; Brandt\u2019s Appeal, 8 Watts 198; Miltenberger v. Schlegel, 7 Barr 241; Brookhart v. Small, 7 W. & S. 229; Hackadorn\u2019s Appeal, 1 Jones 90; Shallcross v. Finden, 3 Vesey 739; McGlaughlin v. McGlaughlin, 12 Harris 22."
+  },
+  "file_name": "0291-01",
+  "first_page_order": 291,
+  "last_page_order": 293
+}

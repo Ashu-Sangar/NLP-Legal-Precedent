@@ -1,0 +1,85 @@
+{
+  "id": 951112,
+  "name": "In re Roberts, Rossiter's Appeal",
+  "name_abbreviation": "In re Roberts",
+  "decision_date": "1845-04-30",
+  "docket_number": "",
+  "first_page": "371",
+  "last_page": "372",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts & Serg. 273",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle, 437",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/3/0437-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 3908,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 7.658532773261018e-08,
+      "percentile": 0.45197943972795324
+    },
+    "sha256": "b0ee6979cdbd0b39713b6468662fc818486b644eb00148967a539e3d2deae8cf",
+    "simhash": "1:a7c7b3a6d13c4c08",
+    "word_count": 683
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Roberts, Rossiter\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 The admissions of a pai'ty against himself have always been considered evidence of a high order, except where obtained by fear or undue influence. It is no objection to receiving such admissions in evidence, that the party making them is living and capable of being called as a witness, as was decided by this court in Gibblehouse v. Strong, 3 Rawle, 437. Indeed, in many cases, a party would be estopped by such previous admissions from controverting their truth where it would operate to the wrong of others. On this principle, it would seem that the admissions of Joseph Roberts, that he had loaned to Thomas Rossiter the money of his ward, would be evidence against him that this was the truth. And if they would be evidence against him, there seems to be no reason why they would not be so against assignees under a voluntary assignment made by him after the admissions, who hold merely his title and stand in his place. That they take for the benefit of creditors, does not raise them to a higher grade than that occupied by their assignor, nor discharge the estate in their hands from the equities and trusts which attached to it while he held it, has been frequently decided.\nWe think, therefore, the court below erred in overruling the first exception taken by the appellant, and for so much the decree is reversed, and for the residue, affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Pennepacker, for appellant.",
+      "Lewis, contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re Roberts, Rossiter\u2019s Appeal.\n1. Auditors having been appointed to distribute an estate assigned for creditors, the ward of the assignor permitted to claim funds belonging to her, and loaned by her guardian, which had been received by the assignees.\n2. Declarations of the assignor before assignment admissible to identify the fund, though he might have been called.\nFrom Chester Court of Common Pleas.\nApril 20. \u2014 An auditor having been appointed to distribute the funds in the hands of the assignees of Roberts, Susan Rossiter, who was his ward, claimed payment of a sum received by him, and loaned to Thomas Rossiter, which had been received by Roberts\u2019 assignees; and offered declarations of Roberts, made before his assignment, to prove the loan was with her money. The auditor and court rejected the testimony, on the ground that Roberts himself might have been called to prove the fact.\nThis was the only exception argued here.\nPennepacker, for appellant.\n\u2014 The admission was evidence, for the assignor was in privity with his assignee and the creditors; but the court thought the party must be dead to make it competent, Phil. Ev., 660-665. The very point was decided in Woolf v. Eichelberger, 2 Penna. 346. In Harrisburg Bank v. Tyler, 3 Watts & Serg. 273, money was thus traced through several investments, though it is true the party was dead. But we are not bound to call him as a witness; his declarations are sufficient, and we may not choose to trust him. The declarations of a bankrupt before bankruptcy are good against his assignees, Mark v. Barker, 1 W. C. C. R. 185; and this court, in Twelves v. Williams, decided, assignees for creditors are in the same situation as the assignor.\nLewis, contra.\n\u2014 This court must decree, and the evidence is not brought up. The auditor would have taken it down if requested. [Gibson, C. J. \u2014 It is a great error in the auditor not to take down the testimony, and let the court judge of it; it is not like a case before a jury.] The reason is, it was not asked ; the court -would have compelled it had that been the case. [Curiam. \u2014 We would send it back to the auditor if we are satisfied it was admissible.] The question is not with the assignor, but with creditors ; and a creditor claiming as such cannot deny the title of his debtor. [Curiam. \u2014 She does not claim as a creditor.] She has no rights in any other capacity before this auditor. [ Curiam. \u2014 She claims as the owner of this particular fund, and as such may claim; the assignees are mere stakeholders.]\nApril 30."
+  },
+  "file_name": "0371-01",
+  "first_page_order": 371,
+  "last_page_order": 372
+}

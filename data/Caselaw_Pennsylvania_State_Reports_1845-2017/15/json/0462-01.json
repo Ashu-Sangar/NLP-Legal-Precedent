@@ -1,0 +1,129 @@
+{
+  "id": 408710,
+  "name": "Wallace versus Harmstad",
+  "name_abbreviation": "Wallace v. Harmstad",
+  "decision_date": "1851-04-07",
+  "docket_number": "",
+  "first_page": "462",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Yeates 2",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6770874,
+        6770852
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0001-02",
+        "/yeates/1/0001-01"
+      ]
+    },
+    {
+      "cite": "4 Whar. 382",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835030
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0382-01"
+      ]
+    },
+    {
+      "cite": "5 Mass. 539",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pa. Rep. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Bay 491",
+      "category": "reporters:state",
+      "reporter": "Bay",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Ben. 464",
+      "category": "reporters:federal",
+      "reporter": "Ben.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pick. 202",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 833,
+    "char_count": 18946,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 1.8710912382859757e-07,
+      "percentile": 0.7262801808136304
+    },
+    "sha256": "d62457ef0d79ab74694858a50fa00b672fdf673d880c7cffe751c45550475519",
+    "simhash": "1:af52d260858895a0",
+    "word_count": 3419
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wallace versus Harmstad."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, C. J.\nThe doctrine of deeds stands on the principles of the common law: 'the doctrine of commercial instruments stands on the principles of .the law merchant. A deed is a solemn and a formal act: a commercial instrument is neither solemn nor formal. A deed is not intended for circulation or to be subject to alteration by the exigencies of trade; but a promissory note or a bill of exchange may induce new responsibilities while it flits from hand to hand as if it were a part of the general currency. It is not strange, therefore, that a commercial and a common law security should have different consequences in respect of responsibilities to third persons. A fraudulent alteration of either avoids it between the original parties; but the necessities of trade require that a bona fide holder of a bill or a note*be not involved in the consequences of their dealings. On the other hand, the assignee of a bond, whether legal or equitable, takes it subject to defalcation and the equities of the obligor. A decision in the case of a commercial instrument, therefore, cannot be a precedent for a ease like the present. The fraudulent alteration of a deed makes every part of it a forgery; and it is so laid in an indictment. In Rex v. Teague, 1 Eng. Cro. Ca. 35, and in Dawson\u2019s case, 2 East P. C. 979, S. C. 3 Chitty Crim. L. 1042, it was held that a forgery of a material part is a forgery of the whole, because the legal effect of the whole would be changed; and it would seem to be as absurd to claim through the forgery of a deed not locked up in the party\u2019s desk, as to claim through the theft of a horse not locked up in the owner\u2019s stable. There is no case or book in which a deed fraudulently altered has been treated as only voidable. The authorities collected in Shepherd\u2019s Touchstone, at page 68, prove that it is utterly void. The attempt has been made to raise an authority, implied from the defendant\u2019s laches in parting with the possession of the instrument, to fill blanks in it to his prejudice before the ground-rent was conveyed ; but the only case cited to sustain it is that of a check, which is inapplicable to .the present. There is no instance of an implied agency to alter a deed. The case in 2 Lev. 35 is not such. A and B had sealed and delivered a bond to C, and the name of D was afterwards interlined; but he also sealed and delivered it with the concurrence of the others, and it was held to be the bond of all three. The transaction was consummated in the presence of all; and as it was the immediate act of all, there was no agency in the case. The only case that might be supposed to give colour to the argument, is Texira v. Evans, 1 Anstr. 228, cited by Mr. Justice Wilson in the great case of Master v. Miller, 4 Term Rep. 331; which was, however, a case of express authority. Evans, wanting to borrow \u00bf\u00a3400, or as much as his credit would raise, executed a bond with blanks for the name and sum, and sent it into the market by a servant, who filled it up. On non est factum pleaded, Lord Mansfield held it to be a good deed. Mr. Preston, the learned editor of Shepherd\u2019s Touchstone, at page 139, expresses a powerful doubt of the solidity of that decision, inasmuch as it is founded on an assumption that a man may be bound by a deed executed in his name by an attorney not constituted by deed\u2014contrary to a fundamental rule of the common law. That case can be sustained, if at all, only on the ground that the obligor had estopped himself by an act in pais. But it would be unreasonable and inconsistent with the current of human transactions, to require a party to keep his deed under lock and key in order to preserve it from violation. Laymen are not conveyancers, and scriveners employed by them use printed forms to save trouble; but the law would exact extreme vigilance did it require their employers to supervise the filling of the blanks. The exceptions converge to this one point; and they have not been sustained.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Miller and Qadwallader, for Wallace, plaintiff in error.",
+      "J. A. Phillips, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Wallace versus Harmstad.\n1. A deed fraudulently altered by the grantor after execution and delivery is thereby rendered utterly void as it respects the covenants in favor of the grantor. An authority to alter a deed is not to be implied. See 2 Barr 194.\n2. A conveyance of ground made subject to the payment of ground-rent, after complete execution and delivery, was, on application of the scrivener of the grantor, left with him, the grantor desiring to have it recorded, and material words were afterwards interlined by the grantor, or by his agency, in a blank space left originally in the deed: Held, that a subsequent bona fide purchaser of the ground-rent could not recover from the grantee the arrears of ground-rent.\nError to the District Court, Philadelphia.\nThis was an action of covenant upon a ground-rent deed, brought by \"Wallace against Joseph Harmstad, to recover the arrears of ground-rent. A deed had been made by Arrison and wife to Joseph R. Harmstad, the defendant, conveying to him a lot of ground on the west side of Schuylkill Seventh street, Philadelphia, reserving thereout a yearly rent of sixty dollars, payable on the first days of January and July in each year.\nArrison and wife, by deed dated September 9th, 1839, recorded 11th September, 1839, conveyed the rent to Wallace.\nThe first count in the declaration declared.upon and recited a deed containing, as part of the redemption clause defining the term within which the rent was redeemable, the words ' \u201c within ten years from the date hereof.\u201d\nThe second count recited and declared upon a deed in which these words were omitted.\nThere were other counts to which defendant\u2019s counsel demurred. In the demurrer to the third count, defendant\u2019s counsel assigned, as causes of demurrer, that plaintiff hath not brought into court, or made profer\u00ed in said count of the said supposed indenture, both original and counterpart, therein mentioned to have been sealed and delivered by and between the said Arrison and wife and the said defendant, or shown any cause for his omission to do so. 2d. For that the said count shows plaintiff\u2019s claim to be founded on an indenture alleged to have been sealed and delivered by said defendant, and fraudulently altered in a material part after delivery, while in the possession and under the control of Arrison, a party thereto. 3d. For that the said count is in other respects uncertain, informal, and insufficient.\nOn the trial, O. H. Harmstad was called on the part of the defendant, and testified\u2014\u201c In the summer of 1838, Mr. Arrison agreed with me and my three brothers, verbally, to let them have four lots on the west side of Schuylkill Seventh street, below Walnut street, at four dollars a foot. Prior to that, a talk had been had about taking them up, and giving us, in lieu of paying for them, the building of some houses for \"Mr. Arrison. When we came to the final bargain, however, he gave up building, and agreed, in lieu of it, to let us have our own time to redeem, and to let the rents begin to run from the first of January, 1839. We took on these conditions, and began to build in September 1838.\u201d He further said that before deeds were given, Mr. Arrison recommended his scrivener to draw the deeds. That he told them each to select his lot and take a diagram to the scrivener. He did so and wrote on the diagram a name on each lot; this was about September, 1838. In February, 1839, he received a note from the scrivener. This is it. \u201cI went to Mr.Badger\u2019s office to sign the deed by myself, and looked over them all. They were then signed by Arrison and wife. There was no insertion of these words, \u2018 within ten years from the date hereof,\u2019 in any of the eight deeds. There was a blank there in all. On seeing this blank, before I signed, I asked Mr. Badger the cause of it. He said it was in my favour. There was another large blank in the deed, which he said was immaterial. I signed mine, and my brothers went, one after the other, and signed theirs. Joseph brought home our four deeds between three and four o\u2019clock in the afternoon. Each took his deed.\u201d He further said that, about two weeks after, he got another note from the scrivener, desiring him to bring the deeds to his office: \u201c Arrison desired to have them recorded. I have lost that letter. I have made search for it.\u201d That he took the deeds and left them with the scrivener. * * * Cash\u2019s office was in the same house, downstairs. The scrivener kept Arrison\u2019s books. That he received in July a bill from the scrivener for six months\u2019 rent. \u201cI went to make an excuse that we had built largely, and could not pay the rent then. Arrison, then present, said he was satisfied. He refused to take a note I offered him. On the 8th October, 1839, I went down to pay rent. I paid rent for all the four lots, and took a receipt. This is that receipt. I then asked for the deeds. He said I could get them from Cash. I went to Cash, but did not get them then. I called next morning. Mr. Harlan put the deeds under his arm and went with me to the recorder\u2019s office and left them there. I got a receipt. I had not seen the deeds since I executed mine. About the 20th of November, 1839, I went to the recorder and got them, and brought them home. On examining them, I found interlineations in all that we had\u2014in all four of the deeds. These are they. These are the words interlined: \u2018within ten years from the date hereof.\u2019\u201d\nBeing cross-examined, the witness said :\u2014\u201c I paid for recording the deeds. I can\u2019t say who paid for the conveyancing. My eyes were attracted to the blanks on reading the deeds. They were plain enough to be seen.\u201d\nIt was admitted by the counsel on both sides that one of the originals of said deeds of December 31, 1838, was recorded on the day of October, 1839, with the words interlined.\nAnd the defendant further called Samuel Harmstad, who, being affirmed, said:\u2014\u201c I am the elder brother of defendant. I saw the deeds when they first came home from the alderman\u2019s. I read them, and saw the blank. It was not filled up. I was in the house when the deeds came home from the recorder\u2019s office. I picked one up. I observed the interlineation, and called attention to it.\u201d\nAnd the defendant further called Edwin Harmstad, who; being' affirmed, said :\u2014\u201c I am one of the four. In August, 1828,1 understood Arrison had lots to let. He said if we would take them, he would give us a job. Two weeks after, he called and said he had given up the notion of building, and if we would take the lots, he would give us till January for the commencement of rents, and we should have our own time to buy them off.\u201d\nAnd being cross-examined, the witness said:\u2014\u201c I was at the alderman\u2019s. I took notice of the blank space. Joseph was not with me. I don\u2019t know who went with him.\u201d\nThe defendant\u2019s counsel closed his case, and both parties having closed, the counsel for the plaintiff thereupon handed to the court certain points, and requested that the jury be charged as therein mentioned, namely:\u2014\n1. The indenture in question being the act of, and executed by the defendant as well as the grantor, if the jury believe that it was mutually delivered by them with a blank space, in which, according to the ordinary course of conveyancing, words defining a time within which the rent reserved should be extinguish able would properly have been inserted; (other blank spaces therein having lines drawn through them to prevent the improper insertion of new or other matter therein;) and if, in omitting to draw a line or otherwise fill up the said first-mentioned blank space, or take any measures to prevent the liability of the said deed to the subsequent insertion of such words in that space, the defendant was guilty of extraordinary neglect of a usual and proper precaution; and if his said negligence and want of precaution enabled the person by whom the words, \u201cwithin the space of ten years,\u201d were afterwards inserted in the said blank space, to insert the same without the said deed\u2019s being thereby made liable to doubt, distrust, or suspicion upon its face; and if Joshua M. Wallace, the plaintiff, subsequently purchased the ground-rent in question for a valuable consideration, and paid for the same without notice, or suspicion, or cause to suspect that any alteration had been made therein, then the defendant\u2019s negligence and omission aforesaid ought to preclude him from taking advantage of such insertion of the said words therein, in order to avoid the indenture as against such purchaser, .and the plaintiff may recover upon the first count of the declaration.\n2. If the alteration, alleged by the defendant to have been made by Arrison or by Cash, was made by either of them after the delivery to the plaintiff, Joshua M. Wallace, of the deed of the 9th September, 1839, from Arrison to him, the said Joshua M. Wallace, being a purchaser for valuable consideration by him paid, and without previous or subsequent privity or knowledge by him of such alteration, then the effect of the alteration is the same as if it had been made by the unauthorized act of any other stranger, and the indenture was not thereby avoided; and, in that case, the plaintiff may recover upon the second count of the declaration.\n3. If the instruction of the court should not be as requested in the first point, but should be as requested in the second point, the court is requested further to instruct the jury, that if they believe the said indenture to have been delivered with a blank space, in which, according to the ordinary course of conveyancing, words defining a time in which the rent reserved should be extinguishable would properly have been inserted; (the other blank spaces therein having lines drawn through them to prevent the improper insertion of new or other matter therein;) and if, in omitting to draw a line, or otherwise fill up the said first-mentioned blank space, or take any measures to prevent the liability of the said deed to the subsequent improper insertion of such words in that space, the defendant was guilty of extraordinary neglect of a usual and proper precaution; and if his said negligence and want of precaution enabled the person by whom the words, \u201cwithin the space of ten years,\u201d were afterwards inserted in the said blank space, to insert the same without the said deed\u2019s being thereby made liable to doubt, distrust, or suspicion upon its face; and if the plaintiff subsequently purchased the ground-rent in question, and paid for the same without notice or suspicion, or cause to suspect that any alteration had been made therein, then if the defendant has not proved the time when such alteration was made by the said Cash or Arrison, and has not shown that it was made before the delivery of the indenture to the said purchaser, the jury, in the absence of such proof, are at liberty to find that it was made after the delivery of the same to the said purchaser, in which case it was not thereby avoided; and the plaintiff may recover upon the second count of the declaration.\nAnd the court proceeded to charge as follows, viz:\u2014\u201cI decline to instruct you as plaintiff has requested in his first point.\u201d To which said further charge the plaintiff excepted, and the court sealed this bill.\nAnd the court further charged:\u2014\u201c Upon the issues under the pleas to the second count, after proof that the deed had been altered subsequently to its execution, the jury will determine upon the evidence, the presumption in the absence of evidence being that it was made by the plaintiff, or some one by his authority or under whom he claimed.\u201d To which the said plaintiff excepted, and the court sealed this bill.\nAnd the court further charged:\u2014\u201cI refuse to charge as requested in said plaintiff\u2019s thir.d point.\u201d To. which plaintiff excepted, and the court sealed this bill.\nIt was assigned for error:\u20141st. The court erred in declining to charge as he, the said plaintiff, requested in his first point.\n2d. The court erred in charging:\u2014\u201c Upon the issues under the pleas to the second count, after proof that the deed had been altered subsequently to its execution, the jury will determine upon the evidence, the presumption in the absence of evidence being that it was made by the plaintiff, or some one by his authority, or under whom he claimed:\u201d\n3d. The court erred in refusing to charge as he, the said plaintiff, requested in the third point.\n4th. The court erred in giving judgment for the defendant on his several demurrers to the third, fourth, and fifth counts.\n5th. The court erred in giving judgment for the defendant on the whole record.\nThe case was argued by Miller and Qadwallader, for Wallace, plaintiff in error.\nIt was contended that a Iona fide purchaser is protected where the deed is voidable only, not void. That, as between the original parties to the deed, it was avoided if altered as averred in the three last counts. As between the defendant and the purchaser from Arrison, the effect of such an alteration would have been the same, if no question arose upon the existence or effect of culpable laches on the part of the defendant enabling the alteration to be made. In the case of Arrison v. Harmstad, 2 Barr 191, no such question of fact arose. When one of two innocent persons must suffer, the loss must be borne by him who was the occasion,of it, even without positive fault committed by him, but more especially when there has been carelessness on his part: 2 Pick. 202; 4 Ben. 464; 3 Bing. N. Q. 468 ; 3 Barn, \u00bff- 0. 38; 1 Salk. 289. Where a drawer accepts and pays forged bills, he cannot recover back the money. He ought to know of the forgery, and not encourage an innocent person to discount the paper by accepting it: Burr. 1357; 3 Bay 491; 4 Bing. 252; 2 E Bl. 151; 17 Ser. f R. 438 ;_ 10 Barr 285; 8 id'. 518.\nA party may be estopped by his laches : 2 Pa. Rep. 134 ; id. 200; 5 Mass. 539.\nJ. A. Phillips, for defendant.\nThe deeds were written according to the contract, and were complete. If an inference of authority to alter can be drawn, no one is perfectly safe who puts his name to a paper where there is room to add any thing over his name.\nThe plaintiff\u2019s innocence will not protect him: \"Van Amringe v. Morton, 4 Whar. 382, and Arrison v. Harmstad, 2 Barr 191, are decisive on this head. In the former, the deed was perfect on its face, and was taken with no circumstances of suspicion, and yet it was held void for want of delivery from a former grantor. In the latter case, both the deed and counterpart were altered. But -Dr. Wallace might have seen- that the interlineations were made in a different hand from the writing of the deed, and he ought to have made inquiry.\nThe covenants existing in the deed are destroyed^\u2014all right of action on the deed is gone. The plaintiff could not declare'on the deed without a profert, or an excuse for not making it: 1 Saund. 276, note 1; 3 T. Hep. 151; 10 East 60; 1 Yeates 2.\nApril 7, 1851,"
+  },
+  "file_name": "0462-01",
+  "first_page_order": 462,
+  "last_page_order": 468
+}

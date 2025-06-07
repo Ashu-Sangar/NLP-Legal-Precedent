@@ -1,0 +1,65 @@
+{
+  "id": 990423,
+  "name": "Slone versus King",
+  "name_abbreviation": "Slone v. King",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "270",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 121,
+    "char_count": 1364,
+    "ocr_confidence": 0.451,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.3343499949224839
+    },
+    "sha256": "ce1646f828b80aecc24652f47ea75cca2c9b6762cbea1fdd5c1c8b65b82f524e",
+    "simhash": "1:e3f3b2317667a3bb",
+    "word_count": 240
+  },
+  "last_updated": "2023-07-14T16:02:38.618048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Slone versus King."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nNo law is known to us which entitled the defendant to a stay of execution in such a case as this, and none has been shown to us. The recognisance of bail was, therefore, properly stricken off.\nThe order striking off the recognisance is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Johnson Brown, for the plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Slone versus King.\nThe defendant in a judgment entered on a warrant of attorney, is not entitled to a stay of execution, on entering hail therefor.\nError to the Common Pleas of Warren county.\nThis was a judgment in favour of Thomas Slone against John I\u00ed. King, entered in the court below, on the 29th July 1859, on the following note and warrant of attorney: \u2014 \u25a0\n\u201c $1000. One year from the first day of June next, value received, I promise to pay John H. King, or bearer, one thousand dollars and interest; and I hereby authorize the prothonotary of Warren county to enter judgment against me for the same debt, interest, and costs, with release of errors, etc.\n\u201c Russelburg, March 15, 1858. Thomas Slone.\u201d\nOn the 18th June 1859, the defendant entered bail for stay of execution for one year from the 1st June 1859, with Melvin Thompson as surety, who was approved by one of the judges of the court. And, on the 5th December following, on application of the plaintiff\u2019s attorney, the court struck off the recognisance of bail; which was here assigned for errror.\nJohnson Brown, for the plaintiff in error."
+  },
+  "file_name": "0270-01",
+  "first_page_order": 270,
+  "last_page_order": 270
+}

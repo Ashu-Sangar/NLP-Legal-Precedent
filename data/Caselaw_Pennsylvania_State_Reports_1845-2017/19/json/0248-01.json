@@ -1,0 +1,128 @@
+{
+  "id": 970691,
+  "name": "Sanders versus Wagonseller",
+  "name_abbreviation": "Sanders v. Wagonseller",
+  "decision_date": "1852-09-28",
+  "docket_number": "",
+  "first_page": "248",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts 485",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle 252",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pa. Rep. 82",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle 243",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0243-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 598",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wh. 27",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1834974
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/4/0027-01"
+      ]
+    },
+    {
+      "cite": "5 W. 404",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 556,
+    "char_count": 12125,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 2.6620508787224527e-07,
+      "percentile": 0.8250297604223258
+    },
+    "sha256": "fd04ac8dff987d9df195e981180ebe09c5fb5cf1e7c51c9141a33d369fc569e4",
+    "simhash": "1:6ad176245a05907d",
+    "word_count": 2149
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sanders versus Wagonseller."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court, filed was delivered by\nLewis, J.\nMichael Sanders, after becoming indebted to Wagonseller and others, conveyed his land to his unmarried daughters, who resided with him. The deed purported to be for the consideration of love and affection, in part, and for the additional consideration of $400. By an agreement, executed at the time of the conveyance, it appeared that the daughters, in part consideration of the deed, were bound to maintain their father for the term of his life. To support the money consideration mentioned in the deed, the plaintiffs in- error offered to prove that the grantees, after they became of age, and before, \u201c for several years previous to the execution of the conveyance, worked for their father, by grubbing, clearing, making fence, mowing, chopping, and doing all kinds of work on the farm, and about the house.\u201d There was no offer to prove that this work had been done under an express contract that the father would pay wages for their services, or that any other relations existed between the parties than the usual relations of parent and child.\nIt has been repeatedly held that work done by a son for a father, does not stand upon the footing of work done by a stranger, and that services rendered by a child, while residing with, and supported by the father, without, any contract for compensation, cannot be made the foundation of a claim for wages: Hack v. Stewart, 8 Barr 213. There was, therefore, no error in rejecting the evidence stated in the first and second bills of exception. This disposes of the first assignment of error; and the others do not specify the errors complained of with sufficient precision to receive consideration. To say that the Court erred in \u201c answering the points,\u201d or in \u201ctaking the cause from the jury,\u201d without specifying in what the error consisted, is not a. specification of error, according to the rule of Court.\nBut we perceive no error in pronouncing 'the deed fraudulent, per se, as to creditors. Johnston v. Harvey, 2 Pa. R. 82, Hack v. Stewart, 8 Barr 213, and other cases, sanction the instruction as correct. It is true that a voluntary conveyance by a father to a child is not void by the statute of 13 Eliz., merely because the father was indebted at the time. If the grantor possessed other property sufficient at the time to pay all his debts, and he was not about to contract other debts, such a conveyance may be good: 5 W. 404; 4 Wh. 27; 6 W. & Ser. 101. In a case arising under such circumstances, it is said that it ought to be submitted to the jury to find whether there was a fraudulent intent in making the deed: 5 W. 404. If the defendants below designed to put their case upon this ground, they should have laid before the jury the necessary facts, and directed the attention of the Court to the question in one of their points.. Where a party thinks proper to present a number of points to the Court, it is his own fault if he thereby diverts attention from questions material to his interests. Under such circumstances this Court does not feel bound to reverse for an omission to instruct the jury upon a question not raised by the points.\nIt seems to be settled, that where a suit is brought within five years from the death of the debtor, and judgment obtained, the lien is continued against the real estate of the decedent for the period of ten years from his death: 2 Harris 42, and the cases there cited. As the conveyance, in this case, is void as against the interests attempted to be defrauded by it, the lien continues as fully as if the property had never been conveyed: 2 Pa. R. 82, 93; 4 Johns. 598.\nJudgment affirmed. \u2022",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Miller and Linn, for plaintiff in error.",
+      "Pollock and Qasey, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "Sanders versus Wagonseller.\n1. Service rendered by a child to its parent whilst residing with him, without any contract for compensation, is not the foundation of a legal claim by the child against the parent. Therefore evidence of such service is not admissible as proof of valuable consideration paid by children to their father for a conveyance of real estate, in a contest with a creditor of the parent.\n2. An assignment of errors that the Court erred in answering points, without specifying in what the errors consisted, is not a proper specification of error.\n3. A conveyance of land by a father, who was indebted at the time, was executed to his three daughters residing with him; and they, by an agreement in writing, of the same date as the deed, in consideration of the execution and delivery of the deed, and in addition to the consideration-money mentioned in it, agreed to support and maintain their father during his natural life: Held, that such deed was fraudulent as to creditors injured thereby.\n4. By a suit brought against the administrator alone, within five years from the decease of the debtor, and judgment obtained therein, the lien of the debt is continued against the estate of the decedent for ten years from his death, though the heirs be not made parties thereto.\nError, to the Common Pleas of Union eounty.\nThis was a writ of error taken on the part of the defendants below, on a proceeding by scire facias on a judgment in favor of Jacob Wagonseller (since deceased) v. John Gundy, administrator, &c., of Michael Sanders, deceased; in which Jacob Sanders and others were named as terre tenants. The material question in the case related to the validity of a conveyance of land by said Michael Sanders to his children.\nMichael Sanders, on the 29th May, 1841, conveyed 150 acres of land in Union township to Mary, Lydia, and Elizabeth Sanders, his children, who resided with him, the deed expressing the consideration to be, his natural love and affection, and a further consideration of four hundred dollars. On the day of the execution of the deed an agreement under seal was executed by the daughters and the father, in which the said conveyance was referred to, and by which the daughters agreed that they, in consideration of the deed of conveyance, and in addition to the consideration-money mentioned in the deed, will support and maintain their father during his natural life, and also pay to their brother' Samuel $25.\nMichael Sanders, the grantor, died in November, 1841.\nOn the 5th December, 1843, Jacob Wagonseller obtained judgment against John Gundy, as. administrator, for $39.13, before a justice of the peace. A transcript was filed in the Common Pleas December 7, 1843. No scire facias was served on the terre tenants of the land until the 25th January, 1850, above eight years after the decease of the debtor. A scire facias quare ex. non on the judgment was issued in the name of William Wagon-seller and another, executors of the will of Jacob Wagonseller, against Gundy, administrator, with notice to Jacob and Samuel Sanders and their sisters as heirs, &c., and terre tenants. The pleas were, payment with leave, and that defendants are not in possession of any lands bound by the judgment.\nThe ease was tried in May, 1852, before Wilson, J. On the trial, in support of the money consideration expressed in the deed, it was, on part of the defendants, offered to be proved, that the daughters worked for their father during several years after they arrived at full age, at various kinds of work on the farm. No evidence of any previous contract by the father to pay for such service was offered.\nThe evidence was rejected and exception taken.\nAnother offer was made to prove out-door labour by the daughters for their father, and also work in the house, done after and before they were of lawful age. This was also rejected, and the rejection of the two offers formed the first and second bills of exception.\nAfter a variety of evidence was given, points were submitted on each side.\nOn the part of the plaintiff two of the points were as follows : 1st. That the plaintiff by the entry of his judgment against the personal representatives of M. Sanders, deceased, thereby continued the lien of his debt for the period of ten years from the death of M. Sanders, upon the real estate of the intestate. 2d. That it is competent for the plaintiff within said period of ten years to bring in the heirs and terre tenants, and make them parties to the said judgment, and thereby charge the real estate of M. Sanders deceased, in their hands.\nThese points were answered affirmatively by the Court in delivering their judgment on the special verdict.\nMay 22, 1852, Wilson, J., charged the jury, inter alia, that the reservation of a support from his daughters expressed in the agreement, though not in the deed, rendered the deed fraudulent as to creditors of the grantor. He instructed the jury to render a special verdict as follows : \u201c That if in law the plaintiffs\u2019 lien was continued against the estate of Michael Sanders, of which he died seised, by issuing their scire facias, then we find for the plaintiffs against the defendants and terre tenants and heirs served by the writ, the sum of $59.08. If in law the Court shall be of opinion that the said scire facias was not issued in time to continue the lien against the land in the hands of the heirs and terre tenants, then we find for defendants, terre tenants.\u201d June 25, 1852, judgment for plaintiffs for the amount found by special verdict.\nError was assigned to the rejection of the evidence referred to in the first and second bills of exceptions.\n2d and 3d. That the Court erred in their answers to the points. 4th. In taking the facts from the jury and deciding the cause as matter of law in favor of the plaintiff.\nMiller and Linn, for plaintiff in error.\nThe 24th section of the Act of 24th February, 1834, provides that no debts of a decedent, not secured by mortgage or judgment, shall remain a lien longer than five years from the decease of the debtor, unless an action be commenced and prosecuted within the five years; and the 34th section requires the heirs or devisees to be made parties. within the five years; in order to bind the estate.\nA conveyance by a father to his children is not fraudulent per se ; the question of actual fraud is for the jury.\nPollock and Qasey, contrd.\nWhere children continue with the father after arriving at full age, and perform labour or service without any contract, they have no legal claim for such service: 3 Rawle 243, Walker\u2019s Estate; 5 W. & Ser. 513, Candor\u2019s Appeal; 8 Barr 213, Hack v. Stewart. See also Lantz v. Frey and wife, 2 Harris 201; same case, 7 Harris.\nA conveyance by a father to his sons in trust to pay judgments on record, and for the maintenance of the father\u2019s family, is fraudulent as to creditors: 2 Pa. Rep. 82; 3 Id. 83; 5 Id. 478.\nWhere the facts are uncontradicted and amount to a fraud in law, the question is for the Court and not for the jury: 1 Rawle 252; 5 W. & Ser. 147; 10 Ser. & R. 419; 5 Watts 485.\nIn regard to the question of lien, the following positions were taken: \u25a0 1st. That by obtaining a judgment against the administrator of the decedent within the five years from his death, the plaintiff acquired no lion on the real estate separate and distinct from the statutory lien of the debt itself. 2d. That the only effect of the judgment was to extend the duration of the statutory lien of the debt, for another period of five years, to be computed from the expiration of the first five years, during which it was a lien without a judgment; making ten years in all. 3d. That, if these positions are correct, then at any time during the continuance of the lien, it was competent to the plaintiff to make the heirs or terre tenants parties, and charge the land in their hands.\nThe creditor is not bound under the Act of 1834 to proceed first against the heirs; he may proceed to judgment against the representative, and then obtain judgment de terris by scire facias against the heirs: 2 Barr 112, Atherton v. Atherton; 9 W. & Ser. 13, Benner v. Phillips.\nThe limitation by the Act of the 24th February, 1834, of the lien of- a decedent\u2019s debts to a period of five years, is extended to a period of ten years, by an action brought and judgment recovered against the personal representative alone, within the first period: 2 Harris 42, Schwartz\u2019 Estate.\nSeptember 28,"
+  },
+  "file_name": "0248-01",
+  "first_page_order": 250,
+  "last_page_order": 254
+}

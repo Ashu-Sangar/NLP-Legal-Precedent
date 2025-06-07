@@ -1,0 +1,66 @@
+{
+  "id": 981553,
+  "name": "Ayers's Appeal",
+  "name_abbreviation": "Ayers's Appeal",
+  "decision_date": "1857",
+  "docket_number": "",
+  "first_page": "179",
+  "last_page": "180",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 Pa. 179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 259,
+    "char_count": 4714,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 9.294693502399552e-08,
+      "percentile": 0.5123163551234068
+    },
+    "sha256": "bf13afbdc83af91695e176145981efe927f12561c74b1255624fe7ce2a76ca23",
+    "simhash": "1:f94e306594820c53",
+    "word_count": 815
+  },
+  "last_updated": "2023-07-14T16:15:42.843019+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ayers\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nWhat the appellant complains of is, that the court below held him to his \u201c solemn promise,\u201d or rather that they would not let him have the fruits of its violation. He obtained the confession of judgment from Grarrigues on the express condition, that he would neither enter it nor issue execution on it until after a certain judgment, confessed to Boggs & Kirk, by the same defendant, had been entered and execution issued thereon.\nHe did both. He entered his judgment, and issued execution on the same day and half an hour before Boggs & Kirk; but when the sheriff brought in the money arising from the sale of the defendant\u2019s personal property on both writs, the court, on proof Of Ayers\u2019s agreement, awai\u2019ded the money to Boggs & Kirk. This was a singularly simple and direct administration of justice. No attack was made on Ayers\u2019s judgment or execution. Both were right in themselves. Neither the defendant nor his other creditors questioned them, but the defendant proved the agreement, and the court considered that as done which ought to have been done, and postponed Ayers.\nThe effect of the agreement was to entitle Boggs & Kirk to a preference, and it was founded on a sufficient consideration, the confession of the judgment without the delay and costs of a suit. No matter that the consideration moved from Grarrigues and not from Boggs & Kirk, it was sufficient to bind Ayers. And Boggs & Kirk were entitled to avail themselves of a promise made for, their benefit, when founded on a valuable consideration, though it was made to their debtor and not to them. And there is no difficulty about parol evidence, because it was a fraud in Ayers to use his judgment to defeat a creditor, whom he had agreed to prefer. Judgments and executions cannot be made any more efficient instruments of fraud, than less weighty matters. When used for such a purpose, they are open to inquiry like other transactions.\nThe decree is affirmed at the costs of the appellant.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Lewis and Sannum, for appellant.",
+      "Darlington and Morris, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Ayers\u2019s Appeal.\n1. An agreement by a creditor made with his debtor, at the time of the execution of a judgment note given by the latter, not to enter it or issue execution on it, until the judgment of another creditor of the same debtor should be entered and execution issued thereon, is founded upon sufficient consideration, and will be enforced against the creditor making the agreement, in favour of the one for whose benefit and advantage the stipulation was made.\n2. Although such agreement was made with the debtor, and founded on a valuable consideration, being made for the benefit and advantage of a designated creditor, the latter could avail himself of the promise made for his benefit.\n3. Where the creditor in violation of such agreement entered his judgment and issued an execution upon it, prior to the entry of the judgment of the other creditor, he was rightly postponed in the distribution of the proceeds of the sheriffs sale of the personal property of the debtor, to the creditor for whose benefit the agreement was made, although the execution of the latter come to the sheriffs hands after that of the former.\n4. Confessions of judgments when attempted to be used for fraudulent purposes, are open to inquiry by parol evidence the same as other transactions.\nAppeal from the decree of the Court of Common Pleas of Delaware county.\nOn the 26th day of April, 1856, Benjamin D. Garrigues gave to J. B. Ayers a single bill, with warrant of attorney to confess\n1 judgment for the sum of 1$360, payable one day after date. This judgment-note was given under a parol agreement, that it was not to be entered nor execution issued upon it until after a certain judgment, which Garrigues had given to Boggs & Kirk, should be entered, and execution issued upon it.\nOn the 28th April, 1856, Ayers caused judgment to be entered on the warrant of attorney, and issued an execution and had it placed in the sheriff\u2019s hands. Subsequently, but on the same day, the judgment in favour of Boggs & Kirk was entered, an execution issued upon it, and placed in the sheriff\u2019s hands a few minutes after that of Ayers. This latter judgment was for the sum of |840.\nUnder these executions, the personal property of Garrigues was sold for the sum of $'784.22, besides costs. The money was ruled into court for distribution. The appellant Ayers moved to take the amount of his judgment out of court, and Boggs & Kirk entered a similar rule to have the whole of the money decreed to their execution. Upon the hearing of these rules, the court decreed the money to be paid to Boggs & Kirk.\nAnd from this decree Ayers appealed.\nLewis and Sannum, for appellant.\nDarlington and Morris, for appellee."
+  },
+  "file_name": "0179-01",
+  "first_page_order": 179,
+  "last_page_order": 180
+}

@@ -1,0 +1,119 @@
+{
+  "id": 970607,
+  "name": "Liggett versus Long",
+  "name_abbreviation": "Liggett v. Long",
+  "decision_date": "1852",
+  "docket_number": "",
+  "first_page": "499",
+  "last_page": "502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts 287",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0287-01"
+      ]
+    },
+    {
+      "cite": "5 Watts 343",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843982
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0343-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 351",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "pin_cites": [
+        {
+          "page": "2"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 416",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 364",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848464
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0364-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 424,
+    "char_count": 8812,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 1.0417561518279478e-07,
+      "percentile": 0.5510247894761432
+    },
+    "sha256": "325fab92022265d14e4f921469191cba1b5c6c647ca5a36e5c0a85645e492b06",
+    "simhash": "1:8cf9de34a1d8ce54",
+    "word_count": 1601
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Liggett versus Long."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, J.\nA treasurer\u2019s sale on the 18th June, 1834, for nonpayment of taxes on unseated lands for the years 1832 and 1833, does not extinguish the lien of the taxes for the year 1834, and the land may be again sold, after the expiration of two years, for the taxes of 1834.\nWhere the treasurer has omitted to place his signature to a deed at the proper place for it, near the printed impression of a seal, but has attached it to the receipt for the taxes and costs and bond for the surplus purchase-money, and has acknowledged the deed in open Court, and such acknowledgment is duly certified on the deed and entered on the records of the Court, the omission of the signature is not such a defect as will deprive the purchaser of compensation for the improvements made on the faith of such title.\nWe give no opinion on the question, how far an omission to give bond for the surplus purchase-money would defeat a claim to compensation for improvements, because it is not found by the jury, or admitted on the record, as a fact in the cause, that any such defect existed in the defendant\u2019s title.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Woods, for plaintiff, in error."
+    ],
+    "corrections": "",
+    "head_matter": "Liggett versus Long.\n1. A treasurer\u2019s sale of an unimproved lot, in June, 1834, for taxes of 1832 and 1833, does not discharge the lot from the taxes assessed previous to the sale for the year 1834; and the lot may he again sold for the taxes of 1834, after the expiration of two years.\n2. Where the county treasurer has omitted to place his signature to the deed at the proper place for it near to the impression of a seal, hut has attached it to the receipt for the taxes and costs and hond for the surplus purchase-money, and has acknowledged the deed in open Court, and such acknowledgment is duly certified on the deed and entered on the records of the Court, the omission of the signature to the deed is not such a defect as will deprive the purchaser of compensation for the improvements made on the faith of such title.\nError, to tlie District Court of Allegheny county.\nThis was an ejectment by Thomas Liggett v. Frederick Long and Charles Ross, brought to April Term, 1851, for Lot No. 216, in McKeesport, Allegheny county.\nThe plaintiff claimed, under deed of Nathaniel Holmes, treasurer of Allegheny county, to him, dated 18th June, 1834, for said lot No. 216, for county taxes, for the years 1832-33, as unseated. Deed acknowledged July 9, 1834. Receipt for the taxes, &e.; and purchaser\u2019s bond for residue in full, filed in prothonotary\u2019s office. Plaintiff also showed that the lot was returned as unseated, assessed as unseated, placed on the unseated land book, and sold to him; that it was then regularly assessed to plaintiff, and he paid the taxes for the same, for the year 1835, and thence till the year 1851. Plaintiff also showed patent to John McKee, in 1796, for the land embracing McKeesport.\nThe defendants claimed under a treasurer\u2019s sale of the same lot, sold on 11th June, 1836, to William Cavin, sold for taxes for the year 1834.\nThe defendants then offered in evidence the \u201cDuplicate of 1834, list of unseated lots in McKeesport, of which no regular return was made, no names, valuation, or taxes; the date of the warrant in this duplicate, 29th November, 1833 ; the date of the assessment, 31st December, 1833. Duplicate of 1835 offered, containing no entry of unseated lands, but showing this lot to be assessed with seated property to Thomas Liggett.\u201d\nDefendants then offered Unseated Land Book list of lots in McKeesport, for 1834-35. \u201cLot No. 216, Andrew Watson, reputed owner.\u201d \u201c June 14, 1836, sold to William Cavin for $105.\u201d\nDefendants\u2019 counsel then offered the treasurer\u2019s deed to Cavin, dated July 12, 1836. It was not signed by John M. Snowden, treasurer. The receipt on the deed for the purchase-money was signed by him. The deed was acknowledged July 18, 1886, and entered in docket, and was for lot No. 216, sold, as stated, for taxes of 1834 and \u201935, as unseated. Also offered bond for the surplus, dated 12th July, 1836, Wm. Cavin to Treasurer, but witnessed\u2019 by F. L. Snowden, as having been signed August 17, 1847. It was admitted that John M. Snowden, Sen., died in 1845.\nIt was objected by plaintiff\u2019s counsel, that the deed was never executed or delivered; that the bond showed on its face that it was signed and witnessed on August 17, 1847, two years after the death of the treasurer, and more than eleven years after the alleged sale.\n2d. That this lot was not assessed or returned as unseated, in 1835, but was taxed as a seated lot; that for 1834, this lot should not have been returned or sold as unseated; that the assessment for 1834, was made in December, 1833, about six months before* the sale to the plaintiff, and that that sale extinguished all subsisting liens for taxes.\nA son of J. M. Snowden being called, it appeared from his testimony that in August, 1847, he gave to Cavin the treasurer\u2019s deed to him, which he had found amongst his father\u2019s papers. The witness signed the bond for the surplus, as a witness, in 1847, and he left it in the prothonotary\u2019s office.\nThe Court rejected the deed and the bond of Cavin, as evidence of title, reserving the legal question as to their admissibility. The same papers were, however, admitted as evidence of a sale on which to found a claim on the part of the defendants for the value of their improvements. That question was also reserved.\nDefendants then proved that Cavin, in 1846, leased this lot to Ilenry Soles, who enclosed it, with a number of other lots, it having been a part of the common prior to that. That on 11th April, 1849, he sold one half of the lot by deed, to Charles Ross, for $115; and on July 16, 1849, he sold the other half by articles of agreement, to Frederick Long, for $120.\nThe Court having admitted all the papers offered by defendants, reserving all legal questions as to their effect, permitted the defendants to prove the value of their improvements.\nPlaintiff afterwards proved that he lived in Pittsburgh, and that about a year before he went to find his lots, and found that the defendants had built on them.\nThe Court charged that the plaintiff has shown the better title, and was entitled to a verdict.\nHe further charged that the title of the defendants, although imperfect, was sufficient to warrant their claim to the value of their improvements. He charged that the lien of the tax for 1834, was not extinguished by the sale to the plaintiff.\nOn February 12, 1852, verdict wras rendered for the plaintiff, with six cents costs. The jury also found the value of one house erected upon the lot in question, to be $1100, and that of another to be $200; \u2014 and fixed the time of payment in one year from the date of the verdict.\nOn 18th June, 1852, it was adjudged by the Court that the plaintiff recover and have possession of the premises on payment of $1300 within one' year, as stated by the jury for the value of the improvements. The writ of hab. fae. poss. to be stayed in the mean time.\nError was assigned: 1. To the entry of judgment. 2. To the instruction that the sale did not extinguish and satisfy the tax of 1834, assessed prior to the sale; and 3. To the charge that the defendants were entitled to be paid for their improvements.\nWoods, for plaintiff, in error.\nThe defendants had no title. Cavin never got a deed from the treasurer. He obtained a deed and signed the bond, more than eleven years after the sale. The deed on its face shows that it was not signed. The bond shows that it was executed in 1847.\nAs to the bond, its execution or delivery must be shown, or no title passes: 8 Watts 364; McDonald v. Maus, 6 W. & Ser. 564; 6 Watts 416. It may be delivered in two years from the sale: 5 W. & Ser. 468. The deed must be delivered: 10 Barr 346; 1 Jones 351, 2; 5 Watts 343; 4 Id. 43. The seal is not sufficient. On proof of the handwriting of the obligor, the sealing and delivery may be presumed: 1 Ser. & R. 73. The sale of unseated lands divests the lien of mortgages: 5 Watts 287; 5 W. & Ser. 305.\nThe Act of 12th April, 1842, relative to recovering the value of improvements, does not apply to this case. The case under the undisputed facts, does not come within the act. If it did, the act would be unconstitutional, giving one man who has no title, who has not even secured the purchase-money to the owner, a right to improve the owner out of his property. The proviso to the act, enacts, \u201cThat if the defects in the tax title shall be known to the purchaser at the time of the sale, he shall not be allowed for his improvements.\u201d See also 2 W. & Ser. 107, McKee v. Lamberton, where the subsequent purchaser is held to be in no better situation than the vendee of the treasurer. If the sale is void, the intruder has no right to compel the owner to pay for improvements."
+  },
+  "file_name": "0499-01",
+  "first_page_order": 501,
+  "last_page_order": 504
+}

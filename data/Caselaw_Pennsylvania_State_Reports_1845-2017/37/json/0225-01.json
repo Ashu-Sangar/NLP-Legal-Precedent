@@ -1,0 +1,105 @@
+{
+  "id": 418942,
+  "name": "Richards versus Richards",
+  "name_abbreviation": "Richards v. Richards",
+  "decision_date": "1860-11-08",
+  "docket_number": "",
+  "first_page": "225",
+  "last_page": "228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 337",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Y. 527",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6775722
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0526-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 587",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2004080,
+        2004053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0515-03",
+        "/mass/4/0515-02"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch. Rep. 189",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 488,
+    "char_count": 9235,
+    "ocr_confidence": 0.413,
+    "pagerank": {
+      "raw": 1.7693975364217713e-06,
+      "percentile": 0.9938287907905056
+    },
+    "sha256": "3062b8d9a68441090efc30f64e4e813c4eb25fa5a729230aba9d6213b3343b2d",
+    "simhash": "1:c6849f8fbc4ef93c",
+    "word_count": 1621
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richards versus Richards."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nLowrie, C. J.\n\u2014 One cause of divorce for ill-usage is when a husband has \u201cby cruel and barbarous treatment endangered his wife\u2019s life;\u201d but there can be no pretence of such ill-usage in this case. Another cause is when a husband has \u201c offered such indignities to her person, as to render her condition intolerable and life burdensome, and thereby forced her to withdraw from his house and family.\u201d This, therefore, is the matter to be proved in this case.\nWe had this cause here three years ago, and we then reversed a decree in favour of the wife, because on the trial the judge below had instructed the jury that if the husband, in anger and madness, twisted his wife\u2019s nose she was entitled to a verdict. On another trial, had since that, the judge instructed the jury in the words fully quoted in the third assignment of error. A careful reading of what is there said will show that the thought intended is very confusedly and unfortunately expressed. Though the judge speaks of the general conduct of the husband, yet we understand his relevant instruction to be that if the pulling of the wife\u2019s nose was done in rudeness and in anger, in a coarse, vulgar, and harsh manner, there should be a verdict in her favour. This is substantially the very error that caused the former reversal. It is an instruction that utterly overlooks the Act of Assembly defining the causes of divorce, and adopts in its stead a little misplaced chivalry.\nBy such an instruction he has required th^ jury to find that by once rudely pulling his wife\u2019s nose he has offered such indignities to her person, as \u201c to render her condition intolerable and life burdensome, and thereby forced her to withdraw from his house and family.\u201d He had no authority to give such an instruction. As we said before, he ought rather to have said the contrary. No one doubts that the act was unlawful, and we do not even find fault with its being called barbarous; but it is not all unlawful and barbarous acts that are made grounds for divorce.\nIt is not of a single act that the law speaks in the clause under which this case falls; but of such a course of conduct or continued treatment as renders the wife\u2019s condition intolerable, and her life burdensome. Such treatment has not been found by the jury under the instruction complained of. We shall not volunteer to say what will amount to this; but it is important to say that it is not under the lead of any chivalric sentiments that it is to be decided, but under the guidance of cautious and deliberate reflection. We do not divorce savages and barbarians because they act as such towards each other. We can exercise no sound judgment in such cases, without studying the acts complained of in their connection with the character of the parties, and for this we want the common sense of the jury rather than fixed legal rules.\nNever ought divorces to be easily obtained, for marriage is the most sacred of human relations, and should never to be dissolved without clear proof of imperious reasons. We may do wrong to the parties and their children, and to the public, when we aid one party in severing the relation without a clear necessity. Indignities provoked by the complaining parties are of course no ground of divorce, unless when the retaliation is excessive.\nThe mere opinions of the witnesses about the probable effect of the husband\u2019s conduct on the wife were of course improper evidence.\nJudgment reversed, and new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "D. M. Farrelly, with whom was J. W. Farrelly, for plaintiff in error.",
+      "Church, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Richards versus Richards.\nWhat Acts of Yiolenee will warrant a Divoi'ce.\u2014 Opinion of Witness as to Conduct of Respondent.\n1. In proceedings by a wife to obtain a divorce, on the ground that her husband had \u201c offered such indignities to her person as to render her condition intolerable, and her life burdensome,\u201d it is error to instruct the jury in substance that if the single act complained of (pulling or twisting her nose) was done in rudeness and anger, in a coarse, vulgar, and harsh manner by the husband, it brings him within the provisions of the Act of Assembly, even though they were directed to \u201c look at the whole evidence, and determine from it whether his general conduct was in accordance and consistent with the act complained of.\u201d\n2. The law does not permit a divorce for any single act of violence or abuse, however vulgar, rude, harsh, or unchivalrous; but requires proof of such a course of conduct or continued treatment as renders the libellant\u2019s condition intolerable, and her life burdensome.\n3. Indignities provoked by the complaining party are no ground for divorce, unless in cases where the retaliation is excessive.\n4. The mere opinion of witnesses about the probable effect of the husband\u2019s conduct are inadmissible in evidence.\nAppeal from the Common Pleas of Crawford county.\nThis was an appeal by William Richards from the decree of the Common Pleas of Crawford county, divorcing him from his wife Elizabeth, allowing alimony, &e. The original subpoena in this case'was issued on the 16th of August 1854, and was regularly served and returned. A jury was called in the case, who, under the instruction of the court, found in favour of the libellant. On the 28th of February 1858, a divorce was decreed, whereupon the respondent appealed to this court, assigning for error the instruction of the court below as to the amount of abuse or violence required to bring a party respondent within the meaning of the Act of Assembly.\nThe decree of the Court of Common Pleas was reversed, for the reasons contained in the opinion then delivered, which will be found in 1 Grant\u2019s Cases 389. On the second trial a verdict was again rendered for the libellant, and a decree of divorce and for alimony in the usual form made.\nWhereupon the respondent removed the case into this court by writ of error, and assigned for error the instruction to the jury as quoted below.\n1. The court erred in charging the jury, \u201c We did not mean to say, nor do we now say, that if the naked act (of twisting the wife\u2019s nose) was committed, no circumstances attending could excuse or avert the penalty of a verdict. There might be circumstances, we agree, that should excuse perhaps even such a cruel act of brutal barbarism. It might be done in a moment of passion, and repented of the moment following with sincere regret and distress. It might be so entirely inconsistent with the husband\u2019s usual conduct towards, and treatment of his wife, as to induce the belief, that it must have been the result of some momentary aberration of reason and affection.\u201d\n2. The court erred in charging, \u201c But we cannot avoid repeating, that the time has passed by, when the barbarous conduct \u2014 we can call it nothing less \u2014 of a husband inflicting bodily punishment (if such an act as angrily and rudely pulling her nose, deserves so mild and dignified a term as punishment) obtains a place in our laws. There may be circumstances to excuse, but none to make it legal, or entirely to justify it.\u201d\n3. The court erred in charging, \u201c The jury will look at the whole evidence, and determine from that, whether the general conduct of the defendant was in accordance and consistent with the act complained of, pulling her nose and other personal abuse at the same time, and if this was done in rudeness and anger, in coarse, vulgar, and harsh manner, it brings him within the provisions of the Act of Assembly, and your verdict will be for the libellant. If his general conduct was kind and respectful, or if repented of and reconciliation sought for, and inconsistent with the act, the case might be different.\u201d\n4. The court erred in charging, \u201c There is no evidence of any attempt on the part of the husband, since the wife left, or since the former trial, to produce a reconciliation, or offer to receive her and treat her as a husband should do.\u201d\n5. The court erred in their answer to defendant\u2019s 1st, 2d, and 3d points.\n6. The court erred in allowing the question to be put to the witness, Theodore Scowden, \u201cFrom what he saw and heard between the parties of acts and declarations, when he saw them, whether he believed Mrs. Richards\u2019s life or health endangered, and whether cohabitation with Richards was safe ?\u201d and in receiving the answer of witness to this question.\nD. M. Farrelly, with whom was J. W. Farrelly, for plaintiff in error.\n\u2014 The court below, while seeking to explain the error for which this decree was reversed before, repeated the error, and in effect gave the same instruction to the jury that was then complained of; to wit, that a single act of violence towards a wife, without regard to the circumstances under which it was committed, entitled her to a verdict and decree. That which will sustain an indictment for an assault and battery will not justify a divorce, and yet the court permitted the jury to suppose that their verdict in this case depended on the illegality of the act complained of. This was error: Barrere v. Barrere, 1 Hagart 35; 2 Kent Com. 126; 1 Grant\u2019s Cases 389; 4 Johns. Ch. Rep. 189; French v. French, 4 Mass. Rep. 587. The opinions of witnesses as to the effect of his conduct are inadmissible: Forbes v. Caruthers, 3 Y. 527; Given v. Albert, 5 W. & S. 337.\nChurch, contr\u00e1.\nNovember 8th 1860,"
+  },
+  "file_name": "0225-01",
+  "first_page_order": 225,
+  "last_page_order": 228
+}

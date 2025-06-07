@@ -1,0 +1,241 @@
+{
+  "id": 951242,
+  "name": "Patterson v. Forry",
+  "name_abbreviation": "Patterson v. Forry",
+  "decision_date": "1846-05-25",
+  "docket_number": "",
+  "first_page": "456",
+  "last_page": "459",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts & Serg. 142",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852523
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0142-01"
+      ]
+    },
+    {
+      "cite": "6 Watts & Serg. 280",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480155
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0280-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 50",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rawle, 449",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts, 48",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848501
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0048-01"
+      ]
+    },
+    {
+      "cite": "3 Watts & Serg. 259",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854571
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0259-01"
+      ]
+    },
+    {
+      "cite": "16 Serg. & Rawle, 413",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rawle, 448",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "pin_cites": [
+        {
+          "page": "449"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Ch. 308",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975587
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0308-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 118",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0118-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 144",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0144-01"
+      ]
+    },
+    {
+      "cite": "7 Serg. & Rawle, 64",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1808196
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/7/0064-01"
+      ]
+    },
+    {
+      "cite": "6 Watts & Serg. 280",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/6/0280-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 48",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848501
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0048-01"
+      ]
+    },
+    {
+      "cite": "3 Watts & Serg. 259",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854571
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0259-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 144",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846813
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0144-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 448,
+    "char_count": 8453,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 5.720243676450121e-08,
+      "percentile": 0.3589350189914547
+    },
+    "sha256": "75036f23e0857ee769de6a8acbe298352f11b8fcdb814715335ea3095f3ff864",
+    "simhash": "1:e43860be0c08e5ce",
+    "word_count": 1521
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patterson v. Forry."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 The court below were right in rejecting the evidence offered by the defendant. Nothing appears in it by which the plaintiff could sustain his allegation of a lien on the land, which, to be valid, must appear in writing, and usually by matter of record, and cannot be established merely by parol evidence of the understanding of parties. No such reservation appears by the original deed to Caspar Chronister, as it was not produced, and the presumption is, it was conformable to the articles of agreement, which stipulated that a clear deed should be given at the time the hand money was paid, and bonds should be given for the yearly gales,\ni The next item of evidence is the return of sale of the land by the sheriff, as the property of Caspar Chronister, for $700, subject to a lien, not specifying what; and the sheriff\u2019s deed itself is without any all\u00e1sion even to this, and conveys the property merely as Caspar Chronister held it. The next sale to J. & K. Albert, is by articles of agreement, for $1000, to convey the same title that Wert had, $400 to be paid in money, and bond given for the $600, and the deed is so made subject to all legal claims on said bond. If the lien claimed then is to be established at all, it must be by parol evidence showing the understanding and verbal admissions of the parties at different times, a mode of substantiating a lien on land which the policy and principles of our laws forbid.\nThis case cannot be distinguished in principle from those of Umbhauer v. Aulenbaugh, 8 Watts, 48, and 3 Watts & Serg. 259; Modes Appeal, 6 Watts & Serg. 280; Koufelt v. Bower, 7 Serg. & Rawle, 64, and Bear v. Whistler, 7 Watts, 144, and various others, in which the law of Pennsylvania on this subject has been discussed and determined.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Reed, for plaintiff in error.",
+      "Cooper, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Patterson v. Forry.\nThe presumption is, a lost deed was in conformity to the articles.\nParol evidence inadmissible to establish, a lien by admissions of a party claiming under a lost deed, when the articles stipulate for a deed without a lien, even though subsequent conveyances be subject to a lien, but what lien was not stated. (But note, there was no offer to prove that the lost deed contained any such stipulation for a charge upon the land.)\nError to the Common Pleas of Adams county.\nMay 18. \u2014 This was an action of debt on bonds due in 1844-5, executed in 1816, against the administrators of the obligors, with notice to terre-tenants of certain lands. The declaration averred, that by the agreement of the parties, and the deed conveying the land, now owned by defendant, these bonds were a charge; that defendant purchased with notice, and subject to the lien.\nOn the trial plaintiff proved articles for the sale of the land to Chronister, from his father Henry, at \u00a310 per acre, payable in annual instalments of $100 each, for which bonds (two of which are the subject of the present suit) were to be given by the purchaser. A clear deed to be given to Caspar, (the purchaser,) on payment of the hand money, he giving his bonds for the yearly gales.\nThe deed itself could not be found after diligent search; whether it ever existed, is not stated on tire record to have been proved. In 1822, a judgment was recovered against the purchaser under these articles, on which a sale was made by the sheriff, and a conveyance of his estate, \u201csubject to a lien,\u201d &c., not specifying what it was, to Wert, who agreed to convey, in 1825, subject to all legal claims on the land; and by a deed granted all the interest vested in him by the sheriff\u2019s deed.\nPlaintiff then offered to prove by Wert, that Caspar Chronister, while owner of the land, admitted that the land in controversy was charged with the payment of the bonds given for the purchase money, and that at the sheriff\u2019s sale to him this fact was known, and he became the purchaser with the full knowledge of it. That the land was at the time worth from $3000 to $4000, and only sold for $700, in consequence of the encumbrance of these bonds, which was known at the time by the bidders. That he agreed to sell the same land to defendants for $1000, which was greatly below the value of the land, because of the said charge upon it, with which they were acquainted at the time, and that the reservation in the article of agreement read, referred to the alleged encumbrance of the bonds for the purchase money. And farther, that the defendants, after their purchase from Wert, acknowledged that they held it subject to the encumbrance of paying these bonds, and that they went on to pay, and did pay, several of the same series of bonds, in accordance with the alleged encumbrance; also several other deeds, made by Henry Chronister, to others of his sons, about the same time, having inserted a positive stipulation that the lands sold were charged with the payment of the bond given for the purchase money, &c.\nThe court (Durkee, President) rejected the testimony, and directed tire jury to find in favour of the terre-tenants, as there was no evidence the land was charged with the bonds.\nReed, for plaintiff in error.\n\u2014 We offered to prove that there was a bona fide lien subsisting at the time of the sheriff\u2019s sale, known by and assented to by all the parties. The bonds were made a lien- on the land by the deed which is lost. Lien may be charged on land by a vendor to secure the payment of the purchase money; Whistler v. Bear, 7 Watts, 144. Purchase money remaining due on the face of a deed, preserves the lien against purchasers at sheriff\u2019s sale. Irwin v. Campbell, 6 Binn. 118.\nA written acknowledgment by an executor of a trust created by parol, was held to be a lien on the estate of the testator, conveyed by the executor as trustee, to a voluntary purchaser with notice. 1 McCord\u2019s Ch. 119; Rutledge\u2019s Adm\u2019r v. Smith\u2019s Ex\u2019ors, 2 Eq. Dig. 203, pl. 26.\nCharacter of vendor\u2019s lien for the purchase money. Garson v. Green, 1 Johns. Ch. 308.\nLien for purchase money after deed made in equity. Sugden on Vendors, 386 \u2014 392.\nThe equitable rule may be adopted in Pennsylvania either in writing or by parol. It is not within the statute of frauds; it is not transferring title.\nHellman v. Hellman, 4 Rawle, 448, 449. The sheriff, of his own mere motion, or in virtue of his office and his duties, may not be able to sell on any other terms than indicated in the levy and the process in virtue of which he sells.\nBarnet v. Washabaugh, 16 Serg. & Rawle, 413, adopts the general rule, &c., and continues: \u201c We have no doubt that lands may be sold subject to legacies, and that in such cases the lands go into the hands of the sheriff\u2019s vendee, charged with their payment, but that it is so sold should expressly appear. It should be the express understanding of all the parties.\nConclusion. \u201c It is the opinion of the court, that where lands are sold by the sheriff, the vendee takes the land discharged of the lien of the legacy, unless it should expressly appear that the land was sold subject to the legacy.\u201d\n3 Watts & Serg. 259, and Umbhauer v. Aulenbaugh, 8 Watts, 48. Both cases are distinctly limited to cases where there is no lien, and the sheriff, on his own authority, contrary to the process, contrary to his official duty, undertook to raise a lien and to sell subject to it.\nOur offer was to prove there was a bona fide subsisting lien, known and assented to by all the parties.\nDifference established by a large number of decisions \u2014 between the sheriff, in execution of his process, undertaking to sell subject to encumbrances contrary to his duty; and a sale, where a bona fide lien exists subject to it, by consent of parties, for their own convenience and interest.\nCooper, for defendant in error.\n\u2014 There was no proof, or offer to prove, that a deed was ever made by Henry Chronister to Caspar Chronister. The offer was, therefore, properly rejected.\nThere was no proof, or offer to prove, that there was any agreement made by parties competent to make such an agreement, that the land was sold subject to any lien or charge. Loose declarations, made either before or at the sale, is not sufficient to charge the land with the payment of the bonds. 16 Serg. & Rawle, 413; 4 Rawle, 449; 8 Watts, 50; Mode\u2019s Appeal, 6 Watts & Serg. 280.\nIf there were a charge upon the land, it was extinguished by the sheriff\u2019s sale. 1 Watts & Serg. 142.\nIt is enough, in the present instance, that there was no evidence given, or offered, that the alleged deed ever existed.\nMay 25."
+  },
+  "file_name": "0456-01",
+  "first_page_order": 456,
+  "last_page_order": 459
+}

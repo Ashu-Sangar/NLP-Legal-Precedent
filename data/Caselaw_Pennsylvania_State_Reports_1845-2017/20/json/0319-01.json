@@ -1,0 +1,79 @@
+{
+  "id": 972387,
+  "name": "Sweeny versus McGittigan",
+  "name_abbreviation": "Sweeny v. McGittigan",
+  "decision_date": "1853-03-21",
+  "docket_number": "",
+  "first_page": "319",
+  "last_page": "321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Pa. 319"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 217",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846789
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0217-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 240,
+    "char_count": 3567,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 6.071662824262825e-08,
+      "percentile": 0.37499850377377214
+    },
+    "sha256": "5253b4ea22df0c85752e3f680fe7e027ddba4753f4cba28c10d7a202708cd676",
+    "simhash": "1:bee680281b4d98ec",
+    "word_count": 634
+  },
+  "last_updated": "2024-02-27T16:08:18.291907+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sweeny versus McGittigan."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLowrie, J.\nThe plaintiff filed a mechanic\u2019s lien, 8th September, 1845, issued sei. fa. upon it 10th December, 1845, then took no further steps until 31st July, 1850, after which he urged his claim and got a verdict, 28th October, 1850. The Court below arrested the judgment on the ground that the lien had expired by reason of the lapse of five years between the filing of the lien and the verdict upon it. In this there is error.\nThe Mechanics\u2019 Lien Act of 1836, sec. 24, expressly refers to the law relating to the revival of judgments as an analogy for this proceeding, and under that law the lien is continued, if a scire facias be issued within the five years and duly prosecuted after-wards: 7 Watts 217; 9 W. & Ser. 13. The defendant has no right to complain of the delay in this case, for it occurred after he was summoned to answer, and therefore he could have speeded the cause at his pleasure.\nThe motion for a new trial appears to have been abandoned below, therefore the plaintiff must have judgment on the verdict.\nJudgment reversed, and judgment for the plaintiff.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "McKinly and S. M. Phillips, with whom was A. Miller, for plaintiff in error.",
+      "G. W. Biddle, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Sweeny versus McGittigan.\nA mechanic\u2019s claim was filed in September, 1845, and scire facias was issued in December, 1845, and returned \u201c made known\u201d in January, 1846: held, that the lien of the claim had not expired by reason of five years having elapsed between the filing of the claim and the verdict.\nError to the Common Pleas of Philadelphia county.\nThis was an action of scire facias, by Patrick Sweeny v. David McGittigan, owner, and Thomas Ash, contractor, upon a mechanic\u2019s claim for work done and materials furnished, in and about the erection of a brick dwelling-house, on the east side of Delaware Seventh, south of Fitzwater street, in the district of Moyaraensing.\nThe claim was entered in the Court of Common Pleas on 8th September, 1845.\nThe writ of scire facias sur claim was issued in December, 1845, and returned \u201cmade known\u201d on 1st Monday in January, 1846.\nOn the part of the plaintiff in error it was alleged, that, at the instance and request of defendant, the active prosecution of the suit was delayed to give him time to pay the claim.\nOn the 28th of October, 1850, the case was tried, and a verdict rendered for the plaintiff for the whole sum claimed, with interest, whereupon defendant\u2019s counsel made a motion for a rule for a new trial, and in arrest of judgment.\nIn April, 1851, plaintiff\u2019s counsel died.\nIn February, 1852, the case was argued upon the rule for a new trial, and in arrest of judgment. And on March 20, 1852, Thompson, President, delivered the opinion of the Court, viz. :\n\u201cIn the argument before us, the counsel for the defendant abandoned the motion for a new trial, but insisted upon the arrest of judgment, upon the ground that the lien of the claim upon which suit was brought had expired before the verdict of the jury was rendered. More than five years having elapsed between the time of filing the claim and the verdict, we are of the opinion that the lien had expired, and that therefore the plaintiff, at the time of the trial, was not entitled to have execution of the premises mentioned in the scire facias. Judgment arrested.\u201d\nIt was assigned for error:\n1. The Court below erred in refusing to enter judgment upon the verdict of the jury. 2. In arresting the judgment. 3. In deciding that the lien of the claim expired while the suit upon the scire facias was pending.\nMcKinly and S. M. Phillips, with whom was A. Miller, for plaintiff in error.\nG. W. Biddle, for defendants.\nMarch 21,"
+  },
+  "file_name": "0319-01",
+  "first_page_order": 321,
+  "last_page_order": 323
+}

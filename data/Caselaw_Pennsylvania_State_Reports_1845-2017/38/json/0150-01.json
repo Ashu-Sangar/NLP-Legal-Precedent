@@ -1,0 +1,65 @@
+{
+  "id": 994065,
+  "name": "Collins versus Webster",
+  "name_abbreviation": "Collins v. Webster",
+  "decision_date": "1861-01-28",
+  "docket_number": "",
+  "first_page": "150",
+  "last_page": "151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Pa. 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 219,
+    "char_count": 3417,
+    "ocr_confidence": 0.41,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.29418220907859877
+    },
+    "sha256": "f0148b77a971b85e4c96634a6a1931cc40a2173706116478bea3163186159ea3",
+    "simhash": "1:a2e3a1904d1329e9",
+    "word_count": 606
+  },
+  "last_updated": "2023-07-14T21:27:31.076625+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Collins versus Webster."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Lowrie, C. J.\n\u2014 The error assigned here is to the execution; but the record does not sustain it. The judgment is to secure the payment of the debt in five years, with interest annually, and with a provision that, on default of sixty days in paying interest, the whole debt shall be due. The execution was not issued until five months after the first year\u2019s interest had become due, and therefore it appears to be quite regular. Such judgments, obtained by confession and without writ, are under the equitable control of the court, and if the defendant below had really paid the interest, he could and ought to have shown that fact to the court below, and then the execution would have been set aside. This is not the place to show that fact; but even here it is not alleged: See Banning v. Taylor, 12 Harris 289*\nProceedings affirmed.",
+        "type": "majority",
+        "author": "by Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "John P. Owens, for plaintiff in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Collins versus Webster.\nExecution for whole Debt on default of Payment of Annual Interest.\nWhere a voluntary judgment was given, payable in five years, with interest payable annually, upon the condition that if default be made in the payment of interest for sixty days, the whole debt should become due and payable, Held, that an execution which issued five months after the first year\u2019s interest had become due, was primd facie regular, without any suggestion on the record of non-payment, but should be set aside by the court below, on proof of payment according to the condition. Such judgments are under the equitable control of the court in which they are entered up.\nError to the Common Pleas of Delaware county.\nThomas Collins, of Philadelphia, purchased in March 1859, a farm in Delaware county, for $9500; paid on account of the purchase-money in cash about $3000, and gave a bond with warrant of attorney to confess judgment and a mortgage for $6700, to John Webster, payable in five years from date, with interest at six per cent., payable annually, and providing, therein that if default be made on the payment of interest for sixty days after any of the interest payments shall become due, then the whole debt should become due and payable. Judgment was entered on this bond in the District Court of Philadelphia, March 18th 1859, in which the proviso as to interest was entered on the record. On the 16th of August 1860, the record of this judgment was filed in the Court of Common Pleas of Delaware county (and entered as in the original entry) by the plaintiff, who on the same day issued an execution, under which the farm of defendant was levied on and condemned. On the 24th of September 1860, a vend. ex. was issued, and on the 8th of November 1860, the farm was sold by the sheriff for $4600.\nOn the 24th of October 1860, Collins sued out this writ, and assigned for error the allowance of any process in execution of the judgment entered in the District Court of Philadelphia county, because the record shows that the money mentioned in the condition of the bond was not due and payable.\nJohn P. Owens, for plaintiff in error,\ncontended that as the record contained no averment, certificate, or proof of any kind that the interest due by the terms of the bond of March 2d 1860, was unpaid, and had remained so for sixty days, the issuing of the writs of execution within five years by the Common Pleas of Delaware county was error: citing in support of these points, King v. Nimmick, 10 Casey 297.\nJanuary 28th 1861,"
+  },
+  "file_name": "0150-01",
+  "first_page_order": 150,
+  "last_page_order": 151
+}

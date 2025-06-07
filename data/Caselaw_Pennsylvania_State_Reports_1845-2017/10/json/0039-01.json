@@ -1,0 +1,79 @@
+{
+  "id": 962736,
+  "name": "Smith v. Whildin",
+  "name_abbreviation": "Smith v. Whildin",
+  "decision_date": "1848-02-01",
+  "docket_number": "",
+  "first_page": "39",
+  "last_page": "40",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 39"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Cai. 104",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "case_ids": [
+        793360
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cai/1/0148-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 253,
+    "char_count": 3255,
+    "ocr_confidence": 0.396,
+    "pagerank": {
+      "raw": 7.599625139194722e-07,
+      "percentile": 0.9707753231945183
+    },
+    "sha256": "8a03b4ff64cd42b7cc4a5cef7bc5ac1b77c1881f2bcf4779a82ffd6d667d4011",
+    "simhash": "1:1cc0c67721578f9b",
+    "word_count": 586
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith v. Whildin."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.,\n(after stating the case.) \u2014 There was no consideration for the promise, and the court below therefore misconceived the law. It is the duty of a constable to pursue, search for, and arrest offenders against whom criminal process is put into his hands. It is stated in Com. Digest, title Justice of the Peace, B. 79, that the duty of a constable requires him to do his utmost to discover, pursue, and arrest felons. The office of constable is created not for the private emolument of the holder; but to conserve the public peace, and to execute the criminal law of the country. He is not the agent or employee of the -private prosecutor, but the minister of the law, doing the work of the public, which he is bound to do faithfully for the fee prescribed by law, to be paid as the law directs. And it would be against public policy as well as against law to hold otherwise.\nThere are things which a constable is not officially bound to do, such as to procure evidence, and the like, and for this he may perhaps be allowed to contract. And this is the full extent of the principle in the case cited from 11. Ad. and El. 856. But it has been held that even a sailor cannot recover for extra work on a promise by the master to pay for extra work in managing the ship in peril, the sailor being bound to do his utmost independently of any fresh contract, Stilk v. Myrick, 2 Camp. 317, and the cases there cited.\nIt would open a door to profligacy, chicanery, and corruption, if the officers appointed to carry out the criminal law were permitted to stipulate by private contract; it would open \u00e1 door to the escape of offenders by culpable supineness and indifference on the part of those officers, and compel the injured persons to take upon themselves the burden of public prosecutions. It ought not to be permitted. Constables must do their utmost to discover, pursue, and arrest offenders within their township, district, or jurisdiction, without other fee or reward than that given by the law itself.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J.,"
+      }
+    ],
+    "attorneys": [
+      "Norton, for plaintiff in error.",
+      "Badger, contrit."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. Whildin.\nA promise of a reward to a constable for arresting a criminal under a warrant which he is bound by law to execute, is without consideration.\nIn error from the Common Pleas of Philadelphia.\nJan. 29. Assumpsit on the common counts. The plaintiff, who was a constable in Philadelphia, proved that the defendant had offered him a reward of f>100 for the arrest of one M. Crossin, against whom warrants had been issued on a charge for obtaining goods under false pretences. Under one of these warrants M. Crossin was arrested, in Philadelphia, by plaintiff\u2019s deputy.\nCampbell, J., told the jury the only question was, whether the plaintiff made the promise ?\nNorton, for plaintiff in error.\nThe promise was without consideration, for it was the duty of the constable to execute the process, and it is against the policy of the law: 7 S. & R. 447; 2 Camp. 317; 1 Cai. 104; 2 Burr. 924; 1 Bl. Rep. 204; Cro. Jac. 103.\nBadger, contrit.\nThere was evidence of extra exertions beyond the strict line of plaintiff\u2019s duty; but, apart from that, it is decided, in 11 Ad. & Ellis, 856, that such a promise is not prohibited by the policy of the law, and is a good ground of action.\nFeb. 1."
+  },
+  "file_name": "0039-01",
+  "first_page_order": 39,
+  "last_page_order": 40
+}

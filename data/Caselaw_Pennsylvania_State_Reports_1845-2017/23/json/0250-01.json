@@ -1,0 +1,97 @@
+{
+  "id": 974035,
+  "name": "The Philadelphia Insurance Company versus The Washington Insurance Company",
+  "name_abbreviation": "Philadelphia Insurance v. Washington Insurance",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "250",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Peters 378",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5620167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/37/0378-01"
+      ]
+    },
+    {
+      "cite": "1 Phillips 204",
+      "category": "reporters:state",
+      "reporter": "Phillips",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Mass. R. 176",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007317
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/2/0170-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 534,
+    "char_count": 12474,
+    "ocr_confidence": 0.399,
+    "pagerank": {
+      "raw": 2.9465896967326015e-07,
+      "percentile": 0.8485241803672724
+    },
+    "sha256": "c0828d3b34ea56696f449cde4fb8aa899a1f60cdd40a9e0d6f31c5e5e5aa1f39",
+    "simhash": "1:1905c6f8ee4498ee",
+    "word_count": 2179
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Philadelphia Insurance Company versus The Washington Insurance Company."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodward, J.\nThe only questions on this record are questions of evidence, the first and most material of which relates to the policy of insurance issued by the defendants on the 15th August, 1848, to William Cummings, on the brig Delaware, for $3000. Having given in evidence the plaintiffs\u2019 contract of reinsurance on this vessel for $1500, the defendants offered their own original insurance for the purpose of establishing in themselves an insurable interest; the objection to which was that the reinsurance was not coextensive with the principal insurance, one being a time policy, the other for a specific voyage. Had the fact been that the reinsurance was larger than the original risk, there would have been force in the objection, for then the reinsurance would have been beyond any insurable interest possessed by the defendants. Rut the fact was the other way. Roth policies were issued on the 15th August, 1848. The Washington Company were the original insurers, and their risk was $3000 on the brig, \u201clost or not lost, at and from June 6, 1848, at noon, for five calendar months, with use of the Globe\u2019 (Tampico and ports in Texas at all seasons excepted); and, if at sea at the expiration of the time, the risk to continue at same rate of premium.\u201d The reinsurance of the Philadelphia Company was for $1500 on the brig, \u201c at and from Rio de Janeiro- to' Havana, and at and from thence to Philadelphia;\u201d a voyage which, according to the proofs, takes about 40 days from Rio to Havana, and, as this vessel sailed, 18 days from Havana to Philadelphia, she was at sea on her voyage to the Havana at the date of these policies, having sailed from Rio on the 15th July, 1848. It is apparent from these facts that while the defendants, in virtue of their insurance, were bound for any voyage she might make or commence within five months from the date indicated, the plaintiffs were bound, in virtue of their reinsurance, only for the one voyage, partly performed when they assumed the risk, and capable of being finished far short of the five months; and thus their risk was less and included within that of the defendants. Now, it is distinctly admitted by the learned counsel of the plaintiffs, that, if the defendants\u2019 policy had been for the particular voyage specified, they would have had such an interest as would have entitled them to purchase a reinsurance; but we have not been shown how, when a less interest would have qualified, a greater interest disqualified them to reinsure. If an insurable interest can spring from a prior insurance, which, since the judgment in the celebrated case of Lucena v. Craufurd, before the House of Lords, 3 Bos. & Pull. 75, I believe has not been doubted, why not from a time policy as well as any other ? In respect to the right of deviation and warranty of sea-worthiness, and perhaps in other legal consequences, time policies differ from voyage policies; but for the single purpose of creating an insurable interest, I can see no reason and can find no authority for a distinction. If a distinction were to he made, I should think it would be in favor, rather than against, the time policy; for he who insures a ship for a period of time that is to cover a variety of undefined voyages, comes much nearer to the position of an owner, has a far deeper stake in her welfare, than he who insures her simply for one specified voyage which she is to perform within that time. This is too obvious to need illustration.\nIf then a time policy, as well as any other, can create air insurable interest, why are not the plaintiffs bound by their, contract of reinsurance ? Because, say counsel, every reinsurance necessarily contains an assertion that the specific risle had been previously taken by the first insurer. This expression, specific risle, is not in the definition of reinsurance as given by Arnould, Phillips, or Marshall. According to Arnould, reinsurance is a contract by which, in consideration of a certain premium, the original insurer throws upon another the risk (or according to Marshall, part of it) for which he has made himself responsible to the original assured, to whom, however, he alone remains liable on the original insurance. The other writers define the contract to the same effect. The risk, or part of it, implies the same subject-matter of insurance in both policies, and hence in Merry v. Prince, 2 Mass. R. 176, an unsuccessful attempt was made to apply a reinsurance of a policy on vessel and cargo, to other policies on the cargo only. And these expressions also imply the same perils in kind, but not in quantum or duration. Thus, if the insurance be against perils of the sea, the reinsurance must be against perils of the sea; but whilst it may not be against more, it may be against less perils of the sea than the original insurance. The reason of this required identity in the subject-matter and the kind of perils, is, that the first insurer has no insurable interest except in the thing and against the kind of perils in respect of which he has insured. This is plainly developed by Phillips on Insurance, p. 56, where he says, \u201c An underwriter, by subscribing a policy, acquires no interest in the subject insured, yet he acquires an insurable interest, and having rendered himself directly liable to loss from certain perils, may stipulate to be indemnified against these perils. His interest, however, exists only in relation to the perils against which he has insured in the original policy.\u201d Yet reinsurance is not an endorsement or readoption of the first policy, for Arnould adds to his definition of the contract \u201c that it is totally distinct from and unconnected with the primitive insurance.\u201d Neither the rate nor amount of premiums \u2014 the amount insured \u2014 -nor the duration of the policies are similar, and the, liabilities are to different parties, the reinsurer being never liable to tbe first assured, save, perhaps, in the exceptional case of the first insurer\u2019s insolvency. The proposition, then, that reinsurance is a retaking of the specific risk, is- not sustainable in the sense contended for, and if it were, would deprive commerce in a great degree of the benefits of such contracts.\nBefore any party has a right to an insurance he must have an interest to protect, and as the interest of a first underwriter springs from his contract and must be measured by the liability assumed, he can have no insurable interest beyond that. But because the greater contains the less, the whole the parts, he has an insurable interest in every portion of his risk, which by reinsurance he throws on another. This seems to be the sum of the whole matter, and hence it follows that the policy of the defendants was properly admitted in evidence to establish their insurable interest, both when the reinsurance was made and when the loss occurred, and having shown such an interest, the plaintiffs were bound to indemnify to the extent of the terms of their own contract.\nWithout the pleadings in the case, it is impossible for us to say whether the verdict and judgment could ever be evidence against Forsythe, the master of the brig, and, therefore, we cannot pronounce on his competency as a witness. For aught that appears in the paper-books, he was competent. There is not a shadow of ground for the objection to Riche. Though the president of the company, he was not a stockholder nor party to the record. Having no necessary interest in the event, he was competent, and his credibility was for the jury.\nThe errors have not been sustained, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Williams, for plaintiff in error.",
+      "6r- M. Wharton, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "The Philadelphia Insurance Company versus The Washington Insurance Company.\n1. An insurable interest can spring from a prior insurance; and may arise from a time policy as well as from any other.\n2. In the contract of reinsurance is implied the same subject-matter of insurance as in the original policy \u2014 against' perils of the same kind \u2014 not to a greater but it may be to a less degree than stipulated for in the first policy. It need not be for the same specific risk insured against in the first policy.\n3. An insurance having been effected on a brig, \u201clost or not lost,\u201d for five months from a time specified (part of which had. transpired), \u201c with use of the Globe (Tampico and ports in Texas at all seasons excepted).\u201d Within the time insured, a reinsurance was effected for a less amount for a single voyage specified, within the bounds not prohibited. Held, that the reinsurers were bound by their contract.\n4. The President of the Insurance Company, defendant in a suit, who was not a stockholder in the company, nor party to the record or interested in the suit, was a competent witness on the part of the defence.\nError to the District Court, PTiiladelpTiia.\nThis was an action on the case by The Philadelphia Mutual Insurance Company v. The Washington Mutual Insurance Company.\nThe Washington Insurance Company, on the 15th August, 1848, made an insurance at Philadelphia, in the sum of $3000, on the brig Delaware, lost or not lost, \u201cat and from June 6th, 1848, at noon, for five calendar months, with use of the Globe (Tampico and ports in Texas at all seasons excepted); and if at sea at the expiration of the time, the risk to continue at same rate of premium,\u201d &c. A. Eorsythe was master.\nOn the same day, the brig being then at sea on her voyage to Havana, the Philadelphia Mutual Insurance Company; at the instance of the Washington Company, reinsured $1500, on the said brig, \u201cat and from Rio de Janeiro to Havana, and at and from thence to Philadelphia\u201d \u2014 subject to such risks, valuations, conditions, and mode of settlement as are or may be assumed or adopted by them \u2014 for account of whom it may concern.\nThe vessel met with injury on her passage from St. Thomas to Havana, on or about the 30th August, and part of her cargo was thrown overboard to lighten the ship; after which it reached Havana on the 12th September. Other injury was sustained on the voyage to Philadelphia,- at which place it arrived about the 27th or 28th of January, 1848, having left Havana about the 9th of January.\nOn the trial, an account between the two companies was given in evidence on part of the plaintiff.\nOn part of the defendants was then given in evidence the policy of reinsurance to the amount of $1500. The policy of the defendants, in the sum of $8000, being the first policy, was then offered in evidence on the part of the Washington Insurance Company, defendants, for the purpose of establishing in themselves an insurable interest. It was objected to because the reinsurance was not coextensive with the principal insurance, one being a time policy, the other for a specific voyage. It was admitted, and exception was taken.\nOn the part of the defendants, the president of the trustees of their company was called, who said he was a salaried officer \u2014 that he gave the order for the reinsurance \u2014 that he was not a member of the company, nor interested in the suit.\nHe was objected to as being an officer of the company, a party to the record, and the person by whom the insurance was effected. He was admitted, and exception was taken.\nOn part of the defendants, the deposition of the master, of the brig Delaware was offered. It'was objected to on the ground of interest in him without a release. It was admitted.\nIt was testified that the time of voyages from Rio to Havana was usually about forty days.\nError was assigned to the admission of the first policy of insurance. 3. The admission of the deposition of the master of the brig. 4. The admission of the president of the Philadelphia Insurance Company.\nWilliams, for plaintiff in error.\n6r- M. Wharton, for defendant in error.\nThere is nothing in the popular or legal meaning of the term \u201creinsurance\u201d which amounts to an averment that the reassured seeks an indemnity against a loss under the same specific contract into which he had entered; but it implies that he is seeking indemnity, in whole or in part, against the risk, or a portion of it, which he has taken on himself: Arnould 288, \u00a7 19; 1 Phillips 204; Marshall on Insurance 112. Garriers may insure against their risks as carriers: 3 B. & Ad. 478. Marine insurance is a contract of indemnity against loss by perils of the sea: 1 Arnould 11.\nA time policy covers any voyage which the ship may make, and any sea loss she may sustain within the time limited in the policy: 1 Arnould ch. 14, p. 409-10; 12 Peters 378."
+  },
+  "file_name": "0250-01",
+  "first_page_order": 250,
+  "last_page_order": 254
+}

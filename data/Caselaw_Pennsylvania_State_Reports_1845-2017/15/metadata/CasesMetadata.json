@@ -1,0 +1,7760 @@
+[
+  {
+    "id": 408789,
+    "name": "Deddrick versus Wood",
+    "name_abbreviation": "Deddrick v. Wood",
+    "decision_date": "1850-07-12",
+    "docket_number": "",
+    "first_page": "9",
+    "last_page": "14",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 9"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Smith 20",
+        "category": "reporters:state",
+        "reporter": "Smith & H.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Cranch 358",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch",
+        "case_ids": [
+          6764192
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/dc/2/0358-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 692,
+      "char_count": 13216,
+      "ocr_confidence": 0.451,
+      "pagerank": {
+        "raw": 1.2092104899491348e-07,
+        "percentile": 0.5955262256602605
+      },
+      "sha256": "44878a396513dbfcd1b554dfffc77c50a2718bc866e7b2c8e457fa20888753e0",
+      "simhash": "1:12e88828f24c3aa5",
+      "word_count": 2310
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0009-01",
+    "first_page_order": 9,
+    "last_page_order": 14
+  },
+  {
+    "id": 408837,
+    "name": "Hinman versus Kent",
+    "name_abbreviation": "Hinman v. Kent",
+    "decision_date": "1850-07-12",
+    "docket_number": "",
+    "first_page": "14",
+    "last_page": "16",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 14"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "9 Watts 496",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1850034
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/9/0496-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 390,
+      "char_count": 7335,
+      "ocr_confidence": 0.425,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.015213049100546017
+      },
+      "sha256": "fdae6a5c594fe85b941f1b19786979398bda3de4f79fbb0aa8b9255869832128",
+      "simhash": "1:d8607bb88738faca",
+      "word_count": 1327
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0014-01",
+    "first_page_order": 14,
+    "last_page_order": 16
+  },
+  {
+    "id": 408802,
+    "name": "Lee versus Pilgrim",
+    "name_abbreviation": "Lee v. Pilgrim",
+    "decision_date": "1850-07-12",
+    "docket_number": "",
+    "first_page": "16",
+    "last_page": "18",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 16"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 222,
+      "char_count": 3135,
+      "ocr_confidence": 0.431,
+      "sha256": "743dd30656bc0cba1061da525dea54781513e109aaa914e0fcf7eba78aa61b32",
+      "simhash": "1:70b302b59e4c6f72",
+      "word_count": 571
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0016-01",
+    "first_page_order": 16,
+    "last_page_order": 18
+  },
+  {
+    "id": 408770,
+    "name": "De Chastellux versus Fairchild",
+    "name_abbreviation": "De Chastellux v. Fairchild",
+    "decision_date": "1850-07-15",
+    "docket_number": "",
+    "first_page": "18",
+    "last_page": "21",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 18"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Peters 413",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Bin. 273",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1791138
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/3/0273-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 519,
+      "char_count": 8724,
+      "ocr_confidence": 0.411,
+      "pagerank": {
+        "raw": 7.699961018906997e-07,
+        "percentile": 0.971528842029014
+      },
+      "sha256": "6fcb49fed9db307eb6097c51c551a98ca5674b53e605a8c3f42e5bac79810410",
+      "simhash": "1:2f0584cd7c1d21da",
+      "word_count": 1554
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0018-01",
+    "first_page_order": 18,
+    "last_page_order": 21
+  },
+  {
+    "id": 408824,
+    "name": "Ward versus Stevenson et al.",
+    "name_abbreviation": "Ward v. Stevenson",
+    "decision_date": "1850-07-15",
+    "docket_number": "",
+    "first_page": "21",
+    "last_page": "22",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 21"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 275,
+      "char_count": 4236,
+      "ocr_confidence": 0.425,
+      "pagerank": {
+        "raw": 1.2327631977408405e-07,
+        "percentile": 0.6060542525838379
+      },
+      "sha256": "c01b0cbcf66317e602d501549dc3a2164e3ccc81ea7469be2da0d2fc8194bfb3",
+      "simhash": "1:ad71bcda1272c1f8",
+      "word_count": 752
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0021-01",
+    "first_page_order": 21,
+    "last_page_order": 22
+  },
+  {
+    "id": 408674,
+    "name": "Armstrong versus Hall",
+    "name_abbreviation": "Armstrong v. Hall",
+    "decision_date": "1850-07-15",
+    "docket_number": "",
+    "first_page": "23",
+    "last_page": "27",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 23"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 539,
+      "char_count": 11784,
+      "ocr_confidence": 0.422,
+      "sha256": "a6b2177f5b9888448603148245f602f67123a6acdb9234c2fef1f736cf4c8c5e",
+      "simhash": "1:bce59fa6269f82dc",
+      "word_count": 2064
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0023-01",
+    "first_page_order": 23,
+    "last_page_order": 27
+  },
+  {
+    "id": 408808,
+    "name": "Campbell versus Knapp",
+    "name_abbreviation": "Campbell v. Knapp",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "27",
+    "last_page": "30",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 27"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Whar. 332",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "8 Watts 361",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848490
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "470"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0361-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 435,
+      "char_count": 9916,
+      "ocr_confidence": 0.422,
+      "pagerank": {
+        "raw": 1.983120869118252e-07,
+        "percentile": 0.7408360487426101
+      },
+      "sha256": "c315254d162e623d9425bffae86f7f558e4d816b7550311eea67f1a363aafdad",
+      "simhash": "1:3ecad6e6206de8e3",
+      "word_count": 1752
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0027-01",
+    "first_page_order": 27,
+    "last_page_order": 30
+  },
+  {
+    "id": 408831,
+    "name": "Lewis versus Carsaw",
+    "name_abbreviation": "Lewis v. Carsaw",
+    "decision_date": "1850-07-15",
+    "docket_number": "",
+    "first_page": "31",
+    "last_page": "36",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 31"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Yeates 434",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          812625
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/2/0434-01"
+        ]
+      },
+      {
+        "cite": "10 Mass. 125",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "9 Mass. 104",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2029708
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/9/0099-01"
+        ]
+      },
+      {
+        "cite": "6 Watts 468",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846120
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/6/0468-01"
+        ]
+      },
+      {
+        "cite": "6 Watts 468",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846120
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/6/0468-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 639,
+      "char_count": 14351,
+      "ocr_confidence": 0.454,
+      "pagerank": {
+        "raw": 9.340122624967922e-08,
+        "percentile": 0.5136787897672799
+      },
+      "sha256": "9d3836b57eea7caabd7285157e28cfebcb7308366b8b328c250e691babfde6ee",
+      "simhash": "1:8a3c2e331034feab",
+      "word_count": 2556
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0031-01",
+    "first_page_order": 31,
+    "last_page_order": 36
+  },
+  {
+    "id": 408795,
+    "name": "Nicholas versus Phelps; Freeman versus Same",
+    "name_abbreviation": "Nicholas v. Phelps",
+    "decision_date": "1850-07-15",
+    "docket_number": "",
+    "first_page": "36",
+    "last_page": "40",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 36"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 547,
+      "char_count": 13378,
+      "ocr_confidence": 0.445,
+      "pagerank": {
+        "raw": 2.934526207674307e-07,
+        "percentile": 0.8476177568653617
+      },
+      "sha256": "fe56fba53906a3b7b968845b0885c025733532a77c3e0c7453db9d5432c60bd9",
+      "simhash": "1:21bf9235de068615",
+      "word_count": 2416
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0036-01",
+    "first_page_order": 36,
+    "last_page_order": 40
+  },
+  {
+    "id": 408814,
+    "name": "Gardner versus Davis",
+    "name_abbreviation": "Gardner v. Davis",
+    "decision_date": "1850-07-15",
+    "docket_number": "",
+    "first_page": "41",
+    "last_page": "44",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 41"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 405,
+      "char_count": 8584,
+      "ocr_confidence": 0.46,
+      "pagerank": {
+        "raw": 5.929295359159149e-08,
+        "percentile": 0.3702016990179736
+      },
+      "sha256": "059eab2690bc4c8aeee71c47d93b58ca59d0a040a9f239d6f6285e3728984e28",
+      "simhash": "1:1cb01e2dbe978ce8",
+      "word_count": 1509
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0041-01",
+    "first_page_order": 41,
+    "last_page_order": 44
+  },
+  {
+    "id": 408765,
+    "name": "Plymouth versus Jackson",
+    "name_abbreviation": "Plymouth v. Jackson",
+    "decision_date": "1850-07-15",
+    "docket_number": "",
+    "first_page": "44",
+    "last_page": "51",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 44"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "18 Pick. 317",
+        "category": "reporters:state",
+        "reporter": "Pick.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 693,
+      "char_count": 20418,
+      "ocr_confidence": 0.439,
+      "pagerank": {
+        "raw": 1.5148131619039518e-07,
+        "percentile": 0.6682113513181657
+      },
+      "sha256": "aba79d80f47e21f0d899d6cc9221f835b6e683509bce6f391d3c5c04fc5c5ff8",
+      "simhash": "1:03129273274d87dd",
+      "word_count": 3424
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0044-01",
+    "first_page_order": 44,
+    "last_page_order": 51
+  },
+  {
+    "id": 408833,
+    "name": "Morss versus Palmer; Same versus Ayres",
+    "name_abbreviation": "Morss v. Palmer",
+    "decision_date": "1850-07-18",
+    "docket_number": "",
+    "first_page": "51",
+    "last_page": "57",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 51"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Johns. 417",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          6775033
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/2/0416-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 657,
+      "char_count": 17867,
+      "ocr_confidence": 0.423,
+      "pagerank": {
+        "raw": 2.8200975743805716e-07,
+        "percentile": 0.838280532957713
+      },
+      "sha256": "e08429856d627813cb8b1f1aeb6654f795ed2c63b0784f35cacb5835a9e64162",
+      "simhash": "1:0d89fc494e2cb531",
+      "word_count": 3045
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0051-01",
+    "first_page_order": 51,
+    "last_page_order": 57
+  },
+  {
+    "id": 408841,
+    "name": "Barber versus Wolcott",
+    "name_abbreviation": "Barber v. Wolcott",
+    "decision_date": "1850-07-20",
+    "docket_number": "",
+    "first_page": "57",
+    "last_page": "59",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 57"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 250,
+      "char_count": 4108,
+      "ocr_confidence": 0.453,
+      "pagerank": {
+        "raw": 5.684874614740142e-08,
+        "percentile": 0.35766969425630607
+      },
+      "sha256": "50d69f5b6337e32e852619102b551486e1f3329202016a9b92049ed142966ba1",
+      "simhash": "1:4b6ac9e0562785ae",
+      "word_count": 691
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0057-01",
+    "first_page_order": 57,
+    "last_page_order": 59
+  },
+  {
+    "id": 408836,
+    "name": "Snyder versus Wilt",
+    "name_abbreviation": "Snyder v. Wilt",
+    "decision_date": "1850-07-20",
+    "docket_number": "",
+    "first_page": "59",
+    "last_page": "65",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 59"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Watts 60",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841271
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/3/0060-01"
+        ]
+      },
+      {
+        "cite": "10 Johns. 224",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2135988
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/10/0226-01"
+        ]
+      },
+      {
+        "cite": "6 Mass. R. 530",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 715,
+      "char_count": 18432,
+      "ocr_confidence": 0.446,
+      "pagerank": {
+        "raw": 2.0441585017938843e-07,
+        "percentile": 0.7480841547132671
+      },
+      "sha256": "2ec717f98d4ed37d0ea0a32e7596eadefb63f289f0c9e075f30702f5973bde3e",
+      "simhash": "1:255a22980e405cd8",
+      "word_count": 3319
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0059-01",
+    "first_page_order": 59,
+    "last_page_order": 65
+  },
+  {
+    "id": 408782,
+    "name": "Rearick's Executors versus Rearick",
+    "name_abbreviation": "Rearick's Executors v. Rearick",
+    "decision_date": "1850-07-20",
+    "docket_number": "",
+    "first_page": "66",
+    "last_page": "74",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 66"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Bin. 616",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Pa. Rep. 450",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 950,
+      "char_count": 23627,
+      "ocr_confidence": 0.444,
+      "pagerank": {
+        "raw": 3.310530594294692e-07,
+        "percentile": 0.8724278905835823
+      },
+      "sha256": "97eca4562c4186de94795739bd310910ab11dc0111c4491ab00c942fcb3d184a",
+      "simhash": "1:9224f5d60f2384dc",
+      "word_count": 4084
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0066-01",
+    "first_page_order": 66,
+    "last_page_order": 74
+  },
+  {
+    "id": 408793,
+    "name": "Knox versus Moatz",
+    "name_abbreviation": "Knox v. Moatz",
+    "decision_date": "1850-07-22",
+    "docket_number": "",
+    "first_page": "74",
+    "last_page": "80",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 74"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "17 Mass. 169",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 596,
+      "char_count": 16844,
+      "ocr_confidence": 0.445,
+      "pagerank": {
+        "raw": 1.6590931177319536e-07,
+        "percentile": 0.6939852477885776
+      },
+      "sha256": "da5ccc0da3ffe90099eba16cf4669b4e9ab1240051e1ed90cf67f205106b90ad",
+      "simhash": "1:50ca6489facff679",
+      "word_count": 2997
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0074-01",
+    "first_page_order": 74,
+    "last_page_order": 80
+  },
+  {
+    "id": 408772,
+    "name": "Case versus Davis et al.",
+    "name_abbreviation": "Case v. Davis",
+    "decision_date": "1850-07-22",
+    "docket_number": "",
+    "first_page": "80",
+    "last_page": "82",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 80"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Watts 39",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1842729
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/4/0039-01"
+        ]
+      },
+      {
+        "cite": "3 Watts 394",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841234
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/3/0394-01"
+        ]
+      },
+      {
+        "cite": "2 Yeates 174",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 370,
+      "char_count": 7137,
+      "ocr_confidence": 0.45,
+      "pagerank": {
+        "raw": 8.876685767652503e-08,
+        "percentile": 0.49924686728840173
+      },
+      "sha256": "bdd25141d831d91598d7324847e9c650493c2b50c3d8d3ffb2a478be98740c5c",
+      "simhash": "1:aed1f4b8f0fe4116",
+      "word_count": 1314
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0080-01",
+    "first_page_order": 80,
+    "last_page_order": 82
+  },
+  {
+    "id": 408791,
+    "name": "Buckley's Administrators versus Reed",
+    "name_abbreviation": "Buckley's Administrators v. Reed",
+    "decision_date": "1850-07-22",
+    "docket_number": "",
+    "first_page": "83",
+    "last_page": "86",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 83"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 548,
+      "char_count": 11806,
+      "ocr_confidence": 0.455,
+      "pagerank": {
+        "raw": 2.387819685846472e-07,
+        "percentile": 0.7975190831589023
+      },
+      "sha256": "c75783659769b45e59b9cb01a9b216d4ce46c763e97da14132c2b4dba25e2c36",
+      "simhash": "1:b731b5da2c80f7bd",
+      "word_count": 2103
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0083-01",
+    "first_page_order": 83,
+    "last_page_order": 86
+  },
+  {
+    "id": 408743,
+    "name": "Royer versus Myers; Same versus Reedy",
+    "name_abbreviation": "Royer v. Myers",
+    "decision_date": "1850-07-22",
+    "docket_number": "",
+    "first_page": "87",
+    "last_page": "89",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 87"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Watts 71",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1842746
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/4/0071-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 438,
+      "char_count": 8577,
+      "ocr_confidence": 0.428,
+      "pagerank": {
+        "raw": 5.12982294956584e-08,
+        "percentile": 0.32149171631241824
+      },
+      "sha256": "bca52f5d2231648719d006315e0269c6cbb6a5b78d5f2f9b8dce0cee7205f6b5",
+      "simhash": "1:3863108584e69b63",
+      "word_count": 1504
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0087-01",
+    "first_page_order": 87,
+    "last_page_order": 89
+  },
+  {
+    "id": 408828,
+    "name": "Ricketts & Stewart versus Unangst",
+    "name_abbreviation": "Ricketts & Stewart v. Unangst",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "90",
+    "last_page": "92",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 90"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Watts 257",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "17 Johns. 116",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          6064777
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/17/0101-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 370,
+      "char_count": 6003,
+      "ocr_confidence": 0.458,
+      "pagerank": {
+        "raw": 1.834033213195707e-07,
+        "percentile": 0.7211349001428269
+      },
+      "sha256": "cea5c4b456a7f33a2656fac30cc5e40ec5fd925c801f3d95214de3bb9d355c7f",
+      "simhash": "1:5ef24de096defb79",
+      "word_count": 1077
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0090-01",
+    "first_page_order": 90,
+    "last_page_order": 92
+  },
+  {
+    "id": 408818,
+    "name": "Shoemaker versus Ballard",
+    "name_abbreviation": "Shoemaker v. Ballard",
+    "decision_date": "1850-07-23",
+    "docket_number": "",
+    "first_page": "92",
+    "last_page": "95",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 92"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Bin. 227",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "8 Watts 422",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848413
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0422-01"
+        ]
+      },
+      {
+        "cite": "2 Bin. 80",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788944
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/binn/2/0080-01"
+        ]
+      },
+      {
+        "cite": "4 Yeates 212",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6772363
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/yeates/4/0212-01"
+        ]
+      },
+      {
+        "cite": "4 Yeates 103",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "opinion_index": 0
+      },
+      {
+        "cite": "8 Watts 422",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848413
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/8/0422-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 474,
+      "char_count": 9199,
+      "ocr_confidence": 0.455,
+      "pagerank": {
+        "raw": 1.393063474285646e-07,
+        "percentile": 0.6431898153135569
+      },
+      "sha256": "d849e7aeb96c467a14c8a72b168b88a86abf9ffc2f847f6d4b20bc3b2a2d3574",
+      "simhash": "1:0dd83374e742645b",
+      "word_count": 1607
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0092-01",
+    "first_page_order": 92,
+    "last_page_order": 95
+  },
+  {
+    "id": 408678,
+    "name": "Hackett versus The Commonwealth",
+    "name_abbreviation": "Hackett v. Commonwealth",
+    "decision_date": "1850-07-25",
+    "docket_number": "",
+    "first_page": "95",
+    "last_page": "100",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 95"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Bin. 577",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1791112
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/3/0577-01"
+        ]
+      },
+      {
+        "cite": "2 Smith 531",
+        "category": "reporters:state",
+        "reporter": "Smith & H.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Smith 575",
+        "category": "reporters:state",
+        "reporter": "Smith & H.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "1 Smith 115",
+        "category": "reporters:state",
+        "reporter": "Smith & H.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 685,
+      "char_count": 15148,
+      "ocr_confidence": 0.435,
+      "pagerank": {
+        "raw": 2.863670711222569e-07,
+        "percentile": 0.841593274356922
+      },
+      "sha256": "ec7ad1910fa3d26ec06915bac0a7645bb643b5920283580cf24d2f36847786ab",
+      "simhash": "1:56a86adf562dbb0c",
+      "word_count": 2648
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0095-01",
+    "first_page_order": 95,
+    "last_page_order": 100
+  },
+  {
+    "id": 408683,
+    "name": "Kase versus Best",
+    "name_abbreviation": "Kase v. Best",
+    "decision_date": "1850-07-29",
+    "docket_number": "",
+    "first_page": "101",
+    "last_page": "102",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 101"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 282,
+      "char_count": 4789,
+      "ocr_confidence": 0.432,
+      "pagerank": {
+        "raw": 3.8569392786400946e-07,
+        "percentile": 0.8998843175799053
+      },
+      "sha256": "54e00e55a5a1fd5ac2bfd85242d4e93c0d1c25a95d386dc6ce82872289144e11",
+      "simhash": "1:a47775291c1357f5",
+      "word_count": 846
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0101-01",
+    "first_page_order": 101,
+    "last_page_order": 102
+  },
+  {
+    "id": 408812,
+    "name": "Baldy versus Brady",
+    "name_abbreviation": "Baldy v. Brady",
+    "decision_date": "1850-07-29",
+    "docket_number": "",
+    "first_page": "103",
+    "last_page": "111",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 103"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "8 Watts 503",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 833,
+      "char_count": 24263,
+      "ocr_confidence": 0.441,
+      "pagerank": {
+        "raw": 1.418149365216677e-07,
+        "percentile": 0.6484434034571127
+      },
+      "sha256": "4604975921c92cb85b84e5dce0e31f3d4f6e9242269a3008e6d4dfb5940b0add",
+      "simhash": "1:d9ffedbca264ac41",
+      "word_count": 4222
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0103-01",
+    "first_page_order": 103,
+    "last_page_order": 111
+  },
+  {
+    "id": 408714,
+    "name": "Clement versus Reppard",
+    "name_abbreviation": "Clement v. Reppard",
+    "decision_date": "1850-07-29",
+    "docket_number": "",
+    "first_page": "111",
+    "last_page": "113",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 111"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 307,
+      "char_count": 4817,
+      "ocr_confidence": 0.439,
+      "pagerank": {
+        "raw": 8.910161923743749e-08,
+        "percentile": 0.5002349557831364
+      },
+      "sha256": "4ffd4855a150c900b4c8a0d4f961ae8f0687a7d4427d07e8d794e81769071a6f",
+      "simhash": "1:f3a8d459c605f847",
+      "word_count": 856
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0111-01",
+    "first_page_order": 111,
+    "last_page_order": 113
+  },
+  {
+    "id": 408724,
+    "name": "Helfrich versus Obermyer",
+    "name_abbreviation": "Helfrich v. Obermyer",
+    "decision_date": "1850-07-29",
+    "docket_number": "",
+    "first_page": "113",
+    "last_page": "116",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 113"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Yeates 553",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6777533
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/1/0553-01"
+        ]
+      },
+      {
+        "cite": "1 Yeates 75",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6771747
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/1/0074-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 467,
+      "char_count": 7495,
+      "ocr_confidence": 0.449,
+      "pagerank": {
+        "raw": 2.238932145681277e-07,
+        "percentile": 0.7798945035019417
+      },
+      "sha256": "749deb62559ab39d22c7677cd98f7969b5ee75cf3901b19e0677d52516a35acb",
+      "simhash": "1:90e3aa4c540fe0fa",
+      "word_count": 1330
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0113-01",
+    "first_page_order": 113,
+    "last_page_order": 116
+  },
+  {
+    "id": 408737,
+    "name": "Clement versus Rohrabach",
+    "name_abbreviation": "Clement v. Rohrabach",
+    "decision_date": "1850-07-29",
+    "docket_number": "",
+    "first_page": "116",
+    "last_page": "118",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 116"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 305,
+      "char_count": 5502,
+      "ocr_confidence": 0.429,
+      "pagerank": {
+        "raw": 1.6343475431493036e-07,
+        "percentile": 0.6894623972285643
+      },
+      "sha256": "cc2b31c9a9b28ad0414178e6204d14d625c47975176b561f8970a2aa93cbb13a",
+      "simhash": "1:1356b0312a92b476",
+      "word_count": 950
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0116-01",
+    "first_page_order": 116,
+    "last_page_order": 118
+  },
+  {
+    "id": 408721,
+    "name": "Dailey versus Green",
+    "name_abbreviation": "Dailey v. Green",
+    "decision_date": "1850-07-31",
+    "docket_number": "",
+    "first_page": "118",
+    "last_page": "128",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 118"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "9 Watts 311",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1849983
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/9/0311-01"
+        ]
+      },
+      {
+        "cite": "7 Watts 310",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Pa. Rep. 318",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Watts 331",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841267
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "369"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/3/0331-01"
+        ]
+      },
+      {
+        "cite": "9 Watts 811",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "12 Wheat. 193",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          1429913
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/25/0193-01"
+        ]
+      },
+      {
+        "cite": "3 R. 168",
+        "category": "reporters:state_regional",
+        "reporter": "R.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "5 Watts 262",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1843985
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/5/0262-01"
+        ]
+      },
+      {
+        "cite": "9 Watts 311",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1849983
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/9/0311-01"
+        ]
+      },
+      {
+        "cite": "3 Watts 331",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841267
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/3/0331-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 1037,
+      "char_count": 28164,
+      "ocr_confidence": 0.446,
+      "pagerank": {
+        "raw": 6.256981311794266e-07,
+        "percentile": 0.9576797720639312
+      },
+      "sha256": "5b67b9f43a72602dc7fe6f7f8ea665532cad69902fac2018175998fc7e5709cc",
+      "simhash": "1:6ee0f10ddf549a04",
+      "word_count": 5051
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0118-01",
+    "first_page_order": 118,
+    "last_page_order": 128
+  },
+  {
+    "id": 408769,
+    "name": "Grove's versus Donaldson",
+    "name_abbreviation": "Grove's v. Donaldson",
+    "decision_date": "1850-08-01",
+    "docket_number": "",
+    "first_page": "128",
+    "last_page": "138",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 128"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 870,
+      "char_count": 30597,
+      "ocr_confidence": 0.441,
+      "pagerank": {
+        "raw": 6.214953485736997e-07,
+        "percentile": 0.9571353387784385
+      },
+      "sha256": "c7d4257cf45f315b06c0e82f041bbd2642926c5eadc211d4ec37bc46a2e45379",
+      "simhash": "1:da7ed4ef8e9af87a",
+      "word_count": 5519
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0128-01",
+    "first_page_order": 128,
+    "last_page_order": 138
+  },
+  {
+    "id": 408825,
+    "name": "Thomas versus Mowrer",
+    "name_abbreviation": "Thomas v. Mowrer",
+    "decision_date": "1850-08-01",
+    "docket_number": "",
+    "first_page": "139",
+    "last_page": "144",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 139"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Bin. 55",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788983
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0055-01"
+        ]
+      },
+      {
+        "cite": "2 Bin. 37",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788942
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0037-01"
+        ]
+      },
+      {
+        "cite": "3 Yeates 401",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Watts 262",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 572,
+      "char_count": 14640,
+      "ocr_confidence": 0.449,
+      "pagerank": {
+        "raw": 7.505963857335425e-08,
+        "percentile": 0.4466847294958123
+      },
+      "sha256": "de16d51091d1e2646800b453df28b67d87b73bed381f8e508440b0223b3db9c7",
+      "simhash": "1:122d3a354b1520f6",
+      "word_count": 2638
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0139-01",
+    "first_page_order": 139,
+    "last_page_order": 144
+  },
+  {
+    "id": 408810,
+    "name": "Winegardner versus Hafer",
+    "name_abbreviation": "Winegardner v. Hafer",
+    "decision_date": "1850-08-01",
+    "docket_number": "",
+    "first_page": "144",
+    "last_page": "145",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 144"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 187,
+      "char_count": 2731,
+      "ocr_confidence": 0.428,
+      "pagerank": {
+        "raw": 1.1315214750103544e-07,
+        "percentile": 0.5759748927447121
+      },
+      "sha256": "3f2bb5b76432f9f4e696c19792b85e412cb66a8a68137318ed054ab8471dccda",
+      "simhash": "1:fbbc7c8b56208f5c",
+      "word_count": 474
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0144-01",
+    "first_page_order": 144,
+    "last_page_order": 145
+  },
+  {
+    "id": 408821,
+    "name": "Lewis versus Turbut",
+    "name_abbreviation": "Lewis v. Turbut",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "145",
+    "last_page": "148",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 145"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 355,
+      "char_count": 7509,
+      "ocr_confidence": 0.435,
+      "pagerank": {
+        "raw": 2.0875822776104724e-07,
+        "percentile": 0.7598952680252787
+      },
+      "sha256": "81a55341b9b41dd41fd6526475c0d4cc204089e63c964a36bdc2f17c5a09069f",
+      "simhash": "1:4ddde0f6f2149895",
+      "word_count": 1339
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0145-01",
+    "first_page_order": 145,
+    "last_page_order": 148
+  },
+  {
+    "id": 408757,
+    "name": "Maus versus Wilson",
+    "name_abbreviation": "Maus v. Wilson",
+    "decision_date": "1850-08-01",
+    "docket_number": "",
+    "first_page": "148",
+    "last_page": "151",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 148"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Yeates 48",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Bin. 40",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788946
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "165"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0040-01"
+        ]
+      },
+      {
+        "cite": "4 Watts 270",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1842713
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/4/0270-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 495,
+      "char_count": 8509,
+      "ocr_confidence": 0.455,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.01521227685475099
+      },
+      "sha256": "794d909a9d261613aaef454158472676ec6508523df957f23a1824c81f2c6cb9",
+      "simhash": "1:7d9a14af490a080f",
+      "word_count": 1482
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0148-01",
+    "first_page_order": 148,
+    "last_page_order": 151
+  },
+  {
+    "id": 408767,
+    "name": "Danville Bridge Company versus Pomroy & Colony",
+    "name_abbreviation": "Danville Bridge Co. v. Pomroy & Colony",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "151",
+    "last_page": "163",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 151"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Pa. Rep. 53",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 Watts 331",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841267
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/3/0331-01"
+        ]
+      },
+      {
+        "cite": "2 Pa. Rep. 454",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 1211,
+      "char_count": 34803,
+      "ocr_confidence": 0.435,
+      "pagerank": {
+        "raw": 7.399535691430039e-07,
+        "percentile": 0.9692211785320303
+      },
+      "sha256": "37fe313c7140c2f76381790c47a09de1350b9da11af27245d4c4021a94a8dd81",
+      "simhash": "1:9eb04df0ed77bd41",
+      "word_count": 5947
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0151-01",
+    "first_page_order": 151,
+    "last_page_order": 163
+  },
+  {
+    "id": 408804,
+    "name": "Ross versus Rhoads",
+    "name_abbreviation": "Ross v. Rhoads",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "163",
+    "last_page": "166",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 163"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "8 Watts 81",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848482
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0081-01"
+        ]
+      },
+      {
+        "cite": "3 Bin. 175",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1791119
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/3/0175-01"
+        ]
+      },
+      {
+        "cite": "3 Yeates 567",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Rawle 141",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1820580
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/rawle/2/0141-01"
+        ]
+      },
+      {
+        "cite": "8 Watts 81",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848482
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/8/0081-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 405,
+      "char_count": 7238,
+      "ocr_confidence": 0.443,
+      "pagerank": {
+        "raw": 5.298132930532853e-08,
+        "percentile": 0.33177165927434377
+      },
+      "sha256": "d2165b554c99152796ab29f0f037332e806aa50c1779a53df380ac23aba9696b",
+      "simhash": "1:4d414277fa36abf2",
+      "word_count": 1279
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0163-01",
+    "first_page_order": 163,
+    "last_page_order": 166
+  },
+  {
+    "id": 408843,
+    "name": "Lycoming versus Union",
+    "name_abbreviation": "Lycoming v. Union",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "166",
+    "last_page": "172",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 166"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "6 Watts 400",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Watts 433",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1840055
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/2/0433-01"
+        ]
+      },
+      {
+        "cite": "7 Watts 300",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846807
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/7/0300-01"
+        ]
+      },
+      {
+        "cite": "1 Watts 356",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      },
+      {
+        "cite": "2 Bin. 592",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "5 Bin. 33",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1793634
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/binn/5/0033-01"
+        ]
+      },
+      {
+        "cite": "2 R. 374",
+        "category": "reporters:state_regional",
+        "reporter": "R.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "2 Watts 433",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1840055
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "466"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/2/0433-01"
+        ]
+      },
+      {
+        "cite": "7 Watts 300",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846807
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/7/0300-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 954,
+      "char_count": 18616,
+      "ocr_confidence": 0.462,
+      "pagerank": {
+        "raw": 4.914229597949796e-07,
+        "percentile": 0.9340602483001905
+      },
+      "sha256": "01e72be1dad70f2cdd5239d1e5a275dc13d406d57aeef4bcf815bf58c94003c1",
+      "simhash": "1:d0ac8ab2868d35cb",
+      "word_count": 3150
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0166-01",
+    "first_page_order": 166,
+    "last_page_order": 172
+  },
+  {
+    "id": 408815,
+    "name": "Lloyd versus The West Branch Bank",
+    "name_abbreviation": "Lloyd v. West Branch Bank",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "172",
+    "last_page": "177",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 172"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "24 Maine Rep. 86",
+        "category": "reporters:state",
+        "reporter": "Me.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "17 Mass. 501",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 663,
+      "char_count": 14047,
+      "ocr_confidence": 0.438,
+      "pagerank": {
+        "raw": 5.206950126217236e-07,
+        "percentile": 0.9404976892475199
+      },
+      "sha256": "0e4d42879b71627f234a13b086a9a54f9f22ec0dec5e12e16665ebf59011ac2d",
+      "simhash": "1:142a8004f6aee57e",
+      "word_count": 2518
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0172-01",
+    "first_page_order": 172,
+    "last_page_order": 177
+  },
+  {
+    "id": 408686,
+    "name": "Ridgway, Budd & Co.'s Appeal",
+    "name_abbreviation": "Ridgway, Budd & Co.'s Appeal",
+    "decision_date": "1850-07",
+    "docket_number": "",
+    "first_page": "177",
+    "last_page": "182",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 177"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Watts 143",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1840152
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/2/0143-01"
+        ]
+      },
+      {
+        "cite": "1 Pa. Rep. 198",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Watts 143",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1840152
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "200"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/2/0143-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 560,
+      "char_count": 13820,
+      "ocr_confidence": 0.435,
+      "pagerank": {
+        "raw": 7.687774127163492e-07,
+        "percentile": 0.9714396476396886
+      },
+      "sha256": "45f9ccc0db81aa16a40973bf97d3f6be52cd840d0a6fcce2985a1404e747003e",
+      "simhash": "1:4baea9f3dd8e0dc9",
+      "word_count": 2448
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0177-01",
+    "first_page_order": 177,
+    "last_page_order": 182
+  },
+  {
+    "id": 408813,
+    "name": "Buffaloe versus Whitedeer",
+    "name_abbreviation": "Buffaloe v. Whitedeer",
+    "decision_date": "1850-07-29",
+    "docket_number": "",
+    "first_page": "182",
+    "last_page": "184",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 182"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "9 Mass. 201",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2029659
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/9/0182-01"
+        ]
+      },
+      {
+        "cite": "4 Mass. 131",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2003940
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/4/0121-01"
+        ]
+      },
+      {
+        "cite": "16 Johns. 186",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          378142
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/16/0186-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 370,
+      "char_count": 6041,
+      "ocr_confidence": 0.422,
+      "pagerank": {
+        "raw": 7.183779689348061e-08,
+        "percentile": 0.43006735141701313
+      },
+      "sha256": "ebbfbca303117fa0ffe6cfda9eeadffe02b50e845faa4cd1b6ebfaa89442d6d5",
+      "simhash": "1:5087a18be81c0f85",
+      "word_count": 1035
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0182-01",
+    "first_page_order": 182,
+    "last_page_order": 184
+  },
+  {
+    "id": 408786,
+    "name": "Leeds versus Vail",
+    "name_abbreviation": "Leeds v. Vail",
+    "decision_date": "1850-12",
+    "docket_number": "",
+    "first_page": "185",
+    "last_page": "188",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 185"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Whar. 393",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Bin. 235",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1793589
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/5/0235-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 441,
+      "char_count": 8184,
+      "ocr_confidence": 0.45,
+      "pagerank": {
+        "raw": 9.636122320932634e-08,
+        "percentile": 0.5276230390265996
+      },
+      "sha256": "d0eacdebdd5410d2b82eec78e63285fbfa1ae68f0f766cf575d2b5d3e81a72bc",
+      "simhash": "1:847bd152ee5c264c",
+      "word_count": 1507
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0185-01",
+    "first_page_order": 185,
+    "last_page_order": 188
+  },
+  {
+    "id": 408675,
+    "name": "Goodman versus Gay",
+    "name_abbreviation": "Goodman v. Gay",
+    "decision_date": "1850-12",
+    "docket_number": "",
+    "first_page": "188",
+    "last_page": "195",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 188"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "13 Johns. 339",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          374540
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/13/0339-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 819,
+      "char_count": 18434,
+      "ocr_confidence": 0.439,
+      "pagerank": {
+        "raw": 7.792245076638671e-07,
+        "percentile": 0.9721929734127357
+      },
+      "sha256": "15e8bd14d37f325ae0d900964e81b316e2b1f9f1caeee604668b63b34a270da4",
+      "simhash": "1:68f0834940adc39d",
+      "word_count": 3374
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0188-01",
+    "first_page_order": 188,
+    "last_page_order": 195
+  },
+  {
+    "id": 408809,
+    "name": "Wetherell versus Hamilton",
+    "name_abbreviation": "Wetherell v. Hamilton",
+    "decision_date": "1851-02-10",
+    "docket_number": "",
+    "first_page": "195",
+    "last_page": "200",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 195"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "11 Johns. 538",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "7 Watts 267",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "18 Johns. 169",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          8710365
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/18/0169-01"
+        ]
+      },
+      {
+        "cite": "5 Watts 451",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1844064
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/5/0451-01"
+        ]
+      },
+      {
+        "cite": "8 Johns. 162",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Paige 68",
+        "category": "reporters:state",
+        "reporter": "Paige Ch.",
+        "case_ids": [
+          2179859
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/paige-ch/2/0068-01"
+        ]
+      },
+      {
+        "cite": "14 Wend. 63",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2017107
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/wend/14/0063-01"
+        ]
+      },
+      {
+        "cite": "14 Wend. 68",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2017143
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/14/0068-01"
+        ]
+      },
+      {
+        "cite": "14 Wend. 63",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2017107
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/14/0063-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 585,
+      "char_count": 13763,
+      "ocr_confidence": 0.448,
+      "pagerank": {
+        "raw": 5.522690063670855e-08,
+        "percentile": 0.34474828455249706
+      },
+      "sha256": "8801d3a00e29600c444f1fb9814c924f1cccfccc4022efbcca252ef6e07187cf",
+      "simhash": "1:932394bd3f8d549d",
+      "word_count": 2395
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0195-01",
+    "first_page_order": 195,
+    "last_page_order": 200
+  },
+  {
+    "id": 408806,
+    "name": "Greaner versus Mullen",
+    "name_abbreviation": "Greaner v. Mullen",
+    "decision_date": "1851-02-11",
+    "docket_number": "",
+    "first_page": "200",
+    "last_page": "208",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 200"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Bin. 182",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Whart. 369",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1833448
+        ],
+        "pin_cites": [
+          {
+            "page": "397"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/3/0368-01"
+        ]
+      },
+      {
+        "cite": "15 Mass. 359",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2055234
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/15/0323-01"
+        ]
+      },
+      {
+        "cite": "16 Conn. 71",
+        "category": "reporters:state",
+        "reporter": "Conn.",
+        "case_ids": [
+          12122428
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/conn/16/0071-01"
+        ]
+      },
+      {
+        "cite": "5 Mass. 127",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 869,
+      "char_count": 23737,
+      "ocr_confidence": 0.44,
+      "pagerank": {
+        "raw": 6.939155244961223e-08,
+        "percentile": 0.4207104352415913
+      },
+      "sha256": "f0386945e984d10449374a5a864d0fbe8c2677da1eb2152d67515388e3c84c6b",
+      "simhash": "1:f86fff352fde8087",
+      "word_count": 4170
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0200-01",
+    "first_page_order": 200,
+    "last_page_order": 208
+  },
+  {
+    "id": 408840,
+    "name": "Coulter versus Repplier",
+    "name_abbreviation": "Coulter v. Repplier",
+    "decision_date": "1851-02-11",
+    "docket_number": "",
+    "first_page": "208",
+    "last_page": "212",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 208"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "8 Watts 264",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "387"
+          }
+        ],
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Watts 418",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1844022
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/5/0418-01"
+        ]
+      },
+      {
+        "cite": "4 Whar. 130",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1835004
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "140"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/4/0130-01"
+        ]
+      },
+      {
+        "cite": "1 Murph. 154",
+        "category": "reporters:state",
+        "reporter": "Mur.",
+        "case_ids": [
+          11276025
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/nc/5/0154-01"
+        ]
+      },
+      {
+        "cite": "2 Dev. 87",
+        "category": "reporters:state",
+        "reporter": "Dev.",
+        "case_ids": [
+          11276262
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/nc/13/0087-01"
+        ]
+      },
+      {
+        "cite": "1 Dev. 419",
+        "category": "reporters:state",
+        "reporter": "Dev.",
+        "case_ids": [
+          8695081
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/nc/12/0419-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 489,
+      "char_count": 10838,
+      "ocr_confidence": 0.439,
+      "pagerank": {
+        "raw": 7.728108280744093e-08,
+        "percentile": 0.4543004244649012
+      },
+      "sha256": "202910ce3eb80a55c298bdea84c7a351fe8cba90d45d48a619448d6fb3c7ca58",
+      "simhash": "1:86e7c6f73ad81718",
+      "word_count": 1929
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0208-01",
+    "first_page_order": 208,
+    "last_page_order": 212
+  },
+  {
+    "id": 408827,
+    "name": "Garrett's Appeal",
+    "name_abbreviation": "Garrett's Appeal",
+    "decision_date": "1851-02-12",
+    "docket_number": "",
+    "first_page": "212",
+    "last_page": "215",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 212"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "10 Watts 57",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 409,
+      "char_count": 7857,
+      "ocr_confidence": 0.422,
+      "pagerank": {
+        "raw": 1.8380002018725356e-07,
+        "percentile": 0.7216619578979315
+      },
+      "sha256": "fa543215f6a34fdf51f497fde1ab59ee9643381ce6adb4c841ded58ec8fa6f01",
+      "simhash": "1:04778832408680bb",
+      "word_count": 1425
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0212-01",
+    "first_page_order": 212,
+    "last_page_order": 215
+  },
+  {
+    "id": 408784,
+    "name": "Lelar versus Brown",
+    "name_abbreviation": "Lelar v. Brown",
+    "decision_date": "1851-02-14",
+    "docket_number": "",
+    "first_page": "215",
+    "last_page": "218",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 215"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 413,
+      "char_count": 8299,
+      "ocr_confidence": 0.45,
+      "pagerank": {
+        "raw": 6.89516513629939e-08,
+        "percentile": 0.41922077310298783
+      },
+      "sha256": "50e309557fd9b849f19fefc9c36ef26429be3acd78b349212eaf0292bd19f245",
+      "simhash": "1:381bd46a72f7dc3f",
+      "word_count": 1476
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0215-01",
+    "first_page_order": 215,
+    "last_page_order": 218
+  },
+  {
+    "id": 408805,
+    "name": "Petts versus Gaw",
+    "name_abbreviation": "Petts v. Gaw",
+    "decision_date": "1851-02-15",
+    "docket_number": "",
+    "first_page": "218",
+    "last_page": "223",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 218"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Mass. R. 382",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 694,
+      "char_count": 15789,
+      "ocr_confidence": 0.443,
+      "pagerank": {
+        "raw": 2.103686698820051e-07,
+        "percentile": 0.762188258852157
+      },
+      "sha256": "854376ffd53434de204042a8f9037cd74e9d2655c47d9529d6dadd5a82f947aa",
+      "simhash": "1:a3a2a4920b4635e7",
+      "word_count": 2818
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0218-01",
+    "first_page_order": 218,
+    "last_page_order": 223
+  },
+  {
+    "id": 408817,
+    "name": "Loan Company versus Elliott's Ex'rs and Cragg",
+    "name_abbreviation": "Loan Co. v. Elliott's Ex'rs & Cragg",
+    "decision_date": "1851-02-18",
+    "docket_number": "",
+    "first_page": "224",
+    "last_page": "229",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 224"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Watts 339",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Bin. 125",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1787932
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/1/0125-01"
+        ]
+      },
+      {
+        "cite": "2 Watts 204",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1840046
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/2/0204-01"
+        ]
+      },
+      {
+        "cite": "2 Mass. 572",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2007362
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/2/0513-01"
+        ]
+      },
+      {
+        "cite": "1 Bin. 123",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1787943
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "262"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/1/0123-01"
+        ]
+      },
+      {
+        "cite": "1 Rawle 295",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1819164
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/rawle/1/0295-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 691,
+      "char_count": 14617,
+      "ocr_confidence": 0.443,
+      "pagerank": {
+        "raw": 6.135432583323292e-08,
+        "percentile": 0.38182438435599914
+      },
+      "sha256": "aa57d93f584496df7af5853fe9e19148714ed7de5c2f3993fdf345be282c0c08",
+      "simhash": "1:6bdba184cc687f37",
+      "word_count": 2561
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0224-01",
+    "first_page_order": 224,
+    "last_page_order": 229
+  },
+  {
+    "id": 408731,
+    "name": "Porter versus Patterson",
+    "name_abbreviation": "Porter v. Patterson",
+    "decision_date": "1851-02-21",
+    "docket_number": "",
+    "first_page": "229",
+    "last_page": "236",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 229"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Mass. 296",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "13 Pa. Rep. 310",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "case_ids": [
+          965032
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/pa/13/0310-01"
+        ]
+      },
+      {
+        "cite": "17 Mass. 109",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2036023
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/mass/17/0088-01"
+        ]
+      },
+      {
+        "cite": "15 Wend. 431",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2018787
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/15/0431-01"
+        ]
+      },
+      {
+        "cite": "12 Johns. Rep. 300",
+        "category": "reporters:state",
+        "reporter": "Johns. Rep.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "14 Peters 480",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 Wash. C. C. Rep. 151",
+        "category": "reporters:federal",
+        "reporter": "Wash. C. C.",
+        "case_ids": [
+          6639905
+        ],
+        "weight": 2,
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-cas/15/0870-01"
+        ]
+      },
+      {
+        "cite": "14 Peters 479",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "case_ids": [
+          3334728
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/39/0479-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 856,
+      "char_count": 20752,
+      "ocr_confidence": 0.436,
+      "pagerank": {
+        "raw": 5.831044236495471e-07,
+        "percentile": 0.9517344447494815
+      },
+      "sha256": "bec62e8743a4ccf33193ce333a5448c86e22186a17bb85eae6607c1b9d5845b5",
+      "simhash": "1:efc5c486b8bc1fac",
+      "word_count": 3638
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0229-01",
+    "first_page_order": 229,
+    "last_page_order": 236
+  },
+  {
+    "id": 408705,
+    "name": "Burton versus Ehrlich",
+    "name_abbreviation": "Burton v. Ehrlich",
+    "decision_date": "1850-12",
+    "docket_number": "",
+    "first_page": "236",
+    "last_page": "237",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 236"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Whar. 67",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          8877346
+        ],
+        "pin_cites": [
+          {
+            "page": "78"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/5/0067-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 239,
+      "char_count": 3175,
+      "ocr_confidence": 0.433,
+      "pagerank": {
+        "raw": 1.831009741148259e-07,
+        "percentile": 0.7207402825415691
+      },
+      "sha256": "f9a0b310749dc8cf835f970771ba86c27e3706d4908bfa6daebd71e1ed18b22d",
+      "simhash": "1:0b56ab5f1dc081fd",
+      "word_count": 588
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0236-01",
+    "first_page_order": 236,
+    "last_page_order": 237
+  },
+  {
+    "id": 408760,
+    "name": "Craig versus Sibbett & Jones",
+    "name_abbreviation": "Craig v. Sibbett & Jones",
+    "decision_date": "1851-02-24",
+    "docket_number": "",
+    "first_page": "238",
+    "last_page": "241",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 238"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "15 Peters 398",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "6 Low. 237",
+        "category": "reporters:federal",
+        "reporter": "Low.",
+        "weight": 2,
+        "opinion_index": -1
+      },
+      {
+        "cite": "7 Wend. 227",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2009745
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/wend/7/0227-01"
+        ]
+      },
+      {
+        "cite": "9 Mass. 55",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2029736
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/9/0057-01"
+        ]
+      },
+      {
+        "cite": "19 Pick. 220",
+        "category": "reporters:state",
+        "reporter": "Pick.",
+        "case_ids": [
+          2037628
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/36/0220-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 489,
+      "char_count": 10424,
+      "ocr_confidence": 0.436,
+      "pagerank": {
+        "raw": 3.5493378157779296e-07,
+        "percentile": 0.8852404136302927
+      },
+      "sha256": "bdf7003ae2b18aba464f56f4c7392ad3f5d86129a51ca248a02edd0999f7b131",
+      "simhash": "1:a5fd6c716df898de",
+      "word_count": 1825
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0238-01",
+    "first_page_order": 238,
+    "last_page_order": 241
+  },
+  {
+    "id": 408839,
+    "name": "Holler versus Weiner",
+    "name_abbreviation": "Holler v. Weiner",
+    "decision_date": "1851-02-24",
+    "docket_number": "",
+    "first_page": "242",
+    "last_page": "245",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 242"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "8 Watts 103",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 471,
+      "char_count": 9591,
+      "ocr_confidence": 0.466,
+      "pagerank": {
+        "raw": 1.7330568252897434e-07,
+        "percentile": 0.7058127713237335
+      },
+      "sha256": "b638fde3ba28fcceb109ff7d5ba19789fd4796dd7df31618b705fe7d6eaf9f3d",
+      "simhash": "1:83f24ea6b7217dad",
+      "word_count": 1627
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0242-01",
+    "first_page_order": 242,
+    "last_page_order": 245
+  },
+  {
+    "id": 408775,
+    "name": "Northern Liberties versus Coates's Heirs",
+    "name_abbreviation": "Northern Liberties v. Coates's Heirs",
+    "decision_date": "1851-02-24",
+    "docket_number": "",
+    "first_page": "245",
+    "last_page": "247",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 245"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "10 Wend. 346",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2012933
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/wend/10/0346-01"
+        ]
+      },
+      {
+        "cite": "10 Wend. 346",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2012933
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/10/0346-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 407,
+      "char_count": 6987,
+      "ocr_confidence": 0.445,
+      "pagerank": {
+        "raw": 3.2785503232763844e-07,
+        "percentile": 0.8706281717582762
+      },
+      "sha256": "1116f915e56c9ff91afc2873c6df9da2e7db4b936498a5a79f9e59826a0eed30",
+      "simhash": "1:0da68354325e3f33",
+      "word_count": 1234
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0245-01",
+    "first_page_order": 245,
+    "last_page_order": 247
+  },
+  {
+    "id": 408842,
+    "name": "Weaver versus Beckett",
+    "name_abbreviation": "Weaver v. Beckett",
+    "decision_date": "1851-02-24",
+    "docket_number": "",
+    "first_page": "248",
+    "last_page": "250",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 248"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 344,
+      "char_count": 6899,
+      "ocr_confidence": 0.444,
+      "sha256": "058cf37dc486c25f792b7db79e868ae50a25b40be22e83f842b48db8b42eb299",
+      "simhash": "1:251b29b58b50a86c",
+      "word_count": 1192
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0248-01",
+    "first_page_order": 248,
+    "last_page_order": 250
+  },
+  {
+    "id": 408826,
+    "name": "Commonwealth ex rel. Fischer versus The German Society",
+    "name_abbreviation": "Commonwealth ex rel. Fischer v. German Society",
+    "decision_date": "1851-02-25",
+    "docket_number": "",
+    "first_page": "251",
+    "last_page": "255",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 251"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Whar. 312",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Bin. 448",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Bin. 486",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1793688
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/5/0486-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 569,
+      "char_count": 12769,
+      "ocr_confidence": 0.449,
+      "pagerank": {
+        "raw": 7.837379920164192e-07,
+        "percentile": 0.9724983966246681
+      },
+      "sha256": "1a7979e49d41fc4fef39cbc998089575f6c252a35218c668977358c02d91b1ab",
+      "simhash": "1:8708e74b4e758a1a",
+      "word_count": 2273
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0251-01",
+    "first_page_order": 251,
+    "last_page_order": 255
+  },
+  {
+    "id": 408681,
+    "name": "Claridge & Rudolph versus Klett & Co.",
+    "name_abbreviation": "Claridge & Rudolph v. Klett & Co.",
+    "decision_date": "1851-02-27",
+    "docket_number": "",
+    "first_page": "255",
+    "last_page": "259",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 255"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Watts 301",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841314
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/3/0301-01"
+        ]
+      },
+      {
+        "cite": "15 Johns. Rep. 270",
+        "category": "reporters:state",
+        "reporter": "Johns. Rep.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 513,
+      "char_count": 11937,
+      "ocr_confidence": 0.444,
+      "pagerank": {
+        "raw": 1.059906156714631e-07,
+        "percentile": 0.5562721996533389
+      },
+      "sha256": "9c953f56345760e22a02ec7e20529334ebc1192ee0d230a77792b6ce55a97c74",
+      "simhash": "1:2b2ba2368192fcdd",
+      "word_count": 2068
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0255-01",
+    "first_page_order": 255,
+    "last_page_order": 259
+  },
+  {
+    "id": 408694,
+    "name": "Salter versus Reed",
+    "name_abbreviation": "Salter v. Reed",
+    "decision_date": "1851-02-27",
+    "docket_number": "",
+    "first_page": "260",
+    "last_page": "264",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 260"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Watts 288",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Watts 491",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1838087
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/1/0491-01"
+        ]
+      },
+      {
+        "cite": "2 Bin. 40",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788946
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0040-01"
+        ]
+      },
+      {
+        "cite": "2 Bin. 146",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788964
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0146-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 636,
+      "char_count": 13021,
+      "ocr_confidence": 0.438,
+      "pagerank": {
+        "raw": 2.87131333693376e-07,
+        "percentile": 0.842825778645782
+      },
+      "sha256": "0ab20234d43f8f8d7c49ca327feaf4bd38f9f35a2dd1757167b7880fa9922d8b",
+      "simhash": "1:12250c25bea422c3",
+      "word_count": 2310
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0260-01",
+    "first_page_order": 260,
+    "last_page_order": 264
+  },
+  {
+    "id": 408823,
+    "name": "Chambers versus Yarnall et al.; Young versus Chambers",
+    "name_abbreviation": "Chambers v. Yarnall",
+    "decision_date": "1850-12",
+    "docket_number": "",
+    "first_page": "265",
+    "last_page": "266",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 265"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 216,
+      "char_count": 3947,
+      "ocr_confidence": 0.462,
+      "pagerank": {
+        "raw": 2.7999296570002965e-07,
+        "percentile": 0.8367499417919732
+      },
+      "sha256": "595f7a78765dc84ced521a7022e01801f8faefcf689d8958a15dca6dd186cacd",
+      "simhash": "1:4e1b2533482fd4a4",
+      "word_count": 674
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0265-01",
+    "first_page_order": 265,
+    "last_page_order": 266
+  },
+  {
+    "id": 408832,
+    "name": "Young versus Chambers",
+    "name_abbreviation": "Young v. Chambers",
+    "decision_date": "1851-03-01",
+    "docket_number": "",
+    "first_page": "266",
+    "last_page": "268",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 266"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Wh. 277",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1830465
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/whart/2/0277-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 277,
+      "char_count": 4756,
+      "ocr_confidence": 0.432,
+      "pagerank": {
+        "raw": 5.7178559455693396e-08,
+        "percentile": 0.3586990979010745
+      },
+      "sha256": "96390ce3e67e83fb3534b051217151a7426937edd55587dc709e037b1bef1ec2",
+      "simhash": "1:0cd20e941e778d6c",
+      "word_count": 796
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0266-01",
+    "first_page_order": 266,
+    "last_page_order": 268
+  },
+  {
+    "id": 408798,
+    "name": "Mitchell versus Fuller",
+    "name_abbreviation": "Mitchell v. Fuller",
+    "decision_date": "1851-03-01",
+    "docket_number": "",
+    "first_page": "268",
+    "last_page": "272",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 268"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "9 Watts 359",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "11 Johns. 52",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2137667
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/11/0052-01"
+        ]
+      },
+      {
+        "cite": "9 Watts 96",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1849966
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/9/0096-01"
+        ]
+      },
+      {
+        "cite": "1 Dal. 193",
+        "category": "reporters:scotus_early",
+        "reporter": "Dal.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Wheat. 183",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          1443498
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/us/16/0183-01"
+        ]
+      },
+      {
+        "cite": "1 Yeates 94",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6771997
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/1/0094-01"
+        ]
+      },
+      {
+        "cite": "2 Dal. 144",
+        "category": "reporters:scotus_early",
+        "reporter": "Dal.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "15 Mass. 534",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "9 Mass. 423",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2029645
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/mass/9/0374-02"
+        ]
+      },
+      {
+        "cite": "7 Mass. 481",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "7 Cranch 159",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch",
+        "case_ids": [
+          572690
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/11/0159-01"
+        ]
+      },
+      {
+        "cite": "9 Watts 96",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1849966
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/9/0096-01"
+        ]
+      },
+      {
+        "cite": "1 Yeates 94",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6771997
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/yeates/1/0094-01"
+        ]
+      },
+      {
+        "cite": "2 Dal. 144",
+        "category": "reporters:scotus_early",
+        "reporter": "Dal.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 505,
+      "char_count": 9871,
+      "ocr_confidence": 0.455,
+      "pagerank": {
+        "raw": 1.092449515143012e-07,
+        "percentile": 0.5659420684371946
+      },
+      "sha256": "aae36f1b546de6b482a9427bdfe68a986490ee0a63c54270176fe6927dbf2bc2",
+      "simhash": "1:81bc106bc9b0c140",
+      "word_count": 1739
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0268-01",
+    "first_page_order": 268,
+    "last_page_order": 272
+  },
+  {
+    "id": 408834,
+    "name": "Rhoads versus Commonwealth",
+    "name_abbreviation": "Rhoads v. Commonwealth",
+    "decision_date": "1851-03-10",
+    "docket_number": "",
+    "first_page": "272",
+    "last_page": "277",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 272"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Bin. 431",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788940
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0431-01"
+        ]
+      },
+      {
+        "cite": "5 Watts 319",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Peters 431",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "case_ids": [
+          3304842
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/us/28/0431-01"
+        ]
+      },
+      {
+        "cite": "11 Mass. 417",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2053398
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/11/0377-01"
+        ]
+      },
+      {
+        "cite": "4 Yeates 559",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6776686
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/4/0559-01"
+        ]
+      },
+      {
+        "cite": "5 Watts 255",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1844027
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/5/0255-01"
+        ]
+      },
+      {
+        "cite": "7 Cow. 535",
+        "category": "reporters:state",
+        "reporter": "Cow.",
+        "case_ids": [
+          6035302
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/cow/7/534-1-01"
+        ]
+      },
+      {
+        "cite": "5 Watts 418",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1844022
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/5/0418-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 717,
+      "char_count": 16250,
+      "ocr_confidence": 0.467,
+      "pagerank": {
+        "raw": 3.043138427194458e-07,
+        "percentile": 0.855399484680381
+      },
+      "sha256": "a772bb6689e33f9edd61fdf280a7bcb8fa6fc83c299162791c87ee9954194ed8",
+      "simhash": "1:da6985e19f1f9cbc",
+      "word_count": 2891
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0272-01",
+    "first_page_order": 272,
+    "last_page_order": 277
+  },
+  {
+    "id": 408718,
+    "name": "Rosenberger versus Bitting",
+    "name_abbreviation": "Rosenberger v. Bitting",
+    "decision_date": "1851-03-10",
+    "docket_number": "",
+    "first_page": "278",
+    "last_page": "281",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 278"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "8 Watts 280",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848486
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0280-01"
+        ]
+      },
+      {
+        "cite": "4 Whar. 252",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1835036
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/4/0252-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 404,
+      "char_count": 8767,
+      "ocr_confidence": 0.459,
+      "pagerank": {
+        "raw": 6.390318350503573e-08,
+        "percentile": 0.39563368366263824
+      },
+      "sha256": "8fff167cf8450e99666f48a326ca341df4edde3e8774e2ee8dfd1c66cd3a0317",
+      "simhash": "1:f2905ff43414d9ca",
+      "word_count": 1515
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0278-01",
+    "first_page_order": 278,
+    "last_page_order": 281
+  },
+  {
+    "id": 408707,
+    "name": "Wikoff's Appeal",
+    "name_abbreviation": "Wikoff's Appeal",
+    "decision_date": "1850-12",
+    "docket_number": "",
+    "first_page": "281",
+    "last_page": "292",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 281"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Wharton 103",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1830497
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/2/0103-01"
+        ]
+      },
+      {
+        "cite": "3 McCord 282",
+        "category": "reporters:state",
+        "reporter": "McCord",
+        "case_ids": [
+          8858920
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/scl/14/0282-01"
+        ]
+      },
+      {
+        "cite": "2 American Leading Cases 696",
+        "category": "reporters:federal",
+        "reporter": "Am. Lead. Cas.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Dal. 286",
+        "category": "reporters:scotus_early",
+        "reporter": "Dal.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "6 Wend. 173",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2007513
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/wend/6/0173-01"
+        ]
+      },
+      {
+        "cite": "3 Phill. 505",
+        "category": "reporters:state",
+        "reporter": "Phill.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Whar. 396",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Paige 347",
+        "category": "reporters:state",
+        "reporter": "Paige Ch.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "10 Watts 153",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1850927
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/10/0153-01"
+        ]
+      },
+      {
+        "cite": "5 Watts 309",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Phil. 323",
+        "category": "reporters:state",
+        "reporter": "Phil.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "6 Call 90",
+        "category": "reporters:state",
+        "reporter": "Call",
+        "case_ids": [
+          6715070
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/va/10/1092-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 1214,
+      "char_count": 32434,
+      "ocr_confidence": 0.442,
+      "pagerank": {
+        "raw": 1.063744481261389e-06,
+        "percentile": 0.9846164776402022
+      },
+      "sha256": "89c3f7a89b5e971e1d98c8a5b3a63b291af6624afa5ca0e508bc6e1da8fd467c",
+      "simhash": "1:114b8c836e405b5f",
+      "word_count": 5740
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0281-01",
+    "first_page_order": 281,
+    "last_page_order": 292
+  },
+  {
+    "id": 408735,
+    "name": "McClurg versus Fryer & Anderson",
+    "name_abbreviation": "McClurg v. Fryer & Anderson",
+    "decision_date": "1851-03-17",
+    "docket_number": "",
+    "first_page": "293",
+    "last_page": "295",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 293"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "8 Watts 361",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848490
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0361-01"
+        ]
+      },
+      {
+        "cite": "3 Pa. Rep. 18",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Rawle 254",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "opinion_index": -1
+      },
+      {
+        "cite": "6 Watts 528",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846091
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/6/0528-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 386,
+      "char_count": 6356,
+      "ocr_confidence": 0.415,
+      "pagerank": {
+        "raw": 6.746718584005139e-07,
+        "percentile": 0.9632922614407249
+      },
+      "sha256": "d3beeed87da19b21681ca7445a23cc214c4a5d5170d8896ae6704a3d44092373",
+      "simhash": "1:0d5840475605545a",
+      "word_count": 1134
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0293-01",
+    "first_page_order": 293,
+    "last_page_order": 295
+  },
+  {
+    "id": 408679,
+    "name": "Paschall versus Passmore",
+    "name_abbreviation": "Paschall v. Passmore",
+    "decision_date": "1851-05-17",
+    "docket_number": "",
+    "first_page": "295",
+    "last_page": "309",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 295"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Johns. Ch. 535",
+        "category": "reporters:state",
+        "reporter": "Johns. Ch.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 1400,
+      "char_count": 44535,
+      "ocr_confidence": 0.417,
+      "pagerank": {
+        "raw": 8.162447822989868e-07,
+        "percentile": 0.9745056565073871
+      },
+      "sha256": "3684c445b6e1836b01f888f8d775d5d75e8a97e981da883867001f3e9bd7947a",
+      "simhash": "1:1ec0ed73884ad254",
+      "word_count": 7785
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0295-01",
+    "first_page_order": 295,
+    "last_page_order": 309
+  },
+  {
+    "id": 408739,
+    "name": "Mann versus Darlington",
+    "name_abbreviation": "Mann v. Darlington",
+    "decision_date": "1851-03-20",
+    "docket_number": "",
+    "first_page": "310",
+    "last_page": "313",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 310"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "6 Whar. 256",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1836992
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/6/0256-01"
+        ]
+      },
+      {
+        "cite": "4 Port. 515",
+        "category": "reporters:state",
+        "reporter": "Port.",
+        "case_ids": [
+          8498406
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/port/4/0515-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 459,
+      "char_count": 8718,
+      "ocr_confidence": 0.414,
+      "pagerank": {
+        "raw": 8.138363859351185e-08,
+        "percentile": 0.4690595860994212
+      },
+      "sha256": "6bd15836ce7da615e370c090cbb6a60278c314e0129af8e927e9666088c408ae",
+      "simhash": "1:ae641707ab92efb7",
+      "word_count": 1521
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0310-01",
+    "first_page_order": 310,
+    "last_page_order": 313
+  },
+  {
+    "id": 408745,
+    "name": "Wallington et al. versus Kneass",
+    "name_abbreviation": "Wallington v. Kneass",
+    "decision_date": "1851-03-20",
+    "docket_number": "",
+    "first_page": "313",
+    "last_page": "316",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 313"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 476,
+      "char_count": 8840,
+      "ocr_confidence": 0.448,
+      "pagerank": {
+        "raw": 4.621887471290392e-08,
+        "percentile": 0.28938096390947887
+      },
+      "sha256": "99db57d08f18c1cbb3081cafe1e7059ad0af021a3b4aa7024d24020c4246a437",
+      "simhash": "1:fd81b625766f8432",
+      "word_count": 1540
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0313-01",
+    "first_page_order": 313,
+    "last_page_order": 316
+  },
+  {
+    "id": 408773,
+    "name": "Andress versus Miller",
+    "name_abbreviation": "Andress v. Miller",
+    "decision_date": "1851-03-21",
+    "docket_number": "",
+    "first_page": "316",
+    "last_page": "319",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 316"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Pa. Rep. 204",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 381,
+      "char_count": 7995,
+      "ocr_confidence": 0.441,
+      "pagerank": {
+        "raw": 4.5330875625009783e-08,
+        "percentile": 0.28388064323441253
+      },
+      "sha256": "ebf78f3ce3da969f7c74d9a40da3e180b6ac916aa53a3b98918f69cfc491702b",
+      "simhash": "1:3881c5d82b4ab59f",
+      "word_count": 1366
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0316-01",
+    "first_page_order": 316,
+    "last_page_order": 319
+  },
+  {
+    "id": 408685,
+    "name": "Russell's Appeal",
+    "name_abbreviation": "Russell's Appeal",
+    "decision_date": "1851-03-24",
+    "docket_number": "",
+    "first_page": "319",
+    "last_page": "323",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 319"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "7 Watts 261",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846900
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/7/0261-01"
+        ]
+      },
+      {
+        "cite": "6 Watts 409",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 512,
+      "char_count": 11193,
+      "ocr_confidence": 0.431,
+      "pagerank": {
+        "raw": 2.0922848002640582e-07,
+        "percentile": 0.7605453059232411
+      },
+      "sha256": "8186546c78eef9f68d473260122dbeb4eca44eda37c0008c0282e001638f51dd",
+      "simhash": "1:b795249783853a9c",
+      "word_count": 1964
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0319-01",
+    "first_page_order": 319,
+    "last_page_order": 323
+  },
+  {
+    "id": 408749,
+    "name": "Wager versus Chew",
+    "name_abbreviation": "Wager v. Chew",
+    "decision_date": "1851-03-24",
+    "docket_number": "",
+    "first_page": "323",
+    "last_page": "338",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 323"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "12 Wend. 334",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          11270085
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/wend/12/0334-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 1316,
+      "char_count": 44343,
+      "ocr_confidence": 0.432,
+      "pagerank": {
+        "raw": 5.442398628504577e-08,
+        "percentile": 0.34232787316943963
+      },
+      "sha256": "09d2d183e4ae7c100f364c42fef823f08a54f09446e5b27ee449e4b2f2b807af",
+      "simhash": "1:ab6385f984b0a5ff",
+      "word_count": 7599
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0323-01",
+    "first_page_order": 323,
+    "last_page_order": 338
+  },
+  {
+    "id": 408699,
+    "name": "Styer versus Freas",
+    "name_abbreviation": "Styer v. Freas",
+    "decision_date": "1851-03-31",
+    "docket_number": "",
+    "first_page": "339",
+    "last_page": "343",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 339"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "10 Watts 278",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Whar. 62",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Bin. 546",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1787883
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/1/0546-01"
+        ]
+      },
+      {
+        "cite": "10 Watts 274",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1851018
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/10/0274-01"
+        ]
+      },
+      {
+        "cite": "8 Watts 203",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848432
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0203-01"
+        ]
+      },
+      {
+        "cite": "1 Whar. 266",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 567,
+      "char_count": 11798,
+      "ocr_confidence": 0.436,
+      "pagerank": {
+        "raw": 2.0238533584540748e-07,
+        "percentile": 0.7457504279207011
+      },
+      "sha256": "a93f364ed3632527461908361e938e3b0789608de17a4ded3d1a2df3beeb572d",
+      "simhash": "1:746880dbbb15fcc6",
+      "word_count": 2153
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0339-01",
+    "first_page_order": 339,
+    "last_page_order": 343
+  },
+  {
+    "id": 408844,
+    "name": "Sergeant versus Ingersoll",
+    "name_abbreviation": "Sergeant v. Ingersoll",
+    "decision_date": "1851-04",
+    "docket_number": "",
+    "first_page": "343",
+    "last_page": "350",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 343"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Wharton 337",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1829049
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/1/0337-01"
+        ]
+      },
+      {
+        "cite": "1 Wharton 337",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1829049
+        ],
+        "pin_cites": [
+          {
+            "page": "478"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/whart/1/0337-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 966,
+      "char_count": 22859,
+      "ocr_confidence": 0.445,
+      "pagerank": {
+        "raw": 2.4037384962381924e-07,
+        "percentile": 0.7991819214170401
+      },
+      "sha256": "fa7c5038b8aacb633f68890e95e9a4ebb409a6f54248aea8f3c34d409841ad86",
+      "simhash": "1:df29c76451fa8acf",
+      "word_count": 4069
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0343-01",
+    "first_page_order": 343,
+    "last_page_order": 350
+  },
+  {
+    "id": 408702,
+    "name": "Commissioners of Wayne County versus Delaware and Hudson Canal Company. Delaware and Hudson Canal Company versus Commissioners of Wayne County",
+    "name_abbreviation": "Commissioners of Wayne County v. Delaware & Hudson Canal Co.",
+    "decision_date": "1850-12",
+    "docket_number": "",
+    "first_page": "351",
+    "last_page": "358",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 351"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 758,
+      "char_count": 21082,
+      "ocr_confidence": 0.441,
+      "pagerank": {
+        "raw": 4.317492467096086e-07,
+        "percentile": 0.9172521255100201
+      },
+      "sha256": "6b993035198852e7039b72797516aed01f79c42f08b600f1211356ba2ddb1ec7",
+      "simhash": "1:123e376500013f70",
+      "word_count": 3590
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0351-01",
+    "first_page_order": 351,
+    "last_page_order": 358
+  },
+  {
+    "id": 408816,
+    "name": "Helfenstein versus Hurst",
+    "name_abbreviation": "Helfenstein v. Hurst",
+    "decision_date": "1851-03-31",
+    "docket_number": "",
+    "first_page": "358",
+    "last_page": "360",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 358"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 R. 325",
+        "category": "reporters:state_regional",
+        "reporter": "R.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Watts 135",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1840150
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/2/0135-01"
+        ]
+      },
+      {
+        "cite": "3 Pa. Rep. 388",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 323,
+      "char_count": 6209,
+      "ocr_confidence": 0.429,
+      "pagerank": {
+        "raw": 6.445245598433026e-08,
+        "percentile": 0.3978123821118529
+      },
+      "sha256": "6b441e8ac03b98a46fed8b553fc7c4a45e2606a493ffec2eac90ca7dcb8892e6",
+      "simhash": "1:0e4afbb17866df3c",
+      "word_count": 1083
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0358-01",
+    "first_page_order": 358,
+    "last_page_order": 360
+  },
+  {
+    "id": 408704,
+    "name": "Shoup versus Shoup",
+    "name_abbreviation": "Shoup v. Shoup",
+    "decision_date": "1851-03-31",
+    "docket_number": "",
+    "first_page": "361",
+    "last_page": "364",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 361"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 482,
+      "char_count": 9321,
+      "ocr_confidence": 0.444,
+      "pagerank": {
+        "raw": 2.1663773966762794e-07,
+        "percentile": 0.7705105587236939
+      },
+      "sha256": "b193a2d74459b5789a9f764dc654e8c717967a29d9e6676526e8ea344c34ce39",
+      "simhash": "1:67c282815a0037fc",
+      "word_count": 1687
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0361-01",
+    "first_page_order": 361,
+    "last_page_order": 364
+  },
+  {
+    "id": 408800,
+    "name": "Boults versus Mitchell",
+    "name_abbreviation": "Boults v. Mitchell",
+    "decision_date": "1851-03-31",
+    "docket_number": "",
+    "first_page": "364",
+    "last_page": "370",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 364"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 604,
+      "char_count": 19451,
+      "ocr_confidence": 0.428,
+      "pagerank": {
+        "raw": 8.503668022289882e-08,
+        "percentile": 0.4866198762939461
+      },
+      "sha256": "2a30a1bff4ae31716e60f75819adb7ed5a9a559330e7cf170aea201d36bb6661",
+      "simhash": "1:9e68acb036489fd2",
+      "word_count": 3461
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0364-01",
+    "first_page_order": 364,
+    "last_page_order": 370
+  },
+  {
+    "id": 408690,
+    "name": "Boults et al. versus Mitchell",
+    "name_abbreviation": "Boults v. Mitchell",
+    "decision_date": "1851-03-31",
+    "docket_number": "",
+    "first_page": "371",
+    "last_page": "382",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 371"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Yeates 218",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Mass. Rep. 276",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2003878
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/4/0246-01"
+        ]
+      },
+      {
+        "cite": "1 Maine 122",
+        "category": "reporters:state",
+        "reporter": "Me.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Mass. 266",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2003888
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/mass/4/0237-01"
+        ]
+      },
+      {
+        "cite": "1 Maine Rep. 122",
+        "category": "reporters:state",
+        "reporter": "Me.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "4 Mass. 266",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2003888
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/mass/4/0237-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 1040,
+      "char_count": 32219,
+      "ocr_confidence": 0.448,
+      "pagerank": {
+        "raw": 4.2145335538949847e-07,
+        "percentile": 0.9137503769524787
+      },
+      "sha256": "3c42059436270b3f7e17669789a85b447b069d490beb0983a74c92216d255874",
+      "simhash": "1:6b212557631eba02",
+      "word_count": 5769
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0371-01",
+    "first_page_order": 371,
+    "last_page_order": 382
+  },
+  {
+    "id": 408838,
+    "name": "Helfrich's Appeal",
+    "name_abbreviation": "Helfrich's Appeal",
+    "decision_date": "1851-03-31",
+    "docket_number": "",
+    "first_page": "382",
+    "last_page": "385",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 382"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 361,
+      "char_count": 7480,
+      "ocr_confidence": 0.45,
+      "pagerank": {
+        "raw": 6.936901093430414e-08,
+        "percentile": 0.4206119739027256
+      },
+      "sha256": "9c8fbdda5c99dd491b643e97fc4422369198939a0250e87653090acc7b2a893f",
+      "simhash": "1:c2273131ec22292d",
+      "word_count": 1317
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0382-01",
+    "first_page_order": 382,
+    "last_page_order": 385
+  },
+  {
+    "id": 408725,
+    "name": "Moncure versus Hanson",
+    "name_abbreviation": "Moncure v. Hanson",
+    "decision_date": "1851-04-02",
+    "docket_number": "",
+    "first_page": "385",
+    "last_page": "397",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 385"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Whar. 402",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Rawle 345",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1823555
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/rawle/4/0345-01"
+        ]
+      },
+      {
+        "cite": "2 Whar. 240",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1830491
+        ],
+        "weight": 2,
+        "opinion_index": 0,
+        "case_paths": [
+          "/whart/2/0240-01"
+        ]
+      },
+      {
+        "cite": "5 Watts 383",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      },
+      {
+        "cite": "5 Watts 77",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1844051
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/5/0077-01"
+        ]
+      },
+      {
+        "cite": "2 Watts 220",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 1334,
+      "char_count": 37070,
+      "ocr_confidence": 0.442,
+      "pagerank": {
+        "raw": 1.0359127812413213e-07,
+        "percentile": 0.549381257362881
+      },
+      "sha256": "fa8b8c79c9e0af7164f58f5344121e2d80b45ae5dd96b117ce2b78387436306d",
+      "simhash": "1:01a79c6c871cd62e",
+      "word_count": 6305
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0385-01",
+    "first_page_order": 385,
+    "last_page_order": 397
+  },
+  {
+    "id": 408729,
+    "name": "Fretz's Appeal",
+    "name_abbreviation": "Fretz's Appeal",
+    "decision_date": "1851-04-03",
+    "docket_number": "",
+    "first_page": "397",
+    "last_page": "398",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 397"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Rawle 421",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1820622
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/rawle/2/0421-01"
+        ]
+      },
+      {
+        "cite": "4 Yeates 514",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6776197
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/4/0514-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 240,
+      "char_count": 3697,
+      "ocr_confidence": 0.438,
+      "pagerank": {
+        "raw": 1.1507946903016427e-07,
+        "percentile": 0.5813383328526103
+      },
+      "sha256": "122bb55f6787a84c1e7b4db1b35488f4bd1093ce0d70e680279b10c8dc3edb45",
+      "simhash": "1:e27a18563fc38972",
+      "word_count": 655
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0397-01",
+    "first_page_order": 397,
+    "last_page_order": 398
+  },
+  {
+    "id": 408780,
+    "name": "Dougherty versus Darrach",
+    "name_abbreviation": "Dougherty v. Darrach",
+    "decision_date": "1851-04-03",
+    "docket_number": "",
+    "first_page": "399",
+    "last_page": "402",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 399"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Whar. 266",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Watts 75",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1840088
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/2/0075-01"
+        ]
+      },
+      {
+        "cite": "7 Watts 167",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "pin_cites": [
+          {
+            "page": "267, 274, 387"
+          }
+        ],
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Bin. 134",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Rawle 390",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "weight": 2,
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Bin. 40",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788946
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0040-01"
+        ]
+      },
+      {
+        "cite": "7 Watts 163",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846848
+        ],
+        "pin_cites": [
+          {
+            "page": "229"
+          }
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/7/0163-01"
+        ]
+      },
+      {
+        "cite": "7 Watts 267",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Whar. 240",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1830491
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/2/0240-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 423,
+      "char_count": 10088,
+      "ocr_confidence": 0.441,
+      "pagerank": {
+        "raw": 1.5784036006119728e-07,
+        "percentile": 0.6799164738948101
+      },
+      "sha256": "e9fa8b890637bbd94a0072db43d7db1f805a2e57e7e26e96bb78cb455162ae6a",
+      "simhash": "1:3a20889d0cb798b2",
+      "word_count": 1739
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0399-01",
+    "first_page_order": 399,
+    "last_page_order": 402
+  },
+  {
+    "id": 408716,
+    "name": "Bloom's Appeal",
+    "name_abbreviation": "Bloom's Appeal",
+    "decision_date": "1851-04-03",
+    "docket_number": "",
+    "first_page": "403",
+    "last_page": "405",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 403"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 406,
+      "char_count": 7758,
+      "ocr_confidence": 0.444,
+      "pagerank": {
+        "raw": 2.0958850690822826e-07,
+        "percentile": 0.7609951390988432
+      },
+      "sha256": "d410e2fb521873ac3bfa32ff23312e2162f525511a1b6453861e2af0d074f6a4",
+      "simhash": "1:57ebf4b2d9482f4a",
+      "word_count": 1304
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0403-01",
+    "first_page_order": 403,
+    "last_page_order": 405
+  },
+  {
+    "id": 408733,
+    "name": "Beek's Appeal",
+    "name_abbreviation": "Beek's Appeal",
+    "decision_date": "1851-04-04",
+    "docket_number": "",
+    "first_page": "406",
+    "last_page": "409",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 406"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Pa. Rep. 265",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "6 Watts 511",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846054
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/6/0511-01"
+        ]
+      },
+      {
+        "cite": "1 Rawle 323",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1819319
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/rawle/1/0323-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 480,
+      "char_count": 9854,
+      "ocr_confidence": 0.443,
+      "pagerank": {
+        "raw": 8.594746057246114e-08,
+        "percentile": 0.48984265105803465
+      },
+      "sha256": "fc9d4bf0d8f360a2a574bdf16bd6db1bd38388abd63a5a731c4ed4e4e685c240",
+      "simhash": "1:dce8daa91a27027f",
+      "word_count": 1836
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0406-01",
+    "first_page_order": 406,
+    "last_page_order": 409
+  },
+  {
+    "id": 408747,
+    "name": "Hellings's Executors versus Directors of Poor",
+    "name_abbreviation": "Hellings's Executors v. Directors of Poor",
+    "decision_date": "1851-04-04",
+    "docket_number": "",
+    "first_page": "409",
+    "last_page": "413",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 409"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Yeates 39",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6771259
+        ],
+        "weight": 2,
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/3/0038-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 515,
+      "char_count": 11845,
+      "ocr_confidence": 0.457,
+      "pagerank": {
+        "raw": 1.5210388595340112e-07,
+        "percentile": 0.6692911440010595
+      },
+      "sha256": "fe07b0db9f747fa2b300c14d339e859a233bd5cfef1b269b634ded7b32010520",
+      "simhash": "1:8a8dcc4a8e66dedf",
+      "word_count": 2150
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0409-01",
+    "first_page_order": 409,
+    "last_page_order": 413
+  },
+  {
+    "id": 408829,
+    "name": "Potts's Appeal",
+    "name_abbreviation": "Potts's Appeal",
+    "decision_date": "1851-04-05",
+    "docket_number": "",
+    "first_page": "414",
+    "last_page": "417",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 414"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Bin. 250",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1789003
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/binn/2/0250-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 477,
+      "char_count": 8443,
+      "ocr_confidence": 0.412,
+      "pagerank": {
+        "raw": 1.2441288670382837e-07,
+        "percentile": 0.6086165641317313
+      },
+      "sha256": "03c15c1fbc236cf70b558ba56f614c265f8aecf2fe062a2d67b230fe486d4535",
+      "simhash": "1:6ab9fabbad80a8ba",
+      "word_count": 1496
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0414-01",
+    "first_page_order": 414,
+    "last_page_order": 417
+  },
+  {
+    "id": 408811,
+    "name": "Zimmerman versus Eshbach",
+    "name_abbreviation": "Zimmerman v. Eshbach",
+    "decision_date": "1851-04-05",
+    "docket_number": "",
+    "first_page": "417",
+    "last_page": "421",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 417"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Bin. 134",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "6 Watts 260",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1846050
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/6/0260-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 490,
+      "char_count": 11868,
+      "ocr_confidence": 0.427,
+      "pagerank": {
+        "raw": 9.233000334998291e-08,
+        "percentile": 0.5107595076006362
+      },
+      "sha256": "283a6d67bdea8760bbb5594ee23f2f15a207cf5bda28e15d939b51b96612da5b",
+      "simhash": "1:d5f7644c888a75cf",
+      "word_count": 2075
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0417-01",
+    "first_page_order": 417,
+    "last_page_order": 421
+  },
+  {
+    "id": 408696,
+    "name": "Goepp's Appeal",
+    "name_abbreviation": "Goepp's Appeal",
+    "decision_date": "1851-04-05",
+    "docket_number": "",
+    "first_page": "421",
+    "last_page": "428",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 421"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Rawle 54",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1819303
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/rawle/1/0054-01"
+        ]
+      },
+      {
+        "cite": "4 W. 3",
+        "category": "reporters:state",
+        "reporter": "W.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Pa. Rep. 333",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Bin. 299",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Dal. 250",
+        "category": "reporters:scotus_early",
+        "reporter": "Dal.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "2 Pa. Rep. 333",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 911,
+      "char_count": 21023,
+      "ocr_confidence": 0.439,
+      "pagerank": {
+        "raw": 6.116814631432179e-08,
+        "percentile": 0.3810895924820327
+      },
+      "sha256": "166f6f62d7d3d83e9ce531a318a3c2e1298cfc5c48ce365850a7195a62da0f95",
+      "simhash": "1:e8f7c60efa37f34e",
+      "word_count": 3708
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0421-01",
+    "first_page_order": 421,
+    "last_page_order": 428
+  },
+  {
+    "id": 408753,
+    "name": "Tiernan et al. versus Roland and Blackstone",
+    "name_abbreviation": "Tiernan v. Roland & Blackstone",
+    "decision_date": "1851-04-07",
+    "docket_number": "",
+    "first_page": "429",
+    "last_page": "453",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 429"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Whar. 511",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Yeates 248",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6773614
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/1/0247-01"
+        ]
+      },
+      {
+        "cite": "3 Watts 60",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841271
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/3/0060-01"
+        ]
+      },
+      {
+        "cite": "10 Watts 387",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1851016
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/10/0387-01"
+        ]
+      },
+      {
+        "cite": "1 Dana 422",
+        "category": "reporters:state",
+        "reporter": "Dana",
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Watts 367",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841309
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/3/0367-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 1865,
+      "char_count": 72698,
+      "ocr_confidence": 0.441,
+      "pagerank": {
+        "raw": 8.496271340286848e-07,
+        "percentile": 0.9763756497000404
+      },
+      "sha256": "422743898d455cb227abb36a8917a9d9f6f08f59bb537d833350733956a8ecb2",
+      "simhash": "1:1f71e538c12840b4",
+      "word_count": 12725
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0429-01",
+    "first_page_order": 429,
+    "last_page_order": 453
+  },
+  {
+    "id": 408741,
+    "name": "Howland & Aspinwall versus Carson & Newbold",
+    "name_abbreviation": "Howland & Aspinwall v. Carson & Newbold",
+    "decision_date": "1851-04-05",
+    "docket_number": "",
+    "first_page": "453",
+    "last_page": "457",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 453"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Wend. 545",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "15 John. 6",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2140892
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/15/0006-01"
+        ]
+      },
+      {
+        "cite": "2 Wheat. 66",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          1444883
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/us/15/0066-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 527,
+      "char_count": 9976,
+      "ocr_confidence": 0.451,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.015211697670404723
+      },
+      "sha256": "f08ba48c5b125061e1298c5de5f8800d4577526d6fcc78cf4f51fbc4bf646778",
+      "simhash": "1:2da8e943bcae8db7",
+      "word_count": 1749
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0453-01",
+    "first_page_order": 453,
+    "last_page_order": 457
+  },
+  {
+    "id": 408822,
+    "name": "Drysdale's Appeal",
+    "name_abbreviation": "Drysdale's Appeal",
+    "decision_date": "1851-04-07",
+    "docket_number": "",
+    "first_page": "457",
+    "last_page": "461",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 457"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Wheaton 563",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          1443491
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/us/16/0563-01"
+        ]
+      },
+      {
+        "cite": "2 Whar. 398",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1830493
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/2/0398-01"
+        ]
+      },
+      {
+        "cite": "8 Watts 504",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848506
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0504-01"
+        ]
+      },
+      {
+        "cite": "8 Watts 430",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1848477
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/8/0430-01"
+        ]
+      },
+      {
+        "cite": "8 Watts 423",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 582,
+      "char_count": 12661,
+      "ocr_confidence": 0.449,
+      "pagerank": {
+        "raw": 1.639118361778382e-07,
+        "percentile": 0.6907854473368911
+      },
+      "sha256": "67d032ab4307102f5242ec8d1599cc0903db8a63c34e24edfb274fbd3bbc5ddf",
+      "simhash": "1:79342793af104957",
+      "word_count": 2260
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0457-01",
+    "first_page_order": 457,
+    "last_page_order": 461
+  },
+  {
+    "id": 408710,
+    "name": "Wallace versus Harmstad",
+    "name_abbreviation": "Wallace v. Harmstad",
+    "decision_date": "1851-04-07",
+    "docket_number": "",
+    "first_page": "462",
+    "last_page": "468",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 462"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Yeates 2",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "case_ids": [
+          6770874,
+          6770852
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/yeates/1/0001-02",
+          "/yeates/1/0001-01"
+        ]
+      },
+      {
+        "cite": "4 Whar. 382",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "case_ids": [
+          1835030
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/whart/4/0382-01"
+        ]
+      },
+      {
+        "cite": "5 Mass. 539",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Pa. Rep. 134",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "200"
+          }
+        ],
+        "opinion_index": -1
+      },
+      {
+        "cite": "3 Bay 491",
+        "category": "reporters:state",
+        "reporter": "Bay",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Ben. 464",
+        "category": "reporters:federal",
+        "reporter": "Ben.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Pick. 202",
+        "category": "reporters:state",
+        "reporter": "Pick.",
+        "opinion_index": -1
+      }
+    ],
+    "analysis": {
+      "cardinality": 833,
+      "char_count": 18946,
+      "ocr_confidence": 0.447,
+      "pagerank": {
+        "raw": 1.8710912382859757e-07,
+        "percentile": 0.7262801808136304
+      },
+      "sha256": "d62457ef0d79ab74694858a50fa00b672fdf673d880c7cffe751c45550475519",
+      "simhash": "1:af52d260858895a0",
+      "word_count": 3419
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0462-01",
+    "first_page_order": 462,
+    "last_page_order": 468
+  },
+  {
+    "id": 408835,
+    "name": "Peiffer versus The Commonwealth",
+    "name_abbreviation": "Peiffer v. Commonwealth",
+    "decision_date": "1851-04-14",
+    "docket_number": "",
+    "first_page": "468",
+    "last_page": "471",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 468"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Johns. 134",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "15 Ohio 72",
+        "category": "reporters:state",
+        "reporter": "Ohio",
+        "case_ids": [
+          491952
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/ohio/15/0072-01"
+        ]
+      },
+      {
+        "cite": "3 Rawle 498",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1822500
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/rawle/3/0498-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 443,
+      "char_count": 6803,
+      "ocr_confidence": 0.454,
+      "pagerank": {
+        "raw": 7.363385493444894e-07,
+        "percentile": 0.9689230916551506
+      },
+      "sha256": "d47bfa1c262776fa3cfedd69a49810f4cc8731beb441746cffc64c3d4007f5df",
+      "simhash": "1:68d8e37e848abfbe",
+      "word_count": 1224
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0468-01",
+    "first_page_order": 468,
+    "last_page_order": 471
+  },
+  {
+    "id": 408807,
+    "name": "Martindale versus Warner",
+    "name_abbreviation": "Martindale v. Warner",
+    "decision_date": "1851-04-14",
+    "docket_number": "",
+    "first_page": "471",
+    "last_page": "480",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 471"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Wheat. 563",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          1443491
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/us/16/0563-01"
+        ]
+      },
+      {
+        "cite": "9 Watts 147",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Rawle 185",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1820587
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/rawle/2/0185-01"
+        ]
+      },
+      {
+        "cite": "3 McCord 491",
+        "category": "reporters:state",
+        "reporter": "McCord",
+        "case_ids": [
+          8861852
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/scl/14/0491-01"
+        ]
+      },
+      {
+        "cite": "4 Rawle 328",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Whar. Rep. 48",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 McCord 39",
+        "category": "reporters:state",
+        "reporter": "McCord",
+        "case_ids": [
+          8856931
+        ],
+        "weight": 3,
+        "opinion_index": -1,
+        "case_paths": [
+          "/scl/15/0039-01"
+        ]
+      },
+      {
+        "cite": "3 McCord 491",
+        "category": "reporters:state",
+        "reporter": "McCord",
+        "case_ids": [
+          8861852
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/scl/14/0491-01"
+        ]
+      },
+      {
+        "cite": "4 McCord 39",
+        "category": "reporters:state",
+        "reporter": "McCord",
+        "case_ids": [
+          8856931
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/scl/15/0039-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 872,
+      "char_count": 27274,
+      "ocr_confidence": 0.466,
+      "pagerank": {
+        "raw": 2.6637800989026197e-07,
+        "percentile": 0.8251811205981507
+      },
+      "sha256": "a672e0ea9c83ffa13eee5345c7c908392716708476b3da9cf2394d216d7b7db5",
+      "simhash": "1:8380ea10307cfd9e",
+      "word_count": 4939
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0471-01",
+    "first_page_order": 471,
+    "last_page_order": 480
+  },
+  {
+    "id": 408746,
+    "name": "Dawson's Appeal",
+    "name_abbreviation": "Dawson's Appeal",
+    "decision_date": "1851-04-14",
+    "docket_number": "",
+    "first_page": "480",
+    "last_page": "482",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 480"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 350,
+      "char_count": 6998,
+      "ocr_confidence": 0.458,
+      "pagerank": {
+        "raw": 1.0630058142119408e-07,
+        "percentile": 0.5575635876840697
+      },
+      "sha256": "2df44475ea55f1b1999620683de4cdb9ad2c52b4f06ae4df3c274bb7cdb28f28",
+      "simhash": "1:a8a876a6e27cec37",
+      "word_count": 1248
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0480-01",
+    "first_page_order": 480,
+    "last_page_order": 482
+  },
+  {
+    "id": 408819,
+    "name": "Lykens versus Whelan",
+    "name_abbreviation": "Lykens v. Whelan",
+    "decision_date": "1851-04-15",
+    "docket_number": "",
+    "first_page": "483",
+    "last_page": "487",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 483"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 493,
+      "char_count": 13306,
+      "ocr_confidence": 0.448,
+      "pagerank": {
+        "raw": 1.2130807758523238e-07,
+        "percentile": 0.5964442328490966
+      },
+      "sha256": "962a7853820133922ed19191a19a0638f61a0e0bb1c095280a4e81e991e127ee",
+      "simhash": "1:6a200b0018799ce5",
+      "word_count": 2422
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0483-01",
+    "first_page_order": 483,
+    "last_page_order": 487
+  },
+  {
+    "id": 408762,
+    "name": "Eckel versus Murphey",
+    "name_abbreviation": "Eckel v. Murphey",
+    "decision_date": "1851-04-15",
+    "docket_number": "",
+    "first_page": "488",
+    "last_page": "495",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 488"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Pa. Rep. 454",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "1 Peters 221",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "2 Pa. Rep. 454",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 859,
+      "char_count": 20958,
+      "ocr_confidence": 0.457,
+      "pagerank": {
+        "raw": 3.6876799387133804e-07,
+        "percentile": 0.8923288577828282
+      },
+      "sha256": "43c40e9e5928e3aa62e99bc0658b36991d5e19ed8fa882799a6a9b50a7410ee4",
+      "simhash": "1:29c84df0f61387e6",
+      "word_count": 3637
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0488-01",
+    "first_page_order": 488,
+    "last_page_order": 495
+  },
+  {
+    "id": 408711,
+    "name": "Clevenstine's Appeal",
+    "name_abbreviation": "Clevenstine's Appeal",
+    "decision_date": "1851-04-15",
+    "docket_number": "",
+    "first_page": "495",
+    "last_page": "500",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 495"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Rawle 469",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Rawle 66",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1823578
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/rawle/4/0066-01"
+        ]
+      },
+      {
+        "cite": "6 Watts 17",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Watts 130",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1842742
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/4/0130-01"
+        ]
+      },
+      {
+        "cite": "4 Rawle 469",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "opinion_index": 0
+      },
+      {
+        "cite": "4 Rawle 66",
+        "category": "reporters:state",
+        "reporter": "Rawle",
+        "case_ids": [
+          1823578
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/rawle/4/0066-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 662,
+      "char_count": 13991,
+      "ocr_confidence": 0.451,
+      "pagerank": {
+        "raw": 1.1986951906284387e-07,
+        "percentile": 0.593133615125824
+      },
+      "sha256": "d6a5d565d2583b1d8a00fa3f9f2176257a471a9f5db2e01b4fcb82d12da7b447",
+      "simhash": "1:9bedec886823bd19",
+      "word_count": 2517
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0495-01",
+    "first_page_order": 495,
+    "last_page_order": 500
+  },
+  {
+    "id": 408727,
+    "name": "Kerlin versus Campbell",
+    "name_abbreviation": "Kerlin v. Campbell",
+    "decision_date": "1851-04-21",
+    "docket_number": "",
+    "first_page": "500",
+    "last_page": "506",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 500"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "9 Watts 16",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Watts 493",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1843959
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/5/0493-01"
+        ]
+      },
+      {
+        "cite": "3 Watts 188",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1841250
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/watts/3/0188-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 697,
+      "char_count": 17404,
+      "ocr_confidence": 0.456,
+      "pagerank": {
+        "raw": 3.543422426138999e-07,
+        "percentile": 0.8849220553012936
+      },
+      "sha256": "c70a79d5f52c02bcc1cb0072bcc31bbf5825530272ce5a102aa07e25e9841e82",
+      "simhash": "1:9ee027f080c7fb16",
+      "word_count": 3067
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0500-01",
+    "first_page_order": 500,
+    "last_page_order": 506
+  },
+  {
+    "id": 408830,
+    "name": "Harlan versus Harlan",
+    "name_abbreviation": "Harlan v. Harlan",
+    "decision_date": "1851-04-21",
+    "docket_number": "",
+    "first_page": "507",
+    "last_page": "516",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 507"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "9 Watts 177",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "5 Marsh. 341",
+        "category": "reporters:state",
+        "reporter": "Marsh.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "12 Johns. 140",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2139239
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/johns/12/0140-01"
+        ]
+      },
+      {
+        "cite": "3 Wend. 104",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2144190
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/wend/3/0104-01"
+        ]
+      },
+      {
+        "cite": "2 Watts 127",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "weight": 3,
+        "opinion_index": -1
+      },
+      {
+        "cite": "10 W. 455",
+        "category": "reporters:state",
+        "reporter": "W.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "9 W. 177",
+        "category": "reporters:state",
+        "reporter": "W.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "12 Johnson 140",
+        "category": "reporters:state",
+        "reporter": "Johnson",
+        "opinion_index": 0
+      },
+      {
+        "cite": "10 Watts 453",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "case_ids": [
+          1850917
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/watts/10/0453-01"
+        ]
+      },
+      {
+        "cite": "10 Watts 454",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      },
+      {
+        "cite": "6 Bin. 3",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "1 Dal. 157",
+        "category": "reporters:scotus_early",
+        "reporter": "Dal.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "5 Marsh. 341",
+        "category": "reporters:state",
+        "reporter": "Marsh.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 Wend. 104",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2144190
+        ],
+        "weight": 2,
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/3/0104-01"
+        ]
+      },
+      {
+        "cite": "2 Watts 127",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 929,
+      "char_count": 28487,
+      "ocr_confidence": 0.456,
+      "pagerank": {
+        "raw": 9.368929611043577e-07,
+        "percentile": 0.9804210592972795
+      },
+      "sha256": "3c8a3e4b15fb3076ebd74ea35f83715d70e2a69bd67bc1dd170c16435462495a",
+      "simhash": "1:c19480b68946b24a",
+      "word_count": 5056
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0507-01",
+    "first_page_order": 507,
+    "last_page_order": 516
+  },
+  {
+    "id": 408691,
+    "name": "Hoopes et al. versus Garver, Administrator of Samuel Lefevre, deceased",
+    "name_abbreviation": "Hoopes v. Garver",
+    "decision_date": "1851-04-21",
+    "docket_number": "",
+    "first_page": "517",
+    "last_page": "527",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 517"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Jones 212",
+        "category": "reporters:state",
+        "reporter": "Jones",
+        "opinion_index": -1
+      },
+      {
+        "cite": "9 Watts 31",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": -1
+      },
+      {
+        "cite": "4 Yeates 496",
+        "category": "reporters:state",
+        "reporter": "Yeates",
+        "opinion_index": 0
+      },
+      {
+        "cite": "9 Watts 30",
+        "category": "reporters:state",
+        "reporter": "Watts",
+        "opinion_index": 0
+      },
+      {
+        "cite": "1 Jones 212",
+        "category": "reporters:state",
+        "reporter": "Jones",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 1020,
+      "char_count": 31077,
+      "ocr_confidence": 0.452,
+      "pagerank": {
+        "raw": 5.0011153170616546e-08,
+        "percentile": 0.31340321385532516
+      },
+      "sha256": "ad5cfb2d75c482000b04840e6b15734aba83044f4a0ada19a42a7d62c14b93c3",
+      "simhash": "1:30754bb76e77b84b",
+      "word_count": 5550
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0517-01",
+    "first_page_order": 517,
+    "last_page_order": 527
+  },
+  {
+    "id": 408820,
+    "name": "Golder versus Ogden",
+    "name_abbreviation": "Golder v. Ogden",
+    "decision_date": "1851-04-28",
+    "docket_number": "",
+    "first_page": "528",
+    "last_page": "533",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 528"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Whar. 505",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "opinion_index": -1
+      },
+      {
+        "cite": "8 Wheaton 229",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          6136819
+        ],
+        "opinion_index": -1,
+        "case_paths": [
+          "/us/21/0100-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 604,
+      "char_count": 14380,
+      "ocr_confidence": 0.452,
+      "pagerank": {
+        "raw": 3.6912549135809983e-07,
+        "percentile": 0.8924892918467447
+      },
+      "sha256": "ab3af3739cd3a4ed612e6fba7f120e125df0070a2d0f423f857529a97c9d0b33",
+      "simhash": "1:04bdcf449153816c",
+      "word_count": 2605
+    },
+    "last_updated": "2024-02-27T21:30:18.426322+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0528-01",
+    "first_page_order": 528,
+    "last_page_order": 533
+  },
+  {
+    "id": 408778,
+    "name": "In the matter of Piper's Estate",
+    "name_abbreviation": "In re Piper's Estate",
+    "decision_date": "1851-04-28",
+    "docket_number": "",
+    "first_page": "533",
+    "last_page": "538",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "15 Pa. 533"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Pa.",
+      "id": 8832,
+      "name": "Supreme Court of Pennsylvania"
+    },
+    "jurisdiction": {
+      "id": 6,
+      "name_long": "Pennsylvania",
+      "name": "Pa."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 594,
+      "char_count": 15090,
+      "ocr_confidence": 0.456,
+      "pagerank": {
+        "raw": 2.7655980930300023e-07,
+        "percentile": 0.8339287348412977
+      },
+      "sha256": "933440be72ab1d538b5db745e22571b7d2fe7e703d0c51e7ec3f3a086f9167b8",
+      "simhash": "1:3f4ffe35a4218cab",
+      "word_count": 2693
+    },
+    "last_updated": "2023-07-14T20:02:05.515958+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0533-01",
+    "first_page_order": 533,
+    "last_page_order": 538
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "id": 404650,
+  "name": "John Amsbaugh v. A. L. Gearhart & Co., and Samuel Witman",
+  "name_abbreviation": "Amsbaugh v. A. L. Gearhart & Co.",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "482",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Pa. 482"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Mass. 301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 309",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 205,
+    "char_count": 2840,
+    "ocr_confidence": 0.42,
+    "pagerank": {
+      "raw": 1.2135391958942793e-07,
+      "percentile": 0.5965479068470787
+    },
+    "sha256": "0dd6662e8068fefb0566b0a11e064a973609e553b59d510f20aa60b2868b25f2",
+    "simhash": "1:2f828629735fa7e1",
+    "word_count": 503
+  },
+  "last_updated": "2024-02-27T20:36:37.361247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Amsbaugh v. A. L. Gearhart & Co., and Samuel Witman."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nAs the endorsement of Amsbaugh\u2019s name is without date, the presumption is that it was made at the date of the note, and that the whole was one transaction. He is consequently liable as an original promissor, and not as a guarantor. The consideration of the note was a consideration for his promise, which entitled the plaintiffs to recover.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Mageehan, for the plaintiff in error.",
+      "C. O. Loomis, contra."
+    ],
+    "corrections": "",
+    "head_matter": "John Amsbaugh v. A. L. Gearhart & Co., and Samuel Witman.\nWhere one endorsed, without date, upon a note, \u201c I will see the within paid,\u201d signing it, the presumption is that it was done at the date of the note and as part of one transaction: consequently he is liable as an original promissor.\nError to the District Court of Allegheny.\nSept. 14. This was an action on the case by A. L. Gearhart & Co., and Samuel Witman, plaintiffs, against John Amsbaugh. It was founded upon a promise of the defendant, endorsed upon a promissory note drawn by one Rodgers in favour of the plaintiffs. The endorsement was in these words:\u2014\n\u201c I will see the within paid.\n\u201cJohn Amsbaugh.\u201d\nThe defendant proved that the amount of the note could have been collected from Rodgers at any time, from the day when it became due to the day of trial.\nThe court (Hepburn, President) instructed the jury: \u201c The question whether the defendant is an original party to the note, and liable in the first instance, or whether he is a mere guarantor, is reserved, and the jury pro forma instructed that the defendant is liable in this action, and that their verdict must be in favour of the plaintiffs.\u201d\nThe verdict was for the plaintiffs, and subsequently judgment was entered in their favour, on the point reserved. This entry of judgment was assigned for error here.\nMageehan, for the plaintiff in error.\nWhen was the endorsement made ? If after the note, and without consideration, it is void: Aldridge v. Turner, 1 Gill & Johnston, 427. The words used do not per se create an original obligation, unless written when the note was made, or with an express understanding that he was to be responsible as principal. \u201cI warrant the within note good\u201d is a more guaranty that it is collectable, not that it will be paid: 14 Wendell, 231.\nPlaintiffs should have proved when this endorsement was made, before they can charge Amsbaugh as maker: Champion v. Griffith, 13 Ohio R. 228; Robinson v. Abell, 17 Ohio R. 36.\nC. O. Loomis, contra.\nThe writing here imports on the face of it one original and entire transaction, that it was a concurrent act, and part of the original agreement. It is to be presumed to have been done at tbe date of the note, without the contrary is shown: Leonard v. Viedenburgh, 8 John. R. 32; Shively v. Johnston, 1 W. & S. 309; White v. Howland, 9 Mass. 301. The defendant is liable as though he had signed the body of the note: Nelson v. Dubois, 13 John. R. 179; 4 Pickering, 311."
+  },
+  "file_name": "0482-01",
+  "first_page_order": 482,
+  "last_page_order": 483
+}

@@ -1,0 +1,153 @@
+{
+  "id": 990493,
+  "name": "McNair versus Compton",
+  "name_abbreviation": "McNair v. Compton",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "23",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 23"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wheat. 109",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11729213
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/19/0109-01"
+      ]
+    },
+    {
+      "cite": "3 Whart. 316",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833461
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0315-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 127",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wend. 399",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3516078
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/2/0399-01"
+      ]
+    },
+    {
+      "cite": "13 Johns. 50",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374466
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/13/0050-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 375",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dall. 436",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Yeates 363",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 55",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Binn. 53",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 709,
+    "char_count": 16878,
+    "ocr_confidence": 0.46,
+    "pagerank": {
+      "raw": 2.7375755301625875e-07,
+      "percentile": 0.8316453970868571
+    },
+    "sha256": "7394143d7792489aefb3d6d2e196dc45ce9c885e8a4fffc9be70817f596403b6",
+    "simhash": "1:8be16fa188009596",
+    "word_count": 3019
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McNair versus Compton."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nWe think there was error in refusing to strike off the amended narr. of 27th July 1858. That it was introductory of a new cause of action, is as certain, as the distinction between actions ex contractu, and actions ex delicto. , The first count was for a breach of a parol promise to sell and convey lands \u2014 the second was for deceit in pretending to .own the land contracted for; and that these were separate and inconsistent causes of action, the decision of one of .which would not bar an action for the other, results out of the elementary rules of pleading, and was distinctly declared in Finley v. Hanbest, 6 Casey 195.\nNor was it necessary for the plaintiff to change his cause of action on the record. .His object, was, doubtless, to prove the defendant\u2019s conduct fraudulent, in order that damages might be inflamed, and this he could have done without introducing a new cause of action. He complained that the defendant had failed to convey to him the land he agreed to convey. Now, that might be through mere inability, arising from honest mistake or other excusable cause, or it might be with fraudulent intent; and the measure of damages would depend on how the jury should find that fact. It turned out that the defendant had not an available title to the land, but did he honestly think it a good title, or, knowing it to be spurious, did he attempt to palm it off upon the plaintiff as good ? A count appropriate to a special action on the ease for deceit was not necessary to a fair trial of this question, and, therefore, it should not have been permitted to disfigure the record. The court tried the cause as involving a single question, the measure of damages, and the ruling seems to have been that if there was no fraud on the part of the vendor, he would be liable for the difference in price between that stipulated in the contract, and the value of the land at the time when the deed was to have been executed and delivered; but if there were bad faith on the part of the vendor, the jury would not be confined to the above measure, but might go beyond it and compensate plaintiff\u2019s expenses, &c.\nThe learned judge adverted to the measure of damages on covenants of warranty, and admitted it to be limited to the purchase-money and interest, but took a distinction in favour of executory contracts, and placed them on the same footing as contracts for the delivery of \u2019personal chattels. In other words, he seemed to hold that the value of the bargain might be assessed in damages, even if the vendor had not been guilty of fraud.\nThe law has never been so understood in Pennsylvania. On the contrary, where the consideration of real contracts has been a pecuniary one, the same measure of damages has been applied, whether the contract were executed or executory; and that measure has been limited to the payments and interest thereon, and expenses incurred in preparing title papers, with a view to the conveyance of the title. But where the consideration has been, not moneys numbered, but uncertain services to be rendered in future, a distinction has been taken as to the measure of damages, which we had occasion to set aside recently in the case of Hertzog v. Hertzog, 10 Casey 418: and see Malaun v. Ammon, Id. 428. The law of this class of contracts is now brought back to the old rule of looking, for the measure of damages, to the actual consideration passing between the parties. If the consideration were services rendered, they are to be compensated according to their value \u2014 if moneys received, they are to be returned with interest. But the value of the bargain is not the measure; and so we ruled, not only in the case mentioned, but also in Dumars v. Miller, 10 Casey 319, which, like this case, was from Erie county, and was also a contract founded on a pecuniary consideration.\nThe court should have so laid down the rule in this case, and then what was added, if the jury should find the alleged fraud, was correct enough. As against a fraudulent vendor, it is reasonable that damages should be given to compensate for all the expenses in which his fraud involved the plaintiff.\nOn the question of fraud or no fraud, the attention of the jury should have been directed to the inception of the contract. Uunless the vendor knew that his title was worthless; and, unless he contracted to sell, with intent to defraud the plaintiff of his money, it was not a case of fraud, and the damages should have been measured by the rule which has been indicated. We see nothing else in the case to require remark.\nThe judgment is reversed, and a venire de novo is awarded.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "PI. Babbitt, for the plaintiff in error.",
+      "Walker Bane, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "McNair versus Compton.\nIn an action, ex contractu, for the breach of a parol promise to sell and eonvey lands, the plaintiff cannot add, by amendment, a count setting forth that the defendant, when he made the contract, knew that he had no title, and falsely and fraudulently represented that he had a good title.\nSuch proposed amendment would set forth a distinct and inconsistent cause of action, sounding in tort; and a judgment in the original suit would be no bar to a subsequent action for such deceit.\nSuch an amendment is unnecessary: for if the defendant\u2019s conduct in reference to the contract were fraudulent, the plaintiff could recover commensurate damages in the action as originally brought.\nFor the breach, without fraud, of a real contract, the measure of damages is to be determined by the consideration that passed between the parties; whether the contract were executed or executory. If the consideration were services rendered, they are to be compensated according to their value ; if moneys received, they are to be returned with interest.\nBut this is not the rule in cases of fraud; as against a fraudulent vendor, damages may be given to compensate for all the expenses in which.his fraud has involved the plaintiff.\nThe question of fraud is to be determined by what took place at the inception of the contract.\nError, to the Common Pleas of JSrie county.\nThis was an action on the case by John Compton against William E..McNair, for the breach of a pa.rol contract for the sale of 100 acres of land, by the defendant, to the plaintiff.\nThe plaintiff declared in assumpsit, alleging that; the defendant, on the 30th August 1842, bargained and sold to him one hundred acres of land, therein described, for. the :su.m of three dollars per acre; that he had paid to the defendant $150 on account of the contract price ; but that the defendant had not complied with his contract, and had not a good title to the land; and that he had been evicted from the possession thereof, by the rightful owners.\nTo this declaration the defendant pleaded as follows:\u2014\n\u201c And the said defendant, by his attorney, E. Babbitt, comes and confesses the action of the said plaintiff, and admits all the material facts mentioned in the declaration of the plaintiff, and says, that the measure of damage for the breach of contract therein set forth is, in law, the amount of the purchase-money paid to the defendant by the plaintiff, with interest for six years preceding the commencement of this suit, and from then to the present time, and the legal costs of the said eviction, and no more, the whole amounting to two hundred and fifty-five dollars, which sum the defendant is willing to pay, and now offers to confess a judgment therefor, with the costs of suit to the plaintiff.\u201d\nThe plaintiff then filed an amended declaration, setting forth the same facts, and averring that the defendant, at the time of the making of the contract, in 1842, 7cnew that he had no title to the land, and falsely and fraudulently represented to the plaintiff, that he had a good, title to the same. That the plaintiff had paid taxes on the land to the amount of \u00a790; that the owners had recovered against him $125 damages, and $23 costs, in a suit for mesne profits; and that he had paid $100 for necessary expenses in defending the action for mesne profits.\nThe court below refused, on motion of the defendant\u2019s counsel, to strike off this additional declaration, and the parties went to trial, without other plea than that above set forth. And on the trial, the record of the action for mesne profits; the expenses incurred in defending it; and the value of the land in 1854 were offered to be proved by the plaintiff: this was admitted by the court below, notwithstanding objections by the defendant, and bills of exception were sealed.\nThe defendant\u2019s counsel presented the following points in writing, upon which the court was requested to charge the jury:\u2014\n1. Unless the jury can find, from the evidence, that McNair acted in bad faith, fraudulently agreeing to sell the land in question to the plaintiff, knowing at the time that he had no title, the plaintiff can recover no more than the money he paid defendant, with its interest for six years preceding the suit, and the costs and necessary expenses of the ejectment suit.\n2. That bad faith and fraud are never to be presumed without proof; and if the jury believe that McNair, at the time he agreed to sell, supposed his title to the land was good, there is no bad faith or fraud in the case.\n3. That plaintiff cannot recover for the costs and expenses of the mesne profits suit, nor can he recover hack the amount of taxes and interest paid by him on the land in question.\n4. The only rule or measure of damage in this case, under the evidence, is the money paid by plaintiff, with interest and costs in the ejectment suit; it appearing that the present defendant. McNair, paid the attorney\u2019s charges.\n5. That the bad faith and fraud which would warrant a jury in finding damages beyond the purchase-money paid, with interest and costs of ejectment in this case, must be fraud in fact, in agreeing to convey land that, at the time of the agreement, defendant knew did not belong to him. And no amount of negligence in not using means to inform himself in regard to his title, can amount to such fraud in defendant, unless he actually knew his title to be bad.\nThe court below (Galbraith, P. J.) delivered the following charge to the jury:\u2014\n\u201c The principal question in this case is, what is the legal and proper rule of damages; the plaintiff claiming damages, in one aspect of the case, at least, besides the money paid and interest, costs and expenses incurred; and the defendant insisting upon the rule to be that, which would enable the plaintiff to recover no more than simply the amount paid and interest, unless there was actual fraud, of which he contends there is no sufficient evidence.\n\u201c On a covenant of warranty in a deed, the law has been, for many years, well settled, that all the vendee can recover, on eviction or failure of title, is the amount of the money paid and interest. We can remember when that question was still discussed. The reason on which it was settled is, probably, that the covenant is to run through all time; both parties have had the opportunity of investigating the title, and the vendee being vested with the fee simple, may make improvements of an expensive character, as mere matters of taste and ornament, adding little or nothing to the mere dollar and cent value of the land. In an action upon an executory contract for the sale of land, the rule is different, although there may appear to be conflicting authorities. The time between the execution of the contract, and that stipulated for the execution of the deed, is' limited, and generally to a limited period. The vendee would hardly be considered as justified or expected to expend money in mere fancy improvements, or any other than those which would add to the real value of the land; and therefore, it is put in the same category as contracts for the delivery of personal property on time. We can see no reason for any difference. Upon this rule, the plaintiff in this case would be entitled to recover the difference in price between that stipulated in the contract, and the value of the land at the time when the deed was to have been executed and delivered. This rule would exclude all the amount recovered in the action for mesne profits, taxes paid, and costs and expenses in that action. We must presume the jury trying that cause, gave their verdict on no other than was legal and competent evidence in it, and that the plaintiff in that suit recovered no more from the present plaintiff than he had derived from the possession of the land, or might have derived from it. This we decide to be the rule, where there h&s been no actual fraud on the part of the vendor. : It is a different rule from that stated in the plaintiff\u2019s first point, and therefore it is decided in .the negative, and also the first point of defendant; and the third point put by defendant in the affirmative.\n\u201c If the contract was made fraudulently, in bad faith on the part of the vendor, contracting to sell to the vendee land for which he knew he had no title, the jury would not be confined to the difference in price between that agreed upon, and the actual value at the time the deed was to be executed (deducting, of course, that which had not been paid,) but might go beyond it, according to the circumstances, by way of compensation for expenses incurred by the. plaintiff\u2019s relying upon the good faith of the defendant. Under the rule, the jury might take into consideration the costs paid and expenses in the action of mesne profits, but in no case, the amount of the mesne profits itself, because that was no more than the plaintiff was presumed to have received from the land during the time he had possession under the contract.\n\u201c Whether there was bad faith or not, is a question of fact for the jury. Fraud is never- to be presumed without evidence, but may be drawn or inferred from circumstances; and there are circumstances in this ease from which the jury may infer fraud. Does the fact that defendant had agreed with Messrs. Fishers to a division of the land, by which the portion sold to Compton was transferred to Fishers \u2014 that he had received from the Fishers, the taxes he had paid on this part of the land as theirs \u2014 his avoiding to meet plaintiff on the day the deed was to be made, or at any time afterwards, and other circumstances given in this case, satisfy the jury that the defendant knew, at the time he made the contract with Compton, that his title was fraudulently obtained, or that it was defective and worthless ? or did he know, at an early period after the contract was made, and did not inform Compton of its defective character? If so, the defendant is responsible for the consequences of that bad faith, and liable to at least such damages in the whole, as will compensate the plaintiff at least for all his trouble and reasonable expenses incurred, for his money paid, expenses, and trouble. This is substantially an answer in the affirmative of the plaintiff\u2019s second point, and in the negative of the 4th and 5th points of defendant; and the 2d point of defendant in the affirmative.\u201d\nTo this charge the' defendant e,xcepted; and a verdict and judgment having been rendered for-the plaintiff for $830, the defendant sued out this writ, and here assigned for error: 1. The refusal of the court below to strike off the amended .declaration: 2. The admission of the evidence under it: 3. The charge of the court on the measure of damages.\nPI. Babbitt, for the plaintiff in error.\nThe declaration as originally filed, was in contract; the amendment was in tort, and ought not to have been allowed. A new cause of action cannot be introduced by amendment: Ebersoll v. Krug, 5 Binn. 53; Griffith v. Eshelman, 4 Watts 55; Canal Company v. Parker, 4 Yeates 363; Smith v. Smith, 5 Barr 256; Newlin v. Palmer, 11 S. # R. 98.\nThe court erred in the measure of damages laid down to the jury: Bender v. Fromberger, 4 Dall. 436; Brown v. Dickerson, 2 Jones 375; McClure\u2019s Executors v. Gamble, 3 Casey 288; Bennett v. Jenkins, 13 Johns. 50. And the rule is the same in regard to an executory contract: Baldwin v. Munn, 2 Wend. 399 ; Bitner v. Brough, 1 Jones 127 ; Malaun v. Ammon, 10 Gasey 423.\nWalker Bane, for the defendant in error.\nWe think the court properly instructed the jury as to the measure of damages; and in support of this, we cite, Lee v. Dean, 3 Whart. 316; Briggs\u2019 Case, Palm. 364, by the King\u2019s Bench; Flureau v. Thornhill, 2 Bl. 1078; Hopkins v. Grazebrook, 6 B. & C. 31; s. c. 13 Eng. Com. Law R. 100; Cook v. Grant, 16 S. & R. 198; Bitner v. Brough, 1 Jones 127; Ohitty on Contracts 311; Hopkins v. Lee, 6 Wheat. 109; Jack v. McKee, 9 Barr 235; Bash v. Bash, Id. 260 ; McDowell v. Oyer, 9 Harris 417. These cases all establish the measure of damages, where there! is bad faith'or fraud on part of the vendor, to be the full value of the land at the time .the deed should have been made, and all expenses incurred by the vendee."
+  },
+  "file_name": "0023-01",
+  "first_page_order": 23,
+  "last_page_order": 29
+}

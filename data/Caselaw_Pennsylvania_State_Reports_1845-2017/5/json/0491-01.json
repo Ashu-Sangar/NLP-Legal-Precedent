@@ -1,0 +1,79 @@
+{
+  "id": 953584,
+  "name": "Hartle v. Long et al.",
+  "name_abbreviation": "Hartle v. Long",
+  "decision_date": "1846-06-14",
+  "docket_number": "",
+  "first_page": "491",
+  "last_page": "492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Whart. 332",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830588
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/2/0332-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 191,
+    "char_count": 2879,
+    "ocr_confidence": 0.382,
+    "pagerank": {
+      "raw": 8.518869910620687e-08,
+      "percentile": 0.487039012699196
+    },
+    "sha256": "17609533c3ca94f4e6cb1656929a42050bbc8c1c4d54000bb6f77b8d37e69ef1",
+    "simhash": "1:7f9f3d81a6c8fafe",
+    "word_count": 488
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hartle v. Long et al."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThis was a scire facias on a judgment in a foreign attachment issued against the surviving administrator of Frederick Hartle, deceased, in whose hands certain money was attached for the debt of Jacob Hartle. The foreign attachment had issued in 1829, and judgment was obtained in 1880. The money attached was a distributive share of the estate of Frederick Hartle, deceased, which would be coming to Jacob Hartle on the death .of his mother. This attachment issued more than eleven' years before the passage of the act of 27th of July, 1842, entitled \u201cAn act to enable creditors to attach legacies,\u201d &c.; Dunlop, 873. The judge of the Common Pleas ruled the case against the plaintiff, because the law at that time did not' authorize such attachments to issue against the owner of a distributive share of an intestate\u2019s estate; Shewell v. Keen, 2 Whart. 332.\nThis is the error complained of in this court. We all think the judge was right. When the foreign attachment issued in 1839, at the suit of Frederick Hartle v. Jacob Hartle, there was no law authorizing the service of the writ on Abraham Longmaker and David Long, the administrators of Frederick Hartle, deceased, calling on them, as garnishees, to surrender the distributive share of Jacob Hartle in his father\u2019s estate, then in the course of administration. The service of the writ on the administrators, as garnishees, and all subsequent proceedings in that suit were utterly void, since the legislature, in 1842, first authorized such a proceeding. There is nothing in the act which authorizes a scire facias to issue upon this illegal and, void judgment, obtained before its passage. The judgment being void, the statute authorizing estates in the hands of executors and administrators, unsettled^ to be attached, has nothing in it so absurd as to authorize a scire facias to enforce such a judgment obtained before its passage.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Lyon, for plaintiff in error.",
+      "Barclay, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Hartle v. Long et al.\nUnder a judgment obtained in foreign attachment in 1830, garnishees are not liable for a distributive share, payable to a representative defendant in the action, after the death of the widow, which occurred since the act of 1842.\nIn error from the Common Pleas of Bedford.\nJune 10. A judgment was obtained in foreign attachment against Hartle in 1830. In 1843, a sci. fa. issued against the garnishees, on the trial of which it was shown, they were administrators, and had in their hands a fund reserved for the widow\u2019s share of the real and personal estate of the decedent, which, on her death, was in part payable to the defendant in the action. The death of the widow was proved. The court (BlAck, P. J.) being' of opinion that the act of 1842 had no retrospective operation, and the funds not being liable to attachment before that act, directed a verdict for defendants.\nLyon, for plaintiff in error.\nBarclay, contra.\nJune 14."
+  },
+  "file_name": "0491-01",
+  "first_page_order": 491,
+  "last_page_order": 492
+}

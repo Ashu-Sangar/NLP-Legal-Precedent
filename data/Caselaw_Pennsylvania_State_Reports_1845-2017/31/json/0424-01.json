@@ -1,0 +1,79 @@
+{
+  "id": 985026,
+  "name": "King versus Boyles",
+  "name_abbreviation": "King v. Boyles",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "424",
+  "last_page": "426",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wh. 78",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835032
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/4/0078-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 309,
+    "char_count": 4805,
+    "ocr_confidence": 0.471,
+    "pagerank": {
+      "raw": 2.2653596950068793e-07,
+      "percentile": 0.7831267382770193
+    },
+    "sha256": "79687129103ea814d050e200c36b1ce4032cacf5a6360ce792adae6aa4cdc395",
+    "simhash": "1:ea2b00d5cd5e95ab",
+    "word_count": 850
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "King versus Boyles."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nWoodward, J.\nCosts which were given to neither plaintiff nor defendant by the common law, are so peculiarly a matter of statutory regulation, that the first and generally the final inquiry of the judicial mind is, what will has the legislature expressed upon the subject. If at liberty to reason about the rights of a particular party to recover costs, it would not perhaps be difficult to prove that a plaintiff who vexed his neighbor with an action of trespass, wherein referees gave him no damages, and a court and jury assessed them at only ten cents, ought not to be rewarded with costs. But what would the clearest demonstration avail against such words as are found in the Act of 9th April 1833, that costs, on appeals, shall thereafter \u201c abide the event of the suit and be pciid by the unsuccessful party, as in other cases?\u201d\nThese words occur in an Act of Assembly that relates to the collection of debts, and hence it is inferred that they are applicable only to appeals in cases ex contractu, and not to appeals under the Act of 18\u00cd4, conferring jurisdiction on justices in trespass and trover.\nThe inference is too large. The legislature from whom all civil jurisdictions of justices are derived, were perfectly aware, when the act of 1833 was passed, that justices had a limited jurisdiction in torts as well as contracts, and that appeals lay from their judgments in the one class of actions as well as in the other. The necessity for a general rule of costs was common to both classes. Under various Acts of Assembly that attempted to apportion costs according to the results of the litigation, embarrassing questions had sprung up, and the legislature must he presumed to have realized the difficulty of making equitable distribution of costs in contingencies that could not be anticipated.\nWith the whole subject before them, they prescribed a simple and easy rule, in language comprehensive enough to embrace all appeals from justices, whether in.torts or contracts.\nThat this court has considered this to be the scope of the legislation of 1833, is indicated in several cases: 4 Wh. 78; 1 Barr 189 ; 10 Harris 298. The Act of 1833, in its application to cases of trespass, was not the very point in judgment in these cases, hut they exhibit the drift of the judicial mind, and in accordance with it we now rule that the costs on appeals in trespass and trover, as well as in other cases, are to abide the event.\nNor does this bring the Act of 1833 into conflict with those of 1814 and 1816, for these do not prescribe any rule in cases of appeal. If the damages found by the justice or referees shall not amount to more than one dollar, says the 3d proviso of the 2d section of the Act of 1814, the plaintiff shall not recover more costs than damages, and under the Act of 1816, the referees have power to specify the costs to be recovered by the plaintiff, or to apportion them between the parties. Neither of these acts affect to furnish a rule for costs on appeals. When, therefore, the Act of 1833 supplied a general and uniform rule for appeals, it was inconsistent with nothing in these prior acts. It was not, indeed, in pari materia with them, but related to costs in a contingency of which they took no notice.\nIf the rule prescribed be not absolutely just and reasonable in all its applications, it has at least the merit of simplicity, and being an express rule of legislation which clashes with no other rule, it is the plain duty of the courts to follow.it.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Dietrich, for the plaintiff in error.",
+      "JElwell, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "King versus Boyles.\nThe Act of 9th April, 1833, which provides that the costs on appeals from justices of the peace shall \u201c abide the event of the suit and be paid by the unsuccessful party, as in other cases,\u201d applies to appeals in cases of trespass and trover.\nA plaintiff recovered a judgment before a justice for $35 in an action of trespass; the defendant appealed, and there was an award of arbitrators finding \u201c no cause of action;\u201d from this the plaintiff appealed, and, on the trial, recovered a verdict for ten cents damages ; held, that the verdict carried full costs.\nError to the Common Pleas of Sullivan county\nThis was an action of trespass to real estate, originally brought before a justice of the peace by Hugh Boyles against Thomas King.\nThe justice gave judgment in favor of the plaintiff for $35 ; from this the defendant appealed to the Common Pleas, where the cause was arbitrated, and there was an award of \u201c no cause of action.\u201d The plaintiff paid the costs and appealed from the award, and on the trial recovered a verdict for ten cents damages. The court below entered judgment on the verdict with full costs, which was here assigned for error.\nDietrich, for the plaintiff in error.\nJElwell, for the defendant in error."
+  },
+  "file_name": "0424-01",
+  "first_page_order": 424,
+  "last_page_order": 426
+}

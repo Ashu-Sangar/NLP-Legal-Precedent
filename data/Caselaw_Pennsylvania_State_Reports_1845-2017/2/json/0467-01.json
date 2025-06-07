@@ -1,0 +1,103 @@
+{
+  "id": 951173,
+  "name": "Oeslager v. Fisher",
+  "name_abbreviation": "Oeslager v. Fisher",
+  "decision_date": "1846-05-27",
+  "docket_number": "",
+  "first_page": "467",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle, 55",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Rawle, 237",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts & Serg. 376",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts & Serg. 280",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854639
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0280-01"
+      ]
+    },
+    {
+      "cite": "3 Rawle, 55",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 8386,
+    "ocr_confidence": 0.526,
+    "pagerank": {
+      "raw": 4.203320455147803e-07,
+      "percentile": 0.913358848334401
+    },
+    "sha256": "1f5bc845ba345f446eb63cefd290f9adb9957535b30007b6c9ac0e6a79b29401",
+    "simhash": "1:57bac077046897fa",
+    "word_count": 1514
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oeslager v. Fisher."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 We are of opinion that no valid objection to this title appears to be made out on the part of the defendant below. As far back as 1827, Koons, one of the executors, bought the lot at sheriff\u2019s sale, on an execution issued upon a judgment which he and the other executor obtained against Jacob Koons the then owner, and took the deed to himself in trust for the estate of Elizabeth Koons, deceased. This was in fact a deed in trust for himself as executor, for he, as such, represented the estate of the deceased. No other cestui que trusts are named or referred to by description. By this deed the title passed out of the defendant, in the execution to him, and of course he could convey it. Three years afterwards he did convey it to Connelly, and it is to be presumed received the purchase money. Connelly\u2019s title was, four years afterwards, conveyed to Fisher and Dietz, who, in 1843, conveyed to the defendant, taking his bond, on which this suit is brought for the purchase money. These transactions have passed long since, without any claim or pretence of title to the lot on the part of the heirs, or of John Koons, as cestui que trusts: whilst, at the same time, it appears the executor charged himself, in his account filed in 1835, with the debt due on the judgment and interest, and also wdth the advance obtained on the resale, applying these moneys to the payment of debts and charges on the estate, and, notwithstanding which, he brings the estate into debt, so that it would seem that the lot could not have been held as land, but must have been eventually sold to pay the debts of the estate, and that, in fact, there was no conversion of money into land, nor could such a thing be properly done by the executor, but the transaction was rather as a temporary investment of the money, or perhaps a measure adopted to prevent a sacrifice of the lot by a sale at an undervalue, which would not transcend the power or duty of an executor, when done for the benefit of the estate. Billington\u2019s Appeal, 3 Rawle, 55.\nTo what liability, however, he may have subjected himself, or how far on fresh pursuit his acts might have been drawn in question, it is certainly too late now to inquire, after he has conveyed the title for valuable consideration, and so great a lapse of time has occurred without any movement on the part of the heirs; but they have received the benefit of all the money with which he was chargeable.\nThe full legal title being thus in him, there is no equity which would take it away from a purchaser for a valuable consideration under circumstances ; and the title transferred by Fisher and Dietz was derived from such a purchaser, and it has the same character in their hands as those of their vendee.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Ramsey, for plaintiff in error,",
+      "Campbell and Hambly, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Oeslager v. Fisher.\n1. In 1829, executor purchased land of a debtor to the estate under Ms judgment, for an amount equal to his own and prior liens. He settled his account, charging himself with the amount of the judgment, and the profit of a subsequent sale by him, showing a balance still due from the estate. A purchaser from his vendee, in 1843, cannot set up the equity of the representatives or legatees, on the ground of conversion, as a defence to the payment of purchase money.\n2. Conveyance to executor in.trust for the estate, is a trust for himself representing the estate, per Seugeamt, J., and he may convey.\n3. Purchase of land of debtor to the estate, by executor, under a judgment to secure the amount due the estate, not a conversion, but a mere temporary investment. Per Id.\nError from the Common Pleas of York county.\nMay 19. \u2014 This was an action on a bond for the purchase money of a house and lot, dated in May, 1843, in which the defence set up was a defect in the title. The circumstances relied on were these :\nIn tlie year 1825, Elizabeth Koons, by her will, gave to the children of her son Jacob, a legacy, to be deducted out of bonds due by him to her, and appointed John Koons and G. Spangler her executors. In 1826, an action of debt was instituted by the executors of Elizabeth, against Jacob, in which judgment was recovered, in 1828, for $466. The statement was lost. A fi. fa. and vend. ex. issued in 1829, and the lot in question was sold to John Koons, in trust for the estate of Elizabeth Koons, for $800. It appeared there were other judgments against Jacob Koons, prior to that of the executors, amounting to about $332, so. that the total amount of liens were $798, which amount must have been bid to cover the executor\u2019s lien.\nJohn Koons, executor of Elizabeth Koons, in 1832, conveyed this lot to Connelly, who, in 1837, assigned it to plaintiffs below, in trust for creditors, by whom the sale was made to plaintiff in error, and the bond now in question taken for the purchase money. Defendant was in possession at tbe time suit was brought; whether under a conveyance is not stated. Plaintiffs further gave in evidence the account of John Koons, as executor in 1835, wherein he charged himself with the amount of the judgment against Jacob, and interest thereon, and with $245 profit on the sale of the house. He took credit, among other matters, for the amount paid on the prior judgments, and showed a balance due him from the estate.\nThey also showed an ejectment by John v. Jacob Koons and another, for the lot, with a judgment and a hab. fac. poss. in 1831. All this evidence was objected to.\nThe court (Irvine, President) instructed the jury as follows:\n\u201cThe defendants contend that the plaintiffs are not entitled to recover in this suit, because John Koons had no title in the property which he could convey, he being a mere trustee for the estate of Elizabeth Koons, and could not sell without express authority; the persons interested in the estate of Elizabeth having the right to elect to take the purchased property if they thought proper to do so, and asked the court so to charge the jury. The court charge the jury, that John Koons could, under the circumstances, sell the property for the benefit of the estate of Elizabeth Koons, and that the jury accordingly must find for the plaintiff.\u201d\nThe admission of the evidence, and the charge of the court, were the errors assigned.\nRamsey, for plaintiff in error,\ninsisted there was such a defect of title here that equity would not enforce the contract, and would even enjoin an action for the purchase money. The purchase by the executor, with the funds of the estate, was a conversion (and a breach of trust) and a trust at election immediately vested in the representatives; Peirce v. McKeehan, 3 Watts & Serg. 280; Lewin on Trusts, 201, 202; Burdett v. Willett, 2 Yern. 638; Harrisburg Bank v. Tyler, 3 Watts & Serg. 376; and these cases settle the principle that the cestui que trust may follow the fund into the land, and consider the purchase made for himself; Philips v. Crammond, 2 W. C. C. R. 445; Willis on Trustees, 63, 64. Here the funds were not the general funds of the estate, but the specific legacy (Walker\u2019s estate, 3 Rawle, 237) of the children of Jacob Koons, with which this purchase was made; and the deeds giving notice of a purchase by the executor, in that capacity, purchasers under him had notice of the will and all other matters of which they might have informed themselves by inquiry.\nCampbell and Hambly, for defendants in error.\n\u2014 The only question is, whether John Koons, having, as the executor of Elizabeth Koons, deceased, bought in the house and lot to prevent a sacrifice at sheriff\u2019s sale, and having taken a deed to himself, \u201c in trust for the estate of Elizabeth Koons,\u201d could sell the property again ?\nThat he had the right to bid the property up cannot be disputed. Billington\u2019s estate, 3 Rawle, 55, &c.\nIt was the duty of the executor, under the will, to pay the legatees in money, and having the right to buy, and being obliged to pay in money, it follows that he must have the right to sell again in order to get the money.\nIn Ms administration account he charged himself with what he gained by the sale of the property, as well as with the original debt. He made nothing by the purchase' and sales, but the legatees did, and to allow them to take the land after having already got the price of it in the account, would be unjust.\nCalculation will show that the executor bid the property no higher than was necessary to cover his judgment and prior liens.\nMay 27."
+  },
+  "file_name": "0467-01",
+  "first_page_order": 467,
+  "last_page_order": 470
+}

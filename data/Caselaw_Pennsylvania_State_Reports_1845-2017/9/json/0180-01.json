@@ -1,0 +1,79 @@
+{
+  "id": 960711,
+  "name": "Anshutz v. Fitzsimmons",
+  "name_abbreviation": "Anshutz v. Fitzsimmons",
+  "decision_date": "1848-09-18",
+  "docket_number": "",
+  "first_page": "180",
+  "last_page": "182",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 W. & S. 152",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/2/0152-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 343,
+    "char_count": 5859,
+    "ocr_confidence": 0.403,
+    "pagerank": {
+      "raw": 4.856319230494445e-08,
+      "percentile": 0.30447083980571843
+    },
+    "sha256": "da85ebccedad428e440b855ac886522eb70537c5d1cb3cdce82819b8eda21de1",
+    "simhash": "1:2eac9f0e2d9f6f06",
+    "word_count": 1012
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anshutz v. Fitzsimmons."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nIt is settled law, that a partner cannot pay his private debts by an application of the partnership property, without the assent of his companions. But he may do so with their consent; and a subsequent ratification of the act is equivalent to a precedent authority: Noble v. McClintock, 2 W. & S. 152; Purdy v. Powers, 6 Barr, 492. This is correctly conceded by the court below; but conceiving that the right of property of Sherriff\u2019s assignee attached, by relation, at the time of the presentation of the petition to the bankrupt court, the jury were instructed that the assent of the solvent partners to the transfer of the note in question, given after that period, was not binding on them for want of mutuality. Of such an assent there was certainly some evidence; and the sole question in the cause, as it is presented here, is, whether the instruction in relation to it was correct ? If Sherriff\u2019s interest in the property of the firm was not divested, by operation of law, until a time subsequent to the alleged consent, then, it must be admitted, he was competent to contract in relation to the note; and, consequently, whatever was agreed on by the partners, bound not only them but also the assignee in bankruptcy, when he was afterwards appointed.\nThe solution of the question depends upon the meaning of the third section of the late bankrupt law. It provided \u201c that all the property and rights of property, of every name and nature, and whether real, personal or mixed, of every bankrupt, except as is hereinafter provided, who shall, by a decree of the proper court, be declared to be a bankrupt within this act, shall, by mere operation of law, ipso facto, from the time of such decree, be deemed to be divested out of such bankrupt, without any other act, assignment or conveyance whatsoever; and the same shall be vested by force of the same decree, in such assignee, as, from time to time, shall be appointed by the proper court for this purpose. And the assignee, so appointed, shall be vested with all the rights, titles, powers, and authorities to sell, manage, and dispose of the same, and to sue for and defend the same, subject to the orders and directions of such court, as fully and to all intents and purposes, as the same were vested in or might he exercised by such bankrupt, before or at the time of his banhruptcy, declared as aforesaid.\u201d This language is so clear, precise, and definite, as scarcely to afford room for construction. It has nevertheless been reviewed by this court, in Miller v. Black, 1 Barr, 420; where it was held, that under this law, notwithstanding his petition, the proposed bankrupt remained invested with all his rights of property, as he held them before; and that these did not vest in his assignee until he was declared a bankrupt by the proper decree, and then only from that time. The doctrine favoured by Judge Story, that the decree, by relation, covered the property which the bankrupt had at the time of his petition filed, and in the interim, was denied. \u201cIt is clear,\u201d says Mr. Justice Kennedy, when delivering the opinion of the court, \u201c that no claim or right of property to the debt owing to the bankrupt, which was attached, vested in the plaintiff, the assignee, before the decree of the court was had, declaring the defendant named in the execution a bankrupt.\u201d And again he says, speaking of the supposed interest of the assignee by relation, \u201c the words of the act put an end to all question, in my,mind, on this point, and show, most clearly and unequivocally, that the decree has not, and could not have been intended to have such a relation. The words of the act show, most conclusively, that they are only susceptible of one construction; which is, that the vesting and divesting of the property must necessarily be confined to the date of the decree.\u201d In accordance with these principles, it was determined that an attachment which was issued against the bankrupt, after the presentation of his petition, gave to the creditor a right to the debt attached, in preference to the assignee who claimed it by relation. This determination is in harmony with the decisions of other highly respectable courts, on the same point, and must be taken as settling the law in Pennsylvania. It is decisive of the question under consideration; for, from it, it results that Mr. Black, the assignee, took only the estate and property that remained in the bankrupt at the time of the decree pronounced; and, consequently, the opinion of the District Court, founded on a contrary view, was incorrect. As the case then stood, the instruction should have been, that if the jury believed the solvent partners assented to the appropriation of the note made by Sherriff, though after the latter had filed his petition, praying the benefit of the bankrupt law, the defendant below was entitled to a verdict.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Buchanan, for plaintiff in error.",
+      "Magraw, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "Anshutz v. Fitzsimmons.\nThe property of a bankrupt is not divested until a decree of bankruptcy. And if, before such decree, he has applied partnership assets to the payment of his private debts, a ratification by his solvent partners after the decree, will validate the transaction. v\nIn error from the District Court of Allegheny.\nSherriff being a member of a firm, transferred a note belonging to the firm to his separate creditor. He ivas then discharged as a bankrupt, and his partners assented to the transaction.\nThe action was by the surviving partners and the bankrupt assignee against the creditor for money had and received.\nHepburn, P. J., instructed the jury, that if the solvent partners did not give their assent until after the petition in bankruptcy was filed by Sherriff, it was too late; for then the joint creditors were entitled to the partnership assets.\nBuchanan, for plaintiff in error.\nMagraw, contrd.\nSept. 18."
+  },
+  "file_name": "0180-01",
+  "first_page_order": 180,
+  "last_page_order": 182
+}

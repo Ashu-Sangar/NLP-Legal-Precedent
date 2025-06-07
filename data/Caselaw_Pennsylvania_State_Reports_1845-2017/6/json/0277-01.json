@@ -1,0 +1,126 @@
+{
+  "id": 954590,
+  "name": "Packer's Appeal",
+  "name_abbreviation": "Packer's Appeal",
+  "decision_date": "1847-07-23",
+  "docket_number": "",
+  "first_page": "277",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 277"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle, 165",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts, 301",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "pin_cites": [
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts & Serg. 44",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478588
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0044-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 300",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838046
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0300-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 145",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Binn. 135",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795091
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/6/0135-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 475,
+    "char_count": 9363,
+    "ocr_confidence": 0.391,
+    "pagerank": {
+      "raw": 1.9923769354003822e-07,
+      "percentile": 0.7419461520729587
+    },
+    "sha256": "5400cfd56f2b8ae790d2db832a905b37cd35a5238b365c697cfb07ba4cb63611",
+    "simhash": "1:f94dae9fef0ef297",
+    "word_count": 1691
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Packer\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe case of Colhoun v. Snider, 6 Binn. 135, settled, that after-acquired lands were not bound by a judgment previously entered; and the law is the same whether they were acquired by descent or purchase, and this upon the usage and course of decision in Pennsylvania, without regard to the English law. Mr. Justice Yeates, whose experience went beyond that of any man then living, says that \u201c it is the obvious meaning of the legislature in the act of 1705, (1 Smith\u2019s Laws, 7,) that the lands directed to be sold should be such lands as the debtor had at the time of the judgment in default of his personal property. But it is also a reasonable construction, that if the lands to which the debtor was then entitled should be insufficient to pay the debt and costs, other lands which he might acquire afterwards, either by descent or purchase, should be subject to the execution of the creditor; provided that no injury was done thereby to third persons, and that the lands belonged to the debtor at the time of the taking thereof in execution.\u201d 6 Binn. 145. Brackenridge, Justice, also says, in the same case, \u201c Can the judgment enlarge itself as to the subject of it ? It can bind, only that for which it- was a security, or what was pledged under it. It is contrary to the nature of a lien, and cannot be done. But lands may be taken in execution under a levari facias at common law, as to present profits, or under an elegit by the statute. Doubtless, but it is by virtue of the execution, and not of the judgment. This is the ground of all the error. For the books speak of the judgment binding after-purchased lands; but they mean no more than that lands purchased after may be taken in execution under the judgment.\u201d If further authority be necessary, it will be found in Stauffer v. Commonwealth, 1 Watts, 300, where it was held that a lien is a necessary and inseparable incident of seizure in execution, by the principles of the common law. There a treasurer\u2019s warrant against a delinquent collector of taxes, levied - on real estate, took preference of subsequent judgments, as a lien was created by the levy. The moment Brisbane\u2019s execution was levied on the land of Richards, a lien was obtained. The execution and levy created a lien in preference to subsequent judgments. In this case, the proceeding on the execution was pursued with due diligence; and the auditor and court were right in giving the execution levied a preference over the subsequent judgment of Packer. The appellant relies on the case of Jameson\u2019s Appeal, argued at July Term, 1845, of this court, and unreported. But in that case, Alexander Jameson, who was the assignee of Ziba Bennett, who was the assignee of George M. Hollenback & Co., an execution had issued upon the judgment, which was then a lien, without any farther step on the part of the plaintiff, except receiving payments from the defendant on account of the judgment for a length of time, until the judgment had lost its lien. The court there held that the execution did not give a preference over prior judgments in full life. The law favours the vigilant.\nThe decree of the Court of Common Pleas is affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Maxwell, for appellant.",
+      "Butler and Wright, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Packer\u2019s Appeal.\nA., on the 10th of August, 1842, obtained a judgment against R, who, at the time, and up to the death of his father, on or about the 11th of January, 1846, was destitute of property, when he became entitled to a certain interest in a piece of land, under the will of his deceased father. A. thereupon, on the 12th of January, 1846, issued a fi. fa., under which the sheriff levied upon B.\u2019s interest in the land as aforesaid, and proceeded with due diligence, under judicial process regularly issued, to sell the same. In 1842, C. and D. also obtained a judgment against B., on which, judgment of revival was entered by agreement, on the 23d of January, 1846. Held, that A., by virtue of his execution and levy, acquired a lien on the land of B., the defendant, which could not be defeated or disturbed by subsequent judgments.\nJuly 20. This was an appeal by Asa and Robert W. Packer, from the decree of the Court of Common Pleas of Luzerne county, confirming the report of the auditor appointed by the said court, to appropriate the money raised by a judicial sale of the real estate of David P. Richards.\nIt appeared, that C. L. Harrington, for the use of C. Brisbane, obtained a judgment on the 10th of August, 1842, against one David P. Richards, who, at the time, and up to the death of his father, who died shortly before the 11 th day of January, 1846, was destitute of property, when he became entitled to a certain interest in a piece of land, under the will of his deceased father. On the 12th day of January, 1846, the plaintiff in the judgment as aforesaid, issued a writ of fi. fa. thereon, to April Term, 1846, under which, on the same day, the sheriff levied upon the interest of Richards, the defendant, in the piece of land devised to him as aforesaid; and which was sold by the sheriff on the 8th of August, 1846, under a vend. ex. to August Term, 1846. To April Term, 1846, the said plaintiff also issued a writ of soi. fa. to revive the original judgment, on which judgment was regularly entered, on the 10th of August, 1846.\nAsa and Robert W. Packer also obtained a judgment against David P. Richards, on suit brought to April Term, 1842, No. 42. On this judgment an amicable soi. fa. to revive the same, with confession of judgment by the defendant, for debt, interest, and costs, the amount of which was to be ascertained by the prothonotary, was issued to April Term, 1846, No. 89; and judgment thereon, in open court, on the 23d of January, 1846, which was before the sheriff\u2019s sale of the defendant\u2019s property, but after the levy under Brisbane\u2019s fi. fa.\nThese were the only judgments against the defendant, and on each the fund raised by the sale of his property was claimed. It was admitted before the auditor, that the property sold on the 8th of August, 1846, was the interest of David P. Richards, as heir-at-law of William Richards, his father, who died shortly before the 11th of January, 1846. It was insisted on the part of the Packers, that the judgment on their sci. fa. to April Term, 1846, No. 89, having been obtained before the revival of Brisbane\u2019s judgment, was the first lien, and that they were entitled to the money. Brisbane claimed the money by virtue of the lien created by the levy of January 12, 1846, and also denied the right of the Packers to any part of the fund, on the ground that neither their original judgment of April Term, 1842, No. 42, nor the judgment on their sci. fa. to April Term, 1846, No. 89, were ascertained and entered on the records until after the sale of the property, which was proved to be the fact. The auditor appropriated the fund to the payment of the judgment of Brisbane.\nThe court below (Conyngham, P. J.) were of opinion, that neither of the original judgments was a lien upon the after-acquired property of the defendant; but that Brisbane, by issuing his execution, levying on the interest in the land, and proceeding to sell the same as soon as the due course of law would permit, acquired and preserved a specific lien, which could not be disturbed by a confession of judgment afterwards to the Packers, and thereupon confirmed the report of the auditor, and decreed accordingly. From this decree, Asa and R. W. Packer appealed.\nMaxwell, for appellant.\nThe question is, whether an execution levied on land creates and retains a lien, independent, separate, and distinct from that of its judgment. At common law, an execution had no lien on land; for it was not subject to a sale, nor was a lien necessary or useful in proceedings by elegit. He referred to our acts of Assembly, making lands chattels for the payment of debts, in order to show, that they had not, by express words, subjected them to a lien of execution; and their words strongly imply a design in the legislature not to give a lien upon land to an execution. True, a testatum fi. fa. has a lien; but it required an act of Assembly, and express words, to create it; and it is thus expressly given, because the judgment is not in the county where the lands lie. These facts are the best grounds for the decision of this court in Jameson\u2019s Appeal. That case is unreported, but I have its record in court, and also the brief of my argument in the case, by which your honours may see that I then put a hypothetical case, Mice the present, and thus raised the very question we are now discussing: yet your honours, in Jameson\u2019s case, said: \u201c It never was supposed by the legislature, or the profession, that a judgment and an execution on it had each a distinct and independent lien,\u201d &c.; \u201cthat the acts of Assembly changed the whole face of the law, by cutting off every particle of lien except that of a judgment,\u201d &c. If this be so, then it is clear that the lien of the appellees, if they ever could have had any, is also cut off, and that the money belongs to us.\nButler and Wright, contra,\ncited Betz\u2019s Appeal,. 1 Penna. Rep. 271; and Todd v. McCulloch, 3 Penna. Rep. 445, as to the effect of execution levied; and contended, that by the. appellees\u2019 levy the property was seized and taken into custody of the law, for their benefit. They also cited 5 Watts & Serg. 44; 1 Watts, 301, 398; and 3 Rawle, 165.\nJuly 23."
+  },
+  "file_name": "0277-01",
+  "first_page_order": 277,
+  "last_page_order": 280
+}

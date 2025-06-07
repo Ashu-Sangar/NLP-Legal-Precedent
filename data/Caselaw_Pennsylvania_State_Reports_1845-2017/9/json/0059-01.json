@@ -1,0 +1,79 @@
+{
+  "id": 960715,
+  "name": "Cowden v. Pleasants",
+  "name_abbreviation": "Cowden v. Pleasants",
+  "decision_date": "1848-08-03",
+  "docket_number": "",
+  "first_page": "59",
+  "last_page": "61",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 59"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Whart. 485",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833435
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/3/0485-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 294,
+    "char_count": 4426,
+    "ocr_confidence": 0.365,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3763441420716034
+    },
+    "sha256": "f677bb4c385b11c97c0f440b3357f869d2386f58630ef80289bccbcc04c2047b",
+    "simhash": "1:53e228a08e04bd3d",
+    "word_count": 762
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cowden v. Pleasants."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe supplemental statute of 1847, which, in certain cases, restored the 36th section of the act relating to executions, which directed the attachment in execution to be served on the defendant as well as on the garnishee, was enacted to protect the garnishee when he had handed over the effects to the original owner of them; and also to protect the assignee of such owner having become a meritorious purchaser of them. But the legislature never intended to restore the original provision for the benefit of the defendant in the execution, or any one standing precisely in his place. As to either of them, it was left to stand repealed by the act of 1844. What peculiar equity, or separate interest, then, has an assignee in bankruptcy ? He is the representative of the creditors and the exponent of their rights; and he is clothed with their equities and vested with their title: but no more. Claiming under their common debtor and deriving title to his effects by legal transmission from him to their agent, the creditors themselves stand as he himself stood. The question is not what benefit was he to receive from his discharge, but what did they give for the cession of his effects. They gave up all recourse to his person or future earnings; but it was held in Twelves v. Williams, 3 Whart. 485, for reasons which hare not been questioned, that this is not a consideration to make an assignee in voluntary insolvency, a purchaser, and an assignee in bankruptcy stands essentially on the same ground. Under the English statutes he notoriously succeeds to no more than the estate and effects of the bankrupt, bnrthened with their former equities and encumbrances. The language of our own act shows it to be inapplicable to the present case. It was extended no further than to cases in which \u201cbona ride assignments had been made to third persons without notice of the original attachment;\u201d which shows that the legislature had in view those eases in which there might be mala fides, which is not predicable of a cession in bankruptcy. They consequently intended to provide for those who had become assignees in one of the ordinary ways of transfer, and for no others.\nThe assignee, however, contends that the attachment, being void when it was laid, could not be set up by the act of 1844 against the intervening assignment in bankruptcy, which, it is said, vested the title irrevocably. Had it indeed been void, that consequence would have been inevitable; but that the proceeding was merely erroneous and not irregular, is demonstrated by the fact, that the slip might have been retrieved by the execution-debtor\u2019s voluntary appearance. Being a provision for the benefit of his assignee, either might waive it. But had it been void, an appearance would not have restored it, for it could not reanimate the dead. The constitutional power of the legislature to enact the statute of 1844, which touched no vested title, is not to be doubted; and the plaintiff\u2019s attachment is clearly entitled to the debt in the hands of Mr. Merrill\u2019s representatives.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Miller and Maynard, for plaintiff in error.",
+      "Pleasants and Bellas, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Cowden v. Pleasants.\nAn assignee in bankruptcy is not an assignee within the act of 1847, which, declares, that attachment-executions levied prior to the act of 1844, and not served on the original defendant, shall not he valid against a bond fide assignee without notice of the attachment; and the act of 1844 cured the defect from want of service on the defendant.\nIn error from the Common Pleas of Union.\nJuly 24-5. Case stated. An attachment-execution on a judgment against Cowden issued on the 19th November, and was served on the garnishees prior to the 2d of December, 1842. Cowden was not served, not living within the county. On the 13th December, 1842, Cowden petitioned to be declared a bankrupt. On the 23d January he was so decreed, and an assignee appointed.\nWhether the assignee or the attaching creditor was entitled to the fund, was the question argued. The court gave judgment for the latter.\nMiller and Maynard, for plaintiff in error.\nUntil the\" act of 1844, the attachment did not bind the fund, because the defendant was not served as is required by the act of 1836. The act of 1844 could not divest the rights of the assignee which had attached, and this construction is aided by the act of 1847, for there can be no doubt that an assignee in bankruptcy is a bond fide assignee.\nPleasants and Bellas, cont\u00f3.\nAug. 3."
+  },
+  "file_name": "0059-01",
+  "first_page_order": 59,
+  "last_page_order": 61
+}

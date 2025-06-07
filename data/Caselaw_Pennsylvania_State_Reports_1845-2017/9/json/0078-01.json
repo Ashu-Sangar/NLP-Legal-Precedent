@@ -1,0 +1,79 @@
+{
+  "id": 960678,
+  "name": "Weidner v. Conner",
+  "name_abbreviation": "Weidner v. Conner",
+  "decision_date": "1848-08-01",
+  "docket_number": "",
+  "first_page": "78",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 W. & S. 392",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481776
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0392-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 149,
+    "char_count": 1657,
+    "ocr_confidence": 0.389,
+    "pagerank": {
+      "raw": 6.458269585055473e-08,
+      "percentile": 0.3981313196251982
+    },
+    "sha256": "918f049bc7e602b77ea2e887462f346a0d52995943731af1f1176878fe63d93a",
+    "simhash": "1:1219d205ab0e065d",
+    "word_count": 292
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Weidner v. Conner."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nIt was impossible for the witness to identify a note which was not before him. He had nothing to swear by but a copy, and even that was an imperfect one. The original ought to have been before him, and recognised by him. Besides, the interrogatories were not attached; and the court could not say whether the answers were pertinent to them.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Jordan, for plaintiff in error,",
+      "MiLLer, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Weidner v. Conner.\nWhere testimony is taken on depositions as to the genuineness of an instrument, the original must be exhibited to the witness; and where he is examined on interrogatories, they must be attached, so that the court may see his answers were pertinent.\nIk\u00fci error from the Common Pleas of Northumberland.\nAug. 1.\nDebt on a note. The defendant offered the deposition of a witness to prove it was-a forgery.' It appeared from the face of the paper, that he was examined on interrogatories, and they were not attached. In answer to the second interrogatory, he said, \u201c the \u2018 3\u2019 hundred dollar note, a copy of which is appended to this deposition, dated Aug. 5, 1845, payable to the bearer, was not signed by Daniel Weidner. Both the body of the note, and the signature, is a forgery, I know that fact. Joseph F;.. of.....got the note from me.\u201d A copy was annexed of a note corresponding in date, amount, and time, with the one in suit, and concluding thus, \u201cpurporting to be signed by Daniel Weidner whether it corresponded in other particulars, the paper-book did not show.\nThe rejection of this, and the answers to similar interrogatories, was assigned for error.\nJordan, for plaintiff in error,\ncited 3 Barr, 419 ; 7 W. & S. 392.\nMiLLer, contra.\n4 S. R. 298; 7 Ib. 171."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 78,
+  "last_page_order": 78
+}

@@ -1,0 +1,103 @@
+{
+  "id": 401851,
+  "name": "Covert et al. v. Hertzog",
+  "name_abbreviation": "Covert v. Hertzog",
+  "decision_date": "1846-10-31",
+  "docket_number": "",
+  "first_page": "145",
+  "last_page": "146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Mass. Rep. 414",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2029726
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/9/0367-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 52",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001819
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/4/0052-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 141",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0141-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 223,
+    "char_count": 2949,
+    "ocr_confidence": 0.589,
+    "pagerank": {
+      "raw": 1.3617598652422625e-07,
+      "percentile": 0.6364623960701956
+    },
+    "sha256": "d97f5fcda819573cba3c349d30c37d6998ec4eba31f9ad70d7ba1b032950fef8",
+    "simhash": "1:f743120150cea9fb",
+    "word_count": 514
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Covert et al. v. Hertzog."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nJudgment on the demurrer was well given for the plaintiff, as it has already been solemnly decided, that the execution of a vendor\u2019s contract of sale by his executors or administrators, does not bar his widow of her dower; but the hearsay evidence of her marriage was erroneously received. Such evidence is admissible in questions of pedigree depending on legitimacy; for it is often necessary in them to mount up to a remote period for evidence of marriage, and the traditions of the family, or the declarations Of deceased persons whose relation to the parties qualified them to speak with certainty, are frequently the best evidence of which the case is susceptible, and admissible by a species of necessity ; not so where one of the parties produces them as evidence of a comparatively recent marriage, which is as susceptible of the ordinary proof as any other fact of the same date. In the very case before us, there was abundance of such evidence by living witnesses, who proved cohabitation as man and wife, which, when not rebutted, is sufficient to establish the fact. But as it was not conclusive, it did not render the reception of the deceased uncle\u2019s declaration harmless. Judgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Dawson and Howell, for plaintiff in error.",
+      "Patterson, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Covert et al. v. Hertzog.\nIn an action of dower, hearsay declarations of a member of the family to the fact of marriage are inadmissible, when there are living witnesses to the fact of cohabitation as man and wife.\nThe execution,-by executors or administrators, of a contract of sale of the realty made by the decedent, does not bar the widow\u2019s dower.\nIn error from the Common Pleas of Fayette county.\nOct. 28. The case, so far as the facts can be collected from the opinion of the, court here and the paper-book, was this. To an action of dower, the defendant pleaded ne unques accouple, and that the right of dower had been divested by a sale to Moore by Hertzog, the alleged husband of plaintiff, in his lifetime. It would seem, that Hertzog\u2019s contract was subsequently perfected by the executors under the act off Assembly. To the second plea, there was a demurrer, and judgment for the plaintiff. On the trial of the first issue, the court permitted G. Craft to testify to the declarations of his deceased father, who was an uncle of the plaintiff, respecting the fact of the marriage; it,is assumed in the opinion of the court here, that evidence of cohabitation by the plaintiff and Hertzog, as man and wife, had been previously given by many witnesses, but the evidence was not on the paper-book.\nThese two points were assigned for error.\nDawson and Howell, for plaintiff in error.\nPatterson, contra,\non the demurrer, referred to 7 Watts, 141, and argued, that declarations of a deceased member of the family were evidence, in connection with proof of cohabitation and reputation. 1 Stark. Ev. 56, 57; 2 Stark. Ev. 612; Phil. Ev. 158; 4 Johns. 52 ; 9 Mass. Rep. 414; 4 Term Rep. 469.\nOct. 31."
+  },
+  "file_name": "0145-01",
+  "first_page_order": 145,
+  "last_page_order": 146
+}

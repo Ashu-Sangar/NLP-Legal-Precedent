@@ -1,0 +1,85 @@
+{
+  "id": 484256,
+  "name": "Dunning's Appeal",
+  "name_abbreviation": "Dunning's Appeal",
+  "decision_date": "1863-03-09",
+  "docket_number": "",
+  "first_page": "150",
+  "last_page": "155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "24 Wend. 507",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Paige 577",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2181735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/paige-ch/6/0577-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 592,
+    "char_count": 14525,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 8.594203391136844e-08,
+      "percentile": 0.48942505914437484
+    },
+    "sha256": "2c7b5c8257bef22ccaefe731f432cf32ebdeed906c8d2ea86ee10b214ae5b4dd",
+    "simhash": "1:8972e904b343644f",
+    "word_count": 2574
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dunning\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nThompson, J.\nAssuming, for the present, that the loan of the appellant for which the notes of Charles H. Brian was taken, was in fact a loan to the firm of Charles H\u00e9nry Brian, a position indispensable to the success of the appellant, but not found by the auditor, how would the case stand then ? It would be the case of a special partner claiming as creditor of an insolvent firm of which he was a member. The answer to this is just what the learned judge gave, namely, the twelfth section of the \u201cLimited Partnership Act.\u201d \u201cIn case of the insolvency or bankruptcy of the partnership, no special partner shall, under any circumstances, be allowed to claim as a creditor until the claims of all the other creditors of the partnership shall be satisfied.\u201d These are the words of the statute.\nThe insolvency of this firm was found by the auditor, and is not disputed. The appellant was the special partner, and now claims in direct contravention of the section of the act quoted. He cannot do this. We have not been shown a single authority which controls or limits the prohibitory terms of the section, and they must have thoir legitimate force and effect.\nOur statute regulating special partnerships was borrowed from the New York Act of 1822, in which the same clause is to be found, but we find in that state no authoritative adjudication on the point. It is true, there was a decision by the Court of Common Pleas of the city of New York, that a special partner might claim as a creditor of the firm of which he was a member. But in Mills v. Argall, 6 Paige 577, the chancellor, Walworth, held that he could not so claim. On a review of the case from the Common Pleas of Now York, 24 Wend. 507, the Supreme Court do not decide the point on which the courts referred to differed. But there is an implication on the point arising from the legislation of that state; for the provision in question in the original act was amended in 1857 (3 Rev. Stat.), so as to permit the special partner to claim as a general creditor for loans to the firm. It may be fairly assumed that the law could not have been so considered before the amendment.\nWe have no such modification of our statute, and the language of the act being unambiguous, it must have its effect. The effect we give it is not novel, for usually such is the result in general partnerships.\nWe need not determine the points discussed on argument, as the foregoing is sufficient for a proper decision of the case before us.\nDecree affirmed, at the costs of the appellant.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "Amos Briggs, for appellant.",
+      "J. E. Shaw, with whom was David Webster, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Dunning\u2019s Appeal.\nRights of Special Partner, as Creditor of the Firm, in a Limited, Partnership.\nUnder the Limited Partnership Act, the special partner cannot claim as a creditor of an insolvent firm of which he was a member.\nAppeal from the District Court of Philadelphia.\nThis was an appeal by Robert D. Dunning from the final decree of the District Court distributing the proceeds of the sheriff\u2019s sale of the personal property of Charles H. Brian.\nThe material facts of the case, as .reported by the auditor to whom the question of distribution was referred, were these:\u2014\nOn the 21st day of June, A. D. 1858, Joseph B. Hutchinson, of Bristol, county of Bucks, and state of Pennsylvania, entered into and executed an agreement of limited partnership with a certain Charles Henry Brian, of the city of Philadelphia, under the provisions of the Act of Assembly of this Commonwealth, dated March 21st 1836, and the acts supplemental thereto, regulating and providing for the formation of limited partnership, so as to transact the business of merchant tailors. In this agreement it was specified that the partnership was to be conducted under the name of Charles Henry Brian; that the general partner was to be the said Charles Henry Brian, and the special partner the said Joseph B. Hutchinson; that the latter contributed to the stock of the firm the sum of $2500; that the partnership was to commence immediately at and after the signing of the said agreement, and was to terminate on the 21st day of June, A. D. 1860; which said agreement was duly acknowledged and recorded the same day in the recorder of deeds\u2019 office in Limited Partn\u00e9rship Record, in book marked T. H., No. 1, page 240, &e. On the 21st day of June, A. d. 1860, the said Hutchinson and Brian, by another agreement duly made and executed on that day, continued and renewed the partnership aforesaid for the term of two years from said date, said partnership under this agreement terminating on the 21st day of June, A. D. 1862, -which said agreement was duly acknowledged same day, and recorded May 21st, A. D. 1860, at Philadelphia aforesaid, in the said recorder of deeds\u2019 office, in Limited Partnership Records, in book marked-T. H., No. 1, page 311, &c.\nOn the 18th day of July, A. D. 1861, an amicable confession of judgment by Charles H. Brian was entered in the District Court in favour of the said Joseph B. Hutchinson, for the amount of $1100, which said judgment was founded on certain notes signed \u201c Charles H. Brian, per William Brian, Att\u2019y-\u201d This judgment was, on the 7th day of August, A. D. 1861, marked to the use of Robert D. Dunning. It was upon this judgment that the first writ of fieri facias, September Term. 1861, No. 822, is founded.\nOn the 19th day of October, A. n. 1861, an amicable confession of judgment by Charles Henry Brian, trading under a limited partnership, in the name of Charles Henry Brian, was entered in the District Court in favour of Aaron V. Gibbs, as trustee for certain creditors of the firm of Charles Henry Brian, therein specified, for the amount of $4153.98. It was upon this judgment that the second writ of fieri facias, September Term 1861, No. 874, is founded.\nOn the 2d day of November, a. d. 1861, an amicable confession of judgment by Charles Henry Brian, trading in limited partnership under the firm of Charles Henry Brian, was entered in the District Court in favour of said Aaron Y. Gibbs, in trust to pay certain creditors of the firm therein specified, including those for whose benefit the last preceding judgment was confessed, for the amount of $1059.43. It was upon this judgment that the third writ of fieri facias, September Term \u00cd861, No. 1228, is founded.\nOn the 14th day of October, A. d. 1861, the first writ of fieri facias, September Term 1861, No. 822, in the case of Joseph B. Hutchinson to the use of Robert D. Dunning v. Charles H. Brian, was issued by the prothonotary, and placed in the hands of the sheriff of Philadelphia county the same day.\nOn the 19th day of October, a. d. 1861, the second writ of fieri facias, September Term 1861, No. 874, in the case of Aaron V. Gibbs v. Charles Henry Brian, trading under a limited partnership in the name of Charles Henry Brian, was issued by the prothonotary, and placed in the hands of the sheriff aforesaid the same day.\nOn the 2d day of November, A. D. 1861, the third writ of fieri facias, September Term 1861, No. 1228, in the case of Aaron Y. Gibbs v. Charles Henry Brian, trading in limited partnership under the firm of Charles Henry Brian, was issued by the prothonotary, and placed in the hands of the sheriff aforesaid on the same day.\nUnder these various writs of fieri facias, the said sheriff made return as follows:\u2014\nTo No. 822. \u201c Levied upon the personal property of the defendant. October 14th, A. D. 1861, and sold the same on the 6th day of November 1861, for the sum of seven hundred and eighty dollars.\u201d\nTo No. 874. \u201cLevied, Octobei\u2019 19th, a. d. 1861, upon the personal property of the defendant, subject to a px\u2019ior levy made under a certain other writ of fieri facias issued out of the court to September Term 1861, No. 822, and sold the same on the 6th day of November, A. D. 1861, for the sum of seven hundred and eighty -f-fa dollar\u2019s.\u201d\nTo No. 1228. \u201cLevied, November 2d, upon the personal property of the defendant (November 2d, a. d. 1861), subject to a px\u2019ior levy made under two certain other writs of fieri facias issued out of this court to September Term 1861, No. 822 and 874, respectively, and sold the same November 6th 1861, for the sum of seven hundred and eighty dollars.\u201d\nHaving under them sold - the effects of the partnership of Charles Henx\u2019y Bx\u2019ian. The amount paid into court was $432.02.\nIt appeared from the testimony of Claghorn, public accountant, that, at the request of the general partner, he had made out a statexnent from the books of the firm up to June 1st, A. D. 1861, in order that the state of the affairs of the firm up to that tixne might be ascertained, and that this examination showed that the firm was, in his judgment, totally insolvent on that day.\nThe capital, it appeared, was placed on the books to the credit of John Hutchinson, the son of Joseph B. Hutchinson, the special partner,-but it was shown that John Hutchinson never placed any money in the firm, that he was a mere clerk, and that it was his father, Joseph B. Hutchinson, who placed the amount in the firm, in accordance with the articles of copartnership.\nIt appeared from the testimony of Charles \u00edlexiTy Brian, whose testimony was admitted under objection, that the firm never owned any real estate; that the assets consisted of open accounts and merchandise \u2014 no cash on hand. (This deposition wa.s taken October 24th 1861, which is probably the reason that it does not coincide, as to cash on hand, with the statement of the accountant.) \u201cThat Joseph B. Hutchinson had requested the witness (who was the general partner) to sign the amicable confession of judgment in the case of Hutchinson, v. Brian; that he, H., requested him, B., to go to Mr. Castle, who would explain it to him; that he objected to sign, but Mr. Castle told him, B., that it was to save Joseph B. Hutchinson, and that if anybody should sixe him, he should let Hutchinson know; and that he was afterward sued, and informed Hutchinson; tlxat he, Brian, had been informed by Hutchinson that Mr. Castle then advised II. to transfer the judgment to Dunning, so that he, Joseph B. Hutchinsoxx, might not .be known in the matter; that H. told him to make a bill of the goods to Dunning, and that an invoice was taken, but that was all that was done with tbe invoice. It also appeared that the general partner had no knowledge that the money for which the first judgment was given ever went into the firm; that nothing appears on the hooks of it, nor is there any credit in them in favour of Joseph B. Hutchinson, nor has John Hhtchinson any credit for the $1100; that the general partner had no knowledge of it, and never consented to it; that he never heard his father (who was in the store as superintendent) say that Joseph B. Hutchinson gave it to him (William Brian, the father), till a few days before the judgment was given, and that then he said he got it to buy goods for the business, and upon that, he (Charles Henry Brian) confessed the judgment; that the notes appear to have been signed by William Brian, as attorney, but he (Charles Henry Brian) had no recollection of ever having given a power of attorney to sign notes, and that to the best of his knowledge and belief, he never did. It also appeared that* the general partner requested Joseph B. Hutchinson, the special partner, to join with him in making a general assignment, which he refused to do.\u201d\nThe counsel of Mr. Robert D. Dunning, assignee of the judgment confessed by Brian to Joseph B. Hutchinson, No. 1197, June Term 1861, for $1100, claimed the fund in court, or a rateable share thereof, contending, in support thereof, that Joseph B. Hutchinson was a creditor of the firm ; that the judgment was a judgment against the firm, and that Hutchinson, and his assignee Dunning, stood on the same platform as the other judgment-creditors, that Hutchinson\u2019s judgment was the first upon which execution issued, and having the first levy, his client was entitled to the money, or a rateable share thereof, with the other creditors.\nThe auditor did not award the fund in court, or any part thereof, to Mr. Robert D. Dunning; holding that judgment as binding only on defendant.\nThe auditor was also of the opinion that the 20th and 21st sections of the act relative to confessions of judgment by partners of insolvent limited partnerships, presented an insuperable objection to awarding the fund to the second judgment-creditor, Aaron Y. Gibbs.\nThe third judgment, which was confessed in the firm name to A. V. Gibbs, as trustee for the partnership creditors, and contains the names of all those mentioned in the second judgment as creditors, was held not subject to the objection that it contains a preference; but that it bound the partnership effects (the proceeds of which is the fund in court) and the separate estate of the partner confessing it.\nHe therefore, on these facts and the law, awarded the fund in court, less the expense of audit, &c., to the said Aaron Y. Gibbs, plaintiff in judgment No. 2180, September Term 1861.\nExceptions were filed to the auditor\u2019s report, by the special partner; but on argument in the court below, before Stroud, J., they were dismissed, and the distribution of the auditor confirmed.\nThis appeal was then taken as above stated, by Mr. Dunning, for whom the following errors were assigned:\u2014\nI. The learned court erred in confirming the report of the auditor which determined, 1. That the judgment of appellant was a judgment against Charles Henry Brian, individually, and not against the special partnership of \u201cCharles Henry Brian.\u201d\n2. That appellant\u2019s judgment was void as to the creditors of the special partnership. 3. That because of the insolvency of the partnership, the appellant was postponed until after the other Creditors had been paid. 4. That appellant was not a creditor of the partnership. 5. That appellant was a general partner. 6. That the last judgment confessed to Gibbs was valid, although it did not embrace the appellant as one of the creditors of the partnership.\nII. In determining that Hutchinson, as to the money represented by his judgment, was a special partner, and as such could not take a confession of judgment from the partnership, and could not claim any part of the fund until the creditors of the partnership had been paid.\nIII. In not, upon the whole record, awarding the money, or a rateable portion thereof, to the appellant..\nIY. In awarding the fund \u20210 Gibbs, to the exclusion of the appellant.\nAmos Briggs, for appellant.\nJ. E. Shaw, with whom was David Webster, for appellees.\nMarch 9th 1863,"
+  },
+  "file_name": "0150-01",
+  "first_page_order": 150,
+  "last_page_order": 155
+}

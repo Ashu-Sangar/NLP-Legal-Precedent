@@ -1,0 +1,159 @@
+{
+  "id": 415601,
+  "name": "Criley versus Chamberlain",
+  "name_abbreviation": "Criley v. Chamberlain",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "161",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Wh. 140",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 21",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates 409",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dall. 47",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408467,
+        12126603,
+        1408414,
+        12126459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0045-01",
+        "/dall/1/0047-02",
+        "/us/1/0045-02",
+        "/dall/1/0047-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 96",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481819
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0096-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 447",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0447-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 18",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0018-01"
+      ]
+    },
+    {
+      "cite": "3 Wh. 208",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 450",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 98",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 887,
+    "char_count": 18783,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 8.606182893633831e-08,
+      "percentile": 0.49011950117555114
+    },
+    "sha256": "9cd09232d37858bbbc0f48c4a9d5786e272ed19dc482ac5c789a2d3d32139559",
+    "simhash": "1:8c45b746de28a9f7",
+    "word_count": 3313
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Criley versus Chamberlain."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014 The learned President of the Common Pleas has treated the principles involved in this ease with so much care and skill that we do not feel called upon to discuss the question further. The reasons assigned by him are entirely adequate to sustain the conclusion to which he arrived. The matters to which the counsel for the plaintiff in error has directed our attention, as evidence of an intended executory devise, are altogether too uncertain in their indications to overcome the rule, that no limitation shall be construed as an executory devise, if it can be construed as a remainder.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Futhey, for the plaintiff in error.",
+      "W. Darlington, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Criley versus Chamberlain.\nA testator devised lands to his son J. C., \u201cto hold to him, his heirs and assigns foreverand provided that if his said son J. C. should depart this life without leaving lawful issue, his executors should sell his estate, and divide the proceeds among certain collateral relatives: Held, that J. O. took an estate tail under the will, which the Act 27th April 1855 enlarged into a fee.\nIt is a rule of law that no limitation shall he construed as an executory devise, if it can he construed as a, remainder.\nError to the Common Pleas of Chester county.\nThis was an amicable action of debt, by Jonas Chamberlain against John Criley, in which the parties agreed upon the following statement of facts, to be considered in the nature of a special verdict, and subject to a writ of error.\n\u2022 John Chamberlain, of Sadsbury township, in said county, being seised in fee of the premises hereinafter mentioned, by his last will and testament, dated September 30th, 1854, and codicil thereto, dated October 25th, 1854, and proven April 19th, 1856, among other things, devised as follows:\u2014\n\u201c Item. \u2014 I give, devise, and bequeath unto my son, Jonas Chamberlain, all my real and personal property, situate and lying in the county of Chester, and state aforesaid, and bounded by lands of Susan Large, John McFillan, Alexander Hanna, Amos Townsend, and others, and all other property or estate of every description, whether in the county of Chester or elsewhere, to hold to him, his heirs and assigns for ever.\n\u201c Item. \u2014 But if my said son, Jonas Chamberlain, should depart this life without leaving lawful issue, my will then is, that my executors, or the survivor of them, shall sell at public. sale, all my estate, real and personal, and make a good and sufficient deed in fee simple for the same, to the purchaser or purchasers thereof, and the proceeds of such sale or sales of said property, I give and bequeath to my nephews and nieces hereinafter mentioned, to wit, John Chamberlain, William Chamberlain, Hannah Greenleaf, Ann Woods, Mary Wilson, and George MeGraw, in equal shares.\u201d\nOn the 10th day of April 1857, the said Jonas Chamberlain, by articles of agreement under seal, covenanted and agreed to sell and convey to John Criley, by good and sufficient deed, clear of encumbrances (except certain legacies under the will of John Chamberlain, which the said Criley is to pay out of the purchase-money), all that messuage and tract of land, in Sadsbury township, Chester county, being part of the premises devised to Jonas Chamberlain as aforesaid, bounded by lands of Jonas Chamberlain, Alexander Hanna, and John Chamberlain, deceased, and others, containing 128 acres, more or less; to make the deed therefor, and deliver the same to the said John Criley, on the 1st day of May 1857; and the said John Criley covenanted and agreed to pay to the said Jonas Chamberlain therefor, the sum of $85 per acre, on the delivery of the said deed.\nOn the said 1st day of May 1857, the said Jonas. Chamberlain tendered to the said John Criley, a deed of conveyance, in the ordinary form, for the said premises, purporting to convey the fee simple in the same, and demanded the payment of the purchase-money, according to the terms of said recited article of agreement.\nThe said John Criley declined to receive the said deed, and comply with the terms of said agreement, on the ground of want of power in the plaintiff to make an indefeasible title in fee simple in the same.\nThe said Jonas Chamberlain is unmarried, and has no issue. The said nephews and nieces of testator are all living.\nThe question for the opinion of the court is, whether, under these circumstances, the plaintiff is entitled to recover.\nIf the court should be of opinion with the plaintiff, judgment to be entered in his favour, amount to be settled by attorneys.\nIf otherwise, judgment to be entered for the defendant.\nThe court below, after argument, gave judgment for the plaintiff, and delivered the following opinion:\nPer Ouricm. \u2014 \u201c John Chamberlain made his last will and testament on the 80th day of September 1854, which was proved on the 19th day of April 1856, wherein, amongst other matters not necessary to be noticed, he devised as follows: (the learned judge here stated the terms of the will.)\n\u201c Erom these clauses in the will of John Chamberlain, the testator, the question arises, what estate did Jonas Chamberlain take in the premises devised to him ?\n\u201c A train of decisions from the date of Perrin v. Blake to the present time, embracing a period of nearly a hundred years, satisfies my mind that the devisee took an estate tail. It is unnecessary to enumerate these decisions. They establish, it would seem to me, beyond controversy, principles which, when applied to the case before us, must rule it as I have indicated.\n\u201cIn Clark v. Baker, 3 S. & R. 470, Chief Justice Tilghman says: \u2018 I take it to be established, that the words without leaving issue, applied to real property, are to be understood issue indefinitely, unless there be some other words showing an intent to restrict them to the time of the death of the first taker.\u2019\n\u201c Judge Sergeant, delivering the opinion of the court in Heffner v. Knepper, observes: \u2018 The limitation over upon a dying without lawful issue, reduces the fee to an estate tail; and the whole devise is then of an estate tail, with a remainder in fee in the brothers and sisters.\u2019 After citing numerous authorities, he adds: \u00a3 These decisions may be considered as having established a rule of property, under which many titles to real estate are held, and which it is of the first importance should be preserved uniform and stable, as well for the security of property held under it, as for furnishing a guide to the ascertainment of title in future.\u2019\n\u201c In Eichelberger v. Barnitz, the same learned judge remarks: \u00a3 Questions as to the effect of words in wills similar to those used in the present one, in creating an estate tail in the first taker, or an estate in fee with an executory devise over, have been so frequent, that their construction must be considered as settled by authorities, which we are not at liberty to subvert, even if we could flatter ourselves with the idea that we could delineate a more perfect system on this refined subject, than that which the existing law establishes. The principle has now become a settled rule of property, in relation to lands, that if a devise .be made to one in fee, and if he die without issue \u2014 or on failure of issue \u2014 or for want of issue \u2014 or without leaving issue, then over to another in fee, the estate of the first taker is a fee-tail, which, if he have issue, passes to them, ad infinitum, by descent, as tenants in tail. The estate vests in the first taker fully, and to all intents and purposes as a fee tail, and any devise over after the failure of such, must, of course, be after an indefinite failure of issue, and bad as an executory devise.\u2019\n\u201c In the case of Middleswarth v. Collins, tried in the District Court of Allegheny county, before the present chief justice of the Supreme Court of the state, it was declared that\u00a3 A devise to A., or to A. for life, or to A. and his heirs, with a subsequent clause devising over, on A. dying without leaving issue, has always and invariably been construed as, of itself, creating an estate tail. A devise over on A. dying without leaving issue, has, without almost an exception, been construed as imputing an indefinite failure of issue, unless there is something in the character of the devise over, that demands an implication of a failure of issue within a definite period.\u2019\n\u201cIt must be remarked, however, that the fundamental maxim upon which the construction of every devise depends, is that the intention of the testator shall always be observed, wherever it is fully made known, and is consistent with the established rules of law. Authorities need not be invoked to sustain this well settled principle. But the intention must not be guessed at or conjectured ; it must be found in the words of the will; and where the testator makes use of words which have already received a legal construction, they will receive such construction, unless it is plainly shown they were intended to be used in another sense. 4 It is a general rule,\u2019 observes Vice-Chancellor Plumee, 4 with regard to the construction of wills, that the testator\u2019s meaning is to be collected from the will itself; taking in aid the general rules of construction established by decisions,\u2019\n44 In examining the authorities in relation to the devise in question, one cannot fail to notice what would appear to be conflicting decisions upon the point to be determined. \u00cdTor are these of recent origin. Without going further back than Perrin v. Blake, we there find a diversity of opinion between the King\u2019s Bench and the Exchequer Chamber: the former determining that the intention being apparent must govern the case, and the latter, reversing the judgment, on the ground that no such plain and manifest intent appeared, as could control the legal operation of the words, and at the same time be consistent with the fundamental rules of law. From that period down to the present time, conflicting opinions may be found, which frequently puzzle the courts, in the determination of questions arising from devises of the kind here given. They are noticed by Judge Duncan, in Clark v. Baker, as 4 decisions apparently clashing;\u2019 by Judge Huston, in Caskey v. Brewer, as 4 scattered cases which look like exceptions and by the present Chief Justice in Middleswarth v. Collins, as 4 decisions entirely incompatible.\u2019 It may be asserted with truth, however, that they fix no settled construction; they establish no rule of property in relation to lands, and apply as authority only to cases 4 when the time at which the devise over is to take effect, is expressly or impliedly limited to a particular period, within a life or lives in being, and twenty-one years after.\u2019\n44 This diversity of opinion in the decisions of courts arises not from any unsettled state of the law on the subject, but from the interpretation given to the expressions of testators. In most cases wherein questions of this kind arise, devisors have not contemplated every possible combination of events which might occur after their deaths, and have not provided precisely for them. The duty of a judge, under such circumstances, is often difficult, as conflicting intents frequently occur; and to give effect to what may be esteemed the leading intent, legal principles may sometimes be overlooked, technical words cast aside, without any clear indication that they were not used in their technical sense, and established rules of law disregarded. A question between a definite and an indefinite failure of issue, seems to be one most likely to produce diversity of opinion.\n\u201c Formerly, if not at the present, the question was, whether the testator had so explained his intention as to control technical expressions; and such seems to have been the settled opinion of the profession so late as the decision of Lapsley v. Lapsley, 9 Barr 130, where a devise \u2018 among sons equally, they paying certain legacies, and if any of them die without issue, their share shall be divided between the surviving brothers,\u2019 was held in the original devise to be a fee reduced to an estate tail, with a remainder in fee, by force of the devise over on the death of the devisees without issue. In the next book of reports, however, a different rule would appear to have prevailed, and the rule of law which has been considered so fully settled, evidently disregarded. I will not attempt to account for the decision of the court in the case of Johnson v. Currin, 10 Barr 498. With the highest regard for the memory of the learned judge who pronounced the decision, I may be allowed to remark, that he laboured under a misapprehension when he declared that \u2018the ease of Perrin v. Blake was the strongest in which it was ruled that the manifest intent of the testator will control the legal and technical operation of the word heirs.\u2019 That case was finally determined, eight judges to four, to be an estate tail. Without animadverting upon the doctrine laid down in the case of Johnson v. Currin, I will observe, in the language of an eminent judge, that the case is \u2018 put entirely upon the intent of the testator without giving proper weight to the principle that consistency with the rules of law, is always an element in that canon of construction; and that there are rules of law for arriving at the intent, and some that control and frustrate the most manifest intent.\u2019\n\u201c In the case under consideration, the testator devises to his son Jonas Chamberlain, all his real and personal property, to hold to him, his heirs and assigns for ever; and, in a subsequent clause, he adds: \u2018 but if my said son, Jonas Chamberlain, should depart this life without leaving lawful issue,\u2019 &c., &c., then over. If the word \u2018 issue\u2019 conveys the same idea as the words \u2018 heirs of the body\u2019 \u2014 and such is its legal signification \u2014 then the devise to Jonas is, by the established rule of law, an estate tail. Are there any other, words in the will showing a manifest intent in the testator to be understood as meaning a definite failure of issue ?\n\u201c It must be admitted, that words which limit the time at which the devise over is to take effect to a particular period, within a life or lives in being, and twenty-one years after, would defeat the legal estate before noticed, and would make the devise over an executory devise. It would be limiting a fee upon a fee. I can see no such intent in the testator. In that event, should the son die without leaving issue, or until issue was born, he would hold a life estate merely, while at the same time he would be required to pay over to the nephews and nieces of the testator the legacies charged upon the land, and made payable within one year after the death of the devisor. This could not have been intended. The son must be considered as the primary object of the testator\u2019s bounty, yet, with the construction put upon it by the defendant, an event might occur where the devisee would receive but the rents and profits for a year, and the nephews and nieces would take the whole estate, after having received legacies to the amount of $8600. On a consideration of the whole matter, my opinion is, that Jonas Chamberlain took an estate tail under the will of his father.\n\u201c This will was made before the passage of the Act of the 27th day of April 1855, but the testator died in 1856, after its passage.\n\u201c By the act alluded to, it is provided that \u2018 whenever hereafter by any gift, conveyance, or devise, an estate in fee tail would be created according to the existing laws of this state, it shall be taken and construed to be an estate in fee simple, and as such shall be inheritable and freely alienable.\u2019 If any question could arise as to whether this Act of Assembly, under the circumstances just stated, would apply to the case in hand, it has been recently determined by the Supreme Court of the state in Price v. Taylor, and the question is now settled.\n\u201c In the view I have taken of the question at issue, it will be seen that Jonas Chamberlain has an estate in fee simple, in the land devised to him by his father, John Chamberlain, and that he can make an indefeasible title for the same; and that, therefore, according to the case stated, judgment must be entered for the plaintiff \u2014 amount to be settled by attorneys.\u201d\nTo reverse this judgment the defendant below sued out this writ, and here assigned the same for error.\nFuthey, for the plaintiff in error.\n\u2014 The question presented is, whether Jonas Chamberlain takes, under the will, a fee with an executory devise over, or an estate tail. It is submitted, that taking the whole will together, the former is the proper construction : Roe v. Jeffery, 7 T. R. 333; Langley v. Heald, 7 W. & S. 98; 2 Jarman on Wills 311; Train v. Fisher, 15 S. & R. 150; Pell v. Brown, Cro. Jac. 590; Porter v. Bradley, 3 T. R. 143; Doe v. Wetton, 2 Bos. & Pul. 324; Rapp v. Rapp, 6 Barr 45; Deihl v. King, 6 S. & R. 29; Eichelberger v. Barnitz, 9 Watts 450; Vaughan v. Dickes, 8 Harris 513; Johnson v. Currin, 10 Barr 503; Keily v. Fowler, 6 Bro. P. C. 309; Fearne on Rem. 482; Eby v. Eby, 5 Barr 464; Fairfax v. Heron, cited 6 Cruise 408; Doe v. Frost, 3 B. & Ald. 713; Doe v. Webber, 1 B. & Ald. 713; De Haas v. Bunn, 2 Barr 335; Ivins v. Scott, 2 Casey 215.\nThese cases sufficiently indicate that the general rule, invoked by the other side, will always give way, when the devise over is of such a character as to show that it was to vest, if at all, on the death of the first taker: See also Hoge v. Hoge, 1 S. & R. 144; Clark v. Baker, 3 S. & R. 470; Caskey v. Brewer, 17 S. & R. 441; Wells v. Ritter, 3 Wh. 208; Heffner v. Knepper, 6 Watts 18; Eichelberger v. Barnitz, 9 Watts 447; Langley v. Heald, 7 W. & S. 96; Lapsley v. Lapsley, 9 Barr 130; Johnson v. Morton, 10 Barr 245; Caldwell v. Skilton, 1 Harris 153; Jessup v. Smuck, 4 Harris 327; Maurer v. Marshall, 4 Harris 380; Toman v. Dunlop, 6 Harris 77; Vaughan v. Dickes, 8 Harris 513; Amelia Smith\u2019s Appeal, 11 Harris 9; Braden v. Cannon, 12 Harris 168; Hansell v. Hubbell, 12 Harris 244; Middleswarth v. Collins, Phila. R. 139; Price v. Taylor, 4 Casey 95.\nW. Darlington, for defendant in error.\n\u2014 The lucid opinion of the court below leaves little to do, but to refer to a few of the principles and authorities by which it is sustained. The devise to Jonas Chamberlain would have been an estate tail prior to the Act of 1855: James\u2019s Claim, 1 Dall. 47; Carter v. McMichael, 10 S. & R. 431; 2 Powell on Devises 565; Newton v. Griffith, 1 H. & Gill. 111; Geering v. Shenton, Cowp. 412; Eichelberger v. Barnitz, 9 Watts 450; Clark v. Baker, 3 S. & R. 478; Haines v. Witmer, 2 Yeates 409; Caskey v. Brewer, 17 S. & R. 444-5; Heffner v. Knepper, 6 Watts 21; Langley v. Heald, 7 W. & S. 98; Eby v. Eby, 5 Barr 463; Lapsley v. Lapsley, 9 Barr 131; Smith\u2019s Appeal, 11 Harris 10; Sharp v. Thompson, 1 Wh. 140; Middleswarth v. Collins, Phila. R. 139."
+  },
+  "file_name": "0161-01",
+  "first_page_order": 161,
+  "last_page_order": 167
+}

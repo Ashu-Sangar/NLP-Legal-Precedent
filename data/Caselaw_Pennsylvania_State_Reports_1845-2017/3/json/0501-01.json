@@ -1,0 +1,85 @@
+{
+  "id": 400550,
+  "name": "Ensly, Plaintiff in error, who was Defendant below, v. Wright, Defendant in error, and Plaintiff below",
+  "name_abbreviation": "Ensly v. Wright",
+  "decision_date": "1846-09-21",
+  "docket_number": "",
+  "first_page": "501",
+  "last_page": "502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 501"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts & Serg. 213",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480222
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0213-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 70",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 201,
+    "char_count": 3130,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 4.977215801968033e-08,
+      "percentile": 0.31284507320697075
+    },
+    "sha256": "3f36062464d179cf168efde487f583e7889377ec202c08d6fee518257ad8b362",
+    "simhash": "1:eec3f071d6ab50df",
+    "word_count": 581
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ensly, Plaintiff in error, who was Defendant below, v. Wright, Defendant in error, and Plaintiff below."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nIt is true that a party who consents to go to trial without a plea or an issue, waives exception to the want of either of them; but he waives nothing where the- cause has been tried in his absence, and consequently without his consent. It is said, however, that the court directed the cause to be put on the trial list; and that the affidavit of defence contained the substance of a plea. The court having unlimited power to impose terms, might have directed it to stand for one, and that the parties should go to trial on the facts contained in it. But the court omitted to do so, and the defendant had no reason to suppose the plaintiff would waive the benefit of a formal plea, and try the cause without being at issue. It was not legitimately on the trial list, and to bring it on in the defendant\u2019s absence, was to take him by surprise. He is not precluded, therefore, by any of his acts, from alleging the want of a plea as error, or moving it in arrest of judgment.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Alien, for plaintiff in error.",
+      "Woods, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Ensly, Plaintiff in error, who was Defendant below, v. Wright, Defendant in error, and Plaintiff below.\nIt is error to go to trial without a plea or an issue, in the absence of counsel, and without his consent, although an affidavit of defence be filed in the case, containing the substance of a plea, and the court has ordered the case on the list for trial.\nThe court, on opening adjudgment, and letting defendant into a defence, have unlimited powers to impose terras, and might have directed the affidavit of defence to stand for a plea, and that the parties should go to trial on the facts contained in it.\nA party who consents to go to trial, without a plea or an issue, waives exception to the want of either of them.\nError to the District Court of Allegheny county.\nSept. 17. This was an action of debt on a judgment bond for $997 54. A declaration was filed, and judgment confessed in favour of plaintiff below for above sum.\nOn the 2d December, 1845, an affidavit of defence to the whole of plaintiff\u2019s claim was filed, and, on motion, the judgment was opened, and the defendant let into a defence. The cause was ordered by the court to be put on the trial list. On the 5th May, whilst the counsel of the defendant was out of the state, the cause, without plea or issue, was tried by a jury, who found a verdict for the plaintiff in the sum claimed. No evidence was offered on the part of the defendant, his counsel being absent.\nMay 15, 1846, the counsel of the defendant, upon affidavit made, moved the court to set aside the verdict for reasons appearing above. The court refused to do so, as the quarto die post the rendition of the verdict had passed before the motion was made.\nThe defendant thereupon sued out this writ of .error.\nError assigned. \u2014 The court erred in entering judgment on the verdict, inasmuch as there was no plea upon which to form an issue.\nAlien, for plaintiff in error.\n\u00c1 party cannot be compelled to go on to trial, without a plea and issue. 5 Watts, 70.\nWoods, contr\u00e0.\nThe affidavit on the record is a sufficient issue. 6 Watts & Serg. 213.\nSeptember 21."
+  },
+  "file_name": "0501-01",
+  "first_page_order": 499,
+  "last_page_order": 500
+}

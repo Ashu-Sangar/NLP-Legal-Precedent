@@ -1,0 +1,109 @@
+{
+  "id": 9503922,
+  "name": "Beach versus Wheeler",
+  "name_abbreviation": "Beach v. Wheeler",
+  "decision_date": "1855-03-12",
+  "docket_number": "",
+  "first_page": "212",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 242",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Wend. 192",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017085
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/14/0192-01"
+      ]
+    },
+    {
+      "cite": "7 Peters 292",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        1436180
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/32/0292-01"
+      ]
+    },
+    {
+      "cite": "2 Peters 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        11335131
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/27/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 479,
+    "char_count": 8723,
+    "ocr_confidence": 0.401,
+    "pagerank": {
+      "raw": 7.044348983065606e-08,
+      "percentile": 0.4247195492864642
+    },
+    "sha256": "1ed9a5422907c64ca44825ed152fbb1a8f9be20da98edd6e98b3f413b9ae1529",
+    "simhash": "1:a33776979ea6c499",
+    "word_count": 1514
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beach versus Wheeler."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, March 12, 1855, by\nKnox, J.\nThere was error committed in permitting the letter from the defendant to his counsel to be read in evidence in his behalf. That a .proposition for a settlement was made, and its nature, pending the -plaintiff\u2019s confinement in the Boston prison, was legitimate evidence; but the letter in which the proposition was enclosed was in nowise connected with it, except, perhaps, as authorizing his counsel to submit the proposition, which we do not understand as haying been denied upon the trial by the plaintiff; and had it been, a single line in the letter was all that was nec\u00e9s-sary to prove the authority. The letter itself contained many things which might seriously weaken the plaintiff\u2019s case, and materially aid the defence. It was the party\u2019s own statement of his case, and not so connected with an act done as to make it evidence.\n\u2022 The charge of the learned judge was not strictly correct. It was that the jury \u201c could- not find a verdict for the plaintiff unless they were satisfied that the patent of 25th of April, 1846, claimed by th.e defendant, was invalid, and that he knew that the said patent was invalid; or unless they found that the curry-combs manufactured by the plaintiff were not an infringement of\u2019the right prima facie given by the said patent, which they must determine on the evidence.\u201d\nIf there -was an actual infringement upon the defendant\u2019s patent by the plaintiff, or if the defendant really believed that there was such an infringement, his belief being reasonably founded, there was probable cause for the institution of the suit, and the plaintiff could not recover; but if there was no' infringement, and the defendant had not reasons which would have induced a, person of ordinary sagaftity to believe that his rights had been trespassed upon, there was no probable cause, and, from its absence, malice might have been inferred by the jury, unless disproved by the other evidence m the cause.\nThe error in this respect may not have injured the plaintiff, but we cannot say positively that it did not. It may have been harder to convince the jury of the absolute knowledge of the defendant that his patent was bad, than to have satisfied them that he had no good reason for believing it otherwise.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Greenbank and Porter, for plaintiff in error.",
+      "Price, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Beach versus Wheeler.\n1. In an action for a malicious suit and imprisonment, a letter of the defendant, -when plaintiff in the former suit, addressed to his counsel therein and enclosing a proposition of compromise, was not admissible on his part. The proposition for settlement might have been evidence for the party who wrote it, but his letter accompanying it was not admissible, except as authority for the submission of the proposition.\n2. To sustain an action for a malicious suit and imprisonment on account of an alleged infringement of a patent, it was not necessary for the plaintiff to show that the patent claimed by the defendant when plaintiff in the first action was invalid, and that lie Imew U to he so. If there was no infringement of the defendant\u2019s patent, and the defendant had not reasonable ground for believing that an infringement existed, he had not probable cause, and from its absence malice might be inferred, unless disproved by the other evidence in the cause.\nERROR to tbe District Court, Philadelphia.\nThis was an action of trespass on the case by William Beach v. William Wheeler, for maliciously instituting suit against the plaintiff in October, 1849, and having him arrested and imprisoned.\nThe suit by Wheeler against Beach was for an alleged infringement of a patent procured by Wheeler, on 25th April, 1846, for an improvement in curry-combs. The said suit was brought in the Circuit Court of the United States in Massachusetts, and under it Beach was imprisoned in Boston for above fifty days, when, on surety being given, be was discharged. For such' imprisonment, aiid the injury resulting therefrom, the present suit was brought.\nThe suit of Wheeler v. Beach was continued on two occasions on motion of plaintiff\u2019s counsel, and a nonsuit was entered in October, 1851.\nOn 13th March, 1849, Beach obtained a patent for an improve- \u2022 ment in curry-combs. This patent he, subsequently, surrendered, and obtained another patent, on an amended specification, dated 12th February, 1850.\nOn the trial of the present suit, Beach, the plaintiff, gave evidence to show that he experimented in making combs in 1812 and 1815, and manufactured them as early as in the year 1843.\nWheeler, the defendant, endeavored to show that he manufactured the kind of combs in question before the date of the plaintiff\u2019s manufacture.\nOn the trial, the plaintiff contended: 1. That the'two patents were not for the same invention; that his curry-comb was different from, and a better comb than the defendant\u2019s, and that the plaintiff\u2019s patent was issued by the department in view of the previous patent to the defendant. 2. But, if this were not so, that he, the plaintiff, had invented and made the open-lack curry-comb before the defendant made it, and that the defendant\u2019s patent was invalid. 3. That the defendant, by selling his combs and keeping them for sale in the market in 1845, before applying for a patent, had abandoned his invention to the public. See 15th section\u2019of Act of 1836, 5 Statutes at Large 123, and 2 Peters 1; 7 Peters 292, as to abandonment.\nOn the trial there was offered, on part of Wheeler, the defendant, a letter, dated Philadelphia, October -20, 1849, viz., about sixteen days after the arrest of Beach, and addressed by Wheeler to his counsel in Boston, of record in the suit against Beach, and was annexed, to the deposition of the said counsel taken in the present suit. The letter enclosed a proposition for a settlement of the matter with Beach, which the counsel was authorized to propose, and contained other remarks relative to the controversy with Beach.\nThe admission of the letter was excepted to.\nHaRE, J., charged the jury, that what is probable cause for a criminal or civil proceeding, is a question of law for the Court, although whether the facts constituting probable cause exist or not, must be determined by the jury. That a patent issued by the United States is 'probable cause for a suit against one who infringes it, unless it is invalid and known to le so ly the patentee ; and that the jury could not find a verdict for the plaintiff, unless they were satisfied that the patent of 25th April, 1846, claimed by the defendant, was invalid, and that he 'kneio that it was invalid ; or unless they found that the curry-combs manufactured by the plaintiff were not an infringement of the right prim\u00e1 facie-given by the patent, which they must determine on the evidence.\nVerdict was rendered for the defendant.\nError was assigned to the admission of the \u2022 letter, and to the charge that -the plaintiff Avas not entitled to a verdict unless the jury were satisfied that the patent claimed by the defendant wa3 invalid, and that he knew that it was so, &c.\nGreenbank and Porter, for plaintiff in error.\nOn the subject of actions for malicious prosecutions, reference was made to the case of James v. Phelp, 3 Perry \u00a1f Davidson 281; 14 Wend. 192, Weaver v. Townsend. The jury should have been instructed to inquire whether Wheeler had reasonable and probable cause for instituting his suit: 9 Pan' 13T.\nPrice, for defendant in error.\nIt was alleged that the letter objected to was admissible, as showing the authority of the counsel to submit the proposition for settlement; also, that the letter was not, on the' trial, suffered to have any effect as to the grounds on which it is now objected to, and that, unless it prejudiced the plaintiff, its admission was not a ground of reversal: 1 Penn. Pep. 148; 3 Parr 22, 154. The record contains no grounds on which the objection to it was rested: 8 Harris 95-6. It was admissible as part of the res gesta; and if not pertinent to the question of probable cause, it was as to that of malice, which was charged in the declaration: 2 Qreenleaf Hv. \u00a7\u00a7 454, 457, 459; 4 Ser. R. 24; 8 Watts 242-3; 9 Hxch. 615; 1 Am. Lead. Oa. 230 ; 6 Ping. 186.\n2d. Probable cause is a mixed question of law and fact: 3 W. O. O. R. 31; 6 W. \u2021 Ser. 336; 1 Parr 234. A defendant is not liable to an action for malicious prosecution, whatever his motives, if he can show probable cause: 1 Parr 234; 9 Id. 137; 2 Parn. Sp Ad. 179; 1 Hare Wallace 230. Justifiable probable cause. is a deceptive appearance of guilt, arising from facts and circumstances misapprehended or misunderstood, so far as to produce belief: Per Gibson, J., in Jeibert v. Price, 5 W. & Ser. 439; 4 W. O. 0. Rep. 79."
+  },
+  "file_name": "0212-01",
+  "first_page_order": 210,
+  "last_page_order": 213
+}

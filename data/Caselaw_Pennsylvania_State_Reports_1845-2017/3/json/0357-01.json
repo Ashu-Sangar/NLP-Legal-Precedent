@@ -1,0 +1,138 @@
+{
+  "id": 400572,
+  "name": "Mann et al. v. McDowell",
+  "name_abbreviation": "Mann v. McDowell",
+  "decision_date": "1846-07-27",
+  "docket_number": "",
+  "first_page": "357",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Serg. & Rawle, 427",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1804343
+      ],
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/5/0427-01"
+      ]
+    },
+    {
+      "cite": "6 Watts & Serg. 165",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480104
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0165-01"
+      ]
+    },
+    {
+      "cite": "12 Mass. 137",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Mass. 444",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hall, 211",
+      "category": "reporters:state",
+      "reporter": "Hall",
+      "case_ids": [
+        1361779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/2/0211-01"
+      ]
+    },
+    {
+      "cite": "3 Whart. 369",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833448
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0368-01"
+      ]
+    },
+    {
+      "cite": "6 Watts &Serg. 310",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 439,
+    "char_count": 7635,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 4.8768320094248e-08,
+      "percentile": 0.3065026184924295
+    },
+    "sha256": "326f137bf3756094913030127b9ab4df452f83a800d72d9330405f13ad2366e0",
+    "simhash": "1:53306671c5b8730e",
+    "word_count": 1388
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mann et al. v. McDowell."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThough it is generally true, says Mr. Newland, in his treatise on Contracts, page 92, that no bill lies for specific performance of a contract which relates to a personal chattel, it is otherwise where the contract is incomplete, and looks to the execution of articles to carry it out. The defendant\u2019s agreement seems to be of that stamp. \u00ab Mr. Faux,\u201d said he, in his letter to the plaintiffs, \u201ccalled on me this morning to go his bail for the delivery of a large Pennsylvania canal boat next spring, of such dimensions as may be agreed on. I agree accordingly to go bail for Mr. Faux\u2019s delivery of a canal boat next spring as above.\u201d It seems to have been intended by this, that he should become a party to the principal contract, by signing the articles afterwards prepared; and a bill would lie to compel him to do so, or an action wrould lie for compensation at the plaintiff\u2019s election. Whether this action be considered the one or the other, the result is the same as to the admissibility of the articles as a part of the promise. They are evidence of the agreement to which he promised to accede ; and they are proper to show for what, and how far he consented to be bound. The difficulties that might beset an action on the articles against Faux are out of the case; the argument that a surety is no further bound than his principal, being inapplicable to an action against the defendant, not as a surety, but as a party who broke an original and independent promise to become a surety. And the defendant is separately liable in this action, to the extent he would have been jointly liable had all the parties signed, the articles. That they were not signed by all, is immaterial. The promise did not refer particularly to an agreement evidenced by a specialty, or a writing of any kind. It would be sufficient to fix him with responsibility, that Faux and the plaintiffs orally agreed to the terms embodied in the articles ; and after they had done their part by delivering the boat Caroline to Faux in conformity to them, the defendant could not object that they had not signed them. It would be a fraud on him to attempt it. The bargain he undertook to guaranty, was inducement to proof of his promise; and as the terms of it were contained in the articles, they ought to have gone to the jury.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Pleasants, for plaintiff in error,",
+      "Comly, contr\u00e0,"
+    ],
+    "corrections": "",
+    "head_matter": "Mann et al. v. McDowell.\nWhere a party has agreed to become surety in a future contract, an action lies for the non-performance of his promise.\nDefendant wrote B., F. & Co., that he agreed to become bail for F., for work to be done, of dimensions as might be agreed on. A sealed contract having been executed by two only of the firm of B., F. & Co., with F., defendant is liable on his contract, for the non-performance by F., though it appeared from the face of the instrument that the contract was designed for execution by the nonsigning partner and defendant.\nIn error from the Common Pleas of Columbia county.\nJuly 20. The plaintiffs declared in assumpsit, \u201cfor that said defendant, for the purpose of inducing the delivery of a canal boat, called the Caroline, to W. Faux, by plaintiffs, did promise and agree with plaintiffs, by the name of B., F. & Co., to go bail for the said W. Faux delivering of a canal boat the then next spring, of such dimensions as might be agreed on, to the said plaintiffs;\u201d that relying thereon, plaintiffs did deliver the Caroline; and W. F. then entered into a contract with the plaintiffs to deliver a canal boat of the size, &c., of the Elizabeth, (as in the contract below.) They then averred the value of a boat like the Elizabeth, and that of the Caroline, and the non-delivery by defendant or W. Faux, in compliance with his promise and undertaking, though often requested so to do,\u201d &c.; and that W. Faux was utterly insolvent.\nOn the trial, plaintiffs gave in evidence the following instrument : \u2014 \u25a0\n\u201c Mr. Faux called on me this morning to go his bail for the delivery of a large Pennsylvania canal boat next spring, of such dimensions as may be agreed on. I agree accordingly to go bail for Mr. Faux\u2019s delivery of a canal boat next spring, as above.\n\u201cB. Frick & Co. M. McDowell.\n\u00ab McDowell\u2019s Mills, 28 July, 1841.\u201d\nAnd having proved that the plaintiffs, whose names are set out in the agreement, constituted the firm of A. Frick & Co., they further offered an agreement, of which so much as is material here is given below; together with proof of the delivery of the Caroline.\nThe agreement was as follows:\n\u201cIt is agreed between Charles,F. Mann, Benjamin P. Frick, and Thomas Ryan, of the one part, and William Faux, of the other part, as follows: Said William Faux, for the consideration hereinafter mentioned, is to build for the said Mann, Frick & Ryan, a canal freight boat, to run on the Pennsylvania canal, of the size and tonnage of the canal freight boat Elizabeth, of Catawissa, to be made of, &'c., and to deliver said boat in the canal at Bloomsburg, at the opening of the navigation, on or before the 10th day of April, in the spring of 1842; that the said Mann, Frick & Ryan, will pay to the said Faux such sum as said boat shall be reasonably worth, or as boats of her size, tonnage, and finish may sell for in the market at the time she shall be delivered, as follows, viz.: a cash payment of f200, paid by the said Mann, Frick & Ryan, to the said Faux for the canal boat Caroline, is to be credited as part of the purchase money of the boat so to be built; the notes respectively due on the 5th day of July, and 5th day of October, 1841, as part of the purchase money of the Caroline, are to be paid when demanded, after becoming due, and credited as payment of the boat to be built by this agreement. The said boat Caroline is to be returned to the said Faux by the said Mann, Frick & Ryan, &c.; and the said Mann, Frick & Ryan, of the one part, and the said William Faux, together with Matthew McDowell, who hereby becomes bound as surety with him for the faithful performance of his part of this agreement, bind themselves the one to the other in the sum of one thousand dollars, as stipulated damages.\n\u201c In witness whereof we have hereunto set our hands and seals, this 29th day of July, a. d. 1842. \u2022\n\u201cCharles F. Mann, [l. s.]\n\u201cThomas Ryan, [l. s.]\n[l. s.]\n\u201cWilliam Faux, [l. s.]\n[L. S.]\u201d\nThe court rejected the evidence, and directed a verdict for the defendant; and this rejection was assigned for error here.\nPleasants, for plaintiff in error,\ncontended, the objection to this agreement is, that it was not signed by one of the partners; but this is immaterial, as the contract on our part was complete by the delivery of the consideration. 4 Com. Dig., tit. Fait, A. 2, C. 2, p. 262, 269; Hennessey v. The Western Bank, 6 Watts &Serg. 310. Certainly W. Faux was bound; and if he was, the defendant is. Coe v. Cook, 3 Whart. 369. He also cited 2 Hall, 211; 10 Mass. 444; 12 Mass. 137; Bonn v. Aitkin, 6 Watts & Serg. 165. That the non-sealing partner ratified and confirmed this contract. Story on Partnership, 178, 179; Gow on Partnership, 58, n.\nComly, contr\u00e0,\ncontended, the agreement by McDowell was not relied on by plaintiffs, but a new one executed, in which B. Frick, by not sealing, was not a party, and consequently neither bound himself nor was able to take advantage of it; that his affirmation of the contract would not serve to render him responsible; Hennessey v. Western Bank, ut sup.; Bellas v. Hays, 5 Serg. & Rawle, 427, 438; and the remedies must be mutual; that there was another objection taken, viz., that this was not the same contract that defendant agreed to.\nJuly 27."
+  },
+  "file_name": "0357-01",
+  "first_page_order": 355,
+  "last_page_order": 358
+}

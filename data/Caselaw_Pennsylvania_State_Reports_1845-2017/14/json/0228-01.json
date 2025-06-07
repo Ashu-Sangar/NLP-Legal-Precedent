@@ -1,0 +1,87 @@
+{
+  "id": 405898,
+  "name": "Williams et al. versus Wilkes",
+  "name_abbreviation": "Williams v. Wilkes",
+  "decision_date": "1850-10-09",
+  "docket_number": "",
+  "first_page": "228",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Cranch 335",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Cranch 187",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        6760162,
+        6760147
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dc/2/0187-02",
+        "/dc/2/0187-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 410,
+    "char_count": 7533,
+    "ocr_confidence": 0.416,
+    "pagerank": {
+      "raw": 2.6177644876728494e-07,
+      "percentile": 0.8210239284220817
+    },
+    "sha256": "72d820c709110ca6ac61b0d51829385e33909e66cd109d87a844a5cec29d10c9",
+    "simhash": "1:deb85405ee076bf9",
+    "word_count": 1275
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Williams et al. versus Wilkes."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nCoulter, J.\n\u2014 It is an established principle, that the laws of a state, designed only for the regulation of its own internal concerns, must be proved as facts, in other countries. Foreign judgments are usually authenticated, first, by an exemplification under the great seal of the country, which seal has been recognized by the executive and legislative departments of this country, in the recognition of the government itself. But the seal of a newly-established government, not so recognized, does not prove itself. Second, by a copy, proved to be a copy. Third, by the certificate of an officer authorized by law to give such certificate, which must be properly authenticated: 2 Cranch 187, Church v. Hubbart. There may be cases where all these modes of authentication are beyond the reach of the party, either by the organization of the foreign government and its courts, or by other insurmountable causes; and in such cases, as a matter of necessity, doubtless, inferior proof would be admitted. The proceedings of prize courts, being common to the family of nations, and recognized by all as international law, are admitted upon less rigid rules. This case is not of that character. The evidence rejected by the court below was, therefore, not properly admissible under the rules relating to the admission of foreign judgments in evidence, the certificate of the officer being the only category under which it could be admitted, not having the authentication entitling even the proceedings of prize courts to be received in evidence. These must be certified under the seal of the court, by the deputy registrar, whose official character is certified by the judge of the court, and that of the judge is certified by a notary public. As a court, this is the proper mode of authenticating its proceedings as evidence in foreign courts: Yeaton v. Fry, 6 Cranch 335. I do not, therefore, adoj>t the argument of the counsel for the plaintiff in error, that the proceedings were entitled to admission under the rule for the admission of foreign judicial proceedings; more especially as the Circuit Court of the United States can, in no sense of the word, be considered a foreign tribunal 'in this State. The proceedings are not within the act of Congress carrying into effect sect. 1 of the Constitution of the United States, article 4, providing that full faith and credit shall be given, in each State, to the judicial proceedings of every other State, and providing the manner in which such proceedings shall be proved. The act of Congress was circumscribed by the constitution, and expressly confines itself to the \u201crecords and judicial proceedings of the courts of any State,\u201d and enacts the mode of their authentication. On 27th May, 1804, the provisions of the law were extended to the judicial proceedings of the Territorial courts, which were thereafter to be authenticated in the same manner as the.proceedings of the State courts; so that the proceedings rejected by the court below could not have been admitted under the act of Congress.\nThey were not, however, authenticated in the mode pointed out by that act: yet, notwithstanding all this, the evidence rejected was competent, duly certified, and ought to have been received. The Supreme Court of the United States is our court; the Circuit Court is part and parcel of that court. In the establishment of the judicial hierarchy, one circuit embraced several States. It is indissolubly connected with the Supreme Court of the Union. An appeal lies in certain cases, and writs of error in others. In cases of difference between the circuit judge and the district judge, the point is certified into the Supreme Court for decision; and in many cases the jurisdiction of the Circuit Court is concurrent with that of the State court. What would be said of a decision that the Circuit Courts of the United States for the Eastern or Western Districts, in this State, were foreign tribunals ? Other circuits and districts are established by the same word of power, for the same purposes, and are of like proportions, with the same animating spirit in them, all proceeding from the same source \u2014 the Constitution of the United States, connected indissolubly with the Supreme Court of the United States, whose power and jurisdiction overshadows and protects us all, and where the States, like giants, may enter into controversy. In short, the Circuit Court of the United States, wherever it sits, is native here, and its seal proves itself in our courts, just as the seal of our own courts do. It is a seal of the paramount and paternal sovereignty, and, like the seal of the king\u2019s courts of common law jurisdiction in England, as, for instance, the King\u2019s Bench proves itself. This seal is received in all the courts of the Union, as evidence proving itself.\nThe judgment is reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Babbit, for plaintiff in error.",
+      "Marshall, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Williams et al. versus Wilkes.\nThe Circuit Court of the United States is not a Joreign tribunal. Its seal proves itself, in our courts, like the seal of our own State courts. The authentication of its proceedings is not within the provisions of the act of Congress relative to authenticating records and judicial proceedings.\nEr.ror to the Common Pleas of Erie county.\nIn this case, Henry Wilkes brought ejectment against Williams et al., plaintiffs in error, for four lots in the 2d section of the town of Erie. Both parties claimed through Edward W. Pratt: Wilkes, by deed from Pratt, dated March 30th, 1837; and Williams and others, by attachment of the lot as the property of Pratt, August 3d, 1837, judgment and sale thereon by the sheriff to them. Defendants below claimed that the deed to Wilkes, defendant in error, was made with a view to defraud creditors; and, for the purpose of showing Pratt\u2019s large indebtedness at the time, offered in evidence a certified copy of the record of a judgment in the District Court for the Southern District of New York, in favor of the plaintiff in error, against the said Pratt, for \u00a1$2954, with costs, purporting to be founded on a promissory note from said Pratt to plaintiffs in error, dated March 14th, 1837; to which record plaintiff below objected, that the certificate of the clerk of itself, was not sufficient proof of the record. The court rejected the evidence, and, at the request of defendant\u2019s counsel, sealed a bill of exceptions; which rejection is the error assigned in this case. The certificate of the clerk is in the following words:\nUnited States of America, Southern District of New Yorle, ss.\nI, Alexander Grardiner, Clerk of the Court of the United States of America, for the Southern District of New York, in the Second Circuit, do hereby certify, that the writings annexed to thi^certificate are true copies of their respective originals, on file and remaining of record in my office.\nSeal of 'j Circuit Court, I Southern District, ( New York. J\nIn testimony whereof, I have caused the Seal of the said Court to be hereunto affixed, at the city of New York, in the Southern District of New York, in the Second Circuit, this twenty-first day of July, in the year of our Lord one thousand eight hundred and forty-five, and of the independence of the said United States the seventieth.\nAlexander Gardiner, Cleric, [l. s.]\nIt was assigned for error, that the court erred in rejecting the evidence offered by defendant below, as in their first bill of exceptions.\nThe case was argued by Babbit, for plaintiff in error.\nMarshall, for defendant.\nOct. 9th,"
+  },
+  "file_name": "0228-01",
+  "first_page_order": 228,
+  "last_page_order": 231
+}

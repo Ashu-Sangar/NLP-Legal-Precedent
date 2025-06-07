@@ -1,0 +1,151 @@
+{
+  "id": 400752,
+  "name": "Beckley v. Eckert",
+  "name_abbreviation": "Beckley v. Eckert",
+  "decision_date": "1846-06-29",
+  "docket_number": "",
+  "first_page": "292",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 292"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts & Serg. 272",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0272-01"
+      ]
+    },
+    {
+      "cite": "10 Serg. & Rawle, 94",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1811117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/10/0094-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 102",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850009
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0102-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 361",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848490
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0361-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 362",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts, 362",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts & Serg. 307",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852641
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0307-01"
+      ]
+    },
+    {
+      "cite": "9 Serg. & Rawle, 141",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Watts, 362",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 359,
+    "char_count": 6852,
+    "ocr_confidence": 0.525,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.014785417991550859
+    },
+    "sha256": "75a52ec65feb94dbd3e3eba5721fca9dab2bdd07c6e2baa5fea87c641f473680",
+    "simhash": "1:bf3601b15deb15c5",
+    "word_count": 1256
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beckley v. Eckert."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis action is brought on a covenant of guaranty, which is no part of the bond, and does not pass by the assignment of it. The statute, which gives an action to the legal assignee of a bond, does not give him an action on a contract which, though ancillary, is collateral to it. To have the benefit of that, he must use the assignor\u2019s name. In Davies v. Barr, 9 Serg. & Rawle, 141, it was held, that, with an agreement by the original parties to restrain the use of a bond, an assignee of it had nothing to do; and how much more fit the application of the principle to the contract of a third party! The very point was decided in McDoal v. Yeomans, 8 Watts, 362, where it was held, that a parol contract of guaranty did not pass by the endorsement of a promissory note. The present is a covenant to guaranty the payment of a bond; but the difference does not impede the application of the principle.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Ulrich, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Beckley v. Eckert.\nA covenant of guaranty for the payment of a bond, is no part of the bond, and does not pass by an assignment of it.\nThe statute, which gives an action to the legal assignee of a bond, does not give him an action on a contract, which, though ancillary, is collateral to it.\nTo recover on such contract, the suit must be instituted in the name of the assignor, for the use of the holder.\nError to Common Pleas of Lebanon county.\nJime 24. This was an action of debt brought by Michael Beckley, assignee of Isaac Beckley, the plaintiff in error, against Nicholas Eckert, on a covenant of guaranty written on the back of a bond and executed by the defendant for the payment of the said bond. On the trial, the plaintiff gave in evidence a bond, dated 19th of August, 1842, given by Jacob L. Eckert to Isaac Beckley, for the payment of $400, on the 1st of April, 1843. It appeared, that on the 24th of August, 1842, the defendant guarantied the payment of this bond by the following contract: \u201c I, Nicholas Eckert, do hereby guaranty the payment of the within bond, together with all interest which may become due thereon. Witness my hand and seal this 24th day of August, a. i). 1842. Nicholas Eckert, [l. s.]\u201d\nOn the 20th of October, 1843, Isaac Beckley assigned this bond, under his hand and seal, and in the presence of two -witnesses, to Michael Beckley. It also appeared that Jacob L. Eckert, the obligor in the bond, made an assignment in trust for the benefit of creditors in March, 1843. The only question raised here was, whether the plaintiff could recover on the guaranty, in his present form of action.\nKline, for plaintiff in error. \u2014 The guaranty in this case was a part of the original contract, as much as if the defendant had signed the bond as obligor. Suavely v. Johnson, 1 Watts & Serg. 307. The guaranty was under seal, and was general in its terms, and not restricted to the obligee in the bond.\n\u2022 The words of the guarantor are to be taken most strongly against him. McDoal v. Yeomans, 8 Watts, 362. Simply as a guaranty, it was within the act of 28th of May, 1715, inasmuch as the insolvency of the obligor in the bond, the principal debtor, had occurred before the assignment. The guarantee had an immediate right of action, and the guarantor was fixed for the amount of the bond. His obligation or covenant for the payment of the bond, was absolute to Isaac Beckley and his assignee. It was a covenant that ran with the bond, and was as extensive in its terms as was the bond. The guaranty was co-extensive with the bond. It was not to pay the bond to Isaac Beckley, but to him, his heirs and assigns. The act of 1715 was more comprehensive than the statute of Anne, and the court will give it a liberal construction. He also cited, 8 Watts 362.\nUlrich, contr\u00e0.\nThe bond and the guaranty which constitute the plaintiff\u2019s cause of action are dated respectively upon the 19th and 24th day of August, 1842. The guaranty, therefore, has the same effect, if it were written on a separate paper, 8 Watts, 361; and the plaintiff, to enable him to maintain the present form of action, must establish that the guaranty upon which the present suit is brought, is either negotiable in its terms, or that it is such a contract or specialty as is embraced in the-act of Assembly of 28th day of May, 1715.\n1. The legal import of the term \u2018 guarantee\u2019 is a promise to answer for the payment of some debt, or the performance of some duty, in the case of the failure of another person, who in the first instance is liable.\u201d 3 Kent\u2019s Com. 85 ; 3 Penna. Rep. 19.\nThe guaranty in the present case, therefore, is nothing more than an engagement on the part of Nicholas Eckert to pay the bond to Isaac Beckley, on the insolvency of Jacob L. Eckert: provided Isaac Beckley, the obligee, uses due diligence for its collection. The guaranty contains neither the words, \u201c or order,\u201d \u201c or assigns,\u201d or any other words of negotiability. And that it is not negotiable or transferable, so that the holder or assignee of the bond can maintain an action against the guarantor in his own name, the cases reported in 8 Watts, 361, 9 Watts, 102, 1 Dallas, 369, 10 Serg. & Rawle, 94, 3 Kent\u2019s Com. 74, fully demonstrated. In the case of McDoal \u25a0v. Yeomans, 8 Watts, 361, the court say, \u00ab a guaranty is not separately negotiable by the statute, or the custom of merchants ; it is a special contract, which can be enforced only by a party to it,\u201d which they reassert in the case of Eckely. Snavely, 3 Watts & Serg. 272.\n2. Is the guaranty such a contract or specialty as is embraced in the act of Assembly of 28th May, 1715, entitled \u201c An act for the assigning of bonds, specialties, and promissory notes.\u201d\nThe inquiry then arises, what is a debt by specialty or special contract ? In 2 Blackstone\u2019s Comm., (English edition,) page 465, it is defined to be \u201c such whereby a sum of money becomes or is acknowledged to be due by deed or instrument under seal.\u201d It seems to be an absolute engagement to pay a certain sum of money; whereas by the authority already cited, 3 Penna. Rep. 19, a guaranty is merely a conditional engagement to pay a certain sum of money.\nThe assignment of the bond only transferred an equitable interest in the guaranty to the assignee, which at best is only a chose in action; and although an action could be maintained upon the guaranty in the name of Isaac Beckley, yet no such action can be maintained in the name of his assignee, as the defendant\u2019s guaranty is not made to Isaac Beckley and his assigns. See 1 Dallas, 444. That the guaranty does not pass by the assignment of the bond so as to enable the assignee to sue the guarantor in his own name, has been virtually decided by this court, in 1 Dallas, 443.\n3. There is another objection to the plaintiff\u2019s right to maintain the present suit. The guaranty or specialty is not assigned in the presence of two or more witnesses.\nJune 29."
+  },
+  "file_name": "0292-01",
+  "first_page_order": 290,
+  "last_page_order": 292
+}

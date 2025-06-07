@@ -1,0 +1,73 @@
+{
+  "id": 484275,
+  "name": "Road in Upper Hanover. Road in Franconia",
+  "name_abbreviation": "Road in Upper Hanover",
+  "decision_date": "1863-02-19",
+  "docket_number": "",
+  "first_page": "277",
+  "last_page": "279",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 277"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 149",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 4157,
+    "ocr_confidence": 0.434,
+    "pagerank": {
+      "raw": 2.9905983038557485e-07,
+      "percentile": 0.8516884575123878
+    },
+    "sha256": "117d693d77681b5a41c27952b4deb3bcace44e6deb17e4a94c93964aff7cec27",
+    "simhash": "1:60741403ae6b0014",
+    "word_count": 735
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Road in Upper Hanover. Road in Franconia."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the epurt was delivered, by\nLowrie, C. J.\nThe road law of this county requires notice of views to be given in two newspapers, and a rule of the court requires the proof of such notice to accompany the report; and thus it appears by the record what notice was given. It was by advertisement in two German papers, and in the German language.\nThis court decided long ago, in Tyler v. Bowen, not reported, that this is not according to law. The law must have a definite meaning, and therefore it cannot mean that public notice may be given in any language that one of the parties may choose to employ, but in the ordinary language of the country which is used in judicial proceedings. It is very proper for the legislature to provide differently for those parts of the state where the German language prevails; but we cannot do so with safety and certainty.\nSince this proceeding commenced, the legislature has authorized the use of the German language in public notices about roads in Montgomery county, but it has left it to accident to decide whether the notices shall be in German or English papers. It is to be regretted that this matter was not left to be regulated by a rule of the Quarter Sessions.\nProceedings quashed.\nSame entry in both cases.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "George If. Oorson, for appellant,",
+      "S. If. Rich, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Road in Upper Hanover. Road in Franconia.\n<l Publication in Newspaper?\u2019 in Statutes, means an English and not a German Newspaper.\n1. Where, by Act of Assembly, public notice in road cases is required to bo made in two newspapers nearest the road, such publication made in two German newspapers in the German language is not according to law.\n2. Where an Act of Assembly provides for public notice in a newspaper1, an English paper is always intended, in the absence of express legislative provision, or mention of some other paper.\nCertiorari to the Quarter Sessions of Montgomery county.\nThere is an Act of Assembly in force in Montgomery county relative to the laying out and opening of public roads, which provides that \u201cbefore any view in any of the cases above mentioned, public notice shall be given in at least two newspapers published in the county of Montgomery, for two successive weeks, of the time and place of meeting, signed by the viewers so appointed, in papers nearest the road.\u201d\nAt a Court of Quarter Sessions held May 21st 1861, the petition of fifteen inhabitants of the township of Franconia and parts adjacent in said county, was presented, asking for the appointment of viewers to lay out a road through lands of Jacob Kratz and others. On this petition a jury were appointed, who made a report laying out a road for public use, in which they stated that they gave public notice in two newspapers published in said county nearest the road, of the time and place of meeting ; but there was no proof of publication, or affidavit, or printed slip of public notice of the view, as required by law and the rules of the court.\nTo this report exceptions were filed by Mr. Kratz and Daniel Gerhard, over whose lands the road wras laid out. On the hearing, it appeared that the notices were published in German newspapers printed in Montgomery county nearest the road, which it was contended in the court below was not a compliance with the Act of Assembly.\nThis exception was not sustained by the court, but, with other exceptions, was overruled, and the report of the jurors confirmed according to lawn\nThis writ was then sued out by Jacob Kratz, by whom the confirmation of the report of viewers was assigned for error.\nThe main question in this court was whether publication in German newspapers was a compliance with the Act of Assembly.\nGeorge If. Oorson, for appellant,\ncited and relied on Tyler et al. v. Bowen, Pitts. Leg. J., Vol. 2, No. 52.\nS. If. Rich, for appellee,\nargued that, as the notice was to be in two newspapers nearest the road, the main requirement of the statute was complied with; that the act does not require publication in English papers, is local in its nature, and was intended to give notice to parties interested, in their own language; that a German paper was technically a newspaper: citing Eyster v. Reinman, 1 Jones 149.\nFebruary 19th 1863,"
+  },
+  "file_name": "0277-01",
+  "first_page_order": 277,
+  "last_page_order": 279
+}

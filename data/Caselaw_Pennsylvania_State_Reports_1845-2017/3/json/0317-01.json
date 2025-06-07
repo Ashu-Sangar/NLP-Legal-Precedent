@@ -1,0 +1,110 @@
+{
+  "id": 400642,
+  "name": "McDuffie v. Bartlett",
+  "name_abbreviation": "McDuffie v. Bartlett",
+  "decision_date": "1846-07-06",
+  "docket_number": "",
+  "first_page": "317",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Serg. & Rawle, 456",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Serg. & Rawle, 453",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1818205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/17/0453-01"
+      ]
+    },
+    {
+      "cite": "7 Watts & Serg., 142",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481804
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0142-01"
+      ]
+    },
+    {
+      "cite": "1 Watts & Serg. 340",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852611
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0340-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 5457,
+    "ocr_confidence": 0.572,
+    "pagerank": {
+      "raw": 1.1420408488207925e-07,
+      "percentile": 0.5786538134076543
+    },
+    "sha256": "58be01d8d49db0526c50153492c79982169d032a3fa4e26a76bb7ba99889b831",
+    "simhash": "1:0bdc241af5e597ca",
+    "word_count": 984
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McDuffie v. Bartlett."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\nThe plaintiff Bartlett having a judgment against M. J. Clark & Co., attached their funds in the hands of Merceir, on the 21st April, 1843. McDuffie claims them by virtue of an assignment to him by J. Caldwell and M. J. Clark, made on the 22d of April, 1843. The funds came to the hands of the garnishee in the shape of certificates of state debt issued in the name of Caldwell & Clark, and delivered to the garnishee by M. J. Clark for M. J. Clark & Co., to sell and pay themselves out of the proceeds. Nothing was said as to any surplus that might remain; nor was it then known whether there would be any. The assignment to McDuffie on the 22d April, 1843, was also made by M. J. Clark for Caldwell and Clark. A surplus remained in the hands of the garnishee, and the question on the merits is, whether, as McDuffie alleges, the property belonged to Caldwell and Clark at the time it was attached, or to M. J. Clark & Co. The court below left it to the jury to determine whether there was any such firm in existence as Caldwell and Clark, distinct from Clark & Co., instructing them that if there was, and the property belonged to them, McDuffie was entitled to it. The jury found for the plaintiff, and thereby decided that the property did not belong to any firm of Caldwell & Clark as distinct from Clark & Co. If so, it follows that the assignment to McDuffie being made after the attachment, was invalid against it.\nBut it is argued here, (though the point does not seem to have been distinctly made below,) that the plaintiff could not recover, because the judgment against Clark & Co; was not for a partnership debt, but was a judgment against Clark alone as an individual, and that partnership funds could not be taken under it, at least till the partnership debts were first paid. The nature of the plaintiff\u2019s claim in the suit in which judgment was rendered, does not appear. It may have been for a partnership debt, and the presumption is, it was so, as it was not against M. J. Clark as an individual, but against a firm composed of himself and another person. It is not necessary, in suing for a partnership debt, to name all. the proper partner's, as defendants; for if the party sued does not plead in abatement, a recovery may be had against such' as are sued. It may be therefore for a partnership debt, whether we treat Co. as a nonentity, or as a real name. -It is sufficient that the recovery was against M. J. Clark and Co., and the property attached, came from M. J. Clark & Co., and belonged to them, and therefore, prim\u00e1 facie, the nature of the debt recovered, and the funds attached, were in the same right. The plaintiff therefore gained a legal priority by levying his attachment the day before the assignment. \u00a1\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Overton, for plaintiff in error,",
+      "Adams and Elwell, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "McDuffie v. Bartlett.\nTwo creditors claiming tho same fund, one as the creditor of M. J. C. & Co., and the other under C. & C., there being evidence that they were composed of the same persons, and known under the different names; it was left to the jury to decide that fact.\nWhere there is a judgment against M. J. & Go., and the creditor has a priority under an execution on the property of that firm, he retains it, though he does not show his claim was on a partnership transaction, the presumption being that it was.\nIn error to the Common Pleas of Bradford county.\nJuly 6. Feigned issue directed to try the right to money in the hands of Merceir. Bartlett claimed under a judgment against M. J. Clark & Co., and an attachment of execution; McDuffie, under an assignment on the day succeeding the service of the attachment from J. Caldwell and M. J. Clark of these funds executed by the latter.\nThe garnishee stated the funds consisted of scrip and relief notes, deposited with him by M. J. Clark, or M. J. Clark & Co. These certificates of scrip were\u2018issued in the name of Caldwell & Clark, and endorsed by Clark \u2014 -the claims he had, to secure which the deposit was made, were against M. J. Clark, or M. J. Clark & Co.\nIt was proved there was a firm of the name of J. Caldwell & Co. known at the superintendent\u2019s office, whose business was transacted by Clark; and also a firm, Clark, Brown & others, of which Clark was the acting manager.\nOther witnesses said there were two firms, M. J. Clark & Co., and Clark & Brown; that they had never heard of Caldwell & Clark.\nThe court (Conyngham, President J.) left it to the jury to say \u2022whether the firm of Caldwell & Clark was distinct from that of M. J. Clark & Co.; or whether the firm known under the former name at the superintendent\u2019s office, was the same known in the business community under the latter name.\nThe errors assigned were in the instructions to consider the judgment against M. J. Clark & Co. good against all the members of that firm. 2. In that part of the charge stated above. 3. That there could be no recovery, as there was no evidence that the judgment was for a partnership debt.\nOverton, for plaintiff in error,\ncited Bitzer v. Shank, 1 Watts & Serg. 340 ; Cash v. Tozer, Ibid.; Harper v. Fox, 7 Watts & Serg., 142; Taylor v. Fitsimmons, 17 Serg. & Rawle, 453.\nAdams and Elwell, contr\u00e0.\nThis was a judgment against the active member of the firm, (the only one as found by the jury to exist,) and the presumption is, it is for a partnership debt \u2014 it is also against a partnership. Hence the assets may be seized. Taylor v. Fitsimmons, 17 Serg. & Rawle, 456; Fox v. Harper, 7 Watts & Serg. 142.\nJuly 6."
+  },
+  "file_name": "0317-01",
+  "first_page_order": 315,
+  "last_page_order": 317
+}

@@ -1,0 +1,79 @@
+{
+  "id": 404674,
+  "name": "Stump & Gunkle v. Lewis Hutchinson and Others",
+  "name_abbreviation": "Stump & Gunkle v. Hutchinson",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "533",
+  "last_page": "534",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Pa. 533"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 W. & S. 44",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483410
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 179,
+    "char_count": 2348,
+    "ocr_confidence": 0.431,
+    "pagerank": {
+      "raw": 2.166121160752975e-07,
+      "percentile": 0.7704841093052143
+    },
+    "sha256": "8d5b0e4611d579540785fd5e9c74da756d55819fa0e3d89d333c8aaf0945f9e1",
+    "simhash": "1:3fb12f99aba0b548",
+    "word_count": 393
+  },
+  "last_updated": "2024-02-27T20:36:37.361247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stump & Gunkle v. Lewis Hutchinson and Others."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe contract laid was absolute: the contract proved was conditional. The promise laid was to deliver in good order: the promise proved was to deliver in good order, \u201c the dangers of the river and fire excepted.\u201d There was therefore a substantial variance : and all the cases prove that the exception must be stated.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Shaler, for plaintiff in error.",
+      "Loomis, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Stump & Gunkle v. Lewis Hutchinson and Others.\nA promise laid to deliver in good order, cannot be supported by proof of a promise to deliver in good order, \u201c the dangers of the river and fire excepted.\u201d The variance is substantial: the exception must be stated.\nError to the District Court of Allegheny.\nSept. 28. The plaintiffs in error were plaintiffs below, and brought their action against the defendants, charging them as common carriers of a large quantity of goods shipped on board the steamboat Auburn, of which defendants were owners. The goods had been consumed by fire at a landing on the river.\nThe narr. set forth the delivery of the goods to the defendants, and that, in consideration, &c., defendants promised to take due and reasonable care about the delivery, and that, by reason of the improper conduct of the defendants, the goods were lost to the plaintiff.\nAfter the preliminary proof as to ownership, &c., the plaintiffs offered as proof of the undertaking of the defendants, the receipt of the clerk of the boat, as follows :\u2014\n\u201c Received from W. H. Campbell & Co., in good order and condition, the following goods, which I promise to deliver in similar good order and condition, the dangers of river and fire excepted, unto Joseph Smith, Cincinnati, Ohio.\u201d [Then follow the articles.] \u201c Stump & Gunkle.\n\u201c Freight, 37-J cts. per hundred.\n\u201c With the privilege of reshipping on good steamboats.\nSigned, A. Deviny.\u201d\nThis receipt was objected to by defendants, on the ground that the narr. is general and not on the contract contained in the receipt. The contract should be proved as laid. Exceptions must be stated. The court rejected the evidence, and verdict was taken for defendants. The error assigned was the rejection of this evidence.\nShaler, for plaintiff in error.\nIt was unnecessary to introduce \u201c dangers of river and fire excepted\u201d into t'he narr.: Whitesides v. Russell, 8 W. & S. 44.\nLoomis, contra,\ncited 2 Green. Ev. \u00a7 209; 9 Eng. C. L. Rep. 10; 6 Har. & John. 394."
+  },
+  "file_name": "0533-01",
+  "first_page_order": 533,
+  "last_page_order": 534
+}

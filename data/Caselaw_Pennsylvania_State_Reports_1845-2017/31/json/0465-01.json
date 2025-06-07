@@ -1,0 +1,66 @@
+{
+  "id": 985044,
+  "name": "Patton's Appeal",
+  "name_abbreviation": "Patton's Appeal",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "465",
+  "last_page": "466",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 465"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 223,
+    "char_count": 4643,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 3.937663515637754e-07,
+      "percentile": 0.9032932035805948
+    },
+    "sha256": "05a64b536428a8ab5321304dd641441ee9db9915a9ad58c98ae0b41769f19b00",
+    "simhash": "1:a9af22819387767b",
+    "word_count": 792
+  },
+  "last_updated": "2023-07-14T17:56:31.972662+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patton\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThis ease does not require much discussion, for it can be made plain in a very few words. Robert Blair\u2019s will was duly proved, and letters testamentary were issued upon it. To this an appeal to the Register\u2019s Court was taken; a feigned issue was ordered and tried in the Common Pleas, and found against the will and certified hack to the Register\u2019s Court; and thereupon the letters testamentary were vacated and letters of administration granted. But the decision of the feigned issue, and of course all that depended on it, was subject to a writ of error and to the judgment thereon. A writ of error was taken, and the judgment below was reversed and judgment entered in favour of the original probate.\nThe consequence is, that the letters of administration must be treated as raising a conditional administration in the nature of one pendente lite, and that now they ought to be revoked, and letters testamentary granted on the will. A petition was presented by the executor named in the will to have this done; and at a Register\u2019s Court appointed and called for the purpose, the petition was heard and refused. This is equivalent to a decree dismissing the petition for want of title in the petitioner; and it is subject to correction here on appeal, and it must be corrected. We do not hereby affect anything done under the letters of administration. So far as the estate has been properly administered by the administratrix, it must stand as administered, and she must account according to law. The executor will have power only over .so much of the estate as remains unadministered.\nThe decree of the Register\u2019s Court rejecting the petition to revoke the letters of administration granted to Martha Blair, is reversed; and it is now here ordered and decreed that the said letters of administration be revoked as of this date, and that letters testamentary be issued by the register of wills to Joseph Patton as executor of the will of Robert Blair, deceased; and it is further ordered and decreed, that the said Martha Blair pay the costs of this proceeding, to be taxed and collected in the manner appointed by law for costs before registers and registers\u2019 courts, and the record is now remanded to the Register\u2019s Court that the cause may be proceeded in according to this decree.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Finney and FarreTly, for the appellant.",
+      "Church, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Patton\u2019s Appeal.\nWhere, on a feigned issue directed by the register\u2019s court, there was a verdict against the alleged will, whereupon letters of administration were granted upon the estate of the decedent; but, on a writ of error to the Common Pleas, their judgment was reversed, and the will established; the letters of administration must be treated as raising an administration pendente lite; and they must be revoked, and letters testamentary granted to the executors named in the will.\nA refusal to revoke such letters by the Register\u2019s Court, may be corrected in this court, on appeal.\nThe executors, in such case, have power only over so much of the estate as remains unadministered.\nAppeal from the Register\u2019s Court of Crawford county.\nThis was an appeal by Joseph Patton from the decree of the Register\u2019s Court, refusing to vacate letters of administration granted to Martha Blair, on the estate of Robert Blair, deceased.\nOn the 8th March 1854, the will of Robert Blair was duly proved, and letters testamentary issued to Joseph Patton and Hugh McMasters, the executors.\nMartha Blair, the widow, appealed to the Register\u2019s Court; and an issue devisavit vel non was sent to the Common Pleas. The verdict of the jury was against the will; and upon this being certified to the Register\u2019s Court, the letters testamentary were revoked, and letters of administration decreed to the widow.\nOn a writ of error to this court, the judgment of the Common Pleas, in the issue devisavit vel non, was reversed, and a venire facias de novo awarded. On a second trial, there was another verdict against the will; and on error to this court, the judgment of the Common Pleas was again reversed, and judgment entered in favour of McMasters, the plaintiff in the issue, with costs. See 5 Casey 298.\nThe record was then remitted to the Common Pleas, and the judgment was certified to the Register\u2019s Court; and, thereupon, Joseph Patton filed his petition praying that the letters of administration granted to Martha Blair might be revoked, and letters testamentary granted to him as one of the executors named in the will. The Register\u2019s Court refused to revoke the letters of administration, and from this decree the present appeal was taken.\nFinney and FarreTly, for the appellant.\nChurch, for the appellee."
+  },
+  "file_name": "0465-01",
+  "first_page_order": 465,
+  "last_page_order": 466
+}

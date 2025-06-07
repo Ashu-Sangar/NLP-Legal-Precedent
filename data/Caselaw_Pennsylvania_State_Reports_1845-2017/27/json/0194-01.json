@@ -1,0 +1,66 @@
+{
+  "id": 979575,
+  "name": "Curry's Appeal",
+  "name_abbreviation": "Curry's Appeal",
+  "decision_date": "1856-11-07",
+  "docket_number": "",
+  "first_page": "194",
+  "last_page": "195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 126,
+    "char_count": 1318,
+    "ocr_confidence": 0.446,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3639536513518742
+    },
+    "sha256": "e647fd9c0886099131e671d0b2561dbf566717496371c7147ce84e1c23cb2d5f",
+    "simhash": "1:aecf3c179a063978",
+    "word_count": 235
+  },
+  "last_updated": "2023-07-14T19:15:50.021901+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Curry\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Lowrie, J.\nOur judgment just entered in the case of Lytle v. Colt\u2019s Executors, requires that this decree of distribution should be reversed, so far as relates to the claim'in that case. But we are not able to reform the decree so as to enter a final one, because we have not been furnished with the list of liens, and do not know how much remains yet due to the judgment of Hamilton and Wainwright. We must, therefore, reverse the decree and refer the case back to the Common Pleas for correction.\nDecree reversed accordingly, at the cost of Elihu Marvin.",
+        "type": "majority",
+        "author": "by Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Marshall and dfrant, for appellant.",
+      "Babbitt and Spencer, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Curry\u2019s Appeal.\nIt is error to appropriate to a void judgment, money made by the sale of the defendant\u2019s real estate.\nAppeal from the Court of Common Pleas of Hrie county.\nThis case depends upon that of Lytle v. Colt\u2019s Executors. The real estate of James Lytle, the defendant below in that case, was sold, and the proceeds of sale were brought into court for distribution. An auditor was appointed, who allowed to the judgment of Colt\u2019s executors, for use of Marvin v. Lytle, the full amount appearing to be due upon it, upon the ground that the court below had refused to set it aside.\nThe case was submitted without argument by\nMarshall and dfrant, for appellant.\nNovember 7, 1856,\nBabbitt and Spencer, for appellee."
+  },
+  "file_name": "0194-01",
+  "first_page_order": 194,
+  "last_page_order": 195
+}

@@ -1,0 +1,62 @@
+{
+  "id": 972299,
+  "name": "Cadwalader versus Tindall",
+  "name_abbreviation": "Cadwalader v. Tindall",
+  "decision_date": "1853-04-08",
+  "docket_number": "",
+  "first_page": "422",
+  "last_page": "422",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Pa. 422"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 102,
+    "char_count": 1296,
+    "ocr_confidence": 0.43,
+    "sha256": "579880380ac46e1af3c807773c89398949444771318cead51bec1188e9be45ad",
+    "simhash": "1:c0728861540166ed",
+    "word_count": 226
+  },
+  "last_updated": "2023-07-14T17:52:31.210520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cadwalader versus Tindall."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nWhere a tenant of land receives the cattle of third persons to be pastured at hire, are they subject to a distress for rent ? Certainly not; else the law of distress would be a mere trap to catch other people\u2019s property. Where, in the course of the tenant\u2019s business, he receives the property of third persons as a means of making a livelihood, it .is not subject to distress.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Montgomery, for plaintiff in error.",
+      "D. C. Morris, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Cadwalader versus Tindall.\nCattle received by a tenant to be pastured for hire are not liable to distress for rent due by him.\nError to the District Court, Philadelphia.\n.This was an action of replevin by Tindall v. Cadwalader, for certain cattle belonging to the plaintiff, which had been distrained for rent.\nGregg, the tenant of Cadwalader, received cattle to pasture on the land demised, and the cattle of the plaintiff were there in the daytime and sent home in the evening. Whilst on the premises they were distrained for rent due by Gregg. The jury found for the plaintiff, subject to the opinion of the Court on the point, whether the cattle were in law subject to distress for rent. On the reserved point judgment was entered for Tindall, the plaintiff.\nThe entry of such judgment was assigned for error.\nMontgomery, for plaintiff in error.\nD. C. Morris, for defendant.\nApril 8."
+  },
+  "file_name": "0422-01",
+  "first_page_order": 424,
+  "last_page_order": 424
+}

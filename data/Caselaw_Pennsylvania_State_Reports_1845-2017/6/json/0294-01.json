@@ -1,0 +1,110 @@
+{
+  "id": 954635,
+  "name": "Wolfinger v. Forsman",
+  "name_abbreviation": "Wolfinger v. Forsman",
+  "decision_date": "1847-07-27",
+  "docket_number": "",
+  "first_page": "294",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts & Serg. 162",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481790
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0162-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates, 512",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6776144
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0512-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 497",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0497-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 481",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 358,
+    "char_count": 5348,
+    "ocr_confidence": 0.399,
+    "pagerank": {
+      "raw": 6.492953784723809e-08,
+      "percentile": 0.3993796549528563
+    },
+    "sha256": "c8854de7ae941a9e016442824cb036d4a59d53c415b14bfc340c06e8b71138bb",
+    "simhash": "1:8b3bf32fc1c9f087",
+    "word_count": 951
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wolfinger v. Forsman."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, 0. J.\nIf the depositions in Irvin v. Read were rejected on both grounds taken by the counsel, as they are said in the report of the case to have been, the decision undoubtedly covered too much. The objections were not only that the witnesses had become the plaintiffs in the cause, but that they were neither dead, absent, nor unable to attend; and so not within the terms of the rule: but, as-is very truly said in Stark, on Ev. part 2, p. 262, the deposition of a witness may be read, not only where he is actually dead, but where he is dead for all the purposes of evidence; as where he is insane, attainted, unable to travel, not to be found, or out of the jurisdiction of the court; or when he cannot be examined orally by reason of present interest or' any incapacity whatever. The reason that the witnesses had become plaintiffs, may possibly be a better one, though the decisions certainly go no further than to say that a deposition taken en perpetuar.n rei memoriam, being merely a substitute for the testimony of the witness after his death, cannot consequently be used while he is a party. But if he is dead for the purpose of introducing a deposition taken on a rule, it is difficult to understand why he is not dead for the purpose of introducing a deposition taken more solemnly on a commission to perpetuate testimony. In Tilley\u2019s case, Ld. Raym. 1009, the judges of the Common Pleas, and of the King\u2019s Bench, held that such a deposition could not be read, the inheritance in contest having, in the mean time, descended to the person who was examined as a witness; and Lord Holt said it was inadmissible in the lifetime of the witness, much more so when he was himself the party. Such a case undoubtedly strikes the mind unfavourably at the first glance; but not more so than did a case which was tried before me on the circuit at Reading. A principal but insolvent obligor in a joint and several bond, having become the administrator of the obligee, brought an action against his surety and co-obligor; and though I instructed the jury that he was merely an instrument in the hands of the creditors, they refused to obey my direction to find for him, yet the legal consequence of a recovery would have been the same had any one else been the plaintiff. My brother Rogers was afterwards more successful. Now the effect of the testimony in Tilley\u2019s case would have been neither more nor less had the inheritance descended on any other person than the witness. The truth is, the rules of evidence were founded on very contracted notions of legal reason; but they are daily brought nearer to common sense, and they are daily losing the appearance of contrivances to shut out the light. That a deposition taken on a common rule may be read though the witness has become interested, is of ordinary occurrence on the principles of chancery practice, which, to a certain extent, was said, in Drum v. Simpson, 6 Binn. 481, to furnish the rule of evidence to our courts of common law. In accordance with, it, we admit mere trustees to testify; and there would be the same reason to allow a party to use his own testimony reduced to ' writing and sworn to, when he was disinterested. That, however, is not the point. In the case before us, the position, of the witness corresponded to all the requirements of the common rule. His deposition was taken, not merely to perpetuate his testimony at his death, but to supply the want of examination at the bar when it could not be had. He was not disqualified when he was examined, and he was not within the jurisdiction of the court; but even if he had been standing at the bar, his deposition ought to have been read.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Gibson, 0. J."
+      }
+    ],
+    "attorneys": [
+      "Porter and Hegins, for plaintiff in error,",
+      "Miller, contr\u00e1,"
+    ],
+    "corrections": "",
+    "head_matter": "Wolfinger v. Forsman.\nA son of the plaintiff having been examined under a commission, his testimony may be read at the trial after the death of the plaintiff. But in this case, the witness, after his interest accrued, had executed a release thereof to the other children of the plaintiff\nTestimony taken when the witness is disinterested may be read after the witness has become interested. Per Gibson, C. J.\nAn insolvent administrator may recover against his own sureties for the benefit of the creditors of the intestate.\nIn error from the Common Pleas of Northumberland'county.\nJuly 23. Assumpsit for money had and received, and on a promissory note. The deposition of the plaintiff\u2019s son had been taken under a commission to Ohio. Subsequently the plaintiff died, and his administrator was substituted. On the trial the substituted plaintiff offered the deposition, having first shown a release to the other children of the intestate of all the witness\u2019s interest in the estate administered to in Pennsylvania, and to the property which might be acquired in this suit. This was rejected by the court, Anthony, P. J.\nPorter and Hegins, for plaintiff in error,\ncited, Henry v. Morgan, 2 Binn. 497; Irvin v. Read, 4 Yeates, 512; Orphans\u2019 Court v. Woodburn, 7 Watts & Serg. 162.\nMiller, contr\u00e1,\ncited, Irvin v. Read, 4 Yeates, 512, to show that the deposition of a witness who became interested at the time of trial, and was in full life, was refused in evidence. He also cited to same point, 3 Bac. (Bouv. ed.) 563; Baker v. Lord Fairfax, 1 Strange, 101; Tilley\u2019s case, 1 Salk. 286.\nJuly 27.\nAnon., stated by Gibson, C. J."
+  },
+  "file_name": "0294-01",
+  "first_page_order": 294,
+  "last_page_order": 296
+}

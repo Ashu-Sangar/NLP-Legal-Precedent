@@ -1,0 +1,74 @@
+{
+  "id": 975839,
+  "name": "Shaw versus Irwin",
+  "name_abbreviation": "Shaw v. Irwin",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "347",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Penn. Rep. 461",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 4976,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.4691032179868402
+    },
+    "sha256": "68a5b6d8fb724c5fb5e6716144de27aa8f2a782e354f60b786d0dd3d8dcbc302",
+    "simhash": "1:562912b51a56f4fd",
+    "word_count": 888
+  },
+  "last_updated": "2024-02-27T20:23:55.550567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shaw versus Irwin."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, C. J.\nAfter some conflicting decisions, it was settled in equity that the costs of issuing and executing the commission, in partition, and of making out the title to the several parts of the estate, should be borne by the parties in the proportions in which they were respectively entitled to the estate: Calmady v. Calmady, 17 Ves. 555, note 1; Agar v. Fairfax, 17 Ves. 533. But no costs were given up to the hearing of the bill: Baring v. Nash, 1 Ves. & Bea. 554. For it was thought that one party ought not to bear any portion of the charges incurred, in respect to previous collateral questions raised by the other: Whaley v. Dawson, 2 Sch. & Lefr. 371. In accordance with this rule, it would seem to be clear, that where the bill was dismissed on the ground that the plaintiff had no interest in the estate, or no right to partition, he could have no claim upon the defendant for any portion of the costs. But whatever may be the rule in equity, it was settled in Stewart v. Baldwin, 1 Penn. Rep. 461, that where a defendant obtains a verdict in a writ of partition at law, on the plea of non tenent insimul, he cannot recover costs from the plaintiff. That is precisely the case before us now, and the only question is, does the Act of 11th April, 1835, apply to cases of this kind. That .Act declares that \u201cthe costs in partition shall be paid by all the parties in proportion to their several interests.\u201d Where the parties hold together, it is for their benefit to have their shares set out in severalty: 2 P. Wms. 377. It is, therefore, reasonable that each should bear a proportion of the expenses of partition. The Act of 1835 was designed to enforce this principle of equity, and to engraft it upon the action at law. But it applies only to cases where the parties have a common interest, and where that interest is set out in severalty by the partition. Where there is no interest in common to be divided, or where there is no partition awarded \u2014 where the plaintiff has no interest whatever, and the defendant is entitled to the whole estate in severalty, it would be unjust to compel the parties to pay the costs \u201cin proportion to their interests.\u201d Under that rule the party who owned the whole estate, and who was unjustly vexed by the false claim of one who had no interest whatever, would be bound to pay all the costs. If the Act of Assembly applies to the case at all, it makes him liable not only for his own costs, but for the costs of the party who unjustly annoyed him with a groundless suit. It is plain that the Act does not apply to the case of a verdict for the defendant, on a plea which denies that the parties hold the estate together and undivided. In such a case there is nothing to show the extent to which each is interested in the estate, and the law as it stood before the Act applies. By that law no costs are recoverable. This may seem unreasonable, but the-remedy is with the legislature. We cannot alter the law: 1 Penn. Rep. 461. If the statute of 4 James 1, ch. 3, was really enacted in the language in which it purports to be copied in the paper-book of the defendant in error, the propriety of the decision in Stewart v. Baldwin might be doubted. By omitting the words which expressly confine it to cases wherein the plaintiff or defendant might have costs, in case judgment should be given for him, the counsel represents it as having a general application in favour of defendants in all actions whatsoever, where the defendant nonsuits the plaintiff, or obtains a verdict against him. We do not suppose that any unfair practice was intended in omitting the material part of the statute. But counsel, for their own sakes, should be careful to guard against such unaccountable omissions. Others might not be as charitable in their constructions.\nJudgment reversed, and judgment entered here for the plaintiff in error non obstante veredicto, on the point reserved.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Deford, for plaintiffs in error.",
+      "Patterson, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Shaw versus Irwin.\nIn an action of partition, where a verdict and judgment are rendered for the defendants on the plea of non tenent insimul, they cannot recover their costs from the plaintiff.\nError, to the Common Pleas of Fayette county.\nThis was a scire facias sur recognisance. An action of partition was brought by Lewis Mitchell against M. W. Irwin and others \u2014 the defendants pleaded non tenent insimul. The plaintiff was ruled to enter security for costs, and Shaw, the defendant, entered into recognisance in the sum of one hundred dollars, as security for plaintiff. A verdict and judgment were entered in the partition in favour of the defendants. This suit was brought to l\u2019ecover plaintiff\u2019s costs. A verdict was rendered for the plaintiff, subject to the opinion of the Court, whether costs were recoverable in the cause. The Court below (Gilmore, P. J.) entered judgment for the plaintiff on the verdict.\nThis was assigned for error.\nDeford, for plaintiffs in error.\nPatterson, for defendant in error."
+  },
+  "file_name": "0347-01",
+  "first_page_order": 347,
+  "last_page_order": 348
+}

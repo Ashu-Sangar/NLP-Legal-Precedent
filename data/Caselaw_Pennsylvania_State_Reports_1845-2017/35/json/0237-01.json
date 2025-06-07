@@ -1,0 +1,91 @@
+{
+  "id": 990467,
+  "name": "Morley versus Coolbaugh",
+  "name_abbreviation": "Morley v. Coolbaugh",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "237",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 237"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "19 Johns. 381",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380569
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/19/0381-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 654",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0654-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 276,
+    "char_count": 4361,
+    "ocr_confidence": 0.434,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03458406262295601
+    },
+    "sha256": "d786043f07a8078d478c8f3e1a8fabf16340431f26c9658199def72a698387ec",
+    "simhash": "1:9b83919ab214b3f7",
+    "word_count": 761
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morley versus Coolbaugh."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nRead, J.\nIn this case there was an affray, in which a father, mother, and daughter were engaged on one side, and a father and minor son on the other, in the course of which the plaintiff Ada-line B. Morley, the daughter, was very severely injured. Upon the close of the plaintiff\u2019s testimony, at the request of the counsel for the defendant, the court directed a verdict in favour of Ranson W. Coolbaugh the father, and he was examined as a witness for his son, the other co-defendant. 'To this action of the court, the counsel for the plaintiff excepted, and the question is, whether, upon the evidence, this was a proper exercise of judicial discretion, which should be \u201c regulated, not merely by the fact that at the close of the plaintiff\u2019s case no evidence appears to affect him, but by the probabilities whether any such will arise before the whole evidence in the cause closes.\u201d\nThis fight, in which all these persons were engaged, had its origin in an old dispute about a right of way, in which, of course, all the members of both families felt an interest, and the father and son were so intermingled, that it was impossible for a court to say that there was no evidence upon which a jury could not have found them jointly guilty. The court, therefore, erred in directing, a verdict of acquittal.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "Watkins Biwell, for the plaintiff in error.",
+      "Mercur, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Morley versus Coolbaugh.\nIn an action against two persons, as joint trespassers, it is error to direct a verdict in favour of one of the defendants, upon the close of the plaintiff\u2019s .testimony, in order that he may be examined as a witness for his co-defendant, unless there be no evidence that appears to affect him, and no probability that any such will arise before the whole evidence in the cause is closed.\nError to the Common Pleas of Bradford county.\nThis was an action of trespass by Adaline B. Morley, by her next friend, Nelson P. Bosworth, against Ranson W. Coolbaugh and George Coolbaugh, to recover damages for an assault and battery.\nOn the 4th July 1857, as William Morley (the plaintiff\u2019s father) was returning home with his wife and children, they were overtaken by Ranson W. Coolbaugh and George Coolbaugh, his son, at a gate on the land of the elder defendant, across which a right of way claimed by William Morley was in dispute; and were violently assaulted by the defendants; Ranson W. Coolbaugh striking and choking William Morley, and his son throwing stones, by means of which the plaintiff was severely injured.\nAfter the plaintiff had closed her testimony, the court below, on application of the defendants\u2019 counsel, instructed the jury that there was no evidence showing any concert on the part of Ranson W. Coolbaugh in the commission of the trespass complained of in this suit, and directed them to return a verdict in his favour. To this instruction the plaintiff excepted.\nA verdict having been rendered in favour of Ranson W. Coolbaugh, he was examined as a witness in favour of his son George Coolbaugh, against whom the jury returned a verdict for \u00a7\u00a150 damages; and judgment having been entered on the verdict, the plaintiff sued out this writ, and here assigned for error, that the court erred in directing a verdict in favour of R\u00e1nson W. Cool-\nWatkins Biwell, for the plaintiff in error.\nIf there is a spark of evidence of a fact, it should be submitted to the jury: Fitzwater v. Stout, 4 Harris 22. And here there was abundant evidence that the defendants acted in concert in the trespass complained of.\nMercur, for the defendant in error.\nProof of separate acts not committed with a common design, or for a common purpose, and without concert, will not authorize a joint recovery: Bard v. Yohn, 2 Casey 489. When persons do separate acts, although tending to produce injury to another, without concert, there is no joint liability: Williams v. Sheldon, 10 Wend. 654.\nCoolbaugh and his son George neither acted in concert in throwing stones at Adaline, nor did anything done by Mr. Coolbaugh naturally and ordinarily cause the injury to Adaline\u2019s tooth. But to render one man liable in trespass for the acts of others, it must appear either that they acted in concert, or that the act of the individual sought to be charged, 'ordinarily and naturally produced the acts of the others: 19 Johns. 381; Bard v. Yohn, 2 Casey 482."
+  },
+  "file_name": "0237-01",
+  "first_page_order": 237,
+  "last_page_order": 238
+}

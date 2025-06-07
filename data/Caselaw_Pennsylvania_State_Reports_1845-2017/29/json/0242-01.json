@@ -1,0 +1,98 @@
+{
+  "id": 982788,
+  "name": "Loomis versus Lane",
+  "name_abbreviation": "Loomis v. Lane",
+  "decision_date": "1857-11-05",
+  "docket_number": "",
+  "first_page": "242",
+  "last_page": "247",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Pa. 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Dall. 250",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 201",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856435
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0201-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 70",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787948
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0070-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 603,
+    "char_count": 12918,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 1.7971055877375245e-07,
+      "percentile": 0.715825903363478
+    },
+    "sha256": "d1340d3dc48305798f8a3fec2856f42a3fd3206f4c6577c20d95e5ac8ed84a2d",
+    "simhash": "1:32e379645060840b",
+    "word_count": 2338
+  },
+  "last_updated": "2024-02-27T18:23:46.660145+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Loomis versus Lane."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Lewis, C. J.\nThis is an action of trespass for levying on and selling the goods of the assignee under an execution improperly issued against the assignor. The plaintiff below established his title under the assignment, and then gave evidence that Guy Loomis entered up a judgment against R. H. Hodge, by virtue of a warrant of attorney annexed to a bond, and issued a fi. fa. to levy an instalment mentioned in the condition, three days before the said instalment was due by the terms of the said contract. It was also shown that the goods of the assignee had been seized and sold under this execution, thus prematurely issued, and that after the sale, the Court of Common Pleas, on a full hearing of the parties, ordered the execution to be set aside. That decision was afterwards affirmed on error by this court. There is no separate defence raised in behalf of the sheriff. He therefore stands or falls with the plaintiff in the execution; and the question below was whether the latter, after the wrrit had been set aside by the court, would be permitted to re-examine the justice of that decision, and for that purpose to give evidence that the credit had been obtained for the periods named in the condition of the bond by the false representations of Hodge respecting his solvency.\nEvery court having jurisdiction to hear and determine civil causes, must necessarily have control over its process of execution. The existence of this power is absolutely necessary in order to prevent the abuse of the process and the oppression of suitors, and carries with it, as an indispensable incident of the jurisdiction, the right to determine every question of fact and law which may be involved. This determination is regularly made in a summary manner, without the intervention of a jury. After final judgment the parties have no further day in court for pleading and. for jury trials. If they had there would be no end to litigation, and an execution, instead of being the end of the judicial proceeding, would be but the beginning of a new controversy.\nIt is true that the court on a motion to set aside an execution may direct an issue to ascertain facts, but this is for its own satisfaction. The parties have no right to demand it. If the' Court of Common Pleas had jurisdiction to determine the motion to set aside the execution, on the ground that it issued contrary to the express terms of the instrument which authorized the judgment, it follows that its decision is conclusive, and cannot be re-examined in a collateral proceeding. If erroneous, and the error be one which may be examined in the Supreme Court, the remedy is by writ of error. If the alleged error be one which is not the subject of review on a writ of error or appeal, it is then without remedy, and must not be regarded as an error at all, because it is the final decision of the only tribunal competent to give a conclusive judgment on the question.\nThe court having cognisance of the judgment was the proper tribunal to enforce it by execution, and to set aside executions improperly issued without authority. Its decision on the question of fraud in obtaining the credit may not conclude that question, should it fairly arise in any other controversy. But here the fraud is offered for the purpose of impeaching the decision on the execution, and it was properly rejected, because that decision cannot be thus impeached.\nThe. court was right in giving the instructions complained of in the other assignments of error.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "by Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Thompson and Marshall, for plaintiffs in error.",
+      "Lane and Walher, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Loomis versus Lane.\nEvery court having jurisdiction to hear and determine civil causes, has control over its process of execution in a summary manner, and without the intervention of a jury.\nUpon a motion to set aside an execution a court may direct an issue to ascertain facts, hut this is for its own satisfaction, the parties have no right to demand it.\nWhere a court has jurisdiction to determine a motion and set aside an execution its decision is final, and cannot he re-examined in a collateral proceeding. The remedy is by writ of error, or appeal.\nIf an alleged error is one which is not the subject of review on a writ of error or appeal, it is then without remedy, and must be regarded as no error.\nError to the Common Pleas of Erie county.\nThis was an action of trespass by William S. Lane, assignee of R. H. Hodge, against Thomas B. Vincent and Guy Loomis. Loomis, prior to December, 1853, had been engaged in the business of a jeweller, at the city of Erie, and had on hand a valuable stock of jewelry, watches, &c. About that time Hodge, who had previously resided in the state of New York, .came to Erie, and entered into negotiations with Loomis for the purchase of his stock. The bargain was finally closed on the 12th December, 1853, at $5525.82, $2000 of which were to be paid in hand, and. the balance in three equal payments, at six, nine, and twelve months. The hand-money was paid, and to secure Loomis for the balance, Hodge gave him a judgment-bond in the penalty of $5000, conditioned to pay as before stated. The payment falling due at the end of six months, was met by Hodge. On the 9th day of September, 1854, Hodge made a voluntary assignment for the benefit of his creditors to William S. Lane, Esq., who accepted the trust, and took possession of the store. Loomis on the same day entered up his judgment, and issued a fi.fa. upon it, and under it the jewelry and watches were seized and sold by the sheriff for the sum of $3166.30. The Court of Common Pleas set aside this j^. fa., because it had issued before the second instalment was due; and this ruling was affirmed by the Supreme Court.\nThis action of trespass was then brought against the plaintiff in that writ, and the sheriff, by the assignee to recover the value of the goods taken and sold, they having been previously vested in him under the voluntary assignment.\nOn the trial, in the court below, the defendant, for the purpose of showing that the fi. fa. had been properly sued out on account of fraud practised by Hodge in the purchase of the goods, offered to prove \u201c that Hodge, the assignor, obtained the goods on credit of six, nine, and twelve months from the defendant, by representing that he had of his own money, and ready to pay down, two thousand dollars; that he had money coming from the East to a large amount, and would add to the stock, and this with the positive assurance that he did not owe anything more than one hundred dollars to anybody at the time, induced the defendant to sell on credit; and offer further to prove that he had no money of his own to pay the hand-money, but borrowed the same in Erie to make the payment. That afterwards he paid to Loomis $1178. That he privately sent off, or delivered to his brother, a large amount of jewelry, who carried the same away, and that he then represented that he had been indebted some $800 to his brother before he bought of Loomis. That three days before the instalment fell due in September, 1854, to wit, on the 9th day of September, 1854, while there were no debts in Erie pressing, no judgment against him for any sum whatever, no creditors claiming money from him, he made an assignment for the benefit of creditors to the plaintiff in this case, declaring at the same time that Loomis \u201c should not get the advantage of him.\u201d That he followed the business of a jeweller from the date of his purchase, the 12th of December, 1853, up to the sale, the 9th of September, 1854, and that the same was a profitable business, and that he met with no known loss while so engaged in the business. This is in substance what we will prove, for the purpose of showing the fraudulent intent of the assignor.\nThis was offered to show that the assignment was fraudulent and void.\nThis offer was rejected by the court, and at defendant\u2019s instance a bill of exceptions was sealed.\nDefendant\u2019s points. \u2014 First. The court is requested to charge the jury that the plaintiff is not entitled to recover, because the plaintiff has not shown that there were any creditors at any time for whose benefit said assignment was made, and it is incompetent for Hodge to tie up his property by assignment, particularly as it is shown that Loomis was a creditor at the time of the assignment, and is so yet; that there being no other creditor the assignment was calculated, and did delay, hinder, and defraud said Loomis.\nSecond. The assignee of a debtor who has no creditor but the one who disputes his assignment, has no right to retain the goods of the assignor as against said creditor, he having no title whatever.\nThird. There being no creditor but Loomis, the defendant, the jury may infer from the evidence, and the evidence of H. P. Stockton, that the assignment was intended to delay, hinder, and defraud the creditor, Loomis.\nAnswer of the court to defendant\u2019s points: \u2014 \u201c 1st. It was not necessary for the plaintiff to show, as a matter of evidence, that there were creditors of Hodges, for the purpose of a recovery, provided he has satisfied the jury that an assignment was made to him for the benefit of creditors. If this was done, and the defendant, claiming to be a creditor of the assignor, issued a fi. fa. on the judgment he had against him, before the money was due, and levied upon and sold the goods assigned, he was a trespasser, and therefore answerable in damages to the amount of the real injury sustained. This point is consequently answered in the negative.\n\u201c 2d. So far as the facts in evidence in the present case are concerned, this point is answered in the negative.\n\u201c 3d. From the evidence in the case, by which the jury is to be governed, there is nothing to justify them in finding there was such fraud as would vitiate the assignment, and render it void.\u201d\nThe jury found for the plaintiff $3795, and judgment was entered thereon. The defendant sued out this writ, and assigned the following errors:\u2014\n1. The court erred in rejecting the evidence offered in the bill of exceptions.\n2. The court erred in their answer to defendant\u2019s first point.\nThompson and Marshall, for plaintiffs in error.\nThe offer was to show that the credit was obtained by fraud and misrepresentation, and that the agreement for credit was not binding, and the debt in fact due. The penalty was then due at the time it was signed. It was a hostage for the performance of the condition, if the stipulation is not executed in good faith: Holdship v. Judson, 16 S. & R. 307; Canal Com. v. Sansom, 1 Binn. 70. The stipulation for the stay was procured by fraud of the party for whose benefit it was made, and being so, it was not binding on the other party, and the money was collectable at once: Grishober v. McCullough, 4 W. & S. 201; 4 Dall. 250. No sci. fa. was necessary, it not being within the stat. 8 & 9 Wm. c. 11: Skidmore v. Bradford, 4 Barr 296; Reynolds v. Lowry, 6 Id. 465; Bank of Chester v. Ralston, 7 Id. 482.\nThis question was not tried, and decided in the setting aside of the execution. The court could not try that question in a summary way. It involved questions of fact, to be tried and determined by a jury: 4 Phil. Ev., Cowen & Hill\u2019s Notes, pp. 12, 151; 14 S. & R. 184.\nOur next assignment raises the question of whether a voluntary assignment can be made when there is but one creditor, as here. \"We think it cannot, and that it then shows it is to hinder and delay such creditor.\nLane and Walher, for defendant in error.\nIn a bond like the present one, the penalty is never collectable, and in that sense is never due. The case of Holdship v. Judson, 16 S. & R. 307, has no application. There the bond was in a penal sum, conditioned not to pay money, but that one of the_ obligors should surrender himself to prison. The other case in 1 Binn. 70, is also inapplicable. It was not a case of stay of execution, but an agreement that the money should not be due until the times designated. If there was fraud in the contract, Loomis might have disaffirmed it. But he must do so entirely. He could not hold to the money paid under the contract, collect the balance, and yet disaffirm the restrictions it imposed upon him.\nBut we further contend that Loomis has had his day in court. Soon after execution was issued,, a rule was taken upon Loomis to show cause why the execution he issued should not be set aside \u25a0 \u2014 upon that rule testimony was taken. The facts and the law were fully argued in court. The rule was made absolute: Loomis removed it to this court, and upon the 22d of October, 1856, the judgment of the court below is affirmed by this court.\nNovember 5, 1857,\nNow it will not do for Loomis to say that he has not had a trial by a jury upon this point. If he has not, the fault was his own. He could have asked for an issue and demanded a trial by jury. He did not ask it. He confided in the judges below. Their judgment was against him, and he must abide the result."
+  },
+  "file_name": "0242-01",
+  "first_page_order": 242,
+  "last_page_order": 247
+}

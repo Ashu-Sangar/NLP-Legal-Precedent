@@ -1,0 +1,169 @@
+{
+  "id": 990495,
+  "name": "Dundas versus Muhlenberg's Executors",
+  "name_abbreviation": "Dundas v. Muhlenberg's Executors",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "351",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 351"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "19 Johns, 382",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wend. 40",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Mass. 341",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002154
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0264-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 225",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Gray 349",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2077074
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/69/0349-01"
+      ]
+    },
+    {
+      "cite": "2 Met. 353",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        2041106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/43/0353-01"
+      ]
+    },
+    {
+      "cite": "23 Verm. 663",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        4424542
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/23/0663-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 535",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 364",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0364-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. 653",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2004069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0572-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 468,
+    "char_count": 7824,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 2.1958608638283132e-07,
+      "percentile": 0.7745719924211798
+    },
+    "sha256": "9e6c7ffb401d6e193f8ce2cb1241b95fa5a12268c23e41dd9cfcf7a91a1b7108",
+    "simhash": "1:e8f9380acfe232e8",
+    "word_count": 1412
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dundas versus Muhlenberg\u2019s Executors."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThough Bittinger might have been himself sued for this coal, yet we know -of no principle that excludes him from being a witness for the plaintiff, to establish the claim against those who participated in the injurious act; and there are authorities enough in favour of his competence: 1 Harris 146, 408; 1 Greenl. Ev., \u00a7409.\nThe charge of the court was in substance that, in order to entitle the plaintiff to recover against the defendants, it must appear, not only that they were landlords of Bittinger, who took out the coal, but also that they participated in the act of going into the plaintiffs\u2019 land to get it. We think this instruction is quite accurate, and is sustained by most familiar authorities. We think there is evidence that the defendants leased to Bittinger this particular vein of coal, authorized the sinking of the slope by which it was reached, and contributed to its expense, believing that it would, not extend beyond their own line, which was not so far out as they supposed; and that by means of this slope, Bittinger took out the coal sued for, and that he has paid for the greater part of it to the defendants as his landlords. Such being the facts found by the jury, the defendants are trespassers with Bittinger; 2 Casey 489: and, the tort being waived, may be sued in assumpsit for the value of the coal taken. This view of the case makes all other points raised immaterial.\n\u2022 Judgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Bannan, for the plaintiff in error.",
+      "P. W. Hughes and B. B. Green, for the defendants in error.\u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Dundas versus Muhlenberg\u2019s Executors.\nA co-trespasser, not joined as a defendant, is a competent witness for the plaintiff, to establish the trespass, in an action for money had and received, in which the tort is waived.\nThe lessors of a coal vein are liable as co-trespassers for the act of their tenant, in mining coal in the land of an adjoining owner; they having leased the particular vein of coal, authorized the sinking of the slope by which it was reached, and contributed to its expense, believing that it would not extend beyond their own line; and the tenant having by means of this slope taken out coal from the adjoining property, and paid for the greater part of it to his lessors, a certain rent for each ton of coal mined by him.\nIn such case, the plaintiffs may waive the tort, and sustain an action for the value of the coal, as so much money had and received to their use.\nError to tbe Common Pleas of Schuylkill county.\nThis was an action of assumpsit by Anthony F. Miller, Benjamin Tyson, Andrew M. Sallade, H. H. Muhlenberg, and G. A. Nicolls, executors of Henry A. Muhlenberg, deceased, against James Dundas and George M. Stroud, for the value of a quantity of coal taken by John Bittinger, the defendants\u2019 lessee, from the land of the plaintiffs. The defendant, Stroud, was not served with process.\nThe defendants, Dundas and Stroud, were the owners of a tract of coal land, which they held as tenants in common, adjoining a tract owned by the plaintiffs. One Geiss had started a slope on the defendants\u2019 land, which he sold to Dundas and John Bittinger for $500. Bittinger then leased the coal vein from the defendants, at a certain rate for each ton of coal mined, and continued the slope, the defendants agreeing to pay $500 towards the expense of putting down the slope, which amount was to be deducted from the rents.\nBittinger sunk the slope 146 feet, and mined upwards of 5000 tons of coal, when he ceased working, being then indebted to the defendants in the sum of $261.01 for rent. And by a subsequent-survey, it was discovered, that a large quantity of the coal mined by Bittinger had been taken from the plaintiffs\u2019 land; and for the value of the coal so taken this action was brought.\nOn the trial, the plaintiffs offered Bittinger as a witness, who was objected to by the defendant as incompetent, being interested, as was alleged, in casting the responsibility of his own acts upon his landlords. The court below overruled the objection, admitted the witness, and the defendant excepted.\nThe defendant\u2019s counsel presented certain points in writing upon which he requested the court to charge the jury, the 1st and 2d of which were as follows :\u2014\n1. In order to recover in this action, the plaintiffs are bound to show a joint liability on the part of the defendants; and that is not shown by proof that they are tenants in common of the coal vein leased to John Bittinger.\n2. The defendants are not liable for the unauthorized acts of their tenant; and if the defendants leased the coal vein to the extent of the boundaries of their own land, the tenant had no right to extend his works into the land of the plaintiffs; and if he did so extend them, he only is liable, unless they knew that they were so extended and sanctioned it; and there is no evidence that they knew anything about the extension of Bittinger\u2019s works into the land of the plaintiffs.\n.The court below (Hegihs, P. J.) answered the 1st point in the affirmative; and in answer to the 2d, instructed the jury, that if they believed from the evidence, that the defendant and Judge Stroud leased the vein of coal to Bittinger, and authorized him to sink a slope upon what they believed to be their own land, and to mine coal from the vein through the slope, and the tenant, under such lease and authority, sunk part of the slope on the land of the plaintiffs, and mined coal therefrom, and paid the rent to his landlords, the plaintiffs would be entitled to recover from the defendant in this action, the value of the coal taken from the land by the tenant..\nTo this instruction the defendant excepted; and a verdict and judgment having been rendered for the plaintiffs for $1098.45, the defendant, Dundas, sued out this writ, and here assigned for error : 1. The admission of Bittinger as a witness. 2. The charge of the court below, in answer to the 2d point presented by the defendant on the trial.\nBannan, for the plaintiff in error.\nBittinger was not a competent witness for the plaintiffs below; for by the recovery against the defendants, the tort is merged in the judgment, and would be a bar to another action for the same cause against the witness : King v. Hoare, 13 M. & W. 504; Broome v. Wooton, Yelv. 67; s. c., Cro. Jac. 73, and Moore 762; Downey v. Farmers\u2019 and Mechanics\u2019 Bank of Greencastle, 13 S. & R. 288; Emerton v. Andrews, 4 Mass. 653; Rhodes v. Lent, 3 Watts 364; Keymborg v. Burbridge, 1 Jones 535; Christy v. Smith, 23 Verm. 663; Hodson v. Marshall, 7 Car. P. 16.\nThe authorities are clear in denying the liability of the landlord for a wrong committed by the tenant to a third person: Offerman v. Starr, 2 Barr 394; Earle v. Hall, 2 Met. 353; Hilliard v. Richardson, 3 Gray 349; Blake v. Ferris, 1 Seld. 48; Quarman v. Burnett, 6 M. & W. 499.\nP. W. Hughes and B. B. Green, for the defendants in error.\u2014\nA joint trespasser has always been held to be a competent witness for the opposite party: Bowen v. Burk, 1 Harris 146 ; Kennedy v. Philip v. Id. 408; 1 Greenl. Ev., \u00a7 409; 1 Starkie\u2019s Ev. 131, 222; 7 Wend. 225; 11 Eng. Com. L. 257; 17 Id. 466.\nThe plaintiffs do not claim to recover because the relation of landlord and tenant existed between Bittinger and the defendants, but because they so far participated in his acts as to make them equally liable with him. In trespass, the intent of the wrongdoer is immaterial, and therefore ignorance that the act in question was a trespass on the lands of another, cannot be set up to prevent a recovery: 1 Chit. Pl. 129, 166, 171; 1 Campb. 497; 2 Id. 575; 5 Mass. 341; 11 Id. 500; 2 Greenl. Ev., \u00a7 622. If the defendants. participated in Bittinger\u2019s wrongful acts, they are liable to the plaintiffs: Wall v. Osborn, 12 Wend. 40; Bard v. Yohn, 2 Casey 489 ; 19 Johns, 382; 2 Greenl. Ev., \u00a7 621; Flewster v. Royal, 1 Campb. 187; Stonehouse v. Elliott, 6 T. R. 315."
+  },
+  "file_name": "0351-01",
+  "first_page_order": 351,
+  "last_page_order": 353
+}

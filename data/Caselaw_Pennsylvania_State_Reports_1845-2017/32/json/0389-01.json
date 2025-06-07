@@ -1,0 +1,85 @@
+{
+  "id": 986617,
+  "name": "Commonwealth versus Nancrede",
+  "name_abbreviation": "Commonwealth v. Nancrede",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "389",
+  "last_page": "390",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 Pa. 389"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Pet. 536",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 101",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0101-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 217,
+    "char_count": 2651,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 7.722518724265938e-07,
+      "percentile": 0.971696805489432
+    },
+    "sha256": "fa5882e86bac3c20c94c4fadceac84f9cccd9d112d8a74facca7866ea23c9d23",
+    "simhash": "1:4d7eb0ff20cc96a9",
+    "word_count": 470
+  },
+  "last_updated": "2024-02-27T20:05:07.474243+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth versus Nancrede."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J. \u2014\nWe question whether the Roman law on the subject of adoption can furnish us any valuable analogies, to aid us in the interpretation of our law of 4th May 1855; for the civil and religious distinctions between different gentes, and between populus and plebs, had much to do with the form of their law of adoption.\nBut we do not think it necessary to discuss this question; for we cannot suppose that our law of adoption was intended to change in any respect the law relating to collateral inheritance taxes. It is property devised or descending to children and lineal descendants that is exempt from the tax. If the heirs or devisees are so .in fact, they are exempt; all others are subject to the tax. Giving an adopted son a right to inherit, does not make him a son in fact. And he is so regarded in law, only to give the right to inhei\u00fat, and not to change the collateral inheritance tax law. As against that law, he has no higher merit than collateral blood relations of the deceased, and is not at all to be regarded as a son in fact.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "T. Dunlap, for the plaintiff in error,",
+      "H. M. Phillips, for the Commonwealth,"
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth versus Nancrede.\nThe Act of 4th May 1855, giving an adopted child a right to inherit, does not exempt him from the payment of the collateral inheritance tax.\nCertificate from the Court of Nisi Prius.\nThis was an amicable action of debt brought by The Commonwealth of Pennsylvania against Samuel J. Gr. Nancrede, executor and sole devisee of Joseph Gr. Nancrede, deceased, to recover the sum of $1710.62, the amount of the collateral inheritance tax on the property devised and bequeathed to the defendant by his testator.\nJoseph Gr. Nancrede died without wife or lineal descendant, and by his will devised and bequeathed all his estate to the defendant, whom he had adopted under the provisions of the Act of 4th May 1855; Brightly's Purd. 1111.\nThe parties agreed upon a case stated, wherein it was provided that if the court should be of opinion that the property devised and bequeathed to the defendant was liable to the collateral inheritance tax, then judgment to be entered for the plaintiff for $1710.62; otherwise for the defendant.\nThe court below gave judgment for the plaintiff\u2019 on the case stated, which was here assigned for error.\nT. Dunlap, for the plaintiff in error,\ncited Act 4th May 1855; Just. Inst., lib. 1, tit. 11; Code Givil, lib. 1, tit. 8, \u00a7 345-7.\nH. M. Phillips, for the Commonwealth,\ncited Monongahela Navigation Co. v. Coons, 6 W. & S. 101; Susquehanna Canal Co. v. Wright, 9 Id. 9; Charles River Bridge v. Warren Bridge Co., 11 Pet. 536; Stourbridge Canal v. Wheeley Canal, 2 B. & Ad. 793."
+  },
+  "file_name": "0389-01",
+  "first_page_order": 389,
+  "last_page_order": 390
+}

@@ -1,0 +1,156 @@
+{
+  "id": 985058,
+  "name": "Hauck versus Stauffer's Executor",
+  "name_abbreviation": "Hauck v. Stauffer's Executor",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "235",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 235"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Mass. 199",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass. 58",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000787
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0048-01"
+      ]
+    },
+    {
+      "cite": "5 Rawle 137",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824633
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0137-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 185",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820587
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0185-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 377",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819350
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0377-01"
+      ]
+    },
+    {
+      "cite": "1 Wh. 66",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829021
+      ],
+      "pin_cites": [
+        {
+          "page": "71"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0066-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 347",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12146840,
+        1408593,
+        1408525,
+        12146791
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0347-02",
+        "/us/1/0364-01",
+        "/us/1/0363-01",
+        "/dall/1/0347-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 436,
+    "char_count": 6316,
+    "ocr_confidence": 0.457,
+    "pagerank": {
+      "raw": 8.432769710799164e-08,
+      "percentile": 0.48438924431501607
+    },
+    "sha256": "66582512809b296bd3e557f141c4b35e14f35dfa6de18c086a826a75e04dced7",
+    "simhash": "1:36c14405de4e7039",
+    "word_count": 1113
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hauck versus Stauffer\u2019s Executor."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nWe have shown, as well as we could do, in Dickinson v. Callahan\u2019s Administrators, 19 State Rep. 227, and in other cases, 22 Id. 512, 23 Id. 316, 27 Id. 257, that the executors of a decedent are bound to complete his contracts, only when it appears from the nature of the transaction, that such must have been the intention of the parties; and when we shall have learned, how essentially different our office of executor and administrator is, from the same office in England, we shall know how apt we have been, to be misled by English decisions on this subject. Nothing can be plainer, than that Stauffer did not intend to bind his executor by this contract of letting, and therefore it was improperly received in evidence under this declaration.\nBut even the old English common law of executors, had no application to such a ease as this, and is sure to mislead if it is followed; for it was not a function of executors to take charge of the real estate of the testator; that function was performed by them only as testamentary trustees. The office of executors exists for the settlement of an estate; and it was not for this purpose that Shreiner\u2019s executors were to take charge of his real estate, but as trustees to manage it for the benefit of devisees. They are trustees to let it; and, by our law, this is a life estate for that purpose, subject to removal for good causes. A trustee, substituted by order of the court, would have the same estate; and such a thing was not known at common law.\nNow, when death dismissed Stauffer from the trust, and deprived him of his estate, it dismissed him from the duties of the trust, and from all capacity to lease the estate, or in any way control its use. Such is the requirement of the law, and therefore it cannot punish his estate for not doing what it would not allow his executor to do. If he had broken the contract himself, he would be personally liable, and his estate would answer for it.\nExecutors and administrators being truly officers of the law for settling up decedent\u2019s estates, their contracts must be interpreted with reference to their powers and functions, and hence we can never imply that they are warranting the title of any portion of the estate which is at their disposition: 27 State Rep. 134. It is usually supposed that the doctrine of caveat emptor applies, as well to leases as to sales of real estate, and certainly it does apply to leases by executors under our law, so far as to warn the lessee that the estate of the executors is only a life estate, and that he must take the risk that belongs to the estate, unless he stipulates for an express personal warranty. A lease by a trustee may very well bind his successor in the trust; but, as a mere lease or contract to lease, it does not bind his executor.\nJudgment reversed and a new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "Ellmaker, for the plaintiff in error,",
+      "B. Gf. Hshleman and I. H. Hiester, for the defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Hauck versus Stauffer\u2019s Executor.\nAn executor who, under a power in the will of his testator, enters into a contract to lease the real estate for a term of years, and dies without having executed the lease or given possession of the premises, does not render his own estate liable for the breach of such a contract, and no action therefor can be maintained against his representatives.\nError to the Common Pleas of Lancaster county.\nThis was an action of covenant by George Hauck against Daniel Rohref, acting executor of Jacob Stauffer, deceased, to recover damages for the breach of a covenant to lease certain lands in Manheim township, to the plaintiff.\nMartin Shreiner, deceased, by his will, dated the 30th December 1853, appointed Daniel S. Grosh and Jacob Stauffer his executors, and directed them to let and demise his plantation in Manheim township, during the lifetime of his daughter Sophia, and to appropriate the net proceeds as mentioned in his will.\nOn the 1st February 1856, Jacob Stauffer exposed the premises to rent, by public outcry, under conditions signed and sealed by himself only, wherein he described himself as one of the executors of Martin Shreiner, deceased; and covenanted to rent the premises to the highest bidder, for the term of one year from the 1st April following, the rent to be payable at the end of the term, to him, his executors or administrators.\nAt this vendue, the premises were struck down to George Hauck, the plaintiff, at the yearly rent of $612.50; and he complied in all respects with the conditions of renting.\nOn the 16th February 1856, Jacob Stauffer died, without having executed a lease of the premises; and Daniel Rohrer became his acting executor. The plaintiff, on the 1st April following, demanded possession of the premises, which being refused by the surviving executor of Martin Shreiner, he brought this action to recover damages for the breach of Stauffer\u2019s implied covenant, to put him in possession of the premises at the commencement of his term.\nThe court below (Hayes, J.) charged the jury, in answer to points presented by the plaintiff and defendant, that, on the death of an executor, who has entered into a contract for the benefit of the estate, if that contract be broken, the remedy is against his personal representative; and that the failure to give the lessee possession of the demised premises, gave him an action against the lessor, or his personal representative.\nTo this charge the defendant excepted; and the jury having rendered a verdict for the plaintiff for $109.83, and. judgment having been entered thereon, the defendant removed the cause to this court, and here assigned such charge for error.\nEllmaker, for the plaintiff in error,\ncited Act 15th March 1832, \u00a7 19, Brightly\u2019s Purd. 189, pl. 15; Bland\u2019s Administrator v. Umstead, 11 Harris 316; Shontz v. Brown, 3 Casey 123, 134; Carr v. Lowry\u2019s Administratrix, Id. 257.\nB. Gf. Hshleman and I. H. Hiester, for the defendant in error,\ncited Woodfall\u2019s L. & T. 243; Geyer v. Smith, 1 Dall. 347; Grier v. Huston, 8 S. & R. 402; Fritz v. Thomas, 1 Wh. 66, 71; Seitzinger v. Weaver, 1 Rawle 377; Strohecker v. Grant, 16 S. & R. 237; Morrow v. Brenizer, 2 Rawle 185; Seip v. Drach, 2 Harris 352, 356; Masterson v. Masterson, 5 Rawle 137; Rose v. Bowler, 1 H. Black. 108; Child v. Monins, 2 Brod. & Bingh. 460; Forster v. Fuller, 6 Mass. 58; Sumner\u2019s Administrator v. Williams, 8 Mass. 199."
+  },
+  "file_name": "0235-01",
+  "first_page_order": 235,
+  "last_page_order": 238
+}

@@ -1,0 +1,215 @@
+{
+  "id": 415561,
+  "name": "Goldey versus The Pennsylvania Railroad Company",
+  "name_abbreviation": "Goldey v. Pennsylvania Railroad",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "242",
+  "last_page": "246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Wend. 629",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015714
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0629-01"
+      ]
+    },
+    {
+      "cite": "14 How. 486",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 How. 469",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3483619
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/57/0469-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 500",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Rawle 179",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824596
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "189"
+        },
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0179-01"
+      ]
+    },
+    {
+      "cite": "2 Wh. 340",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830605
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0340-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 490",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rawle 294",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 285",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480118
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0285-01"
+      ]
+    },
+    {
+      "cite": "6 Pet. 51",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        1439669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/31/0051-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 376",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Mass. 403",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2072960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/14/0344-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 258",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 238",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Paige 650",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        11282857
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/11/0650-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 700,
+    "char_count": 12672,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 1.92510409396533e-07,
+      "percentile": 0.7335051194104367
+    },
+    "sha256": "cce3049076b1d195f1f362aaeb6fa5f15c9b13b05a37c80582dc0a9518bcfb06",
+    "simhash": "1:8a1e5768680c25fc",
+    "word_count": 2195
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Goldey versus The Pennsylvania Railroad Company."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\n\u2014 We are under no necessity of deciding whether or not a railroad company, in the exclusive enjoyment of a public franchise of highway, can make any contract limiting its common law liability as.common carriers; for this cause is governed by other principles, which, without any repetition of the facts, we may state in a few propositions.\n1. A contract limiting their liability as carriers, does not relieve them from ordinary care in the performance of their duty; and the most that it can do is to relieve them from those conclusive presumptions of negligence which arise when the accident is not inevitable, even by the highest care, and to require that, negligence be actually proved against them.\n2. They cannot excuse themselves, as for an inevitable accident, by showing that the cars were thrown off the track by accidentally running over a man; if it also appear that the man was a drover, attending to cattle on the train, and fell off because no proper place was provided for such attendants, and he was compelled to stand on the bumpers. Even if he fell by his own carelessness, this does not excuse them for putting him in a position where his carelessness produces such serious consequences to others.\n3. It follows, from these principles, that the parol evidence admitted in explanation of the written contract, did no harm to the defendants, because it proved only the legal effect of the contract ; and for the same reason the agent\u2019s authority to make the explanations was immaterial.\nWe do not discover that there was any error in the trial of which the defendants can complain.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "P. P. Morris, for the defendants.",
+      "Read, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Goldey versus The Pennsylvania Railroad Company.\nA contract by a railroad company limiting their liability as carriers, does not relieve them from ordinary care in. the performance of_ their duty; the most that it can do is to relieve them from those conclusive presumptions of negligence, which arise when an accident happens that is not inevitable even by the highest care, and to require that negligence be actually proved against them.\nThey cannot excuse themselves, as for an inevitable accident, by showing that the cars were thrown off the track by accidentally running over a man; if it also appear that the man was a drover attending to cattle on the train, and fell off because no proper place was provided for such attendants, and he vras compelled to stand on the bumpers. Even if he fell off by his own carelessness, this does not excuse them for putting him in a position where his carelessness is productive of injury to others.\nCertificate from the Court of Nisi Prius.\nThis was an action of assumpsit by Isaiah P. Goldey against The Pennsylvania Railroad Company, as common carriers, for the non-delivery of certain horses shipped from Pittsburgh to Philadelphia, in February 1854.\nOn the trial of the cause, before Woodward, J., it appeared, that on Monday, the 6th February 1854, the plaintiff, with several other drovers, presented himself at the freight office of the defendants, in Pittsburgh, to ship a number of horses to Philadelphia. The horses were received by the agents of the company, who assisted in shipping them, designating the cars, and the manner in which they were to be secured. There were no stalls or compartments in the cars; and the plaintiff\u2019s seven horses, with six others belonging to another person, were placed in the same car.\nThe company required a man to go with each lot of horses, to take care of them on the journey; but refused to provide a separate car, or other accommodation, for these drovers, although a request was made for it, and payment tendered. They were, consequently, compelled to ride inside the cars with the horses, or outside on the bumpers.\nWhile the horses were being shipped, Mr. Young, the company\u2019s freight agent, was preparing the tickets and receipts. When the horses were all on board, the plaintiff, and the other shippers, came in and paid their freight, which was received by the agent; he refused, however, to deliver the tickets, until the freighters signed a printed agreement, which was now, for the first time, shown to them.\nIt was now already dark, and the train was ready .to start. The plaintiff, on reading the release, refused to sign, as did the others also. Upon this the agent said: \u201c Gentlemen, perhaps you don\u2019t understand the release; it only means that the company won\u2019t be liable for accidents happening inside the cars, as if the horses die a natural death, or kick, or otherwise injure each other.\u201d \u201c But,\u201d inquired one of the shippers, \u201c suppose an axletree breaks, or the cars run off the track, who will be liable then?\u201d \u201c Of course,\u201d replied Young, \u201c in such a case the company will be liable.\u201d\nUpon this explanation, and \u201c on this condition,\u201d they all, and Goldey among the rest, signed the agreement. The following is a copy of the paper:\u2014\n\u201cWe, the subscribers, do hereby agree to release the Pennsylvania Railroad Company from any claim that we may have in law or equity, from injury or damage to person or property in the transportation of live stock, or of any of the articles named in the toll sheet of said company as carried at owner\u2019s risk; we hereby agreeing to take all risks of conveyance whatever, and exonerate the company from liability for any injury or damage, however caused, accruing to live stock of any description, or to any of the articles named in the toll sheet as aforesaid.\u201d\nThe freight agent thereupon delivered to the plaintiff the following receipt:\u2014\n\u201c Pennsylvania Railboad. Ninth Ward Freight Station.\n\u201cReceived, Pittsburgh, Feb. 6th, 1854, of Mr. I. P. Goldey, freight to Philadelphia on 13 horses loaded this day, in Cars Nos. 886.\n\u201c For the Company,\n\u201cW. W. Youns.\u201d\nThe train started, and travelling night and day, reached Horst\u2019s Station, east of Harrisburg, on Thursday evening. During this period, the conductors, engineers, firemen, and brakesmen of the company were changed three times, but the drovers were compelled to ride night and day under their horses\u2019 feet, which is proved to be dangerous, or outside on the bumpers, in the midst of inclement February weather.\nThe train left Horst\u2019s Station, between nine and ten o\u2019clock in the evening. One Silverthorn, a drover, not connected with the plaintiff, and who had charge of a load of cattle in an uncovered car, tried here to obtain some temporary protection from the cold, by getting in a covered horse-car. As he was about getting in, he slipped and fell, and when he recovered himself the train was beginning to move. One of the brakesmen called to him, from his bumper, to get up there by the step, and assisted him in doing so. He stood for a few moments, then suddenly slipped and fell under the wheels. The accident killed Silverthorn, threw the train off the track, and killed or injured all the plaintiff\u2019s horses.\nThe court charged the jury \u2014 \u201c That it was for them to determine, from the evidence, what was the special contract between these parties; the defendants alleged it was contained in the printed release; the plaintiff that it was modified by the parol agreement of the freight agent. If the jury should find the contract as alleged by the defendants, it is the duty of the court to construe it. The carrier is bound, notwithstanding such a contract, to use ordinary diligence, such as a man of common prudence ordinarily employs in his own concerns \u2014 and if he fail in this, and loss ensue therefrom, he is liable in damages. This company, holding itself out as a common carrier, and professing to have a railway, cars, and facilities for the transportation of live stock, were bound, even after the plaintiff had signed the release, by the rule of ordinary diligence and care. The effect of the contract was to take away the insurance against all risks \u2014 to abridge their common law liabilities \u2014 but not to excuse them for the want of ordinary care in the execution of the duty voluntarily assumed. If, therefore, the jury should find from the evidence, that the injury complained of by the plaintiff resulted from a want of this measure of care on the part of the company, they should assess his damages, notwithstanding the terms of the release signed by him.\n\u201c The duty of the company to provide for the transportation of live stock with ordinary care, includes the duty to provide suitable accommodations for the drovers or their employees, whom the company require to accompany the stock, and it is for the jury to-say whether such provision was made in this case, regard being had to the size of the train, the amount and kind of live stock, the season of the year, and the temperature of the weather. If they did not, and Silverthorn was precipitated under the cars by reason of the company\u2019s neglect in this point, whereby the cars were thrown from the track, the injury is to be imputed not to the act of Grod, but to the culpable negligence of the company.\n\u201c In determining what the special contract between the parties was, the jury will be at liberty to consider the parol evidence as to what occurred at the execution of the release. That evidence is conflicting, and what was written is the best evidence of the contract; but still, if Young agreed that the written paper was not intended to release damages resulting from the cars running off the track, and induced the plaintiff to sign it, by such representation, the company would be bound.\u201d\nThe defendants excepted to the charge of the court, and also to the admission of the evidence as to the declarations of Young; and a verdict and judgment having been given for the plaintiff, they certified the cause to this court, and here assigned the same matters for error.\nP. P. Morris, for the defendants.\n\u2014 The parol testimony was inadmissible, to vary the contract in writing: 1 Greenl. Ev. ch. 13; Clark v. Partridge, 2 Barr 13; Hill v. Gaw, 4 Barr 495; Sennett v. Johnson, 9 Barr 336; The Bank v. Fordyce, 1 Barr 456; 9 Barr 276; Stern v. Great Northern Railway Company, 14 Com. B. 647; Jarvis v. Palmer, 11 Paige 650; Rearich v. Swinehart, 1 Jones 238; Kennedy v. Wattsburgh Plank Road Company, 1 Casey 224; Shriver v. Stevens, 2 Jones 258. Young had no authority to bind the company : Angell & Ames on Corp. \u00a7 297, 301; Hayden v. Middlesex Turnpike Corporation, 14 Mass. 403; Harrisburg Bank v. Tyler, 3 W. & S. 376; Bank of United States v. Dunn, 6 Pet. 51; Stewart v. Bank, 11 S. & R. 267; Bank v. Davis, 6 W. & S. 285; Hough v. Doyle, 4 Rawle 294; Hannay v. Stewart, 6 Watts 490; Clark v. Baker, 2 Wh. 340.\nThe cars were thrown from the track by the fall of Silverthorn, but there is no evidence to show that his fall was occasioned by having had to ride with his stock or on the bumpers. Whatever differences of opinion may at one time have existed as to the right of carriers to limit their responsibility by notices, there is no longer any doubt as to their right so to limit their responsibility by special contract, for anything short of their own gross negligence or fraud: Beckman v. Shouse, 5 Rawle 179, 189; Bingham v. Rogers, 6 W. & S. 500; Parry v. Colder, 8 Barr 484; Railroad Company v. Baldauf, 4 Harris 68; Pennsylvania Railroad Company v. McCloskey\u2019s Administrator, 11 Harris 532.\nRead, for the plaintiff.\n\u2014 The printed release, without the parol explanation of the freight agent, reconciling it with the existing law, was clearly illegal. The extent to which a common carrier may by contract restrict his common law liability, is laid down in the cases of Beckman v. Shouse, 5 Rawle 179, 189; Bingham v. Rogers, 6 W. & S. 500; Laing v. Colder, 8 Barr 479; Camden and Amboy Railroad Company v. Baldauf, 4 Harris 67; and Pennsylvania Railroad Company v. McCloskey\u2019s Administrator, 11 Harris 526. See also 1 Parsons on Contracts 717 ; 2 Story on Contracts, \u00a7 760 g.; Addison on Contracts 516; Steamboat New World v. King, 16 How. 469; Philadelphia and Reading Railroad Company v. Derby, 14 How. 486.\nIt is clear that Silverthorn\u2019s fall and death was not an \u201c act of God,\u201d so as to excuse the company from liability: 1 Pars, on Contracts 635; Addison on Contracts 477; Beach v. Parmeter, 11 Harris 197-8; Oakley v. Portsmouth and Ryde Steam Packet Company, 11 Exch. 628.\nThe declarations of the freight agent were part of the res gestee. The explanation was most proper, and the examples given of the negligence of the defendants were most apposite; Hegeman v. Western Railroad Company, 3 Kern. 9; Camden and Amboy Railroad Company v. Burke, 13 Wend. 629; Taff Vale Railway Company v. Giles, 22 Eng. L. & Eq. 202; Snead v. Shrewsbury and Hereford Railway Company, 1 Jurist, N. S. 105."
+  },
+  "file_name": "0242-01",
+  "first_page_order": 242,
+  "last_page_order": 246
+}

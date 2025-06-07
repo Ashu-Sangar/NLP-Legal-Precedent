@@ -1,0 +1,584 @@
+{
+  "id": 480036,
+  "name": "Struthers versus Kendall & Son",
+  "name_abbreviation": "Struthers v. Kendall & Son",
+  "decision_date": "1862-01-06",
+  "docket_number": "",
+  "first_page": "214",
+  "last_page": "229",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 Pa. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Pick. 412",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Caines 121",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "case_ids": [
+        6691704
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cai/2/0121-01"
+      ]
+    },
+    {
+      "cite": "17 Ohio 78",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        496147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/17/0078-01"
+      ]
+    },
+    {
+      "cite": "5 Smith 477",
+      "category": "reporters:state",
+      "reporter": "Smith & H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Howard 343",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Peters 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        102735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/41/0001-01"
+      ]
+    },
+    {
+      "cite": "3 Smith 101",
+      "category": "reporters:state",
+      "reporter": "Smith & H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Sandf. 7",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1353528
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/7/0007-01"
+      ]
+    },
+    {
+      "cite": "5 Denio 330",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hill 513",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Johns. 644",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Whart. 220",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836968
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0220-01"
+      ]
+    },
+    {
+      "cite": "12 Pick. 399",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2060336
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/29/0404-01"
+      ]
+    },
+    {
+      "cite": "19 Johns. 391",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380512
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/19/0391-01"
+      ]
+    },
+    {
+      "cite": "18 Johns. 315",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        8710528
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/18/0315-01"
+      ]
+    },
+    {
+      "cite": "2 Dallas 296",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Johns. 52",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137667
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0052-01"
+      ]
+    },
+    {
+      "cite": "10 Conn. 192",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/10/0192-01"
+      ]
+    },
+    {
+      "cite": "19 Maine 461",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        571502
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/19/0461-01"
+      ]
+    },
+    {
+      "cite": "2 W. & S. 438",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853630
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0438-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates 391",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6774321
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0391-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 166",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 508",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Mass. 870",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 94",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 142",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0142-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. Ch. Rep. 54",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1980803
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/5/0054-01"
+      ]
+    },
+    {
+      "cite": "20 Johns. Rep. 637",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wend. 593",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11271635
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "605"
+        },
+        {
+          "page": "659"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0593-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 85",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012904
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0085-01"
+      ]
+    },
+    {
+      "cite": "4 Yeates 20",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 547",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. 294",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128219
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/1/0294-01"
+      ]
+    },
+    {
+      "cite": "4 Howard 262",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "274"
+        },
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 459",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Whart. 116",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833418
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0116-01"
+      ]
+    },
+    {
+      "cite": "2 W. & S. 140",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853580
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0140-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 135",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Pick. 135",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2014341
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/27/0136-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 81",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 28",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478144
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0028-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 508",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 How. 343",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        5680664
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/61/0343-01"
+      ]
+    },
+    {
+      "cite": "2 Paige 509",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2179867
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/paige-ch/2/0509-01"
+      ]
+    },
+    {
+      "cite": "6 Hill 93",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wend. 605",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015746
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0605-01"
+      ]
+    },
+    {
+      "cite": "20 Johns. 637",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2142479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/20/0637-01"
+      ]
+    },
+    {
+      "cite": "16 Peters 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        102735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/41/0001-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 166",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Wend. 593",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11271635
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/12/0593-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 85",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012904
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/10/0085-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 135",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1368,
+    "char_count": 42686,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 3.9975413683484355e-07,
+      "percentile": 0.905664770417117
+    },
+    "sha256": "cece1035c8c977a081e73adc52a26e764b30e89f7d8984cb34090476d0e82e20",
+    "simhash": "1:13e4665036068df1",
+    "word_count": 7590
+  },
+  "last_updated": "2024-02-27T16:09:09.319934+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Struthers versus Kendall & Son."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Woodward, J.\nThe most important question on this record, though not the first in order, is, whether the plaintiff in error, defendant below, was entitled to show that he was merely an accommodation endorser, and that the bill was passed to Whitney & Co., and by them to the present holders, defendants in error and plaintiffs below, without any present consideration being paid for it, and in fraud of the defendant. The court rejected the evidence on the ground that it was already in proof that Kendall & Son were bond fide purchasers of the bill, and as such were entitled to enforce it against the endorser, without regarding the equities between him and the payee. If the fact was as assumed by the court, there can be no doubt of the correctness of the legal inference. The bill was made and endorsed in New York, and is to he governed by the law of that state; but in that state, as well as in Pennsylvania and all other commercial countries, an endorser who gives credit to a note or bill by his endorsement, whether with or without consideration, is bound to make the paper good in the hands of any subsequent endorsee who receives it for value, and in the ordinary course of business.\nBut a series of cases in the New York courts, beginning with Coddington v. Bay, 20 Johns. 637, s. c. 5 Johns. Ch. R. 54, and followed by Rosa v. Brotherson, 10 Wend. 85; Ontario Bank v. Worthington, 12 Wend. 593; Payne v. Cutler, 13 Wend. 605; and Stather v. McDonald, 6 Hill 93, while recognising the general doctrine as above stated, has modified it with the qualification that where the holder has received the bill for an antecedent debt, either as nominal payment, or as security for payment, without giving up any security for such debt, which he previously had, and without paying any money, or giving any new consideration at the time, he is not a holder of the note for a valuable consideration. In the last of the above cited cases, which was nothing more than a fraudulent pledge of two notes as security for an antecedent debt, the payee was permitted to recover them from the holder in an action of trover, Chancellor Walworth reviewing all the authorities bearing on the main question, and strongly questioning the doctrine of the U. S. Supreme Court, as announced in Swift v. Tyson, 16 Pet. 1. In the case of Dezeng v. Fyfe, 1 Bosworth\u2019s (N. Y.) R. 335, it was declared by the Superior Court of the city of New York, that all the above cases were instances of the fraudulent misappropriation of a note, or where there was some fraud in procuring it, or where there existed some circumstances in the relation of the parties which would make its collection operate as a fraud on the maker; and it was accordingly held by that court, there being no taint of fraud in their case, that the maker of a promissory note for the accommodation of the payee, cannot set up as a defence that the note was transferred to the plaintiff.in satisfaction of, or as collateral security for, a pre-existing debt. The circumstances of the case showed that nothing wras given up in consideration of the note when it came to the endorsees\u2019 hands. This case is not authority as against those first cited, hut yet it seems to suggest the distinction on which these cases are reconcilable with such cases as The Bank v. Neass, 3 Comst. 444; Grandin v. LeRoy, 2 Paige 509; Lathrop v. Morris, 5 Sanford 7; Clark v. Bank, 2 Comst. 380, and Goodman v. Symonds, 20 How. 343.\n. I have not thought .it worth while to go into a minute analysis of the New York cases, to see how sound'the distinction is which was suggested by the Superior Court, because in our case the evidence on the part of the plaintiff fully justified the court in assuming that the plaintiffs were bond fide holders in usual course, and for a valuable consideration. Darius Young swore that Til-den & Co., of which firm he was a member, \u201ctook the draft after the endorsement by Struthers and Irvine, and passed it to Wm. Whitney & Co., of Boston, within a few days after it was made, on account as business paper, we being indebted to them, having a running account with them.\u201d\nAgain this witness says: \u201c The firm of Tilden & Co. was indebted to the firm of Wm. Whitney & Co. in account for money and goods, and I passed said draft to Wm. Whitney & Co., in account as part payment of said indebtedness, and in the usual and regular course of business as business paper. They had no knowledge of its being accommodation paper.\u201d\nTo the same effect is the testimony of David H. Sparhawk, a member of the firm of Whitney & Co. This witness also described the transfer of the draft from Whitney & Co. to Kendall & Son, the plaintiffs below. His language was, \u201cthe draft came into the hands of plaintiffs, as I have already stated, on the 1st of March 1854, in part payment of the debt of my firm to theirs.\u201d And Barnes says: \u201cIt was passed to plaintiffs in the due and usual course of business. The firm of Wm. Whitney & Co. was indebted to them for money, received by them from purchases of wool belonging to plaintiffs, and said draft was entered on plaintiffs\u2019 books to the credit of said Wm. Whitney & Co. at par, as was usual and customary in the course of business.\u201d\nNow can it be doubted, in view of such proofs, which were wholly uncontradicted, that both Whitney & Co. and Kendall & Son were bond fide purchasers of the bill, in due course, and for a valuable consideration ? They both received it, to be sure, on account of antecedent indebtedness, but in part payment of that indebtedness. When they entered it as a credit on their books, they gave up so much of their debt. What more' could they have done, if the payment had been in cash ? What better title to the paper could a cash purchase have given the plaintiffs ?\nAccording to none of the New York authorities, and certainly according to none of ours, could such a purchase of a bill be impeached. It had all the requisites of an ordinary mercantile transaction. Then the holders are not subject to any equities which might arise between the original parties.\nThe second and seventh errors have reference to the addition that was made of the residences of the drawer and endorsers. Sparhawk says he added the words \u201cWarren, Warren Co., Pa.,\u201d after the name pf Struthers. They were not on the bill when it came into the hands of Whitney & Co.\nWas it a material alteration of the instrument? Was it an alteration of the instrument at all ? Unquestionably every alteration in a negotiable instrument, whereby the identity of the paper is in any way-affected, is material, and avoids it even in the hands of a subsequent endorsee for value, except as to him who made the alteration: Stephens v. Graham, 7 S. & R. 505. But we hold that the noting of the residence of drawers and endorsers, after their names, does not affect the identity of a bill of exchange, nor avoid it, as to any of the parties to it. It is in the nature of a memorandum for the notary, that he may know how to address notices of protest. It does not vary the tenor of the bill, nor add to the responsibility of endorsers. As well might the customary file-mark, indicating when the paper falls due, be called a material alteration. When Struthers put his name on the back of this paper, he authorized notice of nonpayment to be sent to him at Warren, Pa., for that was his proper residence. Whether his admitted residence was conveyed to the notary by word of mouth, by a separate memorandum, or by the mark subjoined to his name, the bill remained the same as it was at first made by his endorsement.\nIn respect to the first error assigned, it is sufficient to say that if Foster, the notary, be regarded as the agent of the plaintiffs, the general rule is, that an agent is competent as a witness for his principal, except in cases where the principal is sued on account of the negligence of the agent: 3 Watts 135; 7 W. & S. 166; 5 Barr 51. Here no negligence of the notary is alleged, nor could it be, for it was decided in Pierce v. Struthers, 3 Casey 249, and Struthers v. Blake, 6 Id. 142, that his duties were well performed. The point involved in this exception was substantially ruled in McGarr v. Lloyd, 3 Barr 474.\nThe other assignments of error are sufficiently answered by the rulings in the two cases above named in 3d and 6th Casey.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "by Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "(r. Qhureh and James Sill, for plaintiff in error.",
+      "John H. Walker, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Struthers versus Kendall & Son.\nLiability of Accommodation Endorser of Bill or Note to bond, fide holder. \u2014 Alterations of Bill or Note, what are material. \u2014 Agent when a Witness for Principal. \u2014 Residence of Drawee, when given, the proper place for Presentment.\n1. An endorser who gives credit to a note or bill by his endorsement,, whether with or without consideration, is bound to make it good in the hands of any subsequent endorsee, who receives it for value, and in the ordinary course of business.\n2. Where endorsees of a bill of exchange took it on for an antecedent indebtedness of a firm, to whom it had passed in the regular course of business before maturity, and gave credit for the amount on their books, the consideration was sufficient in law, and in an action against a prior endorser, they were entitled to recover, notwithstanding the equities which might have existed between the original parties.\n3. The noting of the residences of endorsers, after their names, upon a bill of exchange, does not affect its identity, nor avoid it as to any of the parties to it.\n4. The general rule is that an agent is competent as a witness for his principal, except in cases where the principal is sued on account of the negligence of the agent.\n5. Therefore it was not error in the court below to admit in evidence the deposition of a notary, to prove demand of payment, protest, and notice thereof to defendant.\n6. Where the bill was addressed to the drawee at a particular house, and was accepted generally by him, the address indicates the place where it is to be presented for payment, and a presentment there is sufficient, as against the drawe^ and endorsers.\nError to the Common Pleas of Erie county.\nThis was an amicable action of assumpsit, entered in the Common Pleas to August Term 1857, by H. R. Kendall & Son, against Thomas Struthers, on the defendant\u2019s endorsement of a bill of exchange, or draft drawn, accepted, and endorsed in the city of New York, whereof the following is a copy:\u2014\n\u201c $2500.\nNew York, Feb. 23d 1854.\n\u201c Five months after date, pay Twenty-five hundred dollars, the account of to the order of Tilden & Co., value received, and charge to\n\u201cEdwin Hazen,\n\u00abh h i=i j|\n\u201c To Jas. T. Foster,\n\u201c Ellyria, Chio.\n\u201c 78 Beaver st., New York. \u201d\n\u201c Irving House.\u201d\nOn the face of the paper was written \u201c J. T. Foster,\u201d as above, and on the back of it, \u201cTilden & Co., Attica, New York;\u201d \u201cT. Struthers, Warren, Warren co., Pa.;\u201d \u201c W. A. Irvine, Warren, Warren co., Pa.;\u201d \u201cWm. Whitney & Co., Boston.\u201d\nThe defence was that the bill or draft was made, accepted, and endorsed by defendant and the subsequent endorser, W. A. Irvine, without consideration, and not in the regular course of business, but at the instance and for the accommodation of the prior parties to the paper, to enable them to negotiate it for money to meet an existing indebtedness on their part to the defendant. That it was retained at that time for this purpose by Tilden & Co., and subsequently, instead of negotiating it for any present value received, they delivered it, without the knowledge of defendant or of Irvine, to Wm. Whitney & Co., for or on account of a prior indebtedness, exceeding the bill in amount, for goods, &c., by them previously obtained on credit, from Wm. Whitney & Co., and charged on the books of the latter, so that they parted with nothing for the bill at the time they obtained it. That subsequently Wm. Whitney & Co. endorsed the bill and delivered it to the plaintiffs for and on account of a prior indebtedness, also in amount exceeding this bill, for goods previously sold and delivered, and charged on their books to Wm. Whitney & Co.; and thus the plaintiffs likewise-parted with nothing for the bill at the time they received it. And that while Wm. Whitney & Co. held the bill, one of the firm, without the knowledge or- consent of the defendant, added these words to defendant\u2019s endorsement on it, to wit: \u201c Warren, Warren eo., Pa.\u201d\nThe questions in the court below were, whether these facts were relevant; whether the proof of them offered and given was competent; whether it was necessary for plaintiffs to prove a demand of payment at \u201c 78 Beaver street, New York;'\u201d whether the agent employed by plaintiffs for the purpose, was competent to prove a demand without a release, under the testimony given ; and also whether the alteration of the defendant\u2019s endorsement by the unauthorized addition thereto of \u201c Warren, Warren eo., Pa.,\u201d relieved him from liability thereon. These questions arose upon the bills of exception taken to evidence, and charge of the court to the jury on the points submitted by the defendant.\nOn the trial, the plaintiffs, in support of the issue on their part, having first read in evidence the deposition of Darius Young, of David H. Sparhawk, and of James Barnes, the substance of which will be found in the opinion of this court, offered to read in evidence the deposition of J. P. Giraud Foster, to prove demand of payment, protest, and notice to defendant, to which the defendant objected, because of the incompetency of the witness to prove that he made demand of payment, protest, and gave notice to defendant. The court (Derickson, P. J.) overruled the objection, and received the evidence; the defendant, by his counsel, excepting to the ruling of the court.\nThe plaintiffs then offered in evidence the draft or bill, to which the defendant objected, because the evidence already given showed a material alteration made in the bill and the endorsements since the original giving and making thereof, without the knowledge or consent of the defendant. The court overruled this objection also, and received the evidence, whereupon the defendant excepted.\nAfter the plaintiffs had closed their evidence in chief, the defendant offered to prove that he was only an accommodation endorser of the bill in suit, without value received. That it was made and endorsed by him at the instance of the prior-parties to it, and only for the purpose of the better enabling them to negotiate it for money to pay an indebtedness they then stood in to him ; and that instead of using the bill for this purpose, they passed it to Whitney & Co., without any then present consideration being paid for it, and in fraud of the defendant; and that said Whitney & Co. also subsequently passed it to the plaintiffs without any such consideration, but merely for a credit on account of their indebtedness, as proved by the plaintiffs in their testimony, and not in the usual course of business, according to the commercial and legal meaning of that expression.\nThis was objected to by plaintiffs\u2019 counsel, because the testimony had shown that the plaintiffs are innocent and bond fide holders, and because Dr. Irvine, the proposed witness, is a prior endorser of the bill, and therefore incompetent to testify to what is proposed. The offer was overruled and the testimony rejected, under exception.\nThe defendant then offered to read the deposition of James T. Foster, taken on commission by him; but the plaintiffs\u2019 counsel objected to the answers given to the second and third interrogatories, to wit:\u2014\n\u201c 2. I suppose I am the acceptor of the bill mentioned in the interrogatory. The bill was drawn, with others, to take up other bills, drawn or accepted by the same parties. I think the purpose was to raise money with which to take up previous bills. It was endorsed by Struthers and by Irvine, at the request of Til-den & Co., without consideration, to Struthers or Irvine. The bill was not used for that purpose, to raise money to take up the previous bills. Young, of the firm of Tilden & Co., took the hills to negotiate, but used it for his own purposes, or those of his firm, Tilden & Co.\n\u201c 3. The bills which the one above mentioned and others were drawn to take up, have not been paid by me nor by any other person, so far as I know.\u201d\nFirst, because the witness is a party to the bill, and secondly, because if all he says be true, it cannot affect the plaintiffs, who are innocent and bond fide holders of the bill, and for value received. This testimony was excluded, and, at the defendant\u2019s request, a bill of exceptions sealed.\nThe defendant requested the court to charge the jury,\n1. If the defendant was only an accommodation endorser, merely to enable the prior parties to the bill to negotiate it for money to pay their existing indebtedness to him, and the plaintiffs received the bill from Whitney & Co., and they from Tilden & Co., without any present value paid therefor by either, then the plaintiffs are not bond fide holders in the usual commercial course of business, and stand in no better situation than the prior parties, and cannot recover under the evidence given in the case.\n2. The defendant being a mere accommodation endorser for the special purpose indicated in the preceding point, and the whole transaction having taken place in the city of New York, and so originally appearing upon the face of the paper, the liability of the defendant is to be adjudged by the law of New York ; and the subsequent addition to the defendant\u2019s name of \u201c Warren, Warren Co., Pa.,\u201d was a material alteration of the paper, and vitiates it so far as defendant is concerned, and plaintiffs cannot recover.\n3. The addition of \u201cElyria, Ohio,\u201d to the name of the drawer, and \u201c Attica, New York,\u201d to -the prior endorsers,. \u201c Tilden & Co.,\u201d was likewise a material alteration, so far as defendant is concerned, and vitiates the paper as to him, and plaintiffs cannot recover thereon against him in this case.\n4. It is essential that the plaintiffs establish the fact of a demand of payment on the day and at the place appointed, and if the holder of the paper or his agent, at the time, did not make a demand of any of the persons found at the place, nor of the acceptor, or did not go to the right place of payment, the plaintiffs cannot recover; and these are. questions of facts exclusively for the jury.\n5. If the demand of payment was not made at 78 Beaver street, or not made or attempted to be made until after the usual business or banking hours, it 'is too late to enable plaintiffs to charge this defendant as endorser.\nThe court below charged that, \u201c 1. If there was no consideration paid by the plaintiffs for the bill, and they were not innocent and fair holders of it, without notice of prior equities, which might exonerate the defendant from liability, this point would be entitled to an affirmative answer. But the testimony shows that the bill was taken from Whitney & Co., on an indebtedness of theirs to the plaintiffs, and for which they received a credit to the extent thereof; and if this was so, it was a consideration sufficient in law, as much so as if money had been paid in place thereof. It is difficult to see what,difference there is, in principle, between a money consideration actually paid, and the discharge of a liability already existing, to entitle the holder of the bill to recover on it, provided he was ignorant of the equities which might affect it in others\u2019 hands. And if the defendant has intrusted the bill to an unfaithful agency, it may be, as it unquestionably is, a misfortune to him, but one which he cannot throw the consequences of upon those who were ignorant thereof, and who took it in good faith and for a valuable consideration.\n\u201c 2. 8. It is hard to perceive what mischievous effect the writing of the different places of residence to the names of the several en dorsers on the bill, and of the drawer, could have, and unless something of the kind resulted from such an act, it affords no good grounds for complaint. It certainly would not have the effect to make the bill a foreign one, if not so in the origin, as the defendant\u2019s counsel suggest might be the case. No designation, therefore, of an endorser\u2019s or drawer\u2019s residence in another state than the one which the bill has evidence of on its face, could work a change in this respect, and the second and third points are therefore answered in the negative.\n\u201c 4. Had the bill been made payable at a bank or banking-house, there might be room for the question suggested by this point; but there being no evidence that the place designated was one or the other, we do not charge as requested. There being such a number and street as is called for, and the notary having been there, as he says he was, between 3 and 6 p. M., to make demand, it would be sufficient.\n\u201c It may be, and that without much room for controversy, that the defendant was grossly imposed upon by the firm to whom he intrusted the bill for a specific object, and as between its members and himself he would have a good moral and legal defence; yet, unless the plaintiffs were cognisant thereof, they are not to be affected by it, and, if the whole evidence in the case is believed, they are entitled to a verdict in their favour.\u201d\nThere was a verdict and judgment in favour of the plaintiff for $3618.79, whereupon the defendant sued out this\u201dwrit, and assigned as cause for reversal,\n1. That the court below erred in admitting in evidence the deposition of J. P. Giraud Foster, the notary, to prove his alleged demand of payment, protest and notice thereof to defendant, because, as agent for plaintiffs to do this, he would be liable to them for not doing so, and hence is incompetent without a release.\n2. The court below erred in admitting in evidence the draft or bill, because the same was already proved to have been altered , in material parts without the knowledge or consent of the defendant or prior parties to it.\n. 3. The court below erred in rejecting the evidence offered by defendant, to wit, that defendant was only an accommodation endorser, without value, at the instance of the prior parties, only the better to enable them to negotiate it for money to pay existing indebtedness to defendant, but instead of doing this, they passed it to Whitney & Co., without any then present consideration paid for it, and in fraud of defendant, and that Whitney & Co. subsequently passed it to plaintiffs, under like circumstances ; and,\n4. In rejecting the testimony of James T. Foster, in his answer to the second and third interrogatories in chief.\n5. In not charging the jury as requested by the defendant in his first point.\n6. In not charging the jury as requested by the defendant in his second point.\n7. In not charging the jury as requested by the defendant in his third point.\n8. In not charging the jury as requested by the defendant in his fourth point.\n9. In not charging the jury as requested by the defendant in his fifth point.\n10. In charging the jury, in conclusion, in these words, to wit: \u201c If the whole evidence in the case is believed, they, plaintiffs, are entitled to a verdict in their favour.\u201d\n(r. Qhureh and James Sill, for plaintiff in error.\nThe first question is the competency of the witness employed by the holders to demand payment. He is merely their agent, Parke v. Lowrie, 5 W. & S. 508, and called to prove this he performed his duty diligently and properly, for which he is not competent : 1 Greenl. Ev. 394; Schuylkill Navigation Company v. Harris, 5 W. & S. 28 ; Dorrance v. Commonwealth, 1 Harris 160 ; Plummer v. Alexander, 2 Jones 81. He was not called to prove merely the official act of protest; if nothing more, perhaps his competency would not have been questioned ; but to establish the fact that he had performed his engagement diligently and correctly, and without which the plaintiffs could in nowise maintain their action. Such witness is incompetent without a release : 1 Greenl. Ev. 417, 393, 396 ; Fuller v. Wheelock, 10 Pick. 135-7; McDowell v. Simpson, 3 Watts 135; Etting v. The Schuylkill Bank, 2 Barr 355; Schoneman v. Fegley, 7 Barr 433.\nThe second and seventh errors we consider together. The former relates to the insufficiency of the proof of presentation, demand of payment, and notice of wow-payment; and the latter to the effect of the unauthorized alteration of the bill and endorsements made by the holders immediately anterior to plaintiffs.\nThe witness really negatives any demand of payment. He made none, he says, because he found no one from-whom to demand it. Yet he admits there were adult persons at the place where he went, which he calls 78 Beaver street, but which from his description evidently was not. According to the form of the address of the bill, this court have adjudged it payable at 78 Beaver street, New York. It should have there been presented, and if any person in charge there, demand of payment made: Hine v. Allely, 24 E. C. L. R. 127; Pierce v. Struthers, 3 Casey 249, 253-4. There were persons found at both places named; the houses were not shut up, nor was there any evidence the acceptor had removed to any other place; hence presentment to and demand of payment from some one there in charge, is essential to be proved: Byles 157. If not payable at that place, then there is a want of the diligence required by law to be used to find the acceptor: Duncan v. McCullough, 4 S. & R. 480. Inquiry should have been made elsewhere: Ellis v. Commercial Bank, 7 Howard Miss. Rep. 294. The slight search for him is wholly insufficient: Lightner v. Will, 2 W. & S. 140; Stuckert v. Anderson, 3 Whart. 116. It should have been shown affirmatively that demand was made during the usual business hours in that vicinity: Parker v. Gordon, 7 East 385; King v. Holmes, 1 Jones 459; Musson v. Lake et al., 4 Howard 262, 274. But we have the authority of this court, Struthers v. Blake et al., 6 Casey 139, that 78 Beaver street was the place for demanding payment of the bill; that this demand is a necessary step in the remedy: Barclay v. Weaver, 7 Harris 396: which demand, or its equivalent, is not proven here. The terms, presentment for payment, and demand of payment, are not convertible, nor is either equivalent to the other, and both are necessary: p. 576.\nThe unauthorized alteration of the bill made at the time of delivery to plaintiffs, if a material one, entirely, destroys the validity of the paper except as to the party making the alteration, even in the hands of a subsequent innocent endorsee for value : Stephens v. Graham et al., 7 S. & R. 505-7. The motive for making the alteration is not of the slightest consequence: Marshall v. Gougler, 10 S. & R. 168-9; Miller v. Gilleland, 7 Harris 122; Getty v. Shearer, 8 Harris 15. The court below, however, instructed the jury that if no injury resulted from the act there is no cause for objection, for, if false, it would not affect the real character of the bill.\nThis alteration is material. If, primd facie, the superadding \u201c Warren, Warren Co., Pa.,\u201d indicates the place of endorsement, then by the clearest analogy, adjudicated cases and the Act of Assembly of 13th May 1850, Purd. Dig. 91, the same is essentially material. Adding the words and figures \u201c78 Beaver St., New York,\u201d under the drawee\u2019s name as and for his address, fixes the place for demanding payment (Pierce v. Struthers, and Struthers v. Blake et al.), and hence is material. When a drawee accepts a paper so addressed to him, although done by simply writing his name in another place on the face of the bill, without any addition thereto, he thereby primd facie adopts the place of address for this purpose. It follows, that the endorser\u2019s name, with the name of a place immediately under written as his place of' address, is like primd facie evidence, not only that such endorsement was made at that place, but that the same is the stipulated place for direction of notice of protest. That this place being the true one makes no difference, it is a false endorsement notwithstanding. As between the acceptor and all other parties, the law of the place for demanding and making payment, to wit, the law at \u201c78 Beaver St., New York,\u201d governs: Musson v. Lake, 4 Howard U. S. Rep. 277-8; but as between them and this endorser, the law. of Pennsylvania prevails, for that is primd facie the place of the contract: Id. 278. The law presumes the residence of a drawer at the place of date: Duncan v. McCullough, supra, 2 Caine\u2019s R. 127; Chapman v. Lipscomb, 1 Johns. 294; Halliday v. Martinets, 2 Id. 172. As respects this endorser and plaintiffs, it is primd facie a foreign bill, or foreign endorsement, which is the same in effect: Purd. Dig. 91. The commercial law everywhere considers or treats the endorser as the drawee of a new bill upon the acceptor: Watt v. Riddle, 8 Watts 547.\nAs illustrative of the sufficient materiality of the alteration' made, we consider the third, fourth, and sixth errors assigned. It was never pretended this evidence was competent, if plaintiffs were bond fide holders of the bill for value, in the usual course of business, according to the commercial sense of this language. The bill drawn, accepted, and endorsed in New York, is subject to the laws there as the place of the contract: Hazlehurst v. Kean\u2019s Administrator, 4 Yeates 20, 3 Cowper 343. The actual place of the defendant\u2019s contract of endorsement then is apparently, by the alteration, changed to Pennsylvania, where the law is or may differ from the other. The law in New York is, that where a creditor receives the transfer of a negotiable note or bill in payment of a precedent debt, he takes it subject to all the equities existing between the original parties: Rosa v. Brotherson, 10 Wend. 85-6; Ontario Bank v. Worthington, 12 Wend. 593; Payne v. Cutler, 13 Id. 605; Smith v. Van Loan, 26 Id. 659. And that the due and regular course of business or trade, means that the holders receive or apply negotiable paper in payment of a present consideration received: Coddington v. Bay, 20 Johns. Rep. 637, 644; s. c., 5 Johns. Ch. Rep. 54. The plaintiff\u2019s claim set up to the defence rests upon an exception to the general rule. If they succeed in the case their condition is improved; if they fail they are in no worse situation than before, for they have parted with nothing. Such is the settled law in New York. This defence in the courts of New York would have been permitted. It should have been permitted here upon proving the making, accepting, endorsing, simultaneously done there. The primd facie proof afforded by the alteration was a falsity. The truth remains at the risk and expense of defendant. Lightner v. Will, 2 W. & S. 142, decides, that the obvious meaning of prefixing and subjoining the place to the name of drawer or endorser, is to show where drawn and endorsed, \u201c but never done in either case with a vieAv to show that they reside there.\u201d The alteration Avas not in any form indicating it a memorandum of residence. It is absolute, and on its face unusual and meaningless, except to indicate the pla.ce where endorsed. The cases which seem to excuse such memoranda, even on their face only so indicating them to be: Trapp v. Spearmore, 3 Esp. Rep. 57, and Marson v. Pettit, 3 Campb. 82, were subsequently overruled, Chit, on Bills, 8th Am. ed., p. 204, n.\nOn the eighth, ninth, and tenth assignments of errors, they argued, that the court below either neglected due attention to the facts, misunderstood the object of the fourth and fifth points, or failed in elucidating the laAv applicable to the questions involved.\nThe instructions left the impression on the mind that a notary is infallible. There were three other witnesses whose testimony could not be reconciled with that of the notary, in respect to the place he thought the proper one to make the demand. This was excluded from the consideration of the jury by affirming the points, and then avoiding the effect by instructing the jury that Foster proves he demanded payment, if believed, notwithstanding the witness says, repeatedly, that he made none. There was error and confusion thrown into the jury-box in this method of charging that ought to be corrected.\nIn regard to the evidence offered by defendant and rejected by the court; the true solution depends upon whether the evidence was competent, not the medium of proof. If the plaintiffs and those through whom they acquired interest in the bill, were not hond fide holders for value paid, in the usual course of commercial transactions in the legal sense, according to the laws of the place of the defendant\u2019s contract, then the evidence \u2019should have been received, otherwise not. Ordinarily, when a negotiable paper is given by a third party in payment of a pre-existing debt or liability, the presumption is it is taken as collateral \u2014 such is the legal effect; 1 W. & S. 94-5; 4 Mass. 870. The exception prevailing in Pennsylvania against this rule is, that the party negotiating had a general right to negotiate as he. did: 3 Barr 381; 8 Harris 384; 6 Casey 138; 12 S. & R. 382, and the late. case of Work v. Kose, 10 Casey 138. And there is a distinction between makers and accommodation endorsers.\nJohn H. Walker, for defendants in error.\n1. Foster, the notary, was a competent witness \u201c to prove demand of payment, protest and notice to defendant, without a release.\u201d Parke v. Lowrie, 6 W. & S. 508, settles that a protest is not necessary to charge an endorser; that the intervention of a notary is sanctioned, not enjoined, by the statute, which makes his act evidence of demand and notice of dishonour, and that when the holders of paper choose to employ him instead of a private person, the law of responsibility between them is the law of principal and agent, or master and servant. And in 1 Greenleaf\u2019s Ev., \u00a7 416, it is said that agents, carriers, factors, brokers, and other servants, are competent witnesses to prove acts done within the scope of their employment, which rule \u201c extends, in principle, to every species of agency or interventions by which business is transacted, unless the case is overcome by some other rule,\u201d and that, \u201c in cases not- thus controlled by other rules, the constant course is to admit the witness, notwithstanding his apparent interest in the event of the suit:\u201d Gonagle v. Thornton, 10 S. & R. 257. The general rule is in favour of the competency of an agent as a witness, unless in cases where the principal is sued on account of the negligence of the agent: The Orphans\u2019 Court v. Woodburn, 7 W. & S. 166; Gilpin v. Howell, 5 Barr 51; McDowell v. Simpson, 3 Watts 135. In McGarr v. Lloyd, 3 Barr 474, the question presented in this hill is settled. In Struthers v. Blake, 6 Casey 142, the judge says: \u201c The notarial certificate of protest was admissible, not as evidence of demand, for this is a quality peculiar to the certificates of our own notaries, but as evidence of the fact of protest. The remainder of the proof was furnished by the depositions of the notary.\u201d\nThe sixth error assigned is in not charging as requested by the defendant in his second point. The seventh error is not charging the jury as requested by defendant in his third point. These assigned errors present the same question, viz. whether the addition of \u201cWarren, Warren Co., Pa.,\u201d to the defendants\u2019 name, and the addition of \u201cElyria, Ohio,\u201d to the name of the drawer, and \u201cAttica, N. York,\u201d to the prior endorsers, \u201cTilden & Co.,\u201d were material alterations and vitiated the paper as to the defendant. We contend that they do not vitiate the paper, and in this we think we are sustained by Chitty on Bills, 8th ed. 304; Stephens v. Graham, 7 S. & R. 505, 509; Banks v. Russel, 3 Yeates 391; Marshall v. Gougler, 10 S. & R. 164; Getty v. Shearer, 8 Harris 12; Kennedy v. Bank, 6 Id. 347; Baine v. Edsel, 7 Id. 178; Simpson v. Stackhouse, 9 Barr 186; Hiffner v. Wenrich, 8 Casey 423; Hocker v. Jamison, 2 W. & S. 438; Miller v. Reed, 3 Casey 224; Eddy v. Bond, 19 Maine 461; Folger v. Chase, 18 Pickering 63; 10 Conn. 192; Chitty 255; 11 Johns. 52; Lovell v. Evertson, 2 Dallas 296.\nThe bill on which this suit is brought was made in New York. By an act of that state passed in 1835, it is enacted, \u201c that in all cases where notice of non-payment of a bill of exchange or promissory note may be given by mail, it shall be sufficient if such notice be' directed to the city or town where the person sought to be charged by such notice resided at the time of drawing, making, or endorsing such bill or note, unless such person at the time of affixing his signature to such bill or note, shall in addition thereto specify thereon the post-office to which he may require the notice to be sent.\u201d Since this act, the only inquiry incumbent on the holder to make is as to the residence of the endorser, and when that is ascertained, the notice of protest should be directed accordingly, where the endorser has not specified it at the time of endorsing: Bank v. Neals, 3 Comst. 443.\nThe above Act of 1835 and the decisions cited clearly indicating it to be the duty of an endorser to affix his place of residence, we think that what it was his duty to do could not be considered illegal in the holder of it. In The Bank of America v. Woodworth, 18 Johns. 315, it was held \u2018that the addition of the place of payment was an immaterial alteration and did not vitiate the note. This was removed to the Court of Errors and is reported in 19 Johns. 391, reversing the Supreme Court, but the vote stood, for affirming, the chancellor and nine senators; for reversing, eighteen senators. The decision in the Supreme Court was unanimous. See also Bachellor v. Priest, 12 Pick. 399, and Stephens v. Graham, 7 S. & R.\n3. The plaintiff in error does -not consider the third exception by itself, but in connection with the third and sixth errors, with which we think it has no connection. The question presented in this exception is whether the defendant was entitled to prove that he was an accommodation endorser, without value; that the bill was made and endorsed by him at the instance of the prior parties to it, and only for the purpose of enabling them to negotiate it for money to pay an indebtedness they (the prior parties) stood in to him; that instead of using the bill for that purpose they passed it to Whitney k Co. without any then present consideration being paid for it; and that Whitney & Co. passed it to the plaintiffs without any such consideration, but merely for a credit on account of their indebtedness. We contend that this evidence was properly ruled out according to decisions in this and New York, and that if such evidence could be. received it could not be proven by Dr. Irvine, a prior endorser: 11 S. & R. 388; Desseau v. Woddington, 6 Whart. 220; Appleton v. Donaldson, 3 Barr 381; Lord v. The Ocean Bank, 8 Harris 384; Muirhead v. Kirkpatrick, 9 Id. 237; Work v. Case, 10 Casey 138.\nThe authorities cited by the plaintiff (10 Wend. 85; 12 Id. 593 ; 13 Id. 605; 26 Id. 659, and 20 Johns. 644) have been since modified or overruled by Granden v. Le Roy, 2 Paige\u2019s Ch. Rep. 509; Bank v. Coney, 1 Hill 513; Bank v. Neass, 5 Denio 330; 3 Comst. 442; Montrass v. Clark, 2 Comst. 115; Lathrop v. Morris, 5 Sandf. 7; De Zing v. Fyfe, 1 Bosworth 335; Boyd v. Cummins, 3 Smith 101; Swift v. Tyson, 16 Peters 1; Goodman v. Symonds, 20 Howard 343. But the court was right in rejecting the offer, because Dr. Irvine, the witness, was incompetent, being a prior endorser: Pierce v. Struthers, 3 Casey 249; 4 Harris 128; Work v. Case, 10 Casey 138. The law is the same in New York: Bank v. Lowmon, 5 Smith 477.\n4. In support of the rejection of the testimony of James T. Foster in his answer to the second and third interrogatories in chief, it is only necessary to refer to what the defendant proposed to prove by him and to the decisions cited in considering the third assignment of error. This witness is the acceptor of the bill in suit. The plaintiffs are the bond fide holders of the same for value, before its maturity. The witness was called to invalidate the paper. The policy of the law holds him to silence in regard to acts which might invalidate the paper in its original concoction, or in the consideration of the endorsement.\n5. There was certainly no error in the answer of the court to defendants\u2019 first point. In support of this part of the charge we refer to the decisions cited in considering the third error.\nJanuary 6th 1862,\n8th and 9th errors. It was proven by Foster that he was then a notary, and had been since 1849 ; that he received this paper from the Bank of America on the 26th day of July 3854, for protest, and that he presented the draft \u201c at No. 78 Beaver street, in the city of New York, and also- at the Irving House, in said city, the places indicated on the face of the bill;\u201d that he made inquiries in both places of various persons, for the acceptor, but could not find him; that he protested the paper for the Bank of America; that the protest annexed to his testimony is the protest ; that he could find no one in the city of New York of whom to make demand, and that he served notices of protest, for nonpayment, upon the drawers and endorsers thereof. This is all the law requires: Pierce v. Struthers, 3 Casey 249 ; Struthers v. Pierce, 6 Id. 139; Story on Bills of Exchange 449, \u00a7\u00a7 351, 352, 355, 357; Belmont Bank v. Patterson, 17 Ohio 78; Stewart v. Eden, 2 Caines 121; Shed v. Brett, 1 Pick. 412; Pierce v. Struthers, 3 Casey 253; Struthers v. Pierce, 6 Id. 139. The law does not exact an impossibility. It was the duty and business of the acceptor to be at the place of payment on the day of payment. If he was not there, nor to be found, then the holder is excused from making a personal demand.\n10. There is no error in charging as herein stated, even when taken disconnected from the whole charge, or the paragraph of which it is a portion. The testimony, beyond question, \u201cif believed,\u201d did make out the plaintiffs\u2019 case, and did \u201c entitle them\u201d to a verdict. But the extract should, in fairness to the court, be taken in connection with the evidence given, the whole charge, or at least in connection with the sentence of which it is a part, viz. \u201cIt may be, and that without much room for controversy, that, the defendant was grossly imposed upon by the firm to whom he intrusted the bill for a specific object; and as between its members and himself he would have a good moral and legal defence; yet unless the plaintiffs were cognisant thereof, they are not to be affected by it, and if the whole evidence in the case is believed, they are entitled to a verdict in their favour.\""
+  },
+  "file_name": "0214-01",
+  "first_page_order": 216,
+  "last_page_order": 231
+}

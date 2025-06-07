@@ -1,0 +1,114 @@
+{
+  "id": 405936,
+  "name": "Nixon versus Brownfield",
+  "name_abbreviation": "Nixon v. Brownfield",
+  "decision_date": "1850-10",
+  "docket_number": "",
+  "first_page": "319",
+  "last_page": "322",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 319"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Cranch 74",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Pick. 293",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Peters 387",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Pa. Rep. 177",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 219",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846041
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0219-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 253",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838052
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0253-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 481,
+    "char_count": 10380,
+    "ocr_confidence": 0.399,
+    "pagerank": {
+      "raw": 4.621887471290392e-08,
+      "percentile": 0.289284240123652
+    },
+    "sha256": "79ee5d3037bd797d20fa6c5bc034f9665780feee4a302abeb576c7ac8b0d66cb",
+    "simhash": "1:85fe9c8dc4003ccd",
+    "word_count": 1826
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nixon versus Brownfield."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nCoulter, J.\n\u2014 There was' no acknowledment proved of a then subsisting debt. There was not, in the language of the books, an acknowledgment of an existing debt, so precise and distinct in its admission as to preclude hesitation about its extent or character; The character of the acknowledgment must be such as not to be inconsistent with a promise to pay, and from which a promise to pay clearly results, or is inferential.\nThat is the gist of the matter. There must be substantially what is equivalent to a promise to pay. To acknowledge that a debt was once due and existed, is altogether insufficient. The plea of the statute virtually admits that a debt was once due.\nAn acknowledgment of the correctness of a particular item in an account between the parties, where the balance was never struck, nor the account adjusted, is not such an acknowledgment, either practically, commercially, or legally, that such item was a precise, present existing debt against the defendant, as would toll the statute as to that item, because, upon a balance being adjusted and struck, the defendant might conscientiously and honestly believe that nothing was due. And that appears to have been the belief of the defendant in this case. He thought nothing was due to the plaintiff; but, upon an attempt to state an account, which the parties could not close, he admitted an item of borrowed money, and it is now sought to recover that identical item from him, on this admission, independent of all the other transactions. This cannot be. The great length of time suffered to elapse fortifies the position taken by the defendant, that nothing was due to plaintiff; although, as an honest man, he would say, true, I borrowed $75 from you, but, upon a settlement of the account between us, this would be satisfied and paid. This amounted to nothing like an acknowledgment that the $75 was then a subsisting debt. Every thing said or done by Nixon was inconsistent with a promise to pay this $75, and by itself was not taken out of the statute of limitations. If they had been able to close their settlement, or if Brownfield had established the matters in dispute, and not ascertained on the paper on which the admitted items were put down, possibly the statute would have been prevented from running against the balance established; but that is not the question presented, as the court instructed the jury that the plaintiff could not recover on the general account, as there was no balance struck or agreed on. But as the court instructed that the plaintiff had a right to recover for the $75 and the oats, on the acknowledgment made when the items were put down on the paper, the judgment must be reversed.\nThe paper itself was not an account stated, nor was it made with' an intent of being evidence against the parties as to the separate items. If used for that purpose, it might be a trap, and entangle the party against his intent, and against the justice and honesty of the case. It was made up by a bystander, who acted as amanuensis of the parties, with a view and for the purpose of settling the whole concern. It would be admissible evidence, so far as it went, in a settlement of the whole concern or dealings between the parties, corroborated by the oath of the person who made the memorandum.\nThe judgment is reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Peford, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Nixon versus Brownfield.\nWhere, in a meeting for settlement of accounts, an item was admitted as a ground of charge, but no balance was struck, nor the account adjusted; this is not an acknowledgment that such an item was a present existing debt, so as to toll the statute as to that item, or from which a promise to pay it is to be inferred.\nError to the Common Pleas of Fayette county.\nThis was an action of assumpsit brought by Basil Brownfield vs. Isaac Nixon, to March term, 1847.\nThe declaration contained the usual counts, for money lent, goods sold, and account stated. The pleas were non-assumpsit, payment, and the statute of limitations added after the jury was sworn, to which amendment the plaintiff excepted. The caus\u00e9 had been arbitrated.\nIn the spring of 1836, the parties borrowed of the Brownsville Bank one thousand dollars, for the purpose of buying a drove of cattle; of this money, Nixon took two hundred and eighty dollars, Brownfield the residue. Each purchased cattle for the common concern, and each put into it a few of his own. The cattle were kept through the summer by Nixon, and in the fall (September) were sold by Brownfield for one thousand dollars, who paid the debt in Bank with it.\nIn June, 1846, the parties made an attempt to settle. They had their books before them, and as they agreed on the items, they were entered on a slip of paper. They differed as to the number of cattle put in by Brownfield, and this was to be referred to Samuel Wylie. Nixon, as stated on the slip of paper, was to have credit for keeping the cattle, but no price was agreed on. Wylie was never called on by the parties to fix the number of cattle, but he proved on the trial that there were fourteen. Embraced in the same settlement was a charge of seventy-five dollars, loaned by Brownfield to Nixon in 1835, and also a charge on the same side, of sixty-eight bushels of oats, under date of July 8, 1841.\nThe plaintiff, to maintain the issue on his part, gave in evidence his original book of entries, from which he read the following item: July 8, 1841, Isaac Nixon, Dr. to sixty-eight bushels of oats at twenty-eight cents, $18.44. The plaintiff, further to maintain the issue on his part, called Samuel Goodwin, who being affirmed, deposed as follows, (a paper having first been shown to the witness, purporting to be a settlement between plaintiff and defendant, as partners. I was present when they were engaged in settling; the items were taken down on a piece of paper, and the same items talked of are on this paper. I believe it to be the same paper; they went on in the settlement until they came to the cattle at Wylie\u2019s. Brownfield said there were sixteen there. Nixon said there were but fourteen; but whatever was the number, it was to be left to Mr. Wylie to say \u2014 then the settlement was to be closed; both agreed to the items on the paper; it was final so far, as I understood, whenever they agreed as to the number of the cattle at Wylie\u2019s, and that was to be left to Mr.Wylie; parties had their books there; this was three years ago last June, 1849.\nOn his cross-examination, witness says \u2014 I was there two or three hours, until they were through; when I went into the room, they were just commencing to settle; they enumerated the items \u2014 they referred to books. I saw the paper afterwards on the same day. I believe it to be the same paper, because the same items are there; the item of one thousand dollars borrowed from the Brownsville Bank. Nixon had got of this two hundred and eighty dollars, and Basil Brownfield the remainder. I cannot tell how about the cattle, each had so many of their own. Mr. Brownfield paid the Bank from the sale of the cattle; some other dealings spoken of, seventy-five dollars of money borrowed from Brownfield by Nixon they put down on the paper; the oats, also, put down on the paper.\nThereupon, the plaintiff offered to read to the jury the paper referred to by witness; to which the defendant objected. The court, Gilmore, president, overruled the objection, and the defendant excepted.\nThe plaintiff then read to the jury the paper of settlement.\nPlaintiff then called Samuel Wylie, who deposed as follows:\u2014 Brownfield called on me. I wintered sixteen head of cattle for Brownfield; they were sent in the spring to Isaac Nixon\u2019s; it was the time they had the drove in partnership. Also, Daniel Colyer, who swore that he bought the drove from Brownfield, in September, 1836, for which he paid him one thousand dollars.\nWhereupon, the court charged the jury, that if the evidence of Goodwin was believed, and the paper relied on, it would amount to an unequivocal acknowledgment of indebtedness of the seventy-five dollars borrowed by Nixon from Brownfield, the year before they bought the drove; and this acknowledgment having been made in June, 1844, would entitle the plaintiff to recover the seventy-five dollars with interest from the time of borrowing the same: as to the claim for the oats, if either the book of original entries or the paper is relied upon, the plaintiff is entitled to recover this item. There is a slight difference between the book and the paper in respect to this item, both as to quantity and price. The court instructed the jury that the paper was the most reliable evidence, and should be taken as containing the true price and quantity.\nTo which charge both plaintiff and defendant excepted.\nVerdict for plaintiff.\nExceptions:\n1. The court erred in admitting the paper referred to in the defendant\u2019s first and only bill.\n2. The court erred in charging the jury, that if the evidence of Goodwin was believed and the paper relied on, it would amount to an unequivocal acknowledgment of an indebtedness of the seventy-five dollars borrowed by Nixon from Brownfield, the year before they bought the drove; and this aknowledgment having been made in June, 1844, would entitle the plaintiff to recover the seventy-five dollars, with interest from the time of borrowing the same.\nThe case was argued by J. Miller, for Nixon, plaintiff in error. \u2014 \u25a0 The question was, whether the testimony of Goodwin took the case out of the statute of limitations as to the seventy-five dollars. The court charged that there was a sufficient acknowledgment as to the seventy-five dollars, but that plaintiff could not recover any partnership indebtedness in this action of assumpsit. He contended that the admission was not of present indebtedness; that plaintiff admitted merely that the seventy-five dollars had been borrowed, and did not admit that it had not been paid or covered by subsequent dealings. As to first error, was cited 3 W. & Ser. 508; 1 Watts 253. As to second error, 6 Watts 219; 9 id. 380; 10 id. 172 ; 7 W. & Ser. 180; 3 Pa. Rep. 177; 1 Peters 387; 22 Pick. 293 ; 2 id. 278; 8 Cranch 74; 2 Greenfield, sec. 440.\nPeford, for defendant in error.\n\u2014 Though a certain part of the claim was rejected, or not settled, yet an item distinctly admitted as a ground of charge, may be recovered."
+  },
+  "file_name": "0319-01",
+  "first_page_order": 319,
+  "last_page_order": 322
+}

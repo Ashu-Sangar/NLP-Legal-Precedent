@@ -1,0 +1,66 @@
+{
+  "id": 979495,
+  "name": "Neil versus Tate",
+  "name_abbreviation": "Neil v. Tate",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "208",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 155,
+    "char_count": 1837,
+    "ocr_confidence": 0.468,
+    "pagerank": {
+      "raw": 1.0364166504070315e-07,
+      "percentile": 0.5494797187017467
+    },
+    "sha256": "96ff725a48f57dde6a2bd7d884e075a52f04906000e8c34bf0a8b2d24dd3cccd",
+    "simhash": "1:7e301cb7c36cbd99",
+    "word_count": 332
+  },
+  "last_updated": "2023-07-14T19:15:50.021901+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neil versus Tate."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nWhere there is nothing on the record to show that an execution is irregular, the refusal of the Court of Common Pleas to set it aside is not the subject of review on'writ of error. This has been repeatedly decided.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Kaine, for plaintiff in error.",
+      "Patterson, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Neil versus Tate.\nThe refusal of the Common Pleas to set aside an execution, is not the subject of review on a writ of error, where there is nothing on the record to show irregularity. \"\nError to the Common Pleas of Fayette county.\nAdolph Eberhart conveyed to Sarah Tate, wife of Lee Tate, a tract of land, reserving air annual rent of fifty dollars during his life. On 1st April, 1854, Tate and wife conveyed to William Neil for $2500, giving- him a judgment for $850 to indemnify him against the rent reserved by Eberhart out of the land. One-third of the purchase-money was paid by Neil in cash, for the remainder he gave judgments payable in one and two years. Soon after the 1st April, 1854, Eberhart distrained, and sold Neil\u2019s property for the rent then due; a like course was pursued by him after the 1st April, 1855. In 1856 Neil paid the rent to save further sacrifice of his property. The first judgment given by Neil for the purchase money was paid. When the second was due, execution was issued upon it, defendant below obtained a rule on Tate to show cause why the execution should not be stayed until he paid Neil the rent which he had been compelled to pay Eberhart.\nThe court discharged the rule, because \u201c where a vendee takes a covenant against a known defect of title he shall not be permitted to retain the purchase-money as a further security against it, for the reason that the covenant would be nugatory if he did: 2 Harris 523.\u201d\nThis was assigned as error.\nKaine, for plaintiff in error.\nPatterson, for defendant in error."
+  },
+  "file_name": "0208-01",
+  "first_page_order": 208,
+  "last_page_order": 208
+}

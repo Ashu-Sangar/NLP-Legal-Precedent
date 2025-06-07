@@ -1,0 +1,103 @@
+{
+  "id": 400699,
+  "name": "Wells v. Bentley",
+  "name_abbreviation": "Wells v. Bentley",
+  "decision_date": "1846",
+  "docket_number": "",
+  "first_page": "324",
+  "last_page": "325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 324"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Watts 6",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 288",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Serg. & Rawle, 65",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1816722
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/16/0065-01"
+      ]
+    },
+    {
+      "cite": "1 Watts & Serg. 139",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852511
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0139-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 215,
+    "char_count": 2840,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 4.947487136851577e-08,
+      "percentile": 0.31009298225495
+    },
+    "sha256": "9be6d2f039a0401fabfb01c3a98149b7b5be8b1ad6937c916655b03229cf1bbe",
+    "simhash": "1:5b2cd6451048cf13",
+    "word_count": 498
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wells v. Bentley."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe prothonotary\u2019s approval of the bond is required for the creditor\u2019s protection; and it is a common law maxim, that any one may forego a legal advantage given to himself. The creditor did forego the right of approval in this instance, by the very act of suing on the bond as a valid one; and it is immaterial, therefore, whether the act of approval be judicial, or susceptible of performance by a deputy, as it is clear, that the omission of it by the prothonotary or his clerk, or by both, could not be insisted upon as a defeasance, after the bond had done its office in setting the insolvent debtor at large.\u2019 As the certificate of approval is no part of the instrument, the contract is complete without it; and it would be strange if the party bound by it might avoid its obligations, by insist- \u2019 ing on an accidental omission in a matter with, which he had no concern, and which benefited instead of prejudicing him; and by thus turning a clause introduced into the statute for the creditor\u2019s safety, to his detriment. But the very point was decided in Stroop v. Gross, 1 Watts & Serg. 139; and the plaintiff ought therefore to have been allowed to recover.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Baird and Elvjell, for plaintiff in error.",
+      "Watkins, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Wells v. Bentley.\nThe approval of a bond to take the benefit of the insolvent law by the prothonotary, is intended for the benefit of creditors; and where it was done by the deputy, and the party had been discharged from arrest, and the bond subsequently forfeited, they may waive the defect and maintain an action.\nError from the Common Pleas.of Bradford county.\nJuly 6. One point only arose on this record. The plaintiffs sued on an insolvent bond, on which one of the obligees had been discharged from arrest, and his application as an insolvent dismissed. The bond had been taken and approved by the deputy or clerk in the prothonotary\u2019s office; and the court (Conyngham, President J.) considering he had no authority, and consequently that the bond was void, directed a verdict for defendants.\nBaird and Elvjell, for plaintiff in error.\nThe legislature, in conferring the authority on the prothonotary, intended it to be exercised as other acts are done in the office. The case shows that the acts of the deputy are sustained by this court. Commonwealth v. Emerson, 5 Serg. & Rawde, 333; Reigart v. McGrath, 16 Serg. & Rawle, 65 ; Commonwealth v. Aurand, 1 Rawle, 288. Be this as it may, the defendant is the last person to take advantage of it. The debtor was discharged, and the condition broken; and it was perfectly indifferent to him, whether the prothonotary approved it or not; the benefit wms obtained. Stroop v. Gross, and Ickes v. Smith, 1 Watts 6 Serg. 139. '\nWatkins, contr\u00e0.\nThere was no authority in the clerk to take the bond; and certainly none, by the act of Assembly, for him to approve it.."
+  },
+  "file_name": "0324-01",
+  "first_page_order": 322,
+  "last_page_order": 323
+}

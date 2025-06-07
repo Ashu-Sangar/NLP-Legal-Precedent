@@ -1,0 +1,103 @@
+{
+  "id": 960626,
+  "name": "Bank v. Fordyce",
+  "name_abbreviation": "Bank v. Fordyce",
+  "decision_date": "1848-11-28",
+  "docket_number": "",
+  "first_page": "275",
+  "last_page": "279",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts, 453",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846147
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/6/0453-01"
+      ]
+    },
+    {
+      "cite": "1 Black. Rep. 363",
+      "category": "reporters:scotus_early",
+      "reporter": "Black. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Binn. 616",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 W. & S. 172",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/8/0172-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 545,
+    "char_count": 10231,
+    "ocr_confidence": 0.385,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.033810658459238356
+    },
+    "sha256": "c115fbce7c8d947a8f3fc18f52df49fcc97b73b7b20e0ccff9c6ec295e2eac88",
+    "simhash": "1:2bd57d067e6d96c8",
+    "word_count": 1817
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bank v. Fordyce."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nThe testimony of Leazure, on cross-examination, when called to prove the execution of the assignment, was not out of place. Independent matter of defence may not be introduced by cross-examination of a witness to a collateral fact; but here, the cross-examination was to a fact which was an incident in the transaction proved, and which destroyed the effect of the testimony. It went to show that the assignment of the judgments against the drawer and the first endorser, was not an assignment of the judgments against the subsequent endorsers, who were pressing the executions which it was the object of the parties to those executions to supersede, and who could not have been quieted unless the judgments against themselves had been discharged by it. A party is entitled to bring out every circumstance relating to a fact which an adverse witness is called to prove. In Markley v. Swartzlander, 8 W. & S. 172, a party was allowed to cross-examine to new matter, because it was part of the res gestee; which is exactly this case.\nNor Avas the effect of the evidence thus brought out precluded by the opinion delivered when the cause was here before. If the bargain between Luce and the drawer was, that only the judgments against the latter and the first endorser Avere to be assigned \u2014 not the judgments against the subsequent endorsers; \u2014 and if that part of it was left out by reason of the declarations of the scrivener sanctioned by Luce, that the agreement was so, and that it was unnecessary to insert it, the case would fall distinctly within the principle of Miller v. Henderson, 10 S. & R. 290. Indeed, it would agree in all essential particulars with Hurst v. Kirkbride, the leading case on the subject, as it was stated by Chief Justice Tilghman, in Wallace v. Baker, 1 Binn. 616. The same principle was stated by my brother Rogers on the former occasion, with this qualification, that the evidence be clear and explicit; and it is certainly much more so now than it was then. It is clearly proved that not only Leazure, the agent of the bank, but Luce, the assignee, agreed that the assignment was not to carry the judgments against the subsequent endorsers; and that a stipulation to that effect was prevented from being inserted in the writing by the declaration of Mr. Cleavinger, the legal adviser of the parties, that it was unnecessary. After that, it would be a fraud in Luce to avail himself of the omission. Even had he not agreed that those judgments should not pass, but it had been made a condition by the bank, AYhich, being master of the subject, might assign on any conditions it should see fit to dictate, it is not easy to see why a fraud on it might not be set up by the subsequent endorsers as a fraud on a third person, just as the covert taking of a promissory note from a compounding creditor, was allowed to be set up by the maker in Cockshott v. Bennett, 2 T. Rep. 763, as a fraud on the other creditors, who had signed the deed of composition. The general principle has been applied to almost every variety of circumstances, in Child v. Danbridge, 2 Vern. 71; Small v. Brackley, 2 Vern. 602; Spurret v. Spiller, 1 Atk. 105; Smith v. Bromley, Doug. (2 Eng. ed.) 696, in note; Montefiori v. Montefiori, 1 Black. Rep. 363; Cook v. Grant, 16 S. & R. 198; and Stewart v. Kearney, 6 Watts, 453. The bank may have made terms with the subsequent endorsers, which it was bound to see executed; but, whatever the notice, as it was not bound to come into the arrangement on any other terms than its own, it had a right to have them enforced at the instance of those whom it intended to benefit by them. Then if Luce even stood silent when Leazure expressed the conditions of the assignment, he committed a fraud; and having held his peace when he ought to have spoken, he shall not be heard now.\nBut besides the ground of fraud, there is another on which the reception of the evidence, and the direction as to the effect of it, might be supported. Parol evidence is indisputably proper to rebut a presumption or an equity. \u201cThe meaning of this,\u201d says Professor Greenleaf in his Treatise on Evidence, vol. 1, part 2, ch. 5, \u00a7 296, \u201c is that where a certain presumption would in general be deduced from the nature of an act, such presumption may be repelled by extrinsic evidence showing the intention to be otherwise.\u201d Thus the presumption that legacies of the same stamp were not intended to be cumulative, or that a legacy to the executor was not intended to deprive him of the residue, or that a portion was intended to be satisfied by a bequest, was held to be rebutted, by parol proof, in Hurst v. Beach, 5 Madd. Rep. 360; Oldman v. Slater, 3 Sim. 84; Debeze v. Mann, 2 Bro. C. C. 165, and some other cases. Even an implication that a will was revoked by marriage and the birth of a child, has been thus rebutted. \u201c There is a technical phrase for it,\u201d said Lord Mansfield, in Brady v. Cubitt, Doug. 39; \u201cin the case of executors it is called rebutting an equityNow, the right of an assignee to have the ancillary securities of the debt, is only an equity resulting from a presumption of intention that they should pass as accessories of the principal; and it may consequently be rebutted by parol evidence that they were to be retained. That such an agreement would be good if inserted in the assignment, is not doubted; and why should it not be proved by parol, when the words of the assignment do not contradict it ? The testimony in this case neither contradicts nor varies the terms of the written assignment: it left to the assignee all that was specified in it; and it repelled merely an equitable inference from the nature of the transaction. A right to the benefit of concomitant securities, is an equity which can be enforced only by a chancellor; and an agreement to waive it ought equally to be enforced by him. If the testimony was true, the judgments against the subsequent endorsers were treated as exploded securities by the parties, and the court was bound to treat them as such.\nIf, however, it were disbelieved, a further question would arise. The bank had sued out executions against the drawer and first endorser; in the first of which, the sheriff had made an imperfect levy of the drawer\u2019s personal property, which was released by the assignment; and to the value of it, the present defendant claimed to be discharged as a surety. The judge charged, that \u201cif the sheriff had property levied and within his control, which would have made a certain amount of money, and Luce stayed the writs and thus released the levy,\u201d the defendant would be entitled to a credit pro tanto. The principle is not disputed; but it is insisted, on the authority of Lowrie v. Coulter, decided at this term, that there was in fact no levy, because the sheriff neither returned, nor proved by his testimony, that he had levied; and that the jury ought to have been so instructed. He testified that he did not see the property when he made a memorandum of the seizure; but there was no prayer for specific instruction as to that, without which the judge was not bound to notice it, and the levy was good, in any event, against all but execution-creditors and purchasers, of whose existence, in the particular case, there was no proof. The release of the property, therefore, was pro tanto a release of the sureties. But whether there was a levy or not, if the bank, having been warned, as it seems to have been, to proceed promptly against the property of the principal debtor, assigned its judgment against him to a party who, standing in its place, stayed its execution against him, or refused to sue out one, the sureties were discharged.\nWe see no valid objection to the competency of the drawer as a witness. He was released by the only party to whom he was responsible, and consequently was without interest in the event.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Downey, for plaintiff in error.",
+      "Sowell, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Bank v. Fordyce.\nWhere a witness is called to prove a written contract, the defendant may prove by his cross-examination circumstances occurring at the time, whereby the legal operation of the instrument was restrained.\nParol evidence is competent to rebut the presumption that a judgment against aD endorser passes by an assignment of a judgment against the principal.\nA levy on tlie goods of the drawer, and a release by order of the owner of the judgment, is a discharge of the endorsers pro tanto: and the plaintiff cannot object that it is a nullity because made by the sheriff without seeing the goods.\nThe drawer being released is a competent witness for Ms endorser, to prove payment, &c.\nIn error from the Common Pleas of-.\nThis was a scire facias to revive a judgment against Fordyce, an endorser of a note drawn by Shriver, and previously endorsed by other persons. The action was to the use of Luce, and he proved, by the cashier of the bank (plaintiff), the assignment to him by the bank of the judgments against Shriver, the drawer, and Shriver, the endorser of the note: (it is stated at length in 1 Barr, 456.) The first exception was to the court permitting the defendant, on cross-examination of this witness, to prove that the agreement with Luce was that the judgment against defendant should not be assigned; and when the assignment was brought to him to be executed, he objected to signing it unless this was stated in the instrument. The attorney then agreed this was the contract (to which Luce assented), and stated that this was its effect. Upon this understanding, he signed the paper. The court instructed the jury, that if this were so, the judgment against Fordyce did not pass by the assignment, and that the evidence was legal.\nThe defendant further proved, that executions against the drawer and prior endorser were left with the sheriff, and he made a levy at his own house, from a list furnished by them; which was subsequently stayed by the order of Luce. The court said this was a discharge of the subsequent endorsers to the extent of the value of these goods.\nThe defendant, also under exception, examined the drawer of the note in question, having given him a general release.\nThe errors assigned are all stated in the opinion of this court.\nDowney, for plaintiff in error.\nSowell, cont\u00f3.\nNov. 28."
+  },
+  "file_name": "0275-02",
+  "first_page_order": 275,
+  "last_page_order": 279
+}

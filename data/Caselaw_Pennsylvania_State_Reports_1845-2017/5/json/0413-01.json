@@ -1,0 +1,85 @@
+{
+  "id": 953498,
+  "name": "Stehman's Appeal",
+  "name_abbreviation": "Stehman's Appeal",
+  "decision_date": "1846-12-07",
+  "docket_number": "",
+  "first_page": "413",
+  "last_page": "418",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Pa. 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Watts, 77",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842761
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0077-01"
+      ]
+    },
+    {
+      "cite": "5 Rawle, 330",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 698,
+    "char_count": 12134,
+    "ocr_confidence": 0.399,
+    "pagerank": {
+      "raw": 3.823006898171815e-07,
+      "percentile": 0.8984359705913356
+    },
+    "sha256": "eaa7e784a71d652c5be1f54492e239d07aa074c40e6dbcbeb90b04789f060fe7",
+    "simhash": "1:3b0d8c05875780fe",
+    "word_count": 2104
+  },
+  "last_updated": "2024-02-27T17:56:52.675917+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stehman\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nIn this case four objections to the report of the auditors, and the decree of the court thereon, are principally insisted on by the appellant; these are, 1st. The refusal of the auditors to allow for any loss on sales of the property assigned, beyond the sum of $16 06-J. 2d. Their charge against the assignee, of $250 a year, rent of the real estate of assignor, for the years 1833 and 1834. 3d. Their refusal to allow a credit for an alleged payment of the sum of $550, made by the assignee before the assignment, to Christian Martin, in payment of a debt due from the assignor; and 4th, the supposed error committed by the court below, in disallowing the compensation claimed by the assignee, and allowed by the auditors. As to the three first of these exceptions, it may be well to say, that we are all satisfied of the propriety of the remark made by the Chief Justice, in the case of Harland\u2019s Accounts, (5 Rawle, 330,) that a report of auditors, in a case like the present, is entitled to much respect, and not to be set aside in whole or in part, except for plain mistake, which it is the business of the exceptant to establish by aflirmative evidence, when it is not itself evident in their report.\nAn examination of the labours of these auditors, as spread out upon the paper-hooks, makes it perfectly evident they have not done their work hastily or superficially. Much time was bestowed by them upon the investigation, and. a very thorough and searching examination instituted into the claims of the parties litigant, and the 'proofs, documentary and oral, introduced on both sides. The very voluminous report submitted to the court below, setting out with much particularity the reasons for the various conclusions arrived at by the auditors, gives assurance that each result was well weighed and considered before being adopted. It is now, therefore, reasonably to be expected, the party excepting to the report, would furnish us with a very clear and satisfactory proof of the errors of which he complains. In this, we think, he has not only fallen short, but totally failed. So far as we have been enabled to understand the minute particulars of which the several matters complained of are compounded, we are content with the reasoning of the report, and the deductions to which it leads. So many, therefore, of the exceptions taken as relate to the report of the auditors are overruled. Then, as to the objection to the action of the court below, in striking out the sum allowed as compensation to the accountant. Compensation to trustees is allowed in this and our sister states, as the reward of faithful execution of the trust confided. Integrity, industry, intelligence, and enlightened activity in the trustee, are the qualities which command reward. To compensate sloth, ignorance, reckless confusion, and procrastinating delay, by which the interests of the cestui que trust are impaired, instead of being promoted, would be to prevent the very object our system has in view in allowing compensation to trustees, by offering a premium to incapacity or dishonesty. Here the trust created by deed of the 16th of July, 1832, instead of being executed in one, two, or three years, has been spread over a period of fourteen years, and, after all, administered so bunglingly that intelligent accountants and men of business can only approximate the truth, after a most laborious investigation. That which ought to have been clear and lucid, has been involved in obscurity and doubt, by the gross negligence and almost criminal inattention of this assignee. Grave mistakes have been discovered, but are we sure that all of these have been brought to light ? All we know with certainty is, that the greatest carelessness on the part of the trustee has prevailed throughout the discharge of this trust, one consequence of which has been, to involve the estate of the assignee in a protracted and expensive litigation. There is no reason in sanctioning the claim of the assignee to be paid for performing very badly and insufficiently what he undertook to perform well and effectively. .Without intending to descend into minutim upon this point, it is sufficient to remark, that the reasons given by the court below, depending upon the particulars pointed out in the opinion accompanying the paper-book, for disallowing the compensation claimed, are sufficiently cogent to sustain their action in this respect.\nWe have not noticed the sale of real estate of the assignor, or the introduction of the amount of its proceeds into this account as an item of charge, because it has not been objected to on either side. We have, therefore, forborne to express any opinion on the subject. Decree affirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Parke, for appellant.",
+      "Frazer, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Stehman\u2019s Appeal.\nA report of auditors will not be set aside in whole or in part unless for plain mistake, which the exceptant must establish by affirmative evidence when it is not clearly apparent on the face of the report itself.\nIn this state, as well as in our sister states, compensation is allowed to trustees as the reward of a faithful execution of the trust confided to them; but the right to compensation is destroyed by sloth, ignorance, reckless confusion and procrastinating delay on the part of the trustees, by which the interests of the cestui que trust are impaired.\nDeo. 8. This was an appeal by Tobias Stehman, assignee of Henry Dietrich, under a- deed of voluntary assignment for the benefit of creditors, from the decree of the Court of Common Pleas of Lancaster county, confirming, with certain corrections, the report of auditors appointed by said court to examine and report upon the exceptions filed to the accounts of the said assignee.\nAfter a careful examination of a very voluminous paper-book, it appeared that the following brief extracts from the opinion of Judge Lewis, on the exceptions filed to the report of auditors in the court below, would sufficiently elucidate the questions involved in this case, and decided here.\n\u201c In this case, the auditors have bestowed much time and care in the investigation, and in making up their report. One of them was engaged thirty days, another thirty-four days, and a third, as we infer from the charge, sixty-five days, in discharging the duties assigned them. The manner in which the task has been performed, deservedly received the commendation of all parties during the argument in court. Under these circumstances, the report is entitled to great consideration; every presumption should be made in its favour. \u2022 The rule which governs verdicts and reports of arbitrators, should be applied in its fullest extent; and the report, thus carefully made upon a long, tedious and careful examination of testimony, written and parole, should not be disturbed except for plain mistake. It is not sufficient that the judges of this court might be inclined to draw different conclusions from those adopted by the auditors. It must be remembered that the latter have the witnesses before them, and, in hearing and seeing the parties and their witnesses face to face, they are enabled to judge of the manner as well as the matter, and thus enjoy advantages superior to those possessed by the tribunal which reviews the proceedings only as they imperfectly appear upon paper.\n\u201c The auditors have allowed the accountant commissions on various sums of money, at different periods of time, amounting, in, the aggregate, to $826 23. An opinion seems to prevail, that a trustee is always, and under all circumstances, to be paid a commission upon the funds which pass through his hands. The commission is only to be allowed where the trustee has performed his duty with fidelity. He should keep correct accounts of his receipts and disbursements, and should make every reasonable effort to settle the estate as speedily as possible. If he omit to do this \u2014 if he fail to disclose the true state of his trust accounts \u2014 if he drive the party in interest to great trouble and expense, in order to compel the trustee to perform that which he should do without compulsion, and for the performance of which his commission is allowed as a compensation \u2014 if he keep his accounts in such inextricable confusion, as to place it altogether out of the power of the party in interest, or the auditors, to arrive at a clear view of the case, and compel the waste of sixty-five days\u2019 time to investigate his transactions, where two or three days would have been sufficient \u2014 if, in fine, he attempt to swallow up all the estate by improper charges and omissions in stating his accounts, when in fact there is a large balance against him, he surely presents no just claim to compensation. Much of the litigation in the Orphan\u2019s. Court \u2014 and it is immense in this county \u2014 arises from the unjust pretensions of persons acting in a fiduciary character. At one time it was thought that an.executor or administrator might unjustly vex the persons entitled with.out danger of costs. But this opinion, it is believed, is exploded; and it is time that it should be distinctly understood that a trustee may not only be made to pay the cost of litigation improperly carried on for his own benefit, but that he can receive no compensation for his services where he has shown a want of good faith and ordinary care and diligence in the execution of the trust. The principles announced by Mr. Justice Kennedy in delivering the opinion of the Supreme Court, in Swartswalter\u2019s case, 4 Watts, 77, are just in themselves and wholesome in their tendency.\n\u201c It is not intended to indulge in any severity of remark in reference to this part of the case. The facts must speak for themselves. We only refer to some of the more prominent. The assignment was made on the 16th July, 1832, so that the assignee obtained the corn, potatoes and much other produce of the farm for that year\u2014 also enjoyed the crops harvested in the summer of 1833 \u2014 the same for the summer of 1834, amounting to more than $1000 \u2014 but in his account, rendered under oath on the 22d December, 1838, he omits to charge himself with any greater amount than $444 28\u00bf\u2014 he sold wood from the place to amount of $44 50 \u2014 received money for grain sold by the assignor, to amount of $50 \u2014 received money for pasture, $8 43 \u2014 kept and fed cattle on the place, of all which he is perfectly silent in his account. He received the sum of $316 61J, from Christian Martin for the assignor, with which he omits to charge himself \u2014 he claims a credit for $2495 15, instead of $2178 53-J, paid to Adam Dietrich, thus receiving to his own use the sum of $316 61J, which he had already received once, in the bond of 17th April, 1832. This error, if it may be called an error, is repeated in the charge for payment to Tobias Dietrich\u2014 again, in the payment to Daniel Good and wife \u2014 and again, in the payment to Mary Dietrich, thus making an unjust claim of the sum of $316 61 J, five different times. He has also claimed for the Mylin bond $635 41, instead of $523 19, the excess being made up of interest charged after ho had paid and taken up the bond, and had funds in his hands for the purpose. He also claimed $7404 24, instead of $6800 78, for the bond he held against the assignor, thus claiming $603 46, for interest on the bond which accrued after it was paid by funds in his hands. He claimed for a loss of $423 33, on the sale of the personalty, instead of $16 06|. He claimed for the assignor\u2019s share of a debt of $933 46, the sum of $188 78, when it ought to have been only $165 21; and he claimed in his first account a balance of $1379 23, and in his supplementary account a balance of $1432 23f, when, upon examination, there appears to have been a balance of thousands in his hands ! Under these circumstances, it is ordered, that the sums allowed for commissions, amounting in the aggregate to $826 23, be stricken from the credit side of the account.\u201d\nThe questions raised and insisted upon here are fully stated in the opinion of the court.\nDec. 7.\nParke, for appellant.\nFrazer, contra.\nThe following cases of May Term, 1846, were argued at an adjourned court, held at Lancaster, commencing on'November 30, 1846."
+  },
+  "file_name": "0413-01",
+  "first_page_order": 413,
+  "last_page_order": 418
+}

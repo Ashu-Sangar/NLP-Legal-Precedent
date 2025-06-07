@@ -1,0 +1,147 @@
+{
+  "id": 400559,
+  "name": "McGarr v. Lloyd; Lloyd v. McGarr",
+  "name_abbreviation": "McGarr v. Lloyd",
+  "decision_date": "1846-09-24",
+  "docket_number": "",
+  "first_page": "474",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 474"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "21 Johns. Rep. 149",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Mass. Rep. 445",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Pick. Rep. 68",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Pick. Rep. 460",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2011460
+      ],
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/23/0462-01"
+      ]
+    },
+    {
+      "cite": "9 Wheat. Rep. 581",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421262
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/22/0581-01"
+      ]
+    },
+    {
+      "cite": "6 Serg. & Rawle, 329",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Peters' Rep. 179",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "180"
+        },
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Whart. Rep. 414",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 836,
+    "char_count": 22965,
+    "ocr_confidence": 0.552,
+    "pagerank": {
+      "raw": 9.788152318621587e-08,
+      "percentile": 0.5324314274693235
+    },
+    "sha256": "d88136b21298e4f35df9c58cdf44af1c3d49eba4b2e543434286721375faf006",
+    "simhash": "1:bf374ac47eca52f4",
+    "word_count": 4065
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McGarr v. Lloyd. Lloyd v. McGarr."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nIn Chesner v. Noyes, 4 Camp. 291, it was admitted that the sealed protest of a foreign notary, made abroad, proves itself, without showing by whom it was made ; and the original in the present case would consequently have been evidence of the fact of protest for non-payment, which, as the bill was a foreign one, was an essential part of the plaintiff\u2019s case. What then did they produce in the place of it? No less than a sworn copy of it by the notary himself, who testified that he was at the time a notary public, duly commissioned; that his term of office had expired; that no successor to him had been, or could be appointed; and that the laws of the state gave him no authority to certify any document under his former notarial seal. This, being the best evidence of which the nature of the case admitted, was sufficient to supply the want of a seal; but the protest itself, though proof of dishonour, would not have been evidence of notice, as our statute is expressly confined to protests made under the authority of our own state. For evidence of notice, however, the plaintiff relied, not on the protest, but on the testimony of the notary, who swore to all that was necessary to constitute it beyond contradiction, except that he did not expressly say that the notice put into the post-office by him was addressed to the defendant in Pittsburgh, where he resided. But the legal presumption is, that he did all that the law exacted of him as an officer or an agent; and it seems not to have been rebutted. The plaintiffs were properly allowed to recover them; but they were not allowed to recover enough.\nThere is neither reason nor authority for saying that the five per cent, allowed by statute on the protest of a foreign bill, must be specially demanded in the declaration. It is not given as a penalty for drawing without authority, but as commutation for interest, damages, and re-exchange. It is, in truth, a liquidation of the damages, not by the parties but by the law, fixing the compensation for the loss beforehand, to save time and litigation; and if damages need not be specially laid where there is no statute on the subject, as they certainly need not be in England, no rule of pleading requires them to be laid in their liquidated form. It is said in Chitty\u2019s Pleading, 232, that such damages as may be presumed to result necessarily from the breach of a contract, need not be specially laid; and damages are .presumed to result from the dishonour of a foreign bill: the very statute by which they are liquidated presumes it. Again, p. 387, it is said that general damages for torts are such as the law implies from the wrong, but that where there is no legal implication, the actual- damages must be particularly stated. On principles of analogy, therefore, as the law implies damages to the amount of five per cent, for the dishonour of the bill in question, it was unnecessary to lay them specially, either to apprize the defendant of what he had to encounter, for he could make no resistance, or to satisfy any rule of pleading applicable to declarations either for torts or contracts. The plaintiff, then, is entitled to the amount of the bill and five per cent, additional, with interest on the whole from the date of the protest to the date of the judgment below, which is to be considered as having been rendered for the sum then legally due; and the computation is referred to the prothonotary, who is directed to enter judgment for the amount.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "McClure and McCandless, for plaintiff in error.",
+      "Wills, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "McGarr v. Lloyd. Lloyd v. McGarr.\nWhere the original sealed protest of a foreign bill of exchange was destroyed by fire, and the foreign notary, who made the protest, testified, that he was at the time a notary public duly commissioned, that his term of office had expired, that no successor to him had been, or could be appointed, and that the laws of the state gave him no authority to certify any document under his former notarial seal; it was held, that a sworn copy of the original protest by such foreign notary himself, being the best evidence of which the nature of the oase admitted, ivas sufficient to supply the want of a seal.\nWhere all that is necessary to constitute notice to the drawer of a foreign bill of exchange of the protest thereof, is proved by the testimony of the foreign notary, except that he did not expressly say, that the notice put inte? the post-office by him was addressed to the drawer at the place where he resided; the legal presumption is, that the notary did all that the law exacted of him, as an officer or an agent.\nThe five per cent, allowed by statute on the protest of a foreign bill of exchange, need not be specially demanded in the declaration. t\nIn an action by the holder of a dishonoured foreign bill of exchange, against the drawer; the plaintiff is entitled to the amount of the bill and five per cent, additional, with interest on the whole from the date of the protest to the date of the judgment below.\nError to the District Court of Allegheny county.\nSeptember 15. The writs of error taken in this case, by each party, arose out of an action of assumpsit on a bill of exchange, brought by Daniel Lloyd, the holder, against Patrick McGarr, the drawer, and one of the endorsers. The bill was drawn by the defendant, in Pittsburgh, on E. Lyttle & Co., of Galena, Illinois, and accepted by them, for $311 50, dated March 11,1842, payable to Smith, Royer & Co., or order, six months after date, at the Bank of Missouri, St. Louis; and was endorsed in blank by Smith, Royer & Co., P. McGarr, and Myers, Richey & Co., and specially, for purposes of collection, by W. H. Denny, cashier of the Merchants\u2019 and Manufacturers\u2019 Bank of Pittsburgh, to H. Shurlds, Esq., cashier, or order. After it had been protested and lifted, it passed into the hands of the plaintiff, for value, by delivery. The declaration contained three counts, charging McGarr, the defendant, in both characters as drawer and endorser, and alleging in the usual form, the drawing, endorsing, and acceptance of the bill, its presentment for payment, dishonour, protest, and notice to the drawer and endorsers at the proper time and places, and concluding generally, \u201cto the damage of the plaintiffs, six hundred dollars.\u201d\nThe questions involved in the writs of error were on points of evidence and pleading. The bill of exchange and protest had been destroyed by the great fire of the 10th of April, 1845, at Pittsburgh, as was proved; and the questions of evidence arose in making secondary proof of the existence of the bill, protest, &c. The notary who had protested the bill for non-payment, and notified the drawer and endorsers thereof, had gone out of office, and was unable, as he was legally informed, to give a certified copy, under his former notarial seal, of the notarial register of his proceedings in this case. To prove this fact, and to supply the necessary secondary evidence of the protest, as well as proof of due notice of the dishonour of the bill, to the drawer and endorsers, the plaintiff took out a commission to take the deposition of the notary as to the facts; which was accordingly done, and the commission was duly executed, and returned with the answers of Andrew Elliott, the notary, to the interrogatories submitted.\nOn the trial, the plaintiffs offered this deposition in evidence; to which the defendant objected, on the ground, that the protest itself, 'if produced, would not be evidence, and therefore, that the copy, if proved, would not. But, per curiam, \u201cthe witness proves the facts. And although the original might not be evidence, the testimony of the witness to the fact is evidence. And supposing that the copy is not evidence if the original would not, yet as a memorandum taken at the time, and sworn to by the witness now, it is received.\u201d This was defendant\u2019s first bill of exceptions.\nThe deposition of the witness, in answer to the interrogatories submitted, was then read, and was in substance as follows :\nTo the first interrogatory, witness answers as follows:\n\u201cI was a notary-public, duly commissioned and qualified, in and for the city and county of St. Louis, and state of Missouri, during the year 1842, and for some time before and after that year, and acted as such, having a proper seal of office.\u201d\nTo the-second interrogatory, witness answers as follows:\n\u201cI am not now a notary-public, my term of office having expired in January, 1845. There is no successor to me in that office, and as I am advised by counsel learned in the law, the laws of the state of Missouri do not provide for any succession in the office of notary-public in this state; and that my commission having expired, I have no authority or power, by the laws of the state of Missouri, to certify under my former notarial seal, or to affix or use the same in any manner, or for any purpose whatever.\u201d\nTo the third interrogatory on part of plaintiff, witness answers as follows:\n\u201c On the 14th day of September, a. d. 1842, while acting as notary-public, I did protest, for non-payment, a certain bill of exchange, dated at Pittsburgh, March 11, 1842, and drawn by P. McGarr in favour of Smith, Royer & Co., for $311 50, payable six months after date, at the Bank of Missouri, St. Louis, for value received ; which bill was addressed to Messrs. E. Lyttle & Co., Galena, Illinois, and was accepted in writing across the face thereof, E. Lyttle & Co.; of which bill a true and exact copy is given as follows, taken from the record of my proceedings as notary-public, of the year 1842, and which I believe to be entirely correct, viz.:\u2014\n\u201c,$311 Pittsburgh, March 11, 1842.\n\u2018 Six months after | date, pay to the order of Smith, Royer & Co., three hundred || and eleven dollars, at the Bank of Missouri, Saint Louis, \"\u2019\u00a1i value received, and charge the same to account of,\n\u2018Yours resp\u2019y, P, McGarr.\n\u2018To Messrs. E. Lyttle & Co.,\n\u2018Galena, Mlinois.\u2019\nEndorsed,\n\u2018 Smith, Royer & Go.,\n\u2018P. McGarr,\n\u2018Myers & Richey.\n\u2018Pay to H. Shurld, Esq., Cash\u2019r, or order,\n\u2018W. H. Denny, Cash\u2019r. \u2019\n\u201cI presented the bill of- exchange, of which the above is a copy, at the Bank of the State of Missouri, at St. Louis, to the teller thereof, for payment, and demanded payment of the same, on the 14th day of September, in the year 1842, during banking hours of that day, to which he replied, that he would-not pay said bill; and on the same day I protested said bill, under myffiand and seal of office, in due form, for non-payment-; and on the morning of the following day, that is to say, on the 15th day of September, in the year 1842, I deposited- in the post-office at St. Louis aforesaid, written notices in the form of letters, of the non-payment of the said bill, and of the protest thereof, as above stated,.in the usual form, and' directed one notice to each, the drawer and endorsers of said bill, informing each of them that the said bill had been- duly presented for payment, and protested as aforesaid. , . \u2022\nt \u201cArid I further say, that ike exhibit hereto annexed, marked \u2018Af and by me signed, contains a full, true, complete and exact copy of the records of my notarial proceedings in relation to the above-mentioned bill of exchange, as the same now remain of record in my office, duly recorded in my notarial book; and the same is a true and correct copy of the protest, which was attached to and delivered with the bill aforesaid, with the exception Q.f the memorandum -in the margin and at the bottom of the second page thereof, and except that m-y notarial seal was affixed to the said protest.\u201d\nThe exhibit marked A., and referred to by the witness in his deposition, and given in 'evidence, contained a sworn copy of the original protest in the usual form; and also of the bill of exchange, and the names of the drawers and endorsers thereof. The memorandum on the margin and at the bottom of page 2, also referred to by the witness in his deposition, was a note of the acts of the witness as notary in the case, and were in the following words\n\u201cMailed this Thursday morning, the 15th, at 6J o'clock, A. M.\u201d \u201cNotice to the drawer and endorsers sent to Pittsburgh; to E. Eyttle fy Co., sent to Galena, by A. E.\u201d\nThe plaintiff then called Wm. Turbet, who testified, in substance, as follows:\u2014 \u2019 ' ,\n\u201cI was attending to the books of-Sniith, Royer & Co., in 1842. Patrick McGarr, the defendant, gave Smith, Royer & Co. his bill of exchange on E. Lyttle & Co., of Galena, .Illinois, for $>311 50. It was dated 11th March, 1842, payable six months after -date. I saw the bill; saw Patrick McGarr write endorsements. The bill was accepted. Smith, Royer & Co. endorsed the bill in Smith\u2019s handwriting.\n\u201cMyers & Richey afterwards endorsed, to give it credit in bank. On 29th June, 1842, I entered the bill to the credit of Patrick McGarr, to be taken out in iron at his convenience, which was done.\n\u201cI had seen the acceptances of Lyttle & Co. before, which were paid. I believe that to have been their acceptance. Smith, Royer & Co. passed bill to D. Lloyd, with a protest attached to it.\u201d\nThe plaintiff then called Nathaniel Buckmaster, who testified as follows:\n\u201cI remember perfectly well David Lloyd brought me this bill for collection. It was drawn by McGarr, and endorsed by McGarr, as stated by the previous witness. It was handed to me for collection. The declaration is drawn from it by me, while in my possession. Declaration describes the bill, parties, endorsement, &c., correctly. It was accompanied with the usual protest by a notary in St. Louis, as stated in this declaration.\n\u201c The bill of exchange with the protest, as described in this declaration, was consumed in my office, in the great fire of 1845. I was absent at the time, and my office and all its contents were destroyed.\n\u201cI recollect that the protest stated, in usual form, that the bill was presented for payment and not paid, and that notice to the drawer, See., was given.\n\u201c I recollect there was a protest, under seal of a notary, in usual form, stating that demand had been made of acceptors, and notice given to the endorsers.\u201d\nThe court instructed the jury to find for plaintiff, if they believed the testimony, reserving the points made by defendant\u2019s counsel, as sufficient in law to ascertain plaintiff\u2019s case.\nThe court also instructed the jury to calculate the damages for re-excliange, Sec. on the bill separately, Sec.; subject to opinion of court, whether plaintiff is entitled to such damages under the pleadings in the case. To which instruction, a bill of exception was sealed, at defendant\u2019s instance.\nThe jury found for the plaintiff, $382 39, and the further sum of $15 52, damages for re-exchange, &c., subject to opinion of court.\nThe following were the points submitted by the defendant, and reserved by the court:\n\u201cFirst. A demand on the acceptor by a notary-public of the state of Missouri is not a sufficient demand io fix the drawer.\n\u201c Second. A protest signed and sealed my a foreign notary is not evidence in Pennsylvania, nor is a sworn copy of such protest evidence.\n\u201cThird. Notary\u2019s authority to act as such cannot be proved by himself; the best evidence being the commission under which he acted.\n\u201c Fourth. There is no sufficient notice proved to fix the drawer; the notary stating merely that he put the notice in the post-office, without stating to what place it was directed.\n\u201c Fifth. The plaintiff is not entitled to damages, the same not having been demanded in his declaration.\n\u201c Sixth. As between the drawer and payee of this bill, it is not a foreign bill.\n\u201c Seventh. Plaintiff is not entitled, under the act of Assembly, to interest and damages both: the damages being in lieu of interest, and all expenses, except the costs of protest.\u201d\nAnswers of court (Grier, President J.) on reserved points :\n\u201c First, second, and third. The first three points require no answer to any person acquainted with commercial law, or if they do, it will be found in section 277, of Story\u2019s Treatise on Bills. Our own act of Assembly, of 30th March, 1821, entitled \u2018 An Act concerning Bills of Exchange,\u2019 recognises and requires protests by foreign notaries. A sworn copy of an original which has been destroyed, has always been received as the best secondary evidence.\n\u201c Fourth. In answer to the fourth point, it is sufficient to state, that although the notary has omitted to state in his testimony, to what post-office the notice was directed, yet, in a sworn copy of the record or memorandum made at the time, (and which the witness swears contains a correct note of his action in the case,) it appears that the notices were sent by mail to Pittsburgh, where it is admitted the defendant resided. This was sufficient prima facie proof of notice to fix the endorser.\n\u201c Fifth. The fifth point is correct, if construed to refer to the damages given in place of re-exchange, &c., by act of 30th March, 1821. The general averment of the declaration to the damages, &e., will not entitle the plaintiff to any other damage than interest and costs of protest; the five per cent, given by statute should be specially claimed. The following form has been used by a good pleader, after stating bill, protest, &c.: \u2018 By reason of which premises, and by force of the statute in such case made and provided, action hath accrued to the plaintiff, to demand, and have of said defendant, the sum of-, and interest thereon from (date of protest,) together with five per cent, damages, &c.\u2019 Slocum v. Pomeroy, 6 Cranch.\u201d\nMcClure and McCandless, for plaintiff in error.\nA foreign protest, it has been decided, is evidence here; a domestic protest was not, until made so by act of Assembly. Foreign protest not evidence of any other than the single fact that the notary had made the protest. It is not evidence of notice. The court should not have received it as evidence of any other fact mentioned or contained in it, than that of the protest. But it was admitted as evidence, not only of that, but of every other fact stated therein. If it had been the protest of a notary appointed by the governor of this state, and acting under our laws, then, under the act of 1815, it would have been evidence of all such facts. A certificate of a notary, if it be worth any thing, should have the notarial seal. Here it had not.\nWhere an act of Assembly gives damages for the dishonour of a bill, the party is not entitled to interest. If this act of Assembly were out of the way, then the party would be entitled to interest from the time of the protest, up to the time of the trial. No interest on a bill, until day of protest, when it matures. Etting v. Schuylkill Bank, 2 Barr, 355, rules this case.\nWills, for defendant in error.\nIn answer to the sixth point. This is a foreign bill. Story on Bills, sect. 23; 3 Kent\u2019s Com. p. 94 b; 6 Whart. Rep. 414; 2 Peters\u2019 Rep. 179, 180.\nIn answer to the first, second, and third points. First. By the general commercial law, a notarial certificate of protest, by a ftv reign notary, is, of itself, sufficient proof of the dishonour of a foreign bill. 2 Peters\u2019 Rep. 179,180; Story on Bills, sect. 277, 397; 3 Kent\u2019s Com. p.93, 94; 6 Whart. Rep. 414 ; 2 Barr\u2019s Rep. 85, 355.\nSecond. The act of January 2, 1815, relating to notaries, does not change the general commercial law in this respect. It is a remedial, and not a disabling statute. By the common law, before its passage, a foreign notary\u2019s certificate of protest was evidence of the fact of protest, and proved itself. On the contrary, a domestic notary\u2019s was not. His protest had to be proved by himself as a witness. Chitty on Bills, p. 642, 643, ed. of 1839; Story on Bills, 304, note 2. This act was passed, in the first place, to remove this difference ; and in the second, to make a domestic notary\u2019s certificate evidence for more purposes than those of foreign notaries. 6 Serg. & Rawle, 329, 331 ; 2 Barr\u2019s Rep. 355. It was not designed to invalidate a foreign notary\u2019s certificate, as is contended. Such a construction would change the common law, not only without reason, but contrary to reason.\nThird. The original certificate of protest being evidence under our law, on proof of its destruction, a sworn copy furnished by the notary, from his records, was, under the circumstances, the best secondary evidence, and admissible as such. 1 Greenleaf on Evidence, 84, note; 2 Starkie on Evidence, 142, and cases cited in notes; 1 United States Dig. p. 428, sect. 214 \u2014 217; 9 Wheat. Rep. 581.\nIn answer to the fourth point. When a person in one instrument of writing refers to another by way of description, specification, or the like, the latter thereby becomes incorporated as a part of the former. 4 Greenleaf\u2019s Rep. 475 ; 6 Pick. Rep. 460, 461; 15 Pick. Rep. 68; 17 Mass. Rep. 445, 446. Under this principle, the exhibit marked \u00ab A,\u201d became part of the deposition, and showed that the notices were sent to Pittsburgh.\nIn answer to the seventh point. The plaintiff below was entitled to the fixed damages given by the act of March 30, 1821, in lieu of interest and all other charges, (except the charges of protest,) up to the time of notice of the dishonour of the bill; and to interest on the gross sum of principal, fixed damages, and the costs of protest, from that time up to the rendition of the verdict. McKenney\u2019s Dig., Bills of Exchange, p. 126.\n1. The five per cent, damages given by the act of March 30,1821, are given as fixed damages, and not as a penalty. ' If given as a penalty they ought to have been specially claimed. But they are not. By the second section of the act, they are expressly said to be given in lieu of interest and all other charges, except the costs of protest, &c. Fixed damages are given, in this and similar cases, on grounds of public policy and general convenience, in order to avoid numerous minute and perplexing inquiries. Story on Bills, 407, 408, and notes; Chitty on Bills, p.-666, and note 1, edit, of 1839; 3 Kent\u2019s Com. p. 115 \u2014 117, 118,120. In the absence of any such statute, the plaintiff could have recovered, under the general claim for damages, all the damages he had sustained, in lieu of which the fixed damages are given.\n2. The rules of pleading do not require these damages to be claimed specially: First, damages sustained by the breach of a contract are mere matter of evidence, and need not be specially alleged. They are scarcely ever claimed but in a general manner. 21 Johns. Rep. 149. Their fixation by statute cannot change this rule. Second, when damages must necessarily be presumed from the breach of a contract, they need not be specially claimed. 1 Chitty\u2019s Plead. 338, 395, 396. The court below in ruling this point admit, that \u201cinterest and the costs of protest\u201d may be recovered under the general claim for damages. Then why not \u201c the five per cent, damages ?\u201d They are all given by the same statute. A general right to damages for the dishonour of foreign bills of exchange is given by the act of March 30, 1821, and therefore, it need not be specially pleaded. \u25a0\nSept. 24."
+  },
+  "file_name": "0474-01",
+  "first_page_order": 472,
+  "last_page_order": 481
+}

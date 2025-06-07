@@ -1,0 +1,91 @@
+{
+  "id": 962700,
+  "name": "Christy v. Flemington",
+  "name_abbreviation": "Christy v. Flemington",
+  "decision_date": "1848-03-12",
+  "docket_number": "",
+  "first_page": "129",
+  "last_page": "130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wheat. 514",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11730721
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/19/0514-01"
+      ]
+    },
+    {
+      "cite": "3 Cow. 159",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2157992
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/3/0159-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 312,
+    "char_count": 4760,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 1.92578884379616e-07,
+      "percentile": 0.733592769308172
+    },
+    "sha256": "d65801b5bd8bba6df073d8ac8d9a2071d25f955813a9fd41b5024725b8bf1ce0",
+    "simhash": "1:4263d5f6ce23946c",
+    "word_count": 837
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christy v. Flemington."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe acknowledgment on which the plaintiff relies, to take the case out of the statute of limitations, is contained in the schedule attached to the petition of the defendant in error for the benefit of the insolvent laws. This acknowledgment, without aid or help from any other evidence of the debt, is relied upon, on the plea of non assumpsit; and, also, on the plea of non assumpsit infr\u00e1 sex annos. If it is a good and valid acknowledgment of a debt, and not inconsistent with a promise to pay, the plaintiff would be entitled to recover. But we must consider the object and design of the schedule, in order to ascertain the value and intent of this acknowledgment.\nThe whole import of the proceeding is an assertion on the part of the applicant, that he is unable to pay his debts; but is willing to transfer his property to trustees, for the benefit of his creditors, to be distributed pro rata. He is bound to furnish a list, so that it may be so distributed. The schedule is also designed for his protection from subsequent arrest, by creditors therein named.\nThis acknowledgment, therefore, is nothing more than an admission of the debt, accompanied with a declaration, that the debtor is unable to pay. It is a public manifestation, that he will surrender his property into the hands of trustees, to be distributed according to law, and is a giving up, with the knowledge of the creditor, the very means by which he could pay the debt. If it is contended that it amounted to and was not inconsistent with a promise to pay if he ever acquired property and became of ability to do so, then the plaintiff was bound to show that he had acquired property and was able. We have ruled at this term, in the case of Laforge v. Jayne, 9 Barr, 410, that a promise to pay when able, in order to take a case out of the statute, must be accompanied with proof of ability.\nBut this acknowledgment was insufficient, according to the spirit of many late decisions of this court; because it was not so distinct and palpable in its intent and form as to preclude hesitation: \u201c R. F. Christy, borrowed money, $75.\u201d This is not an acknowledgment to the plaintiff himself, nor his agent, nor with a view of payment by defendant. It does not specify when the money was borrowed, whether any interest was due, or whether it was to carry interest, nor whether anything had been paid. It was a statement to comply with the provisions of the insolvent statute. And every person acquainted with such schedules is aware, that as they are made from memory, generally in the office of an attorney, they require revision. And insolvent trustees would act very unwisely, who adopted these schedules, without requiring any evidence of the extent and form of the pre-existing debt. Other creditors, who exhibited bond fide evidence of indebtedness, would have a right to demand the exhibition of the original claim. The 25th section of the statute requires the insolvent trustees to give notice of a certain time and place of receiving proofs of the claims of the creditors, and they are required to make a report, which must be filed with the prothonotary, who is, by the 26th section, required to give notice to the creditors, who may appear and file exceptions. The trustees cannot pay or distribute, until the report is approved by the court.\nThere is a decision in point, by a highly respectable court in our own state,- whose reported decisions are always cited in this court with approbation, to wit, that the return in an insolvent\u2019s petition of the debt due to the plaintiff, is not such an acknowledgment as takes the case out of the statute of limitations: Brown v. Bridges, 2 Mil. 424.\nWe think the decision of the court below is fully sustained by the statute, which ought to be interpreted with the same fair and full effect as any other statute, and that it is sustained by the spirit and tenor of many adjudged cases in this court.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Tennery, for plaintiff in error.",
+      "Ingraham, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Christy v. Flemington.\nA statement of a debt in the schedule of an insolvent is not such an acknowledgment as will take the case out of the statute of limitations.\nIn error from the Common Pleas of Philadelphia.\nMarch 9. Assumpsit. Plea, the statute of limitations, replication, assumpsit infr\u00e1, &c. The evidence was the defendant\u2019s sworn petition for the benefit of the insolvent laws.\nIn the accompanying schedule was the following :\u2014\n\u201cIt. F. Christy, borrowed money, $75.\u201d\nParsons, J., directed a verdict for defendant.\nTennery, for plaintiff in error.\nAn acknowledgment must be consistent with a promise to pay. Here was a sworn admission, and nothing to show an intent not to pay, but a mere present disability. In 3 Cow. 159, and 6 Wheat. 514, it was said to be sufficient.\nIngraham, cont\u00f3.\nMarch 12."
+  },
+  "file_name": "0129-01",
+  "first_page_order": 129,
+  "last_page_order": 130
+}

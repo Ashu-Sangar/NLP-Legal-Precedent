@@ -1,0 +1,73 @@
+{
+  "id": 957781,
+  "name": "Robb v. Harlan",
+  "name_abbreviation": "Robb v. Harlan",
+  "decision_date": "1847-12",
+  "docket_number": "",
+  "first_page": "292",
+  "last_page": "293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 292"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Serg. & Rawle, 408",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 192,
+    "char_count": 2303,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 6.328412777261071e-08,
+      "percentile": 0.3889359958823854
+    },
+    "sha256": "739cbe86b4a4c10a75536d8ec533e71a32170ca9ff3079d2e0aa12dc6b96f401",
+    "simhash": "1:80ebaba4ac90f8e0",
+    "word_count": 411
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robb v. Harlan."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nWe do not say that the legislature has no constitutional power to restore a right of action barred by the statute of limitations, which operates not on the right, but on the remedy, except in the case of a right of entry; but nothing less than plain and unequivocal words would convince us that they meant to do so. The act of 1713 had no saving in the ease of persons beyond sea, and the plaintiff\u2019s right of action in this case was completely barred by it when the legislature, enacted the statute of 1842, which declares that the act of 1713 \u201c shall hereafter not extend to cases where the defendant or defendants in any suit shall be beyond sea at the time of such cause of action accrued:\u201d words which are plainly prospective, and which, therefore, do not touch the plaintiff\u2019s case.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "N. B. Browne, for plaintiff in error.",
+      "S. D. Gilpin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Robb v. Harlan.\nThe act of 1842, which declares that \u00abthe act of 1713 (Statute of Limitations) shall hereafter not extend to cases where the defendant in any suit shall be beyond sea at the time such cause of action accrued,\u201d is prospective, and does not affect a case where the six years had expired before suit brought.\nIn error from the District Court of Philadelphia.\nJan. 17. Assumpsit for goods sold in 1821-2, the credit for which expired in 1823. Plea, statute of limitations. The plaintiff proved the defendant went beyond seas in 1822, and there remained until 1841, when this action was commenced. The court (Stroud, J.) directed a verdict for the defendant.\nN. B. Browne, for plaintiff in error.\nThe statute bars the remedy, not the right; and it is settled the legislature may extend or abridge the remedy at their pleasure. Here no vested right is dealt with, but the bar of the remedy is destroyed. It is plainly extended to causes of action existing prior to 1842, otherwise it cannot operate within six years from its date. o\nS. D. Gilpin, contra.\nThe action was gone when the act was passed. Relying on that, the party might have destroyed receipts. But the courts always presume statutes to be prospective in their operation; Helmore v. Shuter, 2 Show. 16; Bedford v. Shilling, 4 Serg. & Rawle, 408; and in Bronson v. Kinzie, 1 How. S. C. 311, it is declared the constitution refers as much to the remedy as to the right, where the remedy is part of the contract."
+  },
+  "file_name": "0292-01",
+  "first_page_order": 292,
+  "last_page_order": 293
+}

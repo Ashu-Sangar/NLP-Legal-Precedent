@@ -1,0 +1,105 @@
+{
+  "id": 959486,
+  "name": "Moore v. Commonwealth",
+  "name_abbreviation": "Moore v. Commonwealth",
+  "decision_date": "1848-06-08",
+  "docket_number": "",
+  "first_page": "260",
+  "last_page": "265",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Johns. 201",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369225
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0201-01"
+      ]
+    },
+    {
+      "cite": "3 Chit. Crim. Law, 997",
+      "category": "reporters:state",
+      "reporter": "Chit. Cr. Law",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Chit. Crim. Law, 996",
+      "category": "reporters:state",
+      "reporter": "Chit. Cr. Law",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 H. 8",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Chit. Crim. Law, 994",
+      "category": "reporters:state",
+      "reporter": "Chit. Cr. Law",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 618,
+    "char_count": 12562,
+    "ocr_confidence": 0.4,
+    "pagerank": {
+      "raw": 4.40651166414948e-07,
+      "percentile": 0.9200789312427096
+    },
+    "sha256": "71e892c06cec9cf71003860f83b3fb40cdc2ef5474066315033b9d3b7396221e",
+    "simhash": "1:ce57cbe4a4b895ef",
+    "word_count": 2226
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Eogers and Coulter, Js., dissented."
+    ],
+    "parties": [
+      "Moore v. Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe act of the 12th of April, 1842, \u201cto abolish imprisonment for debt, and to punish fraudulent debtors,\u201d is wise in its provisions, and humane in its objects; but constructions have been attempted to be put upon it which the legislature never contemplated. The indictment in question is predicated, and attempted to be supported 021 the 21st section of the act, which provides \u201c that every person who with intent to cheat and defraud another, shall designedly, by reason of any false token, in writing, or by any false pretence whatever, obtain from any person any money, personal property, or other valuable things, upon conviction,\u201d &c.\nWhat did the defendant obtain ? A receipt for an old debt, which on the allegations in the indictment is not worth a farthing. A receipt is always open to explanation, and when obtained by fraud, or given either under a mistake of facts or an ignorance of the law, it may be inquired into and corrected in a court of law as well as in equity: Thompson v. Vanfort, 1 Pre. ch. 182, 185; Vide Receipt, in Whart. Big.\nThe payment alleged on the face of the indictment, was no payment, and the receipt was no bar to Harman\u2019s recovering his debt. If Moore had obtained any money .or merchandise, or anything of value from Harman, his case would be within the provisions of the act; but as the receipt was for a preceding debt, and if that receipt was obtained by fraudulent misrepresentations, and without value, it was neither a cheat at common law, or within the statute. The object of the 21st section'of the act, was to prevent the obtaining of money, or goods, or other valuable things, by false tokens or false pretences, and has no relation to the payment and settlement of old debts and accounts. Paying an old debt with base coin, or a worthless note, is no payment, and the person receiving the base coin, or the worthless note, has the same remedy at least to recover his debt that he had before the alleged payment took place. The debt was not extinguished by the receipt. It was not the obtaining of money or goods by a false token or pretence. It was a fruitless attempt to pay and discharge an old account.\nJudgment reversed.\nEogers and Coulter, Js., dissented.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Watts and Reed, for plaintiff in error.",
+      "Bonham, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Moore v. Commonwealth.\nA receipt obtained in discharge of a debt, which was paid with the worthless note of a broken bank, is not such property or valuable thing as is contemplated by the 21st section of the act of the 12th of July, 1842, which makes the obtaining of money, personal property, or other valuable thing by false tokens in writing, or by any false pretence whatsoever, an indictable offence.\nIn error from the Quarter Sessions of Cumberland county.\nJune 1. This was an indictment under the 21st section of the act of the 12th July, 1842, entitled, \u201cAn act to abolish imprisonment for debt, and to punish fraudulent debtors,\u201d against Johnson Moore, the defendant below, for passing a worthless $5 note of the Commercial Bank of Millington, in the state of Maryland, on Philip Harman, the prosecutor, representing the said note as a good one, and thereby obtaining a receipt in full from Harman, in discharge of a debt due and owing by the said Moore to the said Harman. The question in this case arose upon the following facts, as proved upon the trial by Philip Harman, the prosecutor:\u2014 Johnson Moore, the plaintiff in error, being indebted to Philip Harman, the prosecutor, for work and labour performed by the said Harman, some time in the summer of 1846, was called upon for payment. The parties settled the account in writing, on the 23d day of December, 1846, by which it appeared that a balance of $8.76 was due to Harman. Moore thereupon paid this balance to Harman, who gave him a receipt in full. Harman testified that Moore gave him, in- payment, a $5 Millington Bank note \u2014 the note in question \u2014 also, a $2 and a $1 relief note, and the rest in silver; that the Millington note remained in his possession from the time he received it from Moore until the trial, with the exception of a short time, one day, when his son took it to purchase some articles at a store, where he ascertained it to be worthless, and returned it immediately to his father. Some time in the following February, soon after Harman ascertained that the note was worthless, he called on Moore, with the note in question, which he alleged had been given to him by Moore in payment of the balance found to be due on their account. The Commercial Bank of Millington, in the state of Maryland, was once in good credit, but had failed several years previously to this transaction. Moore denied that he had given any such note to Harman, and refused to give him another for it. This prosecution was then instituted.\nThe alleged offence was thus charged in the indictment:\u2014\n\u201c The grand inquest of the commonwealth of Pennsylvania, inquiring in and for the county of Cumberland, upon their oaths and affirmations, respectively, do present, that Johnson Moore, late of said county, yeoman,' being an evil-disposed person, and not regarding the laws of this commonwealth, \u00f3n the 21st day of January, in the year of our Lord 1847, at the county aforesaid, was indebted to one Philip Harman, in a large sum of money, to wit, in the sum of $8.78, and being then and there so indebted, with force and arms, the said Johnson Moore, on the day and year aforesaid, at the county aforesaid, and within the jurisdiction of this court, did fraudulently pay and cause to be paid, among other moneys, unto the said Philip Harman, a certain promissory note, commonly called a bank-note, of the Commercial Bank of Milling-ton, and state of Maryland, purporting to be of the value of $5, the said Johnson Moore then and there representing the said note to be of the value of $5; yet the said Johnson Moore, nevertheless, then and there knew the said note to be of no value, and utterly worthless, whereby the said Johnson, Moore did then and there designedly, by means of the aforesaid false pretence, obtain from the said Philip Harman, a receipt of great value, to wit, a receipt in full for the payment of money, to wit, for the payment of $8.78, with the interest, then and there to cheat and defraud the said Philip Harman, in contempt of the laws, to the evil and pernicious example of all others in like case offending, contrary to the form of the act of Assembly in such case made and provided, and against the peace and dignity of the commonwealth of Pennsylvania.\u201d\nTo sustain the indictment, the commonwealth gav\u00e9 in evidence the facts as contained substantially in the above statement, the account settled between the parties, and the receipt of Philip Harman to Johnson Moore, dated the 23d of December, 1846, for $8.76, in full. The court (Hepburn, P. J.) instructed the jury that the offence was indictable under the act of 12th July, 1842. The defendant was convicted. The court overruled a motion for a new trial and in arrest of judgment, and sentenced the defendant to pay a fine of $5, and costs of prosecution; whereupon this writ of error was allowed, and sued out by the defendant.\nErrors: 1. The offence is not indictable under any act of Assembly of Pennsylvania.\n2. There is no offence charged in the bill of indictment.\nWatts and Reed, for plaintiff in error.\nThe act of 1842 makes it an indictable offence for any person by false pretence to \u201cobtain from any person any money, personal property, or other valuable thingsit is essential, therefore, that it should be laid in the indictment that the defendant, by means of the false pretence, obtained something of value. The receipt for the payment of money is not a valuable thing, it has no value either as a loss to the prosecutor, or an acquisition to the defendant: U. S. Crim. Law, 115; Serg. Crim. Law, 464. The indictment is also defective in this, that it does not set out whose personal property, or other valuable thing, was lost or acquired. Did this receipt belong to the prosecutor, or if it did, had it any value in his hands while it remained there, or in the hands of the defendant when delivered to him ? Certainly none: for any evidence that would be sufficient to convict him of an offence for obtaining it, made it of no value to him; it was but primd facie evidence of payment, subject to be defeated in its operation by proof of the allegations now made.\nBonham, contr\u00e1.\nIndictment under the 21st section of the act of 1842, abolishing imprisonment for debt: Pamph. Laws, 845, see. 21.\nIf not indictable under that act, then the offence is punishable by no law in Pennsylvania.\nNot indictable at common law. No settled design manifested to cheat the public. Besides, the note was on a bank which had a legal' existence, and was a genuine note. The note had become worthless by'the failure of the bank; and the fraud consisted in representing it to be a good note, knowing it to be otherwise.\nThe case of the Commonwealth v. Burdick, 2 Barr, 163, lays down the principle sufficiently broad to cover this case.\nThe rule in case of fraud at common law: 3 Chit. Crim. Law, 994. No fraud indictable unless it affected the public. No cheating by an individual indictable, unless effected by means of a false token.\nThis was found too narrow for the business of the world, as remarked by Chief Justice Gibson, in the case of the Commonwealth v. Burdick.\nThe English statutes passed to remedy this evil were the following : the 33 H. 8, ch. 1, 3 Chit. Crim. Law, 996, which rendered indictable the falsely and deceitfully obtaining, or getting into one\u2019s hands or possession, uany money, goods, chattels, jewels, or other things\u201d by means of \u201cprivy tokens, and counterfeit letters in other men\u2019s names.\u201d\n30 Geo. 2, ch. 24, s. 1, 3 Chit. Crim. Law, 997, extending the remedy to verbal fraudulent representations. This statute renders indictable the knowingly and designedly obtaining from any person or persons \u201c by false pretence or pretences\" \u2014 \u201c money, goods, toares, or merchandises,\" with intent to cheat or defraud, &c.\n52 Geo. 3 extended the provisions of 30 Geo. 2 to securities and choses in action, \u201c to bonds, bills of exchange, bank-notes, all securities and orders for the payment of money, or the transfer of goods or any valuable thing whatsoever3 Chit. Crim. Law, 999.\n7 & 8 Geo. 4, ch. 29, s. 53; Ros. Crim. Ev. 417, renders indictable the obtaining from any person uby any false pretence\u201d \u2014 \u201cany chattel, money, or valuable security\" with intent to cheat, &c.\nCompare the 21st section of the act of 1842 with these statutes. It is wider, both in the pretences used, and the property to be obtained, than the English statutes.\nGiving a cheek upon a banker with whom the person keeps no account, indictable under 30 Geo. 2, ch. 24; Ros. Crim. Ev. 420.\nGiving a post-dated check, and pretending it was good and genuine, indictable under 7 & 8 Geo. 4; Rex v. Parker, Am. Crim. Law, 169 ; Ros. Crim. Ev. 421; 7 Carr. & Pa. 825; 32 Eng. Com. L. Rep. 755.\nGiving a forged note for 10s. 6d. indictable under 30 Geo. 2, ch. 24; Truth\u2019s Case, Ros. Crim. Ev. 425; Russ. Ry. 127.\nGiving 12Z. for a horse, in notes on the Arundel Bank, and assuring the vendor that the notes were good. The defendant was convicted; but the judges held the conviction wrong, on account of the evidence being defective: Ros. Crim. Ev. 426; Flint\u2019s Case, Russ. & Ry. 460; 1 Eng. C. C. 460.\nGiving a note issued by a bank which had stopped payment. The defendant was acquitted, on the ground that one of the firm had not become bankrupt, and the note might ultimately be paid: Spencer\u2019s Case, Ros. Crim. Ev. 427; 3 Carr. & Pa. 420; 14 English Com. L. Rep. 376.\nGiving a paper writing, and pretending it was a good. 51. Led-bury bank-note, &c. Defendant acquitted, because it was not laid he knew the note was bad: Philpot\u2019s Case, Am. Crim. L. 188; 1 Car. & Kirwan, 112; 47 Eng. Com. L. R. 110.\nPassing a bill of a broken bank at its nominal value, on a representation that it is good, indictable under the statute in Massachusetts, taken from 30 Geo. 2, ch. 24, s. 1; Commonwealth v. Stone, 4 Mete. 43; Am. Crim. L. 190.\nAs to the thing obtained under our statute to constitute a fraud. Under the statute 7 & 8 Geo. 4, the property obtained must come within the description of \u201c chattel, money, or valuable security:\u201d Yates\u2019s Case, Ros. Crim. Ey. 428; 1 Moody Cr. Ca. 170; 2 Eng. C. C. 170.\nObtaining a receipt from a plaintiff under pretence he would pay the money, not indictable at common law, but indictable under the statutes: Am. Crim. L. 193; People v. Babcock, 7 Johns. 201.\nJune 8."
+  },
+  "file_name": "0260-01",
+  "first_page_order": 260,
+  "last_page_order": 265
+}

@@ -1,0 +1,73 @@
+{
+  "id": 960775,
+  "name": "Beale v. Buchanan",
+  "name_abbreviation": "Beale v. Buchanan",
+  "decision_date": "1848-09-20",
+  "docket_number": "",
+  "first_page": "123",
+  "last_page": "124",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. 70",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 239,
+    "char_count": 3692,
+    "ocr_confidence": 0.361,
+    "pagerank": {
+      "raw": 5.705246358521243e-08,
+      "percentile": 0.3583071831600993
+    },
+    "sha256": "899189701da2961e04d0365c3fa342c5385fb07e06fe2520ad003f2295f28bb3",
+    "simhash": "1:f7034c8971317953",
+    "word_count": 665
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beale v. Buchanan."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nWhere there are two issues, one of fact, tbe other of law, it is discretionary with tbe court which they will try first. This has been repeatedly held with regard to demurrers; and no reason has been suggested why tbe same rule should not be applied where one of tbe issues is on the plea of nul tiel record. After a trial on tbe merits, tbe court will not listen to an objection that there was no replication or issue, Thompson v. Cross, 16 S. & R. 350. But it is decided in Bratton v. Mitchell, 5 W. 70, that tbe court will not compel tbe party to try, until tbe cause is put into legal form by an issue properly formed between tbe parties on the record. But here the cause was substantially at issue within the true intent and meaning of the 18th Rule of Court, which declares, that if an issue be formed substantially by the pleadings, the case shall be considered at issue without a formal joinder, which may be entered by the prothonotary, or supplied, if desired, at any time. To the plea of payment with leave, &c., non solvit in our practice is a matter of form which may be entered by the prothonotary, or replied, if desired, at any time. There is nothing in the objection that the cause was not properly on the trial-list, as the cause, as before remarked, was substantially at issue, even admitting that to be an error we can correct.\nIt remains to notice the last exception, which has something respectable in it, viz: that the fieri facias was improvidently issued, because issued before all the pleas were disposed of. The defendant plead payment with leave, and nul tiel record. The issue in fact only was tried, and on that issue only was judgment rendered. Had the court rendered judgment generally, we would by intendment, as has been already decided, hold it to apply to both issues; but this we are prevented from doing by the entry \u201cjudgment on the verdict,\u201d excluding the presumption that includes both issues. The plea of nul tiel record denies the existence of the record. To this the replication is an averment of its existence, which when averred by the plaintiff, a day is given to bring it into court. On the day appointed for producing the record, it, is, or it is not produced. Whereupon, if produced, judgment is given that the plaintiff has produced the record, or otherwise judgment is given that he has failed in producing it: Tidd\u2019s Practice, 801. There being then no judgment on the plea of nul tiel record, we are of opinion the fieri facias must be set aside.\nMeri facias set aside; record remitted to the District Court to proceed to judgment on the plea of nul tiel record.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Alden, for plaintiff in error,",
+      "McGonnel, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Beale v. Buchanan.\nThe replication to the plea of payment with leave, &c., is merely formal, and the cause is substantially at issue within a rule of court, which declares the cause shall be considered at issue without a formal joinder, when a substantial issue is raised by the pleadings.\nWhere there is a plea of nul tiel record, and a verdict on an issue of fact, and judgment is entered on the verdict; this court cannot intend that the former plea was disposed of, and hence an execution was held to have improvidently issued.\nIn error from tbe District Court of Allegheny. .\nScire facias to revive a judgment et quare executionem non. Pleas; payment with leave, and nul tiel record. On tbe cause being called, tbe defendant\u2019s counsel refused to try for want of a replication. Tbe trial proceeded ex parte, and judgment was entered \u201c on tbe verdict.\u201d\nA fieri facias then issued, and this writ of error was sued out.\nAlden, for plaintiff in error,\ncited 16 S. & R. 350; 5 Ib. 71; 5 Barr, 301, and the 25th Rule of the District Court.\nMcGonnel, cont\u00f3.\nSept. 20."
+  },
+  "file_name": "0123-01",
+  "first_page_order": 123,
+  "last_page_order": 124
+}

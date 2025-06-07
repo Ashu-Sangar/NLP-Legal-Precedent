@@ -1,0 +1,164 @@
+{
+  "id": 400640,
+  "name": "In re Drenkle's Estate-Rangler's Appeal",
+  "name_abbreviation": "In re Drenkle's Estate",
+  "decision_date": "1846-07-27",
+  "docket_number": "",
+  "first_page": "377",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Dana, 387",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Serg. & Rawle, 233",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Serg. & Rawle, 314",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 143",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts & Serg. 160",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0160-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. Rep. 44",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975594
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0044-01"
+      ]
+    },
+    {
+      "cite": "7 Cranch, 370",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        572758
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0370-01"
+      ]
+    },
+    {
+      "cite": "8 Serg. & Rawle, 112",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates, 261",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812544
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0261-01"
+      ]
+    },
+    {
+      "cite": "11 Serg. & Rawle, 232",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 107",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846893
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 338,
+    "char_count": 4843,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 1.799314834475291e-07,
+      "percentile": 0.7161960021607437
+    },
+    "sha256": "2e9a3045e4208be78143e2bc5bf3b4e96cfb50aeb67805842984ae02367c587e",
+    "simhash": "1:193521be00beb9e3",
+    "word_count": 864
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Drenkle\u2019s Estate\u2014Rangler\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis is a plain case of equitable conversion. By the execution of the articles, the vendor became a trustee of the title, and the vendee became a trustee of the purchase money, so that the beneficial ownership of each was transmuted. This elementary principle is sufficient for the determination of every case of the sort. Had the contract not been executed, the trusts would not have taken effect, and the interests under them being inchoate, would not have been perfected; but the conversion which was consummated by the conveyance executed by the administrators, related back to the date of the articles, and the vendor\u2019s interest is to be treated as having been personal estate from that time. Why, then, should not his widow have her third of itf Because, it is said, she had dower in the land at her husband\u2019s death, and ought not to have her dower, and the price of it. But she released the dower to complete the purchaser\u2019s title. Indeed, had she not done so, as is shown by Leinweaver v. Stoever, she might have had both, if the purchaser had agreed to take the land encumbered with her title. But, if this were even a case of election, she has made her choice by releasing the land, and resorting to the price of it. The payments to her, therefore, were properly allowed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Miller, for appellant,",
+      "Montgomery, for the administrators, appellees."
+    ],
+    "corrections": "",
+    "head_matter": "In re Drenkle\u2019s Estate\u2014Rangler\u2019s Appeal.\nThe price of land agreed to be sold by one dying intestate, which is received by his administrators conveying the property under a decree of the court, is personalty of the decedent; and his widow releasing her dower, is entitled to one-third absolutely.\nIf the purchaser agreed to take the land encumbered with her title, she could have claimed both her dower and a third of the proceeds. Per Gibsojt, C. J.\nFrom the Orphans\u2019 Court of Columbia county.\nMy 23. Peter Drenkle, by written articles, agreed to sell a tract of land to K. & J. Drenkle, for $3000, payable in annual instalments of $500, \u201c and to make, execute, and deliver a good and sufficient deed of conveyance for the same,\u201d possession to be delivered on 1st April, 1836. The purchasers, also, acknowledged satisfaction of the legacies due from their father\u2019s estate, in consideration of this conveyance. In March, 1836, Peter died; and K. & J. Drenkle, the purchasers, shortly afterwards filed a petition in the Orphans\u2019 Court, to have execution of this agreement, which was decreed. In December of that year, the widow of Peter executed a release to the purchasers for her dower in the land, saving her right to the purchase money, and the bonds given therefor to the administrators. Peter left ten children, among eight of whom his estate was to be divided. The administrators of Peter filed their accounts, asking a credit for the one-third of the amount of the purchase money paid to the widow. The allowance of this item forms the subject of exception here.\nMiller, for appellant,\nargued that the agreement being executed, and neither possession delivered, nor any part of the money paid in pursuance thereof, before the' death of the vendor, there was not a conversion, entitling the widow to the third; Fonb. Eq. 38, n.; 2Pow. on Cont. 36, 37, 38; 1 Salk. 154; Ashley v. Palmer, 1 Meriv. 298 ; 2 Ves. 338; 12 Ves. 160; 13 Ves. 227; Clark v. Seiver, 7 Watts, 107; Grider v. McClay, 11 Serg. & Rawle, 232; Diller v. Young, 2 Yeates, 261; 8 Serg. & Rawle, 112; but that she was left to pursue her remedy at common law.\n2. That her ratification only gave her a right to such an interest in the purchase money as she would have had in the land; and the court should have set apart the one-third, and allowed her the interest for life. Fonb. Eq. 38, n.; Herbert v. Wren, 7 Cranch, 370; Tabell v. Tabell, 1 Johns. Ch. Rep. 44; Purd. Dig. 598.\nMontgomery, for the administrators, appellees.\nThe authorities cited by the counsel for the appellant, go to the question, whether the widow was entitled to her dower in the land sold. That, however, is not the question raised by this record. It is, whether she is entitled to the third of the purchase money, absolutely.\nIt would seem from Leinweaver v. Stoever, 1 Watts & Serg. 160, that she was entitled to both dower in the land, and the third of the purchase money. Be that as it may, if she was obliged to make her election, she has made it by her release of her dower in the land to the purchasers. Whether she is entitled to one-third of the purchase money, depends upon the question, whether the estate was land or money, at Peter Drenlde\u2019s death. That it was money, appears by the following authorities: Newland on Contracts, 42; 2 Story\u2019s Eq. sec. 740, 788, 789, 790, 1212; 1 Salk. Rep. 154; 7 Watts, 143; 8 Serg. & Rawle, 314; 11 Serg. & Rawle, 233; 2 Yeates, 261; 2 Equity Digest, 508; 2 Dana, 387; 2 Eq. Digest, 510 ; 2 Har. & Johns. 64 ; Fonb, Eq. 298, B. 1, chap. 6, sec. 9.\nJuly 27."
+  },
+  "file_name": "0377-01",
+  "first_page_order": 375,
+  "last_page_order": 377
+}

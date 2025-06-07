@@ -1,0 +1,103 @@
+{
+  "id": 418882,
+  "name": "Poorman versus Kilgore",
+  "name_abbreviation": "Poorman v. Kilgore",
+  "decision_date": "1860-11-22",
+  "docket_number": "",
+  "first_page": "309",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 534",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. & S. 433",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 554",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852513
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0554-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 433",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838057
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0433-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 430,
+    "char_count": 8761,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 7.221819375676158e-08,
+      "percentile": 0.4311990776296224
+    },
+    "sha256": "fd2c4b8274fb23d234e9d51f8b929c805905823c5d8b15a4269d0855a6031f3f",
+    "simhash": "1:182de47bdc0f94ad",
+    "word_count": 1559
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Poorman versus Kilgore."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nRead, J.\n\u2014 The court below charged the jury: \u2014 \u201c If the jury believe there was a definite contract, by which the plaintiff was to come on the land and crop it, and give the old man one-third during his life, and, at his death, the plaintiff was to have the land, and the plaintiff, in pursuance of that, went into possession, and complied with the contract on his part, and was afterwards turned off by the old man, then we think the plaintiff would be entitled to recover. Such a contract must be proved, in a case like the present, by clear and unambiguous evidence. Whether there was such in this case, it is for the jury to decide.\u201d \u201cWe repeat, the evidence required in a case like this, must be clear and satisfactory and unambiguous, that there was a contract, and the terms and conditions of it. It ought not to be inferred from slight circumstances, and vague and uncertain admissions or declarations.\u201d\n\u201c If there was a definite contract to lease it to the plaintiff for his (defendant\u2019s) life, and at his death to give him the land, and the plaintiff took possession in pursuance of that, and made valuable improvements, and complied with the contract on his part by paying the rent, and if the defendant violated such a contract, we think the plaintiff could recover damages. The jury will decide whether there was such a contract or not.\u201d\nIn this carefully worded language of the court, we can perceive no error, for its requirements as to the proof of a parol contract, in a ease like the present, are as stringent as can well be demanded, if such contracts are to be sustained at all in this state. The abuses growing out of a mistaken rule of damages in similar cases, have been corrected by recent decisions, which, however, did not pretend to affect the settled law of the land, that actions on such parol contracts could be sustained. Upon this point, the action of the legislature is sufficient to indicate that the-people have not thought proper to require that such contracts shall be in writing, and signed by the party to be charged therewith, or some other person thereto by him lawfully authorized by writing, agreeably to the provisions of the English statute of frauds.\nUpon examining the testimony, it is clear that there was evidence to go to the jury, which they have thought fulfilled the requirements of the charge of the court, who have not interfered with the verdict establishing the contract; and it is certainly not our province to usurp the duty of the court below, and to examine the case as if it were before us, on a motion for a new trial.\nThe first two of the defendant\u2019s points on which the court were requested to charge the jury related to the decision of a case between the same parties reported in 2 Casey 345, in which this court held in an equitable ejectment, that this parol contract was within the statute of frauds, and that the plaintiff in this suit was not entitled to a specific performance of it. That was the decision of a court of equity, and no matter what reasons were assigned for its action, it could have no effect whatever in a trial at law in an action for damages for the breach of the contract. In the one case the court acted as chancellors, in the other the questions of fact were submitted to a jury whose verdict has not been disapproved by the court below.\nThe court were therefore right in their answers to those two points, and also to the third point relating to the sufficiency of the evidence.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued in this court by Edgar Qoioan, for plaintiff in error who was defendant below,",
+      "For defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Poorman versus Kilgore.\nEvidence of Parol Contract for Sale of Lands. \u2014 Damages for Breach of Contract not dependent on right to Specific Performance.\n1. In an action to recover damages, for the breach of a parol contract to convey land, the evidence of the contract must be clear, satisfactory, and unambiguous, to enable the plaintiff to recover.\n2. Though a court of equity, in an equitable ejectment between the same parties, had decided that the parol contract was within the statute of frauds, and that the plaintiff in this suit was not entitled to specific performance, that decision has no effect, in a trial at law, to recover damages for breach of that contract. The existence of a contract was a question for the jury. If they found it proven, and a breach, the plaintiff was entitled to recover.\nError to the Common Pleas of Westmoreland county.\nThis was an action on the case brought by Jesse Kilgore against Michael Poorman, to recover damages for the- breach of a parol contract for the sale of lands. The pleas were non assumpsit and non assumpsit infra sex annos.\nKilgore was the son-in-law of Poorman, who, in 1845, divided a farm which he owned into two parts, giving possession of one part to his son Jacob, and the other to Kilgore, as was avowed, for an annual rent of one-third of the crops during his life, and with the parol promise or agreement that, at his death, each one of the tenants should own the share which he occupied. While in possession Kilgore made improvements on the farm \u2014 built a new house, kitchen, barn, smoke-house, wagon-shed, corn-cribs, planted an orchard, &c. \u2014 besides rendering Poorman one-third of the produce annually.\nIn 1853, Poorman brought ejectment against Kilgore for this 'land, and recovered possession (see case as reported in 2 Casey 368), whereupon this action was brought as above stated.\nThe points made by the defendant in the court below were:\u2014\n1. \u201cThat the Supreme Court, upon consideration of the same testimony now in this case, having decided that it is not sufficient to establish such a contract as the plaintiff alleges and relies upon \u2014 and for the breach of which he claims damages \u2014 therefore he cannot recover, and their verdict must be for the defendant.\u201d\n2. \u201c That, the same court having decided, that the evidence in this cause only goes to show, that Michael Poorman, in allowing the plaintiff to go upon the land in question, \u2018 was merely putting into experimental operation for the benefit of his son and daughter, an arrangement which he expected to confirm at his death,\u2019 and therefore the plaintiff cannot recover, because it was not carried out.\u201d\n3. \u201c That there is nothing in the testimony sufficient to show that Michael Poorman ever gave the land in question to his son-in-law, Kilgore. The most shown by it is, that at one time he may have intended or promised to give it to him, or his wife, after his death, and the plaintiff cannot recover damages for a breach of such promise, or for any loss he may have sustained by relying on it.\u201d\nUnder the charge of the court (Buffington, P. J.), the jury found for the plaintiff the sum of $2246.47^ with costs. Judgment having been entered thereon, the plaintiff sued out this writ, and assigned for error the following matters, to wit:\u2014\n1. The court erred in their answer to the first point of the defendant, taking a distinction in this case, between the action of ejectment and the action for damages for a breach of a parol contract, saying, \u201c In the latter case, if the contract rests in parol, it is a question for the jury to decide upon the weight and effect of the evidence, and whether there was a contract or not.\u201d\n2. The court erred in their answer to the second point of the defendant, in submitting to the jury whether the testimony showed that the arrangement \u201c was merely putting into experimental operation for the benefit of his son and daughter, an arrangement which he expected to confirm at his death,\u201d and that if they believed that the evidence did not show this, \u201c but a definite contract by which the plaintiff was to come on the land, to crop it and give the old man one-third during his life, and at his death the plaintiff was to have the land, and the plaintiff in pursuance of that went into possession and complied with the contract on his part, and was afterwards turned off by the old man,\u201d then the plaintiff would be entitled to recover.\n3. The court erred in their answer to the defendant\u2019s third point in refusing to instruct the jury as they were requested, and leaving to the jury to put such construction upon the evidence as they chose.\nThe case was argued in this court by Edgar Qoioan, for plaintiff in error who was defendant below,\nwho cited and relied on Poorman v. Kilgore, 2 Casey 265; Malson v. Fry, 1 Watts 433.\nFor defendant in error,\nit was argued that Poorman v. Kilgore was no bar to a recovery in this case, and cited Matoun v. Matoun, 1 Grant\u2019s Cases 131; Kurtz v. Cummings, 12 Harris 35; Gangwere v. Fry, 5 Harris 491; Harting\u2019s Executors v. Eckley\u2019s Administrators, 8 Barr 194; Bordaken v. George, Watts 710, 530; Wilson v. Clarke, 1 W. & S. 554; 2 W. & S. 433; 5 W. & S. 534; 1 Parsons 79; Bash v. Bash, 260.\nNovember 22d 1560,"
+  },
+  "file_name": "0309-01",
+  "first_page_order": 309,
+  "last_page_order": 312
+}

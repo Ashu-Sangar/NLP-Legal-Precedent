@@ -1,0 +1,65 @@
+{
+  "id": 992225,
+  "name": "Commonwealth versus Baroux",
+  "name_abbreviation": "Commonwealth v. Baroux",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "262",
+  "last_page": "262",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 124,
+    "char_count": 1455,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 6.557469621862115e-08,
+      "percentile": 0.40191069054605116
+    },
+    "sha256": "6fe9e83c07c14a9540f65183b4117923424ae9458290a892405552b9c802234b",
+    "simhash": "1:10f3825f7be051f2",
+    "word_count": 262
+  },
+  "last_updated": "2023-07-14T20:59:55.101486+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth versus Baroux."
+    ],
+    "opinions": [
+      {
+        "text": "Per, Curiam.\nWe cannot allow it. We have no doubt of our authority to allow it, and to proceed to hear and determine the ease, and that we ought to do so, if there were no other adequate remedy. But it.is in our discretion to refuse it, as an original case, if there be an adequate remedy in another form, or before another court. And we must be cautious in allowing such original cases here, so 'that the time required for cases in error and appeal shall not be unduly interfered with. \u2018 This is nothing but an ordinary case, relating to the duty of a local .or city officer, and has nothing special in its nature or its circumstances, that requires us to take original cognisance of it. The-Common Pleas has. all the authority needed for the case, and we must' refer the relator to that tribunal.\nWrit refused.",
+        "type": "majority",
+        "author": "Per, Curiam."
+      }
+    ],
+    "attorneys": [
+      "Duane Williams, for the relator."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth versus Baroux.\nThe Supreme Court, sitting in Philadelphia, will not allow a writ of mandamus, even in a case of which they have jurisdiction, if it involve nothing but an ordinary ease relating to the duty of a local or city officer, and have nothing special in its nature or circumstances, that requires the court to take original cognisance of it.\nThis was a petition for a mandamus to the commissioner of markets, in, the city of Philadelphia, to compel him to let stalls in the market-houses to farmers, even if they did bring meat there for sale that had not been raised on their own farms.\nDuane Williams, for the relator."
+  },
+  "file_name": "0262-01",
+  "first_page_order": 262,
+  "last_page_order": 262
+}

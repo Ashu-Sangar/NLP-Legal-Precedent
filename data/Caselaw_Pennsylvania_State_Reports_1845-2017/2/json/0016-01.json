@@ -1,0 +1,85 @@
+{
+  "id": 951365,
+  "name": "Commonwealth v. Nesbitt",
+  "name_abbreviation": "Commonwealth v. Nesbitt",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "16",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 16"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Wheat. 289",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle, 334",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820589
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0334-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 113,
+    "char_count": 1258,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 1.0643853285844501e-07,
+      "percentile": 0.5579483591514409
+    },
+    "sha256": "60e31ed104ce0434b9ea5282d2f99319ccb40c4e9c2d716571a849e10db5b86c",
+    "simhash": "1:f63212d58739318e",
+    "word_count": 227
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth v. Nesbitt."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\n\u2014 One of the defendants having procured his certificate of discharge, the plaintiff entered a nolle prosequi as to him, and this is assigned for error. But this is right, for it is well settled, that in an action on a contract against several defendants, one of whom pleads bankruptcy, or other matter in his personal discharge, the plaintiff may enter a nolle prosequi as to him, and proceed against the other defendants. 2 Tidd\u2019s Prac. 796; 2 Troub. & Haly, 438; 1 Wilson, 89; 1 Saund. 207, N.; 1 Chitty, 451.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Foster, for plaintiff in error,",
+      "Phelps, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Nesbitt.\nOne of two obligees having been discharged as a bankrupt, the plaintiff may enter a nol. pros, as to him, and proceed to trial against the other.\nError to the Common Pleas of Armstrong county.\nThis was an action on a bail bond, to which one of the defendants pleaded his discharge in bankruptcy. On the trial the plaintiff entered a nol. pros, as to him, and went to trial against the other. On verdict, and judgment, and writ of error taken, this was assigned for error.\nFoster, for plaintiff in error,\nreferred to 1 Chit. Pl. 45; 1 Wils. 89; 1 Saund. 207; Tidd, 682.\nPhelps, contra,\ncited 2 Rawle, 334; 1 Peters, 46 ; 2 Troub. & Haly\u2019s Prac. 438; 1 Wils. 90; 4 Johns. R. 48; 9 Wheat. 289."
+  },
+  "file_name": "0016-01",
+  "first_page_order": 16,
+  "last_page_order": 16
+}

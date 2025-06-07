@@ -1,0 +1,66 @@
+{
+  "id": 413720,
+  "name": "Thompson's Appeal",
+  "name_abbreviation": "Thompson's Appeal",
+  "decision_date": "1853",
+  "docket_number": "",
+  "first_page": "16",
+  "last_page": "17",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Pa. 16"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 250,
+    "char_count": 3768,
+    "ocr_confidence": 0.434,
+    "pagerank": {
+      "raw": 1.026963264679921e-06,
+      "percentile": 0.9835573425323253
+    },
+    "sha256": "ce470afe6a114bfbaf233c9f64b0f16619224baf4100a1c12563d8b36139a572",
+    "simhash": "1:c2ffaea308c0bbfd",
+    "word_count": 656
+  },
+  "last_updated": "2023-07-14T19:14:15.640155+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thompson\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, September 15, by\nLewis, J.\nWhenever a trust-fund has been wrongfully converted into another species of property, if its identity can be traced, it will be held, in its new form, liable to the rights of the cestui que trust. No change of its state and form can divest it of such trust. So long as it can be identified either as the original property of the cestui que trust, or as the product of it, equity will follow it; and the right of reclamation attaches to it until detached by the superior equity of a bond fide purchaser, for a valuable consideration, without notice. The substitute for the original thing follows the nature of the thing itself so long as it can.be ascertained to be such. But the right of pursuing it fails when the means of ascertainment fail. This is always the case when the subject-matter is turned into money and mixed and confounded in a general mass of property of the same description: Story\u2019s Equity, sec. 1257, 1258, 1259. This mixture has taken' place in the case under consideration. It is impossible for a chancellor to lay his hand upon a single article of property or on a single dollar of money included in the assignment, and say that any particular thing or sum of money is either the original property of Seth Matthews\u2019 heirs or the product of it. The decree below was therefore erroneous.\nDecree reversed, and decreed that the funds in the hands of the assignee be distributed pro rata among all the creditors of the assignor. Record remitted.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Selden, for plaintiff in error.",
+      "Watson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Thompson\u2019s Appeal.\n1. Whenever a trust-fund has been -wrongfully converted into another species of property, if its identity can be traced it will be held, in its new form, liable to the claim of the cestui que trust, which attaches to it until detached by the superior equity of a bong, fide purchaser, for a valuable consideration, without notice.\n2. But the right of pursuing it fails when the means of ascertainment fail; and this is the case when the subject-matter is converted into money or confounded with a mass of property of the same description.\n3. An individual, as executor, received moneys which he used in his own business; and being also otherwise indebted, he executed a voluntary assignment: Held, that the heirs of the decedent were not entitled to a preference in the distribution of the fund in the hands of the assignee, but only to a pro rata share with other creditors.\nAppeal from the decree of the Common Pleas of Allegheny county.\nThis was an appeal by J. W. Thompson and others, from the decree of the Court, affirming the distribution made by an auditor on the account of John Scott, assignee under a voluntary assignment by R. A. Cunningham.\nCunningham, the assignor, took out letters testamentary on the day of , A. D. 185 , on the estate of Seth Matthews, deceased, and converted the assets of said estate into cash, and used them in his business. On the 7th day of November, 1851, whilst indebted to said estate in the sum of $1579.84, he executed a voluntary assignment for the benefit of his creditors. The assignee filed his account, showing $3486.71 for distribution. An auditor having been appointed for that purpose, the indebtedness of the assignor being about $18?000, the heirs of Seth Matthews claimed that the indebtedness to their father\u2019s estate, aforesaid; should be first paid in full. The auditor allowed their claim. Exception being taken, by other creditors, to such allowance, the matter was argued before the Court of Common Pleas, but the report of the auditor was confirmed. Appeal on the part of the other creditors to this Court was taken, and one of the exceptions was to the payment in full of the claim of Matthews\u2019 heirs.\nSelden, for plaintiff in error.\nWatson, for appellee."
+  },
+  "file_name": "0016-01",
+  "first_page_order": 18,
+  "last_page_order": 19
+}

@@ -1,0 +1,65 @@
+{
+  "id": 960620,
+  "name": "Maxwell v. Beltzhover",
+  "name_abbreviation": "Maxwell v. Beltzhover",
+  "decision_date": "1848-09-12",
+  "docket_number": "",
+  "first_page": "139",
+  "last_page": "140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 131,
+    "char_count": 1582,
+    "ocr_confidence": 0.382,
+    "pagerank": {
+      "raw": 2.108180740663343e-07,
+      "percentile": 0.7628066346725234
+    },
+    "sha256": "cb9b63b6be380b4b6483bca1cb1b4a343219cfc516c188491f77c00428d3011b",
+    "simhash": "1:7b7aa789040674b1",
+    "word_count": 278
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maxwell v. Beltzhover."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe declaration was filed on the 17th day of July, 1847, and a special plea entered by the garnishee on the 19th of same month and year. The plea admits the execution and delivery' of the note on which the plaintiff declares, as the foundation of the liability of the garnishee, but seeks to avoid and defeat its recovery by an allegation of new and distinct matter. To this the plaintiff might have demurred, if he thought the matter insufficient ; or he might have replied, denying the facts and concluding to the country. But he did neither; and there was in fact neither an issue in form nor substance. There was no issue. The course of the defendant was to compel an issue by talcing a rule on the plaintiff to reply. It was clear error in the court to nonsuit the plaintiff, for not proceeding to trial. Neither the words nor the spirit of the rule of court authorize it.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Alden, for plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Maxwell v. Beltzhover.\nWhere there is a plea in confession and avoidance, the plaintiff cannot be compelled to try under a rule of court, which dispenses with a replication where a substantial issue is raised by the pleadings.\nIn error from the Common Pleas of Allegheny.\nTo a scire facias sur judgment against defendant as garnishee, he pleaded in confession and avoidance. The court nonsuited the plaintiff when the cause was called, though there was no replication. It is believed there is a rule of that court which dispenses with replications where a substantial issue is raised by the pleadings.\nAlden, for plaintiff in error.\nSept. 12."
+  },
+  "file_name": "0139-01",
+  "first_page_order": 139,
+  "last_page_order": 140
+}

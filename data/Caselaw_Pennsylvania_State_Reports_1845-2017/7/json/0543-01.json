@@ -1,0 +1,114 @@
+{
+  "id": 957944,
+  "name": "Kentucky Bank v. Combs",
+  "name_abbreviation": "Kentucky Bank v. Combs",
+  "decision_date": "1848-05-09",
+  "docket_number": "",
+  "first_page": "543",
+  "last_page": "546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 543"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts, 50",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841318
+      ],
+      "pin_cites": [
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0050-01"
+      ]
+    },
+    {
+      "cite": "3 Watts & Serg. 24",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Whart. 104",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Serg. & Rawle, 208",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts, 152",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846887
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0152-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 532,
+    "char_count": 9458,
+    "ocr_confidence": 0.422,
+    "pagerank": {
+      "raw": 5.77190006319824e-07,
+      "percentile": 0.9508181751136843
+    },
+    "sha256": "ff874714b16b221e2dae1734e70916d64bc5cc6c263b566a4a7d103ac8c10dbb",
+    "simhash": "1:f76b26267cdbc80e",
+    "word_count": 1686
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kentucky Bank v. Combs."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nIt is not to be doubted that responsibility, in a confidential employment, is a legitimate subject of compensation, and in proportion to the magnitude of the interests committed to the agent.' The principle has not been directly controverted by the counsel for the plaintiff in error; indeed, it has been practically admitted by the elaborateness of their argument, which, liad a few hundred dollars been in contest, instead of ten thousand, would have taken few more minutes for its delivery than it has taken hours. The single point in the cause was so minute, that its exact shape could scarce be made plainer by the magnifying lens of a speech, yet it is nevertheless so palpable as to be incapable of illustration. \u201cAs to the amount of the verdict,\u201d says the judge, \u201cthe following considerations (inter alia) might with propriety be weighed by the jury: \u2014 The importance of the business intrusted to the plaintiff, at least as it was deemed at the time by the parties. In this view the jury may consider the extent of the claim of the Kentucky Bank on the Schuylkill Bank.\u201d Surely no one will contest the soundness of the principle. But it has been pressed that it was inapplicable to the case disclosed by the evidence, and in that aspect alone could the predication of it be, by any possibility, erroneous. It has been said that the agency was not a general, but a special one, and that, being limited to specific acts of service involving no exercise of discretion, it was not a confidential one; to illustrate which, it has been compared to the employment of a messenger to deliver documents, who is said not to be responsible for negligence to the amount of the interest at stake. I am by no means clear that he would not. But a lawyer charged with particular preparations for a lawsuit, is not to be made responsible, or paid as a porter or a shoemaker. It does not clearly appear, however, the plaintiff was a limited agent. His correspondence with the bank exhibits him on the field of action at Philadelphia, as the adviser of its measures, and though his retainer did not expressly extend to that, it was the duty of the bank, if he- had intermeddled improperly, to tell him so; instead of which, in none of its letters to him did it exhibit dissatisfaction at any thing done or proposed by him; and so far as he assumed to be its agent and counsellor, it recognised him as such by its silence. It seems that the relation he bore to it was not defined in the apprehension of either party, and so long as it allowed him to act for it generally, so long were both respectively responsible to each other for acts done by him within the scope of the authority assumed by him. Nor is it material that the principal object he was employed to accomplish, the procurement of the testimony of Levis, had ceased to be indispensable. The parties deemed it to be of vital importance when they instructed him to secure it, and it might have turned out to be so in the end; insomuch that had the claim been lost by a want of it, occasioned by his negligence, he would have been liable for the amount. There was, therefore, some evidence to go to the jury of a case to which the principle was directly applicable, and if there was error at all, it was not on the part of the court.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Gerhard and F. W. JTubbell, for plaintiffs in error.",
+      "Randall, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Kentucky Bank v. Combs.\nWhere an attorney is employed to solicit pardon for a fugitive from justice, to enable him to return to the state, so that the principal may use him as a witness in a claim for which suit has been brought, the amount of the claim is proper for the consideration of the jury in estimating the compensation for such agency.\nWhere one proposes to act for another generally, and the principal declines the proposal, but agrees to employ him for a particular purpose \u2014 and the agent continues to act beyond the scope of his agency without dissent \u2014 the principal will be taken to have assented to such acts, and is bound to compensate the agent accordingly.\nIn error from the District Court of Philadelphia.\nMay 1. This was an action by Combs, a member of the bar of Kentucky, to recover compensation from the defendant, as their agent. The defendant was a claimant on the Schuylkill Bank, on account of fraudulent issues of the stock of the former by the latter, as it was alleged. The plaintiff proved that he had acted for the Kentucky Bank in some parts of the business of procuring evidence, &c., for the prosecution of their claim. The suit instituted for that purpose against the Schuylkill Bank resulted in a decree for upwards of \u00a1\u00a71,000,000, from which an appeal had been taken.\nHis honour, Sharswood, J., instructed the jury, \u201c That as to the amount of their verdict, the following considerations (inter alia) might with propriety be weighed by the jury: 1. The importance of the business intrusted to the defendant; at least as it was deemed at the time by the parties. In this view the jury may consider the extent of the claim of the Kentucky Bank on the Schuylkill Bank.\u201d And whether this was erroneous, under the evidence, was the only question. The following facts were those referred to by the counsel during the argument, as showing the instruction to have been erroneous. It appeared that prior to March 5, 1842, Combs had been to Texas, ineffectually endeavouring to procure the return of one Levis to this state. Levis was the cashier of the Schuylkill Bank, against whom indictments were pending, and it was supposed could give information as to the fraudulent issue of stock, which could not otherwise be discovered. On that day Combs wrote the attorney of defendants, proposing to act for the bank in various ways upon receiving the amount of his expenses, and a commission on all received on a compromise or recovered over $150,000.\n\u2022In reply, the defendants stated, the only important object at that time was the procuring the pardon of Levis from the governor of Pennsylvania. They declined the terms offered, hut said that in case of his aiding in doing this they would make him a fair compensation. In the mean time he wrote that he had done many things, as if his agency was to he used; hut if it were not, he would he gratified by having benefited-the bank and the state.\nIt was also in evidence that, on the receipt of this letter, the board of directors of defendants\u2019 determined not to employ him in conducting the suits, or any other business arising out of the claim. And the defendants relied on the fact of their refusal to employ plaintiff in any other matter than the pardon, to show that the extent of their claim against the Schuylkill Bank could not enhance this collateral undertaking.\nOn the 15th May plaintiff wrote defendants, complaining of his want of authority to act, and saying his mission was done, as he had no instructions or power to do more than he had done.\nIn the preceding month the attorney-general had entered a nolle prosequi on all the indictments found against Levis. It did not appear that Levis\u2019s testimony was read on the hearing of the bill against the Schuylkill Bank; and it was proved by one of the judges not to have been considered. It appeared also that the plaintiff had acted generally in the business of the defendants, and communicated to them constantly what he had done. But there was no distinct disavowal of his agency, other than the letter of March 5.\nGerhard and F. W. JTubbell, for plaintiffs in error.\nThe letter of March 5th shows there was no previous bargain; and, by the answer to that, the business on which alone the plaintiff was employed was the Solicitation of a pardon from the governor. It was also proved that for any other purpose the defendants declined employing him. How then can the amount in controversy affect the rate of compensation ? Indeed the purpose itself is one for which no compensation can be claimed: 7 Watts, 152; 5.Watts & Serg. 315. To bring that in as one of the items on which the amount is to be estimated, either the labour or responsibility of the agent must be increased. If neither of these are so, how can its existence enhance the compensation? That this is the rule, is shown from Pusey v. Clemson, 9 Serg. & Rawle, 208; Stevenson\u2019s Estate, 4 Whart. 104; 3 Watts & Serg. 24. His responsibility was not increased, because defendants having no right to the pardon, it being a mere matter of solicitation, a mere failure or neglect to ask for it cannot give an action: Webster v. De Tastet, 7 Term Rep. 157; Taylor v. Brewer, 1 M. & Sel. 290; Sedgw. on Damag. 355. Nor is the amount yet recovered; it is only by way of calculating commissions that it is ever used; 2 Beav. 491; and his employment was not in the cause \u2014 that was expressly refused, and he was confined to this single collateral matter. \u00c1 scrivener or amanuensis, or the like, whose office is merely mechanical, is not paid in proportion to the value of the property. How then, where neither labour nor responsibility is increased, can the court say the amount in controversy is to be considered ? It cannot be, that after a flat refusal of his services, we were bound to reiterate the refusal by covey post; nor can there be a pretence that he was employed for any thing but this one object.\nRandall, contr\u00e1.\nThe amount was proved without objection, and being in evidence, the court merely referred to this as a guide: 3 Watts, 50, 53. We offered to show the increased value to defendants\u2019 stock, but they objected to it.\nMay 9."
+  },
+  "file_name": "0543-01",
+  "first_page_order": 543,
+  "last_page_order": 546
+}

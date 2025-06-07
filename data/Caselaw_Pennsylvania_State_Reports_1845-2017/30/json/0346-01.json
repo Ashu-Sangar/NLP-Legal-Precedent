@@ -1,0 +1,181 @@
+{
+  "id": 415605,
+  "name": "Adams versus Palmer et al.",
+  "name_abbreviation": "Adams v. Palmer",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "346",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Pa. 346"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 W. & S. 128",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853608
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0128-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 159",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795114
+      ],
+      "pin_cites": [
+        {
+          "page": "162, 167, 170"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0159-01"
+      ]
+    },
+    {
+      "cite": "4 Dall. 289",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dall. 315",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 271",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854566
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0271-01"
+      ]
+    },
+    {
+      "cite": "2 Dall. 193",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11741197
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/2/0193-01"
+      ]
+    },
+    {
+      "cite": "6 Binn. 162",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates 213",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812589
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0213-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 265",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12144056,
+        12144129,
+        1408406,
+        1408598
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0265-01",
+        "/dall/1/0265-02",
+        "/us/1/0276-01",
+        "/us/1/0277-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 271",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/3/0271-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 324,
+    "char_count": 4860,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 1.4534724059321228e-07,
+      "percentile": 0.6555127345262214
+    },
+    "sha256": "7a7b78afc6672af69e49407eba31810c9acf860bf9eae047e60cf1d81026d3ec",
+    "simhash": "1:de11c14da19d1db8",
+    "word_count": 873
+  },
+  "last_updated": "2024-02-27T21:53:36.460521+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adams versus Palmer et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.,\nwho, after recapitulating the facts, continued:\u2014 When the usage of trade has fixed a period at which book accounts bear interest, this becomes the law of the purchase; and it is not necessary to demand it in the copy of the claim filed, for it is a substantive part of the indebtedness: Hummell v. Brown, 12 Harris 310. If a bargain, however, exists for interest at an earlier period than the usage would allow, or'if a special custom is relied on as giving it, then it must be set forth or added to the copy of claim, otherwise the plaintiff could not embrace it in his judgment, for it would not in such case stand as a necessary-incident to the principal.\nWe do not see how the assessment of damages could have been made in this case without it was under some exception, by contract or usage, to the general custom. It was decided in Koons v. Miller, 3 W. & S. 271, that it was so universal a custom for a city merchant to charge a country merchant interest after six months, that it necessarily entered into the contract of sale. So in Watt & Co. v. Hoch, 1 Casey 411. We believe the rule has become universal throughout the Commonwealth for all merchants to make the same charge, and we see no propriety in its being spoken of, or treated as peculiar to city merchants. If buyers do not intend to be bound by the usage, they must either pay, or contract against it. The law is settled. The plaintiffs below assessed his damages, and entered judgment as if the usage were to charge interest from date. In this they were wrong. It is only by usage, amounting to a custom of trade, that book accounts bear interest at all; and that usage fixes the period at six months after the date of sale of the bills or items constituting the account. The judgment for this reason, must be reversed, so that the assessment may be according to the custom. We perceive no other errors on the record.\nJudgment reversed and procedendo awarded.",
+        "type": "majority",
+        "author": "Thompson, J.,"
+      }
+    ],
+    "attorneys": [
+      "Sharpless, for the plaintiff in error.",
+      "C. M. Husbands, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Adams versus Palmer et al.\nBy the custom of Pennsylvania, a hook account for goods sold, bears interest from the end of six months after the sale and delivery.\nWhore the usage of trade has fixed a period at which book accounts bear interest, this becomes the law of the contract, and it is not necessary to demand it in the copy of the claim filed.\nIf a bargain, however, exists for interest at an earlier period than the usage would allow, or if a special contract be relied on as giving it, then it must be set forth in, or added to, the copy of claim, otherwise the plaintiff cannot include it in his judgment.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit on a book account, for goods sold and delivered, brought by the firm of Palmer, Thomas & Co. against David Adams.\nThe plaintiffs below filed a copy of their book entries, containing various charges against the defendant for goods sold between the 29th of October 1855 and the 11th September 1856; various credits were allowed, and a balance was struck amounting to $272.35. The defendant filed an affidavit of defence in which he claimed a set-offi of $13.28, and tendered a judgment for the balance claimed, to wit, $259.07.\nA rule was taken for judgment for the amount admitted to be due, which was made absolute; and judgment was entered and damages assessed at $320.93 ; interest being computed on the several bills comprising the account, from their respective dates. This allowance of interest was here assigned for error, by the defendant below.\nSharpless, for the plaintiff in error.\n\u2014 It has been repeatedly held in this state, that interest is not recoverable upon an open book account: Henry v. Risk, 1 Dall. 265; Christie v. Wood, 2 Yeates 213; unless upon express agreement of the parties: Obermyer v. Nichols, 6 Binn. 162; Knox v. Jones, 2 Dall. 193. The utmost to which the cases in this state have gone, is to charge interest after the expiration of six months: Koons v. Miller, 3 W. & S. 271. And see Williams v. Craig, 1 Dall. 315; Crawford v. Willing, 4 Dall. 289; Hamill v. O\u2019Donnell, 2 Miles 102.\nC. M. Husbands, for defendants in error.\n\u2014 The older cases, holding that interest is not payable upon an open account, are not law at the present day: Crawford v. Willing, 4 Dall. 289. It is not settled, that interest is payable upon the expiration of the credit without demand made: Obermyer v. Nichols, 6 Binn. 159, 162, 167, 170; Eckert v. Wilson, 12 S. & R. 398; Gray v. Van Amringe, 2 W. & S. 128. The court below regarded the copy filed as claiming that each item was due from the date of the entry, and so assessed the damages. This is in conformity with their uniform practice, and it is submitted, is correct in principle. The wholesale merchant always enters or charges his goods before delivery, though sold for cash; and that was exactly the case here."
+  },
+  "file_name": "0346-01",
+  "first_page_order": 346,
+  "last_page_order": 348
+}

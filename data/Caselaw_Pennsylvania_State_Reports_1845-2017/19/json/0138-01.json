@@ -1,0 +1,109 @@
+{
+  "id": 970599,
+  "name": "Hubley's Appeal",
+  "name_abbreviation": "Hubley's Appeal",
+  "decision_date": "1852-06-29",
+  "docket_number": "",
+  "first_page": "138",
+  "last_page": "143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Rawle 243",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1822537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/3/0243-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. Rep. 46",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975506
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0046-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 442",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 90",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0090-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 613,
+    "char_count": 15939,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.37639704090856263
+    },
+    "sha256": "6c7b2c78a38a78f395ec35683f6acc99a8cf23a7080fe6632941b3413371bf81",
+    "simhash": "1:9f5f3605967e25ee",
+    "word_count": 2746
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hubley\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nBlack, C. J.\nJoseph Burd and William Bard, administrators of John McGregor, deceased, filed their administration account in 1821. On the 16th of May in that year it was confirmed by the Orphans\u2019 Court, a balance being found of \u201csix thousand nine hundred and eighty-six dollars and thirty-seven cents, subject to distribution according to law.\u201d On the 28th of August, 1848, upon the petition of Mr; Penrose, who represented two of the distributees, a citation was awarded to the executors of Burd to settle a final and supplemental account of the administration of their testator on the estate of McGregor. After an answer and a replication, the Court adjudged the answer insufficient, and ordered the respondents to settle an account of the assets which had come into the hands of the administrators after the settlement of 1821. Agreeably to this order the executors, on the 15th of July, 1850, filed an account charging themselves with $393.44, received by Mr. Burd in 1831, and paid five months afterwards to Mr. Pen-rose, the petitioner for the citation. On exceptions filed, the Court ordered the estate of Burd to he surcharged with the whole balance due on the account of 1821. It is from this decree that the appeal is taken.\nWe consider the account of 1821 a final one. The accountants show that they so regarded it, not only by never filing any other, but by many marks on the face of it, among which may he mentioned their charges against themselves of sums not then received, by way of anticipation, and apparently to save the necessity of another. The distributees treated it as final by not calling for a further settlement during a period of twenty-seven years. The Orphans\u2019 Court, when it was confirmed, ordered the balance to be distributed according to law, a thing which ought not to be done, and, in fact, cannot.be done properly, where the account is only partial. I know of no rule or principle on which an account can be called partial, which has been decreed on as final by the Court, and been treated as final by all the parties to it, for more than a quarter of a century.\n' The distributees had a right of action against the administrators and their sureties upon the decree of distribution. They might have demanded payment of their respective shares as soon as that decree was made. After this lapse of time, the presumption is full and clear that the whole balance has been long ago paid to the parties entitled to receive it. But if it be now charged against them, it stands as a new decree; the benefit of the legal presumption is taken away from the accountants, and the burden of proof is thrown upon them. And this, after an acquiescence of nearly thirty years, when both the accountants are dead, and their estates probably settled; when vouchers are lost and witnesses passed away, and all the evidence which might show the truth has disappeared from the face of the earth. If men will present claims so stale as this, they must expect them to be received with all the marks of (jislike which can be shown to them by a Court.\nWe do not mean to say that evidence may not be produced to repel the presumption of payment arising from the lapse of time. Certain facts have been proved and placed on this record having that tendency. But we say nothing of their sufficiency. If the distributees think proper to pursue their proper remedy by an action at law, the question of payment will be an open one.\nThe receipt of the money on Miller\u2019s judgment in 1831, is not, in our opinion, a reason which would in any degree justify the disturbance of the old account; though it may be sufficient to authorize the demand of a new one, embracing that and any other sum which was received since 1821.\nThe decree of the Orphans\u2019 Court of Cumberland county is reversed, and the record is remitted, with directions to the said Orphans\u2019 Court to confirm the account of George Patterson and Francis J. Hubley, as originally filed by them, unless the said Court shall be satisfied that Joseph Burd or his administrators, since the filing of the account of 1821, have received moneys not charged in the latter account, nor in any manner accounted for in the former one.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Hughes, for appellants.",
+      "Biddle and Watts, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hubley\u2019s Appeal.\n1. An administration account was confirmed in 1821, and tlie balance directed to be distributed according to law. In this account were charged dividends on bank stock not then received. The surviving administrator died in 1834. In 1839, 1840, and 1841, citations were issued to the executors of the surviving administrator to settle his account on the estate of the first intestate. The citations were not served, in consequence of the executors residing in another county. In 1848 another citation was issued and served, and the executors, by order of the Orphans\u2019 Court, filed an account. In it they charged themselves with a single item of money, as received by their testator in 1831, but suggesting that it had been paid over by their testator in his lifetime:\nIt was held, that, after the lapse of twenty-seven years, such original account should be considered as a, final account.\n2. After the lapse of such a period of time, the presumption is strong that the balance on the face of the account has been paid; and the balance on it should not be directed to be introduced into a new account, so as to remove the presumption and change the burden of proof.\n3. The presumption of payment, from lapse of time, of the balance on the old account, may, however, be repelled by evidence. The question of payment may be made in an action at law on the decree of distribution.\n4. The receipt of a sum of money, by the surviving administrator, since the settlement of the original account, is not a sufficient reason for disturbing such account; though it may be sufficient to authorize the demand of a new account embracing the said money and any other sums received since the settlement of the first account.\nAppeal by Francis S. IPubley and George Patterson, executors of the will of Joseph Burd, deceased, from the decree of the Orphans\u2019 Court of Cumberland county.\nLetters of administration on the estate of John McGregor, deceased, were issued by the register of Cumberland county, on 26th December, 1814, to Joseph Burd and William Bard. They afterwards filed an administration account, which was confirmed by the Orphans\u2019 Court on 16th May, 1821, showing a balance in their hands of $6986.87.\nDecree ivas made as follows: \u2014 \u201c 16th May, 1821. This account having been examined, adjusted, and passed by the Court, find a balance of six thousand nine hundred and eighty-six dollars and thirty-seven cents, subject to distribution according to law. By the Court.\u201d\nOn the face of the account was a statement as follows:\n\u201c Note, \u2014 Accountants have brought suit against David Jacobs\u2019 and Jeremiah Miller\u2019s estate; their suits are on record in the Court of Common Pleas of Cumberlahd county, which suits and claims accountants are prepared to have transferred to the heirs of John McGregor, upon receiving securities for- the share of each heir to be refunded upon such proportion as the nature of the case may require,\u201d &c.\nAt the foot of the statement it was added:\n\u201c It is understood that the accountants in settlement with the heirs are to settle for whatever interest (if any) that shall appear to be fairly chargeable to them at the time of such settlement.\u201d\nIn the account the inventory was charged, and the latter embraced thirty shares of stock in the Pittsburgh Manufacturing Bank, charged at $1500. A controversy arose between different persons claiming to be the true heirs of John McGregor; Rose Connor and Alexander McGregor claiming to be two of them; they and others representing one side, and another set claiming also. Suits were brought in 1821 by the latter, which were defended by the administrators, at the instance of the former set, but in November, 1830, nonsuits were entered. After this, Burd, one of the administrators, made sundry payments to the attorney of Rose Connor and Alexander McGregor, the last of which it was alleged was made on ' 9th April, 1833. After the termination of the suits before referred to, a controversy arose between Rose Connor and other claimants. During such controversy, viz. about 1st April, 1834, Joseph Burd died, having appointed Patterson and Hubley the executors of his will.\nOn the petition of C. B. Penrose, as administrator of the estate of Rose Connor and of Alexander McGregor, citations were awarded in September 1839, and in 1840 and 1841, to the executors of the will of Burd, to settle an account on the estate of John McGregor. The citations were severally returned Not served, the executors not residing in Cumberland county.\nOn 28th August, 1848, on the petition of C. B. Penrose, another citation was awarded to Patterson and Hubley, as executors aforesaid, to settle a final administration account on the estate of John McGregor; which citation was served upon them. On 12th December, 1848, an attachment was issued against them. On 13th February, 1849, the answer of the executors was filed.\nThe petitioner replied, alleging, inter alia, that the account confirmed in 1821 was not final, as there is evidence upon the face of it that there are matters therein which must be the subject of a future settlement. Also that on the 17th February, 1825, the said Burd received from the sheriff of Cumberland county $543.44, being the proceeds of a judgment of John McGregor against Jeremiah Miller. And further, that the said Joseph Burd, on the 16th June, 1831, received of the Bank of Pittsburgh sundry dividends, amounting to $1020, on stock of the said Bank, belonging to the estate of John McGregor, deceased. Further, that, in December, 1836, certain shares of stock (ten shares) were transferred to George Patterson, one of the accountants, as executor; and further, that said Patterson, on 13th February, 1837, received dividends amounting to $235, on said stock, belonging to the estate of McGregor.\nThe Court, on 28th December, 1849, adjudged the answer to be insufficient, and that no final account had been settled by Burd and Bard on the estate of McGregor, and ordered that the executors of Burd, the surviving administrator, settle an account of the assets which have come into the hands of the said administraos, since the settlement in May 1821.\nIn consequence of the said decree, an account of the executors, sworn to before a justice of the peace in Schuylkill county, was filed in the Register\u2019s office of Cumberland county, in July, 1850. In it they charged the estate of Joseph Burd with $393.54 received by Burd, on 12th July, 1831, on the judgment against Miller\u2019s administrator hereinbefore referred to, which was stated as being, so far as they knew, all the assets of McGregor\u2019s estate which came to the hands of Joseph Burd, as administrator, since the settlement in May, 1821. They suggested that the above sum of $393.44 was paid over by Joseph Burd on 12th December, 1831, to the attorney for the heirs of John McGregor, as per receipt.\nThey asked credit for expenses, &c.\nExceptions were taken to the account, and it was referred to an auditor, who reported an account charging the accountants with the balance on the account of 1821; deducting for thirty shares of Pittsburgh Bank stock; charging also dividends on Pittsburgh Bank stock; also stock of said Bank converted into money, and amount of the judgment against Miller\u2019s administrators, and interest on same, viz. $457.23; also charging interest on dividends and stock, and giving sundry credits, amounting to $142.70J. The account resulted in a balance against the estate of Burd of $21,078.01|.\nTo the report of the auditor exceptions were filed on the part of the accountants: one to charging the balance on the account of 1821; and special exceptions relative to the manner of charging the Pittsburgh Bank stock; to the charge of the dividends on it, and interest on the dividends; and the allowance for services, &e.\nPearson, J., holding a special court, decided that the presumption, from lapse of time, that a settlement had taken place in the case, did not arise; that it was refuted by the acts of the parties. If nothing had been done for twenty years, the law would presume that all had been settled; but that within that period the parties had been acting, and the delay was accounted for. The settlement of 1821 was not final. The administrators treated it as partial, in stating their account, and it is manifest they then contemplated a further settlement. The surviving administrator received funds of the estate as late as 1831, and probably paid the amount over to the representatives of the heirs. He did not then consider his functions at an end, or that he had no charge of the estate.\nHe further observed, that \u201cthe administrators do not appear to have treated the bank stock as their own, although charged to them in the account, but to have handed it over from time to time to Mr. Penrose, who ultimately recovered it all. He directed the half-yearly dividends to be charged to the accountants, instead of computing interest as in ordinary eases.\u201d He referred the account back to the auditor to be reinstated.\nOn the appeal exceptions were filed: 1. To the charge of the balance of the account of 1821. 2. To permitting that account to be opened by the auditor, and items of it brought into a new account, and interest charged on it in a way injurious to the estate of Mr. Burd. 3. In overruling exceptions to the auditor\u2019s report.\nHughes, for appellants.\nThe report of the auditor confirmed the allegation of the accountants, that no money of the estate of the intestate had come to the hands of Joseph Burd, or to those of his executors, since the settlement of the account of 1821, which had not been paid over. In the auditor\u2019s report nothing is charged that was not in that account, except the balance on the Miller judgment noticed in the original account, and that balance was paid or settled with Mr. Penrose within a few months after its receipt by Mr. Burd. It was alleged, that the account of 1821 was final, and that the remedy of the petitioner was for a decree of distribution, and not to settle another account: 5 Watts 90, Downing\u2019s Estate; 6 Barr 141, Weiting v. Nissley; 2 Harris 430, Pennypacker\u2019s Appeal. See 1 Jones 442, Chambers\u2019s Appeal; 2 Barr 432, Bower\u2019s Appeal.\nA bill against executors to file an account for the estate of their testator was dismissed after twenty-six years, though it appeared from the books of the testator that he had received debts within eighteen years of the time the bill in question was filed: 1 Johns. Ch. Rep. 46.\nIn this case a final account was settled by Mr. Burd in 1821, about thirteen years before his death. No citation issued for eighteen years, and none- was served for twenty-seven years after the confirmation of the account. In the mean time the appellants have settled their account on the estate of Burd, and paid away the balance stated on their account.\nMr. Burd, in his settlement in 1821, charges himself with the Pittsburgh Bank stock, $1500, and the dividends due thereon till the time of settlement in 1821, $693.68, although these dividends-were not received by him, as is shown by the auditor\u2019s report, till 25th June, 1831, and formed part of the $1512.42 then received.\nBut the appellee has failed to show any money of the McGregor estate received by Burd or his executors, which is not settled in-the account of 1821, except the Miller judgment, the amount received on which was paid by Joseph Bard.\nBiddle and Watts, for appellee.\nThe original and all the supplementary accounts of an executor constitute parts of one whole: 3 Rawle 243, Walker\u2019s Estate. The account, from the face of it, was a partial one; and assets came to the hands of the accountant subsequent to its passage, and disbursements were made.\nJune 29, 1852,"
+  },
+  "file_name": "0138-01",
+  "first_page_order": 140,
+  "last_page_order": 145
+}

@@ -1,0 +1,149 @@
+{
+  "id": 992229,
+  "name": "Fields's Appeal",
+  "name_abbreviation": "Fields's Appeal",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "11",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 Pa. 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Binn. 395",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795097
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0395-01"
+      ]
+    },
+    {
+      "cite": "3 W. & S. 371",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle 386",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819227
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0386-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 492",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856428
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0492-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 198",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0198-01"
+      ]
+    },
+    {
+      "cite": "2 Dall. 131",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11737705,
+        11737641
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/2/0131-02",
+        "/us/2/0131-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 86",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 401,
+    "char_count": 6229,
+    "ocr_confidence": 0.431,
+    "pagerank": {
+      "raw": 1.466202243607067e-07,
+      "percentile": 0.6583011210306083
+    },
+    "sha256": "d466f211e1be3392bb5f523dbaabc5e4d9ca1a75f1b2ca3f9b8b7b369d32e19c",
+    "simhash": "1:a16ea1181d82ac60",
+    "word_count": 1113
+  },
+  "last_updated": "2024-02-27T22:20:12.272922+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fields\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThis will is merely a direction for the division of the testator\u2019s estate among his heirs or children. Some are to have their share in money, others in land; and if the personal estate be not sufficient to pay the money shares, those who get land are to make up the deficiency in equal shares; and we agree that this constitutes a contingent charge upon the land devised, and raises a question of contribution or abatement between legatees and devisees, and shows how it is to be decided. It really makes the land the residuary estate: 11 Harris 223; 12 Id. 20; 5 Casey 428; 7 Id. 47. But the court was in error in charging all the deficiency on three out of the four devisees; they ought to have been charged one-fourth each.\nThere is error also in bringing the suit in the name of the administrator with the will annexed. It is the duty of executors or their substitutes to discharge legacies so far as funds come to their hands. For deficiencies the legatees must proceed themselves against the devisees or their assigns, whose land is charged with their payment. We know of no law authorizing the executors to attend to this duty: 9 Casey 47.\nDecree reversed, and petition dismissed at the costs of the complainants, and cause remitted to the Orphans\u2019 Court that this decree for costs may be there enforced.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "E. M. Sayers, for the appellant,",
+      "Black and Phelan, for the appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Fields\u2019s Appeal.\nA testator, by his will, bequeathed pecuniary legacies to certain of his children, and devised his real estate to four of his sons, adding, \u201cif there should be any failure of personal estate, to pay off the portions assigned to\u201d the legatees, \u201c then the sons to whom the land is assigned, are to make up the deficiency equal among them:\u201d Held, that the legacies were thereby charged upon the lands devised; and that the four devisees were bound to contribute thereto in equal portions, each being liable only for one-fourth part of the deficiency of the personal estate.\nWhere legacies are charged on lands devised, the legatees themselves must proceed against the devisees for their recovery; the executors are not proper parties to such a proceeding.\nAppeal from the Orphans\u2019 Court of Gfreene county.\nThis was an appeal by John Fields from the decree of the court below, subjecting him, as the alienee of Abraham Sprowls, a devisee of Henry Sprowls, deceased, to the payment of one-third part of certain legacies bequeathed by the will of the said Henry Sprowls, and alleged to be charged on the lands devised.\nHenry Sprowls died in 1848, and by his last will, among other things, bequeathed and devised as follows:\u2014\n\u201c 3. To my son William, $250, to be put into the hands of Dr. William B. Porter, to be given the said William Sprowls as he needs it. 4. My daughter Matilda, $200, which she has got in the land whereon she now lives, as described in the article between John Fields and myself, Henry Sprowls. 5. My daughter Elizabeth, $200. 6. My daughter Mariah, $30. 7. My daughter Nancy Jane, $200. 8. My sons Abraham and Jesse, the land situated on Owenes Bun, in Bichhill township, Greene county, Pennsylvania, to be divided equally between them. 9. My other sons James and Henry, the other farm whereon I now live. 10. If there should be any failure of personal estate to pay off the portions assigned to William Sprowls, and the daughters whose names are above written, then the sons to whom the land is assigned are to make up the deficiency equal among them. I appoint Francis Braddock and David G. Braddock my executors, and guardians of James and Jesse and Nancy Jane.\u201d\nOn the 13th June 1855, Francis Braddock, the acting executor, filed his account, showing that, after paying the debts of the testator, there was a balance due the accountant of $91.42.\nFrancis Braddock, the acting executor, died, and letters of administration, with the will annexed, were granted to Joshua Ackley, who presented a petition to the Orphans\u2019 Court, praying for a rule on the devisees and their alienees, to pay the legacies given to William Sprowls, and the daughters Elizabeth and Nancy Jane.\nOn the. 13th June 1857, the court below made the rule absolute against the devisees and alienees, \u201c except Martin Cummins, assignee of one of the devisees, he not being named in the petition, or served.\u201d\nAt March Term 1859, John Fields filed a petition, praying the court to review and set aside the decree of the 13th June 1857, on which the court made the following decree :\u2014\n\u201cAnd now, to wit, June 13th 1859, the prayer of petitioner (John Fields), so far as he prays for a review of the order of court of the 13th June 1857, decreeing that the legacies are a charge upon the real estate of the devisees and their alienees, is hereby dismissed. But the prayer for a modification and limiting of the same decree, is allowed; and the same is hereby modified so as to restrain the charge to an equal, several, and separate charge upon the three devisees, against whom the decree is made, and that these charges are each the one-third of the legacies. And we further order that the costs of this petition or bill of review be paid out of the legacies charged.\u201d\nFrom this decree the present appeal was taken.\nE. M. Sayers, for the appellant,\nargued: \u2014 1. That the legacies\nwere a mere personal charge on the sons, and not a charge upon the land; and cited Lupton v. Lupton, 2 Johns. Oh. 623; Hackadorn\u2019s Appeal, 1 Jones 86; Hepburn v. Snyder, 3 Barr 72; 7 Id. 452; 5 Vin. Abr. 416; 2 Dall. 131; Montgomery v. McElroy, 3 W. # S. 370; 4 Id. 414; 8 Watts 198. 2. That the petitioner, as administrator, had no interest, and the court no jurisdiction; and cited Act of 29th March 1832, \u00a7 57; Olwine\u2019s Appeal, 4 W. & S. 492.\nBlack and Phelan, for the appellee,\ncontended: \u2014 1. That the legacies were a charge on the land: Ripple v. Ripple, 1 Rawle 386; English v. Harvey, 2 Id. 305; Montgomery v. McElroy, 3 W. & S. 371; Bank v. Donaldson, 7 Id. 407; 2 Dall. 131; 6 Binn. 395; 2 Jarman on Wills 742; 2 Powell on Devises 6; 8 Harris 59; 11 Id. 391. 2. That the administrator de bonis non had an interest sufficient to support the proceeding: Olwino\u2019s Appeal, 4 W. & S. 492. That the exception was one of form, and not of substance: Downer v. Downer, 9 Barr 302."
+  },
+  "file_name": "0011-01",
+  "first_page_order": 11,
+  "last_page_order": 13
+}

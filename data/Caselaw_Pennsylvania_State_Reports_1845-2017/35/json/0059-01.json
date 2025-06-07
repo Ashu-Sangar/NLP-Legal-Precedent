@@ -1,0 +1,79 @@
+{
+  "id": 990500,
+  "name": "Roop versus Roop",
+  "name_abbreviation": "Roop v. Roop",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "59",
+  "last_page": "59",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 59"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Leg. Int. 83",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "89"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 193,
+    "char_count": 2595,
+    "ocr_confidence": 0.434,
+    "pagerank": {
+      "raw": 4.5828155114230504e-08,
+      "percentile": 0.2871028388141548
+    },
+    "sha256": "abba6693591bb929d88f3e0ca93024190bcfcb67719f761860b01877dfea8181",
+    "simhash": "1:bc4143ec841e0de1",
+    "word_count": 482
+  },
+  "last_updated": "2024-02-27T19:44:24.148369+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roop versus Roop."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThe day stated in the declaration is the 1st March 1857, and this is now alleged to be a Sunday, and this is the error assigned in this court. Upon looking at the almanac, we find it to have been Sunday, but we also perceive by the record, that this defence was not suggested or mentioned on the trial; and in fact, that neither were the goods sold on a Sunday, nor was the promise to pay made on that day.\n\"W e have already decided in several cases, that a mere matter of form, which, if taken advantage of in the court below, would have been cured by an amendment, will not be regarded here: Ward v. Ward, 15 Leg. Int. 83.\nJudgment affirmed.\nWard v. Ward. In this case, the following opinion was delivered by\nPorter, J. \u2014 In describing the note in his declaration, the plaintiff missed the date by a year. When the trial came on, the defendant's counsel was prevented from attending. If he had attended and taken the point, an amendment would have been allowed; it is just the case for the exercise of such a power. In this court, we can give him no help, for an objection, curable by amendment, if not made on the trial, is deemed to have been waived: 2 Gasey 333. If the objection had been made there, the later cases would have permitted to cure it here: 11 W. <& S. 365; 5 Harris 173; 10 Id. 89. Whether it were taken or not, the result would be the same; and this is but an instance of the growing disposition of the law to brush aside every formal obstacle in the way of substantial justice. Judgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "T. J. Ashton and J. P. Johnston, for the plaintiff in error.",
+      "P. M. Paxson, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Roop versus Roop.\nThis court will not reverse, merely because in the declaration, the promise of the defendant is stated to have been made on a day, which, by reference to the almanac, is shown to have been Sunday. A formal defect, which might have been cured by an amendment in the court below, will not be regarded here.\nError to the District Court of Philadelphia.\nThis was an action of assumpsit by Jacob Hoop, Jr., against Horatio Hoop. The declaration laid the alleged promise by the defendant, to have been made on the first day of March 1857. By reference to the almanac, it appeared that the 1st March 1857 was Sunday.\nA judgment having been rendered in favour of the plaintiff in the court below, the defendant sued out this writ, and here assigned for error, that the court below erred in entering judgment for the plaintiff, it appearing from the record that the defendant\u2019s promise was made on a Sunday.\nT. J. Ashton and J. P. Johnston, for the plaintiff in error.\nP. M. Paxson, for the defendant in error."
+  },
+  "file_name": "0059-01",
+  "first_page_order": 59,
+  "last_page_order": 59
+}

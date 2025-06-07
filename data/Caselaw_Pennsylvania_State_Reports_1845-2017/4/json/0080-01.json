@@ -1,0 +1,173 @@
+{
+  "id": 401847,
+  "name": "Mevey's Appeal",
+  "name_abbreviation": "Mevey's Appeal",
+  "decision_date": "1846-09-26",
+  "docket_number": "",
+  "first_page": "80",
+  "last_page": "88",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 80"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Rawle, 57",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Ohio Rep. 444",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        589564
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/11/0379-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. Ch. Rep. 242",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Ch. Rep. 449",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Serg. & Rawle, 455",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "456"
+        },
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Serg. & Rawle, 450",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1811060
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/10/0450-01"
+      ]
+    },
+    {
+      "cite": "19 Pick. 231",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2037697
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/36/0231-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 531",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843958
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0531-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 494",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838023
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0494-01"
+      ]
+    },
+    {
+      "cite": "1 Watts, 491",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838087
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0491-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 953,
+    "char_count": 22711,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 3.8505849066810805e-07,
+      "percentile": 0.8996232985011867
+    },
+    "sha256": "11b1262925ff577f3bd528b6e7a587db43089da3f596673828da6bb381f18f2d",
+    "simhash": "1:8e2f41e7cf79d4cd",
+    "word_count": 4002
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mevey\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J;\nJudgment affirmed for the re\u00e1sons given '\u2022 by Judge Grier.\no.) A similar order was made in the District Court of Philadelphia in Winberg v\u00bb Reiff, December Term, 1844, No. 58, which was a sri.fa, on a mortgage and execution issued, under which lots \u00d1os, 1 and 2 were sold by the sheriff. Swarthy filed an affidavit stating that the mortgage in suit was the first incumbrance given by Rciff, who was the owner of both lots. That he subsequently, while owner of Nos. 1 and 3r sold No. 1 to Springer, and agreed with the purchaser that No.. 2 should pay the mortgage to plaintiff. Springer mortgaged No. 1 to Reifffor the purchase money, which mortgage was held by Swartley. Upon this, the court set aside the sale, and ordered \u201c plaintiff to proceed to sell house and lot described in sheriff\u2019s advertisement as No. 2, before selling No, 1? which is to be sold only in case of No. 2 not making debt, interest, and costs,\u201d Ex. Dec., Dec. T., 1844, No. 367.",
+        "type": "majority",
+        "author": "Rogers, J;"
+      }
+    ],
+    "attorneys": [
+      "Hampton and Shaler, for appellant.",
+      "Biddle, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Mevey\u2019s Appeal.\nThe act of 1705 does not require that the terre-tenants or purchasers under the mortgagor, should be made parties to the scire facias on the mortgage; but the better and general practice is, to make them parties.\nIf a terre-tenant have no notice of the scire facias and proceedings under it, he will be permitted to make any available defence against the purchaser of the land at sheriff's sale, that he might have set up at the trial of the scire facias, in case it had been served on him.\nWhore a terre-tenant has not been noticed in the proceedings, the practice has been to permit him to make himself a party pro inieresse suo, and to have the benefit of any equitable or legal defence to which he may be entitled; and for this purpose, the court will stay execution, and order an issue to try the question.\nThe act of 2d of April, 1822, was intended for the benefit of the terre-tenants of purchasers from mortgagors, and was not intended to interfere with the relative equities of the different purchasers.\nOn a levari facias, the sheriff is not bound to sell in a lump all the land contained in the mortgage. He may and ought to sell in parcels, as the property is occupied and enjoyed ; and the court may, and will so direct the sheriff to sell, and in such order as will produce the most money, and at the same time protect the rights and equities of the terre-tenants.\nA., having mortgaged twenty-seven acres of land to B., afterwards mortgaged ten acres thereof to C., which was sold under C.'s mortgage and released by B.; A. then sold three acres of the remaining seventeen acres to D., with general warranty. Held, that B.'s assignee could not sell the three acres under the mortgage of A. to B. until he had sold the fourteen acres not released, and then only for the deficiency.\nSept. 23. This was an appeal by Benjamin A. Mevey, from the decree of the District Court of Alleghany county, made on a rule to show cause, why a writ of levari facias, issued at the suit of Hugh Davis, for the use of Charles Rowan, now for the use of Benjamin A. Mevey, the appellant, against Thomas Miller, on a judgment confessed under a scire facias on a mortgage, should not be set aside, so far as the same affected three acres of land, a portion of the mortgaged premises claimed by C. S. Bradford. The court made the rule absolute, and ordered as follows: \u201c That the execution be stayed, as to the three acres of the mortgaged premises, and that C. S. Bradford, the terre-tenant of said three acres, be made a co-defendant and permitted to defend pro interesse suo: the judgment being opened so far as it affected said parcel of the mortgaged pre-\nm\u00edses,-and no further, and the plaintif|\u00eddiavi\u00f1g. leave to proceed, and sell'the remaining parts of the mortgaged premises not previously \u25a0released from the lien of the said mortgage\"; this issue not to be made up, unless the sale of the fourteen acres is insufficient to satisfy the mortgage. \u201d\nThe facts of this case are fully st\u00e1t\u00e9d in\u2019the following opinion of the court below, (Grier, President;) which, was affirmed by this court.\n\u201c The mortgage in this case includes some twenty-seven acres of ground in Ross township,, near to Alleghany city. Davis sold the land to-Miller, in April, 1835, and .took-back this mortgage to secure $3585. of the .purchase mopey. . .\u2019 . \u25a0\n\u201cOn the 3d of January, 1838, Thomas Miller mortgaged ten acres of'this land to Charles Rowan, to secure the sum of $3000.\n\u201cOn the 25th of October, .1838,\u2019he-sold three acres (not encumbered-by his mortgage to Rowan) to.-Solomon Schoyer, with general 'warranty for the sum of $3500/ Charles S. Bradford, Esq., is the assignee of Schoyer-\u2019s title.\n\u201cOn the 1st of January, 1839, Miller conveyed to Thomas H. Patterson, for the consideration of $15,000, twenty-four acres of the land included in this mortgage, ten acres of which were also included in his mortgage to Rowan. : . -\n\u201c On the 30th of April, 1839, Patterson conveyed-the twenty-four acres to R. N. Havens. By this deed it appears, that Patterson'had purchased, specially subject to the payment of the bond to Davis for $3000, which then remained unpaid; for his deed to Havens repites, that the sale is made \u00absubject, to the principal of a certain mortgage, and interest thereon, from the date of the said deed from Thomas Miller to- Hugh Davis, dated April 20th, 1835, and which mortgage is recorded in mortgage book,\u2019 &c. On the 29th of January, 1842, T. J. Bigham, Esq., became the purchaser at sheriff\u2019s sale, of Haven\u2019s interest in the twenty-four acres, subject to the two mortgages. ^ - \u201c On the 26th February, 1842, Dr. Wray became the purchaser of the ten acres mortgaged to Rowan, by a sale under Rowan\u2019s mortgage.\n\u25a0 \u201c Charles Rowan purchased Davis\u2019s mortgage, but the date does .not appear, and instituted the present proceeding by sci. fa. to November Term, 1844. On the 24th.of October, about the time the sci. fa. issued, or soon after, Rowan gave a release of the mortgage to Dr. Wray, for the ten acres purchased by him.\n\u201c The act of 1705, entitled \u201cAn-act for taking lands in execution for the payment of debts,\u2019 which establishes the mode of proceeding t\u00f3 foreclose a mortgage and sell the property mortgaged, does not require that the terre-tenants, or purchasers under the mortgagor, should be made parties to the proceedings.\n\u201c The only difference that a want of notice to the terre-tenant makes, is, that he will be permitted to make any available defence against the purchaser of the land at sheriff\u2019s sale, that he might have set up at the trial of the scire facias, in case it had been served upon him. See Mather v. Clark, 1 Watts, 491; Culp v. Fisher, 1 Watts, 494; Cowan v. Getty, 5 Watts, 531.\n\u201c But a terre-tenant may have many equities, of which he could not avail himself after a sale on the mortgage, and of which, if not permitted to avail himself in some stage of the proceeding, itwould be manifest injustice. Thus, suppose two lots, subject to a mortgage, are sold by the mortgagor, one to A. for a full consideration, the other to B. subject to the whole mortgage, and amply sufficient to pay it. Now if B. were to pay the mortgage, and, by taking an assignment of it, attempt to use the rights of the mortgagee,,so as to sell A.\u2019s lot either alone or along with his own, orto compel A. to pay one-half of the mortgage, in order to relieve his property, this would be manifest injustice ; and yet, if the lot of B. were sold to a stranger, it is doubtful whether he would have any remedy, or how it would be administered to him, especially if the mortgagor were insolvent.\n\u201cHence it is generally the practice to make the terre-tenants parties to the sci. fa., and for the mortgagee to direct the sheriff to give them notice. And where a terre-tenant has not been noticed in the proceedings, the practice has been, to permit him to make himself a party, pro interesse suo, and to have the benefit of any equitable or legal defence, to which he may be entitled.\n\u201c The act of 2d April, 1822, is evidently intended for the benefit of terre-tenants, who have purchased from the mortgagor. It would be of no use to the mortgagor himself. Nor was that act intended, as plaintiff\u2019s counsel has contended, to interfere with the relative equities of such purchasers, or terre-tenants, and to establish a horizontal rule to govern all cases of contribution to the payment of a mortgage; such a construction of it would render it a most mischievous and unjust enactment. It is intended for the ben\u00e9fit of persons who have purchased parts of the mortgaged property, and are willing to contribute their proper share to have their land released ; that they may not be made liable for the laches, neglect, or inability of others, nor be imposed on by the mortgagee, who might release the terre-tenant, in equity bound to pay the whole, and compel another to pay, who ought not to pay any thing, or at most was bound to contribute only his proper proportion.\n%A mortgagee ought not to be.s\u00fcf|ilied:'\u00a1to affect the rights of the t\u00e9rre-tenants, by refusing or neglecting to make them parties. It is an entirely mistaken notion of the counsel-that has been urged so vehemently, that the sheriff rausf sell in the lump every thing contained in the mortgage; and that his deed will be of no avail, unless it follows precisely the courses' and distances laid down in the de'eds and writs of scire facias and levari facias. That a whole square. in a city must be sold together, though divided into twenty different tenements, with entire different equities ; and that the court have no power to interfere, either to direct the sheriff to sell. in lots or separate tenements, and in what order to sell them. If such be the case, our courts of justice are without competent authority to administer justice, and may be compelled, by the stringency of a statute, to sit by as the silent spectators, or rather as the coadjutors of the most gross iniquity: and in a course of near thirty years\u2019 experience in our courts of justice, I can say that such has hot been the practice, so. far as it has come to my knowledge. In fact this doctrine has its foundation in the same mistaken notion that was advanced by counsel in the.case of Culp v. Fisher, 1 Watts, 494, viz.: that a mortgage was like a ground-rent, and that the same doctrine applied to both. In that case, Mr. Justice Kennedy says, \u2018 Defendant\u2019s ' counsel have likened the release of part of the land mortgaged, to the case of rent charged on three .acres of land, where he who has the rent released all his right in one acre. And it is said the reJease extinguishes the whole rent; \u00e1nd the reason assigned for it isj because it issues out of every part of the land, and cannot be apportioned. But this cannot be said of money, or a debt charged on land'by a mortgage. For although the whole of the money is charged on every part and parcel .of the land embraced by the mortgage, yet- if the land so mortgaged consists of several tracts or parcels, when the mortgage money comes to be raised by a judicial sale of it, each tract or parcel must be. sold separately; and no more'of it can be sold than shall be found sufficient to raise the money claimed upon the execution..\n\u201cBelieving, then, that we have the power, not only to permit a .t^rre-tenant of part of the mortgaged premises, to intervene and have a hearing pro interesse suo, and to make him a party, and give him a hearing, but also to control the sale for the purpose of doing ju'stice between the several terre-tenants, and hindering one of them,'who may have purchased the control of the judgment, from committing, a wrrong or a fraud upon the others ; let us examine the relative positions-of the parties litigant in this case, and their equities.-\n\u201c No. 1 is the three acres first sold by the mortgagor with warranty, now held by Mr. Bradford.\n\u201c No. 2 is the ten acres purchased under a mortgage given by the mortgagor, but released by the holder of the mortgage since this suit was brought.\n\u201cNo. 3 is fourteen acres more, owned by B. Mevey, the present assignee of the mortgage. I say now owned by Mevey, because it is so asserted in Mr. Bradford\u2019s deposition, and not denied by any answer of Mevey, and assumed as a fact on the argument. But in the decision of the present question, so far as the judgment of the \u2022 court shall extend, it is not material whether Mevey be the owner of the fourteen acres or not.\n\u201cTh e-scire facias in.this case was not served on the terre-tenants, nor any notice-given to them. But on the return of service upon the mortgagor, a judgment was entered for the plaintiff on default of an affidavit of defence, on the 28th of November, 1844. . On the 29th of November, Mr. Dunlap moved to have the judgment opened; on whose behalf the record does not state. The judgment is opened by consent, and a plea of payment entered. And this would appear by the following entry on the record, to .have been done- in behalf of some person claiming as assignee of the mortgaged premises. But that person was not Mr. Bradford. Afterwards, on the 21st of October, 1845, an agreement is filed of record, reciting.that part of the mortgaged premises had been released,'and the assignee having pleaded, that more is demanded than a just proportion from the remainder; therefore it was agreed, that certain persons should be appointed to value the released and unreleased parcels. These referees made report. And, afterwards, December Ist; 1845, by consent of defendant\u2019s counsel',-, judgment is entered for $1600, and the report of referees withdrawn by consent; and- on the 4th of December, the debt and interest, \u00e1ssigned to Benjamin E. Mevey without \u25a0recourse, by\u2019.plaintiff\u2019s counsel. \u2022\n\u201cIt is .not necessary to assert positively, what'appears probable from' the face of the proceedings, that these purchases of the mortgage have been made with a'view to control it, for the purpose of compelling the three acres to contribute to the payifient of this mortgage,'right or wrong, and-shifting it-from the other parcels.\n\u201c The question-is, whether the three acres, first sold, are bound to contribute to the payment of this mortgage, if the remaining twenty-four, or the fourteen, are sufficient for that purpose.\n\u201cWhere'land is charged with a burden, each part ought to bear bo more than its due proportion of the charge; and equity will compel each part to a just' contribution; and a- creditor- cannot by any assignment, or act of Ms, deprive the co-debtors, or .owners of- the land, of their right of contribution.against-each other.- Se'e Stevens v. Cooper, 1 Johns. Ch. Ca.. 425; Parkma'n v. Welsh, 19 Pick. 231.\" ' .\n\u201c If the purchasers of the several parcels in this case had purchased^ the mere equity of redemption, Under a sheriff\u2019s sale on judgments-subsequent to th'e -mortgage.; each purchaser, without regard to the date or order of his purchase, would be justly compelled-to contribute to the .paymen't-of-it, in proportion, to his interest. 'And if the mortgagee, having a knowledge -of their several' rights, should release one portion, and attempt to -compel the owner of the other to pay the whole; equity would interfere and compel him to release the mortgage -on -any parcel, on payment of its proper proportion.- And this is the case provided for, by our act of 2d of April, 1822. In Sir William Herbert\u2019s case, 3 Coke, it was resolved that if A. be seised of three acres, and acknowledge a recognisance or statute, and enfeoff B. \u00f3f \u00f3ne - acre, and C. of another, and- the-third acre descends to' his heir, and if execution be sued out against his-heir, he shall not have contribution against the purchasers ; \u2018 for the heir sits in the seat of his ancestor.\u2019 And the 'same principle, applies, says Chancellor Kent, if there be several purchasers in succession, at different times; the last.'cannot.call on the previous \u00f3n\u00e9 to contribute, for \u2018 he sits in the seat of his grantor,\u2019 and must take\u2019 the land with all its equitable burdens. 'It cannot be in the-power of the debtor, by the act of assigning or selling his remaining land, torihrOw.the burden of the -judgment, or a rateable part of it, back on the first purchaser. \" '\n\u201cThe case is .not-an\u00e1logous to a. rent-charge, which grows out of the land itself; and when every purchaser of distinct parcels of a-tract of. land, charged with .the.rent, takes-it\u2019with such a-propor\u25a0tional part of the fcharg\u00e9-: see Clowes v. Dickenspn,-5 Johns'. Ch. Ca. 242;, Nailer v. Stanley, 10 Serg. & Rawle, 450. And the doctrine applies equally to lands subject to the lien of a mortgage, as to those 'subject to the lien of a judgment. \u2022 ' .- ' .-\n\u201c The case of'Gill and Lyon, 1 Johns. Ch. Ca. 447, is precisely like .the present. Lyon purchased by deed with-warranty, from the mortgagor. Gill purchased another part, under a sheriff\u2019s-safe, on a subsequent judgment against the mortgagor. ---The. chancellor compelled the mortgagee to sell Gill\u2019s part first, and allowed Lyon 'to redeem, by paying the\u2019balance not .made by the sale.' See also the case .of Allen v. Clark, 17 Pickering, 55. In .this case the sale of the first parcel (three acres) to Schoyer was for full value, as appears by the warranty. And the sale of the second (twenty-four acres) to Patterson was a sale specially subject to the payment of $3000 of the mortgage, as appears by the Patterson deed to Havens; so that it is plain, that the owner of the second parcel would have no right to call on the owner of the first parcel to contribute, in case he had paid off the mortgage. And if the mortgagee was attempting to sell No. 1, a chancellor would compel him to sell the second parcel first, and if the mortgage was not satisfied by such sale, he would then be permitted to sell theyifsi parcel, unless the owner would pay the balance of the mortgage.\n\u00ab Ten acres of the twenty-four having been released, and the terretenant of the other fourteen having appeared and confessed judgment, there is no difficulty in the c\u00e1se, unless it should turn out that the sale of th & fourteen acres should not be sufficient to pay the mortgage. Whether the present owner of the mortgage can enforce any portion from this three acres, after the release of the ten, is a question of some difficulty; and one which it would be necessary to form an issue to try, and which Mr. Bradford -would have a right to have tried, before his lot should be offered for sale ; as he has not yet had a day in court. If the parties desire it, such an issue will be ordered; either by opening the judgment pro tanto, and making Mr. Bradford a party, with leave to plead pro interesse suo, or by a special issue formed between Mevey and Bradford.\u201d The court, thereupon, made the order set forth in the commencement of this report.\nFrom this decree, Benjamin A. Mevey appealed; and assigned, in this court, the following error:\nThe court erred in staying the execution in this case as to the three acres of the mortgaged premises described in the deed of Miller to Schoyer, and permitting C. S. Bradford, Esq., to be made a co-defendant, and in opening the judgment so far as it affects the said parcel of the mortgaged premises.\nHampton and Shaler, for appellant.\nThe whole twenty-seven acres were mortgaged; there were no divisions. The mortgagee is not bound to notice subsequent divisions by the mortgagor. Under the act of 2d April, 1822, 7 Smith, 551, a mortgagor can release a portion of the mortgaged premises. This act is directory as to the proceedings ; he is obliged to levy on all not released. It is a proceeding in rem, the mortgage being the basis. The sci. fa. must pursue the mortgage, except as to released portions. The court cannot compel him to. do what the law will not permit; that is, to levy on a portion of the premises, without the residue being released. If the court here' must compel the plaintiff to release, the three acres, before-permitting him to proceed and sell the fourteen acres, it would not only be against law but justice.\n' Nor would the difficulty be obviated by levying- on the whole, but selling only the fourteen acres. This could not be done. The sale must be co-extensive with the levy. A mortgagee cannot know, nor is he bound to know, the metes, bounds, and dates of the respective divisions or portions. The principle on which the decisions in Nailer\u2019s Executors v. Stanley, 10 Serg. & Rawle, 455, 456, rests, is entirely different from -the present.- The reason of the .rule there is obvious and just; The debt is a personal one. The debtor always remains liable to pay the debt. A.11 his property must be first taken, -and exhausted. Hence the last purchaser takes with that understanding. But in the case of a mortgage there is no personal debt. Th'e judgment not against the person, but de tends. The land, not the person, pays the debt. As to the equities in this case: the complainant is not an innocent purchaser without notice. He knew of the mortgage. Now he asks the intervention of the equitable powers of this court, to,enable him to evade the payment of any portion of the mortgage; whilst all that we ask, standing in the 'double capacity of purchaser and mortgagor, is, that he be compelled to pay his proportionate part of the mortgage, and we w-ill pay ours.\nBiddle, contra,\ncontended, that where a mortgagor, sold parts .of the mortgaged property, the mortgagee was bound to proceed against, .and sell the residue of the premises in th\u00e9 first instance, and if this were not sufficient to pay the debt, then to sell the portion last sold by the mortgagor, and so on, in the inverse order of the dates of the purchases. He cited, Nailer\u2019s Executors v. Stanley, 10 Serg. & Rawle, 455, 456; Gill v. Lyon, 1 Johns. Ch. Rep. 449; Clowes v. Dickenson, 5 Johns. Ch. Rep. 242; James v. Hubbard, 1 Paige\u2019s Ch. Rep. 228 ; Gouverneur v. Lynch, 2 Paige\u2019s Ch. Rep. 300 ; Gui\u00f3n \u00ae. Knapp, 6 Paige\u2019s Ch. Rep. 39; Skeel v. Spraker, 8 Paige\u2019s Ch. Rep. 195; Schryver v. Teller, 9 Paige\u2019s Ch.- Rep. 173; Western Reserve Bank v. Commercial Bank, 11 Ohio Rep. 444; 3 Leigh\u2019s Rep. 539 ; Cowden\u2019s Estate, 1 Barr, 274.\nThe act of Assembly has nothing to do with this case, and no bearing upon it. It is a case of equitable interference. It has been contended that every portion of the land must bear its proportionate part of the debt. There is nothing of this kind in the act. ' If this were the rule, the daily business transactions between men, in the sale and. purchase of real estate, would be stopped. But such is not the rule. Ingerso\u00dc' v: Sergeant, I Wharti 359; Culp v. Fisher, 1 Watts, 494; Taylor\u2019s Executors v. Maris,.5 Rawle, 57.\nThis' is an effort to displace the equities of the parties.\nSept. 26.\nSee note at end of this ease."
+  },
+  "file_name": "0080-01",
+  "first_page_order": 80,
+  "last_page_order": 88
+}

@@ -1,0 +1,133 @@
+{
+  "id": 960679,
+  "name": "Lea's Appeal",
+  "name_abbreviation": "Lea's Appeal",
+  "decision_date": "1848-01-29",
+  "docket_number": "",
+  "first_page": "504",
+  "last_page": "507",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 504"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Law Rep. 318",
+      "category": "reporters:state",
+      "reporter": "Law Rep.",
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Raw. 224",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Edw. Ch. 451",
+      "category": "reporters:state",
+      "reporter": "Edw. Ch.",
+      "case_ids": [
+        486394
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/edw-ch/1/0451-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 181",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Binn. 186",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dall. 85",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Binn. 174",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788995
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/2/0174-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 186",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 428,
+    "char_count": 7282,
+    "ocr_confidence": 0.389,
+    "pagerank": {
+      "raw": 7.121491057675486e-08,
+      "percentile": 0.4275212570308153
+    },
+    "sha256": "a5e8b488c4eb19581fc3c61b5a78a2dd1e91e0ed1a9958851c37dc0edb425c49",
+    "simhash": "1:4daf1fa528820fa8",
+    "word_count": 1291
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lea\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nThe question presented in this ease is, whether a debtor who by deed conveys all his property to assignees for the benefit of his creditors, can stipulate for a release, since the passage of the \u201c act to prevent preferences in assignments,\u201d April 17, 1843, p. 273; Dunl. 896. The act declares \u201c that all assignments of the property in trust, which shall hereafter he made by debtors to trustees on account of inability, at the time of the assignment, to pay their debts, to prefer one or more creditors (except for the payment of wages of labour), shall be held and construed to enure to the benefit of all the creditors, in proportion to their respective demands; and all such assignments shall be subject, in all respects, to the laws now in force relative to voluntary assignments.\u201d The law then in force, and well settled, allowed the debtor to stipulate for a release, even when he had given preferences in his assignment: Lippincott v. Barker, 2 Binn. 174; 4 Wash. C. 232; Schuylkill Nav. Co. App., 2 Barr, 148, n. When the act was passed, the law was settled and long held, that a preference given to one or more creditors, in exclusion of the rest, was valid: 4 Dall. 85, in note; 2 Binn. 186; 13 S. & R.. 132. A careful examination of the act shows the legislature studiously avoided making any change in the law relating to voluntary assignments, as it was then understood and settled, except in the one particular, that there should be no preferences given in assignments, but in every other respect they should be subject to the law then in force.\nThe act did not make the assignment void, but said it should be held and construed for the benefit of the creditors.\nThis is the only provision in the act. Hence, in Blakey\u2019s Appeal, 7 Barr, 449, it was held that judgments confessed to secure creditors are not such preferences as are avoided by the act of 1843, although an assignment for creditors was intended, and was shortly afterwards executed. This case goes far in principle to settle the case under consideration. The legislature knew that the stipulation for a release was in accordance with the spirit of the bankrupt laws of the commercial world, and with the spirit of the age, that where an unfortunate debtor surrenders all his property to his creditors for their benefit, he ought to be allowed to begin the world again untrammelled, for his own benefit and that of his family. They made but the one provision in the act; and to prevent a latitudinarian construction of this one, they declared that all such assignments shall be subject, in all respects, to the laws now in force relative to voluntary assignments. If these creditors all released there would be no preference, and each determines for himself whether he will accept of the terms of the deed of assignment, it having been settled in the Schuylkill Navigation Company\u2019s Appeal, that no creditor should be allowed a dividend who did not release. We therefore think the auditor and the court were in error. They ought to have awarded the whole fund to the releasing creditors. In all eases where a release is required, a reasonable and fair opportunity is to be given by the requirements of his deed to come in and release, or the assignment would be fraudulent. We cannot say that such an opportunity was not given in this case.\nDecree reversed, and record remanded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Serrill and JP. MeGall, for appellants.",
+      "Morris and Tyson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Lea\u2019s Appeal.\nUnder the act of 1848, non-releasing creditors are not entitled to dividends undex\u2019 an assignment in trust for such creditors as shall release.\nFrom the Common Pleas of Philadelphia.\nJan. 19. On the 14th January, 1845, Sharpless and another made a general assignment to Lea and another, in trust to sell and pay the proceeds to such of the assignors\u2019 creditors as should execute a release before 12 o\u2019clock M. on the 7th February, 1845. The auditor and court distributed the fund to all the creditors, as well the non-releasing as those releasing; and this appeal was taken.\nIt did not appear where the creditors resided.\nSerrill and JP. MeGall, for appellants.\nThe assignment is not within the meaning of the act, \u201cto prefer one or more creditors,\u201d for it extends the benefit to all on equal terms. It does not exclude any creditors. It is perfect when executed, and valid, and not remaining in fieri until the time has elapsed. Should any creditors be excluded, it will be by their voluntary omission. The intent of the act is to prevent preferences, and that intent only can be enforced. Whether stipulations for a release should be allowed, is for the legislature. Both of these practices have prevailed from the earliest judicial history of the state, and have always been considered as distinct by the profession and community. The act allows preferences for the wages of labour, but that must be by apt words in the instrument; this shows that immediate and not constructive preferences were aimed at. The act was intended to strike at the right of capricious.preferences by putting all on an equality; and this is the effect of this assignment, as was said in 2 Binn. 186. IIow can there be a preference without a design to do so ? and how can the creditor know who will release ? If all or if none release, there will be no preference. The point was decided in 2 Barr, 148, n.; Blakey\u2019s Appeal, 1 Ib. 449, is also an authority that the act of preference must be included in the assignment.\nMorris and Tyson, contra.\nThe case in 2 Barr was on the ground that the bankrupt act was in effect incorporated in the assignment; the parties ratified it, instead of going into bankruptcy and avoiding it. The benefits of the act will be but partial, on the construction contended for. In this case but twenty-three days were allowed, to the creditors, which is unreasonably short, tas many reside out of the commonwealth. The act is a legislativo construction, that all future assignments \u201c shall enure to the benefit of all the creditors.\u201d By this means preferences are within the control of the debtor. His foreign creditors may never hear of the deed, or may be unable to comply with it. By making the time sufficiently short, domestic creditors can always gain a priority. The stipulation is a preference within the act, and the right to make it is consequent upon the right to prefer. It is so styled in 2 Binn. 181, and so treated in 1 Edw. Ch. 451, 5 Raw. 224, 3 Law J. 213, 6 Law Rep. 318, 411. Clearly, those who do not release are and were creditors. How, then, can it be said to enure to all creditors, if they are excluded ? The assignment is in fieri, at least until some one releases. Should all refuse, it is a nullity \u2014 from its perfection a preference is given. It is plain, then, that practically a preference is thus given.\n2. The right to prefer was based upon the right of paying in the order of the debtor\u2019s choice, and the right to stipulate for a release has always been based on the right of preference: 4 Mason, 206 ; 5 J. C. R. 329; but the clearest and most complete exposition is found in Thomas v. Jenks, 5 Raw. 224, where it is said, \u201c the basis of it is the admitted right to prefer one creditor to another and \u201c he may set his price upon it, provided it does not extend beyond a mere preference;\u201d and again: it is \u201c an exercise of his right of preference.\u201d\nJan. 29."
+  },
+  "file_name": "0504-01",
+  "first_page_order": 504,
+  "last_page_order": 507
+}

@@ -1,0 +1,78 @@
+{
+  "id": 401873,
+  "name": "Commonwealth ex rel. Morgan v. Heilman and Another",
+  "name_abbreviation": "Commonwealth ex rel. Morgan v. Heilman",
+  "decision_date": "1846-01-16",
+  "docket_number": "",
+  "first_page": "455",
+  "last_page": "455",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Pa. 455"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts & Serg. 566",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0566-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 102,
+    "char_count": 1085,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5191055540303701
+    },
+    "sha256": "33f142150b18feb317cf19c07074612ffccaebe77e8b3c08ff27fa99bab7205c",
+    "simhash": "1:7ee30caeab7e543d",
+    "word_count": 183
+  },
+  "last_updated": "2024-02-27T21:25:52.610331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth ex rel. Morgan v. Heilman and Another."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nThe exceptions are waived by proceeding, but it is not a discharge of the bail.\nThe prisoner was remanded.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "St. Geo. Campbell, for the relator,"
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth ex rel. Morgan v. Heilman and Another.\nExceptions to the bail are waived by filing a declaration, but the bail is not discharged.\nJan. 16. To a hah. corp. the respondents returned they held the relator under a bail-piece; that they had entered bail to the sheriff, and executed a bail-bond in an action on the case against Morgan, and the plaintiff filed exceptions; that respondents never justified, nor wms any additional bail entered, the amount having been.reduced by the court, on a rule to show cause of action, and why defendant should not be discharged on common bail; that the sheriff afterwards returned the writ \u201c C. C. and B. B., and respondents bail.\u201d That a declaration was subsequently filed, &c., and verdict and judgment obtained, on which the relator was arrested.\nSt. Geo. Campbell, for the relator,\ncited Filler v. Bryson, 6 Watts & Serg. 566, as deciding that the bail was discharged by exception taken, and no justification.\nJan. 16."
+  },
+  "file_name": "0455-01",
+  "first_page_order": 455,
+  "last_page_order": 455
+}

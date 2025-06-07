@@ -1,0 +1,103 @@
+{
+  "id": 957857,
+  "name": "Chambers v. Lapsley",
+  "name_abbreviation": "Chambers v. Lapsley",
+  "decision_date": "1847-10-01",
+  "docket_number": "",
+  "first_page": "24",
+  "last_page": "26",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Pa. 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Johns. 365",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Yeates, 13",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6770943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/3/0013-01"
+      ]
+    },
+    {
+      "cite": "1 Wheat. 8",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Dall. 120",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        581129
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/4/0120-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 326,
+    "char_count": 5646,
+    "ocr_confidence": 0.391,
+    "pagerank": {
+      "raw": 1.4483654970928683e-07,
+      "percentile": 0.6545727183322271
+    },
+    "sha256": "e55415eb9887341799a30ce621024af6430139348b6cb9bfd7308fc87ce8446d",
+    "simhash": "1:d563ac5588b256c8",
+    "word_count": 952
+  },
+  "last_updated": "2024-02-27T21:29:59.410919+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chambers v. Lapsley."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nA verdict and judgment are competent evidence, not only between the same parties, but also between privies to the action ; Calhoun v. Dunning, 4 Dall. 120; Davis v. Wood, 1 Wheat. 8. The record, therefore, of the ejectments, which were received in evidence by the court below, and excepted to by defendants, were properly received, because it is quite apparent from the evidence, that Chambers was the real party in these cases, \"and in fact contested them, the party on the record being his tenant: this error is not sustained.\nBy a recovery in ejectment, the title to the plaintiff is established, and he is justly entitled to the mesne profits made by the defendant, from or out of his land. And this rule is as just between tenants in common as between strangers. But the right of one tenant in common to recover mesne profits from another, by whom he was ousted, and against whom he recovered in ejectment, may be affected on technical grounds merely. Thus, if the plaintiff permits the defendant to remain an unreasonable time in possession, without taking out a habere facias possessionem, ho will' not be permitted to convert the defendant into a trespasser against his will; Hare v. Fury, 3 Yeates, 13. But this ground is merely technical. The plaintiff is clearly entitled to recover his moiety of the profits in some form of action. And we see nothing in this case of so marked a character as to turn the plaintiff round. What constitutes such unreasonable delay as to prevent recovery in this form of action, is not precisely defined, and must be settled for the occasion. But from any thing that appears on this record, the damages may have been assessed for the tract of eighty acres last recovered, and in relation to that there was no unreasonable delay; and the damages were probably, and could properly be assessed for the time previous to the judgment. In any aspect which the case presents from the record and the evidence, the court decline to disturb the verdict for this second exception.\nThe third error assigned is, that there was a joint declaration for a joint trespass and a several judgment.\nThe action and narr. is joint, and although it is stated on the record that Chambers plead not guilty, yet the record shows that Simpson adopted that plea as his, axid the tidal proceeded as if there had been a joint plea of \u2022 not guilty. The jury assessed several damages, and the first certificate returned of the docket entries showed the judgment was entered generally for the plaintiff. This view of the record would have made the case rub at this point. But a coi\u2019rected certificate was furnished the court, which \u2022I exhibited to the attorney for the plaintiff in error, who at once admitted its correctness, and which is now, with this opinion, attached to the record. By the additional certificate it appears, that the \u201c plaintiff elected to take judgment against William Chambers, and nolle prosequi entered as to Simpson,\u201d and judgment was entered accordingly. This- appears to be fully sustained by authority. Thus in Rodney v. Strode et al., Carth. 19, here in trespass against three defendants, the jury found them all guilty, but severed the damages, and the plaintiff entered a nolle prosequi as to two of the defendants, and took judgment against.the third according to his assessment. This judgment being given in King\u2019s Bench, was affixmed in error in the Exchequer Chamber, and finally in the House of Lords. The same principle is affirmed in Walsh v. Bishop, Cro. Car. 239. In trespass against several who jointly plead not guilty, oixe may be acquitted, and a verdict against the other, 2 Johns. 365;, and this is bottomed on the same principle \u2014 that is, that although there can only be one satisfaction, there can be several verdicts, but out of them only one satisfaction. The same principle is recognised in Tidd\u2019s Practice, 895.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Robinson, for plaintiff in error.",
+      "MeOandless, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Chambers v. Lapsley.\nYerdict and judgment in ejectment against tenant in possession, is evidence in an action for mesne profits against his landlord, who in fact contested the case.\nTenant in common proving a judgment in ejectment in 1839, for part of the land, and a hab. fac.poss. executed in 1842, and a judgment for another part in 1846, and possession delivered the same term \u2022 a judgment in an action for mesne profits brought in January, 1847, will not be disturbed on account of delay in talcing possession.\nDefendants in trespass for mesne profits pleaded jointly, but a separate verdict was found. Judgment may be entered against one, and a nolpros. as to the other*\nIn error from the District Court of Allegheny.\nOct. 1. Trespass for mesne profits. The \u25a0 plaintiff declared against Chambers and Simpson jointly, who pleaded not guilty. It appeared that Chambers and Lapsley were tenants in common. Plaintiff showed a judgment in ejectment against Simpson for one-fourth of three hundred acres, in December, 1839, and a habere executed in April, 18-40; another judgment against the same defendant in September, 1846, for eighty acres, and possession delivered the same term. He then showed that Chambers sued out a writ of error, and was the landlord of Simpson.\nIt appeared that the jury found for plaintiff, and assessed several damages. Plaintiff entered judgment against Chambers alone, and a nolle prosequi as to Simpson.\nThe admission of the records of the ejectments, in evidence; allowing a recovery by one tenant in common, after the delay in taking possession thereunder; and entering a several judgment on a joint narr. and plea, were the errors assigned.\nRobinson, for plaintiff in error.\nMeOandless, contr\u00e1.\nOct. 1."
+  },
+  "file_name": "0024-01",
+  "first_page_order": 24,
+  "last_page_order": 26
+}

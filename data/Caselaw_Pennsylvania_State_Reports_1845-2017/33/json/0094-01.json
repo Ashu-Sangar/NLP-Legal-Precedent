@@ -1,0 +1,388 @@
+{
+  "id": 988435,
+  "name": "Gault's Appeal",
+  "name_abbreviation": "Gault's Appeal",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "94",
+  "last_page": "101",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Pa. 94"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 W. & S. 49",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483301
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0049-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 300",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846807
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0300-01"
+      ]
+    },
+    {
+      "cite": "12 Wheat. 343",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "pin_cites": [
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pet. 380",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        11338041
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/27/0380-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 198",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478141
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0198-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 258",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838035
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0258-01"
+      ]
+    },
+    {
+      "cite": "4 Wh. 291",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1834999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0291-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. 6",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0006-01"
+      ]
+    },
+    {
+      "cite": "1 Swan 13",
+      "category": "reporters:state",
+      "reporter": "Swan",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "42-4"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Barb. 161",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Penn. L. J. 299",
+      "category": "reporters:federal",
+      "reporter": "Penn. Law J.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle 276",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0276-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 128",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856512
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0128-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 472",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850934
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0472-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 298",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts 98",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850046
+      ],
+      "pin_cites": [
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0098-01"
+      ]
+    },
+    {
+      "cite": "17 Barb. 162",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4953875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/17/0162-01"
+      ]
+    },
+    {
+      "cite": "4 Pet. 358",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Wheat. 119",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11729282
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/19/0119-01"
+      ]
+    },
+    {
+      "cite": "4 Cranch 403",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        639421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/8/0240-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 100",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812650
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0100-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch 87",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        530387
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "113"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/10/0087-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 32",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481780
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0032-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 160",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842754
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0160-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 173",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wheat. 388",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Peters 661",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. & S. 52",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Howard 316",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1030,
+    "char_count": 21756,
+    "ocr_confidence": 0.459,
+    "pagerank": {
+      "raw": 7.268845872175725e-07,
+      "percentile": 0.9681406136033414
+    },
+    "sha256": "564b1f2d6fe68ce7dd28ef134d550d8178a85fd857e60a8a773bd779c6ec5562",
+    "simhash": "1:86b35df78d33ec69",
+    "word_count": 3841
+  },
+  "last_updated": "2024-02-27T20:46:52.756636+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gault\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion, of the court was delivered by\nWoodward, J.\nThe question that lies at the bottom of this case is, whether the 11th section of the Act of Assembly of 13th May 1856, P. L. 567, giving owners of lots in Philadelphia two years to redeem from sales made for municipal claims, is to be strictly or liberally construed.\nThe counsel for the appellant insist, that however just and reasonable this enactment may be in its general operation, yet it ought to be so strictly construed as not to embrace this case, because when the sheriff\u2019s sale was made under which he claims, the Act of 23d January 1849 was in force, which allowed but one year for redemption; and to apply the Act of 1856 to this sale, would be to give it a retroactive and unconstitutional operation. They consider this a sufficient reason to force us upon a strict construction of the statute, and then they argue, with conclusive effect, that neither the parties nor the case are within the statute.\nBut are we shut up to a strict construction of the enactment ? What is its nature and tendency ? If we apply it to the case before us, do we give it retroactive effect, or render it unconstitutional ?\nThese are interesting and important questions, and we have given them a very attentive consideration.\nThe enactment is a redemption law. It gives to the owner of a vacant lot sold for taxes in Philadelphia, the same time for redemption that the Act of 1815 gives to the owner of unseated lands sold for taxes in the rural counties. It is, therefore, favourable to the rights of property, and congenial to the spirit of our general legislation. The right of the government to authorize the seizure and sale of land without notice to the owner, was seriously doubted, and sometimes stoutly denied, in the early history of tax sales in Pennsylvania; and the only ground on which it can be maintained, is the absolute sovereignty of the state in the exercise of its taxing power.\nBut it is a severe exercise of power. To divest ownership, without personal notice, and without direct compensation, is the instance in which a constitutional government approaches most near to an unrestrained tyranny. Whatever tends to modify this right is favourable to the citizen, and ought to be liberally construed, on the principle that remedial statutes are to be beneficially expounded.\nRedemption is the last chance of the citizen to recover his rights of property, and yet, it is here, at the point of the owner\u2019s extremity, the appellant\u2019s argument would have us apply strictness of construction to a statute made for the owner\u2019s relief. The owner may redeem, says the statute: but, says the appellant, those who offered to redeem on the 15th September 1858 were not owners at the time of the sale, but became owners afterward.\nThe purchaser shall reconvey, says the statute; but the appellant points to the fact, that Raimond was the purchaser at the sheriff\u2019s sale, and conveyed to him, Gault, who is not the purchaser within the meaning of the statute, and therefore not subject to a decree to reconvey. The act applies to sales by the Gity, and the appellant says this was a sale by the district of Penn.\nNow, however, we might be disposed to lay hold of such criticisms to prevent the operation of a statute which proposed to divest titles, they are not to arrest a statute which has for its object the restoration of a title to the real owner. This would be hypercriticism in the wrong direction. We hold him to be an owner within the statute who is such when he offers to redeem. The sale left in the former owner an equity of redemption at the least, and that might be conveyed like any other estate, and the grantee took it with all the rights and capacities of the grantor. He is therefore the \u201c owner\u201d who holds the title at the moment of redemption. Nor is the statute to be defeated by the purchaser at the public sale conveying his rights to another before the time of redemption. If Raimond took from the sheriff a legal title, and conveyed it to Gault, it was, nevertheless, a defeasible title\u2014 liable to be defeated by a redemption within time \u2014 as much so in the hands of Gault, as in those of Raimond. And it was a sale 'by the city. The Consolidation Act had made the district of Penn .part of the city, and on the face of the record the proceedings were in the corporate name of the district, to the use of the city. At the time of the sale, therefore, the city stood as the beneficial party upon the record \u2014 and that was enough to answer the terms of the statute.\nThus it is apparent, that it does not require a very large stretch of construction, to bring the case within this remedial statute; and such as it does require, we feel quite justified in making.\nBut here comes the appellant\u2019s more weighty objection, that we give the statute, by such construction, a retroactive and unconstitutional operation. A retroactive statute is not necessarily unconstitutional, else many adjudications in the books would never have been made, of which Satterlee v. Matthewson, 17 S. & R. 177, is the most striking example. Still, however, the policy of making statutes prospective is so obviously just, that we always incline against a retroactive effect, and never yield our repugnance except to the most indubitable phraseology, or the strong demands of justice.\nThe language here is, \u201c all sales for registered taxes, municipal claims, assessments for removing nuisances, or other charges by the city assessed on real estate, shall be subject to redemption by the owner, at any time within two years from the date of the acknowledgment of the sheriff\u2019s deed therefor,\u201d &c.\nProceeding upon the ground we have assumed, that this is a statute which calls for a liberal construction, it might be said that this language was large enough to embrace sales made before the statute passed, as well as after, unless, indeed, the time given by the Act of 1849 had already closed upon the prior sale; but it is not necessary to rule this point. An answer to the argument against the retroactive effect of the statute is furnished by the facts. The lot was stricken down to James Raimond, by the sheriff, on the 3d March 1856, but the sheriff\u2019s deed was not made nor acknowledged, until the 18th April 1857. Meanwhile, to wit, on the 13th May 1856, the act in question was passed.\nNow with what propriety of speech can this be called a sale prior to the date of the act ? A deed was essential to the consummation of the sale. Until that was made and delivered by the sheriff, the sale was liable to be set aside by the court, under whose process it took place. It was, to all intents, a judicial sale. The lien was entered of record in the District Court\u2014 the scire facias issued from that court \u2014 the judgment was entered there, and from thence the levari facias issued, under which the sheriff made the sale. His process was returnable into that court \u2014 his deed was to be acknowledged and recorded there. So long, therefore, as the sale was in fieri, the court had control over it, and whilst that lasted, it could not be called a perfected and eompl\u00e9te sale. Until he obtained his deed, the purchaser could institute no proceedings to obtain possession, nor make a lease of the premises that would estop the tenant from disputing his title: 5 S. & R. 157; 1 Penn. R. 170; though, for the benefit of his creditors, we hold that a sheriff\u2019s vendee, before deed, acquires an inceptive interest, which their judgments will bind, if the sale be followed up and perfected: 4 Casey 170. A purchaser of unseated land, at treasurer\u2019s sale, acquires no rights, whatever may be his liability to creditors, until he obtains his deed; and yet that is not a sale that requires the sanction of any tribunal.\nFor these reasons, we are clear in ruling that this was not a sale made prior to the Act of 1856, and that we give the act no retroactive effect in applying it as we do.\nThe same observations apply to a great extent to the constitutional question. It is called the divesting of private property without trial by jury, and without compensation. But if no title had vested when the act passed, it is not open to this objection.\nIt is argued, however, that the inchoate interest which Raimond acquired on the 3d March 1856, was held by virtue of a contract with the sheriff, which the Act of 13th May impaired.\nAs an abstract proposition, it is true, that a defective title or an inchoate interest is within the protection of the constitution. The provision that no state shall pass a law impairing the obligation of contracts, has no regard to the magnitude or value of contracts. The obligation of no contract shall be impaired, whether it be for much or little.\nBut conceding that here was a contract and an interest within the meaning of the constitution (both which might perhaps be well doubted), it is to be observed, that all these Acts of Assembly authorizing the assessment of municipal taxes, the creation of liens therefor, the sale of lands to satisfy the liens, and the time of redemption given to owners, constitute together a system of remedies for enforcing the taxing power \u2014 than which there is no clearer power in the constitution. States and cities cannot exist without taxation. The time, the mode, and the measure of taxation, are committed altogether and exclusively to the legislative discretion. As I have already intimated, it is on this ground alone that the constitutionality of these laws is to be sustained, which, without notice to the owner, or judicial sentence against him, seize his title to real estate, and sell it to the highest bidder for the payment of taxes. On the same ground \u2014 the absoluteness of the legislative power to regulate taxation \u2014 this Act of 13th May 1856 can be abundantly supported. It is part and parcel of that regulation of public taxation, which, under the constitution, belongs exclusively to the legislature. It mitigates the rigour of the original proceeding, and is, therefore, worthy of beneficent interpretation; but its constitutionality rests not on this consideration, but on the fact that it is one of the necessary and reasonable means to a constitutional end. The object proposed is to enforce the payment of taxes \u2014 and these several statutes are the legislative mode of attaining that object. The one is as constitutional as the other. If a distinction were to be taken, it would be more unfavourable to those provisions under which Raimond purchased, than to those under which the appellees redeemed. But both are constitutional, because in legislative judgment, necessary to the collection of taxes.\nOur recording acts are not, like tax laws, founded in any political necessity, but simply on public convenience, and yet they do not hesitate to set aside and annul an unrecorded deed or mortgage as against a subsequent purchaser or encumbrancer without notice In such case a very express and solemn contract \u2014 and one, not half-formed like that of Raimond with the sheriff, hut one full-fledged and complete \u2014 is often destroyed by force of the legislative will.\nAnd stay laws, that deprive parties for a time of their right to execute judgments of courts of justice, ar\u00e9 a very striking instance of constitutional legislation, more questionable by far than that which we have under consideration here; for these laws propose no state object, like taxation, but only individual relief from self-incurred indebtedness. See Ch. J. Taney\u2019s observations in Bronson v. Kinzie, 1 Howard 316, and Ch. J. Gibson\u2019s, in Chadwick v. Moore, 8 W. & S. 52.\nRegarding this Act of Assembly as one of those regulations of the taxing power that are peculiarly within legislative control, we think it'of no importance how definite or real the interest which Raimond acquired, by bidding off some fifty thousand dollars\u2019 worth of real estate for twenty-five dollars, since the whole proceeding, until it was fully consummate, was entirely under legislative control. The legislature might have repealed all the laws on the subject, between the time of Raimond\u2019s purchase and the date of his deed, and against whom would he then have had remedy ? Certainly not against the sheriff, for he was a mere ministerial agent, who could only act as he was acted upon. He transfers titles, but does not warrant them. Nor against the land, for all pretence to title would be gone. Nor against the state, for the taxing power is exercised without accountability to parties.\nIf the legislature might thus have blotted out Raimond\u2019s inchoate right, it cannot be said that the extension of the right of redemption for a year was unconstitutional.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Markland and Joel Jones, for the appellant,",
+      "F. H. Price and B. H. Brewster, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "Gault\u2019s Appeal.\nThe Act 13th May 1856, giving the owners of lots in Philadelphia, two years to redeem from sales for municipal claims, is to be liberally construed in favour of the right of redemption. It applies to cases of sales made before its passage, but in which no deeds had then been executed to the purchasers.\nSuch sale leaves in the owner an equity of redemption, and his grantee may redeem the land.\nAnd such redemption is not defeated by a conveyance from the purchaser at the sheriff's sale. The grantee of such purchaser takes a defeasible title, liable to be defeated by a redemption within the period prescribed by the statute.\nThe act applies to a sale by the city of Philadelphia, under a lien filed by one of the former municipal corporations into which it was divided.\nA retroactive statute is not unconstitutional, unless it violate the obligations of a contract. And there is no contract with a purchaser under a municipal claim, until the acknowledgment of the deed.\nThe Act of 13th May 1856, is a regulation of the taxing power: until a purchase under a tax sale is fully consummated, it is entirely under legislative control.\nAppeal from tbe District Court of Philadelphia.\nThis was an appeal by Henry W. Gault from the decree of the court below, directing him to reconvey to William L. Schaffer, Charles J. Ellis, and Samuel T. Roberts, certain lots of ground in the city of Philadelphia, which had been sold by the sheriff, under a municipal claim. The facts of the case are sufficiently stated in the opinion of the court below, which was delivered by Sharswood, P. J.:\u2014\n\u201c This is an application for an order on Henry W. Gault, the grantee of the purchaser of certain premises sold under the process of the court, for the payment of a municipal claim for paving, filed originally by the district of Penn, September 1853. A sei. fa. was issued to the use of the city of Philadelphia, and judgment entered January 20th 1855. The sales took place March 3d 1856, when James Raimond became the purchaser. The sheriff\u2019s deed to Raimond was not acknowledged until April 18th 1857, and three days after, James Raimond and wife conveyed the premises to Henry W. Gault. The petitioners have exhibited their title, and proved a formal tender to Mr. Gault of forty-one dollars. No objection has been raised either to the title or the tender, but the rule to reconvey is resisted on other grounds.\n\u201c It is argued, that the order can only be made upon the purchaser at the sheriff\u2019s sale, by the words of the 11th section of the Act of May 18th 1856. The right of redemption, secured so carefully to the owners of the property, would be practically a nullity, were this construction allowed to prevail.\n\u201c Qui hcerit in litera, hcerit in cortice. The grantee of the purchaser takes his title subject to redemption; he stands in the purchaser\u2019s shoes; he is, within the spirit and intent of the law, the purchaser himself. It is a well settled canon of interpretation, that the intention of the makers of a statute is to govern, even though the construction grounded upon such intention, may appear to be contrary to the literal import of the words. Every technical rule, either as to the construction or the force of particular terms, must yield to the clear expression of the paramount will of the legislature: Wilkinson v. Leland, 2 Peters 661. An interpretation ought never to be adopted, that will defeat the evident purpose of the statute, if it will admit of any other reasonable construction: The Emily and Caroline, 9 Wheat. 388. An order on the purchaser to reconvey, after he has denuded himself, by grant, of the legal interest, would be nugatory; a,nd if it cannot be made and enforced against his assignee, the owner\u2019s right to redeem, which it was evidently the great end of the act to enlarge and secure, would be worthless. In ninety-nine cases out of a hundred, a conveyance would be made to bar his right.\n\u201c Another objection has, however, been raised. It is said, that at the date of the sheriff\u2019s sale, March 3d 1856, the Act of Assembly of 23d June 1849, then in force, allowed but one year to redeem. It might well be maintained, that it was entirely competent to the legislature, at any time before the limitation of time for redemption had actually expired, to enlarge the time, though not after the purchaser\u2019s title had become absolute. It would violate the obligation of no contract. It would be the simple exercise of a power over the remedy, which has always been conceded to the legislature.\n\u201c Mr. Raimond bought a defeasible title. The legislature had provided, that it might be defeated within one year. He is not . injured hy extending the time, any more than any other person in possession of property, held adversely, would be, by a legislative extension of the statute of limitation. But it is not necessary to decide this question. It would have been so, if the sheriff had duly executed and acknowledged a deed to the purchaser, prior to May 13th 1856, the date of the Act of Assembly which extended the period of redemption to two years. It is true, that a successful bidder at a sheriff\u2019s sale has an interest, or rather an inchoate interest; but the sale is not complete, until the acknowledgment of the sheriff\u2019s deed. Up to that period, he has properly no estate. He is not entitled to recover the possession in ejectment, even though he has paid the purchase-money, and fully complied with all the conditions of sale. The law, then, under which Mr. Raimond took his title, was the Act of May 13th 1856.\n\u201c One other ground has been urged, that the Act of 1856 does not apply to this case, because it is confined by its terms to sales for registered taxes, municipal claims, assessments for removing nuisances, and other charges by the city, assessed on real estate. It is true, this was a charge assessed by the district of Penn, and nof by the city, yet it enured to the use of the city \u2014 the proceedings to recover it were by the city. The consolidated city was composed of the old city proper and the surrounding districts. Now, had the claim been originally by the old city, the case would have been within the letter of the act, but not less within its spirit, than a municipal claim filed by one of the districts. Nothing is clearer, as well upon principle as authority, that all acts of this nature, for the redemption of the property of the citizens, ought to receive the most liberal construction in favour of the right of the innocent owner, whose property has been swept from him. In the case of vacant and unimproved lots, such proceedings may be instituted and carried through without the knowledge of the real proprietor. The legislature surely did not mean to provide a remedy only for claims filed by the city, leaving remediless that large class affecting property in what was before the suburbs, where vacant lots were most numerous, and where there really existed the greatest danger of injustice. Rule absolute.\u201d\nFrom this decree, Henry W. Gault appealed to this court.\nMarkland and Joel Jones, for the appellant,\ncited Norman v. Heist, 5 W. & S. 173; Const. U. S. Art. I. sect. 10, \u00a7 1; Smith v. Painter, 5 S. & R. 225; Adams v. Adams, 4 Watts 160; Gaskell v. Morris, 7 W. & S. 32; Fletcher v. Peck, 6 Cranch 87; Barclay v. Weaver, 1 Wh. Dig. 286, pl. 107; Brown v. Hummel, 6 Barr 91; Hawk v. Stouch, 5 S. & R. 161; Slater\u2019s Appeal, 4 Casey 170; Dewart v. Purdy, 5 Id. 113.\nF. H. Price and B. H. Brewster, for the appellees,\ncited Wistar v. Kammerer, 2 Yeates 100; Young v. Martin, Id. 312; James v. Gordon, 1 W. C. C. R. 333; 4 Cranch 403; 6 Wheat. 119; 4 Pet. 358; 17 Barb. 162 ; 2 Curtis 444; Delaney v. Gault, 6 Casey 63; Patterson v. Brindle, 9 Watts 98, 101; Orr v. Cunningham, 4 W. & S. 298; Baird v. Cahoon, 5 Id. 540; Shields v. Miltenberger, 2 Harris 76; Elliott v. McGowan, 10 Id. 198; McFee v. Harris, 1 Casey 102; Allen v. Gault, 3 Id. 473; Cumming\u2019s Appeal, 11 Harris 509; Vandever v. Baker, 1 Id. 127; Sacket v. Twining, 6 Id. 202; 10 Watts 472; Id. 13; 4 W. & S. 128; Scheerer v. Stanley, 2 Rawle 276; Storch v. Carr, 4 Casey 135; Thomas v. Connell, 2 Penn. L. J. 299; 5 Barr 13; 17 Barb. 161; 4 Id. 162; 1 Id. 517; 1 Swan 13; Coulter v. Philips, 8 Harris 154; 1 Madd. Ch. 255-6 ; 1 Cruise, tit. Mortgage, ch. 1, \u00a7 21 and notes; 2 Ves. 445; 1 Madd. Ch. 29-33; Id. 42-4; 6 B. Monr. 387; 1 Johns. Ch. 6; Id. 594; Francis\u2019 Maxims 44; Naglee v. Albright, 4 Wh. 291; 1 Salk. 156; 1 Story Eq. \u00a7\u00a7 388-92; Waln v. Shearman, 8 S. & R. 361, 367; Donnel v. Bellas, 10 Barr 345-6; 9 S. & R. 283; 1 Watts 258; Mullock v. Souder, 5 W. & S. 198; O\u2019Conner v. Warner, 4 Id. 223; Satterlee v. Matthewson, 16 S. & R. 177; 2 Pet. 380; Shorts\u2019 Estate, 4 Harris 67; Eakin v. Raub, 12 S. & R. 340; 2 Story Const. \u00a7\u00a7 1383-5; Ogden v. Saunders, 12 Wheat. 343, 354; Underwood v. Lilly, 10 S. & R. 97; Pickering v. Rutty, 1 Id. 511, 515; Hepburn v. Curts, 7 Watts 300 ; Bambaugh v. Bambaugh, 11 S. & R. 191; Price v. Taylor, 4 Casey 95; Chadwick v. Moore, 8 W. & S. 49, 52; Ross v. Hanbest, Com. Pleas, Phila. MS."
+  },
+  "file_name": "0094-01",
+  "first_page_order": 94,
+  "last_page_order": 101
+}

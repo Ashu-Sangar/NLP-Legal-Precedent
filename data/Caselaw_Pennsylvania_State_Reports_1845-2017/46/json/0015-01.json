@@ -1,0 +1,306 @@
+{
+  "id": 420638,
+  "name": "Hill et al. versus Meyers et al.",
+  "name_abbreviation": "Hill v. Meyers",
+  "decision_date": "1863",
+  "docket_number": "",
+  "first_page": "15",
+  "last_page": "24",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 Pa. 15"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Yeates 13",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6770943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0013-01"
+      ]
+    },
+    {
+      "cite": "2 W. & S. 314",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853531
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/2/0314-01"
+      ]
+    },
+    {
+      "cite": "3 Yeates 14",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 John. 324",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0324-01"
+      ]
+    },
+    {
+      "cite": "3 Caines 111",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "case_ids": [
+        12129026
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cai/3/0111-01"
+      ]
+    },
+    {
+      "cite": "8 Wheat. 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        6136159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/21/0001-01"
+      ]
+    },
+    {
+      "cite": "2 Wend. 294",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3516384
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/2/0294-01"
+      ]
+    },
+    {
+      "cite": "9 Barb. 693",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wend. 589",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Cranch 108",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Pet. 277",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Conn. 541",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753681
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/8/0541-01"
+      ]
+    },
+    {
+      "cite": "4 Cal. Rep. 291",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        4214825
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/4/0291-01"
+      ]
+    },
+    {
+      "cite": "2 W. & S. 28",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Whart. 231",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 375",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "pin_cites": [
+        {
+          "page": "376"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Johns. 468",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129768
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/3/0468-01"
+      ]
+    },
+    {
+      "cite": "14 Whart. 241",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 185",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0185-01"
+      ]
+    },
+    {
+      "cite": "4 Wright 204",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Johns. 262",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134422
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0262-01"
+      ]
+    },
+    {
+      "cite": "9 Mass. 508",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2029690
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/9/0444-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 471",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2055297
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/15/0418-01"
+      ]
+    },
+    {
+      "cite": "4 Johnson 390",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Jones 238",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wright 513",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1133,
+    "char_count": 27137,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 2.4347029120608237e-07,
+      "percentile": 0.8024294080465695
+    },
+    "sha256": "da312608b0e6d7f67a4af77a237bf0503f107d1f24a6e72b043b4de97c015dcb",
+    "simhash": "1:da668c2b0c7844c8",
+    "word_count": 4831
+  },
+  "last_updated": "2024-02-27T20:44:21.245247+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hill et al. versus Meyers et al."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nAfter the very careful and able discussion of this question by the learned judge of the Common Pleas on original principles, we need not add anything, except to say that the uniform practice of this state \u2022 fully sustains the conclusion to which he has arrived.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "It. 6?. McCreary and William H. Miller, for plaintiffs in error.",
+      "Daniel W. Smyser and David Hill, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hill et al. versus Meyers et al.\nRecovery of mesne profits after judgment in ejectment, barred by Statute of Limitation.\nIn trespass for mesne profits after judgment in ejectment, the plaintiff can recover only for what had accrued within six years previous to the commencement of the action; for all rents, issues, and profits accruing previously thereto, the Statute of Limitations is a bar.\nError to the Common Pleas of Adams county.\nThis was an action of trespass for mesne profits by Johnston Hill and others against Jacob Meyers and Henry Meyers. An action of ejectment was brought in the Court of Common Pleas of Adams county, to No. 68 August Term 1824, by David Witherow v. Peter Epley, in which a verdict was rendered for the defendant, January 28th 1825; and the judgment entered on that verdict was affirmed by the Supreme Court, November 23d 1825.\" The property in dispute in that suit was the undivided half of a farm and mills in Cumberland township, which had been formerly held by David and Samuel Witherow, as tenants in common.\nOn the 20th of February 1843, David Witherow brought an ejectment to No. 15, April Term, against Samuel B. Epley, son and heir at law of Peter Epley, deceased, and Jacob Meyers, trustee for creditors of Samuel B. Epley, for the same property; to which suit Henry Meyers was also made defendant on his own motion on the 28th day of August 1858, he having become the purchaser of the property from Jacob Meyers, by deed dated April 1st 1844.\nThe suit was tried several times and with varying results until August 15th 1859, when a verdict and judgment were recovered by plaintiffs, which was affirmed by the Supreme Court, October 3d 1860 ; and the record being remitted, the plaintiffs were put in possession under a habere facias possessionem, October 31st 1860.\nThis action was commenced November 22d 1862, and plaintiffs -claimed to recover in it the mesne profits from the service of their writ of ejectment, until they recovered the possession as aforesaid. The defendants pleaded the Statute of Limitations in bar of the mesne profits accruing more than six years before the bringing of the suit, and also prayed instructions to the jury that the plaintiffs were precluded by the statute from recovering for more than six years. The court, reserving the question as to the applicability of the statute, directed the jury to assess separately the damages accruing within six years before the commencement of suit, to wit, since November 22d 1854, and before that period from the commencement of the plaintiffs\u2019 ejectment.\nThe jury returned their verdict in accordance with the directions of the court, finding damages in favour of the plaintiffs, within six years, $463.50, and for the period over six years before suit, $2062.50. The defendants then obtained a rule to show cause why judgment should not be entered on the verdict for $463.50.\nThe court below (Fisher, P. J.), on hearing the case, delivered the following opinion:\u2014\n\u201c This is an action of trespass, brought by Johnston Hill et al. v. Jacob Meyers and Henry Meyers, to recover the mesne profits of the undivided half of a tract of land, saw-mill and grist-mill, situate in Cumberland township, Adams county, which the plaintiffs recovered of the defendants in an action of ejectment brought the 20th day of February 1843, in which a final judgment was rendered for the plaintiffs on the 3d day of October 1860. The only question to be decided is, does the Statute of Limitations bar the plaintiffs\u2019 recovery for the period beyond six years from the bringing of this suit? It is contended that as the plaintiff could not commence his action of trespass for mesne profits before the termination of the ejectment, that the Statute of Limitations did not begin to run until then.\n\u201c That the Statute of Limitations does not bar an action until the party can sue on it, no matter how long a time may have elapsed since the transaction upon which it is founded has taken place, is an admitted principle of law: Overton v. Tracy, 14 S. & R. 311. Nor where the cause of action is suspended, as in Daugherty v. Snyder, 15 S. & R. 93. Nor where money was paid on the sale of land, and the contract was rescinded more .than six years afterwards, as in Lenhart v. Forringer, 1 Penna. Rep. 492. Nor where it was discovered on settlement that money had been overpaid more than six years: Johnston v. Rutherford, 10 Barr 455. Nor where money was received more than six years before suit brought upon an agreement that it should be retained to indemnify for a suretyship until the holder was released or indemnified: Keller v. Rhodes, 3 Wright 513. Besides these cases, Stewart v. Keeth, 2 Jones 238 ; Jackson v. Shoemaker, 4 Johnson 390; Wallingford v. Heath, 15 Mass. 471; Will v. Prince, 9 Mass. 508; Jackson v. Sellack, 8 Johns. 262; Astor v. Girard, 4 W. C. O. Rep. 711; Johnson v. Johnson, 5 Cowan 74; Bricker v. Lightner, 4 Wright 204, were cited as applicable, because no action of mesne profits could have been brought before the plaintiff had attained possession, as decided in Caldwell v. Waters, 10 Harris 378. We admit the authority of these cases to their fullest extent. If they apply, the Statute of Limitations is not effectively pleaded. That it ought not to be, is argued from the necessity of the case, as it is said that no other remedy exists by means of which the rents, issues, and profits could be recovered. If this is so, and the statute applies, it most certainly presents a strong case of the inadequacy of legal remedies to do entire justice to the plaintiffs. But have the plaintiffs no other remedy ?\n\u201c For the defendants, it is said that the plaintiffs might have made an entry on a part of the premises in the name of the whole, and then commenced their action of trespass, or when they brought ejectment they might have elected to recover mesne profits by filing a suggestion and giving notice. It is well settled that where the parties are tenants in\u2019 common, and there is an actual ouster by one co-tenant of one of his fellows, resisting his title and an actual adverse possession, the co-tenant is disseised: Hart v. Gregg, 10 Watts 185. No one can doubt, we think, that here there was an actual disseisin. In such a case a co-tenant may enter upon a part of the estate, in the name of the whole, and thus be remitted to his former title by relation back to the day of his disseisin. And so far has the doctrine of the right to enter been carried, that in Butcher v. Butcher, 7 B. & C. 399,14 E. O. L. R. 61, it was held that a party having a right to the land, acquired by entry the lawful possession of it, and may maintain trespass against any person who, being in possession of the land at the time of entry, wrongfully continues so. It is true, that in Dawson v. McGill, 14 Whart. 241, Chief Justice Gibson seems to doubt \u2018whether an entry without process would give a retrospective possession,\u2019 and adds, \u2018 could, however, a party have trespass on an actual entry pending his ejectment, it would be oppressive - to burthen him with successive actions to cover intermediate proceedings, which he might be excluded from recovering by the statute; to say nothing of the repugnance there might be betwixt success on these and subsequent defeat in the struggle for the possession.\u201d But the repugnance is not greater than often happens in actions to recover mesne profits; as a verdict in ejectment is conclusive of the right to recover during the time defendant was in possession, although the defendant has had his title established by two verdicts, one prior and the other subsequent to the term for which the action of trespass is brought: Drexell v. Mann, 2 Barr 271. In a later case, however, it is admitted that one who is entitled to possession can make an entry and maintain trespass. Mr. Justice Kennedy asserts, \u2018that it is a mistake to say that possession must necessarily be acquired by means of a recovery in ejectment ; for if the plaintiff can show that he has the freehold and is entitled to the possession, he may enter without legal process of any description whatever; and having thus acquired possession, may maintain the action in the same manner and to the same extent as he could have done had he been put into the possession by reason of a recovery in ejectment. Before entry and actual possession, one cannot maintain an action of trespass, though he had the freehold in law, and therefore an heir before entry cannot have this action against an abator, though a disseisee might have it against a disseisor for the injury done by the disseisor itself, at which time the plaintiff was seised of the land; but he cannot have it for any act done after the disseisin, until he hath gained possession by re-entry, and then he may well maintain it for the intermediate damage done; for after his reentry, the law, by a kind of jus fostliminii, supposes the freehold to have all along continued in him : 3 Bl. Com. 210; 11 Co. 54; Kent\u2019s Com. 19; Co. Lit. 257 a, 275 b ; 1 Co. 98 ; 1 Lew. 302; Tobey v. Webster, 3 Johns. 468; 13 East 489; Willes 329; 2 Stran. 1086 ; note E. Thos. Coke 58, 72. If the authorities just cited are not sufficient to show that the plaintiff in this action, after making such entry, and upon showing his right to the freehold and possession, could maintain his action for the mesne profits, I apprehend that a recovery in ejectment would not enable him to do so :\u2019 Reed v. Stanly, 6 W. & S. 375, 376. If this doctrine is correct, we cannot see why trespass could not be brought immediately before the bringing of an ejectment, and thus include at least six years\u2019 time previous to the commencement of that action, if so much had elapsed, and after its termination an action of trespass for the mesne profits during the pendency of the possessory action; and thus at least save twelve years of mesne profits, six before and six after the ejectment, should the case require it. If the party should not prefer ejectment, we cannot perceive any reason why successive entries should not be made, and successive actions brought, particularly as a recovery in one action of trespass on the title, or on a plea of liberum tenementum, can be given in evidence as conclusive of the title between the parties and their privies in each successive action: Hughes v. Stevens, 7 Casey 381.\n\u201cBut should it be supposed that the inconvenience of this method of procedure is too great, he can bring his action of ejectment, file a suggestion, and give notice that he intends\u2019to recover damages for mesne profits in that way. This practice was in use in Pennsylvania whilst it was a province, and before the secession of Delaware. There it was long in common use. In Pennsylvania in 1775, in the case of Lessee of Dixon v. Hosaclr, 41Z. was given in damages for mesne profits, in the trial of an ejectment. Sharp v. Bell, tried in 1787, was another case of the kind. In Yates v. Stewart, tried at Nisi Prius, at Chambersburg in 1789, a verdict was rendered for 1301 mesne profits, and upon appeal to the Supreme Court, judgment was entered upon the verdict in banc. In Boyd v. Cowan, tried at Westchester in 1793, a verdict was given in ejectment for 411. 14s. 4d. On a motion for a new trial, a very able opinion was prepared by Chief Justice McKean to sustain it, but as the case was settled by the parties it was not delivered, but is reported in 4 Dali. 139. Although this practice became almost obsolete in consequence of doubts of its correctness by the profession, there is no decision adverse to it, and it has lately been sustained by our Supreme Court in several cases : Dawson v. McGill, 4 Whart. 231; Cook v. Nicholas, 2 W. & S. 28; Byard v. Enyglis, 5 Id. 469; Lynch v. Cox, 11 Harris 271; Storch v. Carr, 4 Casey 137. But the importance of this remedy, as regards its application to the present case, is whether the Statute of Limitations can be pleaded so as to bar the recovery of mesne profits, if sought to be recovered in the ejectment for more than six years after the commencement of that action ? The Statute of Limitations applicable to ejectment, is that given by the 2d section of the Act of 26th of March 1785, which is twenty-one years. Proceeding for mesne profits in this form, it would seem incongruous that one statute shall be applied to one part of the cause of action, and another statute to another part, when both causes arise from the same act of disseisin. In California, under their practice, the plaintiff recovers the possession as well as the mesne profits, \u2018 as one cause of action Sullivan v. Davis, 4 Cal. Rep. 291. Besides, as will be seen hereafter, where a form of action is selected, all the consequences that accompany it are adopted, and we see no reason why this proceeding should be an exception. Limitations are the creatures of statute, and must bar the action either by name or description, and no statute, except the one already referred to, applies to ejectment. Again, the action of ejectment, of which the present mode is a modification, came into use in the place of the \u2018 assise,\u2019 in which possession as well as mesne profits w'ere recoverable, and I can find no instance in which a limitation of six years was ever applied to it. In Dawson v. McGill, already cited, Chief Justice Gibson, speaking of this remedy, says: No justice is shown by the Statute of Limitations which, as is generally asserted, .... bars a recovery in trespass for \u00bf11 but the last six years..... If then a plaintiff who has been long baffled, may not maintain an action for mesne profits before he has recovered the possession, and if he can then have damages for no more than six years, it is evident that there is a defect in the process of the law, which calls for amendment.\u2019 In our statutory ejectment, therefore, the plaintiff must be allowed to go for the possession and the profits together; and the remaining inquiry regards the time for which he shall be permitted to recover. In Starr v. Pease, 8 Conn. 541, 2 U. S. Digest 826, p. 154, the Supreme Court of that state bound it by the exit of the writ. But as the accretion of subsequent profits might still require a supplemental action, and as a part of these might be barred pending the ejectment, the rules of that court might not answer all the purposes of justice, departing from the English practice in a singular particular, it would be idle to stop short of full relief; and we are bound to allow profits to be recovered for the whole time which has preceded the verdict. Nor is there any lack of analogy for it. By the Statute of Merton, a widow is entitled to damages for detention of dower, from the death till the judgment, yet damages are always given by an inquest, on a judgment of seisin by default, till the taking of the inquisition. Even interest on a penalty, or promissory note, is given as damages for the detention of the debt till the time of the verdict, and thus we see that though no part of the action must appear in the pleadings to have arisen after the inception of the suit, the principle does not prevent the recovery of an accessory which has accrued subsequently, consequently the damages here were well assessed: Dawson v. McGill, 4 Whart.\n\u201c Certainly Justice Gibson thought that the statute applied, and therefore favoured the revival of the old practice, as the only way of rendering perfect justice in such cases.\n\u201cThis remedy is in force in New York, in a different form, under their revised statutes. The suggestion is filed after the rendition of the judgment, and the statute limits the recovery by express words, to a period of six years, thus showing, perhaps, that it was necessary so to declare, to have a limit, or to remove all doubt about the subject. We may now inquire, have these conclusions any application to the present case ? We think they have, if they prove that the plaintiffs had other remedies to which they might have resorted, and to which the statutory limitation is not applicable, but selected one to which it does apply. In such case the wrong and injustice of the rule said to be applicable to all actions of trespass of this class loses its force.\n\u201c There are some general rules applicable to all forms of actions that vre may here notice:\u2014\n\u201c That the Statute of Limitations is a part of the law of the forum, and operates upon all who submit their cases to its jurisdiction.\n\u201c That where a statute is not restricted to particular causes of action, but provides that the action, by its technical denomination, shall be barred if not brought within a limited time, any cause for which the action may be presented is within the statute.\n\u201c That in giving construction to the statute where the action is barred by its denomination, the court cannot look into the cause of action. But they may do this in those cases where actions are barred for the causes specified in the statute: McCluny v. Silliman, 3 Pet. 277.\n\u201c Where the party is limited to a 'particular form of action, or where he adopts it, all the general incidents of that action must attach upon it. On any other construction it would follow that the case would be without limitation at all; for it would be quite impossible upon any acknowledged principles, where the right has assumed the shape of a claim in personam, to attach to it a limitation which exclusively applies to the realty: Beaty\u2019s Adm\u2019rs. v. Burns\u2019 Adm\u2019rs., 8 Cranch 108. We therefore infer that if the Statute of Limitations, by express words, bars all actions of trespass quare clausum fregit after six years, it bars them by its technical denomination, and not by its description, or by an inquiry into the particular causes for which it is brought. The bar is generic and not specific, applies to it as an action of trespass, and not as an action to value mesne profits.\n\u201c In all cases of trespass, the trespass is perfect the moment the act is committed, and the statute begins to run from that time, and therefore we think the cases cited by the plaintiffs not applicable. If the trespass amount to a disseisin, the disseisee may stop it by making an entry and bringing his action, but if he does not, and delays for six years, the fiction of possession by relation, does not revive the action or remove the bar; nor is it in any manner affected by the fiction of the ejectment: Bouvier\u2019s Bacon, vol. 3, 310.\n\u201c When Lord Chief Justice Bolle invented the mode of recovery by ejectment, which was introduced at an early day into this country, the plaintiff recovered the term as laid in his demise, and nominal damages only. When by this method he recovered the possession, in fiction of law he was remitted to his original seisin, and being so, had an action of trespass to recover the mesne profits for the whole time he was out of possession. In his declaration he laid as his cause of action his original possession, and his subsequent eviction with a continuando. The effect of this was, that as every day\u2019s unlawful occupancy by his adversary was a new trespass, he recovered damages for the whole time laid, no matter how long that was before he regained the possession. But as the action was trespass, strict trespass, according to its denomination, and without reference to its cause, the law of the forum became applicable to it, and hence we find all the text writers stating that the Statute of Limitations must be pleaded to prevent a' recovery from the time of the supposed eviction; but if pleaded, that there cannot be a recovery for more than six years: Buller N. P. 88; 2 San. P. & E. 166, 170 ; Bouvier\u2019s Bacon, vol. 3, 302, Ejectment, H.; 1 Chitty\u2019s Plead. 196 ; 2 Troubat & Iialy\u2019s Prac. 399.\n\u201c In New York, in Morgan v. Varick, an action of trespass for mesne profits, and for ah injury to the freehold by ,the removal of a steam-engine, after the commencement of the ejectment (the termination of which was protracted, and its progress stayed by the defendants having obtained an injunction), the statute was permitted to be pleaded: 8 Wend. 589. In Jackson v. Wood, 24 Id. 443, and Budd v. Walker, 9 Barb. 693, it was admitted that before the adoption of their new practice, a recovery for mesne profits could not extend beyond six years. But as this form of procedure is now abolished, and a suggestion on the record of the recovery in ejectment, after judgment adopted in its stead, it is not necessary to refer more particularly to these cases. In Jackson v. Varick, 2 Wend. 294, the Supreme Court of the same state refused, in an action for mesne profits, where the defendant had pleaded' the general issue alone, to allow on motion the plea of the statute to be added, \u201c because it is a strict defence, and if defendant lets it slip, the court will not relieve him,\u201d and permitted a recovery from the date of the demise. So well understood in England was it that in an action for mesne profits at law the statute applies that in analogy to it the Court of Chancery adopted the limitation in many cases where bills were filed, praying for an account of rents, issues, and profits. We will refer to a single case in Prince v. Hiland. A term for years was held by two tenants in common, one dying, the survivor retained possession, and refused to account to the personal representative of the deceased. He filed his bill for an account, and Lord Chancellor Hardwicke held that in such a case had the statute been relied upon in the answer to the account, it would have been restrained to the last six years: 1 Atk. 493. The application of the statute to such cases is recognised in Reed v. Reed, 5 Ves. 743; Harwood v. Oglander, 6 Id. 213, 214, 515, and Stackhouse v. Boonstone, 10 Id. 469; so also in the Supreme Court of the United States, and in several of the state courts: Green v. Biddle, 8 Wheat. 1; Kane v. Blood-good, 7 Johns. Oh. Rep. 107. In New York it was also held that as the statute operates as a bar to a recovery for mesne profits, they will not allow interest for more than six years, to be recovered on a warranty of title for defect, of which the vendee was evicted: Statts v. Ten Eyck, 3 Caines 111; Cawlkind v. Harris, 9 John. 324; Bennett v. Jenkins, 13 Id. 50. As regards our own state we find the rule recognised by our text writers: Troubat & Haly\u2019s Penn. Prac. vol. 2, pp. 299, 300; and in our books of reports, Hare v. Fury, 3 Yeates 14; Houston v. Wiekersham, 2 W. & S. 314; Lynch v. Cox, 11 Harris 263. In neither of these cases does it seem to have been asserted that the statute could not be pleaded.\n\u201c In Hare v. Fury the court say, \u2018 After recovery in ejectment the general rule is, that the plaintiff may recover mesne profits against the defendant for such length of time as he can prove him to have been in possession; if he goes beyond the time laid in his demise the defendant may controvert his title; or may plead that the Statute of Limitations bars it if the defendant attempts going back above six years,\u2019 and cited Buller 87, 88. In Houston v. Wiekersham the Statute of Limitations was not pleaded; indeed it could not have been with propriety, as the plaintiff stated the time for which he claimed to recover to be from 1st of June 1837 to 13th of October 1839, and Mr, Justice Houston, in delivering the opinion of the Supreme Court, merely remarked on that subject, \u2018the Statute of Limitations maybe pleaded to all beyond six years,\u2019 and referred to 3 Yeates 13. In Lynch v. Cox, in which the statute was pleaded, Chief Justice Black said, \u2018neither in ejectment nor in trespass can a plaintiff recover mesne profits for more than six years,\u2019 but cited no authority. Nor did the case require it, as the judgment of the court below was reversed, and the opinion delivered predicated on other grounds.\n\u201cWe will now examine Hare v. Fury particularly. Judge Smyser has furnished us with an abstract of the original record. It appears that the ejectment was brought June 10th 1788, and demise laid 10th of June 1788, for seven years; that the pleas were \u2018 not guilty, and the Statute of Limitations;\u2019 that the case was removed to the Court of Nisi Prius by certiorari on the 28th of August 1789, and tried at West Chester, before C. J. Shippen and Justice Yeates, and a verdict rendered for plaintiff. \u2018Judgment absolute May 9th 1791.\u2019 The action for mesne profits was commenced on 10th of November 1795, and under the instructions of the court \u2018 that the plaintiff is entitled to mesne profits from 10th of September 1789 to 9th of June 1791, allowing one month in which to execute the hab. fac. possessionem. The plaintiff recovered \u00bf035 damages. Thus clearly showing that the statute was applied under the direction of the court. We therefore think, whatever may have been the reasons for it, that the doctrine is established too firmly to be shaken; that in cases of trespass for mesne profits the statute, if pleaded, bars a recovery for all over six years from the bringing of the action. I have carefully examined all the English and American cases within my reach, and have found but one instance in which the general rule on this subject is controverted. It is Murphy v. Guion, in which Judge Hall, of the Supreme Court of North Carolina, delivered a short opinion, citing no authorities, but said: 4 It seems to be a very wrong construction of the act to say that a recovery can be had of the profits of the land for the last three years, only before the commencement of the action, when the action of ejectment may have been pending ten or more years, and the defendant has been in the receipt of the profits during that time, and when an action could not be commenced for them until after possession gained by the action of ejectment. It is true there is a dictum in Buller\u2019s Nisi Prius that seems to be sustained by some other books, but no adjudged case is found upon which it rests 13 N. C. Rep. 238; 2 Murphy\u2019s Rep. 238 ; Carolina L. Repository 94.\n\u201c As we were impressed with the idea that if there was no remedy for plaintiffs, situated as these are, to recover the entire mesne profits which might accrue pending an ejectment, justice could not be done, and as we had some doubts about the matter we have examined it fully, and written an opinion of more than ordinary length. Perhaps it is a work of needless labour ; if it is, we have the reflection to console us that no injustice has been done by our decision, but that the plaintiffs have received their measure of law, according to the rules which govern the remedy of their choice.\n\u201cWe think that judgment ought to be rendered for the plaintiffs, in accordance with the conditions of the special verdict, for $463.50.\u201d\nThe entry of this judgment by the court below was the error assigned here by the plaintiffs.\nIt. 6?. McCreary and William H. Miller, for plaintiffs in error.\nDaniel W. Smyser and David Hill, for defendants in error."
+  },
+  "file_name": "0015-01",
+  "first_page_order": 15,
+  "last_page_order": 24
+}

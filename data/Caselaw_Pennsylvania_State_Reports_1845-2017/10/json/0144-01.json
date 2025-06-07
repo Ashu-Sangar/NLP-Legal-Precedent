@@ -1,0 +1,79 @@
+{
+  "id": 962698,
+  "name": "Carter's Appeal",
+  "name_abbreviation": "Carter's Appeal",
+  "decision_date": "1848-03-14",
+  "docket_number": "",
+  "first_page": "144",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Whart. 7",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0007-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 193,
+    "char_count": 2737,
+    "ocr_confidence": 0.378,
+    "pagerank": {
+      "raw": 1.6734195030166458e-07,
+      "percentile": 0.696317816212451
+    },
+    "sha256": "811e77cebcfcca1dba6fd3d9b1ada2bd49a0065b7993d1c9287632477ed3b8a8",
+    "simhash": "1:74bb66b8f4be855b",
+    "word_count": 467
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carter\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Coulter, J.\nThe decree of the Orphans\u2019 Court must be affirmed. The account of the administrator was settled in the Orphans\u2019 Court, as he presented it, and the balance in his hands decreed accordingly. This balance he is bound by the statute to distribute among the legal representatives of the deceased; the final decree of the balance in his.hands, is virtually a decree of distribution. He may be compelled to make a partial distribution at the expiration of a year from the date of his letters of administration, reserving sufficient to pay expenses and disputed claims. The appointment of the auditor is only to ascertain who are the legal representatives, and the amount payable to each. To entertain a claim made by the administrator for a debt due from one of the distributees, by the Orphans\u2019 Court, after final decree of settlement or before, would be totally without warrant in the statute, and contrary to the universal practice of the Orphans\u2019 Court. It would be involving that court in the settlement of claims belonging to the -common-law courts, and not appertaining to its jurisdiction. The cases cited have no relevancy to the case in hand. They refer to claims by creditors of the estate of the deceased, and not to claims against the distributees; and even these cases establish, that the Orphans\u2019 Court has no jurisdiction of adversary claims against the estate, for the purpose of enforcing them, especially when the estate is solvent. It has a qualified jurisdiction, by the statute, when the estate is insufficient to pay all the demands, for the purpose of establishing the pro rata share of each.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Coulter, J."
+      }
+    ],
+    "attorneys": [
+      "Balter, for appellant.",
+      "T. M. Pettit, contrh."
+    ],
+    "corrections": "",
+    "head_matter": "Carter\u2019s Appeal.\nThe Orphans\u2019 Court, in settling a distribution account, have no jurisdiction over a claim by the administrator in his own right on the distributees.\nFrom the Orphans\u2019 Court of Philadelphia.\nMarch 12. Carter having settled his distribution account, as administrator, and the auditor\u2019s report having been confirmed, a motion was made on behalf of the distributees, that he should pay over their shares, or show cause why an attachment should not issue.\nIn his answer, the administrator alleged there were debts due him by two of the distributees; but the court made the rule for the attachment absolute.\nBalter, for appellant.\nThe course was for the court to direct an issue. Before the auditor, these claims could not have been set up, for he had no jurisdiction over adversary claims on a solvent estate: 1 Whart. 7; 2 Ib. 295; 6 Ib. 401; 2 Ashm. 520.\nT. M. Pettit, contrh.\nThe court has not jurisdiction over a contested claim on the estate, much less has it jurisdiction where the claim is on the distributees. But if it has, it was too late to set it up after decree.\nMarch 14."
+  },
+  "file_name": "0144-01",
+  "first_page_order": 144,
+  "last_page_order": 145
+}

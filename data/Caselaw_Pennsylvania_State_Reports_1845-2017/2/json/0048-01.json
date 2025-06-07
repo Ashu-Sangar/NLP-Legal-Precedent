@@ -1,0 +1,92 @@
+{
+  "id": 951418,
+  "name": "Chase v. Hodges",
+  "name_abbreviation": "Chase v. Hodges",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "48",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 48"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Serg. & Rawle, 126",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1805897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/6/0126-01"
+      ]
+    },
+    {
+      "cite": "6 Serg. & Rawle, 126",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1805897
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/6/0126-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 210,
+    "char_count": 2683,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 9.242313541371536e-08,
+      "percentile": 0.5109931119536313
+    },
+    "sha256": "a5a4ff59193b9bdf6bfd00384eff30b6be9eb69717191647af5903f1dd827fb3",
+    "simhash": "1:2de2a66f6c6f76c8",
+    "word_count": 493
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chase v. Hodges."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\n\u2014 The statute of 17 Charles 2, chap. 8, made perpetual by 1 James 2, chap. 17, sect. 5, enacts, that when either party dies between verdict and judgment, the death shall not be alleged for error, so that the judgment be had within two terms after verdict. Robert\u2019s Digest, 309; 6 Serg. & Rawle, 126; Murray v. Cooper. [His honour here stated the facts of the case.]\nIn Hopkins et al. v. Wrigglesworth, 2 Levinz, trespass and judgment against the defendant in the Exchequer Chamber, and assigns for error the death of the defendant before the first judgment. The defendant in error pleads in nullo est erratum, which confesses error in fact; but the court affirmed the judgment, for the Court of Exchequer had nothing to do with the error in fact. It is a general rule, that nothing can be assigned for error that contradicts the record. 2 Bac. Ab. 489; Rolle Ab. 787, and note to 2 Ld. Raym. 1415; Murray v. Cooper, 6 Serg. & Rawle, 126.\nHere the defendant Morse had all the advantage of the writ of error. The plaintiff was delayed, and the recognisance of the defendant in this action became absolute by the affirmance of the judgment that he, Hodges, would pay the debt and damages.\nThe judgment is reversed, and judgment entered for the plaintiff on the case stated.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Pearson and Galbraith, for plaintiff in error.'",
+      "Browne, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Chase v. Hodges.\nThe death of defendant, between verdict and judgment, if not more than two terms intervene, cannot be averred for error, since the statute 17 Ch. 1, c. 8; 1 Ja. 2, c. 17, s. 5.\nError to the Common Pleas of Warren count)'.\nThis was a sci. fa. on a recognisance of bail in error, in which the following facts were stated for the decision of the court:\nA trial was had between Chase and Morse, and verdict rendered March 11th, 1835. A motion for judgment was held under advisement until June term; and on the 5th of June the judgment was entered. Morse died abroad on the 8th of May of the same year, but it was not known until after a wiit of error was issued, in which the present defendant became bail. The judgment was affirmed by the Supreme Court.\nThe court below gave judgment for defendant.\nPearson and Galbraith, for plaintiff in error.'\n\u2014 In Hopkins v. Wrigglesworth, 2 Lev. 38, it is said such a fact cannot be noticed by the Exchequer Chamber on a plea of in nul. est er.; and it seems to be a general rule that nothing can be assigned for error which contradicts the record. 2 Bac. Ab. Error, 489; Roll. Ab. 757. Thus a death, before the test of the dedimus, cannot be averred. Id. Dyer, 89; Cro. Eliz. 469. The very case seems decided in Plummer v. Webb, 2 Ld. Raym. 1415, n.; 1 Salk. 262; 3 Wils. 85; Pet. C. C. R. 155.\nBrowne, contra,\nreferred to 6 Serg. & Rawle, 126."
+  },
+  "file_name": "0048-01",
+  "first_page_order": 48,
+  "last_page_order": 49
+}

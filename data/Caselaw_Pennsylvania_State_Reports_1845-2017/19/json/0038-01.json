@@ -1,0 +1,152 @@
+{
+  "id": 970676,
+  "name": "Gingrich versus Foltz",
+  "name_abbreviation": "Gingrich v. Foltz",
+  "decision_date": "1852-06-28",
+  "docket_number": "",
+  "first_page": "38",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 38"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Binn. 455",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788935
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/2/0455-01"
+      ]
+    },
+    {
+      "cite": "4 Y. 262",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Binn. 175",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/3/0175-01"
+      ]
+    },
+    {
+      "cite": "4 Binn. 221",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Penn. Law Jour. 76",
+      "category": "reporters:federal",
+      "reporter": "Penn. Law J.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Binn. 157",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Binn. 12",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788974
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/2/0012-01"
+      ]
+    },
+    {
+      "cite": "4 Binn. 213",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Binn. 120",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Binn. 355",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 525,
+    "char_count": 10876,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 1.378988938303481e-07,
+      "percentile": 0.6401180146023957
+    },
+    "sha256": "2471fb8e1c381ceb2682aea2fd52cf56d225450964ef140c751cbaa97510b293",
+    "simhash": "1:c6e299f4c7444973",
+    "word_count": 1955
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gingrich versus Foltz."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLewis, J.\nIn Pennsylvania a warrant and survey, attended with payment of the purchase-money, is to be considered, as against all but the Commonwealth, in the same light as the legal estate in England, and is not to be distinguished, as to the mode of conveying, entailing, and barring entails, from estates strictly legal: Burkart v. Bucher, 2 Binn. 355; Duer v. Boyd, 1 Ser. & R. 203; Caines v. Grant, 5 Binn. 120; Maclay v. Work, Id. 158. A patent is only prima facie evidence of title: 4 Binn. 213; 2 Binn. 12. The patentee is a trustee for the right owner: 1 Ser. & R. 203. It has been the custom to suffer the validity of a patent to be contested, and the question generally is, not who has got the patent, but who was entitled to it, on principles of law and equity, at the time it was issued: 5 Binn. 157. The recitals in a patent are evidence against one who relies on possession alone and shows no title: Whitmore v. Napier, 4 Ser. & R. 290; Downing v. Gallagher, 2 Ser. & R. 455. They are also evidence against one who claims under improvement or other rights arising subsequently to the date of the patent: Diggs v. Downing, 4 Ser. & R. 348; Ross v. Marcy, 2 Penn. Law Jour. 76. But it is well settled that recitals in a patent are not evidence against one holding by settlement, or other right, originating prior to the date of the patent: Penrose v. Griffith, 4 Binn. 221; Bell v. Wetherell, 2 Ser. & R. 350; Stewart v. Butler, Id. 382; S. P. 3 Binn. 175; 4 Y. 262.\nIf the recitals in a patent are not evidence at all against one who derives title under the-Commonwealth prior to its date, it is difficult to understand how those recitals can be relied upon as conclusive against such a title. If the warrant, survey, and payment of the purchase-money constitute the legal title, it is impossible to comprehend how the Commonwealth can, by any act whatever, after she has parted with that title, prejudice, much less extinguish it. And when the patent itself bears on its face the evidence that the land had been previously sold to another (the warrantee), it is repugnant to the principles which regulate the rights and duties of vendees to hold that the latter are discharged from the duty of seeing, at their peril, that the title has been regularly conveyed from the warrantee to the patentee. On the contrary, it was held, at an early period, that the purchaser under a deed reciting a patent, is bound to take notice of the title referred to in the patent: Burkart v. Bucher, 2 Binn. 455. And.it has been repeatedly decided that it is not the law of Pennsylvania that by obtaining a patent, and selling to a purchaser for a valuable consideration, without notice, all inquiry as to adverse claims, founded on equities arising previous to the patent, is precluded: Gonzalus v. Hoover, 6 Ser. & R. 118; Urket v. Coryell, 5 W. & Ser. 60; Burkart v. Bucher, 2 Binn. 455.\nIn the case last cited, the patent was granted in fee simple to one who held only an estate tail under a will. There was also a sheriff\u2019s sale of the title of the patentee. In these particulars the case resembles the one now before us. It is clear that it can make no difference whether the title papers, deducing the right from the warrantee, are referred to in particular or in general terms. In either case the purchaser under the patent is bound to take notice of the .chain of conveyances which authorize the Commonwealth to grant her remaining title to the patentee.\nIn this case the purchaser of the title of Barbara Evieh was bound to take notice of the conveyances referred to in the patent, as vesting in her -the title previously granted by the Commonwealth to Henry Fox. The purchaser necessarily claims under those conveyances, and holds only such title as, upon the face of them, appears to have been vested in Barbara Evich. As this was but a life estate, the plaintiff below, who is entitled in remainder, was properly permitted to recover.\nThis view of the case renders it unnecessary to consider the errors assigned, as they are not material to a correct decision upon the rights of the parties. The plaintiff in error sustained no injury by means of the matters therein set forth.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Eisher for plaintiff in error.",
+      "Alrielcs, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Gingrich versus Foltz.\n1. A patent is only primd fade evidence of title, and the patentee is a trustee for the right owner. The recitals in a patent are evidence against one who relies on possession alone and shows no title, or who claims under improvement or other right arising subsequent to the date of the patent; but they are not evidence against one holding by settlement or other right originating prim' to the date of the patent.\n2. Land was convoyed to a female \u201c during her natural life, and after her death to the use of the heirs of her body and their heirs and assigns for ever.\u201d The deed was not recorded. The tenant for life took possession; and nearly two years afterwards a patent to the female for the land was obtained (by whom obtained not shown on the trial), in which it was recited, that the tract, part of which was in dispute, had been surveyed in pursuance of an ancient survey to a warrantee named, whose right to said part vested by sundry conveyances in the patentee, and granting the land to the patentee in fee simple. Above four years after the granting of the patent, the land was sold at sheriff's sale, during the life of the tenant for life, under a judgment against her, entered soon after the conveyance of the land. Held, that the purchaser at sheriff's sale was bound to take notice of the conveyances referred to in the patent as granted to the warrantee, and that he acquired only such title as appeared on the face of them to be in the defendant in the execution, which being but a life estate, the plaintiff, one of the heirs in fee, was entitled, after the death of the tenant for life, to recover from one who claimed under the purchaser at sheriff\u2019s sale.\nError to the Common Pleas of Dauphin county.\nThis was an action of ejectment by Catharine Eoltz against Cover and Gingrich, for a tract of land of 21 acres and 107 perches. John Reesor, who died in 1799, in the codicil to his will directed that a legacy of \u00bf8300, bequeathed by him to his daughter Barbara, intermarried with George Evich, should be invested in the purchase of a tract of land, for her and her husband, and that they should receive the profits of said land, and live on it during Barbara\u2019s lifetime, and after her death it was to go to her children. George Evich died in or about 1810. Barbara died in March, 1848, leaving two daughters, Magdalena Erisman and Catharine Eoltz, the plaintiff, who had been intermarried with John Eoltz.\nOn 31st March, 1826, Jacob and John Reesor, the executors of the will of John Reesor, executed a deed to Barbara Evich for the tract of 21 acres 107 perches in dispute, granting the same to Barbara Evich \u201c during her natural life, and after her death to the use of the heirs of her body and their heirs and assigns for ever,\u201d (under and subject to its proportional part of the purchase-money due, or to become due the Commonwealth for patenting the same.) A release to the executors was executed on the same day, acknowledging the conveyance of the land, \"which had been purchased for \u00bf6130; and the receipt from the executors of \u00bf6170, the residue of the legacy. The release was executed by Barbara Evich, and by Rudolph Erisman, and John Eoltz, her sons-in-law.\nThe deed to Barbara Evieh was not recorded.\nOn the 12th March, 1828, a patent from the Commonwealth was granted to Barbara Evich for the said tract of land. By whom it was obtained was not proved on the trial. In the patent it was, inter alia, recited, \u201c which said tract was surveyed in pursuance of a warrant dated 4th June, 1752, granted to said Henry Fox, whose right in and to said part, by virtue of sundry conveyances and other assurances in law, became vested in the said Barbara Evich, to have and to hold the said tract of land, with the appurtenances, unto the said Barbara Evich and her heirs, to the use of her, the said Barbara Evieh, her heirs and assigns, for ever.\u201d\nOn the 31st March, 1826, the day of the delivery of the deed, . a judgment bond was executed by Barbara Evich to Jacob Reesor. It was entered of record, on 3d April, 1826, for \u00bf\u00a3101. A rule to show cause why it should not be opened was granted, and subsequently a verdict was rendered for plaintiff for $189.69, on which executions issued, and the land in dispute was levied on and sold by the sheriff to R. J. Fisher, Esq., in 1832, who subsequently conveyed to one who subsequently conveyed to defendants. The conveyances were recorded in January, 1848. One or other of the purchasers were in possession from 1832 till the institution of this action, in December, 1848. The deed to Barbara Evich was not recorded at the time of the trial, nor was any evidence given that either of the purchasers had actual knowledge of its existence; and no notice was given at the sheriff\u2019s sale that' Barbara Evich had but a life estate in the land, or that the plaintiff was entitled after her death. It was contended that the purchaser bought at sheriff\u2019s sale a fee simple title, as apparently existing in Barbara Evieh under the patent. That if the plaintiff was entitled in remainder in fee, she was postponed on account of the failure to record the deed, or give notice at the sheriff\u2019s sale.\nPearson, J., charged, inter alia, that Catharine Foltz, the plaintiff, was not entitled to either the deed or the land till after her mother\u2019s death, and that she was in no default in not having the deed recorded; and that there was no evidence of her knowledge of the sheriff\u2019s sale, or of any of the transfers which succeeded it. That the sale took place in the lifetime of Barbara Evich. That the principle of caveat emptor applied to the vendee at the sheriff\u2019s sale, and the plaintiff\u2019s title must be treated as one distinct from that under which the defendant claims. The patent did not add to the strength of Barbara Evich\u2019s title, but enured to the use of the person entitled. Its only effect was to divest the title of the Oommonwealth, and that the recitals in it were not evidence except against the Commonwealth, and those claiming under it by title subsequent.' The present plaintiff claims by a prior title, and she does not claim under Barbara Evich or her patent, but by a paramount right. It has never been held in Pennsylvania that because one person has obtained a patent and has possession, that a purchaser at sheriff\u2019s sale can hold the land against a better adverse title of which he had no notice.\nYerdict for plaintiff.\nError was assigned to the charge.\nEisher for plaintiff in error.\nThe case of Strimpfler v. Roberts, now reported in 6 Harris 283, was cited inter alia.\nAlrielcs, for defendant in error.\nJune 28,"
+  },
+  "file_name": "0038-01",
+  "first_page_order": 40,
+  "last_page_order": 43
+}

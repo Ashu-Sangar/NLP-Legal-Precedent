@@ -1,0 +1,78 @@
+{
+  "id": 964934,
+  "name": "Kennedy versus Philipy",
+  "name_abbreviation": "Kennedy v. Philipy",
+  "decision_date": "1850-05",
+  "docket_number": "",
+  "first_page": "408",
+  "last_page": "409",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Pa. 408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Wend. 225",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Yeates, 437",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 210,
+    "char_count": 2541,
+    "ocr_confidence": 0.366,
+    "pagerank": {
+      "raw": 9.961721986493819e-08,
+      "percentile": 0.5373247629495002
+    },
+    "sha256": "d92ef5d189734f61158d3933bc0dfa8a295b28859b891379ac9095fe1786acbb",
+    "simhash": "1:4a50cb468d9dbfe8",
+    "word_count": 430
+  },
+  "last_updated": "2024-02-27T17:48:08.325420+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kennedy versus Philipy."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nTrespasses committed by more than one are joint and several; and trespassers, like joint and several obligors, or several indorsers of a bill or note, may be sued severally, though the plaintiff can recover but one satisfaction. He may severally proceed to judgment against all, and have his election de melioribus damnis, unless he has actually received satisfaction from one; and in that case, it may, as in Duane vs. Micken, 4 Yeates, 437, be pleaded in bar of further prosecution. As satisfaction was not had in this case, the judgment could not be pleaded in bar of an action against the witness, who, consequently had no fixed interest in promoting a recovery. He had a contingent interest in the chance that the plaintiff would follow a recovery with execution, and procure payment by compulsion, which would certainly relieve him, but it was too remote and uncertain to affect his competency.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Beilly was for defendant, with whom was Nill."
+    ],
+    "corrections": "",
+    "head_matter": "Kennedy versus Philipy.\nA joint trespasser is a competent witness on the part of the plaintiff, in an action of trespass, against others of the trespassers.\nError to the Common Pleas of Franklin County.\nJames Kennedy, plaintiff in error vs. Samuel Philipy and others. This was an action of trespass quare clausum, fregit, brought by James Kennedy against Samuel Philipy and the other defendants for pulling down the plaintiff\u2019s fence. The defendants pleaded the general issue, and also a special justification. On the trial the plaintiff offered Matthew Gordon as a witness. He was objected to by the defendants as incompetent, because, as was alleged and admitted, he was engaged in taking down the fence with the defendants, and if any trespass was committed, he was guilty with the rest. He was, however, not a party to the suit.\nHis Honor, Judge Black, was of opinion that the record could be used by the witness, if a judgment be recovered against his co-trespassers, as a full defence of himself in any suit which the plaintiff might bring against him. Otherwise the plaintiff might, by bringing separate suits, obtain full satisfaction for the whole of the injury against each of the trespassers. The witness was rejected.\nIt was assigned for error that the court erred in rejecting the witness.\nBard was for plaintiff in error, whom the court did not hear. In his argument submitted, reference is made to 1 Cfreenleaf\u2019s Ev. sec. 409; 1 Stark. 131 \u2014 222; 7 Wend. 225; 11 Eng. Com. Law R. 257; 17 do. 466, and other authorities.\nBeilly was for defendant, with whom was Nill."
+  },
+  "file_name": "0408-01",
+  "first_page_order": 410,
+  "last_page_order": 411
+}

@@ -1,0 +1,153 @@
+{
+  "id": 985038,
+  "name": "Groth versus Gyger et al.",
+  "name_abbreviation": "Groth v. Gyger",
+  "decision_date": "1858",
+  "docket_number": "",
+  "first_page": "271",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Pa. 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "20 Johns. 176",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2142442
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/20/0176-01"
+      ]
+    },
+    {
+      "cite": "5 Mass. 170",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002173
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0129-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 489",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0275-01"
+      ]
+    },
+    {
+      "cite": "20 Johns. 177",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wend. 165",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009661
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0165-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 328",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856487
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0328-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 328",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856487
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0328-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 414,
+    "char_count": 6557,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 1.2849791020021525e-07,
+      "percentile": 0.618500345000809
+    },
+    "sha256": "ec83b063294841f1b929abdc4eefcb88743891eb364d1b97a84bd1c3f5459df2",
+    "simhash": "1:22e1bee74c68bc73",
+    "word_count": 1171
+  },
+  "last_updated": "2024-02-27T16:13:41.665180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Groth versus Gyger et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, C. J.\nThe principle upon which the case of the Juniata Bank v. Hale, 16 S. & R. 157, was decided, is conclusive in favour of the defendant below in this case, and we discover no sufficient reason for rejecting it. That case might have been decided upon its special circumstances, but it was not. It follows the rule that requires that payment of a note shall be demanded of the maker at maturity, and that notice of its dishonour shall be immediately given to the endorser, and refuses to make an exception in a case where, during the currency of the note, the maker dies, and the endorser becomes his administrator.\nAnd the case of Kramer v. Sandford, 4 W. & S. 328, makes no exception, while it does recognise existing exceptions, especially in cases where, from the nature of the transaction, it is the duty of the endorser himself, in relation to the maker, to take up the note; as in the case of a note for his accommodation, or where funds have been put into his hands for the purpose of paying it, or in some way, as between him and the maker, he has become the real debtor. In such cases, he will have to pay first or last, notice or no notice, and therefore notice can be of no use to him, and its omission can do him no harm: 19 State R. 400; 23 Id. 476.\nThe principle of such exceptions does not apply to an*%ndorser, who, during the currency of the note, becomes the executor or administrator of the maker. As executor he is not personally bound, and the purpose of demand and notice is to make him so, and to warn him of the fact that the holder looks to him individually. This may not aid him in saving anything out of the maker\u2019s estate; but it warns him to calculate and arrange his own with reference to it. Without such notice, most of men, when they are not themselves the true debtors, would suppose themselves discharged, and would be very much surprised to find themselves, after five years perhaps, as it was in The Bank v. Hale, or perhaps after the maker\u2019s estate had been distributed to other creditors, sued as endorsers. We see no adequate reason for making this case an exception to the general rule.\nJudgment reversed, and judgment is now here entered in favour of the defendant, with costs, and the record remitted.",
+        "type": "majority",
+        "author": "Lowrie, C. J."
+      }
+    ],
+    "attorneys": [
+      "B. Ed. Champneys, for the plaintiff in error.",
+      "B. G. Eshelman, for the defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Groth versus Gyger et al.\nThe death of the maker of a promissory note before its maturity, and the granting of letters testamentary to the endorser and another, as his executors, does not dispense with the necessity of giving notice of non-payment to the endorser; and in default of such notice he is discharged from all personal liability.\nThe Juniata Bank v. Hale, 16 8. & R. 157, affirmed.\nError, to the Common Pleas of Lancaster county.\nThis was an action of assumpsit by John Gyger & Co., bankers, against Philip Groth, as endorser of a promissory note for $115, made by Valentine Risse, dated at Lancaster, the 29th September 1856, and payable six months after date, to the order of the defendant.\nOn the 16th October 1856, Valentine Risse, the maker, died, having by his will constituted the defendant and another his executors, to whom letters testamentary were granted on the 28th October 1856.\nThe note in question was, at maturity, presented for payment at the banking house of the plaintiffs, and protested for non-payment; and the notary certified that he notified the endorser of the nonpayment and protest thereof, \u201c by depositing in the Post Office, at Lancaster, a notice enclosed in an envelope, addressed to Philip Groth, Water, between Orange and Chestnut streets, Lancaster City, Pennsylvania.\u201d This was the only demand and notice; and the question was, whether the defendant, being an executor of the maker, was entitled to notice of non-payment.\nThese facts having been embodied in a case stated for the opinion of the court, to be regarded as a special verdict, the court below gave judgment thereon for the plaintiffs, being of opinion that the want of notice was no .defence to this suit. The defendant, thereupon, removed the cause to this court, and here assigned the same for error.\nB. Ed. Champneys, for the plaintiff in error.\nThe case of The Juniata Bank v. Hale, 16 S. & R. 157, rules the present case ; no subsequent case in any degree modifies the point there decided. They also cited Kramer v. Sandford, 4 W. & S. 328; Mechanics Bank v. Griswold, 7 Wend. 165; Spencer v. Harvey, 17 Wend.489; Gowan v. Jackson, 20 Johns. 177: 7 Mann., Grang. & Scott, 401, 411.\nB. G. Eshelman, for the defendants in error.\nThe object of the notice is to enable the- endorser to secure himself. Now, if the endorser, has all the estate of the maker in his hands, or under his control, whether it be sufficient to pay all the debts or not, the reason of the rule requiring notice fails. In this case, the endorser not only had all the estate that the maker had, or ever could have (which was sufficient to pay all the debts of the maker), under his control, hut by his position as executor the obligation to pay the note when it was due fell upon himself: Barton v. Baker, 1 S. & R. 334; Mechanics\u2019 Bank v. Griswold, 7 Wend. 165; Spencer v. Harvey, 17 Wend. 489 ; Bond v. Farnham, 5 Mass. 170; 5 Maryland R. 265 ; Porthouse v. Packer, 1 Camp. N. P. 82; Gowan v. Jackson, 20 Johns. 176; Caunt v. Thompson, 7 Mann., Grang. & Scott 400; Kramer v. Sandford, 4 W. & S. 328;\nThe case of the Juniata Bank v. Hale is not decisive upon this question. In that case the endorsers were administrators. The holders did no act for a number of years by which it was indicated that they Iooke'd to the endorsers for payment; and when suit was at length brought, the lands of the maker had ceased to be a fund for the payment of debts. The endorsers were therefore injured by not receiving notice. Judge Duncan, in his opinion, page 162, puts the case upon the peculiar position of the administrator: \u201c The lands, the fund here for the payment of debts, do not come into the possession of the administrator ; he has no right of entry, and can bring no ejectment; the possession descends to the heir. The executor or administrator have, by virtue of thgir office, in no case a right to the possession of the deceased\u2019s lands.\u201d\nIn this case, there was no delay in claiming from the endorser; he was an executor, and not under the disabilities of administrators. The whole estate came into the hands of the executors. They were authorized by the will to sell all their testator\u2019s estate, real, personal and mixed. The lands, therefore, came into their possession."
+  },
+  "file_name": "0271-01",
+  "first_page_order": 271,
+  "last_page_order": 273
+}

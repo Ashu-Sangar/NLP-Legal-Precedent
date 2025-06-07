@@ -1,0 +1,99 @@
+{
+  "id": 973992,
+  "name": "Dentler's Appeal",
+  "name_abbreviation": "Dentler's Appeal",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "505",
+  "last_page": "507",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Watts 20",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846845
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0020-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 236",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838020
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/1/0236-01"
+      ]
+    },
+    {
+      "cite": "3 Penn. Rep. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 313,
+    "char_count": 6438,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 8.4054026255428e-08,
+      "percentile": 0.48267119048253393
+    },
+    "sha256": "b7e7a1af31798401e77e0f1af2945bc0562be2759d168c437f2a8a95907c7627",
+    "simhash": "1:136284a5cb45715a",
+    "word_count": 1093
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Woodward, J., delivered a dissenting opinion."
+    ],
+    "parties": [
+      "Dentler\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nThis is an appeal from the decree of the Common Pleas of Northumberland county, distributing money arising from the sale of the real estate of Lovers & Quiggle.\nThe appellant, John E. Dentler, at one time owned the estate sold by the sheriff, and it was clearly established by the evidence produced before the auditor, that when he sold to Levers & Quiggle the contract was for a title free from encumbrance.\nDentler had purchased the property from one Kelchner, and by an arrangement between Kelchner, Dentler, and Levers & Quiggle, the deed was made directly from Kelchner to Levers & Quiggle. Whilst the title was in Kelchner a judgment was entered against him in favor of Haekenburg, which was a lien upon the property at the time Kelchner sold to Dentler. Dentler bought this judgment, and when the house and lot was sold by the sheriff claimed to be paid its amount from the fund in Court. This was resisted by the judgment-creditors of Levers & Quiggle, and denied by the Court.\nThe question presented in the case is this: When one sells land and agrees to make a title free from encumbrances, can he purchase an outstanding lien and enforce it to the exclusion of the judgment-creditors of his vendees ? To state the question is to answer it. The moment Dentler became the owner of the Hackenburg judgment its lien against the estate sold by him.to Levers & Quiggle was gone, and it is certain that if it was not a valid lien in the hands of Dentler against the house whilst owned by Levers & Quiggle, the sale by the sheriff gave it no right to participate in the fund.\nSuppose Dentler had attempted to enforce the. Hackenburg judgment against the property whilst owned by Levers & Quiggle: can it be doubted that under the evidence given before the auditor he would have been restrained from so doing ? It will not do to say that because the creditors of Levers & Quiggle were not parties to the contract with Dentler, they cannot derive protection from it. In distributing the proceeds of real estate raised by a sheriff\u2019s sale, judgment-creditors are entitled to all of the debtor\u2019s equity against any of the claimants. If the debt or lien is not a subsisting one against the property before the sale, it cannot interfere with the fund raised by the sale. The money before distribution is the representative of the land, and nothing but what was a lien upon the one can partake of the other.\nJudgment affirmed.\nWoodward, J., delivered a dissenting opinion.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Miller, for plaintiff in error.",
+      "Pleasants, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Dentler\u2019s Appeal.\nWhere a person sells land and agrees to make a title free from encumbrances, he cannot afterwards purchase an outstanding lien against it and enforce it against his vendees, or have it paid out of the proceeds of sheriff's sale of the premises to the prejudice of their judgment-creditors. The lien of the judgment so purchased ceased as respected the premises sold as soon as it was acquired by the vendor.\nAppeal by John F. Dentler, from the decree of the Common Pleas of Northumberland county, directing distribution of certain proceeds of sale of real estate sold on execution on a judgment against Levers & Quiggle.\nCharles Kelchner was the owner of the house and lot sold, and whilst owner, viz. on 2d January, 1843, a judgment was entered against him in favor of J. P. Hackenburg. It was revived to January Term, 1848. In 1849, J. F. Dentler agreed with him for an exchange of it for other property and money, and it was agreed that the judgment of Hackenburg was to be removed by Kelchner. Kelchner was satisfied for the consideration of the property, but he had not conveyed the premises to Dentler.\nIn April, 1850, Dentler agreed to convey the premises to Levers & Quiggle; and it was testified before the auditor appointed in the matter, that Dentler stated that he was to remove the encumbrances from the property. Quiggle took possession of the premises, and, through an understanding with Levers & Quiggle, Dentler procured Kelchner to convey direct to Levers & Quiggle. The deed was dated 29 th July, 1850, though Dentler had been satisfied by Levers & Quiggle in April, 1850.\nOn 10th May, 1850, a judgment was entered in favor of Eckel & Co. v. Quiggle & Winchester, for $128.33; and on 13th June, 1850, one was entered in favor of W. Yarnall & Co. v. Levers & Quiggle, for $195.25; and on 26th June, 1850, another was entered in favor of Eckel & Co. v. Quiggle, for $377.53.\nOn one of the two last judgments, the premises were sold, on venditioni exponas, to November Term, 1850. The sum of $478 was paid into Court for distribution.\nOn the 26th July, 1850, three days before the conveyance by Kelchner to Levers & Quiggle, the judgment of I\u00edackenburg v. Kelchner was assigned to Dentler. \u2022\nDentler claimed to have a portion of the money applied to the Haekenburg judgment, in preference to subsequent judgments against Levers & Quiggle, of Quiggle alone. It was stated in the counter statement, that as between Levers & Quiggle, the premises purchased from Dentler wore to belong to Quiggle.\nAn auditor was appointed, before whom Haekenburg was examined, and stated, inter alia, that it was at his solicitation that Dentler bought the judgment.\nDentler was examined, and said, inter alia, that Levers & Quiggle were then indebted to him nearly $400,\nThe auditor reported in favor of paying the Haekenburg judgment, which amounted to nearly $400 ; but IIegins, J., set aside his report in that respect, and directed the appropriation of the money for distribution to judgments against Quiggle & Winchester, and to judgments against Levers & Quiggle.\nSuch decree was assigned for error.\nMiller, for plaintiff in error.\nIt was contended that the case was to be considered as if Haekenburg was claiming the amount of the judgment in his favor. Dentler had not the title and the judgment at the same time. The premises never were conveyed to him.\nPleasants, contr\u00e1.\nIf there had been no agreement on part of Dentler to convey, clear of encumbrances, still Levers & Quiggle would not have been bound to pay, if there were encumbrances on the premises: Lighty v. Shorb, 3 Penn. Rep. 450; 1 Watts 236. Dentler was the owner of the Haekenburg judgment, whilst he was under obligation to convey to Levers & Quiggle, and he would be estopped from pursuing his vendees under that judgment: 7 Watts 20-24, Koons v. Hartman. But it was testified that Dentler was to convey clear of encumbrances."
+  },
+  "file_name": "0505-01",
+  "first_page_order": 505,
+  "last_page_order": 507
+}

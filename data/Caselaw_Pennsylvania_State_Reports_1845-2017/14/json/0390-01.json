@@ -1,0 +1,79 @@
+{
+  "id": 405960,
+  "name": "Banks versus Clegg",
+  "name_abbreviation": "Banks v. Clegg",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "390",
+  "last_page": "391",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Pa. 390"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wh. 447",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 419",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 287,
+    "char_count": 4361,
+    "ocr_confidence": 0.388,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.3946233931012966
+    },
+    "sha256": "608c79fa2309a96c31f69eb198870c4a29128debffb67ec4c40864deab1f4723",
+    "simhash": "1:3a29e0809e26eceb",
+    "word_count": 780
+  },
+  "last_updated": "2024-02-27T20:22:56.156302+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Banks versus Clegg."
+    ],
+    "opinions": [
+      {
+        "text": "Per curiam.\n\u2014 The rule is settled with us, that a witness may not remove an appearance of interest in him, by his own oath. Here the witness, having taken an assignment of the judgment to himself, continued to be the ostensible owner of it till shortly before the trial; and then assigned it to the actual owner to take his name off the record. Had the declarations at the second assignment been made at the first, they would have explained the transaction before an appearance of interest had attached to it, and shown the witness to be, what he was in truth, a nominal owner; but their explanation of a bygone matter was no part of the res gestee, and came too late.\nJudgment reversed and venire de novo awarded. \u25a0",
+        "type": "majority",
+        "author": "Per curiam."
+      }
+    ],
+    "attorneys": [
+      "McIntyre and Maly, for plaintiff in error.",
+      "D. JP. Brown, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Banks versus Clegg.\n1. A witness cannot remove an appearance of interest in himself by Ms own oath.\n2. Declarations by a first assignee of a judgment made subsequent to the assignment to him when the judgment was about to be marked to the use of another, that he took the first assignment merely as the agent of the latter person, are not res g/estce as it respects the first assignment, and do not remove the apparent interest existing in him, so as to render him a competent witness to rebut the defence made.\nError, to the District Court at Philadelphia.\n. A judgment was entered in the District Court in the name of Joseph Clegg against Philip Banks. Judgment entered, September 24, 1889, on bond and warrant of attorney. May 8, 1841, this judgment marked to the use of Francis Blackburne. July 20, 1843, this judgment marked to the use of John Taylor, junior.\nJuly 21, 1843, sei.fa. issued to revive the judgment.\nIn February, 1845, the case was on trial, before Stroud, J., and after defendant\u2019s evidence under the plea of payment had been concluded, Mr. Fallon, plaintiff\u2019s attorney, was offered on the part of plaintiff to prove admissions by Blackburne and Taylor, at the time the judgment was marked to the use of Taylor, that Blackburne was merely the agent of Taylor in the transaction. Objected to, because the declarations or conversation took place in the absence of the defendant. The evidence was admitted, and exception on the part of defendant. Mr. Fallon testified that he never was counsel for Clegg. In July, 1843, either on the day the judgment was marked to Taylor\u2019s use, or a little before, Blackburne and Taylor were at his office. No consideration for the assignment was paid, and both informed him that the judgment had been transferred to Blackburne, merely as Taylor\u2019s agent. After this testimony was given, Blackburne, the assignee of the judgment, was offered to rebut the defendant\u2019s proof of payment, and to show that Taylor was from the first known to Banks as the owner and purchaser of the judgment, and that it was transferred by Clegg after notice to defendant, who represented it as wholly due. His admission was objected to on the ground that he was a plaintiff in the scire facias, and that he had an apparent interest in the case, which could not be removed by his own testimony.\nThe plaintiff\u2019s counsel paid into court a sum of money fixed by the counsel as sufficient to pay the costs for which Blackburne might be liable, and he was admitted. Defendant\u2019s counsel excepted.\nBlackburne, inter alia, testified that \u201cMr. Taylor wished the affair managed by me. I have not, nor never had, any interest in the case; I never received nor expect to receive any commission for it.\u201d\nVerdict for plaintiff, for \u00a71305.23.\nError was assigned to the admission of Mr. Fallon to prove conversations with his clients in the absence of the defendant below.\n2. To the admission of Blackburne, the assignor of the judgment.\n3. In admitting Blackburne to make way for his testimony, that he was merely the agent of Taylor, and that he had no interest in the case.\nMcIntyre and Maly, for plaintiff in error.\n\u2014 It was alleged that Blackburne was incompetent on several grounds: First, because he assigned his claim in order to become a witness: 5 W. & Ser. 435; 6 id. 555; 7 id. 144; id. 317; 1 Barr 365; 2 id. 46 ; 5 id. 395; 6 id. 326; 10 id. 430. Second, because he was a party to the record: 1 Barr 438; 3 id. 361; id. 377 ; 4 id. 374; 6 id. 402. Third, because he was under an implied warranty to Taylor as to the existence of the debt: 5 Watts 419; 1 W. & Ser. 147; 5 Wh. 447.\nD. JP. Brown, for defendant in error."
+  },
+  "file_name": "0390-01",
+  "first_page_order": 390,
+  "last_page_order": 391
+}

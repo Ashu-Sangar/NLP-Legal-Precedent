@@ -1,0 +1,103 @@
+{
+  "id": 484345,
+  "name": "King & Graham versus Steiren",
+  "name_abbreviation": "King & Graham v. Steiren",
+  "decision_date": "1862-11-13",
+  "docket_number": "",
+  "first_page": "99",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 Pa. 99"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Denio 609",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186179
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/2/0609-01"
+      ]
+    },
+    {
+      "cite": "7 Hill 62",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 How. 330",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Denio 609",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186179
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/2/0609-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 699,
+    "char_count": 17196,
+    "ocr_confidence": 0.448,
+    "pagerank": {
+      "raw": 6.968439752652581e-07,
+      "percentile": 0.9654896868504689
+    },
+    "sha256": "9e6c5f6a274dc9b7dd6eb2f72eabc8b93f012e1119cffb2f3b1eb3dfc24f1f80",
+    "simhash": "1:3c512d82368f4dcf",
+    "word_count": 3039
+  },
+  "last_updated": "2024-02-27T20:23:01.398052+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "King & Graham versus Steiren."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nStrong, J.\nThe learned president of the District Court has so well vindicated his charge delivered to the jury, 'that little need be said in addition. In the 4th edition of Greenl. on Ev., vol. 2, \u00a7 261 a, the author, in discussing the subject of damages, remarks that \u201c a distinction has been taken between contracts for specific work by the piece, and the like, and contracts for the hire of clerks, agents, labourers, and domestic servants for a year or shorter determinate period; and it is held in the latter class of cases that if the person so employed is improperly dismissed, before the term of service is expired, he is entitled to recover for the whole term, unless the defendant, on whom the burden of proof lies, can show either that the plaintiff was actually engaged in other profitable service during the term, or that such employment was offered to him and rejected.\u201d In support of this doctrine ho refers to Costigan v. The Mohawk and Hudson Railroad Co., 2 Denio 609, where the question is discussed at length, and the English as well as the American cases are largely cited. Without referring to them more particularly here, it will suffice to say that they establish incontrovcrtibly the rule in England to be that, in such a case, the plaintiff is primd facie entitled to the stipulated compensation for the whole time. If so, the burden of proof in regard to his employment elsewhere, or his ability to obtain employment, must necessarily rest on the defendant. All evidence in mitigation is for a defendant to give. In its nature it is affirmative, and hence it is for him to prove who asserts it. But the possibility of obtaining other similar employment, or the fact that other employment was obtained, bears upon the case only in mitigation of damages, and is therefore a part of the defendants\u2019 case.\nIt is, however, superfluous to add more, or even thus much, to what was said in the court below', and to the cases there cited.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Bruce Pfegley, for plaintiffs in error.",
+      "Stowe, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "King & Graham versus Steiren.\nRight of Employee to recover on Contract for Services for a determinate period. \u2014 Evidence for defendant in mitigation of Damages.\n1. An employee for a determinate period, if improperly dismissed before the term of service has expired, is primd facie entitled to recover the stipu lated compensation for the whole time.\n2. If the plaintiff was engaged in other profitable employment during the term, or such employment was offered to him and refused, the defendant, upon whom is the burden of proof, may show it, in mitigation of damages.\nError to the District Court of Allegheny county.\nThis was on the case brought by Edward Steiren against Alexander King and Thomas Graham, doing business as King & Graham, to recover the sum of $900, with interest, from April 1st 1855.\nThe plaintiff averred that in June 1854 the defendants, being engaged in manufacturing soda ash, entered into a contract with him to take charge of the chemical department of their works from the 1st day of July next ensuing, or sooner, if requested, until the 1st day of April 1855, a period of nine months, for which they agreed to pay him $900. That they wrote to him to come to Pittsburgh a few days prior to the 1st of July, and take charge of their works. That he came according to their request, tendered his services, offered to perform his part of the contract, hut they refused to receive him, or permit him to enter upon his duties, and that he was ready and willing at all times during the period covered by the contract to perform his part, but was prevented by the defendants from so doing.\nTwo grounds of defence were set up to the plaintiff\u2019s right to recover, and a third as to the measure of damages.\n1st. Defendants denied that any such contract was ever entered into by them. 2d. They averred that the plaintiff was incompetent to take charge of the chemical department of their works, and that he had imposed upon them by misrepresentations as to his capacity; and 3d. That even if the jury- should find against them on both these issues, the measure of damages would be merely for his loss of time and expenses in coming to Pittsburgh. They contended also, that as soon as they refused to take him into their service, he was bound to seek employment elsewhere, and that the burden of proof was on him to show that he could not find any other employment.\nThe court below (Hampton, J.) submitted the first two points to the jury under the facts given in evidence, instructing them that if there was no contract between the parties, if it was tainted with fraud, or if the plaintiff was not competent to discharge the duties for which he was employed, their verdict should be for defendants, otherwise for the plaintiff. On 'the question of damages, the learned judge said, \u201c The plaintiff has given no evidence of special damage, beyond the loss of time and expense, in coming to Pittsburgh. He rests this branch of his case on the proof of the contract, his tender of performance, and the defendants\u2019 refusal to receive him. On the other hand, the defendants have given no evidence tending to show that the plaintiff might have procured employment elsewhere. This state of facts presents the naked question, on whom does the burden of proof rest to show the amount of damage the plaintiff should recover \u2014 the plaintiff or defendants ? It was undoubtedly competent for the defendants to show, in mitigation of damages, that the plaintiff was offered similar employment in the same locality, and refused to take it, or that he was actually employed in the same or other business a portion or the whole of the period covered by the contract. This would have reduced his damages, and if sufficiently strong and comprehensive, might have prevented a recovery for more than mere nominal damages. But were they bound to do so in order to prevent a recovery for the entire amount specified in the agreement ? Or was it incumbent on the plaintiff to take the initiative in the proof, and show that he could not secure employment ? This is purely a question of law, for the determination of the court. It is undoubtedly true, that when a contract for services to be rendered is entered into, for a specified time, but no sum is fixed as the amount of wages to be paid, the plaintiff must not only prove the contract, and his readiness to perform his part, but he must also show wliat his services would have been worth. But when the parties themselves have fixed the wages to be paid, the question arises whether the party undertaking to render the service need prove more than the terms of the agreement and his offer to perform his part, and there rest.\n\u201c The general rule is, that he who asserts a fact in pleading must prove it. A party cannot in general be called upon in the first instance to prove a negative. After the party having the affirmative of the issue has given his evidence, the other party may disprove the alleged fact by giving negative testimony.\n\u201c It is a principle of law that he who prevents a thing from being done, shall not avail himself of the non-performance which he himself has occasioned: Add. on Con. 1121. And it has frequently been held, although the decisions are not entirely harmonious on the subject, that atender of performance is equivalent to actual performance. This rule is undoubtedly true so far as to give the party tendering performance a right of action against the party preventing him from performing his part of the contract. But a tender of performance cannot be regarded as equivalent to performance for all purposes, in all cases. For if a man should refuse to deliver a hundred barrels of flour at a certain time for a stipulated price, and should make the tender which was refused by the purchaser, he could not recover the actual price agreed on, but the difference between that and the market price at the time it was to be delivered. The reason is, that he still has his flour, and can dispose of it at the market price, and make himself whole by recovering the difference. The great object of damages is to repair an injury, to make the wrongdoer pay to the injured party such an amount as will make him whole.\n\u201c But I apprehend there is a difference between personal property and labour. The former will always find a purchaser in the market, but not so with the latter, and especially is. this true of scientific or professional labour. A man of this class may go unemployed for many months, notwithstanding the most untiring efforts to procure a place. But was the plaintiff bound to make any effort, and if so, upon what principle ? He was in no default, having done all he agreed to do; by tendering his services, he might well rest upon his contract, and await the order of the defendants, who, notwithstanding their refusal at first, might change their minds, and receive him into their service, in the first instance, than he has done on this branch of the case, It was not incumbent on the plaintiff, therefore, to prove more, to entitle him to recover the amount agreed upon.\n\u201c If tbe defendants have broken their contract, without good cause, they are wrongdoers, and are liable, primd facie, to pay the amount fixed in their contract. The burden of proof, therefore, rests on them to show that the plaintiff\u2019s damages are less than that sum. This they might have done by proving that the plaintiff had not been idle during a portion or the whole of the time, and whatever they could show he had earned in the mean time would have gone to mitigate the damage, or they might have shown that a similar or other good situation was offered him, which he refused, without good cause. But they have offered no such evidence, nor any evidence whatever in mitigation of damages, but have chosen to stand upon their naked legal position, that they were not bound to offer any evidence on the subject.\n\u201cWe have already said that when a contract is silent as to the price to be paid for services agreed to be performed, the plaintiff must show what his services would have been worth in order to entitle him to recover more than nominal damages. But where the price is fixed by the parties themselves, that amount is, primd facie, to be taken as stipulated damages: Adams Express Co. v. Egbert, 12 Casey 360; Richardson v. Miltigh, 2 Bing. 229. In The Philadelphia, Wilmington, and Baltimore Railroad Co. v. Howard, 13 How. 330, it was held, that in an action for breach of contract to permit the plaintiff to construct a railroad and to pay him therefor, at certain rates, the profits meaning thereby the difference between the cost to him of doing the work and the time to be paid for it, are a proper subject of damages. The case of Hoy v. Gronoble, 10 Casey 9, goes much further than is claimed in the one before us. \u2018 There it was held, that in an action to sustain damages for the breach of a parol contract, by which the defendant engaged to employ the plaintiff to cultivate a farm upon shares, the proper measure of damages is, the profit which the plaintiff would have made upon the farm, if the contract had not been violated.\u2019 And in Masterton v. The Mayor of Brooklyn, 7 Hill 62, which was a case in which the plaintiffs had agreed to furnish marble for the City Hall of Brooklyn, for which the defendants agreed to pay as the work progressed; after a portion of the marble had been delivered, the defendants refused to receive any more, and the plaintiffs brought covenant for a breach of the contract. It was held, that they were entitled to recover the profits they would have made from the actual performance of the contract. In The Bank of Montgomery v. Reese, 2 Casey 146, Lewis, C. J., says: \u2018 The paramount rule in assessing damages is, that every person, unjustly deprived of his rights, should at least be fully compensated for the injury he sustained.\u2019 In Wilkinson v. Ferree, 12 Harris 190, Mr. Justice Black said: \u2018When suit is brought on a contract, and in affirmance of it, the verdict should make the plaintiff whole; that is, put him in as good a condition as if the contract had been performed.\u2019\n\u201c The present plaintiff sues on the contract, and in affirmance of it, and if he had not been prevented by the defendants from performing the services agreed on, he would have entitled himself to the sum stipulated to be paid. The rule then announced by Judge Black would entitle the plaintiff to recover that amount.\n\u201c The principle applicable to this case is clearly recognised in Stewart v. Walker, 2 Plarris 293. That was an assumpsit on an alleged contract by Stewart to pay Walker $2.35 a day for himself and team for one year, who dismissed him before the expiration of the time, without cause. It was shown that after Walker was discharged, he had done hauling\u201cwith his team for other persons during a portion of the time. The court below charged the jury, inter alia, that if Stewart, the defendant, had agreed to give the plaintiff work for a year, and discharged him without good cause before the expiration of the year, from that moment the contract was broken, and the defendant was liable for the damages which the plaintiff would sustain by reason of such revocation.\u2019\n\u201c If the plaintiff was out of employ for the whole year, holding himself ready at all times to labour for the defendant, he would be entitled to recover pay for the entire year; but he was not bound to remain idle at the risk of losing all claim upon the defendants. He might seek employment and obtain it (although not bound to do so), and the defendants could not complain, as it would reduce the damages, and thereby enure to his benefit. The jury found for the plaintiff, and on error brought, the Supreme Court affirmed the judgment for the reasons given by the court below.\n\u201c But the case most relied on by the counsel for the plaintiff is that of Costigan v. The Mohawk and Hudson Railroad Co., 2 Denio 609. That ease is like the present in every material fact. The only difference being that there the plaintiff had entered upon the services agreed to be performed, and was discharged before the time expired. But there is no difference in the principle, whether the services had been commenced or not. That case was elaborately argued and well considered by the court, and all the authorities bearing on the questions involved \u2022were carefully examined. The case was this: the defendants employed the plaintiff to. superintend the railroad for one year, from May the 1st 1843, at a salary-of $1500 for the year, together with the use of a dwelling-house worth $150 per annum. He commenced the service, and continued in the employment until July 1st of that year, when he was dismissed by them, without cause. Upon this he gave notice that he was ready to proceed and perform his contract, and that he should claim his salary for the entire year, according to the agreement. He was not, however, allowed to go on with the business, and remained wholly unoccupied for the residue of the year, although at all times ready to serve according to his contract. The Supreme Court held that he was entitled to recover the stipulated salary for the entire year. It was also held that he might show in diminution of damages, that after the plaintiff had been dismissed, he had engaged in other business. That employment of the same general nature as that from which he had been dismissed, and to be carried on in the same locality, had been offered to the plaintiff, and refused by him; but not a different kind of employment or business to be conducted in another place. It was also ruled that the opportunity to be so employed will not be presumed, but must be affirmatively shown by the defendant. That the onus probandi rests on the party asserting an affirmative fact, not on him who denies it, and that between the wrongdoer and the party injured the presumptions respecting disputed facts are with the latter.\n\u201cWe are of opinion, therefore, as well upon principle as authority, and so instruct you, that if you find for the plaintiff on the issues of fact submitted to you, the measure of damages will be the sum stipulated in the agreement, with interest, from the expiration of the term of service agreed on till the present time.\u201d\nUnder these instructions there was a verdict and judgment for plaintiff; whereupon the defendants sued out this writ, and assigned for error that the court below refused to instruct the jury, as requested.\n1. That if an agreement was made and concluded, the mea-sure of damages is what the plaintiff lost of his business during the time he was engaged in making the contract, and until he was notified of their intention not to employ him.\n2. That if there was a contract made by the parties, and the defendants refused to comply, that plaintiff can only recover such damages as he proves specifically suffered by him; and,\n3. That if a contract was made and broken by defendants, the plaintiff is bound to show that, during the time the contract was to run, he had endeavoured to procure employment and failed, or else he is not entitled to recover.\nBruce Pfegley, for plaintiffs in error.\nStowe, for defendant in error.\nNovember 13th 1862,"
+  },
+  "file_name": "0099-01",
+  "first_page_order": 99,
+  "last_page_order": 105
+}

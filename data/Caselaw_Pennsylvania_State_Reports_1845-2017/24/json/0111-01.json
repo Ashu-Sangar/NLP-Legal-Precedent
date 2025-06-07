@@ -1,0 +1,139 @@
+{
+  "id": 9503409,
+  "name": "Bliss versus Sears",
+  "name_abbreviation": "Bliss v. Sears",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "111",
+  "last_page": "114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Wharton 481",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0481-01"
+      ]
+    },
+    {
+      "cite": "1 Hill 279",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "case_ids": [
+        8484570
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/19/0279-01"
+      ]
+    },
+    {
+      "cite": "2 Denio 86",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186116
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/2/0086-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 89",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009595
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0089-01"
+      ]
+    },
+    {
+      "cite": "15 Johnson 152",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dallas 8",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Wheaton 450",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11730374
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/19/0450-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 372,
+    "char_count": 7275,
+    "ocr_confidence": 0.41,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21863263070549674
+    },
+    "sha256": "591b3834123dd40a95549253286821d73d9727aa051d2c33806dda185fd5cfa7",
+    "simhash": "1:3c21deacc5c197fb",
+    "word_count": 1302
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bliss versus Sears."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nKnox, J.\nThe report of the road commissioners to the township clerk, upon which the record of the alleged road was founded, was entirely defective. There was scarcely a single requisite of the law complied with. It did not appear whether the road was a public or private one. There was no plot or draft, neither courses noted, nor improvements mentioned. And what was still more essential, the width of the road was not fixed.\nThe order which was issued to the pathmaster to open this pretended road, was in the following words:\u2014\n\u201c To the Pathmaster of District No. 8. \u2014 Sir: Wo, the commissioners of Venango, do authorize you to open a road commencing on the Plank-Road, between Bliss and Sears, and running west on the line between Bliss and Sears to Israel Hibbard\u2019s east line.\n(\u201c Signed) \u201c S. Maxwell,\n\u201cJ. Smith,\n\u201c Commissioners.\u201d\nHow could sucb an order be executed ? Tbe pathmaster, if he obeyed the order, and opened the road, must hare exercised his own discretion as to width. This would be a clear violation of the law, which requires and authorizes the road commissioners alone to determine the width of the road. Suppose an execution is issued to an officer to collect a judgment without any amount being stated, would such a writ justify a levy ? Clearly not. It would be void for uncertainty, and so was the order issued in this case, authorizing the pathmaster to open the road in question.\nIt was right to receive in evidence the proceedings of the commissioners, and this order to the pathmaster, in mitigation of damages; but the Court erred in permitting the defendants to justify under the order.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Knox, J."
+      }
+    ],
+    "attorneys": [
+      "Marshall, for plaintiff in error.",
+      "Walker, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bliss versus Sears.\n1. A report of a road by road commissioners under the Act of 13th April, 1843, relative to roads in Erie county (Ads p. 218-19), was irregular, in which it did not appear whether the road was to he a public or private road \u2014 in which there were no courses noted or reference to improvements, nor was accompanied by a draft of the road, and in which the width of the road was not fixed, the power of determining the width being in the road commissioners.\n2. An order to open the road which merely directed the pathmaster to open a road \u201c commencing on the plank-road between Bliss and Sears, and running west on the line between Bliss and Sears to Israel Hibbard\u2019s east line,\u201d was void for uncertainty.\n3. The report of the road commissioners and the order to the pathmaster were admissible in mitigation of damages, in an action of trespass for opening a road under it, but were not a justification of the defendants in opening the road.\nERROR to the Common Pleas of Erie county.\nThis was an action of trespass quare clausum fregit, brought in 1852, by Albert Bliss v. Sears, Hibbard, Maxwell, Smith, and Moore, for entering on his improved land to open a road. Maxwell and Smith were road commissioners; Hibbard was pathmaster; and Sears and Moore were working on the road in the employ of Hibbard. It was alleged, on part of plaintiff, that the road bad not been regularly laid out along or through his land.\nBy the Act of 13th April, 1843 (Acts, p. 217), the qualified citizens of the several townships of Erie county are authorized to elect three commissioners of roads and highways. The 20th section provides, \u201c That it shall be the duty of the said commissioners to take the general charge and supervision of all the roads and bridges in each of the said townships in said county (county bridges excepted), 'and to lay out and alter the same, at the request, in writing, of the citizens of said township, if they shall deem the some necessary, and shall furnish the town clerk with a return of all such roads so laid out or altered, in the same manner as viewers now malee report to the Court of Quarter Sessions; and the said clerk shall keep a record of all such roads so laid out and altered, and when any road is wanting, which shall pass out of any township into any other township, then the same shall be laid out and agreed upon by a majority of the commissioners of the township through which said roads pass.\u2019\nOn part of the defendants it was testified, that a petition for the road had been presented to the road commissioners; that the petition could not be found; and that, after examining the ground, two of- the commissioners made a report, which was entered on the books of the township, and was as follows: \u201cThe commissioners of Venango township report to the town clerk, that they have laid oufa road commencing at the road running by Christian Eritts and Albert Bliss; and running on the line between Albert Bliss and Oscar Sears until it strikes their west line, being about fifty-eight rods.\u201d No draft of the road appeared to have been filed in the office 'of the town clerk.\n' Neither Maxwell nor Smith, two of the defendants, was on the ground on the day on which the alleged trespass was committed. In .the spring of 1852, they, as commissioners of Venango township, had issued an order to the pathmaster, authorizing him \u201c to open a road, commencing \u25a0 on the plank-road between Bliss and Sears, and running west on the line between Bliss and Sears to Israel Hibbard\u2019s east line.\u201d\nOn the trial, on the part of the defendants, the report of the two commissioners was offered, and was objected to as not being such a report as was required by the Act. It was admitted. The order of the two commissioners to the pathmaster to open the road was also admitted and excepted to.\n, The Court instructed the jury that, if Hibbard was pathmaster, and was opening the road in pursuance of the order issued by the commissioners to him, and the defendants present with him were acting under his directions in the execution of the order, and did no more than was necessary for the purpose, they would not be answerable in an\u2019 action of trespass, notwithstanding the record of the road does not state that it was on petition of citizens, or give the width of the road, nor is accompanied by a draft, noting the courses, distances, and improvements.\u201d\nThe Court also charged, that if all that Maxwell and Smith did was to issue the order to the pathmaster to open the road, that would not make them trespassers.\nVerdict was rendered for the defendants.\nError was assigned to the admission of the report of the two commissioners, and the order to open the road; and to the instruction as quoted.\nMarshall, for plaintiff in error.\nIt was alleged that reports of road commissioners should be made in the same manner as reports are to be made by viewers of roads. Also that, on the face of such a report, it should appear that the commissioners acted upon petition in writing by citizens of the. township: 6 Wheaton 450; 4 Dallas 8; 5 W. Ser. 284.\nAs to the warrant, it was alleged that, process to justify an officer should be good on its face: 15 Johnson 152; 19 Id. 3; 7 Qow. 269; 7 Wend. 89; 2 Denio 86; 1 Hill 279.\nWalker, for defendant in error.\nIt was said there was no error in the admission of the report or order, and that the order was a justification to the pathmaster and his assistants: 3 Wharton 481, Adle v. Sherwood; 4 W. Ser. 191, Baird v. Campbell., The only defect of the report of the road commissioners was one of form."
+  },
+  "file_name": "0111-01",
+  "first_page_order": 109,
+  "last_page_order": 112
+}

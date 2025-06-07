@@ -1,0 +1,78 @@
+{
+  "id": 959559,
+  "name": "Henning v. Werkheiser",
+  "name_abbreviation": "Henning v. Werkheiser",
+  "decision_date": "1848-07-10",
+  "docket_number": "",
+  "first_page": "518",
+  "last_page": "519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Pa. 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Binn. 348",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 187,
+    "char_count": 2587,
+    "ocr_confidence": 0.399,
+    "pagerank": {
+      "raw": 1.4088151826139985e-07,
+      "percentile": 0.646546767784531
+    },
+    "sha256": "7dfaecab85bad42c9d810a5bdfef376663bcd52d79a5e95d4e71e1e2e3943df2",
+    "simhash": "1:ac8e0a8703743da1",
+    "word_count": 451
+  },
+  "last_updated": "2024-02-27T20:51:50.065102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henning v. Werkheiser."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe facts of the case are that neither of the witnesses was present when the article was executed, nor had the defendant\u2019s authority to attest it when he subsequently subscribed it in the defendant\u2019s absence, and at the plaintiff\u2019s request. Marshall v. Gougler shows that this subsequent act of authentication superadded to a deed already complete, made the whole void, subject, however, to be restored by subsequent ratification by the party to be affected by it, as a new act of execution, or as an equivalent for a precedent authority. The defendant did in fact ratify the act of subscription by one of the witnesses, but not the act of the other, and enough of the canker was left at the core of the instrument to destroy it. As the fact of execution was put in issue, the plaintiff having called the subscribing witnesses without success, was not at liberty, as in the case of an unexploded deed, to give evidence aliunde of the execution of what had ceased by his misconduct to be a deed at all. There was therefore no execution of the article, as it appeared at the trial with the clause of attestation subscribed as an integrant part of it; and the jury should have been so instructed.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "3. B. Wright, for plaintiff in error.",
+      "Sarrison Wright, cont\u00f3,"
+    ],
+    "corrections": "",
+    "head_matter": "Henning v. Werkheiser.\n\u00edhe addition of subscribing witnesses to a sealed instrument, without the consent of one of the parties, avoids it as to Mm. And the subsequent ratification, by such party, of the subscription by one only of the witnesses, does not cure the defect.\nIn error from the Common Pleas of Wyoming county.\nJuly 10. Debt upon an instrument sealed by both parties with two subscribing witnesses. Plea, non est factum. At the trial the plaintiff called one of the witnesses, who proved that he signed at request of the plaintiff in the absence of the defendant. That at that time the' name of the other witness was on the instrument, and that the defendant subsequently ratified the subscription by the witness.\nThe other subscribing witness proved that he wrote his name at the request of plaintiff in the presence of defendant\u2019s wife, but defendant was absent.\nPlaintiff then proved the signature of defendant by other testimony.\nThe court left the question of execution to the jury, and this was the error assigned.\n3. B. Wright, for plaintiff in error.\nSarrison Wright, cont\u00f3,\ncontended, that as there was no exception to the admission of the instrument, the charge could not be assigned for error, as the instrument was fully proved by other witnesses than those who subscribed it. He cited 5 Binn. 348, 529; 2 DalL 96; 6 g. & R. 312.\nJuly 10."
+  },
+  "file_name": "0518-01",
+  "first_page_order": 518,
+  "last_page_order": 519
+}

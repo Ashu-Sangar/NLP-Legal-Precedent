@@ -1,0 +1,121 @@
+{
+  "id": 954564,
+  "name": "Truby v. Byers",
+  "name_abbreviation": "Truby v. Byers",
+  "decision_date": "1847-09-20",
+  "docket_number": "",
+  "first_page": "347",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Yeates, 79",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6771200
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/4/0079-01"
+      ]
+    },
+    {
+      "cite": "2 Watts & Serg. 138",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Serg. & Rawle, 349",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1798247
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/2/0349-01"
+      ]
+    },
+    {
+      "cite": "3 Binn. 194",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. 45",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6771276
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/2/0045-01"
+      ]
+    },
+    {
+      "cite": "5 Watts, 336",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 172,
+    "char_count": 1881,
+    "ocr_confidence": 0.39,
+    "pagerank": {
+      "raw": 1.2993054872868447e-07,
+      "percentile": 0.6218177198747881
+    },
+    "sha256": "38829e0dfebebee8c102013cd39242a930d055ee2a94ccef024bec0122a64290",
+    "simhash": "1:e305dbd6dd561bfd",
+    "word_count": 328
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Truby v. Byers."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThough we by no means insist on a severe application of the rule which requires a subscribing witness to be produced, or his signature to be proved, before proof is made of the party\u2019s handwriting or confessions, yet we are not at liberty to dispense with the rule altogether. We are bound to enforce it wherever the testimony of the witness is within the party\u2019s power, and his whereabout known to him. In this instance the defendant\u2019s inquiry led him to the fact that the witness resided at a place within the jurisdiction of the court, the name of which he had forgotten, and that it was within the one or the other of two counties named to Mm. Ho was consequently bound to seek him there. But as he took no step to procure his attendance, except to take out a subpoena, which he did not attempt to serve, he was chargeable with negligence, and the secondary evidence was properly excluded.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Austin, for plaintiff in error,",
+      "Wills and BurJce, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Truby v. Byers.\nUnless the subscribing witness be out of the jurisdiction of the court, if no effort has been made to procure his attendance, secondary evidence is inadmissible.\nIn error from the District Court of Allegheny county.\nSept. 6. Ejectment. The defendant offered a sealed agreement of the plaintiff\u2019s; and, for the purpose of giving evidence of the admissions of the execution, proved that he knew when Hendricks, the subscribing witness, left the county; and that he had gone to Venango or Clarion. Defendant had not gone in search of him, but had taken out a subpoena.\nThe genuineness of the instrument had been admitted before the arbitrators. The court (Hepburn, P. J.) rejected the secondary evidence, and this was assigned for error.\nAustin, for plaintiff in error,\ncited Conrad v. Farrow, 5 Watts, 336; Hall v. Phelps, 2 Johns. 45.\nWills and BurJce, contra,\n3 Binn. 194; 2 Serg. & Rawle, 349; 2 Watts & Serg. 138; 4 Yeates, 79.\nSept. 20."
+  },
+  "file_name": "0347-01",
+  "first_page_order": 347,
+  "last_page_order": 348
+}

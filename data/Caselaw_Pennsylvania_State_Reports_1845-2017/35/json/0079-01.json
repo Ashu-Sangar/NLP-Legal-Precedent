@@ -1,0 +1,63 @@
+{
+  "id": 990454,
+  "name": "The Alsatian Beneficial Association",
+  "name_abbreviation": "Alsatian Beneficial Ass'n",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "79",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 Pa. 79"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 95,
+    "char_count": 1130,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 5.12982294956584e-08,
+      "percentile": 0.3217191426990531
+    },
+    "sha256": "4385e39683b3ed41dc2d2da59cbad6c67c4486bdee1ca4829d11c8e20c1e0caf",
+    "simhash": "1:a2955c04c60fe47d",
+    "word_count": 189
+  },
+  "last_updated": "2023-07-14T16:02:38.618048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Alsatian Beneficial Association."
+    ],
+    "opinions": [
+      {
+        "text": "Per, Curiam.\nThe provision relative to membership, authorizes persons who have declared their intention to become citizens of the United States, to become members, and we know of no law for this. As we understand the law, all members of such corporations must be citizens of this state, and, of course, of the United States.\nA blank has been left for the language in which the proceedings of the association shall be kept. Of course, this is improper. No word can be added to the document after it has been signed by the associates, preparatory to being submitted for the proper approval. 1\nFor these reasons we cannot now approve this constitution.",
+        "type": "majority",
+        "author": "Per, Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The Alsatian Beneficial Association.\nA clause in- the charter of a beneficial society, authorizing persons who have declared their intention to become citizens of the United States, to'become members, is illegal. The Act of Assembly requires that all members of such corporations shall be citizens of this state, and, of course, of the United States.\nThis was an application for a charter of incorporation, under the provisions of the Act of 8th April 1888; Brightly\u2019s Purd. 165."
+  },
+  "file_name": "0079-01",
+  "first_page_order": 79,
+  "last_page_order": 79
+}

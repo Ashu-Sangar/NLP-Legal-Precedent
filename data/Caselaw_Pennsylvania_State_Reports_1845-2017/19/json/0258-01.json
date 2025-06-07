@@ -1,0 +1,134 @@
+{
+  "id": 970644,
+  "name": "Kirby versus Shaw",
+  "name_abbreviation": "Kirby v. Shaw",
+  "decision_date": "1852-10-09",
+  "docket_number": "",
+  "first_page": "258",
+  "last_page": "261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "16 Peters 435",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        102726
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/41/0435-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 62",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "pin_cites": [
+        {
+          "page": "70-1"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 66",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle 374",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Dal. 400",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Wend. 170",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/5/0170-01"
+      ]
+    },
+    {
+      "cite": "3 Bin. 404",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1791136
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/3/0404-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 611,
+    "char_count": 10734,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 4.566107082597003e-07,
+      "percentile": 0.9249465895502016
+    },
+    "sha256": "ad1539eed067d3d44f92c3238c78209eecac90c1e72beea4f5e145bc385c90d2",
+    "simhash": "1:b9928225c802cdf4",
+    "word_count": 1880
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Lewis, J., dissented."
+    ],
+    "parties": [
+      "Kirby versus Shaw."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court, filed was delivered by\nGibson, J.\nIn every government taxation is an attribute of sovereignty, exercised at the will of the monarch in a despotism, and in accordance with the organic law in a republic. In England, taxes were laid by the sole authority of the king till the reign of Edward the First, who bound himself and successors to exercise this part of the prerogative only with the assent of the lords and commons ; but though it ceased to be royal and became national, it ceased not to be an attribute of sovereign power. In every American state, the people, in the aggregate, constitute the sovereign, with no limitation of its power but its own will, and no trustee of it but its own appointee. But this sovereign, from the nature of its structure, is unable to wield its power with its own hands; whence delegation of it to agents who constitute the immediate government. But it is a postulate of a state constitution, which distinguishes it from the federal, that all the power of the people is delegated by it, except such parts of it as are specifically reserved; and the whole of it is, without exception, vested in the constitutional dispensers of the people\u2019s money. As regards taxation, there is no limitation of it. Equality of contribution is not enjoined in the bill of rights, and probably because it was known to be impracticable. Previous to the convention of 1838, we had double taxation of tracts of unseated land lying foul of each other; of lands and mortgages of them, or ground-rents issuing out of them; of bank charters and bank dividends under them; and perhaps of some other things. On the other hand, it was known that other descriptions of property had not been taxed at all. Since then the exigences of the state have brought to light many new sources of revenue; and more would have been discovered had more been wanted. No one imagined, however, that the inequality had made the previous taxation unconstitutional.\nIf equality were practicable, in what branch of the government would power 'to enforce it reside ? Not in the judiciary, unless it were competent to set aside a law free from collision with the constitution, because it seemed unjust. It could interpose only by overstepping the limits of its sphere; by arrogating to itself a power beyond its province ; by producing intestine discord; and by setting an example which other organs of the government might not be slow to follow. It is its peculiar duty to keep the first lines of the constitution clear; and not to stretch its power in order to correct legislative or executive abuses. Every branch of the government, the judiciary included, does injustice for which there is no remedy, because everything human is imperfect. The sum of the matter is, that the taxing power must be left to that part of the government which is to exercise it.\nBut what if this power were so managed as to lay the public burthens on particular classes in ease of the rest ? It is illogical to argue from an extreme case; or from the abuse of a power to a negation of it. Every authority, however indispensable, may be abused; and if it might not, it would be powerless for good. Besides, the argument is founded on a denial of popular justice. A Legislature who had imposed a corrupt tax would never impose another. The inhabitants of Towanda, however, have no cause of complaint on that score. The advantages of a county town are too well appreciated not to make every village use all its exertions to have a court-house provided for its benefit and convenience. Without a court-house to replace the burnt one, Towanda could not have remained the seat of justice; and as its inhabitants profited by, not only the disbursements of the tax among them, but a permanent increase of their business and an appreciation of their property, they were morally bound to contribute in proportion.\nIt was for the Legislature to fix the proportion, and we have neither a right nor a disposition to question their justice.\nJudgment affirmed.\nLewis, J., dissented.",
+        "type": "majority",
+        "author": "Gibson, J."
+      }
+    ],
+    "attorneys": [
+      "Adams and Maefarlane were for plaintiff in error.",
+      "Bhvell, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Kirby versus Shaw.\n1. Taxation is an attribute of sovereignty to be exercised by the Legislature in accordance with the constitution, but equality of taxation is not enjoined by the bill of rights.\n2. The Act of 3d April, 1848, authorized the commissioners of Bradford county to add $500 annually until 1857 \u201c to the usual county rates and levies of the borough of Towanda in said county, for the purpose of defraying the expenses of erecting the court-house and jail\u201d then in the process of erection in that borough: It was held, that the act was constitutional; besides, as the erection of a court-house in the borough tended to produce an increase of business and an appreciation of property therein, its inhabitants were morally bound to contribute in proportion, and the Legislature could lawfully fix the proportion.\nError to the Common. Pleas of Bradford county.\nThis was an amicable action entered into between P. L. Shaw, as plaintiff, and J. P. Kirby, as defendant, for the purpose of trying the liability of the said plaintiff to be assessed in pursuance of an Act of Assembly passed on the 3d April, 1848, authorizing the commissioners of Bradford county to add the sum of $500 annually, till the year 1857, to the usual county rates and levies of the borough of Towanda in that county, for the purpose of defraying the expense of erecting a Court-house and jail, then in the process of erection, in lieu of those which had been destroyed by fire on the 12th March, 1847.\nThe plaintiff was assessed in all to the amount of $26.16. He paid $23, and objected to paying the amount of $-3.16, alleging that that amount had been added to his tax by virtue of the act \u25a0aforesaid, and objecting to such imposition on the ground that the act was unconstitutional and void. The defendant was the collector of county and state taxes of the borough of Towanda, for the year 1849. Interest was to be added in case of judgment for the plaintiff.\nThe Court below entered judgment for the plaintiff for $3.73, interest being allowed from May 1, 1849, that being taken as the \u25a0day of demand of the tax and refusal to pay it.\nThe Act of 3d April, 1848, authorizing an additional tax upon \u25a0the borough of Towanda, in the county of Bradford, is as follows:\nSection 1. That in the present and each succeeding year, until the year one thousand eight hundred and fifty-seven, inclusive, \u25a0the commissioners of the county of Bradford are hereby authorized \u25a0and required to add the sum of five hundred dollars to the usual county rates and levies of the borough of Towanda, in said county, for the purpose of defraying the expenses of erecting the courthouse and jail, now in process of building by said county.\nSection 2. That the manner of levying and collecting said tax in each year, shall be as follows : After the assessment shall have been completed, and the day of appeal shall have passed, the commissioners shall add to the tax of each person assessed in said borough for county purposes, such proportion of five hundred dollars as the tax of such person (exclusive of taxes upon debts due and owing) shall bear to the aggregate amount of taxes levied upon said borough for county purposes, exclusive of taxes upon debts as aforesaid; when such addition shall be made, the duplicate shall be made out, and the warrant issued in manner and form authorized and allowed by law; and all laws applicable to the collection of county rates in the said borough, are hereby made applicable to the collection of the additional tax hereby imposed.\nError was assigned to the entry of judgment.\nAdams and Maefarlane were for plaintiff in error.\nThe object is to have determined whether the Act of 1848 is valid, or is null and void.\nThe power of levying taxes is not expressly granted by the constitution. An act may be invalid though it does not violate any express provision of that instrument. The constitution should be interpreted so as to carry out the great principles of the government: 7 W. & Ser. 132, Commonwealth v. Clark; 9 Barr 168; 3 Harris 18; 5 W. & Ser. 172; 6 Barr 88, Brown v. Hummel; opinion of Coulter, J., in Commonwealth v. Parker, 7 Pa. Law Jour. 214. Cardinal features in our system of government are justice, equality, and impartiality; and though every act which is apparently contrary to natural equity is not to be set aside, where there is room for a different opinion with respect to it, yet statutes which violate the plain principles of common right and reason are void: 1 Bay's Rep. 98.\nThe court-house and jail are the property of the whole county, in which every citizen of the county has an equal interest. The burdens of taxation for county purposes should be imposed equally on all interested; yet the Act in question authorizes the imposition on property in the borough of $500 annually more than its equal share.\nIn this case there was no moral obligation to which the Legislature gave effect, as in the case of Lycoming v. Union, 3 Harris 166. And no contract existed on the part of the borough. The court-house was burned in March, 1847, and the new building commenced in the same summer, and the building was in progress in April, 1848, when the act passed. The borough also may be deprived of the benefits of the county seat by its removal, or by a division of the county. The case is unlike subscriptions to railroads, where an equivalent may be received.\nBhvell, for defendant in error.\nThe warrant to the collector was sufficient authority to him to collect the tax. By the Act of 11th April, 1848, a collector can institute suit after the expiration of his warrant. The commissioners have jurisdiction over the subject-matter, a.ndthe collector was bound to execute their warrant: 3 Bin. 404; 2 W. & Ser. 37; 5 Wend. 170; 7 Id. 89, 93, 301; 16 Id. 574.\nThe Act of Assembly is clear in its terms, and the purpose was one highly beneficial to the borough of Towanda. The erection of expensive buildings was almost equivalent to a guarantee against the removal of the seat of justice. The provision of the Act was just.\nThere is no constitutional prohibition against the exercise of the power: 3 Harris 169. The arbitrary power to levy taxes must rest somewhere. The Legislature are responsible only to the people; 3 Dal. 400; 3 Ser. & R. 180, Moore v. Huston; 2 Rawle 374; 10 Watts 66; 2 Barr 285; 1 Jones 62, 70-1; 3 Harris 169.\nTaxation is an incident of sovereign power which acknowledges no limit except the discretion of those who use it, unless it be as to those objects of taxation which have been withdrawn from the general power. Rogers, J., in Commonwealth v. Mann, 5 W. & Ser. 417, and reference there to 16 Peters 435.\nOctober 9,"
+  },
+  "file_name": "0258-01",
+  "first_page_order": 260,
+  "last_page_order": 263
+}

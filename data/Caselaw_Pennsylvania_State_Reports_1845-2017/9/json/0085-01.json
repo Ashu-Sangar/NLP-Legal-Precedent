@@ -1,0 +1,66 @@
+{
+  "id": 960748,
+  "name": "Road in Jackson Township",
+  "name_abbreviation": "Road in Jackson Township",
+  "decision_date": "1848-08-05",
+  "docket_number": "",
+  "first_page": "85",
+  "last_page": "86",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 128,
+    "char_count": 1737,
+    "ocr_confidence": 0.384,
+    "pagerank": {
+      "raw": 9.972081975852584e-08,
+      "percentile": 0.5378379202802943
+    },
+    "sha256": "ad1d2b6b8c44285d5d8d2c9e7f89e7e8bcca03c4d9cdc779bc94bbde0a85cdc3",
+    "simhash": "1:19cfbdf38147ce01",
+    "word_count": 311
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Road in Jackson Township."
+    ],
+    "opinions": [
+      {
+        "text": "Bell, J.\nThe Court of Quarter Sessions set aside the report of November, 1847, vacating the road, because they omitted to return a draft of the road vacated. But this was obviously unnecessary and useless, as the court was already in possession of a plan returned by the viewers, who reported in favour of the road. If authority be required to show this was sufficient, it will be found in the case of the Abington road, 14 S. & R. 31. That the order to vacate directed the viewers to return a plan, makes no difference. As the law does not require it, this direction was superfluous, and might, therefore, be properly disregarded as a mere interpolation by the clerk.\nThe order of the Court of Quarter Sessions setting aside the report vacating the said road, is reversed, and the said report confirmed.",
+        "type": "majority",
+        "author": "Bell, J."
+      }
+    ],
+    "attorneys": [
+      "Gh'eenough and Packer, for appellants.",
+      "Jordan and Segins, contrA"
+    ],
+    "corrections": "",
+    "head_matter": "Road in Jackson Township.\nWhere there is on the files of the court a draft of a road, to vacate which proceedings are commenced, a draft of the road thus vacated, need not he returned by the viewers, although the order of the court direct it to be done.\nCertiorari to the Quarter Sessions of Northumberland.\nAug. 3. A road had been laid out and confirmed by the court, a draft of which accompanied the report of the viewers, but it had not been opened. A petition to vacate was then presented, and the order of the court directed the viewers to report whether they would vacate, or affirm the road, \u201cwith a draft of the road vacated.\u201d The viewers reported that the road was useless and burdensome, but omitted to annex a draft of the road. On this ground, the report was set aside.\nGh'eenough and Packer, for appellants.\nThe records of the court contained a draft, and a duplicate was unnecessary.\nJordan and Segins, contrA\nAug. 5."
+  },
+  "file_name": "0085-01",
+  "first_page_order": 85,
+  "last_page_order": 86
+}

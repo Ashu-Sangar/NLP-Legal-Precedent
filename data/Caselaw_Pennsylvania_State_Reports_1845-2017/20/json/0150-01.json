@@ -1,0 +1,85 @@
+{
+  "id": 972413,
+  "name": "Boreland versus Washington County",
+  "name_abbreviation": "Boreland v. Washington County",
+  "decision_date": "1852-12-20",
+  "docket_number": "",
+  "first_page": "150",
+  "last_page": "152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Pa. 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Johnson 339",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wheaton 720",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/22/0720-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 321,
+    "char_count": 5472,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 6.120349932148731e-08,
+      "percentile": 0.38147204721201894
+    },
+    "sha256": "f5d524af6d9f57cc2a06d0185963f4222e8649509a76e691610ff4e5b0db9338",
+    "simhash": "1:6a6b5867f66d4239",
+    "word_count": 966
+  },
+  "last_updated": "2024-02-27T16:08:18.291907+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Boreland versus Washington County."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLowrie, J.\nThe question here presented is, is it a bar to an action against the sureties of a collector of taxes, that, at the time of his appointment, he was in default as collector for the previous year ? The Court below decided this question in the negative, and this is right.\nCertainly his appointment, under such circumstances, is prohibited by law; but what is the purpose of the prohibition? Unquestionably it looks only to the public protection, and to securing punctuality and honesty in the settlement of collectors\u2019 accounts. It is intended to be in addition to the security furnished by the bond; and it would be strange, if this abundant eaution should be construed into an abandonment of all security. It is a rule intended to direct officers in their duty to the state or a portion of it. If it be transgressed, there is a breach of duty; but duty to whom ? To the state surely, and not to any of its citizens; and county commissioners may some day have to pay for the breach of it. If this regulation had been established for the protection of sureties, then \"the breach of duty would have been an injury to them that might possibly be remedied by sustaining this defence.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Acheson and Wilson, for plaintiffs in error.",
+      "Watson and Montgomery, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Boreland versus Washington County.\nIt is not a bar to an action against the sureties of a collector of state and county taxes, that at the time of his appointment he was in default as collector for the previous year. The Act prohibiting such, appointment is but directory: the appointment was not void.\nError to the Common Pleas of Washington county.\nKinnan was appointed by the Commissioners of Washington county, collector of the state and county taxes in Peters township for the year 1847; aud was again appointed collector for said township for the year 1848. The plaintiffs in error, Boreland and Philips, were the sureties of said Kinnan in his bond for 1848. At the time said bond was given, April 12, 1848, Kinnan was a defaulter to the amount of $189.78, on the county duplicate for 1847, and to a small amount on the state duplicate for said year. Judgment was entered in the Common Pleas of said county against Kinnan, Boreland, and Philips, in pursuance of the power contained in said bond. Kinnan failed to pay the full amount of the taxes collected by him on the duplicate for 1848, and became insolvent.\nThe plaintiffs in error, who were sureties of Kinnan for the year 1848, and co-def\u00e9ndants with him in the judgment, presented their petition to the Court, setting forth the above facts, and averring that at the time they entered into the bond they were not acquainted with the fact that Kinnan was a defaulter, but joined in it believing that he had fully paid over the whole amount of the state and county taxes on his duplicates for the preceding year, the Act of Assembly requiring that the whole amount be paid over before he could be reappointed; that the bond was brought to them by Kinnan at their homes, several miles from the county seat, &c.\nThey prayed that a rule be granted on the Commissioners to show cause why the judgment should not be stricken from the record, so far as the sureties were interested, or a feigned issue directed to try the question of their liability on the bond upon which the judgment was entered; and that proceedings against them be stayed in the mean time.\nAct passed 11th April, 1799, section 18: \u201cNo person shall be reappointed a collector who has not finally settled and paid off the tuhole amount of the balance due on former duplicates, or given security for the payment thereof:\u201d Dunlap, last ed. 216.\nAct of 15th April, 1834, section 42: \u201cNo person shall be reappointed a collector of county or township rates and levies,' who shall not have finally settled and paid over the whole amount received, by him on former duplicates:\u201d Dunlop, last ed. 640.\nAct of 28th February, 1835, section 5. \u201cNo person shall be appointed collector of county rates and levies who shall not have paid over the whole amount of his former duplicates:\u201d Dunlop, last ed. 662.\nGilmore, J., was of opinion that the Acts of Assembly on this subject were made for the benefit of the several counties, and for the regulation of its officers; were merely directory to the officers, and constituted no part of the contract with the sureties of a collector. He referred to the case of United States v. Kirkpatrick, 9 Wheaton 720; United States v. Nicholls, 12 Id. 505.\nThe rule was discharged.\nError was assigned to the opinion of the Court, and to the refusal to strike off the judgment.\nAcheson and Wilson, for plaintiffs in error.\nIt was contended, though Kinnan was collector defacto, yet that he was not collector de jure, and his appointment was a fraud upon the sureties, and illegal as far as they were concerned; reference was made to 1 Ser. & R. 385, Commonwealth v. Commissioners; 7 Johnson 339; 2 John. Ch. 562; 4 Barr 165, Wilson v. Commonwealth.\nWatson and Montgomery, contr\u00e0.\nIn addition to the authorities noted by the Court below, reference was made to United States v. Vanzandt, 6 Condensed Rep. 263-6-7; 2 W. & Ser. 37.\nAs to the position that Kinnan, though collector defacto, was not so de jure, reference was made to the opinion of Kennedy, J., in Zeigler v. Sprenkle, 7 W. & Ser. 175.\nThe bond was submitted to the sureties by Kinnan, and if he misinformed them as to the state of his account, the county or the Commonwealth is not to be prejudiced.\nDecember 20,"
+  },
+  "file_name": "0150-01",
+  "first_page_order": 152,
+  "last_page_order": 154
+}

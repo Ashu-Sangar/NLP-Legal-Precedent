@@ -1,0 +1,97 @@
+{
+  "id": 9502681,
+  "name": "Starr et al. versus Sanford & Co.",
+  "name_abbreviation": "Starr v. Sanford & Co.",
+  "decision_date": "1863-05-08",
+  "docket_number": "",
+  "first_page": "193",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 Pa. 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wheat. 572",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11731081
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/19/0572-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 328",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856487
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0328-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 623,
+    "char_count": 14741,
+    "ocr_confidence": 0.451,
+    "pagerank": {
+      "raw": 9.744162209959756e-08,
+      "percentile": 0.5308898318010046
+    },
+    "sha256": "4568d4fccca1f582bf4a3d2c14954c40a78ce668a80c00e6d14e0d710dd84f16",
+    "simhash": "1:6d207e823a3bbb2b",
+    "word_count": 2605
+  },
+  "last_updated": "2024-02-27T21:46:48.873207+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Starr et al. versus Sanford & Co."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby\nTHOMPSON, J.\nThe acceptance of McOhesney & Co. was directed by them to the plaintiffs, and there it remained unpaid; and it was claimed by the defendant below, that because the plaintiffs did not notify them of its protest for non-payment, they are discharged from liability on the note on which suit was brought. The learned judge dissented from this view, inasmuch as there was no evidence whatever to show that it had been taken, either in payment of the note in suit or as collateral to it. We fully concur in this view of the case. It was therefore neither a set-off nor satisfaction in the ease trying. If damage has been sustained by Starr & Payne, on account of the paper, they must seek redress, if any there be, in some other form; it cannot be had under the evidence, in the mode attempted here. This is a sufficient answer to the second and third bills of exception.\nWas the certificate of notice of non-payment by the notary of the state of New York, evidence of the fact in this state? Before the passage of the Act of 14th December 1854, it certainly would not have been, but we think that statute was intended to change the law. It provides that \u201c The official acts, protests, and attestations of all notaries public, certified according to law, under their respective hands and seals, in respect to the dishonor of all bills and promissory notes, and of notice to the drawers, acceptors, or endorsers thereof, may be received and read in evidence as proof of the facts therein stated, in all suits now pending or hereafter to be brought: provided that any party may be permitted to contradict, by other evidence, any such certificate.\u201d\nIt cannot be supposed that this act applies only within this state. Its terms are general, and extend to the official acts of all notaries. Besides, it was not necessary, as applicable to this state, for that was the law at the time of the passage of the act, and long before. We think it applies to the acts of notaries in other states as well as this.\nWe do not see anything in the objection- that the certificate should appear to have been a transcript from some record or register of what took place at the time of sending notice. The presumption would he that it was; but whether or not, the certificate under the act was evidence. The defendants could only get rid of it by proving its falsity or circumstances which might induce a jury to disbelieve it; and for this purpose the whole field of evidence was open: the notary, or anybody else having knowledge and not interested, could have been called to testify. The act makes such a certificate as this primd facie evidence, and unless rebutted it must have a conclusive effect. There is no provision in the act that it shall only be evidence in case a record is kept from which the facts may be certified, and we cannot import into it the provisions of the Act of 1791, which requires an official register of notarial acts to be kept, to render a certificate evidence. This construction would be a virtual repudiation of the act. We see no error in the case, and the\nJudgment is affirmed.",
+        "type": "majority",
+        "author": "THOMPSON, J."
+      }
+    ],
+    "attorneys": [
+      "Jno. P. Vincent, for plaintiffs in error.",
+      "Spencer Warren, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Starr et al. versus Sanford & Co.\nNotice of non-payment of draft or bill, when unnecessary. \u2014 Certificate of notary, evidence of what.\u2014 Certificate of foreign notary, when evidence. \u2014 Notarial record, existence of, presumed.\n1. Where, after a draft drawn \"by one firm on another and discounted by a banking-house, had been protested; another draft, accepted by a third firm, was sent by the drawers to the banking firm, who, on the protest of that acceptance for non-payment, omitted to give them notice, held that the omission would not discharge their liability upon the first draft to the bankers who discounted it without evidence that the second draft and acceptance had been taken in payment of or as collateral to it.\n2. Under the Act of 14th December 1854, the certificate of a notary in another state, of the non-payment of a bill or note, is admissible in evidence in an action upon it: and it is not necessary that the certificate should appear to have been a transcript from some record or register of what took place at the time of sending notice.\nERROR to tbe Common Pleas of Erie county.\nThis was an action of assumpsit, brought by Sanford & Co., bankers, of Buffalo, New York, against Starr & Payne, coal dealers, of Erie, on a draft dated July 25th 1857, drawn by defendants to their own order on Messrs. Latham, Tozer & Perry, of Oswego, New York, for $852.56, at ninety days, payable at the Metropolitan Bank, New York, endorsed Starr & Payne, and accepted by Latham, Tozer & Perry.\nThe material facts of the case were these : \u2014 The draft on which siiit was brought was discounted by Sanford & Co., but was not paid at maturity, and was protested for non-payment.\nAt or near the maturity of this acceptance, Latham, Tozer & Perry sent to defendants an accepted draft on McChesney & Bro., of Toronto, C. W., \u201c to retire the first draft,\u201d adding to the new draft the interest and expenses of collection. This draft was sent to defendants at Erie, October 29th'1857. Same day a letter was written by Latham, Tozer & Perry to Sanford & Co., informing them that the draft on Toronto had been sent to Starr & Payne.\nOn the 10th of November 1857, in answer to a letter from Sanford & Co. of November 4th, Messrs. Latham, Tozer & Perry express their regret in not being \u201c able to retire the draft in question at maturity, that they had tried hard every way, were willing to make every sacrifice,\u201d &c., adding, \u201cwe cannot make payment now, but at time of maturity of draft sent- Starr & Payne, we can,\u201d &c.\nNo evidence was produced showing that Starr & Payne had notice of the non-payment of the acceptance of McChesney & Bro.\nOn the 21st of April 1859, Sanford brought suit against Starr & Payne on the McChesney draft, to May Term 1859, No. 142, but did not prosecute it to judgment. The action on the first draft was brought December 27th 1860.\nThe firm of Latham, Tozer & Perry made an assignment in 1857. On the trial the plaintiffs gave in evidence the draft drawn by the defendants, July 25th 1857, on Latham & Co., payable to their own order, and endorsed by them, for $852.56, and offered in evidence the protest thereof for non-payment, of October 26th 1857, with certificate of Jonathan S. Ely, notary, of New York city, of having put notice for defendants into the post-office. The protest was in the usual form.\nThe certificate was as follows:\u2014\n\u201c City and County of New York, ss:\n\u201c I, Jonathan S. Ely, notary public, in and for the state of New York, duly commissioned and sworn, residing in said city, do hereby certify that, on the 27th day of October 1857, in time for the mail of that day, I deposited in the New York city general post-office, notices of the presentment for payment, and of the notice for non-payment of the original bill or draft hereto annexed, directed respectively as follows : \u2014 Notice for Messrs. Starr & Payne, Erie, Pennsylvania; Messrs. Sanford & Co., Buffalo, New York; and that I prepaid the postage on each of said notices, the same being the reputed places of residence of the persons to whom said notices were sent, and the nearest post-office thereto. Witness my hand and seal this 14th day of February 1861.\n[l. s.] \u201cJONATHAN S. Ely, Notary Public.\u201d\nThis testimony was objected to by the defendants, but the objection was overruled and the evidence admitted.\nThe defendants then read the deposition of W. J. Tozer, and gave in evidence the case of Sanford & Spencer v. Starr & Payne, No. 142, May Term 1859, and then called and offered to prove by R. J. Pelton that McChesney & Bro., whose names were mentioned in the case of 142, May Term 1859, were good, and that the amount of the draft on them could have been collected, but the same on objection by the plaintiffs, was overruled.\nThe court below (DeRRICESON, J.) charged the jury as follows :\u2014\n\u201c On the argument of this cause by the defendants\u2019 counsel, it was contended that the-draft of Tozer & Co. on McChesney & Bro., and endorsed by the defendants, was a satisfaction of the draft mentioned in the present suit. But unless the draft was received as payment of the preceding one drawn by the defendants, it did not of itself work a satisfaction, and if it was not so received by plaintiffs, they were entitled to recover, with 5 per cent, damages, interest and costs of protest.\u201d\nThere was a verdict and judgment in favour of plaintiffs. Whereupon the defendants suid out this writ, and assigned for error,\n1. The admission in evidence of the protest and certificate of the notary public.\n2. The rejection of the testimony showing the ability of McChesney & Bro. to pay their acceptance at maturity.\n3. The instruction given to the jury by the court below.\nJno. P. Vincent, for plaintiffs in error.\nThe 5th section of Act of March 9th 1791, provides that \u201c every of said notaries shall keep fair registers of all official acts by them done in virtue of their office, and shall, when thereunto required, give a certified copy of any record in his office to any person or persons applying for the same.\u201d The defendants in error rely upon the 1st section of the Act of December 14th 1854, for their right to give the draft in suit, with protest, in evidence under the certificate of February 14th 1861. This act provides that \u201cthe official acts, protests, and attestations of notaries public, certified according to law,\u201d &c., shall be received and read in evidence as proof of the facts therein stated, &c. But is a certificate according to law, made three years and four months after the transaction occurred, without stating that it is certified from some record made at the time the transaction took place ? On the original protest there is no endorsement of notice being sent to any of the parties liable on the draft of July 25th 1857, nor does any cotemporary certificate of that fact accompany the protest. If the notary kept a \u201cregister of his official acts,\u201d as the law requires him to do, he could have certified an extract from or copy of that, there would have been some evidence upon which to receive his certificate. But such evidence is not offered, and its existence will not be presumed in the face of the fact that the protest itself shows no such notice. There was no legal evidence of notice offered, and Starr & Payne were entitled to notice, even though Latham, Tozer & Perry were insolvent at maturity of the draft: Barton v. Baker, 1 S. & R. 334; Gibbs v. Cameron, 9 Id. 201; Kramer v. Sandford, 4 W. & S. 328. Protest should be noted on the day that it is made, even if not drawn out in form: Story on Bills, \u00a7 278; and the certificate should show that a register thereof was made at the time. Due notice to endorser is a substantial part of plaintiffs\u2019 title to bring action: Smith v. Bank of Washington, 5 S. & B. 321. Certificate of protest of foreign notary is not evidence of notice: 2 Barr 355; 7 Id. 433.\nThe second draft was either taken in payment of or as collateral to the first, by the plaintiffs below, Sanford & Co. If in payment, that ends all controversy in this suit. Was it taken in payment? It was sent to Starr & Payne to \u201c retire\u201d the first draft. Sanford & Co., in the letter of November 4th 1857, to Latham, Tozer & Perry, speak of it as sent \u201c to take up your acceptance which we had discounted for them\u201d (Starr & Payne). After the protest of second draft, Sanford & Co. write to Latham, Tozer & Perry about it, but offer no word of evidence that they ever, until 1860, made a claim of a right to recover on the first draft, but, on the contrary, they first bring suit on the second draft, and it is pending from April 21st 1859 till- December 26th 1860, before they make an attempt to recover on the first draft. Why they drop the second draft and resort to the first, may perhaps appear in the course of this argument. All of these circumstances certainly point very strongly to the idea that the second draft was taken in payment of the first. If taken only as collateral, Sanford & Co. were just as much hound to use due diligence in pursuing its collection, in order to charge Starr & Payne, as if taken in payment. Starr & Payne are but the endorsers of the draft, and as such entitled to due and legal notice of non-acceptance and non-payment, and a failure to give them notice of either, will both in law and equity relieve them from the payment of either draft. If, by due diligence, Sanford & Co. could have collected the second draft from McChesney & Bro., and they failed either to use that diligence, or to notify Starr & Payne that it was not paid for more than a year after it matured, or until April 1859, have they not been negligent of their duty to an extent sufficient to discharge the endorsers, and had we not a clear right to show that the draft could have been collected from McChesney & Bro. during that time ? The letter from McChesney & Bro. to Sanford & Co., shows that after acceptance, the draft of October 26th 1857 was sent directly to them, and there is not a particle of testimony to show that Starr & Payne ever saw it afterwards, or had any notice in relation to it. The charge of the court and bill of exceptions show that the testimony of Tozer was read without objection. Starr & Payne then had no notice of the time or manner of the acceptance by McChesney & Bro., and we contend that the acceptance was insufficient, improper, and not according to the tenor of the draft, and that it was equivalent to a non-acceptance by McChesney & Bro., of which Starr & Payne should have had notice. The bill is drawn on McChesney & Bro., and of that fact Starr & Payne had notice. It was accepted by McChesney & Bro. McChesney & Bro., agents, were not the men on whom the bill was drawn, and it was a plain notice to Sanford & Co. that they were not doing business in their own names, and that the collection of the bill might be doubtful. A fact which, if known to Starr & Payne, might have put them on their guard, and enable them to procure other and better security for their debt, either from Latham, Tozer & Perry or McChesney & Bro. \u201c A failure to procure a proper acceptance of a bill, will discharge any party to the bill who could be injured by such nonacceptance, unless notice be given:\u201d Story on Bills, \u00a7\u00a7 227, 240 and note 4; Id. 241-252; 6 Wheat. 572.\nAll this testimony was before the court and jury, and the court erred in telling the jury that the plaintiffs below could recover in any event under the facts as disclosed to them, whether they believed that the second draft was taken in payment of o\u00ed-as collateral to the first.\nSpencer Warren, for defendants in error.\nMay 8th 1863,"
+  },
+  "file_name": "0193-01",
+  "first_page_order": 193,
+  "last_page_order": 198
+}

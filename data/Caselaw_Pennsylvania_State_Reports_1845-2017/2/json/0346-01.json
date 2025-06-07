@@ -1,0 +1,180 @@
+{
+  "id": 951336,
+  "name": "Riley v. Hirst",
+  "name_abbreviation": "Riley v. Hirst",
+  "decision_date": "1845-04-20",
+  "docket_number": "",
+  "first_page": "346",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 346"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Whart. 309",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830458
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0309-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates, 192",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Conn. 126",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Root, 551",
+      "category": "reporters:state",
+      "reporter": "Root",
+      "case_ids": [
+        6767676,
+        6767695
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/root/1/0551-01",
+        "/root/1/0551-02"
+      ]
+    },
+    {
+      "cite": "9 Pick. 364",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058521
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/26/0370-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. 99",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003886
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0093-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 355",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408394,
+        12147531
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0372-01",
+        "/dall/1/0355-01"
+      ]
+    },
+    {
+      "cite": "3 Serg. & Rawle, 410",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1800237
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/3/0410-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 226",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates, 162",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0162-01"
+      ]
+    },
+    {
+      "cite": "8 Watts & Serg. 421",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 281,
+    "char_count": 3441,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 4.2503336561462465e-07,
+      "percentile": 0.9150326910951179
+    },
+    "sha256": "2e425c1b41024e4c42bc8bf863ef1eae20f2bccafa62b8dc9f2328bf5a9bcdb8",
+    "simhash": "1:8602cdcc33dab647",
+    "word_count": 622
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Riley v. Hirst."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\n\u2014 No reason has been suggested why an attorney at law should not be made garnishee in a foreign attachment. Considerations of public policy and convenience require, that money in the hands of public officers appointed by law, such as sheriffs, prothonotaries, and other depositaries, should not he stopped whilst in custodia legis. But an attorney at law derives his power entirely from his client, and there seems no more reason for his exemption than that of an attorney in fact or other private agent. Accordingly the authorities are all concurrent on the point; and even in England, where the attorney has a privilege not known here, of being sued in his own court; that privilege gives way where the fund in his hand is to be reached by foreign attachment under the custom of London and other places.\nWe think the court erred in giving judgment for the defendant on the demurrer to the plea, which is the only point that appears to have been raised below. But there are issues in fact to be yet disposed of, and therefore,\nJudgment reversed, and record remitted for further proceedings.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Markland, for plaintiff in error.",
+      "Marlcland, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Riley v. Hirst.\nMoney in the hands of an attorney at law may he levied on by attachment in execution under a judgment against his client.\nError to the District Court of the city and county of Philadelphia.\nApril 6. Hirst, being summoned as garnishee in an attachment in execution, pleaded that he had no other moneys of defendants, except the sum of $300 then in his hands, received by -him as attorney at law, under a distribution of the proceeds of a sheriff\u2019s sale of the real estate of a third person. The other pleas are immaterial here. Plaintiff demurred, and the court below gave judgment for defendant.\nMarkland, for plaintiff in error.\n\u2014 Any one may be garnishee, Serg. on Attach. 97; .an attorney, Id. 98. In Silverwood v. Bellas, 8 Watts & Serg. 421, money sent by an attorney to his client was held liable to attachment in the hands of the messenger. In 8 Watts & Serg. case 1, it was conceded, but for the assignment it would be subject to attachment, 4 Greenl. 532, and cases cited.\nOn the 16th, Hirst, having obtained leave, argued that error will not lie to such a proceeding; for after a dissolution of a foreign attachment for any possible cause, the proceeding is at an end, Serg. on Attach. 154, 171; and this is precisely similar. What defence could a defendant have to the recovery by the owner of the money ? The action cannot be pleaded in abatement; and that is the only form an attachment can be taken advantage of, Miller v. Price, 2 Yeates, 162; 1 Binn. 226; Lewis v. Wallick, 3 Serg. & Rawle, 410. But if it would in ordinary cases, certainly not here, where fourteen months have elapsed before suing out the writ, it would be an intolerable hardship to a party who, as in this case, had paid over the money.\nBut attachment does not lie to such a debt, 1 Dall. 355; Clapp v. Bell, 4 Mass. 99 ; 2 Aik. Vt. R. 299; 9 Pick. 364; 3 Peters, 292; 1 Root, 551; Spalding v. Turley, 11 Conn. 126 ; 1 Dall. 355; 2 Yeates, 192; 2 Whart. 309. There was no service on the original party, the real defendant, and that is a fatal defect in the proceeding.\nMarlcland, in reply.\n\u2014 The defendant was not in the bailiwick as appears from the return, and it could not be the intention of the law to allow a party to avoid an execution in this way. He had notice by a service on his attorney, and that is sufficient.\nApril 20."
+  },
+  "file_name": "0346-01",
+  "first_page_order": 346,
+  "last_page_order": 347
+}

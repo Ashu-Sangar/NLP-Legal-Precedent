@@ -1,0 +1,135 @@
+{
+  "id": 974013,
+  "name": "Cottrell's Appeal-Bowers' Estate",
+  "name_abbreviation": "Cottrell's Appeal-Bowers' Estate",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "294",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Pa. 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Pa. Rep. 395",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        949898
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/1/0395-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 531",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Rawle 128",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820539
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0128-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 221",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846141
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0221-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 148",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850976
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0148-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 221",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846141
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/6/0221-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 4751,
+    "ocr_confidence": 0.418,
+    "pagerank": {
+      "raw": 1.0643175889749595e-06,
+      "percentile": 0.9846284474500251
+    },
+    "sha256": "518d59660d6cf0d6ff9aaf372d3f8ffe214206e83f0680c3a48aedaa772dbcab",
+    "simhash": "1:27657798d6c2c85b",
+    "word_count": 819
+  },
+  "last_updated": "2024-02-27T17:12:18.845027+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Lewis, J., dissented."
+    ],
+    "parties": [
+      "Cottrell\u2019s Appeal\u2014Bowers\u2019 Estate."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodward, J.\nSubrogation is founded on principles of equity and benevolence, and may be decreed where no contract or privity of any kind exists between the parties. Wherever one not a mere volunteer discharges the debt of another, he is entitled to all the remedies which the creditor possessed against the debtor. Actual payment discharges a judgment or other encumbrance at law, but where justice requires it we keep it afoot in equity for the safety of the paying surety. These principles, settled in numerous cases, which will be found collected in 2 Wharton\u2019s Digest 612, are decisive against this appellant.\nThere is nothing in the argument that Hershey\u2019s judgment had been extinguished. It was paid to be sure, and this was necessary to entitle the surety to subrogation, for substitution of a surety is never allowed where anything remains due to the principal; Keyner v. Keyner, 6 Watts 221; Bank of Pennsylvania v. Potius, 10 Watts 148; but it was not satisfied on record, and was finally assigned voluntarily by Hershey to Pusey, who acquired, thus, a legal title as well as an equitable right to it as a means of indemnity.\nWe are of opinion the Court were right in confirming the distribution made by the auditor, and the decree is accordingly affirmed.\nLewis, J., dissented.",
+        "type": "majority",
+        "author": "Woodward, J."
+      }
+    ],
+    "attorneys": [
+      "Ellmaker, for plaintiff in error.",
+      "Stevens, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Cottrell\u2019s Appeal\u2014Bowers\u2019 Estate.\n1. Subrogation being founded on principles of equity may be enforced where there is no contract for a transfer of the security.\n2. To prevent a sale upon execution the defendant in the judgment gave to the judgment-creditor a promissory note with an endorser for the amount of his claim and received the single bill on which the judgment was founded. The note having been discounted was ultimately paid to the bank by the endorser thereon, and he afterwards procured from the creditor an assignment of the judgment on which satisfaction had not been entered. Held, that the endorser was entitled to payment of the judgment in preference to a subsequent judgment entered previous to the giving of the note.\nAppeal by J. W. Cottrell from the decree of the Common Pleas of Lancaster county, directing distribution of proceeds of sale of real estate of A. Bowers.\nEphraim Hershey had a judgment v. Bowers, entered to January Term 1850; and Cottrell had a judgment against the same defendant to January Term 1852. In December, 1852, the property of Bowers was advertised for sale under execution issued on Hershey\u2019s judgment; and Hershey agreed to stop the sale if Bowers gave him security for the amount of his judgment. Bowers proposed Isaac Pusey as \u201c security.\u201d Bowers, in that month, gave to Hershey a negotiable note which was endorsed by Isaac Pusey. It was payable at sixty days, and was for an amount exceeding $700. Hershey stated his impression to be that on receiving the note he handed to Bowers the single bill on which his judgment was founded. On, inquiry of Bowers as to entering satisfaction of the judgment, the latter suggested that it remain as it was. Hershey stated that he took the note as a payment of his claim. Nothing was said at the time about his transferring the judgment to Pusey. The note was discounted at bank, and the proceeds received by Hershey. The note not being paid was protested, but was subsequently paid by Pusey. Afterwards, viz. on 19th May, 1858, Pusey procured from Hershey an assignment of the judgment, and claimed payment out of the proceeds of sale of Bowers\u2019 real estate. This was opposed by Cottrell. The auditor appointed reported in favor of Pusey, and exception being taken, the report was confirmed.\nIt was excepted that the Court erred in treating the judgment of Hershey as a valid judgment after it had been paid; and in not directing the payment of Cottrell\u2019s judgment.\nEllmaker, for plaintiff in error.\nHershey and Bowers settled with each other, and the judgment debt was extinguished. It did not appear that Pusey endorsed the note under any agreement for the assignment of the judgment. There was no evidence that Pusey was a surety \u2014 and there may have been such dealing between Pusey and Bowers as induced Pusey to put his name on the note; and if he lost by so doing, he could not resuscitate a debt extinguished previously.\nStevens, cont\u00f3.\nThe right of substitution does not depend on contract between the parties, but is founded in equity: 6 Watts 221, Kyner v. Kyner. It applies where one, not a mere volunteer, pays the debt of another: 5 Barr 103, Wallace\u2019s Appeal; 2 U. S. Dig. of 1848. Though actual payment discharges a judgment or other encumbrance at law, it may subsist in equity when justice requires it: 2 Rawle 128, Fleming v. Beaver; 9 Barr 498, Morris v. Oakford; 1 Barr 512; 1 Jones 531; 1 Pa. Rep. 395."
+  },
+  "file_name": "0294-01",
+  "first_page_order": 294,
+  "last_page_order": 295
+}

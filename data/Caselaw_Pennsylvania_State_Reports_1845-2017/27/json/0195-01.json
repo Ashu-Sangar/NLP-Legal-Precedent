@@ -1,0 +1,103 @@
+{
+  "id": 979626,
+  "name": "The Erie City Bank versus Compton",
+  "name_abbreviation": "Erie City Bank v. Compton",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "195",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Pa. 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Binn. 195",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788932
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0195-01"
+      ]
+    },
+    {
+      "cite": "4 Gilm. 20",
+      "category": "reporters:state",
+      "reporter": "Gilm.",
+      "case_ids": [
+        2563272
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/9/0020-01"
+      ]
+    },
+    {
+      "cite": "1 Barb. 65",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5776687
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/1/0065-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 192,
+    "char_count": 2197,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 1.0052889892850951e-07,
+      "percentile": 0.5401009865826154
+    },
+    "sha256": "cc5d9a2bc9888afc506a7277529f37eacc40084b890d0da11acf45be376f9d78",
+    "simhash": "1:44350ba5de0f2df8",
+    "word_count": 388
+  },
+  "last_updated": "2024-02-27T17:46:01.700656+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Erie City Bank versus Compton."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLewis, C. J.\nA stay of execution is a privilege in derogation, of the common law rights of the plaintiff, and the party claiming the privilege must bring himself strictly within the statute granting it. The statute requires, as a condition, that bail shall be entered within thirty days \u201cfrom the rendition of the judgment.\u201d In this case the judgmentwas entered on the 23d February, 1856, and the bail was not entered until the 26th of March, 1866. This was too late, and the court below fell into an error in setting aside the execution.\nThe order setting aside the execution is reversed, and the record remitted for further proceedings according to law.",
+        "type": "majority",
+        "author": "Lewis, C. J."
+      }
+    ],
+    "attorneys": [
+      "Grant, for plaintiff in error.",
+      "Lane, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "The Erie City Bank versus Compton.\nTo entitle a defendant who is not a freeholder to the stay of execution, he must enter hail for the same within thirty days from the rendition of the judgment.\nError to the Court of Common Pleas of Brie county.\nThis was an action of assumpsit on a promissory note. Judgment was entered February 23, 1856, for a want of an affidavit of defence. Execution was issued the same day and put into the sheriff\u2019s hands on the 25th. March 26, 1856, defendant entered bail for the stay of execution, which was approved by the President Judge. April 22, 1856, defendant moved the court to set aside the execution on the ground that bail had been entered for the stay. The court (Galbraith, P. J.) granted a rule to show cause, and made it absolute March 23, 1856.\nThe setting aside the execution was assigned as error.\nGrant, for plaintiff in error.\nThe defendant claims a special statutory privilege, hence, the provisions of the statute must be strictly complied with: Zack v. Pennsylvania Railroad Company, 1 Casey 396; Smith v. Moffat, 1 Barb. 65; Young v. McKenzie, 3 Kelley 31; Schuyler & Co. v. Mercer County, 4 Gilm. 20. The Act of 16th June, 1836, Pamph. Laws 796, confers a special privilege only on such as comply with its conditions by entering bail and having it approved within thirty days: Mann v. Alberti, 2 Binn. 195; Blackwell v. Johnson, 2 Miles 346; Picard v. Prescott, 1 Pa. Law Jour. 1; Roup v. Waldhauer, 12 Ser. & R. 24.\nLane, for defendant in error."
+  },
+  "file_name": "0195-01",
+  "first_page_order": 195,
+  "last_page_order": 196
+}

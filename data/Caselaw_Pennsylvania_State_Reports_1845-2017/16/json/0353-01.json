@@ -1,0 +1,103 @@
+{
+  "id": 410232,
+  "name": "Quigley versus The Commonwealth",
+  "name_abbreviation": "Quigley v. Commonwealth",
+  "decision_date": "1851-06-23",
+  "docket_number": "",
+  "first_page": "353",
+  "last_page": "357",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 Pa. 353"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Whar. 309",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833424
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0309-01"
+      ]
+    },
+    {
+      "cite": "2 Whar. 246",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830509
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0246-01"
+      ]
+    },
+    {
+      "cite": "4 Whar. 126",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1834994
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/4/0126-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 11577,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.015254171189131104
+    },
+    "sha256": "c56cbce707e3b4b8f1b644b4ca8c73252df47e0925aa5d4714be851de6a792b1",
+    "simhash": "1:3f6ba80432a6b6fc",
+    "word_count": 2067
+  },
+  "last_updated": "2024-02-27T22:22:36.542684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Quigley versus The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered June 23, by\nGibson, C. J.\nThe legislature evidently contemplated the case of a female married at the time of the partition. \u201cWhen upon any proceeding in the Orphans\u2019 Court,\u201d it is said, \u201ca sum of money shall be awarded by the court for the share or portion to which a married woman may be entitled, such money shall not be paid to the husband until he shall have given security to the satisfaction of the court that the amount thereof, or so much thereof as the court may deem proper, be paid after his death to his wife.\u201d Married at what time ? Evidently at the time of the partition; for a feme sole might never marry, and it cannot be supposed the legislature looked so far ahead as to provide for a contingency which might not happen. There was to be a married woman in the case at the time of the partition. And by what court was her portion to be secured ? Certainly by the Orphans\u2019 Court; for the Common Pleas had not been mentioned. The security was to be a part of the proceedings, and consequently to have regard to the time of the partition. The proceeding was to be, in effect, a chancery one; and a chancellor would finish it, the wife\u2019s provision included, at a single operation. Had the intent of the legislature been to provide for the contingency of a future marriage, it is reasonable to suppose the statute would have contained some expression indicative of it; but, according to the text, the Orphans\u2019 Court was to deal with married women, and consequently with women married at the final settlement of the estate. A different construction might send a second or any subsequent husband to the Orphans\u2019 Court, at the end of twenty years, for leave to receive his wife\u2019s chose in action, or recover it by process in a court which the Orphans\u2019 Court could not control. It would have been impossible, and perhaps unfortunate, if it were not, for the legislature to provide for the contingency of marriage. As may be seen in Hammersley v. Smith, 4 Whar. 126, decided on the authority of Massey v. Parker, 2 Mylne & Keen 174, and other cases cited in the argument, a separate use, even when created by a father, lasts no longer than the existing or an impending coverture; and there is no reason to suppose the legislature intended to go further. A wife, having no individuality at the common law, could not resist an attempt by her husband to convert her real estate into personalty and make it his own by partition in the Orphans\u2019 Court; but a feme sole, having the capacity of a man to take care of her property, needed no protection. Should she think proper to marry without a settlement, when her land has been turned into money or securities, so be it: the legislature can no more protect an unmarried woman from the consequences of an imprudent match, than it can protect a weak man from the consequences of an imprudent bargain. In the present case, the plaintiff Avas sole at the time of the partition; and when she married, her portion of her father\u2019s land had long been converted. To her it was the same as if it had been converted in his lifetime; and had it been, no one would assume-that her husband would not have been entitled to receive it in money without having settled any part of it on her. The payment of it to him, therefore, discharged the recognizance.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by J. W. Quiggle and Linn, for plaintiff in error.",
+      "O. W. Scates, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Quigley versus The Commonwealth.\nThe 48th section of the act of 29th March 1832, relating to Orphans\u2019 Oourts, which enables the Orphans\u2019 Court to require security from a husband before money payable to his wife under proceedings in partition is paid to him, does not apply to the case of a female unmmried at the time of the partition; and the payment to a future husband, without security, will discharge the recognizance, so far as the wife is interested.\nError to the Common Pleas of Qlinton county.\nThis was an action of debt to September term 1849, in the name of the Commonwealth for the use of George Geise and Maria his wife, formerly Maria Quigley, in right of said Maria, against Jacob K. Quigley. The suit was on a recognizance acknowledged by defendant in the Orphans\u2019 Court of Lycoming county on the 6th September 1838, for the sum of $4284, the valuation of a tract of land belonging to the estate of William Quigley, deceased, which had been appraised in pursuance of proceedings in the Orphans\u2019 Court, and which was taken .at the valuation, by defendant, on the 6th September 1838. There was claimed for plaintiffs in interest, the husband and wife, the one-fourth part of the valuation, viz. $1071, with interest.\nOn the part of plaintiffs, was given in evidence the record of proceedings in the Orphans\u2019 Court of Lycoming county, in the matter of the partition of the real estate of William Quigley, deceased, from which it appeared that, on 27th February 1827, William Quigley died intestate, leaving a widow and four children, to wit, Jacob K., Samuel M., Amanda, and Maria \u2014 and seized of real estate described in the plaintiffs\u2019 declaration.\n30th April 1838, Asher Davidson appointed guardian for Maria.\n30th April 1838, petition of widow, Jacob K., Samuel M., Amanda, and Maria by her guardian, Asher Davidson, for partition and valuation of real estate.\n30th April 1838, inquest awarded.\n9th June 1838, inquisition held, and real estate appraised at $4284.\n6th September 1838, inquisition confirmed.\n6th September 1838, Jacob K. (eldest son and heir) accepts real estate at the valuation and appraisement.\n6th September 1838, recognizance of Jacob K. Quigley to Commonwealth in the sum of $4284 \u2014 conditioned as set out in plaintiffs\u2019 narr.\nIt was admitted that Maria Geise (formerly Maria Quigley) was one of the four heirs of William Quigley, deceased; that the said Maria was married to George Geise on the \u2022 25th August 1842; that the widow Quigley died on the 25th December 1847.\nThe defendant, to maintain the issue on his part, called Dr. Asher Davidson, who testified as follows: \u2014 I was the guardian of Maria Quigley, and there was a settlement at one time between these parties. I went up and had some conversation with the heirs, and we made an estimate of the money that was coming on the landed property. We took the widow\u2019s dower out first, and then divided the balance into four parts, and made' an estimate of what they agreed was paid. I then took notes from S. M. Quigley and Jacob K. Quigley, for the balance that appeared to be due to Maria on the recognizance. I handed over the notes to George Geise and wife, and took their receipts. * * * Mr. and Mrs. Geise were there; can\u2019t say whether we had the recognizance. But I was present at the appraisement, and knew exactly what it was. The settlement of the amount due on the recognizance was made on the mh May 1843.\nThe defendant then offered the note of George Geise to J. K. Quigley, dated January 18, 1845, for $125, payable one day after date, in connection with proof that it was advanced in payment of his wife\u2019s interest in the fund set apart for the widow, her mother. Admitted by the court to apply to the interest of the present claim only.\nWoodward, J., instructed the jury in the above cause that the settlement of defendant with the plaintiffs and Dr. Davidson as guardian of Maria Geise, made on the 29th May 1843, was evidence of the indebtedness then due to Maria; -but that the payment of the amount ascertained to be due to her was improperly made to her husband, without her acknowledgment agreeably to the provisions of the 48th section of the act of 29th March 1832, entitled \u201cAn act relating to Orphans\u2019 Courts;\u201d and having been made by the defendant in disregard of the act, he must pay the money over again.\nBut as her husband was entitled to have the interest on the money, she could not in this suit compel the defendant to pay more than the principal ascertained on the 27th May 1843 to be due.\nFrom the time of the death of her mother, however, she would be entitled to recover interest on her share of the widow\u2019s third, as well as her share, one-fourth of that fund.\nThe two sums ascertained to be due to her on the 27th May 1843, were $345.24 and $309.39, together amounting to $654.63. Amount agreed to be due by counsel on account of widow\u2019s fund........................................................ 357.00\n$1011.63\nFor the above sum, $1011.63, the jury were directed to find for plaintiffs. Defendant\u2019s counsel excepted.\nIt was assigned for error:\n1. The court erred in their charge to the jury that the payment of the amount found due on the recognizance, on the settlement of the parties and Dr. Davidson of the 27th' May 1843, was improperly made, and must be paid over again.\n2. The court erred in their charge to the jury that the plaintiffs were entitled to recover in this action.\nThe 48th section of the act of 29th March 1838, relating to orphans\u2019 courts, provides, \u201c when, upon any proceedings in the orphans\u2019 court, a sum of money shall be awarded by the court for the share or portion to which a married woman may be entitled, such money shall not be paid to her husband until he shall have given security to the satisfaction of the court that the amount thereof, or so much thereof as the court shall deem proper, be paid after his death to his wife, or if she shall not survive him, to her heirs, as if the same were real estate; or if the husband shall be unable or refuse to give security as aforesaid, the same may be vested in trustees, to be approved by the court, for the same purposes, but reserving to the husband the interest thereof during his life, unless the husband shall desire the same to be settled for the separate use of the wife,\u201d &e. The act further provides that if the wife declare before a judge that she does not require the money to be so secured, the declaration being made voluntarily and certified by the judge and filed of-record in the said orphans\u2019 court, the husband shall not be required to secure the money as aforesaid.\nThe case was argued by J. W. Quiggle and Linn, for plaintiff in error.\nIt was contended that at the time of the acceptance of the real estate by defendants below, Maria Quigley, one of the plaintiffs, was unmarried, and that the 48th section of the act of 1832 applies to the shares of married women.\nThat the share of Maria was converted into personalty by the proceedings in the Orphans\u2019 Court: 11 Barr 374. That Maria was then a minor, and her guardian would have been entitled to receive her share. A payment to her husband, or, as in this case, a payment to her and her husband, oh a settlement with them and her guardian, was good.\nWilliam Quigley, the\" intestate, died in 1827; the act of 1832 does not apply to estates then vested. That if the act of 1832 apply, the husband could not sue without giving security, or the declaration of the wife being given, as provided in that act.\nO. W. Scates, for defendant in error.\nThe husband had no right to the money without the declaration of his wife as provided for in the act of 1832. Reference made to the remarks of the Codifiers: 2 Parke & Johnson\u2019s Dig. 843; 2 Whar. 246, Walton\u2019s Estate.\nThe guardianship of a female is terminated by marriage: Cummings\u2019s Appeal, 11 Barr 272.\nThe wife\u2019s joining with the husband in giving the receipts of the 27th May 1843 is a mere nullity. They are the receipts of the husband alone: Dorrance v. Scott, 3 Whar. 309.\nIt is not material for whose use a suit of this kind is brought. On a recovery by the commonwealth, the legal party, the court will determine who is entitled to the money: Commonwealth v. Lightner, 9 W. & Ser. 117."
+  },
+  "file_name": "0353-01",
+  "first_page_order": 353,
+  "last_page_order": 357
+}

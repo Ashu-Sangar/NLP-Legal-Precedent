@@ -1,0 +1,97 @@
+{
+  "id": 970619,
+  "name": "Perkins versus Johnson",
+  "name_abbreviation": "Perkins v. Johnson",
+  "decision_date": "1852",
+  "docket_number": "",
+  "first_page": "510",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 510"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Jones 163",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 360",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846862
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0360-01"
+      ]
+    },
+    {
+      "cite": "12 Peters 149",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 420,
+    "char_count": 7379,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 4.277134884225609e-08,
+      "percentile": 0.2701242427647326
+    },
+    "sha256": "ed549f5d38d6b3ea923d691c793e9b8a4ea29aa3c83d68db82b2f4dba99ca7ee",
+    "simhash": "1:5eba13b0b676bef6",
+    "word_count": 1329
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Perkins versus Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLowrie, J.\nJohnson, in 1837, gave this mortgage to Abell, without warranty and without any bonds. In 1840, he re-leased the land to Reed, and in 1847, on a sci. fa. issued on the mortgage naming Johnson as defendant, Reed appears, shows his title, and has himself substituted as defendant in place of Johnson. On the trial, Johnson was admitted as a witness to prove that the mortgage had been paid before the conveyance to Reed; and the exception to this is the only one requiring any special notice.\nCertainly it does not appear that Johnson was interested, and his release to the plaintiff for costs, filed on the trial, was unnecessary, and would have been fruitless if he was interested. That he was a party to the mortgage does not affect his competency, for that rule does not apply to such an instrument, nor to evidence in discharge of any instrument and not affecting its original validity. He is no party to the suit, though originally named upon the record, for this action is in rem, and not in personam. After the true owner was substituted he ceased to be even a formal party. After he released his title to the land he was incapable of acting as a real party, for the action was against the land, in which he had no interest; and an appearance and. defence by him could entitle him to no costs, for he had no right to appear. He was liable as a party while his title to the land or some interest in defending it continued, but no longer.\nOn this point there is no difference in principle between this case and Holden v. Winslow, which was argued a few days after this one. That was a sci. fa. on a mechanic\u2019s lien, where one, who had been a terre-tenant, and was served with notice, was admitted as a witness for the defendant.\nThe objection to Haughton\u2019s deposition is plainly unfounded.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Walher, for plaintiff in error.",
+      "Marshall, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Perkins versus Johnson.\n1. A mortgage contained no personal covenant for the payment of its consideration, and no mortgage bond existed. The mortgagor, before scire facias issued, conveyed the mortgaged premises, and before the trial the grantee \u25a0was substituted on the record in the place of the mortgagors:\nThe action being in rem, and it not appearing that the mortgagor was interested in the result, It was held, that he was a competent witness for the defendant, to prove that the mortgage was satisfied. See Holden v. Winslow, antea 449.\n2. If objection to the execution of a commission be not made within the period allowed by a rule of the Court, the objection on the trial is unavailing.\nError to the Common Pleas of Erie county.\nThis was a scire facias on a mortgage. It was issued to February Term, 1848, in the name of Ohauncy F. Perkins, administrator, &c., of Oliver Abell, deceased, v. Samuel Johnson and Fanny his wife.\nThe scire facias issued on 24th July, 1847, and described a mortgage dated on 29th June, 1837, by Samuel and Fanny Johnson, by which they mortgaged to Oliver Abell a piece of land in the town of Erie, for the security of $1500.\nThe plea was payment.\nBefore the scire facias was issued, Samuel Johnson and Fanny his wife, by deed, dated 21st October, 1840, conveyed the mortgaged premises to Charles M. Reed. No consideration was mentioned in the deed. The deed recorded 18th December, 1840. It was stated that there was no bond accompanying the mortgage, and that there was no covenant in it to pay the amount for the security of which it was received.\nOn 2d November, 1850, a motion was made for the substitution of C. M. Reed on the record, in place of the defendants, it being alleged that they had no interest in the suit. Leave was granted.\nThe case was tried before Church, J.\nOn the trial in December, 1850, on the part of the defendant was^ offered the testimony of Jacob Haughton, taken on commission to Ohautauque county, state of New York. The plaintiff objected and offered to prove that Samuel Johnson was present when the testimony of Haughton was taken by the commissioner. The Court rejected this offer because, under the 107th rule of Court, the plaintiff was bound to file his objections to the execution of the commission, upon receiving notice that the testimony is filed in that office, which notice was proven in this case to have, been given and no objections filed as required.\nThe plaintiff\u2019s counsel excepted.\nThe 107th rule was as follows:\nRule 107. On the return and opening of any commission, which shall only be done by a judge of the Court, or else by the prothonotary, in the presence of the parties or their attorneys and with their consent, or filing of any deposition, either party may give notice thereof to the adverse party or his attorney, who shall, within ten days after service of such notice, file with the prothonotary a specification of his exception, if he have any, to the form or execution of the commission, or taking the deposition, or to the mode of swearing the witness, or to any of the acts or omissions of the commissioners or officers, or of any other person or persons in or about the same. No exceptions to the admissibility of the evidence so returned or filed, not included in such specifications, shall be taken on the trial of the cause, unless it be an exception that might be taken to the evidence if the witness were offered for examination orally in Court.\nOn part of defendant, Samuel Johnson, the mortgagor, was offered. He was objected to as incompetent from interest; and because he was a party to the suit. Johnson then executed a release, by which he released the plaintiff from all costs to which he (Johnson) was or may be entitled in any manner, in any result of the suit. He was admitted, and plaintiff\u2019s counsel excepted.\nDecember 18, 1850, verdict for plaintiff for $204.80.\nThe assignments of error were as follows:\n1. The Court erred in admitting Samuel Johnson to 'testify for the defence.\n2. The Court erred in the charge in stating that the jury must consider the evidence of Samuel Johnson, that his situation did not affect his competency but only his credibility.\n3. The Court erred in admitting the testimony of Jacob Haughton, taken on the commission.\nWalher, for plaintiff in error.\nIt was contended that Johnson was incompetent to testify in the case: 1 Barr 435, Wolf v. Fink. A party to the record cannot be a witness: 12 Peters 149. Also cited 3 Barr 298; 4 Id. 199; 10 Id. 428; 1 Id. 173; Id. 365; 5 W. & Ser. 509, Post v. Avery; 6 Id. 555; 7 Id. 144; 3 Barr 360; 2 Harris 390; Id. 110.\nTestimony taken under a commission cannot be read if the attorney of one party was present when it was taken, though he took no part in the examination, and was not employed to attend: 6 Barr 449, Hollister v. Hollister.\nMarshall, cont\u00f3.\nThere was no personal responsibility by Johnson.\nWhere a suit is ended as to a defendant, and he has no interest in the matter in dispute, he is competent to testify: 1 Greenleaf\u2019s Ev., sec. 355; Ibid. sec. 360; 7 Watts 360; 2 W. & Ser. 172; opinion of Coulter, J., in 7 Barr 469. Reed became the defendant on the record.\n. A party who is on the record only as a naked trustee, and is not liable for costs, may be a witness: 1 Jones 163.\nAs to the deposition of Haughton, the rule of Court rendered the objection unavailing. Each Court has power to make rules for the transaction of its business, which are not in opposition to the law: 5 W. & Ser. 175-7-8."
+  },
+  "file_name": "0510-01",
+  "first_page_order": 512,
+  "last_page_order": 514
+}

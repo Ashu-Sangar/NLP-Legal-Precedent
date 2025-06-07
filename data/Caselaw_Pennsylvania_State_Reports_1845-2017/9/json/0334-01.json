@@ -1,0 +1,62 @@
+{
+  "id": 960786,
+  "name": "Gulliford v. Skinner",
+  "name_abbreviation": "Gulliford v. Skinner",
+  "decision_date": "1848-10-11",
+  "docket_number": "",
+  "first_page": "334",
+  "last_page": "335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 334"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 197,
+    "char_count": 2643,
+    "ocr_confidence": 0.397,
+    "sha256": "76cd432e7c2d44d2ff5794d5ad188570a0277b7e3ad0c3e51acad06e3a2229e3",
+    "simhash": "1:264d74155609ce06",
+    "word_count": 467
+  },
+  "last_updated": "2023-07-14T16:15:59.651778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gulliford v. Skinner."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nA plaintiff who sues as the bearer of a promissory note, sues as an immediate payee, designated by description. The promise is disjunctive, to pay to the person named or his substitute by delivery, either of whom answers the description of the promisee. In this instance, the person named would have been a competent witness, without colour of objection, to invalidate the note on any ground whatever, had he not endorsed it and brought himself within the rule in Walton and Shelly; which, however, excludes an, endorser only from proving want of consideration or any other fact that would invalidate it between the original parties. He was offered, not to prove any such matter, but to prove that it was discharged after it had been negotiated. Then he would be liable on his endorsement only in case the holder should fail to recover from the maker, and he was consequently offered to testify against his own interest; for his testimony, in this suit, would not help him in an action on the contract of endorsement.\nThe case of Tyler Palmer, through whose hands the note had passed from the original payee to the plaintiff, is still stronger. It had passed to and from him by delivery, and he did not become liable for the payment of it, even as an endorser. Had he paid it away for a precedent debt, he would have remained liable on the original contract till the note had been discharged; but the fact hasjnot been alleged; and if it were part of the case, it would show no more than that he was produced to swear against his interest. Not having been the bearer at the time of presentment, he does not stand as an intermediate party between the plaintiff and the defendant; and it is scarce necessary to say that his wife also was a competent witness, even without the release given to her husband.\nJudgment reversed, and a venire de novo awarded. \u2022",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Galbraith and Walker, for plaintiff in error.",
+      "Marshall, cont\u00f3."
+    ],
+    "corrections": "",
+    "head_matter": "Gulliford v. Skinner.\nWhere a promissory note is payable to A. or bearer, A. is not incompetent as a witness, within the rule of Walton v. Shelly, unless he has endorsed the note. A subsequent holder who has transferred the note without endorsement, is a competent witness for the drawer.\nIn error from the Common Pleas of Erie.\nAssumpsit on a note payable to Levi Guilford or bearer, and by him endorsed. The defendant, the drawer, called Guilford, who was rejected on a general objection. Eor what purpose he was offered, did not appear. i\nThe defendant then called Palmer (and also his wife), who was the first holder of the note, but had not endorsed it. They were rejected on a similar objection.\nGalbraith and Walker, for plaintiff in error.\nMarshall, cont\u00f3.\nOct. 11."
+  },
+  "file_name": "0334-01",
+  "first_page_order": 334,
+  "last_page_order": 335
+}

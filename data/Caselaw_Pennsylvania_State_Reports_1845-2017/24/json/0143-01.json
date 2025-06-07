@@ -1,0 +1,78 @@
+{
+  "id": 9503555,
+  "name": "Cobaugh's Appeal",
+  "name_abbreviation": "Cobaugh's Appeal",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "143",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 124",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0124-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 285,
+    "char_count": 5245,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 2.2560362449485473e-07,
+      "percentile": 0.7820950178948657
+    },
+    "sha256": "cfa6ac0129d41132cb2500bdf84a25de8ccb65cbbd3ec49a9707a03efcaf940c",
+    "simhash": "1:7e9dae318a82e677",
+    "word_count": 938
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cobaugh\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nBlack, C. J.\nThe executors of John Sutton, deceased, filed several accounts, the last one showing a balance due them of $277.31, a sum not so large as the aggregate of the commissions allowed them at different times. To pay this balance a sale of land was ordered, made, and confirmed. To distribute the proceeds the Court appointed an auditor, who appropriated $277.31 to the payment of the executors. But the Court set the report aside, and decreed all the money to the heirs on the ground that Sutton had died more than seven years before, and his debts were therefore no longer a lien on his real estate.\nThe law limiting the lien of a decedent\u2019s debts does not apply to the compensation earned by and allowed to the executor or administrator. That compensation is not a debt of the decedent, but a part of the expenses .of administration. The right to it may accrue after the seven years have expired. The whole scopo and spirit of the Act shows that it was intended to prevent heirs and purchasers from being surprised by claims against the decedent himself, not placed ,on record -in proper time. An executor may' retain his commissions out of the personal fund, and let the unpaid creditors look to the land. But if he chooses to exhaust the personal fund by paying the debts, and' trust, the real estate for his own compensation, he puts.the heirs in no worse'condition. This sale was therefore rightly ordered. But, whether right or wrong, the decree was conclusive-of. the .fact on which it was founded, and that fact was, that the executors had a balance due them for which the land was bound. This was not a thing tb. be disputed when the distribution came to be made. \u25a0\nThe decree of the Orphans\u2019 Court is reversed, and it is now ordered and decreed by'this Court]'that distribution be made agreeably to the report of the auditor.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Gaither, for the appellants."
+    ],
+    "corrections": "",
+    "head_matter": "Cobaugh\u2019s Appeal.\n1. The Act limiting the lien of a decedent's debts to seven yeai's does not apply to the compensation decreed to the executor or administrator, such claim not being a debt of the decedent, but a part of the expenses of administration.\n2. The sale of the estate of the decedent may be properly ordered to pay such balance. ~\n~ ~ ~. In the distribution of the proceeds of such sale, the decree of the Court ordering the sale was conclusive of the fact on which it was founded, viz., that a balance was due the executors for which the land\nAppeal from the decree of the Orphans\u2019 Court of Somerset county, ordering distribution of proceeds of sale of real estate left by John Sutton, deceased.\nJohn Sutton died in 1828, and letters testamentary were issued to William King and John Cobaugh, two of the executors named in the will. Their first account was* filed in 1885, exhibiting a balance in their favor. In 1841 a second account was filed, showing a balance of above $500 in their favor. In 1844 a third account was filed, stating a balance in their favor of above $600. In January, 1852, a fourth account was filed. To this account exceptions were filed, and an auditor was appointed, who reported a balance, in favor of the executors, of $277.31. His report was confirmed on 29th January, 1852. On 14th September, 1852, the executors\" petitioned for an order of sale of real estate to pay the said balance. The sale was decreed, and was made on 20th December, 1852. It was afterwards confirmed, and deed decreed to be made to the purchaser. The deed was made, being dated 30th December, 1852. On 13th January, 1853, an account of the proceeds of the sale was exhibited, to which exceptions were filed, one of them being that the claim of the executors, to the balance reported by the auditor in their favor, ought not to be allowed; that it was not a lien on the real estate of the decedent, and that, therefore, the proceeds of sale should be distributed among the heirs and legal representatives. The ground taken in support of the exception, was, that more than five or seven years having elapsed after the alleged indebtedness of the estate to the executors had accrued, before application was made for a sale of the real estate for its payment, its recovery was barred by the Acts of 4th April, 1797, and 24th February, 1834.\nOn part of the executors it was contended that the decree of the Court under which the sale was made, for the sole purpose of paying their claim, was conclusive that it was rightly made; and that so much of the proceeds of sale as was necessary, must be applied to the purpose for which the sale was decreed. An auditor was appointed, who reported in favor of the executors; but the Court directed that the balance, which had been decreed in favor of the executors, be paid to the heirs.\nException was taken to such decree.\nGaither, for the appellants.\nIn the case of Brohst v. Bright, 8 Watts 124, it was held that no statute limits the lien of a judgment in favor of the heirs of a debtor. In McCurdy\u2019s Appeal, 5 W. Ser. 398, the balance claimed by the administrators was made up by claims against the estate which they had purchased. In such a case, the administrators would occupy the place of the creditor. In this case, the balance claimed was but a part of the compensation decreed to the executors."
+  },
+  "file_name": "0143-01",
+  "first_page_order": 141,
+  "last_page_order": 143
+}

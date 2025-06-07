@@ -1,0 +1,66 @@
+{
+  "id": 977358,
+  "name": "Filson versus Dunbar",
+  "name_abbreviation": "Filson v. Dunbar",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "475",
+  "last_page": "477",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Pa. 475"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 229,
+    "char_count": 3638,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 1.2143317475116888e-07,
+      "percentile": 0.5968021687750907
+    },
+    "sha256": "cf396be588ddc1111a75a632bbc7716b86a02fb2f212f1838c710c528a21a33b",
+    "simhash": "1:ee3da3859e9a43b9",
+    "word_count": 638
+  },
+  "last_updated": "2023-07-14T17:45:24.813267+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Filson versus Dunbar."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nLowrie, J.\nThe debt sued for seems to belong to Mrs. Eilson, as widow, and not as administratrix of her late husband; and therefore it was a mistake to sue in her character of administratrix. But this mistake is of a kind that is always overlooked, because it never affects the merits of the cause; and therefore this plaintiff ought not, for this, to have been turned out of court.\nThe cause is tried before the jury, not on the style of the suit, but on the facts averr\u00e9d and denied. In this instance the plaintiff avers that she sold and delivered goods to the defendant, and he denies this. Her case shows that she is the legal plaintiff, and the description of her as administratrix goes for nothing. If it appeared that she had sold the goods as administratrix, and was collecting their price for the estate, nobody would hesitate in adopting this view: 8 Ser. & R. 124; 2 Penn. R. 490. But the rule applies even Avhen the description does not truly indicate the relation of the party to the money or property claimed; as when one sues or is sued as executor, instead of as trustee or devisee: 5 State R. 510; 7 Id. 243: or as administrator, instead of as husband of his late wife: 6 Id. 348.\nA description of the character in which a party sues or is sued must always be treated as surplusage when, the facts averred and proved establish the right or duty independent of the description.\nJudgment reversed and a new trial awarded.",
+        "type": "majority",
+        "author": "Lowrie, J."
+      }
+    ],
+    "attorneys": [
+      "Bench and Doty, for plaintiff in error.",
+      "Parker, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Filson versus Dunbar.\nA description of the character in which a party sues or is sued must always be treated as surplusage, when the facts averred and proved establish the right or duty independent of the description.\nwhere the widow of an intestate became his administratrix, and had personal property under the value of $300 appraised to her, and afterwards sold a part of it to a third person, in an action for the price of it, she was entitled to recover, although the suit was brought in her name as administratrix of her husband.\nError to the Common Pleas of Juniata county.\nThis was an action of assumpsit brought by Jane Filson, administratrix of Davidson R. Filson, deceased, against Josiah R. Dunbar.\nPlaintiff\u2019s intestate died in September, 1854, and letters of administration on his estate were granted to the plaintiff. The effects of the deceased were appraised agreeably to the Act of Assembly, and amounted to less than three hundred dollars, and were taken by the widoAV. In March following she sold a part of these same goods to the defendant, and this action was brought to recover the price.\nThe defendant resisted a recovery on the ground that the action could not be maintained by the plaintiff in her representative character.\nThe plaintiff requested the court to instruct the jury\u2014\n\u201c That the addition of administratrix is mere surplusage; and under the evidence in the cause, if the jury believe it, the plaintiff is entitled to recover.\u201d\nHis Honour (Graham, P. J.) answered this point as follows:\u2014\n\u201cThe plaintiff\u2019s counsel requested the court to instruct the jury that the addition of administratrix is mere surplusage, and that under the evidence in the cause, if the jury believe it, the plaintiff is entitled to recover. The court instructed the jury that under the evidence, if they believed that the Avidow took the property under the $300 act, she should not recover in this action in which she sues as administratrix, but in an action brought in her own name and not as administratrix.\u201d\nThe jury found for the defendant.\nThe charge of the court was assigned for error.\nBench and Doty, for plaintiff in error.\nParker, contra."
+  },
+  "file_name": "0475-01",
+  "first_page_order": 475,
+  "last_page_order": 477
+}

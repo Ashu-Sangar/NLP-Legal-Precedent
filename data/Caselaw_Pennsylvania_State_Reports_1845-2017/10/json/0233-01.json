@@ -1,0 +1,73 @@
+{
+  "id": 962693,
+  "name": "Harris v. Christian",
+  "name_abbreviation": "Harris v. Christian",
+  "decision_date": "1849-04-09",
+  "docket_number": "",
+  "first_page": "233",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Pa. 233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Binn. 167",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 212,
+    "char_count": 2987,
+    "ocr_confidence": 0.384,
+    "pagerank": {
+      "raw": 3.0107628182881343e-07,
+      "percentile": 0.8531752237292599
+    },
+    "sha256": "1180111280f4a2923a8452d5b6cdd62fd72e52ccc359d15c8e271aa19513a0a0",
+    "simhash": "1:f860ff248c4c7eff",
+    "word_count": 535
+  },
+  "last_updated": "2024-02-27T17:18:16.971381+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harris v. Christian."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\nWe see nothing wrong in the trial, except the answer of the court to the defendant\u2019s fifth point. The court was requested to instruct the jury that the. statute of limitations is a bar in all cases in which the services were rendered more than six years before the death of the alderman. The court refused to give this instruction, under the erroneous idea that the action was founded on a claim of record, and not a contract. Although the docket of the justice is evidence to charge the defendant with the costs of the original writ, subpoena, and execution, yet it is not a debt of record, but the evidence of a debt, from which the law will imply a promise to pay. And such was the opinion of the court, in Lyon v. McManus, 4 Binn. 167. The action to recover the fees, in that case, was assumpsit on an implied contract; and it was there held, that where a statute gives fees, the law implies a promise to pay by the person to whom the service is rendered. The plea of the statute of limitations is therefore a good plea. The suit is brought against the plaintiff to recover for services rendered him in the suits before the alderman. He must look to the defendant for indemnity. It may be proper to add, that the suits are terminated within the meaning of Lyon v. McManus, on the rendition of the several judgments. We are further of opinion that the costs may be recovered on a declaration for work and labour done, and goods sold and delivered. No injury can result to the defendant from the generality of the counts, as he may have a bill of particulars on demand.\nJudgment reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Brightly, for plaintiff in error.",
+      "Paul, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Harris v. Christian.\nTie statute of limitations -is a good plea, in assumpsit by a justice of the peace, for fees.\nThey may be recovered in assumpsit for work and labour, and are earned when judgment was recovered.\nThe justice\u2019s docket is evidence against the defendant of the suits brought for him, and the amount of fees earned.\nA bill of particulars furnished counsel, in which abbreviations are used, is sufficient.\nIn error from the Common Pleas of Philadelphia.\nAfrilfi. Assumpsit for work and labour done. Pleas, nonassumpsit and the statute of limitations. The claim was for fees earned by the plaintiff\u2019s intestate, who was an alderman of Philadelphia. On the trial, before Parsons, J., the plaintiff, under exception, read the alderman\u2019s docket, to show the suits brought for the present defendant. In many instances, the suits were ended more than six years before this action was brought.\nHis honour instructed the jury, that the plaintiff could recover in all cases where there had been a judgment recovered. 2. That the statute was not a bar, as the claim was for a debt of record. 3. That the bill of particulars was sufficient. The bill set out the number and name of each case; the particulars were set out with abbreviations, thus: \u2014 T. & J. 25; E. 12-|; O. 6 ; H. & D. 50; O. 6.\nBrightly, for plaintiff in error.\nPaul, contra.\nApril 9."
+  },
+  "file_name": "0233-01",
+  "first_page_order": 233,
+  "last_page_order": 234
+}

@@ -1,0 +1,109 @@
+{
+  "id": 9505162,
+  "name": "Reed versus Defebaugh",
+  "name_abbreviation": "Reed v. Defebaugh",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "495",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 Pa. 495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Jones 292",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wheaton 650",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421289
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/22/0650-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 378",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842760
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0378-01"
+      ]
+    },
+    {
+      "cite": "2 Johnson 308",
+      "category": "reporters:state",
+      "reporter": "Johnson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Peters 74",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 356,
+    "char_count": 6763,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 2.1064883680746527e-07,
+      "percentile": 0.7625595160181153
+    },
+    "sha256": "7c23a8d5d465e20e442dfae58a91df9c286ecf626969c5dc21fe594408101c97",
+    "simhash": "1:4554e2ba1a951c8b",
+    "word_count": 1215
+  },
+  "last_updated": "2024-02-27T20:45:11.117982+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reed versus Defebaugh."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nWoodwab,d, J.\nThe exemption law of 9th April, 1849, was limited to take effect on the 4th day of July in that year, and, says the sixth section, \u201c shall apply only to debts contracted on and after that date.\u201d The only question presented by the record is whether this debt was contracted on or after that date.\nIt is agreed that J. A. Green was indebted to P. S. Green, by book account, for goods sold before the 4th July, 1849, to the amount of $310; that on the 21st October, 1851, a sealed note for that amount was given at one year and entered in the books to balance the account, and that this note, transferred to the plaintiff, was the ground of the judgment which is now sought to be collected out of the sheriff.\nThe sealed bill was a new testimonial and a new security of the debt, but was not the contracting of a debt within the meaning of the statute. The debt was contracted when the goods were sold and delivered. It was then the relation of debtor and creditor was established, and all the rights and duties of that relation attached at that time. We have in several eases of distribution permitted auditors to go back of judgments and ascertain when the debts on which they were founded began to exist; and where the fact appears on the record, as it does here, that the debt was contracted before the date fixed in the exemption law of 1849, we must withhold it from the operation of the Act in the same manner we have done in questions of distribution.\nBut it is said there was a merger of the simple contract debt into a higher security, and that the only existing debt began at the date of the sealed bill.\nA merger of a lower security into a higher undoubtedly there was, but a merger of securities is not necessarily an extinguishment of the antecedent debt. It always depends on the intention of the parties whether a merger of securities shall work a satisfaction or extinguishment of the debt; and of such intention we have no evidence here. This debt, whether proved by the judgment, the sealed bill, or the book account, is the very debt contracted for the goods sold before the 4th July, 1849, and therefore not within the purview of the exemption law of that year.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Woodwab,d, J."
+      }
+    ],
+    "attorneys": [
+      "Hammond and Galvin, for plaintiff in error.",
+      "Banlcs, contrd."
+    ],
+    "corrections": "",
+    "head_matter": "Reed versus Defebaugh.\n1. A merger of securities is not necessarily an extinguishment of the antecedent debt. Whether or not the new security is to be a satisfaction of the original debt by substitution depends on the intention of the parties.\n2. A debt by book account was contracted before the 4th July, 1849; and on 21st October, 1851, his sealed note for the amount was given by the debtor to the creditor, and an entry thereof was made in the books to balance the account. The note was afterwards transferred and judgment obtained upon it, and levy made on the debtor\u2019s personal property.\n'Held, that no intention appearing to extinguish the debt on book account by the sealed note, the debt was to be considered as having been contracted before the 4th July, 1849, and that the debtor\u2019s .personal property was not protected from execution therefor by*the Exemption Act, which was applicable only to debts contracted on and after that date.\nEkbor to the Common Pleas of Blair county.\nThis was an amicable action between James E. Eefebaugh and William Need, in which a case was stated. It was stated that prior to 4th July, 1849, J. A. Green was indebted to P. S. Green, by book account, for goods sold. On 21st October, 1851, the balance of the account amounted to $310, for which J. A. Green gave bis note under seal, for the payment to P. S. Green, one year after date, with interest. An entry was made in the account-books of the amount of the note, which balanced the account.\nThe note was afterwards transferred to the plaintiff, and judgment was obtained therefor, and levy made on the personal property of J. A. Green, who claimed the benefit of the Exemption Act of 9th April, 1849, giving exemption from execution as to property to the amount of $300. The Act, however, was to apply \u201c only to debts contracted on and after\u201d 4th July, 1849.\nWhether the goods were exempted was submitted to the Court, who directed judgment for the plaintiff \u2014 and this was assigned for error.\nHammond and Galvin, for plaintiff in error.\nIt was contended that the simple contract debt was extinguished by merging in the specialty: 1 Peters 74; 2 Johnson 308; 1 Smith\u2019sLeading Gases 261; 1 Pallas 413-14; 1 W. Ser. 334; Higgins\u2019s Case, 6 Go. 40. A note under seal accepted \u201c when paid to be in full,\u201d is not an extinguishment of the original debt, because of the terms of the receipt: 4 Watts 378. A mere note not.under seal is not payment unless received as such, and the presumption is that it has not been so received unless shown to the contrary; but it was said, that when a party receives from his debtor a sealed instrument for a simple contract liability, the presumption is that it was received in satisfaction: Stewart\u2019s Appeal, 3 W. Ser. 476. No suit could be sustained on the book account. No agreement, however explicit, would prevent a promissory note from merging into a bond given for the same debt by the same debtor; for to allow a debt to be at the same time of different degrees, and recoverable by a multiplicity of inconsistent remedies, would increase litigation, unsettle .distinctions, and lead to embarrassment in the limitation of actions, and the distribution of assets: GibSON, C. J., in Jones v. Johnson, 3 W. Ser. 277-8.\nBanlcs, contrd.\nThe original debt was contracted before the 4th of July, 1849. A bond taken under the Revenue Act of 1799 was held not to be an extinguishment of the debt which accrued by the importation of goods: United States v. Lyman, 1 Mason 506. The official bond of a receiver did not merge the simple contract debt arising from the balance of an account due the United States: 9 Wheaton 650. Also, cited case of Abrams v. Musgrove, 2 Jones 292. It was stated by GibSON, C. J., in the case of Jones v. Johnson, 3F. | Ser. 277-8, that a distinction exists between extinguishment by merger of the security, and extinguishment by satisfaction of the debt. \u201cIn the first, the original security is extinguished, but the debt remains; in the second, the debt, as well as the security, is extinguished by the acceptance of another in lieu of it.\u201d Further: aIn a case of merger, the debt is the same though the old evidence of it melts into the new one, and the creditor merely gains a higher security without having an indivisible debt of different degrees.\u201d * *\n\u201c The difference on the whole consists in this, that in a case of merger, there is a change only of the security; but in a case of satisfaction by substitution, there is a change of the debt.\u201d"
+  },
+  "file_name": "0495-01",
+  "first_page_order": 493,
+  "last_page_order": 495
+}

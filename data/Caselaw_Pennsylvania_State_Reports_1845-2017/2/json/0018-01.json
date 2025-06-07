@@ -1,0 +1,85 @@
+{
+  "id": 951143,
+  "name": "Rhodes v. Seibert",
+  "name_abbreviation": "Rhodes v. Seibert",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "18",
+  "last_page": "19",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 18"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Watts & Serg. 395",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854685
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0395-01"
+      ]
+    },
+    {
+      "cite": "2 Watts & Serg. 393",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 222,
+    "char_count": 3232,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 1.0165663930861556e-07,
+      "percentile": 0.5436513866252434
+    },
+    "sha256": "c470dc0a94b31444a93d43a68f9e2e8ec17e99977a26de101f12285e6568e29e",
+    "simhash": "1:a19936ed0a808e80",
+    "word_count": 571
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rhodes v. Seibert."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\n\u2014 It is the duty of a party to produce the best evidence of which the case in its nature is susceptible. In this case there was a departure from this rule.\nThe deposition of Charles D. Hosteller, who had been, and then was, the Secretary of the Sandy and Beaver Canal Company, and kept their office in the town of New Lisbon, in the state of Ohio, was most material for the plaintiffs below. [His honour here stated the facts.] Seibert relied on this receipt, but neither this witness nor any other person proved either the payment of the money, or the signature of Rhodes to this receipt. The papers being beyond the jurisdiction of the court, their production could not be compelled. It is a fit case for secondary evidence, but before the copy could be received in evidence, some proof ought to have been given that the original was a genuine paper. The treasurer who paid him the money might have been examined, or evidence of his handwriting. It is more than probable, that if the attention of Hosteller had been called to the paper, he could have proved the handwriting of Rhodes. The treasurer of the company, who, it is alleged, paid him the money, would have been a competent witness. But when an original paper cannot be produced, before a copy is received in evidence, it is incumbent on the party offering the copy to show, in the first place, that there was an original.\nI think the contract and estimates were insufficiently proved in Hos-teller\u2019s deposition.\nThe judgment is reversed, and a venire de novo awarded.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Galbraith, for plaintiff in error,",
+      "Derrickson, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Rhodes v. Seibert.\nTo authorize a copy of a paper beyond the jurisdiction of the court to be read in evidence the existence and authenticity of the original must first be clearly proved.\nError to the District Court of Crawford county.\nSeibert was a sub-contractor under Rhodes, and. brought this action to recover money received by him on the assigned contract, in which it was agreed that defendant was to receive tire money and pay him. Defendant proved a receipt for $250 in full by plaintiff, dated April 22, 1837. Plaintiff then gave in evidence a deposition of the secretary of a canal company, for whom the work had been done, the witness residing out of the Commonwealth, who stated he could not permit the originals to go out of his office, but annexed accurate copies: t\u00edrese were the estimate showing a balance due this contractor, of $761 62, (the amount claimed in this action,) and a paper purporting to be a receipt by defendant of this amount, dated April 21, 1837. The witness then stated he had no particular knowledge of the work having been done for the company but from the estimates and the payment ; he had seen Seibert in the office inquiring about the estimates, and judged from that he was interested in it. The signature of Rhodes to the receipt was not otherwise proved. The defendant excepted; Dut the court admitted it. This was the error assigned here.\nGalbraith, for plaintiff in error,\nrelying on the want of proof of the receipt, referred to 2 Watts & Serg. 393.\nDerrickson, contra,\nargued it was a paper in the office of the company paying the money on it, and there was sufficient to go to the jury on the question of authenticity. 3 Watts & Serg. 395."
+  },
+  "file_name": "0018-01",
+  "first_page_order": 18,
+  "last_page_order": 19
+}

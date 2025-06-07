@@ -1,0 +1,103 @@
+{
+  "id": 972363,
+  "name": "Schott versus Chancellor",
+  "name_abbreviation": "Schott v. Chancellor",
+  "decision_date": "1852-01",
+  "docket_number": "",
+  "first_page": "195",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Pa. 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Rawle 166",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824594
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0166-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 378",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842760
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0378-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Rep. 481",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        951399
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/2/0481-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 604,
+    "char_count": 13538,
+    "ocr_confidence": 0.431,
+    "pagerank": {
+      "raw": 9.78589816709078e-08,
+      "percentile": 0.5323654004538488
+    },
+    "sha256": "4af3205584b232ce994d4d9c13e2ea51080f57ec46f94748732b2bb9a41bfd0c",
+    "simhash": "1:9ac3f432cb90e81f",
+    "word_count": 2385
+  },
+  "last_updated": "2024-02-27T16:08:18.291907+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schott versus Chancellor."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered in by\nBlack, C. J.\nJames Schott, being a judgment creditor of Henry Chancellor, issued an execution, and attempted to obtain satisfaction of his debt by levying upon and selling the personal goods, which were, at the time, in - the actual possession and use of the debtor. He was prevented from doing so by the assertion of Wharton Chancellor, that he, and not Henry Chancellor, was the owner of the goods. This action was instituted to try the question which was raised between them. It appeared on the trial that Wharton Chancellor had purchased these same goods at a sheriff\u2019s sale, under an execution of his own, but left them in the possession of his brother. He gave no credit on his judgment, nor any receipt to the sheriff, for the price he had bid for them, and after-wards received the full amount of his whole debt from trustees, to whom a fund for its payment had been bequeathed by his mother. Things were in this condition when the present plaintiff sued out his execution.\nThough it is a general rule, that the possession of chattels is the true index of ownership, yet a bona fide purchaser at a public judicial sale may safely and lawfully leave them to be used by the defendant in the execution, and they will not be liable to subsequent seizure by another creditor. Such a transaction is not a fraud in law, within the principle of Twine\u2019s case.\nBut the difficulty of sustaining the claim set up by Wharton Chancellor, results from the shock it gives to one\u2019s sense of natural justice. He has received all that his brother ever owed him, and with the cash in his pocket, he stands over the property, and insists upon keeping that also. This is an effort to appropriate what he never paid for, to reap where -he has not sowed, and gather where he has not strewn. He endeavors to have a double satisfaction for his own debt, while another creditor, as honest as himself, is to have no satisfaction at all.\nIf personal property is purchased at a sheriff\u2019s sale, and left with the defendant in the execution, and it appears that the defendant himself furnished the money which paid for it, who can doubt that it might be taken again on another execution against the same person ? If the money was not furnished at the time, but paid afterwards, the case would be equally clear as showing either that the pretended purchaser was a mere agent of the defendant, or else that- a contract existed between them, by which the title was to revert\u2019 to the original owner when he refunded the price. Where the plaintiff in the execution is the purchaser at the sale, and he gives no credit for the proceeds, and afterwards receives full satisfaction of his debt in another way, there is still stronger reason for believing that the business was a sham from the beginning. In neither of these cases can it be said that the purchase was made in good faith, and it is only in favor of bond fide purchasers that, the law will make an exception to the wholesome rule, which requires possession of personal property to accompany and follow the transfer of title.\nIf this had been a contest between, Wharton and Henry Chancellor, the fact that Wharton never removed the goods, that he never credited the price of them on the judgment, and that he received his whole claim afterwards, would be conclusive of Henry\u2019s right to the property. If such are the relations which this transaction would create, as between the parties themselves, a fortiori, it ought to receive that construction when creditors make the claim ?\nThe judge of the Court below should have instructed the jury that the evidence was conclusive in favor of the plaintiff\u2019s right to levy on the goods in question. Because he said in his charge that the defendant was entitled to the verdict, the judgment is to be reversed.\nJudgment reversed and venire de novo awarded.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Webster and H. M. Phillips, for plaintiff.",
+      "McMurtrie, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Schott versus Chancellor.\nPersonal property was sold under execution and purchased by the plaintiff for a price much below the amount of Ms judgment, but the possession was not changed, and no credit given on the judgment nor receipt to the sheriff for the amount of the bids; afterwards the plaintiff received the whole amount of his judgment from trustees to whom a fund had been bequeathed for the purpose: It was held that the property was subject to levy and sale as the property of the defendant in the judgment, under an execution issued after the payment by the trustees.\nError to the District Court, Philadelphia.\nThis was a feigned issue between Wbarton Chancellor, as plaintiff, and James Schott, defendant.\nJames Schott obtained a judgment against Senry Chancellor in the District Court of Philadelphia, for the sum of $3240.'\nIt was an amicable action in case entered by agreement filed October 20, 1845. January 28, 1846, judgment. February 16, 1846, fi. fa. issued, to which nulla Iona was returned.\nThe plaintiff had an alias fi. fa. issued to March Term, 1849, by virtue of which the sheriff, on the 16th April, 1849, levied upon certain personal property, consisting of household furniture, in Henry Chancellor\u2019s possession at his residence.\nOn the 19th of April, 1849, counsel for Wharton Chancellor served the sheriff with written notice that the property levied upon did not belong to the defendant, Henry Chancellor, hut to said Wharton Chancellor: that he claimed title to said property by virtue of a sheriff\u2019s sale made to him on the 29th of October, 1845, under a fi. fa. issued out of the District Court to September Term, 1845, on a judgment in his favor, against the said Henry Chancellor, the real debt Being $8820.\nOn the 23d of April, 1849, the sheriff obtained a rule on the plaintiff and Wharton Chancellor to show cause why they should not relinquish or maintain their respective claims, and why the Court should not make an order pursuant to the Act of Assembly passed the 20th d\u2019ay of April, 1848. This rule the Court made absolute, and directed an issue to be formed to try the questions of fact. Wharton Chancellor thereupon gave his own bond, conditioned for the forthcoming of the goods levied upon, to answer the alias fi. fa. in favor of James Schott, jr., if it should be determined that they were not the property of said Wharton Chancellor. The issue was accordingly formed, in which Wharton Chancellor was plaintiff and James Schott defendant, and the case came up for trial on the 13th of February, 1850.\nThe plaintiff (Wharton Chancellor) proved by the docket of the District Court, that on the 18th October, 1845, Henry Chancellor confessed a judgment in his favor for $8820; that a fi. fa. was issued, and the defendant\u2019s household furniture, &c., levied upon; that the sheriff returned to said writ, that he had sold said property for $2694.80, on the 29th October, 1845. No credit, however, was given on the docket by Wharton Chancellor for the amount.\nThe plaintiff also gave in evidence a bill of sale from the sheriff to himself for said property, dated November 1, 1845; also a lease, not dated, from plaintiff to Henry Chancellor, reciting the sheriff\u2019s sale as then lately made, for all the goods purchased by plaintiff at said sale, and reserving a rent of $200 per annum, payable half-yearly. Annexed to the lease was a schedule of the goods included therein, being the same goods levied upon by the defendant in the issue.\nOn the part of the defendant, the will of Hannah Chancellor was given in evidence. It was dated 15th April, 1843, and proved June 17, 1847, Wharton Chancellor being a subscribing witness.\nThe testatrix devised one full, equal, and' undivided third part of the residue of her estate to William Wistar and George II. Thompson, in trust, to pay thereout to her son Wharton Chancellor, all such sums of money whatsoever, which, at the time of her decease, should be due and owing, and payable to him, the said Wharton, by her son Henry Chancellor, \u201cfor or on account of any matter, cause, or thing, whatsoever,\u201d and to place and continue the residue of her personal estate at interest, and to pay the interest and income thereof, and the rents, issues, and profits of the real estate, unto said Henry Chancellor, upon his own receipt, without being in any way or manner subject or liable for the payment of his debts, during the term of his natural life; and' from and after his decease, to grant and convey such real and personal estate, unto all and every the child and children of said Henry.\nBy another clause in her will, the testatrix declared that it was at the special instance and request of her said son Wharton, that she had not devised any part of her estate to him \u201c other than the amount of the moneys due and owing by her son Henry, as aforesaid.\u201d\nThe defendant proved by Thompson, one of the trustees under the will, that the trustees had received from the executors 'of Hannah Chancellor, deceased, the sum of $25,949.70, on account of Henry Chancellor\u2019s share under the above devise. The witness further testified, that on the 29th of November, 1847, he paid Wharton Chancellor $10,850.70, for money loaned by him to Henry in September, October, and November, 1842, and took Wharton Chancellor\u2019s receipt for said money, as agreeably to the will of Hannah Chancellor; that he did not know whether it discharged the entire indebtedness of Henry to Wharton, but no demand had since been made upon the trustees.\nHenry Chancellor was then called as a witness for the defendant, and testified that the sum paid to Wharton by the trustees discharged his entire indebtedness; including the amount for which the judgment had been given; that the judgment was confessed to cover his entire indebtedness; that he had remained in the possession of the household furniture ever since the sale; that he had paid some rent, but when, or how much or how often, he could not say.\nThe defendant\u2019s counsel requested the judge to charge the jury\n1. That, if the judgment in favor of Wharton Chancellor has been paid by the trustees of Henry Chancellor, the title to the goods sold at sheriff\u2019s sale has revested in Henry, and they are liable to. the defendant\u2019s execution.\n2. That the receipt produced is prim\u00e9 facie evidence of payment in full.\nStroud, J., declined to charge as requested; but, on the contrary, instructed the jury that the title did not revest in Henry Chancellor by the settlement; that the settlement left the title to the property just where it was; that the evidence failed to show any title to the goods levied upon to be in Henry Chancellor, and that they must, therefore, render their verdict for the plaintiff. The defendant\u2019s counsel excepted to the charge.\nIt was assigned for error, 1st .and 2d, that tne Court erred in not instructing the jury as requested in defendant\u2019s 1st and 2d points.\n3. In charging the jury that no title to the goods was proved to he in Henry Chancellor, and that their verdici must be for plaintiff.\n4. In not leaving it to the jury as a question of fact whether the sheriff\u2019s sale to Wharton Chancellor, taken in connection with the will and settlement, was not evidence of an understanding or agreement between Wharton and Henry to prevent the goods from being levied upon by creditors.\n5. In not leaving it to the jury as a question of fact, whether it was the intention of the parties to change the title to the goods by the settlement.\n6. In not instructing the jury that if the sheriff\u2019s sale was a mere security in favor of Wharton Chancellor, until he could be paid the amount of his judgment under the will of Hannah Chancellor, the settlement revested the property in Henry Chancellor.\nWebster and H. M. Phillips, for plaintiff.\nThe cases of Clow v. Woods, 5 Ser. & R. 279; Myers v. Harvey, 2 Pa. Rep. 481; Herron v. Fry, Id. 270, were cited.\nWhatever by operation of law extinguishes the debt, will extinguish the right to the pledge: Story on Bailments, sec. 361; also cited sections 300, 297, 359.\nSome of the errors assigned assume that the title of Henry Chancellor was divested by the sheriff\u2019s sale, and that the law did not operate to transfer the title back to him by reason of the settlement ; but they also present a question of fact and intention to be passed upon by the jury. The intention of the parties to change the title to personal property, on a contract of sale, is a matter for the jury: 2 Kent 513. Also, after a judicial sale the question of fraudulent possession is for them: Id. 519. Also cited 4 Watts 378; 5 Rawle 166.\nIt was therefore contended, either that the goods were the property of Henry Chancellor, or that there was evidence as to the title to be submitted to the jury.\nMcMurtrie, contr\u00e0.\nThe only question submitted was, that payment of Chancellor\u2019s debt revested in Henry the property purchased by his creditor at the sheriff\u2019s sale; but after the verdict another question is raised as to the intention of the parties, as to whether the sale was in reality a sale, or a mere pledge in form of a sale. This is irregular: 5 Barr 490; 7 Id. 103, 492.\nBy the purchase under the execution, the debt, pro tanto, was extinguished. If so, it was not to he paid under the provisions of the will of Mrs. Chancellor; and when the trustees paid it, they did so under a mistake of fact, or breach of trust; and the amount thus paid may at any time be recovered back.\nThe authorities last cited on part of plaintiff in error, are not applicable where a question of fraud, or of intention contrary to legal inference from the acts of the parties, was not raised before the jury.\nJanuary, 1852,"
+  },
+  "file_name": "0195-01",
+  "first_page_order": 197,
+  "last_page_order": 202
+}

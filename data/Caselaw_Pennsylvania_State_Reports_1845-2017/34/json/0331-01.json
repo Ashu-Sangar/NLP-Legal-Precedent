@@ -1,0 +1,98 @@
+{
+  "id": 417999,
+  "name": "Hall et al. versus Logan",
+  "name_abbreviation": "Hall v. Logan",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "331",
+  "last_page": "332",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 Pa. 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 468",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478858
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0468-01"
+      ]
+    },
+    {
+      "cite": "3 Penn. L. J. 225",
+      "category": "reporters:federal",
+      "reporter": "Penn. Law J.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 W. & S. 472",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Marsh. 319",
+      "category": "reporters:state",
+      "reporter": "Marsh.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 191,
+    "char_count": 2375,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 1.3069162721592184e-07,
+      "percentile": 0.6235639606787886
+    },
+    "sha256": "4af22831797e311d22d2cb0e9d3f5dbffa91696fcace8763024598f4e58bc806",
+    "simhash": "1:62259021eb8dd599",
+    "word_count": 435
+  },
+  "last_updated": "2024-02-27T21:55:21.103467+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hall et al. versus Logan."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nThompson, J.\nIn this case, the legal plaintiff was also one of the defendants. At common law, such a suit could not be sustained. No one can, in the same action, be both plaintiff and defendant: 2 Bos. & Pull. 120; 2 Marsh. 319; 6 Taunt. 597 ; s. c. 1 Mast 27; 1 Roll. 176.\nIn McFadden v. Hunt, 5 W. & S. 472, it was decided, that such an action derives no aid from the 1st section of the Act of 1838. That act provides for suits by one firm against another, where some of the partners are members of both firms. This was decided in Miller v. Knauff, in the District Court of Philadelphia, about the same time: 3 Penn. L. J. 225. We are not disposed to change the construction given to the act, and do not think the special entry of the judgment in the case, takes it. out of the rule.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Thompson, J."
+      }
+    ],
+    "attorneys": [
+      "A. M. Watson, for the plaintiff in error,",
+      "Brady Grill, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hall et al. versus Logan.\nThe Act of 14th April 1838 does not empower an individual to maintain an action at law against a firm of which he is one of the partners.\nMcFadden v. Hunt, 5 W. & S. 468, affirmed.\nError to the District Court of Allegheny county.\nThis was an action of assumpsit by Joseph Logan, for the use of John Watt, against Stephenson Hall and Joseph Logan, late copartners under the firm of Hall & Logan, on three non-negotiable notes, amounting to $490, made by the firm of Hall & Logan in favour of Joseph Logan, one of the firm, and assigned to John Watt, the equitable plaintiff.\nOn the trial, the court reserved the point, whether the action was maintainable; and the jury found a verdict for the plaintiff for $589.95, subject to the opinion of the court upon the point reserved. And the court below subsequently gave judgment for the plaintiff, with leave to have execution thereof of the partnership property, if any, of the defendants, but not of the separate property of the defendant Hall, till the accounts should be taken, and the equities settled between the defendants.\nA. M. Watson, for the plaintiff in error,\ncited and relied upon the case of McFadden v. Hunt, 5 W. & S. 468.\nBrady Grill, for the defendant in error.\nIn McFadden v. Hunt, the firm was indebted to McFadden, as a partner. Here, the indebtedness to Logan was not as a partner, but as an individual, for money loaned to the firm ; which distinguishes this case from the one cited. The Act of 14th April 1838 authorizes this suit.-"
+  },
+  "file_name": "0331-01",
+  "first_page_order": 331,
+  "last_page_order": 332
+}

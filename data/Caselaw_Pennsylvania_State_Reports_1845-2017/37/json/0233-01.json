@@ -1,0 +1,127 @@
+{
+  "id": 418949,
+  "name": "Bryar versus Harrison",
+  "name_abbreviation": "Bryar v. Harrison",
+  "decision_date": "1860-11-09",
+  "docket_number": "",
+  "first_page": "233",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Pa. 233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wh. 313",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877886
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/5/0313-01"
+      ]
+    },
+    {
+      "cite": "3 Wh. 281",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833449
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0280-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 130",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856551
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0130-01"
+      ]
+    },
+    {
+      "cite": "4 Wash. C. C. Rep. 299",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 233",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481829
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0233-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 258",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 475,
+    "char_count": 9948,
+    "ocr_confidence": 0.404,
+    "pagerank": {
+      "raw": 3.028752777556407e-07,
+      "percentile": 0.8544025153590036
+    },
+    "sha256": "8972cb2809bf72c2ed486985b73f52375df39c1affb2a1d2ae14af62513dfd16",
+    "simhash": "1:0762c91194469929",
+    "word_count": 1741
+  },
+  "last_updated": "2024-02-27T17:10:02.663304+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bryar versus Harrison."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nStrong, J.\n\u2014 The affidavit of defence does not deny the contract, as set out in the copy of the certificate of deposit filed, and there certainly is nothing illegal in the transaction as it appears upon the face of that paper. No rule of law or of public policy forbade an indemnity to Bryar\u2019s surety. The affidavit, however, avers that it was agreed between the parties that Bryar should sell to Harrison his interest in a liquor store, and that he should have the privilege of selling liquors in said store under the vendor\u2019s license, and that the said sum of one thousand dollars should be deposited with Bryar, to protect him and his surety from any further breaches of his license bond by Harrison, while he sold liquor under the said license. But the affidavit does not aver that this alleged agreement was ever carried out, or that the money for which the suit is brought was in fact deposited with the defendant, under and in pursuance of such an arrangement. If, therefore, the agreement averred was made, and was illegal, it did not necessarily taint the transaction evidenced by the certificate of deposit. It is collateral, and has no necessary connection with it.\nThe affidavit farther avers that the defendant has been notified by the surety in the bond to retain the money deposited until the bond should be cancelled or satisfied, and that he has applied in vain to the Court of Quarter Sessions for an exoneretur. There is no allegation that there was ever any breach of the condition of the bond, nor did the contract stipulate that the defendant\u2019s liability to return the money deposited with him should be complete only when an exoneretur should be entered. The deposit was made to secure Irvine, the surety, against liability. When that ceased, the obligation to return the money was perfect. When it ceased, no matter by what means, or in what way, all the purposes of the deposit had been accomplished. But that liability ceased certainly at the expiration of two years after the license ended, and that was more than two years before this suit was brought. The Commonwealth alone was interested in the' bond, and the statute of limitations stood in the way of any prosecution for misdemeanors which could have worked a forfeiture.\nBesides, the bond was taken under the Act of April 14th. 1855, and that act was repealed by the thirty-fifth section of the Act of March 31st 1856. There could therefore have been no procedure upon the bond, for the Act of 1855, which alone authorized its use, was no longer in existence. It follows that the District Court was right in giving judgment for the plaintiff, notwithstanding the affidavit of defence.\nThe second assignment of error is founded upon a mistake of fact. A second judgment was not given. The entry by the prothonotary in the lien docket was not signing a judgment. It was not the act of the court, but his own act, under the statute of 29th of March 1827, the object of which was to provide means of notice of liens. The judgment was not actually entered until May 10th 1860.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Roberts and Mellon, for plaintiff in error,",
+      "J. B. Hamilton, with whom was B. W. and A. S. Bell, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bryar versus Harrison.\nAffidavit of Defence.\n1. An affidavit of defence should state, specifically and at length, the nature and character of the defence relied on, and should set forth such facts as will warrant the legal inference of a full and legal defence to the plaintiff\u2019s cause of action.\n2. It is not sufficient in such an affidavit to set forth the existence of an illegal contract between the plaintiff and the defendant, unless the latter also aver that it was actually carried out, and is necessarily connected with the plaintiff\u2019s claim.\n3. An affidavit which avers, as a matter of defence, the non-performance of a condition, on part of the plaintiff, which is not contained in nor necessarily connected with the contract, under which the plaintiff seeks to recover, will not be sustained as an affidavit of defence.\nError to the District Court of Allegheny county.\nThis was an action of assumpsit brought by John Harrison against James Bryar, to recover the sum of $1000, with interest, on which the court below entered judgment against the defendant for want of a sufficient affidavit of defence.\nThe case was this: \u2014 On the 4th of December 1855, James Bryar was licensed by the Quarter Sessions of Allegheny county to sell and retail vinous and spirituous liquors for one year under the Act of April 1855, and gave bond with warrant of attorney in the sum of $1000, conditioned for the faithful observance of all the laws of the Commonwealth relating to the business of vending such liquors, with William Irvine as his surety. This bond was approved by the court and filed.\nOn the 7th of March, John Harrison purchased the store and stock of liquors, and, as was averred, the license also for a specified sum, at which time, for the purpose of indemnifying Bryar and his surety, against the consequence of any breach of the license laws, during the time for which he had been licensed, Harrison deposited with Bryar $1000, and took from him the following writing:\u2014\n\u201c Pittsburgh, March 7th 1856.\n\u201c Received of John Harrison one thousand dollars, to be held as indemnity for William Irvine, surety in a certain bond given to the Court of Quarter Sessions of Allegheny county, under what is commonly known as the \u2018Pennsylvania Restraining Liquor Law.\u2019 The said one thousand dollars is to be returned to the said Harrison as soon as the said Irvine is released from all liability, by reason of his being the said surety.\n\u201c Signed, Jambs Bryar.\u201d\nWitness: Wm. Bennett.\nOn the 19th of January 1860, Harrison brought this action against Bryar to recover back the $1000 with interest, filing, with his precipe, a copy of the above contract, and an affidavit of his claim, under the rules of court, relative to affidavits of cause of action and of defence. He also filed a declaration with a special count on the contract and the common money counts.\nOn the 28th of May 1860, the defendant filed the following affidavit:\u2014\n\u201c James Bryar, the defendant above named, being duly sworn according to law, saith that he has full and. legal defence to the whole of plaintiff\u2019s claim, as he very believes, and for specification thereof, he says that on the 14th day of December 1855, at No. 55 in the Court of Quarter Sessions of Allegheny county, the said court granted affiant a license to sell wines and spirituous liquors, under and by virtue of the Act of Assembly, entitled \u2018An Act to restrain the sale of intoxicating liquors,\u2019 approved April 4th 1855, for the term of one year next ensuing, at affiant\u2019s house, No. 31 Diamond Alley, Pittsburgh; that in pursuance of the provisions of said Act, affiant, with one William Irvine as his surety, executed and filed of record, in said court, a judgment bond, in the penal sum of one thousand dollars, conditioned for the faithful observance of all the laws of this Commonwealth, relating to the sale of intoxicating liquors.\n\u201c Affiant further saith, that he commenced business at his said store, and sold liquors under said license, until the 7th day of March 1856, at which time it was agreed by and between said plaintiff and affiant that the affiant should sell said plaintiff his interest in said liquor store, and that the said plaintiff should have the privilege of selling liquors in said store under the license aforesaid, and that the said sum of one thousand dollars, mentioned in said writing, should be deposited with the affiant, to protect him and the said William Irvine from any further breaches of said bond, by the said Harrison, while he sold liquors under the license aforesaid. That said Irvine hath notified affiant to retain said money until the said judgment bond is cancelled or satisfied. That said plaintiff hath made application to the Court of Quarter Sessions of said county to have an exoneretur entered on said bond, and said court hath hitherto refused to do so.\u201d\nOn the 7th of May 1860, on motion of the plaintiff, the defendant was ruled to show cause why judgment should not be entered for want of a sufficient affidavit of defence, which was made absolute on the same day, and the sum liquidated by the prothonotary at $1000.\nOn the 10th of May 1860, judgment for want of a sufficient affidavit of defence was entered, and the sum due liquidated at $1201.66.\nThe defendant below thereupon sued out this writ and assigned for error:\u2014\n1. The court below erred in entering judgment against plaintiff in error, in default of a sufficient affidavit of defence, on the 7th day of May 1860.\n2. The court below erred in entering a second judgment, in same cause, against plaintiff in error, on the 10th May 1860, in default of a sufficient affidavit of defence.\nRoberts and Mellon, for plaintiff in error,\nwho was defendant below, argued: \u2014 1. That the contract to transfer the stock and license to Harrison was in violation of law, and could not be enforced; citing the Act of 1855; Coleburne v. Stockdale, 1 Strange 493; Hopkins v. Prescott, C. C. B. 478; Dury v. Defontaine, 1 Taunt. 136; Levy v. Yates, 8 A. & E. 129; Staines v. Wainright, 6 Bing. N. C. 178; Wheeler v. Russell, 17 Mass. 258; Col. B. K. & Bridge Co. v. Haldeman, 7 W. & S. 233; 4 Wash. C. C. Rep. 299.\n2. Bryar had the right to retain the money until an exoneretur was entered on his license bond; this the Quarter Sessions had refused to do on application: Case v. Roberts, 1 Holt 500; Kerr v. Osborne, 9 East 378.\n3. There are two judgments for the same claim; one for $1000 and another for $1201.66. There can be but one final judgment in a personal action: O\u2019Neal v. O\u2019Neal, 4 W. & S. 130; Brazier v. Banning, 8 Harris 345.\n4. The affidavit was sufficient. It averred facts from which legal interference could be drawn: Stitt v. Garrett, 3 Wh. 281; Roberts v. Austin, 5 Wh. 313.\nJ. B. Hamilton, with whom was B. W. and A. S. Bell, for defendant in error.\nNovember 9th 1860,"
+  },
+  "file_name": "0233-01",
+  "first_page_order": 233,
+  "last_page_order": 236
+}

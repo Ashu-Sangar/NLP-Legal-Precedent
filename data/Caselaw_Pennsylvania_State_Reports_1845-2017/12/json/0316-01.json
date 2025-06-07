@@ -1,0 +1,79 @@
+{
+  "id": 963729,
+  "name": "Commonwealth v. Watmough",
+  "name_abbreviation": "Commonwealth v. Watmough",
+  "decision_date": "1849-12",
+  "docket_number": "",
+  "first_page": "316",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 316"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 W. & S. 9",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856489
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0009-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 4949,
+    "ocr_confidence": 0.389,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41050713767482194
+    },
+    "sha256": "f2cc19a8be7116c4edb3e040acc3e0e4c1b28ff8421c5f7b3669401a00854ea1",
+    "simhash": "1:ac7d37b67f5fc435",
+    "word_count": 849
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth v. Watmough."
+    ],
+    "opinions": [
+      {
+        "text": "Jan. 12.\nBurnside, J.\n(after stating the case.)\u2014We concur with the learned judge that Hatfield was bound to give notice of his assignments and claini to the sheriff. It'is said, the mortgage was notice with the guarantee of Andrew Zeiss. When the original bond and mortgage was exhibited to the sheriff, they gave no notice of any interest or claim of Hatfield. The records of the Orphans\u2019 Court did not show that they had authorized any transfer. Sarah Ann and Mary were of full age when they sold to Hatfield, and the question of their being of full age was clearly in evidence and fairly submitted to the jury. On their coming of age, the power and duties of the Orphans\u2019 Court over their property and persons were at an end. Counsel for the creditors, as well as for the heirs of Zeiss, who was then deceased, were present when the sheriff undertook to distribute the proceeds of the sale, without the aid of the Court. The law imposed upon the sheriff diligence, correctness, and fairness in that distribution; but these assignments gave no legal constructive notice to the sheriff, and Hatfield ought to have given actual notice to the sheriff of his claim, as neither the record nor the original bond or mortgage exhibited any claim of Hatfield. If actual notice had -been given, the sheriff no doubt would, have brought the money into Court, and the Court would have appointed an auditor who would have heard the claimant. It has been ruled that where there are several plaintiffs and no notice to .the sheriff, payment may be made to either: Lazarus v. Yolmer, 4 W. & S. 9. It is also ruled that payment to the obligee who has assumed the bond without notice to the obligor, is good against the assignee: Berry v. Hardman, 4 S. & R. 167. If the plaintiff has sustained a loss, he owes it to his negligence.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Miles, for plaintiff in error.",
+      "Williams, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Watmough.\nMortgage and bond to guardian, under sanction of Orphans\u2019 Court, to secure money of Ms wards, with a stipulation that it should not be paid or satisfied, without the consent of the Orphans\u2019 Court. The wards coming of age, assigned their interests to a stranger, by recorded deeds, separate from the mortgage and bond. A sheriff\u2019s sale of the mortgaged premises was then made, and the proceeds paid to the guardian: Held,\n1. The assignment passed the interests of the wards.\n2. The sheriff was not liable to the assignee, not having actual notice of the transfer.\nIn error from the District Court of Philadelphia.\nDee. 10. Debt on the official bond of the sheriff: the question being whether the sheriff was liable to the plaintiff, as assignee of a mortgage, for the proceeds of a sheriff\u2019s sale discharging the land from the lien.\nOn the trial before Jones, J., it appeared that in 1832 one Hudson executed a mortgage to Zeiss, guardian of Sarah, Mary, Elizabeth, William, and Andrew Zeiss, minor children of the mortgagee, to secure a bond for the money of said minors loaned by the guardian, \u201c with the express understanding that this mortgage, and the obligation herein recited, shall not be assigned and transferred, paid or satisfied, without the consent of the Orphans\u2019 Court of .Philadelphia.\u201d\nThis security was approved by the Court.\nAfter Sarah and Mary Zeiss came of age, they executed deeds assigning their interest in the mortgage and the debt thereby secured to the plaintiff. These assignments were not endorsed upon the bond or mortgage, and were recorded. The guardian also guarantied the payment to the plaintiff of the interest and principal of the shares thus assigned.\nAfter the recording of the assignments a judgment was obtained which was a lien on the mortgaged premises, and under it an execution issued, on which there was a sheriff\u2019s sale which discharged the lien of the mortgage.\nThe sheriff having no actual notice of the assignments above mentioned, paid the proceeds of the sale to Zeiss, the guardian, who receipted for it. There was some evidence that the original mortgage had been produced in the sheriff\u2019s office, and, on the trial, exemplifications and not originals were produced.\nThe learned judge told the jury, that, if the sheriff distributed according to law, lie was protected. The recording of the assign-' ments was not notice to him of the transfer, and, there being no evidence of actual notice, the defendant was entitled to a verdict..\nMiles, for plaintiff in error.\nThe stipulation in the mortgage that it should not be paid without an order of the Orphans\u2019 Court, was sufficient notice to the sheriff to require an application to some Court to make distribution after notice. The receiver had no right whatever by the express terms of the instrument; he cannot therefore be considered as an ordinary mortgagee.\nWilliams, contr\u00e0.\nThe stipulation ceased to operate after the wards came of age, as the Court had no further power to control the fund, and the mortgagee became a simple trustee, and of course entitled to receive the fund."
+  },
+  "file_name": "0316-01",
+  "first_page_order": 316,
+  "last_page_order": 318
+}

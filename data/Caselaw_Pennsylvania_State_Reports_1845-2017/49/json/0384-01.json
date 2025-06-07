@@ -1,0 +1,79 @@
+{
+  "id": 998544,
+  "name": "Schick versus Pharo",
+  "name_abbreviation": "Schick v. Pharo",
+  "decision_date": "1865-05-15",
+  "docket_number": "",
+  "first_page": "384",
+  "last_page": "386",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Pa. 384"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 473",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478782
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0473-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 367,
+    "char_count": 6482,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 6.89516513629939e-08,
+      "percentile": 0.4191804232601978
+    },
+    "sha256": "0488c38bf9067fe6dae2bb17a7ccef515699f321859ff32525d5a18fe53d9145",
+    "simhash": "1:fc49b006d44ab9dd",
+    "word_count": 1125
+  },
+  "last_updated": "2024-02-27T21:13:48.159806+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schick versus Pharo."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, C. J.\nCampbell & Pharo claimed an issue before the auditor and filed their affidavit to contest the validity of Schick\u2019s judgment. The court awarded the issue which resulted in setting aside the judgment as to Campbell & Pharo, but not as to the other creditors of Schmitt who remained inactive. Yet the decree was that Vanderbelt & Ottinger, as well as Pharo, the surviving partner of Campbell & Pharo, should have the benefit of the verdict. Herein there was manifest error. The decree was right as to Pharo, whose proceedings were regular, but were wrong as to the creditors who took no part in them and asked for no issue. See opinion in Schick\u2019s Appeal herewith filed.\nThe decree is affirmed so far as it relates to the claim of Allen R. Pharo, surviving partner of Campbell & Pharo, with costs, but is reversed in so far as it relates to the claims of John Vanderbelt and Charles Ottinger; and the record is remanded for further proceedings.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "Byron Woodward and Creo. W. Biddle, for plaintiff in error.",
+      "Amos Briggs, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Schick versus Pharo.\nFraudulent judgment only void as against contesting creditor.\nIn a feigned issue to ascertain the validity of a judgment as against creditors, the verdict and decree thereon enures only to the benefit of the contesting creditor.\nThis was a feigned issue awarded on tbe distribution of the proceeds of the sheriff\u2019s sale of the real estate of Henry Schmitt.\nThe fund in court was $610, which M. A. Dropsie, Esq., was appointed to distribute.\nThe mechanics\u2019 lien creditors \u201c alleged that the judgment confessed by Henry Schmitt to Charles Schick was fraudulent and given without consideration.\u201d Mr. Schick\u2019s counsel took the ground that, under the decisions of the Supreme Court, the auditor had no power to inquire into the validity of the judgment. That all hecould.do was to suspend or adjourn the audit if requested by the lien-creditors, to allow them to apply to the court for an issue to test the validity of the judgment. The auditor took this view o'f the case, but as the lien-creditors did not ask him to suspend the audit, he awarded the fund to Mr. Schick, the appellant, on his judgment.\nAfter closing the audit Campbell & Pharo, lien-creditors, demanded an issue to try the following facts, viz :\u2014\n1. Whether the said judgment in favour of said Schick against said Schmitt in the Supreme Court of January Term 1861, No. 129, for $19,500, was confessed by said Schmitt to the said Schick without consideration.\n2. Whether the said judgment was confessed by the said Schmitt to and received by the said Schick for the purpose of hindering, delaying, and defrauding the said Campbell & Pharo and other creditors of the said Schmitt.\n3. Whether the balance of said judgment if any has been paid.\n4. Whether the claim of said Campbell & Pharo upon said fund is prior and preferred to that of said Schick.\nCharles Ottinger filed exceptions to the report of the auditor to the effect that the auditor erred in deciding that he had no right to inquire into the validity of the lien of the judgment of Charles Schick, and in awarding the fund to Charles Schick, instead of the mechanics\u2019 lien creditors.\nJohn Yanderbelt, the remaining mechanics\u2019 lien creditor, neither claimed an issue nor filed exceptions.\nThe court below (Sharswood, P. J.) sustained the exceptions, delivering the following opinion:\u2014\n\u201c The auditor in this case has, with hesitation, followed some dicta and decisions of the Supreme Court, that a judgment cannot be collaterally attacked for fraud before an auditor. Our practice is different. We do not understand that court ever to have held that in one court a judgment of another court cannot collaterally be impeached for fraud, or that in one case a judgment in the same court in another case cannot be collaterally attacked on the same ground. On the contrary, no point of law can be better settled by themselves than that, and it is of constantly recurring application: Hauer\u2019s Appeal, 5 W. & S. 473; Baird v. Campbell, 4 Id. 191; Drexel\u2019s Appeal, 6 Barr 272; Dickinson\u2019s Appeal, 7 Id. 257; Johnson\u2019s Appeal, 9 Id. 416. Now if such a question of fact can be raised and decided in court, why not before an auditor ? A court may establish, as a matter of practice, that their auditors, who are officers of that court subject to their orders, shall not take cognisance of such questions, but that is a mere matter of discretion. The party before an auditor has his right to demand his issue and trial by jury, but if he choose to submit the question to the auditor we see no reason why he should not be allowed to do so, as well as any other question of fact, whether of fraud or anything else. Our practice has always been different, and we have refused, where a controversy upon the lona fides of one of our judgments has arisen in another tribunal, to permit a stranger to come in, and even open or set aside a judgment or have an issue to decide whether it is good as against him. Upon such an issue we could give no judgment \u2014 issue no execution. The fraudulent judgment being perfectly good between the parties must stand a valid judgment of this court, no matter how fraudulent it may be as to third parties: Rowland\u2019s Estate, 7 Penna. Law Jour. 312. Exception sustained.\u201d\nAfter the trial of the issue asked for by Mr. Pharo, the following decree was made:\u2014\n\u201c And now, December 24th 1864, the issue awarded by the court, in the above case, having been tried, and verdict rendered for the plaintiff, on the first issue, on the motion of Amos Briggs, for the plaintiff in the issue, the court order, adjudge, and decree that the costs of said trial be deducted from said fund in court, and the claims of John Vanderbelt, Charles Ottinger, and Allen R. Pharo, surviving partners, &c., and the balance thereof, as reported by the auditor, be respectively paid to them or their respective attorneys, and the balance of said fund to the said Charles Schick.\u201d\nThis writ was then sued out, and the following matters assigned for error:\u2014\n1. The court below erred in not dismissing the exceptions to the auditor\u2019s report and confirming the same absolutely.\n2. In distributing or awarding a portion of the fund to John Vanderbelt.\n3. In distributing or awarding a portion of the fund to Charles Ottinger.\n4. In distributing or awarding a portion of the fund to Allen R. Pharo.\n5. In making the decree of December 24th 1864.\nByron Woodward and Creo. W. Biddle, for plaintiff in error.\nAmos Briggs, for defendant in error.\nMay 15th 1865,"
+  },
+  "file_name": "0384-01",
+  "first_page_order": 386,
+  "last_page_order": 388
+}

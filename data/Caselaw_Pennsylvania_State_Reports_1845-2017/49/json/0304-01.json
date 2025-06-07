@@ -1,0 +1,105 @@
+{
+  "id": 998538,
+  "name": "Appeal of Catherine E. McCann",
+  "name_abbreviation": "Appeal of McCann",
+  "decision_date": "1865-03-23",
+  "docket_number": "",
+  "first_page": "304",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Pa. 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall. 136",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12135312,
+        1408428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0136-01",
+        "/us/1/0141-01"
+      ]
+    },
+    {
+      "cite": "4 Whart. 9",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0009-01"
+      ]
+    },
+    {
+      "cite": "2 Dall. Rep. 308",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pet. 662",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 818,
+    "char_count": 17428,
+    "ocr_confidence": 0.454,
+    "pagerank": {
+      "raw": 3.925029990281027e-07,
+      "percentile": 0.9027896993222385
+    },
+    "sha256": "d77713395e3e670338d9bad229e13e2709cea769897054dc92e8dd305ebff4cf",
+    "simhash": "1:2c2fd38e3e3ca73e",
+    "word_count": 2988
+  },
+  "last_updated": "2024-02-27T21:13:48.159806+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Appeal of Catherine E. McCann."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nWoodward, C. J.\nThe appellant, a young lady of seventeen years of age, with an estate of fifteen thousand\u2019 dollars and upwards, petitioned the Orphans\u2019 Court for leave to ch'oose a guardian, and nominated a gentleman who is described in the accompanying affidavit as a person of entire fitness for the trust.\nThe matter was heard by the Orphans\u2019 Court, and the petition refused; whereupon this appeal was taken.\nThe 5th section of the Act of March 29th 1832, Purd. 278, commits the care of the persons and estates of minors to the Orphans\u2019 Court of the county within which the minor resides, and that court has \u201c power to admit such minors, when and as often as there shall be occasion to make choice of guardians, and to appoint guardians for such as they shall judge too young or otherwise incompetent to make choice for themselves.\u201d\nA legal discretion is thus vested in that court, and if there should be a refusal to exercise it, we might compel its exercise, but where it appears, as it does here, to have been exercised, is it reviewable in this court ?\nWe think not. \u2019 We know of no statute or rule of judicial procedure which would justify us in rejudging the discretion of the Orphans\u2019 Court in such a matter.\nIt does not appear from the record on what ground the court refused to admit the petitioner to choose a guardian, but counsel tell us it was because the proposed guardian was not of the same religious faith as the parents, and that the court construed the proviso of the section above referred to as applicable to minors over fourteen years of age, as well as to minors under that age.\nThis construction of the proviso is combated, and it is saia to be applicable only to guardians appointed for minors under fourteen years of age. We do not mean to decide the question, but even if the court were wrong in their construction, which we neither affirm nor intimate, their discretion might nevertheless be legitimately influenced by the fact that both of the deceased parents of the petitioner were members of the Roman Catholic Church, and that the mother, through whom the estate came to the petitioner, wrote these words in her will: \u201c It is my will that my children be all brought up and educated as strict Roman Catholics, so that they may possess and be practical in the observance of the religion of their parents.\u201d In view of this provision of the will, and of the fact that the guardians named in the will, and appointed by the Orphans\u2019 Court before the petitioner attained fourteen, would retain their authority until the minor arrives at twenty-one, unless superseded, the court may well have thought that there was no \u201c occasion\u201d for choosing another guardian. If a judicial discretion were not to be exercised in such cases, the power would not have been vested in a judicial tribunal. But having been exercised by the very tribunal to which it was specially delegated, we have no power, and certainly no inclination, to substitute our discretion for that which the law has provided, and which we are bound to presume was exercised rightly.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "John A. Owens, for appellant.",
+      "Eli K. Price, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Appeal of Catherine E. McCann.\nAppointment of guardians for minors, solely within the discretion of the Orphans\u2019 Gourt.\nThe legal discretion of the Orphans\u2019 Court in the appointment of guardians of the persons and estates of minors, is not subject to review by a court of error.\nAppeal from the Orphans\u2019 Gourt of Philadelphia.\nThis was an appeal by Catherine E. McCann, a minor over the age of fourteen years, from the decree of the Orphans\u2019 Court, refusing to permit her to choose a guardian.\nOn the 13th of October 1864, the petition of Catherine E. Mc-Cann was filed in the Orphans\u2019 Court, setting forth that she was seventeen years of age, was the inheritrix of an estate amounting to between $15,000 and $20,000, then and now in the custody of John B. Colahan, Esq., who was appointed her guardian on the 15th of September, A. D. 1854, she then being seven years of age. That at the time of his appointment, security under the order of the court was entered by Christopher Fallon, Esq., in the sum of $28,000; that Mr. Fallon had since died insolvent, and that the estate was in consequence without any security whatever. Upon which state of facts she prayed permission to choose a guardian, nominating John P. Levy, Esq., as her choice in that behalf. To this was appended the usual affidavit respecting the entire fitness of Mr. Levy for the trust.\nThe answer of the guardian Mr. Colahan, admitted that on the 15th of September 1854, he was appointed guardian of petitioner, she being then under the age of fourteen years, and now over that age. That the father of petitioner was Bernard McCann, and her mother Catherine McCann, both members of the Catholic church, deeply attached to its faith and worship, and anxious that their children should be brought up in the same faith and worship. The father died first, and the mother on the 24th July 1854, having made her last will and testament, which was duly admitted to probate, by which she appointed her father, Isaac Jones, and Mark Anthony Frenaye, executors, and bequeathed all her estate to her three children, and if any of them should die under full age unmarried and without issue, gave her share to the survivors of them, and if but one survivor, such survivor was to take the whole; and she appointed her father, Isaac Jones, and John B. Colahan, guardians of her children, adding these words: \u201c It is my will that my children be all brought up and educated as strict Roman Catholics, so that they may possess and be practical in the observance of the religion of their parents.\u201d\nThat when the executors settled their accounts they passed over the estate of said testatrix unto the persons 'named as guardians in said will, and took credit for such payment to the said guardians, which was allowed by the auditor and this court, but the principal was directed to be held by the respondent as guardian duly appointed by this court, and the securities now stand in his name for the surviving children.\nThe respondent submitted for the consideration of the court whether by said will he and Isaac Jones were not made testamentary trustees, under the mistaken name of guardians, by reason of said limitations over of her estate to survivors and survivor, requiring a trust to subserve said limitations, and also by reason of the further clause imposing duties upon them of a trust character in relation to their estates, namely: \u201c Item. It is also my will that the portion which each of my children shall receive from my estate (as well as from the estate of their father, the said Bernard McCann), should, during their minorities, respectively be invested by their guardians, or the survivor of them, on account of each child, separately, with such accumulation in the way of interest as may arise therefrom, in good and safe securities, according to their or his best judgment, reserving such parts only of the interest thereon as might be deemed requisite to defray the education and maintenance of my said children respectively.\u201d\nThat said estate has been invested and managed principally in accordance with the directions of said will, such investments being made in securities authorized by law and generally approved by this court, and are now so held with increase by interest accumulated without the loss of one dollar.\nThat it was due to the earnest desire of the testatrix and of the law that any guardian the court may appoint should be of the same religious persuasion as that of the minors\u2019 parents.\nThe respondent further averred that said ward has hitherto been kept by him, and her expenses of boarding paid, with her grandparents, the parents of her mother, as a suitable place for her; and that he apprehends a purpose of the proposed change of guardians is to remove her from under the care of her grandparents, a step which he deems of imminent peril at an age so inexperienced, and attended also with danger to her estate.\nThe matter was heard on petition and answer, and the court refused the prayer of the petitioner; the Hon. Oswald Thompson, P. J., delivering a short opinion, setting forth that, in the judgment of the court, the Act of 1832, \u00a7 5, prohibited the Orphans\u2019 Court permitting a minor over fourteen years of age to choose any one, however in other respects competent and respectable, his or her guardian, if such person belonged to a denomination of Christians different from that of the minor\u2019s deceased parents.\nWhich 'was the error assigned here by the appellant.\nJohn A. Owens, for appellant.\nThe question in this case is, whether any human authority may limit the extent of conscientious religious investigation in the state of Pennsylvania ? The appellant is a young lady of past seventeen years of age, and mentally quite as much matured as the majority of males become at twenty-one. In mind and temperament she is devotional, and has for some time been an earnest seeker after religious truth. Can it be that a stranger (for Mr. Colahan is no more), one not a kin to her, or connected with her family, can appear and control her wishes respecting her choice of his successor ?\nThe Orphans\u2019 Court, it is submitted, are in error in supposing he can. The learned president judge conceded that the gentleman whom Miss McCann had chosen as her guardian was respectable, responsible, and fitted to intelligently carry out such a delicate trust; but he conceived that the 5th section of the Act of Assembly, approved March 29th 1832, was intended to extend to all applications for guardians, whether guardians appointed by the court, or guardians selected by the minor. This seems to be the pivot upon which the decision turns. The section of the act is as follows, viz.:\u2014\n\u201c The Orphans\u2019 Court of each county shall have the care of minors residing within such county, and of their estates, and shall have power to admit such minors, when and as often as there shall be occasion to make choice of guardians \u2014 and to appoint guardians of such as they shall adjudge too young, or otherwise incompetent to make choice for themselves: Provided, that persons of the same religious persuasion as the parents of the minors shall in all cases be preferred by the court in their appointments, and such appointments or admission of a guardian of the Orphans\u2019 Court of the county in which such minor resides, shall have like effect in every other county.\u201d Legislative acts are to be interpreted according to the intention of the legislature apparent on their face: Wilkinson v. Leland, 2 Pet. 662. The distinction between the \u201c appointment\u201d by the court and the choice by the minor is thus carefully maintained.\nThe preference for the element of religious coincidence between the parents and the proposed guardian is to be that of the \u201ccourt\u201d in its \u201c appointment,\u201d but there is no such restriction placed upon the \u201c choice\u201d of the infant.\nIt is, therefore, only affixing a rational construction upon the act to conclude that the legislature never intended to confer upon the Orphans\u2019 Court any restrictive power over the religious proclivities of the infant, but simply meant to provide against the eradication of such devotional instincts of childhood as spring from the early and natural sympathies of filial love and earliest habit, up to the period when imitation emerges into intelligent volition, and from the passive recipients of the ideas of others, they become beings of reason.\nI take this view of the act by looking at it in the light of the federal and state constitutions. It is in harmony with the assertion that \u201c all men have a natural and indefeasible right to worship God according to the dictates of their own conscience,\u201d and that \u201c no human authority can, in any case whatever, control or interfere with the rights of conscience.\u201d Otherwise the act would be unconstitutional, for not only is a legislative act opposed to a constitutional provision invalid, but that \u201c which opposes a constitutional principle also is void:\u201d Van Horne v. Dorrance, 2 Dall. Rep. 308. Absolute religious liberty is the seminal principle of our institutions. We find it in the Constitution of the United States; in the Constitution of Pennsylvania ; in the charter granted to George Calvert, Lord Baltimore; in Protestant Rhode Island, and in our own state, in the charter of privileges prepared by William Penn. .\nUnder the Act of 1832, in the matter of \u201c appointments\u201d of guardians by the court, while the minor is under fourteen years, the court should select some person of the religious belief of the infant\u2019s parents; but that when that age is passed, their duty is to \u201cadmit\u201d the minor to select any otherwise competent person he or she chooses, without reference to their religious belief. Nicholson\u2019s Appeal, 8 Harris 56, recognises the principle we invoke in determining that in the absence of restraint upon the minor\u2019s conscience a difference of religious opinion is not a sufficient cause to remove a guardian. See also Lee\u2019s Appeal, 3 Casey 229; Commonwealth v. Farley, 4 Penna. Law J. 396.\nThe refusal to permit choice of a guardian belonging to a religious denomination of Christians, entertaining spiritual views in unison with those of a minor, is an interference with the rights of conscience.\nThis matter involves a principle that to-day affects a Protestant, and to-morrow may touch a Catholic, and should be determined without reference to the particular grievances of a particular case. The appellant therefore presents the subject broadly, and with a view to its determination by the Supreme Court.\nAs to appellee\u2019s authorities: \u2014 Nicholson\u2019s Appeal is the case of minors under fourteen \u2014 this appellant is over seventeen. Ex parte Krause is irrelevant. It was a question of summary commitment under a jurisdiction duly created by Act of Assembly. Senseman\u2019s Appeal sustains our right of appeal, for the question here involved is a pure question of law. Graham\u2019s Appeal also relates to minors under fourteen years of age, and the legal discretion defined includes among its elements the orphan\u2019s own approval and the selection of a person of the orphan\u2019s own faith. Besides, the construction claimed by the appellee would compel the appellant to \u201cattend and support\u201d an establishment where religious rites opposed to those of .the faith entertained by the minor form a part of the educational discipline, in contravention of the 3d section of the Bill of Rights of Pennsylvania.\nThe appellant, being over seventeen years of age, might legally become an executrix, or choose a husband. Then why not a guardian ?\nEli K. Price, for appellee.\nThe fact that the ward proposed to the court below to choose a guardian not of her parents\u2019 religious persuasion is not mentioned in the appellant\u2019s paper-book, yet that was the ground on which the decision below was made.\nThere had been no attempt by the guardian to coerce or even influence the choice of the ward as to her religious opinions, except it be inferred from his placing her at a Catholic school to receive her education; and that he allowed her to remain with her maternal Protestant grandparents, after the decease of 'both her own parents, is proof that he used no coercion as to her conscientious convictions. Yet the Act of Assembly cited by the appellant must have been passed with the purpose that his influences in choosing a school for her, &e., should favour the education of the ward in the religious persuasion of her parents. If the act be wrong, it is for the legislature to alter or repeal it, not for the court to disregard it. But it is an act that commends itself to.the heart of every parent, that all influences properly exerted shall tend in the direction of preserving the child in the religious persuasions of her parents. This does not require coercion, and here none was used.\nThis court has not yet condemned this provision of law as obsolete or oppressive, but has said, \u201c the law which forbids the appointment of a guardian whose religious faith differs from that of the parents should be most strictly obeyed, whenever it is practicable, for reasons so many and so obvious that they need not be repeated:\u201d Nicholson\u2019s Appeal, 8 Harris 54.\nA minor, for her own good, is subjected to considerable parental authority, should be to some influence on the part of the guardian, and is also liable to a judicial control. A father may by will appoint a guardian that shall last until the ward becomes of age, leaving no choice whatever to the ward. The court controls the choice made by a child of her guardian, and the court may place her in the Refuge, even against the parental consent: Ex parte Krause, 4 Whart. 9.\nThe Orphans\u2019 Court is to judge of the fitness of the person proposed for the guardian, and from its judgment in selecting a guardian it can be rejudged only when it disregards a positive rule of law: Senseman\u2019s Appeal, 9 Harris 834.\nThe Orphans\u2019 Court have a discretion in the appointment not reviewable, except it be in not observing the injunction now in question, to appoint a guardian of the same religious persuasion: Graham\u2019s Appeal, 1 Dall. 136.\nA minor over fourteen makes a choice, but that choice avails nothing until the Orphans\u2019 Court approves it and makes vthe appointment; and if no law be disregarded by that court, its decree is not reversible.\nMarch 23d 1865,"
+  },
+  "file_name": "0304-01",
+  "first_page_order": 306,
+  "last_page_order": 312
+}

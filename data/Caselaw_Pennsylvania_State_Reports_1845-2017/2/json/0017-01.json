@@ -1,0 +1,79 @@
+{
+  "id": 951183,
+  "name": "Wilson v. Clarion County",
+  "name_abbreviation": "Wilson v. Clarion County",
+  "decision_date": "1845-09",
+  "docket_number": "",
+  "first_page": "17",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Rawle, 40",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820619
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0040-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 252,
+    "char_count": 3499,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 1.644675655617734e-07,
+      "percentile": 0.6916694757107461
+    },
+    "sha256": "82f185e4d3f37ab425ecdbc66277477a42e077d0287afc545acc1cd7c0d3acb4",
+    "simhash": "1:6a6d0ee5a6ce46fe",
+    "word_count": 600
+  },
+  "last_updated": "2024-02-27T19:40:07.026284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wilson v. Clarion County."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\n\u2014 The sixth section of the act of the 16th April, 1840, Pamphlet Laws, 411, provides, \u201cThat no person shall be excluded from being a witness or juror in any suit, prosecution, or proceeding, in which any county, city, incorporated district, borough, or township, is a party, or is interested, by reason of such person being or having been an officer, rated citizen or inhabitant in such county, city, district, or borough, or township, or owning assessed or taxable property, or being liable to the assessment or payment of any tax therein.\u201d\n[His honour here stated the case.] If tlie auditors intended to charge the commissioners with this sum overpaid, it is a strange way of doing it. It is not in accordance with the 48th section of the act of the 15th April, 1834, which authorizes them \u201c to audit, settle, and adjust the accounts of the commissioners, treasurer, sheriff, and coroner of the county, and make report to the Court of Common Pleas of such county, together witir a statement of the balance due to or from such commissioner, treasurer, sheriff, or coroner. Auditors have ample powers. It is a pity the Clarion auditors did. not read the act of Assembly giving them those powers before they proceeded to perform their duties. Where a person is in default to a county, he ought to be summoned before the auditors and have a hearing, (unless he makes default after being duly summoned.) They shall then state the account, debtor and creditor, on the improper act of the commissioners in allowing a claim or in overdrawing, and charging them with the same, which is made a part of their report to the Common Pleas, to be filed among the records of that court, and has the effect of a judgment. The commissioners have sixty days to appeal. If no appeal is entered, an execution may issue. I am unable to discover that the commissioners had any personal interest in the verdict, and the act of Assembly makes persons in, or having been in office, witnesses, and renders them competent.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Purviance, for plaintiffs in error,",
+      "Gilmore, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Wilson v. Clarion County.\nUnder tlie act of April 15, 1834, to give to' tlie report of county auditors of a balance due by the commissioners, &c., the effect of a judgment, the officer charged must bo summoned to appear at the audit.\nSemble these proceedings must be made a part of the report.\nError to the Common Pleas of Clarion county.\nThe county of Clarion brought assumpsit for money had and received by Wilson and others. The claim was for the difference between the actual cost of scrip purchased for the county, and the price charged. But one point was made here, whether the commissioners were competent witnesses under the following circumstances. They made thA contract with the defendants. The county auditors certified a statement of the accounts of the county treasurer, in which, in the list of outstanding debts due the county, was a charge against the commissioners individually for an over-payment to the defendant for procuring this scrip. The defendants relied on this, there having been no appeal, and the time therefore having elapsed, to exclude the witnesses as incompetent, on the ground that this balance was a personal judgment under the act of Assembly, and that success in this action would discharge them. The court admitted them, and this was the error assigned.\nPurviance, for plaintiffs in error,\nreferred to the act of April 15, 1834, Purdon\u2019s Digest, 192.\nGilmore, contra,\ncited the act of March 16, 1809, sect. 2; 2 Rawle, 40."
+  },
+  "file_name": "0017-01",
+  "first_page_order": 17,
+  "last_page_order": 18
+}

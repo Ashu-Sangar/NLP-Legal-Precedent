@@ -1,0 +1,115 @@
+{
+  "id": 970627,
+  "name": "Murray versus Haslett",
+  "name_abbreviation": "Murray v. Haslett",
+  "decision_date": "1852-10-11",
+  "docket_number": "",
+  "first_page": "356",
+  "last_page": "359",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Pa. 356"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Watts 275",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846023
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0275-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 293",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pa. Rep. 475",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pa. Rep. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Watts 333",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844050
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/5/0333-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Rep. 475",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 368,
+    "char_count": 7353,
+    "ocr_confidence": 0.424,
+    "pagerank": {
+      "raw": 7.181100842601303e-08,
+      "percentile": 0.4298235148072339
+    },
+    "sha256": "af6479e64dbe84284ad1cf93d902c2553e7cbda8792519716735204ecb89301e",
+    "simhash": "1:d26f852d30494b38",
+    "word_count": 1320
+  },
+  "last_updated": "2024-02-27T20:05:14.446167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Murray versus Haslett."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nLowrxe, J.\nSamuel Haslett sued George Warner before a justice of the peace, and obtained judgment against him, and thereupon Warner appealed, and Bertram Murray became his bail \u201c in the sum of $35, on condition that the defendant should appear at the next Court of Common Pleas to prosecute his appeal with effect.\u201d Warner having failed in his appeal, this action of debt was brought against the bail. The declaration does not aver any recognisance, but alleges that Murray became bail as above set out, and then assigns for breach (rather imperfectly) that Warner did not prosecute his appeal with effect. To this the defendant pleaded nul tiel record; and on argument the plaintiff had judgment, and this is complained of.\nOf course the plea was technically irrelevant, for no record is averred. But it was not demurred to, and since it is admitted on the paper-books that there was a recognisance, we may treat the plea as raising a true issue. The declaration is as informal as the plea, but neither is it demurred to, and therefore its formal defects are cured. The parties have treated the case here, and in the Court below, as being on a recognisance, and have raised no question but the sufficiency of the condition, and that question we decide.\nWe pass by the inaccuracy in the condition requiring the party \u201c to appear to prosecute,\u201d for no objection is made on this account, and it is apparent that, in that connection, \u201cand,\u201d and not \u201cto,\u201d is the word intended. The bail is then bound that the defendant will \u201cappear and prosecute his appeal with effect,\u201d and this is sufficient even under the Act of 20th March, 1845. Eor though that Act requires the bail to be bound for the payment of the costs, yet this was intended to fix, not the form of the recognisance, but the duty of the bail in such cases. The recognisance, in proper form, would substantially bind the bail'that the appellant should appear at the next Court and- prosecute his appeal with effect, and on his failure therein, that the bail -would pay the costs. A short recognisance is not void for not setting out the consequences of the appellant\u2019s failure, or rather the terms on which the bail shall be relieved from the penalty of the recognisance.\nIn Ingham v. Tracy, 5 Watts 333, a recognisance just like this was sustained, and the duty of overlooking defects in its form clearly proved. True, that was under the Act of 1810, but that makes no difference; for there, as here, the whole duty of the bail, on the failure of the appeal, is left unexpressed, and the Act of 1845 does no more than change the duty of the bail as required by the old law. Moreover, this form of recognisance is fully sustained by the cases of the Burgess v. Jackson, 2 Pa. Rep. 431, and Moore v. McBride, Id. 148.\nThe cases cited by the plaintiff in error are not truly relevant. Adams v. Null, 5 W. & Ser. 363, relates only to the mode in which the appellee may object to a defective recognisance. Donley v. Brownlee, 7 State Rep. 109, declares that the peculiar conditions of the Act of 1842 cannot be implied in a recognisance like the present one; and therefore, a sei. fa. setting out those conditions, was not proved by such a short recognisance. Thomas v. Stuart, 2 Pa. Rep. 475, decides that a recognisance is void which requires too much of the bail. The other cases are entirely irrelevant.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lowrxe, J."
+      }
+    ],
+    "attorneys": [
+      "Bigham and Leslie, for plaintiff in error.",
+      "Marshall, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Murray versus Haslett.\nThe Act of 20fck March, 1845, requiring that the bail in eases of appeal from the judgments of justices of the peace shall be bail absolute in double the amount of costs in such cases, it was held, that a recognisance \u201c in the sum of $35, on condition that the defendant shall appear at the next Court of Common Pleas, to prosecute his appeal with effect,\u201d 'was sufficient under that Act.\nError to the Common Pleas of Allegheny \u25a0county.\nThis was an action of debt by Samuel Haslett v. Bertram Murray, on a recognisance of bail entered into before a justice of the peace in a suit by Haslett against \"Warner, in which the latter appealed, and Murray, in 1848, as his bail, became bound on a recognisance \u201c in the sum of $35, on condition that the defendant shall appear at the next Court of Common Pleas, to prosecute his appeal with effect.\u201d The declaration alleged the recognisance as above, and averred that Warner not having prosecuted his appeal with effect, but judgment having been rendered in the Court of Common Pleas against the said Warner, the defendant became liable to an action in the sum of $35.\nThe plea was nul tiel record, which, by request of counsel, was put on the argument list; \u2014 it- was overruled, and judgment entered for the plaintiff.\nThe 1st section of the Act of 20th March, 1845 (Acts 188), provides that, In lieu of the bail heretofore required by law, \u201c the bail, in cases of appeal from the judgments of aldermen and justices of the peace, and from the awards of arbitrators, shall be bail absolute in double the probable amount of costs accrued and likely to accrue in such cases, with one or more sufficient sureties, conditioned for the payment of all costs accrued, or that may be legally recovered, in such cases, against the appellants.\u201d\nError was assigned to the overruling of the plea of nul tiel record, and to the entry of judgment.\nBigham and Leslie, for plaintiff in error.\nIt was contended that the only question raised by the pleading was the sufficiency of the recognisance; that it was under the 5th section of the Act of 10th March, 1810, and not under the Act of 20th March, 1845, and was null and void.\nThe Act of March, 1810, required special bail that the defendant \u201c prosecute his appeal with effect.\u201d The bail, on the surrender of the principal, was discharged, and in case of not surrendering, had to pay to the plaintiff the debt and costs. This was materially modified by the non-imprisonment Act of July 12, 1842, and all those superseded by the Act of March 20, 1845, which required bail absolute for the payment of all costs that have or may accrue. The present recognisance, though taken in 1848, was under the Act of 1810, which, since 1842, ceased to be a law. The case of Adams v. Null, 5 W. & Ser. 363-4, was prior to the Act of 1845, and this Court there decided that a recognisance, in the form of the present one, was void. The case of Donley v. Brownlee, 7 Barr 109-10, is in point. The Court, on the reason of the case, as well as on the authority of Thomas v. Stuart, 2 Pa. Rep. 475, held a recognisance under the Act of 1810 to be void. In the case of Shuff v. Morgan, 7 Barr 125, the Court decided the same. Caldwell v. Brindle, 1 Jones 293, is to the same effect.\nMarshall, for defendant.\nThe only question raised by the pleadings in this ease, is the existence of the recognisance, as set forth in the declaration. If the recognisance was insufficient or void the proper way to raise that question was by a demurrer. But the defendant pleaded \u201cnultiel record,\u201d or, mother words, that there is no such record as averred in the declaration. The question of the insufficiency of the recognisance does not therefore arise. A party is confined in his exceptions to the issue before the Court below: 6 Watts 275, Maus v. Maus; 6 W. & Ser. 343, Drexel v. Man; 2 Barr 204; 5 Barr 211, Rank v. Rank; 2 Barr 256, Farr v. Swann.\nOctober 11,"
+  },
+  "file_name": "0356-01",
+  "first_page_order": 358,
+  "last_page_order": 361
+}

@@ -1,0 +1,133 @@
+{
+  "id": 954601,
+  "name": "In re Eell's Estate",
+  "name_abbreviation": "In re Eell's Estate",
+  "decision_date": "1847-10-05",
+  "docket_number": "",
+  "first_page": "457",
+  "last_page": "459",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Pa. 457"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Rawle, 213",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824634
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0213-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 158",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850989
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0158-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 333",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Watts & Serg. 184",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0184-01"
+      ]
+    },
+    {
+      "cite": "8 Watts & Serg. 55",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483386
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0055-01"
+      ]
+    },
+    {
+      "cite": "16 Serg. & Rawle, 193",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1816693
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/16/0193-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 345,
+    "char_count": 5617,
+    "ocr_confidence": 0.419,
+    "pagerank": {
+      "raw": 1.0159206802945199e-07,
+      "percentile": 0.5434247324844035
+    },
+    "sha256": "ba3e45e34cbe63dcb0e03fee8dea0901a6d72a60b527ca86a36f357486adb24b",
+    "simhash": "1:72e473167e5ba14c",
+    "word_count": 994
+  },
+  "last_updated": "2024-02-27T19:46:05.543167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Eell\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Gibson, C. J.\nAll the provisions in our acts of Assembly which have given the Orphans\u2019 Court jurisdiction in partition, are adapted to the simple case of an intestacy, where an estate is not held jointly or in common with the intestate by a stranger; or a several and adverse estate, by any of the children; and it is evident that the jurisdiction of the Common Pleas was not intended to be taken away in any other. In Feather v. Strohoecker, 3 Penna. Rep. 505, an estate held by the father in common was determined not to be partable among the children before it was parted from the estate of the co-tenant, either by the act of the parties or by an action at law. Where, however, one of the children disclaims to hold, jointly, or in common with the rest, a difficulty arises which the power of the Orphans\u2019 Court is inadequate to remove. . The question of tenure, which lies at the bottom of the whole proceeding,'cannot be tried in an action of ejectment; and to award an issue, merely to advise the conscience of the Court as to the fact, would be no better, as the verdict might be set aside or disregarded. But the tenure which is the very basis of every partition, must be established by judicial decision; and as the Common Pleas alone is competent to establish it, it is evident that it retained its jurisdiction in cases like the present, and that the Orphans\u2019 Court did not acquire it. But if there was a doubt before, it has been removed by the act of 1846, which has restored the jurisdiction of the Common Pleas in all cases. What we have to do is to send the parties into that court to try the preliminary question on the plea of non insimul tenent; and when that is done, the same court can make partition as beneficially under our statutes as a court of equity could do. If, however, the plaintiffs are actually out of possession of the part claimed by the defendants, they must first regain it by a recovery in ejectment; else they would be unable to maintain the issue. But the present proceeding cannot be sustained.\nDecree reversed, and petition dismissed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Derrickson and Riddell, for appellants.",
+      "Farrelly, contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re Eell\u2019s Estate.\nThe Orphans\u2019 Court cannot decree partition where one of the heirs claims to hold one of the purparts of the land in severalty. Audit is immaterial that he assented to the partition before the inquest, if he objected before the confirmation of the proceedings in partition.\nSept. 28. Appeals by Edward and Daniel Eells, .two of the children of Daniel Eells, deceased, from the decree of the Orphans\u2019 Court of Crawford county, confirming the proceedings in partition of their deceased father\u2019s real estate. It appeared, that the widow of Daniel Eells, deceased, petitioned the Orphans\u2019 Court for a partition of the real estate of her deceased husband; setting forth in her petition that he died intestate, and seised of two hundred and fifty acres, and also of fifty acres of land; and that he left six children. The inquest divided the two hundred and fifty acres into six purparts, and returned the fifty acres as the seventh purpart. Daniel, one of the heirs, on an application for confirmation of the inquisition, claimed to hold the fifty acres, or seventh purpart, in his own right as purchaser. Edward, another of the heirs, also claimed to bold tbe land included in one of tbe six purparts, by parol gift from bis father. Daniel and Edward lived on the pieces of land claimed by them, respectively, clearing, improving, and cultivating them, for some time previously to the death of their father, and continued to live thereon, at the time of holding the inquisition. They both gave some evidence of their title. The petitioner gave evidence that Daniel Eells, her deceased husband, had purchased the property; and it was. proved that Daniel and Edward were present at the holding of the inquest, and that Daniel assented to the fifty acres being included in the inquisition by the jury. The court confirmed the partition; and thereupon Daniel and Edward took these appeals.\nDerrickson and Riddell, for appellants.\nOn a hearing of the proceedings in partition, it was alleged there was not a holding together so as to give the Orphans\u2019 Court jurisdiction. One of the heirs claimed by purchase, and one by gift from the father. One tenant in common may be a witness for his co-tenant; Bennet v. Hethington, 16 Serg. & Rawle, 193. The court erred in confirming the proceedings in partition. They ought to have ordered an issue to try the right of Daniel Eells to the tram claimed by him; Williams v. Landman, 8 Watts & Serg. 55; McMasters v. Carothers, 1 Barr, 324; Law v. Patterson, 1 Watts & Serg. 184. The appellants were not bound to make objections to the sheriff\u2019s jury. They made their objections in the Orphans\u2019 Court, the proper tribunal, where the proceedings in partition were brought up for confirmation; Thomas v. Simpson, 8 Barr, 68.\nFarrelly, contra.\nDaniel Eells was present at the action of the jury of partition, and requested the tract claimed by him to be thrown in with the rest of his father\u2019s estate, and thus made his election, whether he would consider it as an advancement, or have it thrown in; Purd. 600. The tract claimed by Daniel can only be considered as an advancement by his father; Sampson v. Sampson et al., 4 Serg. & Rawle, 333; Phillips v. Gregg, 10 Watts, 158. The question of advancement ought to be decided by the Orphans\u2019 Court; Earnest et al. v. Earnest et al., 5 Rawle, 213. There is no testimony to show that Edward Eells had any title to the land claimed by him. No application was made by him to the Orphans\u2019 Court for an issue to try his right to the land.\nOct. 5."
+  },
+  "file_name": "0457-01",
+  "first_page_order": 457,
+  "last_page_order": 459
+}

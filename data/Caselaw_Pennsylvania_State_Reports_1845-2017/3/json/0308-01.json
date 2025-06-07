@@ -1,0 +1,171 @@
+{
+  "id": 400605,
+  "name": "Fertig et al. v. Bucher",
+  "name_abbreviation": "Fertig v. Bucher",
+  "decision_date": "1846-07-03",
+  "docket_number": "",
+  "first_page": "308",
+  "last_page": "311",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pa. 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Leigh, 157",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6725428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/29/0288-01"
+      ]
+    },
+    {
+      "cite": "7 Pick. 91",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2056657
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/24/0095-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 591",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2036094
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/17/0478-01"
+      ]
+    },
+    {
+      "cite": "2 Pick. 24",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2049709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/19/0027-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 21",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842772
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0021-01"
+      ]
+    },
+    {
+      "cite": "10 Mass. Rep. 442",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2026970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/10/0437-01"
+      ]
+    },
+    {
+      "cite": "14 Serg. & Rawle, 405",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8879199
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/14/0405-01"
+      ]
+    },
+    {
+      "cite": "8 Watts, 448",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848412
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0448-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 22",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 492,
+    "char_count": 9757,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 2.5467462935587846e-07,
+      "percentile": 0.8139538251071781
+    },
+    "sha256": "99b7048212d314371b2e2704ae8160aaf535473c6e9238a76a40816c9eb9f7d6",
+    "simhash": "1:bf99275aefc084a3",
+    "word_count": 1777
+  },
+  "last_updated": "2024-02-27T21:57:14.601632+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fertig et al. v. Bucher."
+    ],
+    "opinions": [
+      {
+        "text": "Sergeant, J.\nIt would certainly make a great difference to the defendant whether he was bound in company with eleven others in this bond of indemnity, or with a less number. In the one case,- his loss, if the parties continued solvent, could not exceed, according to the condition of this bond, one sixteenth of the whole; in the other case,' it would, unnecessarily, be more. \u25a0\nIf the defendant, in executing the bond, expressly stipulated- that it should not be delivered up until twelve names were obtained, and the plaintiff\u2019s agent so provided; the bond was in his hands but in the nature of an escrow, and if the condition was not performed, it was never legally delivered, and so was never the defendant\u2019s deed.\nThis is a stronger case than that of Sharp v. United States, 4 Watts, 22, when it was held that a bond containing in its body two names as sureties, was not binding on one who signed it, unless it were shown that he dispensed with the execution of it by the other. It was to be deeme\u00e1 conditional. Here the condition is proved to have been expressly stipulated; and we see nothing in the evidence that shows the defendant subsequently dispensed with the condition. - Judgment affirmed.",
+        "type": "majority",
+        "author": "Sergeant, J."
+      }
+    ],
+    "attorneys": [
+      "Boas, for plaintiff in error.",
+      "McCormick, contr\u00e0."
+    ],
+    "corrections": "",
+    "head_matter": "Fertig et al. v. Bucher.\nIf a party in executing a bond expressly stipulates, that it shall not be delivered up until twelve names are obtained to it, and the agent of the other party so promises; the bond is in the hands of the agent, but in the nature of an escrow, and until the condition be performed, it cannot be legally delivered, and so cannot be the deed of the party making the stipulation.\nError, to Common Pleas'of Dauphin county.\nJuly 1. This was an action of debt on a bond of indemnity brought by Peter Fertig, Martin Hocker, John Stahl, and Lewis Williams, the plaintiffs in error, who were plaintiffs below, against John C. Bucher, who was jointly and severally bound with Simon Sallade, Christian F. Haenlen, John B. Thompson, Jacob Baab, and Benjamin Stees, as obligors in said bond. It appeared that William Cochran was elected sheriff of Dauphin county in the fall of 1836 ; and that the plaintiffs, on the I9th of October of that year, entered into a recognisance, and gave the requisite bond as his sureties. On the same day, but previously to executing the recognisance and bond, the plaintiffs required to be indemnified; when William D. Boas and Thomas J. Rehrer took a list of twelve names and proceeded to call upon the persons whose names were on the list, for the purpose of getting them to execute a bond of indemnity. Bucher\u2019s name was first on the list, and they first called on him at his store. After telling him of the difficulty under which the sheriff elect laboured in getting bail, they informed him, that three or four had agreed to go bail, provided ten or twelve others would go back bail, and with them bear the loss. Bucher, after looking at the list of names, and after considerable conversation, signed the bond; but cautioned them not to give it up, until they had all the names to it which were on the list. They promised that they would not give it up, until the names on the list had been obtained to it. Amongst the names on the list, were those of Dr. Reily and James Peacock. They also represented to Bucher, that John Stahl, one of the plaintiffs, was to be Cochran\u2019s deputy, and that there would be no danger. It appeared that Boas and Rehrer found difficulty in getting the names on the list, to the bond. Dr. Reily and James Peacock refused to sign it, when they became discouraged and gave it up; whereupon Boas threw the bond, into his desk, where it remained for many years. They had, however, obtained six names to it. Rehrer and Boas were examined as witnesses, and stated that they never said any thing to the plaintiffs in relation to the bond, or the names of the persons who had executed it. Boas stated, that the reason why he did not say any thing to the plaintiffs upon the subject was, because the business had all been concluded and bail given, before they had obtained the names which were then to the bond. The bond was given up by Boas to Stahl, in 1842. It appeared from the bond of indemnity which was given in evidence, that the persons who executed it bound themselves, their heirs, executors, &c., or any of them, to pay to. the plaintiffs, \u201cor either.of them, their heirs, executors, administrators and assigns, their and each of their first and fair proportion of all and any sum or sums of money which they the said Peter Fertig, Martin Hocker, John Stahl, and Lewis Williams, or either of them, may have to pay in consequence or by reason of their joining with and becoming the bail and sureties of. the said William Cochran, in the aforesaid official recognisance and bond; the said Peter Fertig, Martin Hocker, John Stahl, and Lewis Williams, always bearing their fair and just proportions of any loss, injury, or damage which may be incurred by the official misconduct of the said William Cochran, &c.\u201d \u25a0 It was admitted that the amount of liability incurred by the plaintiffs, as the sureties of William Cochran, was $691 21, with interest from the time they paid the same; and they claimed of Bucher, the defendant in this suit, his proportionate part of this sum under the bond of indemnity. His honour, Judge Eldred, after stating the facts, charged the jury as follows :\n\u25a0 \u201cThe defendant alleges, that it is not his bond, and that he is not bound to pay. That it was executed under a promise that it should not be delivered unless the whole twelve names were obtained, that they might be equally liable with him; and that this not having been done, the bond was not perfect, and that it never was delivered. And if it had been, it was in direct violation of the agreement of Boas and Rehrer, who must be regarded as the agents of the plaintiff.\n\u201cThe plaintiff, on the exhibition of the bond, is prima facie entitled to recover. But the court instruct the jury that if the testimony of Boas and Rehrer is to be relied on, and that is a question for them to decide, the plaintiffs are not entitled to recover. The condition on which Judge Bucher executed the bond has never been complied with. The twelve names were not obtained, and it was agreed that the bond should not be delivered unless they were. A man may well agree to sign a bond of this nature with the names of twelve responsible persons, when he would not do it with a less number. If this bond is good now against Bucher, it would be good with but one responsible name. It may be,a hardship on the plaintiffs; but it does not appear that Bucher asked them to go security for Sheriff Cochran. In fact it does not appear that the plaintiffs went bail in consideration of this bond, signed as it is; for Mr. Boas says that before they procured the names to the bond now to it, they (the plaintiffs) had entered into the security. At any rate, J. C. Bucher executed the bond on the express condition that it should not be delivered until the twelve names contained on the list were put to it; which was not done.\u201d\nTo this charge, the plaintiffs excepted; and the jury having returned a verdict in favour of the defendant, they took this writ of error.\nThe instruction of the court to the jury was assigned for error here.\nBoas, for plaintiff in error.\nTaking judgment from one of four joint and several obligors does not affect the responsibility of the others. In this case, however, but one was sued. \u201c The. obligee has a right to treat-'it either as the joint or single bond of each at his pleasure.\u201d Kennedy, 8 Watts, 448.\nStriking out the .name of one of four sureties in a bond by the principal, executed as a joint bond, does not avoid it. 14 Serg. & Rawle, 405. The rest of the sureties are still bound. 8 Watts, 448.\nThough a bond be written, as if to be executed by two or more joint and several obligors, and is executed by part only, yet it is valid against those who execute it. Cutler v. Whitmore, 10 Mass. Rep. 442.\nA bond executed by nine persons as obligors, upon certain terms and conditions, and subsequently delivered by five of the obligors, without the knowledge or consent of the remaining four, upon terms and conditions different from those originally stipulated, is not obligatory upon the latter, Lovett v. Adams, 3 Wendel, 380.\nWhere a party to any instrument seals it, and. declares, in the presence of a witness, that he delivered it as his deed, &c., he is bound by it. 12 Eng. Com. Law Rep. 351.\nLeaving off a signature of a bond does not avoid it. 16 Eng. Com. Law Rep. 146. '\nMcCormick, contr\u00e0.\nA bond signed by one surety, which contained in the body of it the names of two, is not recoverable against the one that signed it; unless it be proved that he dispensed with the execution of it by the other. Sharp v. United States, 4 Watts, 21.\nWhere a bond is executed by the sureties, and not by the party named as principal, it does not bind the oth\u00e9r sureties. Barrington v. Bank of Washington, 14 Serg. & Rawle, 405; 1 United States Dig. 433, pi. 7, 14, 24, 29; 2 Pick. 24; 17 Mass. 591.\nA bond executed by nine persons on certain conditions, and after-wards delivered by five of them without the knowledge or .consent of the other four, does not bind the latter. 3' Wend. 380.\nWhere a bond is not delivered to the obligee, but put into his hands by one having no authority to deliver it, the obligee cannot maintain an action on it. 7 Pick. 91. -\nWhere B. executes a bond as surety for A. and delivers it as an escrow, on condition that C. shall execute it as co-surety, and C. executes and delivers it, on condition that D. shall also join therein as co-surety, but D. does not unite in the bond, neither B. nor C. is liable in law or equity. 2 Leigh, 157.\nJuly 3."
+  },
+  "file_name": "0308-01",
+  "first_page_order": 306,
+  "last_page_order": 309
+}

@@ -1,0 +1,78 @@
+{
+  "id": 408832,
+  "name": "Young versus Chambers",
+  "name_abbreviation": "Young v. Chambers",
+  "decision_date": "1851-03-01",
+  "docket_number": "",
+  "first_page": "266",
+  "last_page": "268",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Pa. 266"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wh. 277",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830465
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/2/0277-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 277,
+    "char_count": 4756,
+    "ocr_confidence": 0.432,
+    "pagerank": {
+      "raw": 5.7178559455693396e-08,
+      "percentile": 0.3586990979010745
+    },
+    "sha256": "96390ce3e67e83fb3534b051217151a7426937edd55587dc709e037b1bef1ec2",
+    "simhash": "1:0cd20e941e778d6c",
+    "word_count": 796
+  },
+  "last_updated": "2024-02-27T21:30:18.426322+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Young versus Chambers."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, C. J.\nThe claim first filed, embracing as it did the block of houses on Carlton street, as well as the block on Callow-hill street, was not sustained by any statute or precedent construction ; and the claimant might file a second time, as if it had not existed. The principle ruled in Pennock v. Hoover, that a joint lien might be filed against adjoining houses put up together, because it might not be in the power of the claimant to discriminate, was the basis of the thirteenth section of the act of 1836, which sanctioned it, and provided for carrying it out by an apportionment of the general charge. The word \u201c building\u201d used in every act upon the subject, was strictly applicable to a block, which, though composed of separate houses, was put up as a whole; but it could not be predicated of separate blocks in different streets, which could, in no aspect, be viewed as entire. As a charge for labor or materials furnished to the builder of a particular block, could not be apportioned with certainty and convenience in the first instance, necessity required it to be joint; but it is easy to discriminate between separate blocks, in regard to which no such necessity can exist. A joint claim against them would require an apportionment, in the first place, between the blocks themselves as integers, and, in the second, an apportionment respectively among the houses composing them\u2014a proceeding not warranted by the act of 1836. The claim first filed was consequently a nullity, and properly disposed of.\nBut the principle operates against the party in his other cause. As the joint claim against the two blocks was void, they c'ould not be jointly charged in the books; and the entries for materials, furnished without discrimination to both, were properly rejected. It is as easy to distinguish between separate blocks, as it is to distinguish between separate houses in different streets, which must be severally charged. As was ruled in McMullin v. Gilbert, 2 Wh. 277, a claimant\u2019s book of original entries is admissible to prove that the materials were furnished at and for the particular building which is the subject of the lien; but, as was ruled in Church v. Davis, 9 Waits 804, though the entries do not specify the building, that may be done by parol evidence; and had the entries been accompanied in this instance by an offer of such proof, it would have turned the scale: as they were not, they were properly excluded.\nJudgment in each case affirmed.",
+        "type": "majority",
+        "author": "Gibson, C. J."
+      }
+    ],
+    "attorneys": [
+      "The case was argued by Price, for Young and Randolph. Clarkson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Young versus Chambers.\nYoung and Randolph filed a claim against Chambers, owner, and Burtman and Hanna, contractors. It was a claim for lumber, jointly filed against eight houses on the south side of Callowhill street, Spring Garden, and apportioned against each house, and this scire facias was issued on the apportioned claim against one house.\nThe verdict and judgment below were for the plaintiffs below and plaintiffs above, but for a less amount than was claimed, by reason of the court ruling out part of plaintiffs\u2019 testimony.\nThe defendant, Chambers, owned a large lot on Callowhill street, running back to Carlton street, having fronts on each street; and on Callowhill street, he built eight houses, and on Carlton street, twelve houses, on the same width of ground, being the different fronts of the same lot.\nThe twenty buildings were erected under one contract between the said owner and the contractors, Burtman & Hanna, for an entire sum of $11,000.\nThe plaintiffs furnished lumber to these' contractors, designating in each book-entry, the houses for which it called, \u201c Callowhill street houses,\u201d \u201cCarlton street houses,\u201d and \u201cCallowhill and Carlton street houses.\u201d The amount separately charged to the Callowhill street houses was |258.90, as to which the hook of original entries was admitted, and the jury gave the plaintiffs a verdict for one-eighth of that sum with interest. The amount jointly charged by plaintiffs to \u201cCallowhill and Carlton street houses\u201d was $492.11, of which the plaintiffs claimed one-eighth of a half against the house in question on Callowhill street, and offered the book of original entries to sustain that claim, and the written contract made between the said owner and contractors, which were rejected by the court; and these decisions were the grounds of exception.\nIt was assigned for error:\n1st.. That the court rejected the plaintiffs\u2019 book of original entries as to joint charges against Callowhill and Carlton street houses.\n2d. That the court rejected the contract for building together, for one sum, all the houses on the same lot on both streets, between the said owner and contractors.\nThe case was argued by Price, for Young and Randolph. Clarkson, contra.\nMarch 1, 1851,"
+  },
+  "file_name": "0266-01",
+  "first_page_order": 266,
+  "last_page_order": 268
+}

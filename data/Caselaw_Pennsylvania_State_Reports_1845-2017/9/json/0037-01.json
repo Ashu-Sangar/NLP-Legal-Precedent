@@ -1,0 +1,85 @@
+{
+  "id": 960613,
+  "name": "Bradford v. Potts",
+  "name_abbreviation": "Bradford v. Potts",
+  "decision_date": "1848-07-14",
+  "docket_number": "",
+  "first_page": "37",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "9 Pa. 37"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Penn. 447",
+      "category": "reporters:state",
+      "reporter": "Penn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 W. & S. 51",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478915
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0051-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 165,
+    "char_count": 2084,
+    "ocr_confidence": 0.405,
+    "pagerank": {
+      "raw": 1.339805076457032e-07,
+      "percentile": 0.6309010679773223
+    },
+    "sha256": "8b2efc03249276d724ac9278575defb180150a5d18e17b451fabb6a2336d7170",
+    "simhash": "1:6de850ad9d5a97cf",
+    "word_count": 372
+  },
+  "last_updated": "2024-02-27T17:36:44.751699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradford v. Potts."
+    ],
+    "opinions": [
+      {
+        "text": "Burnside, J.\nIt lay on\u2019the defendant in this action to show that the title he had accepted was positively bad, and that there was a superior and indisputable title in another person, asserting such title : 5 W. & S. 51. The action was not on a contract, but a scire facias on the mortgage to compel the payment of the balance of the piu\u2019chase-money. On a contract executed, even to show the title doubtful, would not avail the defendant: W. 57. Here there was no covenant broken. The plaintiff in error accepted the title, and took his warranty with full knowledge of the alleged adverse title. He shall not detain the purchase-money when his possession has not been disturbed: Lighty v. Shorb, 3 Penn. 447.\nNeither the bills of exception to evidence, nor the errors assigned to the charge, have any foundation in law to support them.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Burnside, J."
+      }
+    ],
+    "attorneys": [
+      "Case, for plaintiff in error.",
+      "Williston. and Overton, control."
+    ],
+    "corrections": "",
+    "head_matter": "Bradford v. Potts.\nWhere a purchaser has notice of an outstanding claim of title, and takes a deed with general warranty, he cannot set up that title as a defence to an action on a mortgage for the purchase-money, when his possession has not been disturbed: nor is it material that he was misled as to the nature of the adverse title by a statement of the vendor\u2019s agent.\nIn error from the Common Pleas of Bradford.\nJuly 14.\nThis was a scire facias on a mortgage by Bradford to Potts, to secure the purchase-money of land conveyed by Potts to Bradford, with a general warranty. The defence taken was an outstanding title in one Lewis; but it appeared that when Bradford was about purchasing, he was informed by Lewis that he had a claim to the land. It also appeared that the agent of Potts had said to Bradford that he supposed this to refer to a claim of title in one Wilson, and that he did not think it amounted to anything. The court (Conyngham, P. J.) instructed the jury this was immaterial, since Lewis had not restricted or specified the nature of his claim, and that the purchaser must look to his covenant, should he be ejected under Lewis\u2019s title.\nCase, for plaintiff in error.\nWilliston. and Overton, control."
+  },
+  "file_name": "0037-01",
+  "first_page_order": 37,
+  "last_page_order": 37
+}

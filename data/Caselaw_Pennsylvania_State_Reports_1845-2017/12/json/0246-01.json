@@ -1,0 +1,79 @@
+{
+  "id": 963798,
+  "name": "Altman v. Altman",
+  "name_abbreviation": "Altman v. Altman",
+  "decision_date": "1849-09",
+  "docket_number": "",
+  "first_page": "246",
+  "last_page": "247",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Pa. 246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Cow. 138",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0138-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 261,
+    "char_count": 4313,
+    "ocr_confidence": 0.407,
+    "pagerank": {
+      "raw": 7.796484210511942e-08,
+      "percentile": 0.4569942108593976
+    },
+    "sha256": "8348b2a829f9434681537e4d177b4658daf648f98d05473a3a3a4af5d567d922",
+    "simhash": "1:f8e1a2ef8697f6b5",
+    "word_count": 778
+  },
+  "last_updated": "2024-02-27T22:15:10.893585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Altman v. Altman."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment is affirmed, for the reasons given by the Judge below.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Foster, for the plaintiff in error,",
+      "Cowan, contr\u00e1."
+    ],
+    "corrections": "",
+    "head_matter": "Altman v. Altman.\nProceedings in ejectment will be stayed, until the costs of a former ejectment are paid, where the present plaintiff was one of the defendants in the former suit.\nIn error from the Common Pleas of Westmoreland.\nThe plaintiff brought an ejectment, and a rule was taken by the defendant to stay proceedings until the costs of an action tried at August T., 1842, were paid.\nThat action was brought by the present defendant against the present plaintiff and two others, and there was a verdict and judgment for the plaintiff.\nThe Court (Knox, P. J.) made the rule absolute, saying:\n\u201c The practice of staying proceedings until the costs of a former suit are paid, is of English origin, and was originally confined to the actions of ejectment, and the reason of the rule is said to be to prevent vexatious proceedings. In its early history it was not only confined to the actions of ejectment, but it applied only where the parties were in the same situation, viz. the same plaintiff and defendant in both suits. Thus it is said in Tidd\u2019s Pr. 154, 'If the second ejectment is brought by the defendant after a recovery by the plaintiff, the Court will not make a rule for staying proceedings until the costs are paid of the former ejectment.\u2019 And in 2 Cromp. Pr. 464, the same distinction is taken: \u00a3Nor will they,\u2019 says he, \u2018 grant such rule for plaintiff when a defendant against whom a verdict in the former action was had, brings a new ejectment himself.\u2019\n\u201cWere these distinctions still recognised, they would govern this case, and we should be compelled to discharge the rule; but the fact is otherwise. The rule has been greatly enlarged, both in this Country and England, and although it is a matter not of right but of discretion, it applies to all causes of action indiscriminately, and the relative situation of the parties makes ho difference. Thus it is said in 2 Step. N. P. 1456 : \u2018Proceedings will be stayed when the costs of a prior ejectment upon the same title or between the same parties are left unpaid, and the change of the situation in the parties is immaterial,\u2019 for which he cites Williams v. Haldtfort, 6 T. R. 223; and in Pritchard v. Roe, 4 East, 585, the Court ordered the proceedings in a second ejectment to be stayed until the costs of an action for mesne profits where the lessor in the second ejectment had been the defendant, in the first were paid, as well as the costs of the first ejectment. And in Jackson v. Edwards, 1 Cow. 138, where A. brought ejectment against B., who held as tenant of others, and had judgment, and turned B. out of possession, after which the landlord of B., together with another claimant, brought ejectment for the same premises against A., proceedings were ordered to stay till A.\u2019s costs of the first suit should be paid.\n\u201c Indeed it would be difficult to find a reason for the distinction first made in the English Courts. In either case the parties have had their day in Court, and the same restraints, and no more, should be thrown upon a losing plaintiff, as a losing defendant. If the plaintiff is unsuccessful in the first case, and wishes to try his hand the second time, he is compelled to pay the defendant his costs of his first effort. Why should not the defendant, if he is unsuccessful in resisting the plaintiff\u2019s claim in one trial, pay costs before he has another chance ? There is no reason for' the difference, and as is said by Mr. Justice Couecer, in the case of Fleming v. Pennsylvania Insurance Company, 4 Barr, 475: \u2018 The practice of the Courts to stay proceedings in a second suit until the costs of a former action for the same cause are paid, is one of the modes adopted to compel the payment of the costs due as well to the officers of the Court as to the party, and is convenient and just in all aspects in which it can be viewed.\u2019\n\u201cLet the rule be made absolute.\u201d\nFoster, for the plaintiff in error,\ncontended that the Courts will only stay proceedings in a second action of ejectment until the costs of a prior one are paid, in cases where the plaintiff in the second action was the plaintiff in the first; and as the plaintiff in this case was a defendant in the first, the Court erred in arresting the trial.\nCowan, contr\u00e1."
+  },
+  "file_name": "0246-01",
+  "first_page_order": 246,
+  "last_page_order": 247
+}

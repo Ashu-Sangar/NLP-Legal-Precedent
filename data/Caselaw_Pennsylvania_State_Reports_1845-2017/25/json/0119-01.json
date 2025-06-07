@@ -1,0 +1,66 @@
+{
+  "id": 975787,
+  "name": "Morgan versus Weir",
+  "name_abbreviation": "Morgan v. Weir",
+  "decision_date": "1855",
+  "docket_number": "",
+  "first_page": "119",
+  "last_page": "120",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "25 Pa. 119"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 164,
+    "char_count": 2175,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 8.521863639353466e-08,
+      "percentile": 0.4871525328310647
+    },
+    "sha256": "fc3b7aabef71c363d03bef0550d9dec2d77a7ce7d89c1cfba2b6b723a3fae8f6",
+    "simhash": "1:1ea1c4a5ae28eccd",
+    "word_count": 394
+  },
+  "last_updated": "2023-07-14T18:53:06.435062+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morgan versus Weir."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered by\nLewis, J.\nIt may be that, where a bond is given as collateral security for the payment of a negotiable promissory note, \u201c to whoever maybe the holder\u201d of it, no defence\u2019can be made against the bond which could not be made against the note in the hands of the holder. The Court below, in expressing a different opinion, may have fallen into an error; but we should fall into a greater one, if we reversed the judgment without seeing that the error was material, and injured the plaintiff in error. We cannot reverse for an error in an immaterial matter. We have no way to guard against such a mockery of justice, but by requiring the party complaining to show, not only that an error has been committed, but that he has been injured by it. We do not see how this can be done, without spreading the evidence before us, duly authenticated by the Court below. If the case is not worth this trouble, it is not worth while to take a writ of error at all.\nSo far as we can form a conjecture respecting the defence relied on, it was as available against the note in the hands of the holder as against the bond. If so, the error of the Court did the plaintiff in error no harm. If, under our duty to presume everything in favour of the judgment, we have been mistaken in regard to the nature of the defence, the consequences of the mistake have fallen where they belong. We are also asked to reverse this judgment because the Court told the jury that, \u201c if they believed the testimony of Oassiday, the plaintiffs cannot recover.\u201d And the testimony of Cassiday, on which the whole question depends, is not furnished to us in the paper-book of the plaintiff in error. We do not understand how his counsel preserves the gravity of his countenance while preferring such a request.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Lewis, J."
+      }
+    ],
+    "attorneys": [
+      "Rogers and Burke, for plaintiff in error.",
+      "Penney and Sterrett, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Morgan versus Weir.\nThis Court will not reverse a judgment for error in an immaterial matter, and the party complaining must show, not only that an error has been committed, but that he has been injured by it.\nError to the District Gourt of Allegheny county.\nRogers and Burke, for plaintiff in error.\nPenney and Sterrett, for defendant in error."
+  },
+  "file_name": "0119-01",
+  "first_page_order": 119,
+  "last_page_order": 120
+}

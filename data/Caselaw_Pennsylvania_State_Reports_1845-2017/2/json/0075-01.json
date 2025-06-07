@@ -1,0 +1,66 @@
+{
+  "id": 951145,
+  "name": "Dunn's Executors v. The American Philosophical Society",
+  "name_abbreviation": "Dunn's Executors v. American Philosophical Society",
+  "decision_date": "1845-12",
+  "docket_number": "",
+  "first_page": "75",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Pa. 75"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 101,
+    "char_count": 1003,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 2.4509515043767545e-07,
+      "percentile": 0.8040507380932247
+    },
+    "sha256": "998151314120949156976de2d5db45ec4cce5b7831880e646782143ab2067f0a",
+    "simhash": "1:8598d91589171fb4",
+    "word_count": 172
+  },
+  "last_updated": "2023-07-14T15:58:43.702579+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dunn\u2019s Executors v. The American Philosophical Society."
+    ],
+    "opinions": [
+      {
+        "text": "Rogers, J.\n\u2014 It is at least doubtful whether the legacy will be reached, and the court should not interfere except in a perfectly clear case. Rule refused.",
+        "type": "majority",
+        "author": "Rogers, J."
+      }
+    ],
+    "attorneys": [
+      "Wharton and Kane",
+      "Meredith, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Dunn\u2019s Executors v. The American Philosophical Society.\nThe court will not interfere, to stay execution by executors against legatee, but where it is clear the estate is sufficient to pay the legacy.\nDec. 13. N. Dunn, being a creditor of the society, bequeathed them a legacy, payable in the event of his estate proving sufficient to pay prior legacies.\nHis executors having issued execution on their judgment, a motion, for a rule to show cause why the judgment should not be opened and execution set aside, was made. The execution having been stayed on affidavit during vacation, according to the practice in this court, the defendants were heard as if the motion was now made.\nWharton and Kane\nargued the bequest was a release, or at least a set-off, and that they should be permitted to show the legacy would be paid.\nMeredith, for plaintiff."
+  },
+  "file_name": "0075-01",
+  "first_page_order": 75,
+  "last_page_order": 75
+}

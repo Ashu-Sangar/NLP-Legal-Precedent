@@ -1,0 +1,79 @@
+{
+  "id": 969151,
+  "name": "Hilltown Road",
+  "name_abbreviation": "Hilltown Road",
+  "decision_date": "1852-04-12",
+  "docket_number": "",
+  "first_page": "233",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 Pa. 233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Rawle 150",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824599
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0150-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 256,
+    "char_count": 4129,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 5.28050917094855e-07,
+      "percentile": 0.9419601297218486
+    },
+    "sha256": "341c4b5483514cf29c0ed00833349ce84c2c05ed9fa997a68eaf203be84a6e0c",
+    "simhash": "1:3ad4e4c0838a6db3",
+    "word_count": 733
+  },
+  "last_updated": "2024-02-27T18:34:08.029307+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hilltown Road."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the Court was delivered, by\nBlack, C. J.\nThe objection to the opening of this road is, that one of the viewers was a brother-in-law of one of the petitioners. Such an objection must be made at the earliest moment, when by the exertion of common diligence and observation the fact might have' been discovered. Here the excepting party suffered the view to be had and the report to be made. The report was re-committed to the viewers for the correction of certain errors. The errors were corrected, and it was not until the amended report was returned and about to be confirmed, that this relationship was suggested. It was too late. A man cannot reserve such an objection while he awaits the chances of a favorable report, and use it after he finds the report against him.\nA report may properly be referred back to the viewers for such correction as it needs, at any time before final confirmation.\nThe certiorari in this case is called an appeal, and the order of the Quarter Sessions a decree. We are not critical. But words are things, and those who use them improperly, sometimes mislead themselves as well as others.\nOrder affirmed.",
+        "type": "majority",
+        "author": "Black, C. J."
+      }
+    ],
+    "attorneys": [
+      "Lear, for the exceptor.",
+      "Du Lois, contrit."
+    ],
+    "corrections": "",
+    "head_matter": "Hilltown Road.\n1. An objection that a viewer was related, as brother-in-law, to one of the petitioners for the road in question, must be made as soon as by the exertion of common diligence and observation the fact might have been discovered. As the party suffered the view to be had and report to be made, it was too late to make such exception after the report, upon other exceptions filed to it, had been recommitted to the viewers for correction and another report m\u00e1de.\n2. A report as to the laying out of a road may, properly, be referred back to the viewers at any time before final confirmation.\nCertiorari to the Quarter Sessions of Bucks county.\nA petition was presented to the Quarter Sessions of Bucks county, for the appointment of viewers to lay out a road, commencing in the middle of the new Bethlehem road in Hilltown township, in said county, and terminating in a public road leading to Thomas\u2019s tan-yard. Viewers were appointed, and on the 4th February, 1850, a report in favor of a road, signed by five of the viewers, was presented. On 30th April, 1850, the report was approved, and the road ordered to be opened thirty-three feet in width.\nOn the 16th July, 1850, exceptions ,to the report were filed, viz.: 1. The report does not show that the viewers were severally sworn or affirmed before they viewed the route of the road. 2. That it did not appear by the report in what county the road is.\nOn 11th September, 1850, the' report was recommitted to the viewers for correction. The five viewers made an amended report in favor of a road on the same route. The report was filed September 17, 1850. No order having been made in relation to it, on 2d December, 1850 another exception was filed, viz., That Isaac Stout, one of the viewers, is related to Jacob Harr, one of the petitioners for the road, they being brothers-in-law.\nEvidence was taken as to this last exception, and it was testified that the said relationship existed, but that Jacob Harr did not own any land on the road; that he resided about a mile and a half from the road in question, in Rockhill township.\nOn 2d May, 1851, the exceptions were dismissed.\nIt was assigned for error: 1. The Court erred in re-committing the report to the viewers for correction, after the term of the Court had intervened. 2. In dismissing the exception, filed on the 2d December, 1850, as to the relationship.\nLear, for the exceptor.\nDu Lois, contrit.\nHe contended, inter alia, that the exception as. to the relationship was too late after the first term succeeding the report. That the viewers had no further power over the proceedings after re-commitment, than to correct the error committed in their proceedings. That Jacob Harr had no such interest in the road as to disqualify his brother-in-law from acting as a viewer; that he had no special interest in it. Reference was made in his argument, to 5 Rawle 150, Plymouth road case; 3 Harris 414, Pott\u2019s Appeal; Id. 397, Frits\u2019 Appeal.\nApril 12, 1852,"
+  },
+  "file_name": "0233-01",
+  "first_page_order": 233,
+  "last_page_order": 234
+}
